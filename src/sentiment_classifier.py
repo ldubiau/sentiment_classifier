@@ -9,7 +9,7 @@ from classifiers.scikit_opt import CrossValidatedSciKitClassifier
 from classifiers.svm.svm import CrossValidatedSVMClassifier
 from classifiers.turney import TurneyClassifier
 
-def main(nb=True, weka=None, megam=False, svmlight=False, sklearn=None, turney=False,n_folds=5, fold_size=100, fold_number = None, remove_stop_words=False, use_unigrams=False, use_unigrams_frequency=False, use_bigrams=False, use_all_bigrams = False, min_word_length=None, remove_duplicated_chars=False, process_negation=False, stem=False, transform_lower_case=False, remove_punctuation_marks=False, remove_accents=False, lemma=False, adjectives=False, allprepro=False):
+def main(nb=True, weka=None, megam=False, svmlight=False, sklearn=None, turney=False,n_folds=5, fold_size=100, fold_number = None, turney_corpus_size = 0, remove_stop_words=False, use_unigrams=False, use_unigrams_frequency=False, use_bigrams=False, use_all_bigrams = False, min_word_length=None, remove_duplicated_chars=False, process_negation=False, stem=False, transform_lower_case=False, remove_punctuation_marks=False, remove_accents=False, lemma=False, adjectives=False, allprepro=False):
     assert n_folds > 1
     
     if weka == 'maxent':
@@ -37,7 +37,7 @@ def main(nb=True, weka=None, megam=False, svmlight=False, sklearn=None, turney=F
         classifier = CrossValidatedNaiveBayesClassifier(n_folds, fold_size, fold_number, remove_stop_words, use_unigrams, use_unigrams_frequency, use_bigrams, use_all_bigrams, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro)
 
     elif turney:
-        classifier = TurneyClassifier(remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro)
+        classifier = TurneyClassifier(turney_corpus_size, remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro)
 
     classifier.classify()
 
@@ -52,9 +52,10 @@ if __name__ == '__main__':
     group.add_argument('-sklearn', help='classification using sci-kit learn API', type=str, choices=['maxent', 'svm', 'nb', 'tree'])
     group.add_argument('-turney', help='classification using Turney algorithm', action='store_true')
 
-    parser.add_argument('-f', help='number of folds', type=int, default=5)
-    parser.add_argument('-s', help='fold size', type=int)
-    parser.add_argument('-fn', help='fold number', type=int)
+    parser.add_argument('-f', help='number of folds for supervised algorithms', type=int, default=5)
+    parser.add_argument('-s', help='fold size for supervised algorithms', type=int)
+    parser.add_argument('-fn', help='fold number for supervised algorithms', type=int)
+    parser.add_argument('-cs', help='corpus size for unsupervised algorithms', type=int)
     parser.add_argument('-u', help='use top training unigrams feature extractor', action='store_true')
     parser.add_argument('-wf', help='use top training unigrams frequency feature extractor', action='store_true')
     parser.add_argument('-docbi', help='use document bigrams feature extractor', action='store_true')
@@ -74,7 +75,7 @@ if __name__ == '__main__':
     
     logger.info('Starting Sentiment Analysis Process. Params: ' + str(args))
     main(args.nb, args.weka, args.megam, args.svmlight, args.sklearn, args.turney,
-        args.f, args.s, args.fn, args.sw, args.u, args.wf, args.docbi, args.bi, 
+        args.f, args.s, args.fn, args.cs, args.sw, args.u, args.wf, args.docbi, args.bi, 
         args.wl, args.dc, args.neg, args.stem, args.lc, args.punct, args.acc,
         args.lemma, args.adj, args.allprepro)
 

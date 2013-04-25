@@ -9,26 +9,26 @@ from math import log
 
 class TurneyClassifier(Classifier):
     
-    def __init__(self, remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro):
+    def __init__(self, corpus_size, remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro):
         super(TurneyClassifier, self).__init__(remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro)
         self.freeling_processor = FreelingProcessor()
 
         self.pos_words = ['excelente', 'excelentes', 'bueno', 'buena', 'buenos', 'buenas', 'buenisimo', 'buenisima', 'buenisimos', 'buenisimas', 'rico', 'rica', 'ricos', 'ricas', 'espectacular', 'impecable']
         self.neg_words = ['malo', 'mala', 'mal', 'malos', 'malas', 'feo', 'fea', 'feos', 'feas', 'horrible', 'horribles', 'desastre', 'pesimo', 'pesima', 'pesimos', 'pesimas', 'mediocre', 'peor']
 
-        #self.pos_words = ['excelente', 'excelentes', 'bueno', 'buena', 'buenos', 'buenas', 'buenisimo', 'buenisima', 'buenisimos', 'buenisimas']
-        #self.neg_words = ['malo', 'mala', 'mal', 'malos', 'malas', 'feo', 'fea', 'feos', 'feas', 'horrible', 'horribles', 'desastre', 'pesimo', 'pesima', 'pesimos', 'pesimas']
         self.corpus = []
+        self.corpus_size = corpus_size
       
     def process_corpus(self):
         evaluation = Evaluation('pos', 'neg')
 
-        self.corpus = self.pos_comments[:11000] + self.neg_comments[:11000]
+        self.corpus = self.pos_comments[:self.corpus_size] + self.neg_comments[:self.corpus_size]
         self.pos_hits = self.hits(self.pos_words)
         self.neg_hits = self.hits(self.neg_words)
         
-        pos_test_corpus = self.pos_comments[:2200]
-        neg_test_corpus = self.neg_comments[:2200]
+        test_size = int(self.corpus_size*0.2)
+        pos_test_corpus = self.pos_comments[:test_size]
+        neg_test_corpus = self.neg_comments[:test_size]
 
         tagged_pos_test_corpus = self.tag_test_corpus(pos_test_corpus)
         tagged_neg_test_corpus = self.tag_test_corpus(neg_test_corpus)
