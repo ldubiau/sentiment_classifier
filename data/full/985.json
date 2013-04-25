@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "1 Jul 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "fusilier", 
+      "text": "Lo \u00fanico que se salva es la decoraci\u00f3n que no est\u00e1 mal. Lo peor: la atenci\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gladys263", 
+      "text": "Me pareci\u00f3 un lugar asombroso, realmente me sent\u00ed en Sevilla. La atenci\u00f3n muy buena y la picada que nos sirvieron tambi\u00e9n: original y sabrosa. A pesar que fuimos por un cup\u00f3n de descuento nos atendieron de maravillas. Altamente recomendable."
+    }, 
+    {
+      "date": "2 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "marita72", 
+      "text": "En un ambiente calido disfrutas de un buen show de flamenco. muy buena la atencion y la comida. buenos precios"
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gizahi", 
+      "text": "Cambiaron de due\u00f1os y de chef. Ahora el lugar esta muchisimo mejor, vale la pena ir. La comida es muy rica y los precios son accesibles. Se nota la diferencia y que le prestan atenci\u00f3n a la clientela. Tienen muy buen trato."
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "procedencia", 
+      "text": "conoc\u00ed este lugar de casualidad, porque fui a ver una banda. me gust\u00f3 la ambientaci\u00f3n, la m\u00fasica y la atenci\u00f3n."
+    }, 
+    {
+      "date": "1 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gerkijel", 
+      "text": "Caro. El lugar es especial para ver buen jazz, ya que programan ciclos del mejor jazz de Buenos Aires. Sin embargo, para comer es malo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Romeho", 
+      "text": "Fui de casualidad con mi novia. Habia un show de flamenco que resulto excelente y nos quedamos a cenar una picada para 2, super sabrosa y original. El lugar esta muy lindo y calido. Para volver!"
+    }, 
+    {
+      "date": "8 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marcelac1", 
+      "text": "Es un muy buen lugar, con un ambiete especial, una comida riquisima, y la musica crea un clima \u00edntimo y culto. Es altamente recomendable."
+    }, 
+    {
+      "date": "2 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "HUGSAL", 
+      "text": "Muy bueno todo, en especial la conjunci\u00f3n de m\u00fasica, comida y ambiente."
+    }, 
+    {
+      "date": "20 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "barby396", 
+      "text": "Me parece un lugar c\u00e1lido y por sobre todo que se come bien, tiene una ubicaci\u00f3n b\u00e1rbara."
+    }
+  ]
+}

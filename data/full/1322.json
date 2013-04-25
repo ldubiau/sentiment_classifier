@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "21 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gusre1", 
+      "text": "Buen pescado. Precios algo caros para el lugar. Hay que mejorar un poquito esta relaci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fenix", 
+      "text": "Excelente atenci\u00f3n. El ambiente es reservado y con excelente m\u00fasica. Ideal para iniciar una noche inolvidable."
+    }, 
+    {
+      "date": "21 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LaNanis", 
+      "text": "Excelente la comida y el servicio, muy personalizado. \r\nEl men\u00fa si bien es abreviado est\u00e1 muy bien elegido y hay diferentes opciones.\r\nSuper recomendable."
+    }, 
+    {
+      "date": "11 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Barbaro", 
+      "text": "Platos a precios m\u00e1s que razonables (Postres a $6, platos rondando los $20). \r\nEl restaurante transfiri\u00f3 su fondo de comercio, el chef es ahora Mart\u00edn Bustillo. La comida es excelente, pero las mesas est\u00e1n muy apretadas; Apenas caben 28 personas."
+    }, 
+    {
+      "date": "8 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "trifitaca", 
+      "text": "Excelente la comida, no as\u00ed la ambientacion."
+    }, 
+    {
+      "date": "6 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "virtus_i", 
+      "text": "Muy buena comida y buena atenci\u00f3n"
+    }
+  ]
+}

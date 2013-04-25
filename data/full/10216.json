@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "11 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "CatadorHonesto", 
+      "text": "Carne dura, seca y con nervios. Ambiente lleno de humo y de gente gritando"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Guido11", 
+      "text": "Es imposible vivir por la zona y no probar su sandwich de bondiola. Parrillero de experiencia, con esposa e hijo que atienden siempre en forma cordial. No esperen descubrir un para\u00edso, si un lugar sencillo para comer correctamente. Los precios, acordes a lo que cuesta la carne en todos lados."
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Napia", 
+      "text": "Parrilla de barrio atendida de forma correcta y cordial por sus due\u00f1os, la parrilla es muy buena, las papas fritas increibles, los precios en relacion a las porciones son buenos, no se cobra cubierto (x lo menos hasta ahora), el unico detalle es la ventilacion a veces hay demasiado humo."
+    }, 
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "shumi7", 
+      "text": "muy buena parrilla. comi sandwich de bondiola. un golazo realmente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarG", 
+      "text": "Muy rico todo, la provoleta es incre\u00edble, las porciones son abundantes, como para compartir. Muy buena carne y las fritas salen geniales.\r\nAparte tienen gaseosa de litro y medio!"
+    }, 
+    {
+      "date": "6 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aardid", 
+      "text": "Una parrilla de barrio, muy buena comida, pedimos bondiola, entra\u00f1a y chinchulines. Y acompa\u00f1amos con papas fritas a la provenzal. De tomar 2 Stella Artois ... eramos 4 ... Recomendable para ir con amigos o compa\u00f1eros a almorzar dias de semana."
+    }, 
+    {
+      "date": "6 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jmarroni1", 
+      "text": "Fuimos al mediodia, comimos chinculines, Entra\u00f1a, bondiola y todo muy bueno, soy habitue de su delivery, esta vez fuimos a probar la parrila directa. Recomendable algo caro para ser mediodia pero se come bien y las porciones son abundantes."
+    }
+  ]
+}

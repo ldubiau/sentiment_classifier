@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "2 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "jime_r", 
+      "text": "pedi matambrito con salsa de ciruelas y pure de manzana. mi comida y la de otro comensal estaba fria, tardaron tanto en calentarlo que para cuando llego los demas ya estaban terminando y al otro se lo trajeron aun despues. los mozos muy amables pero no sabian atender una mesa. la carta de vinos con pocas y malas opciones y encima usaron copas inadecuadas. la comida estaba regular, el matambrito insipido con la salsa por encima asi nomas. el budin de pan de regular a malo. es una lastima porque el ambiente es muy lindo y por lo que cobran uno espera mas"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rhr955", 
+      "text": "Buena carne, tanto el asado como el matambre, y el chorizo. Atenci\u00f3n correcta. Para corregir, demasiadas ofertas de la carta que se hab\u00edan acabado o ya no las trabajaban."
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cuerverdinegra", 
+      "text": "Muy buena atenci\u00f3n, amable y cordial, la carne de muy buena calidad. Ambiente ameno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "popy34", 
+      "text": "Exelentes las pastas caseras y la mousse de chocolate tienen una carta de vinos con 7 u 8 bodegas muy renombradas nos atendieron muy bien, vamos a volver."
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pacha45", 
+      "text": "Muy rica la Pamplona de cerdo, ya me la habian recomendado,el flan casero muy suave y abundante, atencion correcta el lugar muy tranquilo y agradable"
+    }, 
+    {
+      "date": "18 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mave35", 
+      "text": "Exelente la carne y las achuras, muy fresca la ensalada, y exquisito el panqueque de manzana flambleado, con helado,la pareja que nos acompa\u00f1o comi\u00f3 bondiola agridulce y peras al borgo\u00f1a muy bueno todo, tambien la atenci\u00f3n y el ambiente."
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "regina63", 
+      "text": "Muy rico el asado y los vegetales grillados el volc\u00e1n de chocolate buenisimo ademas como era San Valentin con el vino que tomamos nos regalaron uno chiquito dulce, muy buena atenci\u00f3n."
+    }
+  ]
+}

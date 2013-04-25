@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "19 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "angiono", 
+      "text": "una excelente opcion en la zona oeste para comer este tipo de comida y salir de las pizzerias que esta lleno. El lugar es muy lindo y acogedor. los felicito espero sepan mantenerlo."
+    }, 
+    {
+      "date": "19 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marcelo_B", 
+      "text": "Una grata sorpresa!!. A pesar de ser de la zona nunca hab\u00edamos comido aqu\u00ed y la experiencia fu\u00e9 por dem\u00e1s satisfactoria. Muy buena la calidad de la comida y un destacado servicio; desde la vajilla hasta la atenci\u00f3n del camarero.\r\nUn ambiente muy recomendable con una excelente comida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Juanca57", 
+      "text": "Excelente el trio de jazz en vivo, en un ambiente tranquilo y calido"
+    }
+  ]
+}

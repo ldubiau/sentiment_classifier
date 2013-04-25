@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "5 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cone2166", 
+      "text": "siento opinar distinto a los comentarios anteriores ya que es un peque\u00f1o lugar que siempre me resultan mas agradables, pero no me convencieron ni la calidad ni la presentacion , esperaba llevarme una experiencia agradable pero no lo fue , recomendacion canbien la calidad de los productos"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pielagoo", 
+      "text": "La comida abundante, las piezas sabrosas, no son peque\u00f1as, y las tablas mixtras son bien variadas"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Emi_vinitos", 
+      "text": "Un lugar peque\u00f1o y delicado. Donde se cuida muchisimo el detalle en la presentacion y calidad del sushi. El mejor de zona sur lejos.  Esta en una galeria interna, que me costo un poco encontrarlo, pero le da un toque de intimidad genia.  Lo recomiendo para ir con amigos o en pareja.  La cocina tambienj es notable, sobre todo recomiendo el Wok de langostinos.   Un roll para recomendar es el SUSHILOVE.\r\nSumiko es el lugar que obligatoriamente , visito al menos una vez al mes."
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Coty5666", 
+      "text": "Muy lindo el lugar. Riquisimo. Lo recomiendo"
+    }
+  ]
+}

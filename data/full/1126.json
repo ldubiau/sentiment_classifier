@@ -1,0 +1,618 @@
+{
+  "malos": [
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "castel", 
+      "text": "Hemos ido varias veces con suerte dispar, pero la  ultima fue lamentable. Los ravoles una porcion desasiado peque\u00f1a para su valor y unos crepes de espinaca fueron de acelga y con trozos de cebolla grandes.Los precios caros para el nivel de platos y la atencion mala, tuvimos que llamar varias veces a quien creo su due\u00f1o para reclamar atencion"
+    }, 
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "alekzg", 
+      "text": "Fuimos varias veces y ayer quisimos volver por la variedad de carnes rojas ofrecida; y nos desilusion\u00f3 por completo.La carta hab\u00eda cambiado, ya no hab\u00eda 4 o 5 lomos sino uno solo.Yo ped\u00ed ese y mi novia pidi\u00f3 un lomo pero de at\u00fan a la naranja.1er punto en contra: precio.De los $42 que costaba el lomo de vaca pas\u00f3 a 50.Le dije a la moza que lo quer\u00eda a punto pero vino m\u00e1s seco que galleta marinera. Las papas al horno eran 4 y recalentadas.El at\u00fan no tenia sabor a nada.Hubo que ba\u00f1arlo en sal y pimienta para que tuviera gusto a algo.No somos de opinar mal en foros pero lo de ayer lo merece."
+    }, 
+    {
+      "date": "30 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Chucho", 
+      "text": "MALO,la pizza tardo 40 minutos la trajeron fria los el helado malisimo para no volver"
+    }, 
+    {
+      "date": "20 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "PPGonz", 
+      "text": "Antes era un buen lugar, pero ahora la calidad baj\u00f3 much\u00edsimo y los precios aumentaron mucho. Una pizza tipo capresse 38$, pero ten\u00eda muy poco tomate y albahaca y la muzzarella estaba a m\u00e1s de 3 cm del borde. Estaba no muy caliente y nada crocante. Aparte cobran 3.50 de cubiertos y no te sirven ni pan ni nada para picar."
+    }, 
+    {
+      "date": "4 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "pacoyxuxa", 
+      "text": "Por ser un restaurante italiano, esperaba una pizza excelente. En cambio, me encontr\u00e9 con una pizza muy mal preparada: aun siendo de las que llevan ingredientes fr\u00edos, la masa debe hornearse y ni bien sale del horno se le agregan los ingredientes. La que nos trajeron, ni siquiera hab\u00eda pasado por el horno. La atenci\u00f3n es p\u00e9sima. En un momento, un camarero nos trajo una pizza, nos dijo que no sab\u00eda si era para nosotros; la dej\u00f3 en la mesa y se fue. \u00bfQui\u00e9n quiere comer en un lugar as\u00ed?"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "fernandods", 
+      "text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+    }, 
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ALF_SCI", 
+      "text": "Buenisima las pastas y las pizzas. Buen ambiente y familiar"
+    }, 
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Die71", 
+      "text": "Muy buenas las pizzas, amena la atencion, volveria a ir. un defecto no tienen sillas para bebes y las mesas estan muy encima unas de otras el resto impecable, ojo no es barato."
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "MarceDosSantos", 
+      "text": "Vuelvo a devoto despu\u00e9s de varios a\u00f1os y en vez de ir a los lugares que conozco, mis amigas me hacen probar uno nuevo. No me gusto, precios altos, y much\u00edsimo ruido."
+    }, 
+    {
+      "date": "6 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Krona", 
+      "text": "Hemos ido en varias oportunidades y los platos siempre son buenos. En esta ultima ocasion pedimos trucha que tenia demasiadas espinas.. Los precios algo elevados pero sirve para ir de vez en cuando. La atencion bien."
+    }, 
+    {
+      "date": "29 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Alteryo", 
+      "text": "La atenci\u00f3n fue buena, pero los platos, si bien no fueron malos, no estuvieron a la altura de los precios."
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FlaMac", 
+      "text": "Un lugar de agradable ambiente, el servicio es muy bueno yla cocina excelente, cocina italiana de buen paladar, las pizas y pastas de primera, excelentes las materias primas, y los vinos de buena calidad, la carta es breve pero exquicita. Para volver varias veces..."
+    }, 
+    {
+      "date": "11 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "jomalen", 
+      "text": "Muy bullicioso, comida normal,precios altos. hay mejores opciones en devoto"
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "samita", 
+      "text": "Cenamos pizza , muy rica, ademas de ser bastante grande, la trajeron enseguida. El lugar es muy agradable  los precios son accesibles. Nos atendieron muy bien!!"
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guibian", 
+      "text": "Fuimos por 1ra vez. Si bien estaba lleno no esperamos m\u00e1s de 10 minutos. Me gusto el ambiente. La comida muy buena y tambi\u00e9n muy buenos los postres. La carta de vinos cuenta con pocas opciones de precios accesibles. Si bien no es econ\u00f3mico es un lindo lugar del barrio. Para volver."
+    }, 
+    {
+      "date": "7 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Batyam", 
+      "text": "Lindo Lugar de Barrio,Muy Agradable,tranquilo, c\u00f3modo,\u00edntimo;ideal para parejas.Si bien la pizza no es nada de otro Mundo,es Muy Buena y Recomendable.Lamentable el personal que atiende...Una verdadera pena."
+    }, 
+    {
+      "date": "27 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "qwerty2010", 
+      "text": "Recomiendo pizzas. Prueben pizza fria San Daniele!!"
+    }, 
+    {
+      "date": "13 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tuco2012", 
+      "text": "un lugar tranquilo para comer en familia la atencion es adecuada y la comida muy buena, para volver"
+    }, 
+    {
+      "date": "29 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marysabel65", 
+      "text": "Lindo lugar, ambientado sin lujos pero agradable y colorido. La masa de la pizza muy buena, a la muzarela le faltaba sabor, pero estuvo rico de todos modos.\r\nbuena y cordial atencion de los mozos."
+    }, 
+    {
+      "date": "24 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marimar25", 
+      "text": "Fuimos a comer a este lugar casualmente porque no es una zona que frecuentamos mucho, nos gusto mucho la ambientacion sencilla pero confortable, y la comida muy rica, para comer comida italiana ideal. Pedimos dos postres y por sugerencia de la moza nos quedamos con el creppe solo porque era para compartir y realmente tenia razon. Volveremos porque tiene una variedad de pastas muy interesantes, es tranquilo y lindo."
+    }, 
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Richigolf", 
+      "text": "Buena opci\u00f3n para comer pastas, ne gust\u00f3 mucho el rag\u00fa de conejo, la atenci\u00f3n cordial y la ambientaci\u00f3n muy linda."
+    }, 
+    {
+      "date": "28 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "evisarg", 
+      "text": "El lugar es hermoso, muy bien ambientado y con una buena distancia entre las mesas. Los precios est\u00e1n un poco elevados por la comida que ofrecen. Pero es lindo, mas bien para gente grande. Los platos no son  abundantes."
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cieloambar", 
+      "text": "Bonito lugar, las pastas estaban riquisimas y abundantes, buenisima la panera y el untable. es de destacar la atencion del personal y si bien la carta de vinos es un poco acotada, poseen una cava por lo tanto, los vinos estan bien cuidados y a la temperatura justa. como gentileza nos sirvieron una copita de lemonchello muy bueno y nos hicieron desgustar un vino que no conociamos.volvere para probar otros platos."
+    }, 
+    {
+      "date": "4 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maruab", 
+      "text": "Volvimos a ir en este nuevo a\u00f1o, y nos sorprendieron algunos cambios en la carta.\r\nLa comida sigue siendo buena, en esta ocasi\u00f3n pedimos 2 platos de pastas muy al dente y sabrosos.\r\nEl pan sigue siendo increible. Ademas de un untable y el pan de bienvenida, nos trajeron un pan de pizza muy rico, detalle a tener en cuenta cuando hay muchos lugares q te cobran el cubierto y no te traen nada."
+    }, 
+    {
+      "date": "5 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "HerBerryman", 
+      "text": "Un c\u00e1lido y agradable rinc\u00f3n italiano del tranquilo y elegante barrio de villa devoto. Ofrece platos de pastas caseras, ricos y abundantes, entre otras opciones del menu(por ejemplo pizzas). El ambiente es tranquilo y peque\u00f1o. La atenci\u00f3n es correcta."
+    }, 
+    {
+      "date": "20 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nartub", 
+      "text": "Muy lindo lugar ambientado de manera amena, con mucho color y luz tenue. La atenci\u00f3n fue r\u00e1pida; para los platos hubo que esperar un poco, pero es razonable. Todas las cosas tienen nombres estramb\u00f3ticos, pero tienen pinta de ricos. Hay varias entradas, ensaladas, carnes, pastas y pizzas. Las pizzas me parecieron caras. Lamentablemente confundieron mi pedido y amablemente me hicieron un descuento en la adici\u00f3n, fue un gesto muy correcto. No se si es para ir muy seguido pero es una muy buena opci\u00f3n!"
+    }, 
+    {
+      "date": "25 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "LauritaM", 
+      "text": "La comida es muy buena, siempre vuelvo por esa razon. Lastima que algunas camareras dejan que desear. Le falta algo para picar en la espera del plato. Muy bueno el lugar."
+    }, 
+    {
+      "date": "29 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lmpe", 
+      "text": "ya hemos ido varias veces, y siempre comimos muy bien. Un lugar muy agradable y la comida excelente."
+    }, 
+    {
+      "date": "30 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maruab", 
+      "text": "El lugar es muy calido y tranquilo. No es la primera vez q vamos, y los platos siguen sorprendiendonos. Son abundantes y con buenas materias primas. \r\nEl untable caprese y el pan casero q te sirven mientras esperas los platos muy ricos.\r\nPara recomendar el Tiramis\u00fa de postre.\r\nLa atenci\u00f3n es muy buena, tanto de los mozos, como de los encargados."
+    }, 
+    {
+      "date": "25 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gabriella", 
+      "text": "Los platos exquisitos, bien elaborados con buena materia prima y abundantes. El servicio es lento y poco atento. Las tostadas estaban h\u00famedas. Los precios son elevados y el ambiente, armado con poco presupuesto, se ve agradable a partir de juego con telas de colores."
+    }, 
+    {
+      "date": "12 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Ha bajado algo el nivel de la comida en los ultimos meses, pero considerando sus precios y lo que cobran lugares comparables por lo mismo, aun sigue siendo una propuesta razonable."
+    }, 
+    {
+      "date": "22 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "santi220", 
+      "text": "Est\u00e1 bien ambientado, es tranquilo y callado. El mozo, Gabriel, es muy macanudo y generalmente te atienden bien. La comida es buena, pero generalmente las pastas vienen demasiado al dente para mi gusto, no te suelen preguntar sobre \u00e9sto. Los postres son excelentes."
+    }, 
+    {
+      "date": "19 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mariano32", 
+      "text": "comi pizza de maza finita y crocante (jamon crudo, muzza, tomate seco y aceitunas negras) y de postre volcan de chocolate, todo muy rico.Es lugar esta bueno ideal con amigos y pareja. lo unico que no me gusto, es que no te traen nada para picar antes del plato principal, ni un pancito! vale la pena, que lo disfruten!"
+    }, 
+    {
+      "date": "18 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mmhmm", 
+      "text": "Lo que m\u00e1s me gust\u00f3 de este lugar es el cartel que pide que los chicos permanezcan en su mesa. Por fin un lugar que nos defiende de los padres que mandan a sus hijos a jugar al otro lado del sal\u00f3n, arruinando la cena de los otros mientras ellos disfrutan de la velada. Un hallazgo para los que queremos disfrutar de una cena sin ni\u00f1os correteando entre las mesas, golpeando las sillas al pasar y gritando (como suele suceder en Don Bataglia, los chanchitos, etc).\r\nRusita: ese cartel pudo haber hecho tu cena menos amena, pero permiti\u00f3 que la de muchos otros comensales que pagaron por el servicio no se viera arruinada. Adem\u00e1s, si vas a cenar, \u00bfpor qu\u00e9 carajo tu cr\u00edo tiene que andar correteando por ah\u00ed, molestando al resto de la gente?"
+    }, 
+    {
+      "date": "30 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Buenas pastas en ambiente tradicional de barrio. Precios razonables. Atenci\u00f3n algo lenta."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Russita", 
+      "text": "Decidimos visitar el lugar con nuestro hijo de tres a\u00f1os. Comimos bien, pero algo muy desagrable fue que cuando est\u00e1bamos entrando, un cartel ped\u00eda que los chicos se mantengan en sus asientos para que no molesten, por lo que la cena se torn\u00f3 poco placentera e inc\u00f3moda."
+    }, 
+    {
+      "date": "13 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gago", 
+      "text": "La comida es buena, lo que m\u00e1s molesta es la actitud del due\u00f1o, deber\u00edan bajar un poco la soberbia.\r\nEl resto es bueno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Martolino", 
+      "text": "Buen mix de calidad y servicio"
+    }, 
+    {
+      "date": "25 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Soool", 
+      "text": "Fuimos 9 personas. La atenci\u00f3n fue muy buena, la c\u00f3mida lleg\u00f3 r\u00e1pido y es realmente muy rica. Los precios son acordes a lo que sirven."
+    }, 
+    {
+      "date": "11 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FGM1961", 
+      "text": "Como siempre lo mejor en pastas en Villa Devoto  y la muy buena comida italiana. Excelente atenci\u00f3n y si bien no es barato los precios acompa\u00f1an la calidad . Seguimos llendo!"
+    }, 
+    {
+      "date": "2 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lau1234", 
+      "text": "los \u00f1oquis con ragu de lomo son los mas exquisitos que probe en mi vida!!"
+    }, 
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarianaRC", 
+      "text": "Volv\u00ed despu\u00e9s de mucho tiempo y descubr\u00ed que no s\u00f3lo tienen de las pizzas m\u00e1s fant\u00e1sticas de la capital sino que tambi\u00e9n los platos son muy buenos. Hiper recomendable la pesca del d\u00eda con tomates secos, aceitunas y champis. De entrada no se pierdan las bruschettas."
+    }, 
+    {
+      "date": "1 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "una desepcion!", 
+      "text": "ITALIA en DEVOTO, la comida es increiblemente ITALIANA  (y lo digo porque vivi alli).  La mejor de Buenos Aires!!!!!!\r\n\r\nNo busques ambientacion es muy antigua. Solo COMIDA!"
+    }, 
+    {
+      "date": "9 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hanna", 
+      "text": "fui a comer con mi marido despues de mucho tiempo y realmente nos sorprendimos por los cambios en la carta. Yo comi carne y mi marido pescado realmente excelente! la atenci\u00f3n fue cordial y el precio acorde a la calidad que ofrecen. Volveremos!!!!"
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gmanu", 
+      "text": "Una grata velada en un ambiente calido, buen vino,buena comida y atencion estupenda."
+    }, 
+    {
+      "date": "26 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "llama", 
+      "text": "muy bueno, hace tiempo que vamos y es excelente toda la comida"
+    }, 
+    {
+      "date": "1 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "guiycha", 
+      "text": "Excelentes pastas. De lo mejor."
+    }, 
+    {
+      "date": "14 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Stiej", 
+      "text": "La comida es excelente. La pizza es riquisima, muy a la americana, super finita pero no crocante. Las pastas estan bien preparadas. Fuera de eso, el menu tiene ensaladas y unos pocos platos con carne. El ambiente es agradable, tal vez un poco oscuro, que resultaria mas adecuado para un restaurant donde van parejas; en cambio, el publico que acude es familiar. El servicio es correcto, pero tal vez podrian poner mas atencion. El precio es adecuado."
+    }, 
+    {
+      "date": "17 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sebastiand", 
+      "text": "El mejor restaurante de la zona por lejos. Y para quienes no conocen el hermoso barrio de Villa Devoto, un excelente motivo para conocerlo. La atenci\u00f3n personalizada y en detalle de los due\u00f1os es insuperable. El flan es de lo mejor (sin dulce por favor) y las pastas son exquisitas. La pizza al estilo italiano, solo Nicolazza en Flores hace una pizza de similares caracter\u00edsticas en calidad, tipo de horneado y masa."
+    }, 
+    {
+      "date": "29 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "escamita", 
+      "text": "hace mucho que no iba, pedi el lomo gratinado con arroz al azafran y me parecio buenisimo me hizo recordar un plato que comi en italia. El postre exquisito! felicito una vez mas al chef."
+    }, 
+    {
+      "date": "24 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "silvito", 
+      "text": "quiero felicitar a quien corresponda por las pechuguitas al marsala con verduras horneadas y ese exquisito budin de espinaca. Lamentablemente tengo una critica, no sirvan mas el pan frizado, porque cualquiera se da cuenta que no es fresco. Eso no se le hace a los clientes."
+    }, 
+    {
+      "date": "10 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "escamita", 
+      "text": "Ese pescado fue la mejor preparaci\u00f3n que com\u00ed en mi vida. Un aplauso para el chef."
+    }, 
+    {
+      "date": "9 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "doctor_d", 
+      "text": "Pese a ciertos comentarios sobre este lugar, nos animamos y fuimos. Excelente lugar de cocina italiana. Las mesas guardan buena distancia entre s\u00ed y el lugar est\u00e1 muy bien ambientado. Muy buenos los \u00f1oquis con hongos shitakes y el lomo relleno con tomates secos y panceta. El volc\u00e1n de chocolate es delicioso, aunque estaba un poco seco. Una buena opci\u00f3n para que la gente del barrio tenga a mano. Volveremos."
+    }, 
+    {
+      "date": "3 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cookcritic", 
+      "text": "El lugar esta muy bueno y respeta muchas tradiciones italianas, la que hornea la pizza y despues le pone los ingredientes, no hizo nunca una pizza, compra congeladas y hacelas en tu casa"
+    }, 
+    {
+      "date": "13 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "romaedu", 
+      "text": "Es un lugar muy agradable. Las pizzas son muy variadas. La frescura de los productos se saborea en cada tipo de pizzas. \r\nEs muy recomendable, pero no es para una cena rom\u00e1ntica, m\u00e1s bien para amigos o ir en familia o comer una buena pizza y nada mas."
+    }, 
+    {
+      "date": "29 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nicky", 
+      "text": "No es un lugar para gente joven, pero la verdad que com\u00ed los mejores \u00f1oquis rellenos de mi vida.\r\nVuelvo s\u00f3lo por los \u00f1oquis."
+    }, 
+    {
+      "date": "24 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hanna", 
+      "text": "Me gust\u00f3 mucho la m\u00fasica y lo c\u00e1lido del lugar, por supuesto tambi\u00e9n la comida."
+    }, 
+    {
+      "date": "8 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariano", 
+      "text": "De lo mejor de Villa Devoto. \r\nLa \u00f3ptima calidad de los ingredientes con los que preparan los platos demuestra que realmente es un lugar de primera. Recomiendo que los atienda el mozo Gabriel quien es muy atento y cordial."
+    }, 
+    {
+      "date": "18 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lmc76", 
+      "text": "He ido varias veces antes de conocer Guia Oleo, y deseo dejar mi comentario positivo hacia este lugar.\r\nSiempre me atendieron muy bien y la comida es de primera."
+    }, 
+    {
+      "date": "14 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cecilian1", 
+      "text": "Las sillas son un poco inc\u00f3modas..."
+    }, 
+    {
+      "date": "8 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luciana_", 
+      "text": "EXCELENTE: La pizza de muzzarella, jamon, alcauciles y champignones y los ravioles ritratto de espinaca y muzzarella!!"
+    }
+  ]
+}

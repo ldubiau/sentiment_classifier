@@ -1,0 +1,538 @@
+{
+  "malos": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "\u00bfLa comida?. Ped\u00ed sorrentinos de jam\u00f3n, queso y ricota con salsa cuatro quesos. \u00bfQu\u00e9 vino?. Tres sorrentinos desabridos con salsa mixta. El plato de mi se\u00f1ora fue el correcto y con la misma salsa aguada e insulsa.\r\n\u00bfEl servicio?. No hubo servicio de mesa hasta pasados los 30 minutos y fueron una empanada de carne fr\u00eda para cada uno. A la hora del plato, primero trajo la comida, luego el pan, y despu\u00e9s el pan rallado.\r\n\u00bfEl ambiente?. Incongruente en todos sus aspectos.\r\nPara cerrar, a la hora de la cuenta me gusta que me den el vuelto y veo cu\u00e1nto dejo de propina."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "countryboyseba", 
+      "text": "Fuimos para celebrar el d\u00eda del amigo. Nos encontramos con un lugar muy bien ambientado, aunque con algunos detalles que dejan mucho que desear, como los ba\u00f1os. Pero llendo a lo que nos interesa, que es la comida, no puedo hacer m\u00e1s que elogiarla. Platos abundantes y muy sabrosos. La entrada de brusquettas muy rica. Los platos principales muy ricos, en especial el pollo con crema y arroz. Los postres ricos, pero son porciones chicas. Muy buena relaci\u00f3n calidad/precio."
+    }, 
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tinchan", 
+      "text": "Muy lindo el local y la comida super recomendable. Las costillas de cerdo con salsa a base de cerveza eran r\u00edquisimas. Lo que si, hubo varias cosas que me terminaron disgustando un poco... la atenci\u00f3n es bastante descuidada, no ten\u00edan el 80 de la carta de vinos  y el coraz\u00f3n del volc\u00e1n de chocolate ten\u00eda una parte congelada... Igualmente la relaci\u00f3n calidad precio es aceptable todav\u00eda. Si volver\u00eda, no se...."
+    }, 
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Tradutor", 
+      "text": "El lugar es agradable y la atenci\u00f3n, muy correcta. Dos problemas se notaron en seguida: la gran demora (en nuestro caso se olvidaron de traer la entrada, por lo que estuvimos casi una hora sin comer nada) en los platos y el exceso de humo de la cocina que invadi\u00f3 el ambiente (casi escapamos por el olor). No s\u00e9 si eso es habitual. La comida es muy buena, bien preparada y con buenos ingredientes. El precio ya no est\u00e1 acorde con lo que anuncia la Oleo. Volver\u00eda, con reservas..."
+    }, 
+    {
+      "date": "16 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sakofv", 
+      "text": "El ambientes es muy tranquilo aunque es mas bien un bar que un restaurante. Fuimos a cenar tres personas, la atencion fue buena y correcta. De entrada nos dieron una empanada a cada uno, luego pedimos un plato de Bondiola con panache de verduras, una pamplona con papas fritas y un plato de fideos. Los dos primeros estaban ricos pero los fideos no parecian caseros y no los recomiendo. No comimos postre y gastamos unos 230 pesos."
+    }, 
+    {
+      "date": "4 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Clouseau", 
+      "text": "Lindo, tranquilo, se come muy bien, a buen precio, atendido creo por sus due\u00f1os, no vi personal de sal\u00f3n, me gust\u00f3, voy a volver."
+    }, 
+    {
+      "date": "19 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fabianh", 
+      "text": "Un lugar agradable, excelente comida, muy buena atencion y precios muy accesibles. Que mas? Es cierto, esta lejos del circuito fashion, pero vale la pena probar. Volveremos."
+    }, 
+    {
+      "date": "6 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Eldudu", 
+      "text": "Excelente el bife de chorizo, la carta de vinos es escueta pero rinde y la atencion fue muy buena.\r\n\r\nLas porciones son para 1 pero quedas ULTRA satisfecho"
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tuerca2", 
+      "text": "La comida es muy buena, fuimos a cenar y pedimos varias veces por delivery. La calidad de los productos, la atenci\u00f3n y los precios son para destacar. Una joya en este barrio."
+    }, 
+    {
+      "date": "27 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jotabe", 
+      "text": "Fuimos con un grupo de 10 amigos y nos atendi\u00f3 el due\u00f1o con toda la onda. El men\u00fa es muy bueno, las porciones abundantes y con suficientes variaciones como para todos los gustos. La carta de vino es adecuada y muy acomodada. \r\nEs muy recomendable para los tienen paciencia para esperar. \r\nDeben mejorar algunos detalles de las instalaciones y cubiertos. La buena onda no resuelve todo."
+    }, 
+    {
+      "date": "23 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ICYHOT", 
+      "text": "Muy agradable esquina en Boedo. Lo que una vez fue una farmacia -a\u00fan permanecen las pociones en los estantes- ahora es un bar/rest\u00f3 de pocos cubiertos pero de amplia candidez. Si bien los platos se hacen rogar un poco, la espera vale la pena. En nuestro caso imperdible la bondiolita con salsa de BBQ y muy bien el bife de chorizo con muzzarela y papas esapa\u00f1olas. Al ser un lunes por la noche y con el lugar semi vacio hubo lugar para un servicio mas que esmerado. Los platos son abundantes y el precio final mas que conveniente."
+    }, 
+    {
+      "date": "19 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ari66", 
+      "text": "1 Que feo el nuevo dise\u00f1o web de la guia oleo.\r\n2 Vamos a lo positivo, despues de habr ido a comer afuera desde q tengo memoria, uno ya se da cuenta enseguida cuando va a salir bien o no, a mi me pasa eso, este lugar me gusto de entrada, la carta, la atencion (imagino q era el due\u00f1o), la comida, todo, la verdad hay gente a la q uno le gustaria q le vaya bien y este es el caso. El bife muy bien, los \u00f1oquis excelentes, el brownie impecable, igual siempre uno exige mas, las berenjenas estaban bien, no espectacular como el resto, igual en el balance optimo todo."
+    }, 
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "turu_flowers", 
+      "text": "muy rica la comida , la atencion fue tb muy buena  y precios economicos para la calidad de lo que te sirven"
+    }, 
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Que buena sorpresa que nos llevamos con De moka y Mosto! Es un lugar muy simple que funciona mas como bar que como restaurant. La carta es corta pero hay platos de carne, de pasta y tambien algunas ensaladas. Pedimos el bife de chorizo cubierto de muzzarella y el plato de bondiola. Muy bueno el bife de chorizo. Tierno y a punto. Vamos a volver para probar un par de platos mas."
+    }, 
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "paddyba", 
+      "text": "fue una sorpresa porque desde afuera y por el estilo de decoracion no parece un lugar de buena comida pero comimos muy bien. muy recomendable, comi un bife de chorizo con muzarella y albaca y papas fritas. vamos a volver."
+    }, 
+    {
+      "date": "17 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hquiros", 
+      "text": "Muy buena elecci\u00f3n. Un poco lento el servicio pero la comida muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "el_Klo", 
+      "text": "Fui despues de haber leido los comentarios de guia Oleo y la verdad que la comida Excelente, pedimos 2 variedades distintas de bifes y fueron espectaculares, la atencion buena, lo unico malo es el ba\u00f1o.. pero sin dudas volveria ir a probar otro plato"
+    }, 
+    {
+      "date": "21 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lord_William", 
+      "text": "cenamos muy bien, todo muy sano, como echo en casa realmente y algo que es muy atipico en restaurantes, el cafe es excelente! lo recomiendo."
+    }, 
+    {
+      "date": "27 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "milyuna", 
+      "text": "Excelente. Tarda pero se hace en el momento. Bife de chorizo al malbec, pollo al curry, canelones y bondiola de cerdo, todo muy bueno, lo mismo que las bruschettas de entrada. Y muy buen precio para esta calidad, por no decir bajo directamente."
+    }, 
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "adrianbruzzaniti", 
+      "text": "Trabaje en uno de los mejores restaurant de Nueva Zelanda premiado 4 a\u00f1os consecutivos. Viaje por varios paises de Oceania, Asia y America. Comi en lugares con precios muy altos y bajos. NUNCA comi como en Moka & Mosto. Les recomiendo el lugar siempre y cuando quieran comer RICO en CANTIDAD con un EXCELENTE servicio siempre que quieran DISFRUTAR de una incomparable comida."
+    }, 
+    {
+      "date": "17 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "guslerman", 
+      "text": "Buena comida, exelente atencion y a un precio mas que conveniente"
+    }, 
+    {
+      "date": "17 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Heyi", 
+      "text": "Fuimos a comer en la noche y todo estuvo perfecto, la comida deliciosa, buenas porciones y precios accesibles. La atenci\u00f3n fue muy buena. Con toda seguridad que volveremos."
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "u1isess", 
+      "text": "La comida es excelente. Son platos que en otra parte de la ciudad saldrian mucho mas caros. Los platos salen entre 40 y 50 pesos.\r\nComimos unas costillitas de cerdo a la barbacoa con batatas fritas y un bife de chorizo a las tres pimientas con pure.\r\nLa carta de vinos no es muy extensa pero esta bien. No cobran cubierto.\r\nLo unico que hay que tener en cuenta es que tardan un poco en traer la comida, si sos de los que quieren sentarse y comer enseguida, no te lo recomiendo."
+    }, 
+    {
+      "date": "10 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "March82", 
+      "text": "Como siempre, super agradable el ambiente y la comida riquisima!! Los precios accesibles y la gente q atiende muy buena onda!!"
+    }, 
+    {
+      "date": "24 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mjl1977", 
+      "text": "Incre\u00edble el nivel de la comida. habiendo probado un buen porcentaje de la carta, puedo decir que esta gente sabe lo que hace. El bife en reduccion en malbec, la pamplona de pollo, las pastas, las costillitas a la cerveza negra, todo superlativo. Encima la siempre excelente atenci\u00f3n de Ariel. Seguiremos volviendo."
+    }, 
+    {
+      "date": "5 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "javier_godsmack", 
+      "text": "Excelente"
+    }, 
+    {
+      "date": "19 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Negramar", 
+      "text": "Ya fuimos varias veces en pareja y con amigas! La verdad que es super recomendable! Los platos son abundantes, muy frescos, hechos en el momento y la atenci\u00f3n excelente! \r\nSeguiremos yendo muchas veces m\u00e1s!!!"
+    }, 
+    {
+      "date": "19 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Exidor", 
+      "text": "Excelente!!! La atenci\u00f3n es genial, el ambiente m\u00e1s que agradable. Uno de los mejores lugares para comer y disfrutar con la pareja y con amigos. Plato recomendado ? Agnolottis?. El VOLCAN DE CHOCOLATE es el mejor de Buenos Aires!!! Productos de primera calidad y buenos precios."
+    }, 
+    {
+      "date": "7 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "valerino", 
+      "text": "muy rica la comida, ambiente ameno y la verdad muy barato, atenci\u00f2n excelente."
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "YIYOoleo", 
+      "text": "Excelente, la comida demora pero por precio calidad no hay nada que quejarse, exquisitos los platos y uno se da cuenta que tardan por el empe\u00f1o que le ponen. Comida fresca, atendido por sus due\u00f1os, que adem\u00e1s muy buena onda. Fui varias veces y pienso seguir yendo. Sin sorpresas a la hora de pagar. Lo \u00fanico malo son los ba\u00f1os, pero por lo que escuchamos los van a reformar."
+    }, 
+    {
+      "date": "6 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vivianozz", 
+      "text": "excelentes bondiolitas con salsa barbecue ,muy bueno el couvert,tranquilo.\r\nes bueno encontrar un lugar en donde saben cocinar"
+    }, 
+    {
+      "date": "3 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Luis castello", 
+      "text": "fui con mi flia a comer, ya son varias las veces que vamos y cada vez me sorprenden con algo nuevo. Esta \u00faltima vez fue el postre: volc\u00e1n de chocolate INCREIBLE!!!!!! la comida como siempre fresca reci\u00e9n hecha (no recalentada), por eso no melesta tener que esperar un poquito. La atenci\u00f3n y simpat\u00eda del due\u00f1o es la frutilla del postre, la ambientaci\u00f3n y calidez del local lo hacen sentir a uno como en su casa, los precios acordes al bolsillo de cualquiera, ALTAMENTE RECOMENDABLE para ir en pareja, familia o amigos.\r\nLuis"
+    }, 
+    {
+      "date": "1 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leneropa", 
+      "text": "Fuimos a cenar y pedimos un plato cada uno, muy bien presentados y muy ricos. Buena carta de vinos. Amabilisima atencion !"
+    }, 
+    {
+      "date": "28 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ramdy", 
+      "text": "Fui con 4 amigos  a conocer gracias a Guia Oleo este rest\u00f3 luego de leer sus criticas.  La verdad nos encontramos con un lugar muy agradable, por afuera se ve moderno y adentro es una fusi\u00f3n de vieja cantina con reliquias y cosas modernas.  La comida super exquisita, fresca, abundante y con muy buena presentaci\u00f3n. La atenci\u00f3n del mesero siempre muy bien predispuesto. La verdad altamente recomendable por calidad y precio.  Siendo 5 personas comiendo 5 platos diferentes, dos vinos, 4 aguas y 5 cafes gastamos $60.- c/u"
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "josephineb12", 
+      "text": "Ambiente agradable, las mesas separadas convenientemente, la atenci\u00f3n cordial y con atinadas sugerencias: la pizza mediterranea es imperdible. Los precios son convenientes. Muy buena mi reuni\u00f3n con amigos a pizza y cerveza. Volver\u00e9 por los platos gourmet que v\u00ed en la carta."
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "julietgb", 
+      "text": "Excelente opci\u00f3n para una salida! Comimos pizza mediterr\u00e1nea, que viene con jam\u00f3n crudo, r\u00facula, queso en hebras, y borde relleno de m\u00e1s queso!!! Espectacular. Ya estamos pensando en repetir. Adem\u00e1s, a buen precio, excelente pizza con cerveza o gaseosa, a $30 por persona, es dif\u00edcil de encontrar.  Tenemos que volver por la pizza bolognesa y los platos que vimos pasar, ten\u00edan muy buena pinta. Excelente atenci\u00f3n, tambi\u00e9n!"
+    }, 
+    {
+      "date": "10 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pjrp", 
+      "text": "Muy agradable ambiente, asaz amable y  atento el servicio, excelente orientaci\u00f3n al comenzal para la elecci\u00f3n del plato y bebida, especialmente el vino (a pesar de que podr\u00edan mejorar la carta ampli\u00e1ndola). Las carnes en el punto pedido y de calidad, como as\u00ed su elaboraci\u00f3n y presentaci\u00f3n. M\u00e1s que adecuada relaci\u00f3n calidad-precio. Muy recomendable."
+    }, 
+    {
+      "date": "28 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "digraf01", 
+      "text": "excelente servicio, la comida demora pero hay que ir mentalozado que la demora vale la pena, pidan una entrada y esperen gustosos, calidad gourmet, tanto la comida como los postres, ojo, habria que arreglar los ba\u00f1os, por favor, el resto de primera"
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "escorpion_fa", 
+      "text": "la verdad espestacular fui con mis padres y la pasamos super bien,pedimos pamplona de pollo al verdeo, salmon con timbal de risotto y vegetales con casta\u00f1as , bife de chorizo al malbec, muy bueno,fresco y a punto, abundante de postre todos pedimos el volcan de chocolate con helado y la verdad  bueniiiisimo tomamos  trumpeter malbec. la cuenta? un regalo la verdad barato a pesar de que pedimos el plato,el vino y el portre mas caro  y no te cobran el cubierto la atencion cordial y desestructurada .hay que iiiiiiiir!!!!!!"
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianob73", 
+      "text": "La carta de vinos es perfecta ya que tiene los varietales de las bodegas mas pedidas claro que no tiene los vinos de anta\u00f1o y los precios son muy buenos no hacen tragos salvo los clasicos  no se cobra cubierto y la comida es super variada se cocina al momento razon por la que tarda un poquito mas pero el que sabe espera con gusto el costo va de 55 a 60 con postre que son otra delicia"
+    }, 
+    {
+      "date": "11 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MrCris", 
+      "text": "Fuimos un par de veces con mi novia y la verdad es que tanto la atenci\u00f3n como el ambiente y la comida son de primera. En particular la comida tarda un poco en llegar, pero vale la pena la espera. Deber\u00edan arreglar un poco los ba\u00f1os \u00fanicamente, pero por todo lo dem\u00e1s es muy recomendable. Los precios son econ\u00f3micos para los platos que sirven."
+    }, 
+    {
+      "date": "20 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Emiliano82", 
+      "text": "Somos frecuentes de este lugar. Los men\u00faes van variando, desde unas riqu\u00edsimas pamplonas, pizza de pollo, picadas, ect.\r\nLo principal es la calidad de los productos, siempre frescos."
+    }, 
+    {
+      "date": "20 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "PaToRuZiTo", 
+      "text": "El ambiente es propicio para ir con una pareja, la iluminaci\u00f3n no es abundante pero suficiente. La atencion es cordial, no invasiva. La comida fue excelente, ambos platos (bife de chorizo y salmon) muy bien presentados, abundantes y de calidad. Resto mucho al ambiente el cuidado y el tipo de ba\u00f1os."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mtrevisi", 
+      "text": "Fu\u00ed con mi esposa e hija bas\u00e1ndome en la recomendaci\u00f3n de la gu\u00eda y nos result\u00f3 muy satisfactorio el men\u00fa y la atenci\u00f3n de Ariel, platos abundantes y muy bien presentados, excelente calidad de los alimentos, lo recomendamos y volveremos.Un solo detalle: tendr\u00eda que tener mas luz sobre las mesas, ya que \"la comida primero entra por los ojos\" y vale la pena verla."
+    }, 
+    {
+      "date": "30 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nicolita78", 
+      "text": "Hermoso lugar, me senti muy a gusto comiendo y con la atencion del personal."
+    }, 
+    {
+      "date": "29 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Excelente cocina, con platos elaborados al momento, con productos de primera calidad. El ambiente es c\u00e1lido y permite disfrutar de una charla distendida, ya que la separaci\u00f3n entre las mesas es la adecuada. La atenci\u00f3n amable, de parte de Mariana y Ariel, j\u00f3venes anfitriones que se esmeran para brindarle lo mejor al comensal y por cierto que lo logran, y ampliamente. Los precios, muy accesibles. En resumen, es un lugar para no perd\u00e9rselo. Felicitaciones y mis mejores deseos de \u00e9xitos!!"
+    }, 
+    {
+      "date": "25 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nicolasmb", 
+      "text": "Fui una vez y bast\u00f3 para hacerme habitu\u00e9. Los platos son todos excelentes, abundantes y originales. La pamplona de pollo es la mejor que puede comerse en la ciudad. Los postres y los tragos son buen\u00edsimos tambi\u00e9n. Adem\u00e1s es barato y la atenci\u00f3n es muy copada. No se lo pierdan porque no se van a arrepentir."
+    }, 
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chainiti", 
+      "text": "Una grata sorpresa! \r\nSin ninguna referencia, entre con mi pareja a este lugar s\u00f3lo por el hecho de que parecia agradable.\r\nLa atenci\u00f3n, muy amable desde el primer momento y muy informal por sus due\u00f1os.\r\nLa comida, excelente. Acepte la recomendaci\u00f3n del bife de chorizo completo y la verdad, una delicia. Porciones muy abundantes y en su punto justo. Tan abundante era la porci\u00f3n, que me qued\u00e9 sin lugar para el postre!\r\nGrande fue mi sorpresa al momento de la factura, El total, fue la mitad de lo que esperaba.\r\nNo cobran servicio de mesa y los platos, para lo que son, tienen un excelente precio."
+    }, 
+    {
+      "date": "13 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "karen222", 
+      "text": "El lugar es precioso, es una vieja farmacia de Boedo con toda la onda de lo antiguo.\r\nLa comida es riquisima, super bien, muy gourmet y muy buenos precios. Todo hecho con mucho amor, vivo cerca y siempre voy a ese lugar."
+    }, 
+    {
+      "date": "26 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lluvia", 
+      "text": "Encontr\u00e9 un anuncio de este restaurante en un mapa cultural de Boedo y aqu\u00ed le\u00ed que sus hamburguesas eran muy buenas, as\u00ed que mi novio y yo decidimos ir por una de ellas... Terminamos pidiendo una pizza \"oriental\", con verduras salteadas y borde relleno de queso: \u00a1deliciosa! 40 pesitos, abundantes integrientes y buen tama\u00f1o. La persona que nos atendi\u00f3 muy amable y paciente para explicar. Recomendar\u00eda cuidar m\u00e1s la m\u00fasica para \"completar\" mejor el ambiente. \u00a1Seguro regresaremos por las hamburguesas!"
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianob73", 
+      "text": "recomiendo la pizza....y las tablas de quesos y fiambres..."
+    }, 
+    {
+      "date": "27 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "caro1281", 
+      "text": "La picada caliente es excelente.  Todos los platos se destacan por la excelente calidad y frescura.  Muy buena atenci\u00f3n y ambiente.  Recomendable 100%"
+    }, 
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maru2010", 
+      "text": "Las hamburguesas son caseras!! y m\u00e1s altas que anchas!! DELICIOSAS! Y las papas fritas son de verdad... NO McKein...Muy buena calidad de los productos que usan. S\u00faper recomendable!!"
+    }
+  ]
+}

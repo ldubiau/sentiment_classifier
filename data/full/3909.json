@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "28 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Huge", 
+      "text": "Si quiere comer comida aburrida, convencional y cara vaya a este restaurant. Seguramente no nos va a ver"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Santimart", 
+      "text": "Muy buena comida. Me atendio una moza muy simpatica. Comi rabas, gambas y ensalada cesar. Una cosa mas rica que la otra. Ah!!! si queres al mediodia tienen Menu ejecutivo a 38p todo incluido!!! Una joyita"
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rortola", 
+      "text": "Agradable, las chicas espectacular se matan para atender, el socio cocinero se esmera. El otro, es el otro socio."
+    }, 
+    {
+      "date": "12 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rider", 
+      "text": "Es un excelente lugar de mi barrio. Se come muy bien, las chicas te atienden excelente y la comida es buenisima. Recomiendo la Tortilla Espa\u00f1ola, el Lomo a la Pimienta, a la mostaza, las supremas y todo es bueno, hasta las ensaladas especiales. Genial para ir con amigos y familia, es el lugar para la familia."
+    }, 
+    {
+      "date": "11 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "carbunclo", 
+      "text": "Consult\u00e9 telef\u00f3nicamente el horario a partir del cual pod\u00eda cenar, me informaron 20 hs. Llegu\u00e9 20:15 hs, y estaba cerrado. Enseguida abrieron (justificaron en que se hab\u00edan retrasado) . El servicio es correcto y la comida es buena sin ser nada extraordinario. El lugar es agradable pero chico y ruidoso y peor a\u00fan permiten fumar, pese a lo que indica la gu\u00eda sobre espacio de no fumadores. Por esto \u00faltimo nos fuimos sin probar los postres. En resumen es un lugar recomendable para aquellos a quienes no molesta ni el humo ni el ruido (no es mi caso); comer\u00e1n bien y a precios ajustados."
+    }, 
+    {
+      "date": "31 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "guillotes", 
+      "text": "Muy linda esquina, familiar y acogedora.\r\nHuele a tradicion, se siente en los detalles. \r\nDa la impresi\u00f3n de ser una familia dedicada al rubro. \r\nLa comida no es subyugante, pero es muy rica, vale la pena darse una vuelta por el bajo."
+    }, 
+    {
+      "date": "18 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "javerius", 
+      "text": "Uno de los mejores lugares para ir en vicente l\u00f3pez... es una esquina chiquita, sin muchas mesas, pero con un ambiente agradable y una excelente comida.\r\n100% recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "laluisa2007", 
+      "text": "Muy buena la atencion. Muy buena la comia. Ambiente agradable. Hay una chica, Agustina, le da calidez al lugar. Muy amable"
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Newton", 
+      "text": "Muy buena la atenci\u00f3n, muy buena la comida, un lugar agradable para un mediodia. 100% recomendable."
+    }, 
+    {
+      "date": "23 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "roman_oasis", 
+      "text": "Excelente carta de vinos, la comida muy sabrosa, el ambiente es normal, clasico resto de la zona...muy recomendable, las chicas que atienden son muy amables y atentas"
+    }, 
+    {
+      "date": "17 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "torre", 
+      "text": "encantador lugar referente en la ciudad de vicente lopez la comida muy sabrosa la pasamos barbaro lugar muy recomendable"
+    }, 
+    {
+      "date": "14 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Banderita", 
+      "text": "el lugar es muy acogedor,la gente es muy agradable, fuimos por recomendacion y la verdad\r\nla pasamos muy bien, y los mas importate la comida es casera ( pastas) q muchos lugares no frecuenta"
+    }
+  ]
+}

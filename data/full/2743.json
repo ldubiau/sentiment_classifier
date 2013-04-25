@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "24 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ani101", 
+      "text": "El lugar est\u00e1 muy lindo, la atenci\u00f3n un poco err\u00e1tica y eso que era temprano y hab\u00eda poca gente. La cerveza artesanal propia es normal, muy buena la variedad de importadas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "giana", 
+      "text": "Tienen un lugar agradable, linda m\u00fasica, la cual te permite charlar. Tiene un patio peque\u00f1o, pero simp\u00e1tico. Sus cervezas artesanales son excelentes y la comida, en general, tambi\u00e9n. Me sent\u00ed bien atendida."
+    }
+  ]
+}

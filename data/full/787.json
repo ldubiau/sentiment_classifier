@@ -1,0 +1,528 @@
+{
+  "malos": [
+    {
+      "date": "23 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "LuluGarcia", 
+      "text": "La verdad, decepcionante...lo \u00fanioc que tiene de vasco es el nombre.\r\nComimos una bondiola de cerdo super grasosa que ven\u00eda con pure que parecia chef!!!!! y un semi risoto con mariscos y pesca del d\u00eda a la cual se olvidaron de lavar ya que la cocinaron con la piel y estaba llena de escamas, imposible comer, adem\u00e1s de dur\u00edsimo el arroz!!!\r\nCuando le comentamos a la moza lo de la comida, la respuesta fue...\" as\u00ed es la comida vasca\"...no creo que los vascos coman asi\r\nEl ambiente es lindo, pero las mesas estan pegadas, literal!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AMESA", 
+      "text": "Burzako ha regresado a ser lo que fue: un muy buen restaurante con un servicio muy bueno, complementado con una cocina de primera. Destacables los panes horneados en el sitio, el jam\u00f3n con m\u00e1s de un a\u00f1o de a\u00f1ejamiento y la cocci\u00f3n precisa de los pescados."
+    }, 
+    {
+      "date": "3 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FAD1994", 
+      "text": "Realmente se come muy bien, la mercader\u00eda es fresca y de primera calidad, los sabores son muy equilibrados y los platos salen en su punto justo, con una buena ambientaci\u00f3n es un lugar muy c\u00e1lido para compartir buenos momentos, la carta de vinos, posee etiquetas muy divertidas con excelentes opciones que se desprenden de las tradicionales, bebimos un Mil Piedras Ros\u00e9 Excelente a precios muy razonables"
+    }, 
+    {
+      "date": "25 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Vitto", 
+      "text": "No soy un gran amante de la paella como si lo soy del risotto, pero debo reconocer que aqu\u00ed com\u00ed la mejor paella que prob\u00e9 fronteras para adentro. Excelente, muy sabrosa, con un arroz de alta calidad, en su punto exacto y hasta diria abundante para cenar comodamente entre 2. El resto de los platos estuvieron correctos, pero para comer paella lo recomiendo ampliamente."
+    }, 
+    {
+      "date": "1 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "Burzako ya no es lo que era cuando Daniel Rinc\u00f3n estaba al frente de sus fogones: la calidad de la comida ha deca\u00eddo notablemente, aspecto en el que estamos de acuerdo los comensales de la mesa que lo visitamos regularmente; algo similar pasa con el servicio. En contraste con ello, los precios han aumentado sensiblemente y la oferta de vinos contin\u00faa siendo limitada. En resumen, un restaurante que conoci\u00f3 tiempos mejores, que puede corregir su tendencia descendente; podr\u00edan tener en cuenta, por ejemplo, que en el vecindario cada vez hay m\u00e1s ofertas. Por lo anterior mi calificaci\u00f3n ha bajado"
+    }, 
+    {
+      "date": "7 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sasuchao", 
+      "text": "La atencion muy buena y la comida deliciosa. Muy buen ambiente. Me gusto mucho..."
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "suyay", 
+      "text": "Fuimos a cenar con mi novio y nos gust\u00f3 mucho el lugar. El ambiente es muy bueno, luz tenue y buena m\u00fasica. La comida es muy fresca, muy importante si se trata de pescados y mariscos como es la especialidad del lugar.\r\nRecomendable!!!"
+    }, 
+    {
+      "date": "12 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "9453", 
+      "text": "La comida es buena y abundante. El servicio es regular (no cambian los cubiertos luego de la entrada) y el ambiente no es bueno. La zona deja mucho que desear, las sillas con tapizados rotos y para colmo no recib\u00edan tarjetas porque se hab\u00eda roto la m\u00e1quina para imprimirlas. Vuelvo s\u00f3lo si estoy por la zona."
+    }, 
+    {
+      "date": "10 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "karilima", 
+      "text": "La atenci\u00f3n fue muy mala y el plato tard\u00f3 en llegar. La comida es buena, pero hay poca variedad y los precios no valen la pena."
+    }, 
+    {
+      "date": "17 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "conde", 
+      "text": "No me parece que este buen restaurante de San Telmo haya mejorado desde la \u00faltima vezue lo visit\u00e9. Aunque sigue siendo una buena opci\u00f3n en la zona -tan tur\u00edstica- me da la impresi\u00f3n de que se est\u00e1n durmiendo un poco en el \u00e9xito que tuvieron... Los precios han crecido, pero la carta de vinos sigue siendo de una pobreza casi franciscana."
+    }, 
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "Fuimos un viernes por la noche y sin reserva, hab\u00edamos intentado varias veces pero al mediod\u00eda y sin suerte, siempre cerrado, ojo queremos creer que fue casualidad. Un punto a favor por tener esa mesita de mas.\r\nConseguimos una mesita bien ubicada. La camarera parec\u00eda saber bien los platos de la carta asi que pedimos a piacere. Nos seducen las tapas, sobre todo su concepto, que por cierto en argentina todav\u00eda no hay ni cocineros capacitados para entenderlas ni un mercado dispuesto a aceptarlas. Por lo que no puedo menos que aplaudirlos por lograr encajar un concepto complicado con una relacion calidad precio mas que aceptable. Comimos solo tapas, una seleccion de quesos \u00a8Burzaco\u00a8, con reduccion de balsamico, unas kokotchas en salsa verde, muy ricas, un pimientos del piquillo rellenos, que no tienen nada que envidiar a los de euskadi, unas croquetas de langostinos al estilo \u00a8tipical spanish\u00a8, y dos aperitivos de tortilla ricos. Quedamos satisfechos. Ahh, por cierto una copita de Jerez (que no era de xerez) sirvio de pisquinlabis , aunque un tantin cara, 10 pesos, aunque en la carta decia 8. El postre un crema de chocolate, que tranquilamente podr\u00eda haber sido una ganache fria, se puede mejorar. Las camareras son atentas y lo que es mejor saben lo que hacen!!!! y lo que te traen, apuesto a que alguna es la novia del due\u00f1o, je je. Voy a volver a probar el pulpo y la paella que tiene unos aromas de muerte. Para destacar muuuchos productos estaban fritos en aceite de oliva. Acompa\u00f1amos todo con un Crios Torrontes. La carta de vinos e sun poco escasa y saladita pero bastante bien orientada al producto. Visitenlo, les va a gustar."
+    }, 
+    {
+      "date": "19 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tangok", 
+      "text": "He ido mediodia y noche; al mediodia suele haber 3 opciones de menu ejecutivo (que incluye copa de vino). De Noche se torna acogedor y la comida acompa\u00f1a de forma excelente, el pescado siempre fresco y toda la tradici\u00f3n Vasca presente. El rabo braseado es tierno y sabroso, los piquillos rellenos  deliciosos siempre va a pensar que falto uno m\u00e1s. Atenci\u00f3n muy cordial."
+    }, 
+    {
+      "date": "13 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "margottenenbaum", 
+      "text": "Muy buena la comida, todo llego a tiempo y la atencion fue buena. Para recomendar la entrada de tortilla de papa, de un plato comun hacen una especialidad de la casa."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AMESA", 
+      "text": "Visito frecuentemente al medio d\u00eda a Burzako. \r\nLa calidad de la comida y la atenci\u00f3n de sus due\u00f1os y mozas es muy buena, ojala existieran m\u00e1s restaurantes en la zona que tuviesen su calidad. Especial e imperdible el rabo de toro braseado en vino, un verdadero manjar producto de una cocci\u00f3n larga y cuidadosa."
+    }, 
+    {
+      "date": "26 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fedefede", 
+      "text": "Un lugar muy acogedor en pleno san telmo turistico te hace sentir porte\u00f1o y rememora nuestras raices europeas.Al entrar te impresiona la oscuridad, pero casi al instante te aborda una camarera que te hace sentir \"como en casa\".\r\nMuy buen servicio y exelente comida para pasar una muy buena velada.Recomendable absolutamente"
+    }, 
+    {
+      "date": "10 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "HoldenCaufield", 
+      "text": "Nada especial. Fui con mi novia una noche de invierno y la zona daba un poco de miedo. El ambiente no es el mejor, los cubiertos eran todos distintos, la vajilla tb. Las gambas estaban bien y el rabo glaseado no era de locos como nos indicaron. La atencion estuvo bien. El precio, carisimo para la calidad de la comida y el lugar. Necesita mejorar mucho, una lastima."
+    }, 
+    {
+      "date": "24 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cutu", 
+      "text": "Un ambiente reservado con poca luminosidad sin llegar a ser oscuro.\r\nExcelente el plato recomendado de rabo y un poco fuerte y poco surtida la selecci\u00f3n de quesos.\r\nLas peras al borgo\u00f1a eran un manjar.\r\nLas camareras con buena disposici\u00f3n pero muy poca experiencia."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Nacho78", 
+      "text": "Lugar muy agradable con una carta muy buena y platos muy logrados. Para recomendar sin dudas."
+    }, 
+    {
+      "date": "6 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hfu", 
+      "text": "Finalmente lo iluminaron.\r\nAntes no se pod\u00eda leer el men\u00fa ni ver lo que se com\u00eda. La comida fue excelente salvo algunos detalles: la tabla de quesos viene con una \"salsita\" dulce tipo reducci\u00f3n de aceto que podr\u00edan poner aparte.\r\nLas mollejas espectaculares y el rabo, su \"cl\u00e1sico\", como siempre muy bueno.\r\nParad\u00f3jicamente, por lo que otros cuentan, bien abundante como los quesos.\r\nUn detalle: la atenci\u00f3n es buena pero el servicio me pareci\u00f3 un poco lento. Volver\u00e9. Ah, se puede tomar un Crios (Susana Balbo)por $45. Muy rico el panqueque con dulce de leche Havanna, aunque le sacar\u00eda el chocolate. Por todo pagu\u00e9 $109. A mi me pareci\u00f3 una bicoca."
+    }, 
+    {
+      "date": "5 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "chinojeli", 
+      "text": "No ten\u00edan ninguna clase de pescado, en un men\u00fa abundante en pescados. La atenci\u00f3n de las mozas es realmente mala. Por los precios, uno espera algo mejor. La comida nos es nada del otro mundo."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "quiquebaires", 
+      "text": "Me pareci\u00f3 un poco caro por lo que comimos, pero estuvo bien la comida y el servicio. La porci\u00f3n de rabas era absurdamente escasa.\r\nNo creo que vuelva."
+    }, 
+    {
+      "date": "19 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elarcangel", 
+      "text": "La atenci\u00f3n es muy mala. Fui un d\u00eda jueves y a las mozas hab\u00eda que pedirles por favor que nos atendieran. Las porciones son m\u00ednimas y no son adecuadas a los precios. El arroz negro con calamares que ped\u00ed, ten\u00eda demasiada manteca (parec\u00eda una sopa en la que el arroz nadaba en la manteca) y a los calamares hab\u00eda que buscarlos. P\u00e9simo el servicio.  Dos personas, con dos entradas, dos platos principales y un vino de veinte pesos y sin postre: gastamos ciento setenta pesos. No vuelvo m\u00e1s."
+    }, 
+    {
+      "date": "31 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rodro", 
+      "text": "El sitio est\u00e1 bien, buena elecci\u00f3n de platos en funci\u00f3n de los productos que pueden conseguirse ac\u00e1. \r\nLos platos en s\u00ed no son caros. \r\nLo que sucede es que aqu\u00ed s\u00ed te provocan las entradas, con lo que si sumamos un vino sin pasarse (Trivento bivarietal) y dos copas de Pachar\u00e1n, nada bueno por cierto (16 $ cada una). \r\nLa cosa se dispara. \r\nQuiz\u00e1s sea para ir a comer un pescado al mediod\u00eda de un d\u00eda de laburo y ya est\u00e1."
+    }, 
+    {
+      "date": "28 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "tomeu", 
+      "text": "El lugar es especialmente acogedor y muy agradable, la comida estaba bastante buena pero el servicio no nos acab\u00f3 de satisfacer."
+    }, 
+    {
+      "date": "27 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cdm", 
+      "text": "Los productos en general son frescos. Las tapas tienen un poco alto el precio con respecto a la cantidad que vienen. \r\nEl plato principal, como el postre, muy bien. Tardan un poco, pero vale la pena esperar."
+    }, 
+    {
+      "date": "25 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "turcomartin", 
+      "text": "Fuimos con varios amigos dado que supuestamente es un lugar de tapas. \r\nSin embargo nos llevamos la sorpresa que el tama\u00f1o de las mismas eran sumamente diminutas y su precio todo lo contrario.\r\nPor suerte pedimos unas tortillas, plato que no se encuentra en la carta (y se dicen comida espa\u00f1ola) y nos ayudadaron a llenar la pancita. \r\nLuego, los platos principales tambi\u00e9n carecen de abundancia. \r\nLos postres son buenos. No vuelvo."
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mga", 
+      "text": "Luego de haberle pedido de la carta de vinos a la moza cuatro vinos y que nos dijera que no estaban, optamos por que ella misma eligiera que vino quer\u00eda traernos a lo cual se ofendi\u00f3.\r\nAl rato apreci\u00f3 otra moza para tomar el pedido.\r\nComo \u00e9ramos ocho se pidi\u00f3 variado pescado, lomo y bondiola de cerdo.\r\nLa moza vino y nos dijo que la \u00fanica guarnici\u00f3n posible era pur\u00e9 de papas u hojas verdes as\u00ed que hubo que optar entre esas dos opciones.\r\nAntes de los platos llegaron las entradas que realmente fueron una cargada ya que eran extremedamente peque\u00f1as y ni hablar de la guarnici\u00f3n del famoso pur\u00e9 que no llegaba a ser una cuchara sopera.\r\nCuando se lo coment\u00e9 a la moza s\u00f3lo atin\u00f3 a decir que el cheff hab\u00eda dicho que la guranici\u00f3n sal\u00eda as\u00ed (falt\u00f3 acalarar que si me gustaba bien y sin\u00f3 tambi\u00e9n).\r\nHab\u00eda ido varias veces antes, pero para mi esta fu\u00e9 la \u00faltima."
+    }, 
+    {
+      "date": "27 Oct 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ehg44", 
+      "text": "Le pondr\u00eda un \"ni\"."
+    }, 
+    {
+      "date": "30 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Excelentes los chipirones!!!"
+    }, 
+    {
+      "date": "20 May 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "alvaron", 
+      "text": "Un muy buen sitio para almuerzo con amigos, atenci\u00f3n amable y cocina satisfactoria. Buena relaci\u00f3n calidad/precio"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ElCuervoAdrian", 
+      "text": "Ten\u00eda muchas ganas de ir por las recomendaciones y no defraud\u00f3. Primero tapeo de cocina: buen\u00edsima tortilla de papa y cebolla; langostinos a la sart\u00e9n con oliva y piment\u00f3n dulce espa\u00f1ol; incre\u00edbles kroketas de langostinos; mollejitas con riqu\u00edsimas papas glaseadas en finas rodajas, arvejas y zanahorias; chipirones en su tinta con cebolla caramelizada -muy rica-. En principales, compartimos un muy rico rabo de buey glaseado al vino tinto y un arroz negro cremoso -riqu\u00edsimo- con calamares y pulpo. Postre: crema fina de chocolate con helado de chocolate blanco. Todo muy logrado por Koko y C\u00eda.."
+    }, 
+    {
+      "date": "24 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sungourmet", 
+      "text": "Nos parecio incre\u00edble la comida. Materia prima fresca y bien elaborada. Cocina simple, sin vueltas ni fusiones raras. Gusto bien casero!!!\r\nEl lugar es especial para ir en pareja y sobre todo para sentarse cerquita del hogar!. Las chicas se las ve expertas en el tema y la relaci\u00f3n precio calidad (para lo que cuesta todo hoy) es razonable. Ah! recomiendo el Rabo de Buey al vino tinto."
+    }, 
+    {
+      "date": "29 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mechula", 
+      "text": "Disfrutamos de una cena excelente en un lugar muy agradable. La atenci\u00f3n fue esmerada y estuvo en todos los detalles sin ser invasiva."
+    }, 
+    {
+      "date": "29 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "arturo", 
+      "text": "Fuimos un grupo, la noche anterior al Dia del Amigo, el menu era casi fijo pero resulto excelente. lo mas flojo fue el postre, pero igual volveria a ir"
+    }, 
+    {
+      "date": "13 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cochino", 
+      "text": "En realidad pagamos 52 por persona porque comimos con entrada. Eramos 2 parejas. Es un exelente lugar para ir en pareja, ambiente agradable y buena atenci\u00f3n. REcomiendo sentarse junto al hogar. El revuelto de hongos y langostinos merece 9 cochinitos y el cordero se lleva un 10. Muy buenas opciones de postre. Los platos se pueden compartir tranquilamnete y te los traen en separados si le avisas que compartis. Si piden el revuelto + el cordero y de postre la crema de chocolate conhelado de chocolate blanco no fallan."
+    }, 
+    {
+      "date": "6 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "kpaez", 
+      "text": "me encant\u00f3 la comida, la propuesta es completamente difrente al resto de los lugares hoy de moda.\r\nel lugar y el ambiente que se genera es muy c\u00e1lido y muy de buenos aires.\r\nme impresion\u00f3 la calidad de la materia prima de la cocina.\r\ngracias desde ya voy a volver."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ivordonez", 
+      "text": "La atenci\u00f3n estuvo al tono de la excelente comida; nos explicaron muy bien como sal\u00eda cada plato y los tiempos de espera.\r\nCom\u00ed el rabo de buey que me dej\u00f3 encantado; muy bueno!"
+    }, 
+    {
+      "date": "3 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Polas", 
+      "text": "Ambiente encantador y servicio recomendable. Nos encontramos que algunos platos del d\u00eda (pescados) no los ten\u00edan disponibles, lo que nos gener\u00f3 bastante molestia. Los quesos son IMPECABLES. Y la paella explota de sabores de calidad."
+    }, 
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sergio", 
+      "text": "Todo es absolutamente exquisito, y se nota la mano de Daniel, chef navarro con experiencia en Galicia y otras regiones, que recorre las mesas de a uno. Eso s\u00ed, todo chiquito!!! Altamente recomendable el rabo de buey, las kokotchas, el pulpo, y el solomillo de cerdo a la manera del chef.  Simp\u00e1tico y acogedor el ambiente, y encima en pleno San Telmo, aunque el servicio podr\u00eda mejorar.  Carito, pero vale la pena."
+    }, 
+    {
+      "date": "28 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "kiddo", 
+      "text": "Un must por las calles de San Telmo"
+    }, 
+    {
+      "date": "16 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hogan", 
+      "text": "Excelente las patatas bravas. Muy buenas croquetas de langostinos y paella. Excelente el cabernet franc que tomamos. Muy buen servicio. Hasta el pan era muy bueno. Lo recomiendo."
+    }, 
+    {
+      "date": "23 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "muribelarrea", 
+      "text": "La ambientaci\u00f3n no era nada del otro mundo. Podr\u00eda haber sido cualquier bodeg\u00f3n de San Telmo. La comida fue realmente excelente. Las gambas al ajillo estaban preparadas a la perfecci\u00f3n, y la paella (para compartir) estuvo muy buena y sabrosa. Realmente un lugar recomendable."
+    }, 
+    {
+      "date": "10 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "conde", 
+      "text": "Cocina excepcional."
+    }, 
+    {
+      "date": "29 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "felipe", 
+      "text": "El rabo de toro es el mejor que he probado. Las tapas son muy buenas, pero muy peque\u00f1as. El pulpo es muy duro y caro, afortunadamente nos lo cambiaron."
+    }, 
+    {
+      "date": "9 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "duque", 
+      "text": "Volv\u00ed luego de seis meses. \r\nLa comida sigue siendo excelente, pero la cantidad es cada vez menos.\r\nCon respecto a la atenci\u00f3n, yo no har\u00eda debutar una moza un s\u00e1bado a la noche."
+    }, 
+    {
+      "date": "8 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Juan1122", 
+      "text": "Comimos bien, en un ambiente muy agradable y no tuvimos demoras con los platos. \r\nAclaro que cenamos un d\u00eda martes."
+    }, 
+    {
+      "date": "30 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Patoe", 
+      "text": "Excelente calidad de cocina. Le saca una luz a la muy buena cocina de sus pares en Palermo o San Telmo."
+    }, 
+    {
+      "date": "8 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "duque", 
+      "text": "Buena atenci\u00f3n y un rabo al vino espectacular. \r\nExcelente relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "6 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianoff", 
+      "text": "Muy buena comida vasca en un ambiente reducido. Convendr\u00eda mejorar los ba\u00f1os y ampliar la cobertura del estacionamiento por parte del restaurant."
+    }, 
+    {
+      "date": "13 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lady_Ryk", 
+      "text": "Siempre es bueno vivir por un rato en el pa\u00eds Basko comiendo en Burzako. \r\nExcelente el risotto, el rabo de buey, la bondiola y sobre todo las papas panaderas. \r\nCamareras atentas y porciones perfectas."
+    }, 
+    {
+      "date": "13 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AleG", 
+      "text": "Un lugar excelente para almorzar o cenar. \r\nLa atenci\u00f3n es insuperable (hacen ameno las tardanzas de la cocina). La comida es muy buena y parece casera. Es \"la opci\u00f3n\" para almorzar en San Telmo."
+    }, 
+    {
+      "date": "26 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juan.ira", 
+      "text": "muy buena comida vasca."
+    }
+  ]
+}

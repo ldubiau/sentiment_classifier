@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "5 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Elbicho-ale", 
+      "text": "Mal\u00edsimo comida frezada , recalentada , la atenci\u00f3n dos mozas que no ten\u00edan mucha idea de nada. Me arrepiento de haber ido."
+    }, 
+    {
+      "date": "23 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "serchaca", 
+      "text": "Muy mala comida (recalentada), la moza era la unica persona que vi en el restaurante, era la que atendia, te recibia, hacia la cuenta y no se si tambien cocinaba. La comida de mi se\u00f1ora vino fria, entre al restaurante y estuve 10 minutos sin ver a nadie, parecia abandonada. No volvere jamas."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Laurakis", 
+      "text": "Adecuado para ir con amigos, la ambientaci\u00f3n es regular pero la comida es pasable.  Deber\u00edan actualizar la p\u00e1gina web, fuimos por un show que ofrec\u00edan y nos dijeron que hace como 2 a\u00f1os que ya no estaba m\u00e1s. Los postres bastantes ricos."
+    }, 
+    {
+      "date": "28 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Leandro Pagella", 
+      "text": "muy bueno. la carta es acotada pero bien trabajada. las mozas son geniales. y al que no le gusta esperar la comida, que vaya a mac donalds"
+    }, 
+    {
+      "date": "1 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Es la segunda vez que vamos al lugar, la verdad que excelente, desde la ambientacion a la comida, muy onda safari, tiene una carta no muy extensa pero gustosa y siempre hay recomendaciones del chef a muy buen precio, los fines de semana hay karaoke, un lugar distinto en una zona que se esta empezando a notar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "humquerico", 
+      "text": "Un lugar increible en villa ballester (zona norte sres de oleo.)la comida espectacular...sabores, texturas, presentacion, todos lo que comimos ( eramos cinco) quedamos maravillados) una grata atencion y un ambiente con mucha clase...no tiene nada que envidiarle a ningun resto de san isidro/martinez. una joya oculta en zona norte."
+    }, 
+    {
+      "date": "22 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "acciar", 
+      "text": "El lugar esta muy bueno!!!\r\nnos encanto la carta tan diversa, habia hasta sushi y muy buenos pescados. La atencion fue muy amable, solo que tardaron 15 minutos en traer el plato, pero comparando con otros lugares, podemos decir que fue un lugar para recomendar y volver!!!"
+    }, 
+    {
+      "date": "22 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pekesolari", 
+      "text": "en este lugar hay mucha onda de parte de los que trabajan, las mozas muy atentas y serviciales, pero la comida... excelente!!!"
+    }, 
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "erigery", 
+      "text": "la comida es muy buena, el servicio a veces bueno."
+    }
+  ]
+}

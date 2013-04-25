@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "4 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "fabbar1", 
+      "text": "Quien desee comer en la incomodidad de una cama puede pasar por la experiencia. \r\nNosotros la pasamos y no nos sedujo. La comida es medio pelo y los precios altos. \r\n\u00danicamente para explorar nuestro costado snob."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Hipocampo", 
+      "text": "El ambiente muy bueno, no da para comer, es m\u00e1s para ir a tomar algo en pareja."
+    }, 
+    {
+      "date": "12 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Turcapo", 
+      "text": "Ambiente rom\u00e1ntico, perfecto para ir en pareja. \r\nLa comida: tal cual la ped\u00ed. \r\nServicio: no son de profesi\u00f3n pero tienen la mejor predisposici\u00f3n (me atendi\u00f3 Paloma)Y despu\u00e9s de comer, a los sillones..."
+    }, 
+    {
+      "date": "25 Ene 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Verin", 
+      "text": "Oscuro, ni siquiera se ve lo que se come. Si no vas, no te perdiste nada."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gcanu", 
+      "text": "Excelente lugar, digno del mejor lugar de Europa, un lujo."
+    }
+  ]
+}

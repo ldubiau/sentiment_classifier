@@ -1,0 +1,138 @@
+{
+  "malos": [
+    {
+      "date": "4 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Ingmar", 
+      "text": "Ideal para ir a tomar algo con la pareja con la que quer\u00e9s cortar. m\u00fasica fuerte, atenci\u00f3n p\u00e9sima... la propuesta es interesante, la ambientaci\u00f3n (stenciles ...etc) me gust\u00f3, tiene juegos en el fondo, las sillas y mesas son bastante inc\u00f3modas. La cerveza es su fuerte, los tragos son muy flojos (ped\u00ed un negroni y ni lo conoc\u00edan) la comida muuy floja... s\u00f3lo para unas cervezas y charlar. a lo sumo picar algo."
+    }, 
+    {
+      "date": "30 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Crimler", 
+      "text": "visite este lugar varias veces. La ambientaci\u00f3n es fiel a la propuesta: Stencils por todos lados. Hay un peque\u00f1o ambiente donde se exponen cuadernos de artistas que hacen cosas bajo esta est\u00e9tica y est\u00e1 bueno. Es ideal para ir a tomar una cerveza a la terraza o en las mesas de afuera (aunque la calle es bastante ruidosa). Las veces qeu com\u00ed sandwichs, me parecieron bastante pobres. Pedimos picada una vez, no era muy variada. Adentro es demasiado oscuro... la atenci\u00f3n bastante floja"
+    }, 
+    {
+      "date": "12 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Hippie", 
+      "text": "El lugar est\u00e1 muy bueno, es muy original. Qu\u00edz\u00e1s le faltaria apenas un poco de luz. El servicio fue muy bueno.\r\nPero la comida... fui con la intenci\u00f3n de comer una buena picada o unas tapas, nada del otro mundo y no tenian nada! el queso roquefort estaba en mal estado y las papas fritas tardaron una eternidad en salir. \r\nLos tragos buenos.\r\nEl precio fue elevado por lo que comimos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Rockyta", 
+      "text": "Si te gusta el Graffiti y los Stencil, no te lo pierdas! Un lugar sencillo, acogedor repleto de arte! Buena atenci\u00f3n, Buen clima y Buenos precios!"
+    }, 
+    {
+      "date": "28 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "bonbiban", 
+      "text": "Las veces que lo visit\u00e9 fue con amigos a tomar una cerveza. Para eso el lugar es increible. Recomiendo la terraza. Un solo d\u00eda pedimos una picada que nos pareci\u00f3 demasiada b\u00e1sica en comparaci\u00f3n con el ambiente."
+    }, 
+    {
+      "date": "16 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Zonda", 
+      "text": "La comida norte\u00f1a de Deborah es excelente."
+    }, 
+    {
+      "date": "29 Jun 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "pochoclo", 
+      "text": "El jam\u00f3n estaba estropeado y el pan reseco. El queso, no exist\u00eda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jai87", 
+      "text": "Excelente bar, muy buen ambiente y muy buena m\u00fasica."
+    }, 
+    {
+      "date": "4 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sebachakal", 
+      "text": "Un ambiente muy bueno. Excelente m\u00fasica, atenci\u00f3n cordial y correcta."
+    }, 
+    {
+      "date": "25 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elizabeth", 
+      "text": "Excelente ambientaci\u00f3n, muy buena m\u00fasica en vivo, esmerada atenci\u00f3n, terraza copada, un lugar con onda."
+    }, 
+    {
+      "date": "16 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "HERMESIII", 
+      "text": "Un lugar distinto con excelente m\u00fasica y un ambiento de lo mejor."
+    }, 
+    {
+      "date": "15 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "grillex", 
+      "text": "Excelente la m\u00fasica, el servicio y la comida."
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ruso_85", 
+      "text": "Muy bien todo."
+    }
+  ]
+}

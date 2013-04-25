@@ -1,0 +1,158 @@
+{
+  "malos": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "yanicolo", 
+      "text": "Fui el sabado al mediod\u00eda, encargu\u00e9 una napolitana y la pas\u00e9 a buscar 20 minutos m\u00e1s tarde. Result\u00f3 que me hab\u00edan dado una muzzarella y estaba completamente cruda! De precios estan bien, sale $34 la muzza y $45 pero son INCOMIBLES!"
+    }, 
+    {
+      "date": "21 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "tommasi", 
+      "text": "el lugar esta bien, lo necesario para una pizzeria de este estilo. la chica que me atendio fue muy cortes. el problema fue la pizza,  mucho mucho aceite, y pasada de coccion. un pedi mitad provolone y mitad fugazzeta, y la fugazzeta parece una muzzarella con algunos cebollines encima. no volveria"
+    }, 
+    {
+      "date": "6 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ELABUELO", 
+      "text": "La pizza no me gusto, el lugar solo zafa para ir con amigos y al mediodia, la atencion bien, hay lugares mucho mejores para comer pizza..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pauliz", 
+      "text": "Estabamos en la zona y fuimos a probar las pizzas de este lugar, son riqu\u00edsimas!! Un lugar sencillo pero muy recomendable!!"
+    }, 
+    {
+      "date": "14 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Nijdenmu", 
+      "text": "El lugar es peque\u00f1o y sencillo, ideal para ir a ver un partido tranquilo y sin demasiada gente"
+    }, 
+    {
+      "date": "10 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "paolis", 
+      "text": "Lugar sencillo pero original y ameno y en este caso la pizza napolitana estaba muy buena, crocante y cargada de ingredientes cosa dificil en estos tiempos..."
+    }, 
+    {
+      "date": "1 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leioleo", 
+      "text": "No tienen calefacci\u00f3n y cierran muy temprano. Se les hab\u00eda acabado la cerveza y el queso roquefort. En general flojo. La fugazzetta rellena estaba buena. Y me tomaron el cup\u00f3n de descuento sin problemas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Sagan", 
+      "text": "Pizza crocante y muy rica. El lugar es chico y sencillo, la atenci\u00f3n es buena."
+    }, 
+    {
+      "date": "1 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "christiandac", 
+      "text": "El lugar es muy ameno y c\u00e1lido. La pizza es muy rica y la cerveza en su punto justo.\r\nRecomiendo mucho ese lugar!"
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "roximabel", 
+      "text": "Fuimos recomendados y no nos decepciono. la pizza es muy rica y crocante a la piedra. El lugar es sencillo pero agradable, la atencion muy buena.\r\nPara pasar un rato agradable con muyy buena pizza.\r\nVolveremos"
+    }, 
+    {
+      "date": "18 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Gilda_1979", 
+      "text": "La calidad de la Pizza es exelente, muy buena atenci\u00f3n, el lugar es informal pero bien ambientado. Lastima que sacaron los cupones con descuento. Lo recomiendo."
+    }, 
+    {
+      "date": "12 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gustavor", 
+      "text": "ya fui dos veces y la pizza es realmente muy buena , la vez anterior fui a un cumplea\u00f1os y comimos distintos gustos, esta vez una fugazza con faina impresionante.\r\nVolveremos por mas"
+    }, 
+    {
+      "date": "27 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Aili", 
+      "text": "El lugar es chico pero agradable, la atenci\u00f3n es buena y la pizza en este caso muy buena. El valor se debe a que tomamos vino. La carta de vinos y postres es chica."
+    }, 
+    {
+      "date": "12 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "borromeo", 
+      "text": "Excelente la fugazzeta rellena con jam\u00f3n."
+    }, 
+    {
+      "date": "22 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "coti", 
+      "text": "Muy ricos los \u00f1oquis caseros, sobre todo teniendo en cuenta la relaci\u00f3n precio-calidad.\r\nEl lugar algo ruidoso pero calido."
+    }
+  ]
+}

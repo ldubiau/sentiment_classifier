@@ -1,0 +1,116 @@
+{
+  "buenos": [
+    {
+      "date": "30 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "El_Capitan", 
+      "text": "Muy bien logrado el ambiente. La atenci\u00f3n es muy profesional. \r\nExcelente la carta de vinos."
+    }, 
+    {
+      "date": "24 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "patriciaf", 
+      "text": "Muy caro para lo que es. La comida deja mucho que desear; el lugar parece sin terminar, con una decoraci\u00f3n moderna que parece en contrucci\u00f3n. No nos gust\u00f3."
+    }, 
+    {
+      "date": "16 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Xul", 
+      "text": "La comida y el ambiente no son gran cosa. La atencion es regular. Lo principal es la carta de vinos, muy completa, y con una amplia variedad de precios. Tambien es interesante la oferta de vinos por copa."
+    }, 
+    {
+      "date": "12 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "paquito", 
+      "text": "Lamentable. Todo es improvisaci\u00f3n. El servicio y la atenci\u00f3n son p\u00e9simos para la ubicaci\u00f3n (puerto Madero) y el precio. Una estafa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "prevert", 
+      "text": "El lugar es simple y peque\u00f1o pero muy lindo a mi gusto. La atenci\u00f3n es excelente y la comida muy rica. La carta de vinos y las opciones de vino por copa son excelentes. En cuanto al precio no es barato y no se si es la mejor opcion en lo que hace a relaci\u00f3n calidad precio pero sin duda vale la pena conocerlo."
+    }, 
+    {
+      "date": "30 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Loly928", 
+      "text": "Fui con mi novio y realmente nos atendieron muy bien. Borja accedi\u00f3 a contarnos en persona lo que estabamos degustando. El Sommelier nos mostr\u00f3 la exclusiva cava que poseen y realmente nos impresion\u00f3 su conocimiento y los vinos incre\u00edbles que custodia en el lugar."
+    }, 
+    {
+      "date": "29 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Justina", 
+      "text": "Excelente atenci\u00f3n. Estaba Borja y vino a presentarse y a saludar en la mesa."
+    }, 
+    {
+      "date": "16 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ferjelo", 
+      "text": "Los platos no son abundantes para la costumbre argentina de comer hasta hartarse. Sin embargo no se abandona la mesa insatisfecho. \r\nLa carta de vinos es excelente. \r\nLos postres muy buenos."
+    }, 
+    {
+      "date": "1 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "henry1", 
+      "text": "Creo que la ubicaci\u00f3n es mala, ya que por calidad de comida, bodega y decoraci\u00f3n deber\u00eda ser un \u00e9xito y no va mucha gente. quizas necesite mas tiempo para que lo conozcan. Les deseo la mejor de las suertes ya que no hay muchos lugares de esta calidad."
+    }, 
+    {
+      "date": "1 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cdm", 
+      "text": "En general todo muy bien. La bondiola excelente, como as\u00ed tambi\u00e9n las tapas y el postre (Mouse caliente de chocolate). \r\nCobran servicio de mesa pero se compensa con la invitaci\u00f3n de una copa de champa\u00f1a o caf\u00e9."
+    }, 
+    {
+      "date": "19 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lrocca", 
+      "text": "La coccion del pescado es excelente, el resto muy bueno, muy c\u00f3modo. \r\nLe falta estacionamiento y un detalle que complica y crea desconfianza: los vinos est\u00e1n aparentemente baratos pero cobran $10 de descorche con lo que terminan como en todos lados, m\u00e1s la molestia del que atiende de avisarlo al comensal previamente para evitar malos entendidos."
+    }
+  ]
+}

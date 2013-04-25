@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "21 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "UmiYummy", 
+      "text": "Uno va entusiasmado por una carta de tragos completa y prometedora, pero cuando llega: fiasco. Ya nos tendriamos que haber imaginado porque la barra estaba llena de chicas, hueveando. Pedimos un red bird, un jack jager (jack daniels mas jaegermeister) y una cerveza. Volvieron al rato diciendo que no tenian tragos, ni cerveza tirada. No vimos preparar un trago en toda la noche. Aparentemente era mas facil decir que no tenian las cosas (aunque las vimos en la barra)y vender cerveza y champagne. \r\nHabia una banda tocando, que le ponia onda. El ambiente no es malo, un poco joven, quizas."
+    }, 
+    {
+      "date": "27 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pau32", 
+      "text": "Realmente un fiasco. \u00a1Vimos la carta en la pagina web del lugar y estaba b\u00e1rbara, pero al llegar lo \u00fanico que hab\u00eda era s\u00f3lo sandwiches y 2 (dos) platos de cocina bastante b\u00e1sicos! Buena la carta de bebidas. la cena bastante apacible pero despues se llena de adolescentes gritones.\r\nNo se dejen enga\u00f1ar por la web."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "choco", 
+      "text": "Est\u00e1 muy bien ambientado. La comida es excelente. \u00a1Buena noche!"
+    }, 
+    {
+      "date": "4 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "patuna", 
+      "text": "Me encanta el lugar."
+    }
+  ]
+}

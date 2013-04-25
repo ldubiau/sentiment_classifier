@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "29 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "uruguay390", 
+      "text": "El lugar es muy bonito y la decoraci\u00f3n muy original, pero no tiene aire acondicionado (hab\u00eda varios ventiladores). Hay un peque\u00f1o show musical (tango). La comida est\u00e1 bien pero no es nada memorable. No hay valet parking y la atenci\u00f3n de las inexpertas camareras es realmente mala. Por otra parte sus due\u00f1os son muy atentos pero se nota que no son del rubro gastron\u00f3mico. Linda carta de vinos a buen precio."
+    }, 
+    {
+      "date": "30 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Cachupin", 
+      "text": "Lady Maria un restaurante del cual uno no puede dejar de ir.Con una excelente decoracion posmoderna,realizadas por sus duenias \"Maria Martinez\" y \"Dominique Fradusco\";que te sorprenden con sus  especialidades,los Viernes y Sabados en la noche,consejo,un buen vino.\r\nTiene un ambiente calido y tranquilo,del cual uno puede disfrutar el momento elegido.Ideal para ir en pareja o una relajada cena de negocios.Su chef \"Silvio Coronel\" no deja de deleitar con su calidad y varieda del menu.Los postres son increibles en especial el Sambayon,unico!!,tambien la Cremee Brulee,muy deliciosa!!.Lady Maria!"
+    }, 
+    {
+      "date": "17 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "el_viudo", 
+      "text": "Grata sorpresa por calidad de comida, atencion y decoracion."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ludwig", 
+      "text": "Es un lugar donde se come muy bien, a precios \u00a1increibles! una inmejorable atencion, y sus mesas estan cuidadosamente armadas de manera que cada una de ellas es distinta, con sus propias gamas de colores y estilos, todo ello haciendo un espacio unico y magico. la ubicacion es estrategica en una de las esquinas mas porte\u00f1as de capital. en sintesis, se conjugan todos los elementos, para elegir este lugar, ya sea para un almuerzo ejecutivo, o para una cena de a dos, o bien para una reunion de amigos en sus mesas dise\u00f1adas para muchas personas."
+    }, 
+    {
+      "date": "24 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Osolan", 
+      "text": "Muy buen lugar, se come riquisimo"
+    }, 
+    {
+      "date": "24 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "laugl", 
+      "text": "Vale la pena, se come muy bien"
+    }
+  ]
+}

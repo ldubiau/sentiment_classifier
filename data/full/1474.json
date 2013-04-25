@@ -1,0 +1,698 @@
+{
+  "malos": [
+    {
+      "date": "15 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "carolinitacasti", 
+      "text": "Tanto yo como el grupo de amigos que fuimos a la pascana nos fuimos muy desilucionados... mucha demora en tomar el pedido, la comida lleg\u00f3 practicamente fr\u00eda a nuestra mesa, y la atenti\u00f3n (sobretodo por parte del due\u00f1o del lugar) fue malisima, no lo recomiendo para nada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "iagelpue", 
+      "text": "La pizza es muy buena, Vale la pena ir a probarla. A nosotros nos quedaron ganas de volver. El mozo fue muy amabrle y servicial."
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Aussen", 
+      "text": "Las pizzas est\u00e1n muy bien. El mozo fue atento y servicial. Los precios son un poco elevados."
+    }, 
+    {
+      "date": "22 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "SILSIL", 
+      "text": "Las pastas rellenas no fueron de mi agrado pero podr\u00eda promediar diciendo que,  la empanada estuvo bien, talv\u00e9z le agregar\u00eda un poco m\u00e1s de relleno y el tiramis\u00fa de postre estuvo muy bien. El mozo que nos atendi\u00f3 fu\u00e9 muy amable correcto y servicial."
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Osoloco", 
+      "text": "Excelentes pizzas y pastas!!! Un lugar sencillo, con horno de barro. Las pastas muy buenas, las pizzas tambi\u00e9n (finitas y crocantes como nos gusta a nosotros), todo con varias opciones (salsas para las pastas y variedades de pizzas). Pedimos pizza individual de entrada y luego dos platos de pastas, con salas exquisitas. MUY RECOMENDABLE."
+    }, 
+    {
+      "date": "1 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "winnipegjet", 
+      "text": "We ate here in 2007 and went back again last night (Feb 1) n our return to BA, and really enjoyed it. A little slow, but that proves everything was home made. Yum!!"
+    }, 
+    {
+      "date": "27 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Alely", 
+      "text": "Fuimos cuatro personas y comimos una pizza grande de dos gustos (8porciones), muy rica, y tres fainas una empanada y 4 gaseosas. La atenci\u00f3n correcta y el ambiente normal, nada del otro mundo. Gastamos $150.-  Nos gust\u00f3."
+    }, 
+    {
+      "date": "24 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alelanglois", 
+      "text": "Excelentes pastas, porciones abundantes a precios m\u00e1s que razonables. La pizza y las milanesas tambi\u00e9n son muy buenas."
+    }, 
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lumier", 
+      "text": "Un lugar de barrio, con un buen plato de pastas, sobre todo MUY ABUNDANTE, mas de 8 sorrentinos por plato. Volveria!"
+    }, 
+    {
+      "date": "1 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Maddie", 
+      "text": "Ambiente regular, muy tranquilo para ir un lunes. La atenci\u00f3n fue muy buena, supieron recomendar y tuvieron muy buena actitud. Probamos s\u00f3lo la pizza, la de provolone con jam\u00f3n nos pareci\u00f3 buena; la de jam\u00f3n crudo y r\u00facula fue un poco salada y nos quedamos con algunas dudas respecto de si era jam\u00f3n crudo o bondiola. Los precios son caros. No probamos ni las pastas que prometen mucho, ni las pizzas rellenas o los calzones, que tienen rellenos muy originales que hasta ahora no hab\u00edamos visto. Hay descuento por pago en efectivo los lunes martes y mi\u00e9rcoles que hacen que sea un poco menos caro."
+    }, 
+    {
+      "date": "29 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "arik", 
+      "text": "Buena pizza y punto. No probamos las pastas que parecen ser otro punto importante de la carta."
+    }, 
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "argenteens", 
+      "text": "Nos encanta este restaurante. Somos extranjeros viviendo ya por 2 a\u00f1os en Palermo y diario comimos en restaurantes. Cuando simplemente queremos buena comida y servicio agradable por un precio accesible, nos dirigimos a La Pascana. \r\n\r\nJunto con mis esposa aprovechamos de su amplio menu ejecutivo (antes $16.50 y hoy 07-2010 $25) varias veces cada semana. Siempre sobre comida y nos gusta tanto que la llevamos a casa para recalentar en la noche. Para cenar, sus ensaladas, pastas y pizzas son buenas (no hay minutas en la noche)."
+    }, 
+    {
+      "date": "28 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "JJwinter", 
+      "text": "Estuvo rica la pizza y la atencion fue muy buena, el ambiente deja mucho que desear. Igual nos parecio un poco caro."
+    }, 
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Her_2004", 
+      "text": "Es un restaurante muy bien puesto, tranquilo para charlar y tener una muy buena velada. El servicio es muy bueno, lo \u00fanico malo es que te apuran sutilmente a que elijas. Peor el resto excelente precio, calidad y servicio.\r\nSaludos."
+    }, 
+    {
+      "date": "18 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "kufy", 
+      "text": "me gusta la pasacana, vuelvo seguido.. si bien subieron los precios siempre termino comiendo bien y rico. las pastas son muy buenas, el servicio siempre es regular a bueno, pero siempre hay lugar sin esperar. un lugar correcto tanto en precio y calidad como en pretenciones."
+    }, 
+    {
+      "date": "24 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Marimar25", 
+      "text": "Las pastas muy ricas, caseras, las salsas excelentes. La atenci\u00f3n muy buena. Adem\u00e1s pocas mesas lo que hace que el lugar no sea tan ruidoso. En contra, las mesas muy pegadas."
+    }, 
+    {
+      "date": "29 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rancho", 
+      "text": "El ambiente es agradable, la comida no me pareci\u00f3 barata pero si abundante, tuvimos que pedir que nos pongan m\u00e1s salsa porque ven\u00eda escaso el fileto y la bolognesa muy seca. Los \u00f1oquis estaban muy ricos.\r\nLa atenci\u00f3n es buena."
+    }, 
+    {
+      "date": "7 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ayaxtelamonio", 
+      "text": "Es un sitio de PASTAS, PIZZAS Y EMPANADAS,muy bien ubicado en Palermo y que no te rompe la cabeza.El lugar es sencillo y se COME BIEN. Las EMPANADAS DE CARNE Y LAS DE BERENJENAS estaban muy sabrosas RECOMENDABLES AMBAS. Los principales:SORRENTINOS PEPERONI con SCARPARO,rica pasta rellena,le pifiamos con la salsa ya que le tapaba casi todo el sabor,se disfrutaban m\u00e1s acompa\u00f1ados con el queso que te traen a la mesa.Y LO MEJOR,los VARENIKES con la CEBOLLA REHOGADA, UNA DELICIA!. Si a todo esto le sumas una correcta carta de vinos m\u00e1s una esmerada atenci\u00f3n........lo hacen un lugar recomendable."
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Exquisitas pastas, super abundantes los platos, la atenci\u00f3n de la moza fue muy amable, tiene precios muy buenos para la zona. Recomendable"
+    }, 
+    {
+      "date": "15 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kaine", 
+      "text": "Un lugar muy bueno para comer pastas, porciones abundantes, la ubicacion es buena, lastima la mala educacion de el mozo que estubo todo el tiempo mirando a mi mujer desde la barra, un mal educado y ordinario. una accion que piense 2 veces antes de volver"
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MILIDX", 
+      "text": "Tanto las Pizzas como las Pastas son muyyy buenas, pero la pasta deber\u00eda ser una comida barata y no lo es.( $18 aprox). La porci\u00f3n de pastas es abundante, pagas el plato caro y te sobra comida. Y no da para compratir pastas! A mi gusto preferir\u00eda que bajen un poco el precio y que achiquen las porciones ( para el caso de pastas)\r\nCuesta casi lo mismo q ir a comer al lugar que pedir que te la manden! En el Delivery de pastas, muy escaso el queso de rallar.\r\nLos mozos son muy educados y atentos!\r\nNo hay gran variedad de postres."
+    }, 
+    {
+      "date": "19 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "JA", 
+      "text": "Una cierta desmejora en las empanadas, a la vista de otras muy buenas a\u00f1os atras, ... y unas porciones de queso rallado increiblemente paup\u00e9rrimas en el servicio de delivery de pastas. La atenci\u00f3n y el sabor de la comida muy agradables."
+    }, 
+    {
+      "date": "23 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Xeneize", 
+      "text": "Excelente pizza, buena atenci\u00f3n. El mejor Don Pedro de Buenos Aires."
+    }, 
+    {
+      "date": "4 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kiddo", 
+      "text": "riqu\u00edsima la pizza con masa de salvado y las empanadas de berenjenas, rocendable para delivery."
+    }, 
+    {
+      "date": "29 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "diegoguia", 
+      "text": "Platos abundantes y mozos muy atentos."
+    }, 
+    {
+      "date": "15 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Wendy", 
+      "text": "Lo mejor de la Pascana: pedir delivery de Panzottis de verdeo a la crema de espinacas...llegan a punto, calentitos \u00a1\u00a1\u00a1y saben muy bien!!! Y encima es bastante econ\u00f3mico. Al local fu\u00ed un par de veces y no est\u00e1 tan mal. La atenci\u00f3n es buena pero las pizzas y empanadas no son de mis preferidas."
+    }, 
+    {
+      "date": "1 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "WOW_Argentina", 
+      "text": "Es un lugar para ir a comer ricas pizzas y empanadas. Las pastas son buenas pero no se destacan. Precios muy accesibles para estar ubicado en Palermo Hollywood. Decoraci\u00f3n r\u00fastica, casi inexistente, de hecho contrasta bastante con el estilo \"cool\" de la mayor\u00eda de los restaurantes de la zona. Conviene ir temprano porque se llena."
+    }, 
+    {
+      "date": "16 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Costas", 
+      "text": "Las pizzas y empanadas son muuuy ricas. El lugar es realmente feo pero no pretende otra cosa. Ideal para juntarse con los amigos de siempre."
+    }, 
+    {
+      "date": "10 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "quato", 
+      "text": "Excelentes pizzas, muy variadas y originales. Muy buenas pastas. Para comer ah\u00ed o para aprovechar el delivery si sos de la zona."
+    }, 
+    {
+      "date": "24 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "solilu", 
+      "text": "El lugar es agradable. \r\nMuy buena variedad en pastas y diversidad de salsas. Distintivo: La atenci\u00f3n en mesas, las chicas son muy atentas. Correcta la relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "6 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JA", 
+      "text": "Las empanadas siguen siendo muy buenas. Voy a proponerme conocer esas pastas en una pr\u00f3xima visita."
+    }, 
+    {
+      "date": "15 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "m_a_r", 
+      "text": "Nos gust\u00f3 mucho el lugar y la comida. El tiempo de espera no fue mucho. Recomendable."
+    }, 
+    {
+      "date": "27 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vegetariana", 
+      "text": "Muy buena la pizza. R\u00e1pido y eficiente el delivery. Me gust\u00f3 el precio. No conozco el ambiente."
+    }, 
+    {
+      "date": "4 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "crisalterna", 
+      "text": "Muy buena la atenci\u00f3n, la comida muy buena tambi\u00e9n. El ambiente medio com\u00fan nom\u00e1s, pero aceptable dentro de todo."
+    }, 
+    {
+      "date": "27 Dic 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sopapita1", 
+      "text": "Baj\u00f3 la calidad de las pastas, espero que sea temporal."
+    }, 
+    {
+      "date": "18 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Lauriblues", 
+      "text": "Es un lugar rico y est\u00e1 bien atendido (aunque por momentos se olvidan que uno est\u00e1 all\u00ed y cada tanto se equivocan). \r\nEl ambiente es muy malo, ya que parece que arman los pedidos para delivery all\u00ed y no es muy agradable."
+    }, 
+    {
+      "date": "5 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El lugar es c\u00e1lido y se presta a ir en grupo para festejar y pasarla bien con una buena pizza"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "21hummingbird", 
+      "text": "Extra\u00f1amos La Pascana! Buenisima atenci\u00f3n, los platos son abundates super caseros, el menu guarda muy buena relacion  entre precio y calidad.. el menu ejecutivo tiene opciones muy variadas.. xcelentes  las milanesas al horno, los \u00f1oquis, la pizza.. todo!"
+    }, 
+    {
+      "date": "4 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jb_7", 
+      "text": "muy bueno vamos siempre y la verdad que las pastas son muy ricas y la atenci\u00f3n es excelente todo es muy fresco y se nota como siempre volveremos...."
+    }, 
+    {
+      "date": "4 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarinaVS", 
+      "text": "Muy ricas y abundantes las pastas, al igual que los postres: la porci\u00f3n de bud\u00edn de pan y la de helado eran gigantes."
+    }, 
+    {
+      "date": "12 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aleaa", 
+      "text": "Excelentes las pastas rellenas, lo mismo que los calzones. Lo que han mejorado mucho, son los postres. Muchas opciones, muy diferentes, y alguna muy originales. Compartimos 3 postres, y todos estaban deliciosos."
+    }, 
+    {
+      "date": "3 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "grosbard", 
+      "text": "Las pastas son excelentes, muy recomendables. Ya fui varias veces y la calidad sigue siendo la misma."
+    }, 
+    {
+      "date": "17 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MyMedialuna", 
+      "text": "Siempre pido empanadas. Son Increibles y es mi delivery preferido.\r\nTambi\u00e9n pido pastas que son exquisitas. Los \u00f1oquis tricolor o los fetuccini son espectaculares.\r\nFui a comer una sola vez y me atendieron barBaro...es verdad que el lugar es chiquito.\r\nSi alguien necesita un delivery de pastas o de empanadas YO LO SUPER RECOMIENDO."
+    }, 
+    {
+      "date": "27 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chichilo", 
+      "text": "es super recomendable la comida es excelente y el precio esta muy bien."
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "surfer83", 
+      "text": "Como en La Pascana regularmente, la mayor cantidad de veces en forma de delivery. Realmente no me canso de este restaurant. La calidad de las pastas, pizzas y empanadas en sencillamente increible e impecable, asi como las salsas. Los sorrentinos en cualquiera de sus varierdades, son espectaculares. Altamente recomendables."
+    }, 
+    {
+      "date": "31 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hersafi", 
+      "text": "Hac\u00eda mucho tiempo que no com\u00eda unas pastas tan sabrosas, unos agnolottis con salsa parissien realmente excelentes, perfecto equilibrio entre ricota, jam\u00f3n y nuez, cocidos en su punto justo, y la salsa tambi\u00e9n 10 puntos. Tuvimos que esperar un poco afuera pero vali\u00f3 la pena. Mantienen la calidad de siempre. La copa La Pascana (Helado de mascarpone y frutos rojos) estuvo bien, pero las frambuesas estaban un poco congeladas."
+    }, 
+    {
+      "date": "5 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "disemafe", 
+      "text": "Fuimos un domingo a las 2:30, el lugar estaba lleno y eramos 5, nos dijeron que hab\u00eda una espera de 30 minutos y casi nos fuimos, felizmente alguien dijo para sentarnos en mesas separadas ya que la comida result\u00f3 de la mejor que probamos en los 10 d\u00edas que hemos estado en Buenos Aires, realmente tiene una excelente pasta. La atenci\u00f3n a pesar de lo lleno fue impecable y los precios resultan muy razonables. Definiticamente lo vamos a recomendar a nuestros amigos en Per\u00fa. Felicitaciones."
+    }, 
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Pablo_BA", 
+      "text": "El lugar es bastante feo, imposible negarlo, especialmente por la falta de espacio y la \"contaminaci\u00f3n visual\" del \u00e1rea de delivery, pero la comida es excelente (para este tipo de cocina, desde luego), al igual que el servicio, que si bien no llega a excelente es muy bueno (los gerentes del local le dan la parte \"muy\")."
+    }, 
+    {
+      "date": "14 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pabloelcuervo", 
+      "text": "Buen lugar, buena atenci\u00f3n y buenos productos."
+    }, 
+    {
+      "date": "3 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "natuchi1980", 
+      "text": "Vale la pena ir. Es un lugar donde la relaci\u00f3n precio/calidad est\u00e1 bien lograda. Es un restaurante sencillo, en una linda zona. Yo com\u00ed pastas y son realmente muy muy buenas."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juanfra78", 
+      "text": "Comida excelente, lugar regular, limpio, con aires aut\u00f3ctonos, no elegante pero ordenado, chico y c\u00e1lido."
+    }, 
+    {
+      "date": "18 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Knard", 
+      "text": "Las mejores pastas de Palermo a un precio justo. El ambiente es muy agradable y sin pretensiones. Lo mejor: el servicio s\u00faper profesional de Alicia y Romina."
+    }, 
+    {
+      "date": "9 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MaxPower", 
+      "text": "Como en \"La Pascana\" al menos una vez por semana, desde hace tres meses y no me canso. Muy buena cocina."
+    }, 
+    {
+      "date": "5 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Liky", 
+      "text": "Fui con amigas a comer pastas y nos sorprendi\u00f3 la calidad y cantidad de los platos. La atenci\u00f3n de los mozos fue muy cordial.\r\nRecomiendo los sorrentinos de salm\u00f3n y el pan de pizza."
+    }, 
+    {
+      "date": "25 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "moonday", 
+      "text": "Excelentes las pizzas y los mejores varenikes de Buenos Aires, en un lugar cl\u00e1sico pero cada vez mejor. \r\n\u00c1ltamente recomendable."
+    }, 
+    {
+      "date": "29 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "Siguen siendo excelentes las pizzas y las empanadas del lugar. El servicio ha mejorado mucho, m\u00e1s personal y muy atentos, tras el retoque hacia arriba en los precios."
+    }, 
+    {
+      "date": "24 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bruja", 
+      "text": "Fui a la Pascana por el comentario de Gu\u00eda Oleo y no me defraud\u00f3.\r\nEs la primera vez que voto por internet y mi calificaci\u00f3n es excelente: la comida, la atenci\u00f3n y el lugar."
+    }, 
+    {
+      "date": "16 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "majo_nqn", 
+      "text": "Muy buenas pastas, sumamente caseras. Las empanadas al horno de jam\u00f3n y queso son riqu\u00edsimas. L\u00e1stima que el lugar es muy desali\u00f1ado. Parece que era una rotiser\u00eda reformada muy pobremente.\r\nPero ac\u00e1 lo que importa es la comida. Lo recomiendo.\r\npd: tiene un muy buen delivery."
+    }, 
+    {
+      "date": "15 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "EMS", 
+      "text": "Excelente variedad de pizzas y muy buenas pastas. Muy buena opci\u00f3n el delivery si sos de la zona."
+    }, 
+    {
+      "date": "1 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "luditas", 
+      "text": "Muy buenos la pizza y fain\u00e1. La atenci\u00f3n bien. El lugar no es agradable, lo podr\u00edan mejorar. \r\nBuen precio."
+    }, 
+    {
+      "date": "8 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "contacto3", 
+      "text": "Excelente lugar. En su web est\u00e1n los precios."
+    }, 
+    {
+      "date": "14 Ene 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "EHC", 
+      "text": "Tienen buenos precios. Las empanadas y las pizzas son siempre muy buenas. \r\nCuando se equivocan en un pedido, como pas\u00f3 con nosotros, saben corresponder con un cliente que volver\u00e1 seguro. \r\nMe gusta mucho este lugar."
+    }, 
+    {
+      "date": "7 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "2281", 
+      "text": "Muy buena la calidad de las pizzas y las pastas, que son la especialidad de la casa: realmente caseras."
+    }, 
+    {
+      "date": "3 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "terhu", 
+      "text": "Fui ayer a cenar, recomendada por una amiga. \r\nComimos unas empanadas alucinantes y una fugazzeta rellena de at\u00fan que estaba buen\u00edsima. \r\nLos vinos est\u00e1n a muy buen precio, los camareros son muy serviciales."
+    }, 
+    {
+      "date": "29 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vicu24", 
+      "text": "La comida es muy buena, la atenci\u00f3n cordial. Para resaltar el ambiente muy familiar."
+    }, 
+    {
+      "date": "17 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alberto8", 
+      "text": "Lugar agradable. Precios muy acorde con la calidad de la comida, que por cierto es muy buena."
+    }, 
+    {
+      "date": "22 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "Deliciosa masa de las empanadas y las pizzas, rellenas con delicadeza y muy buenos ingredientes. Bien la carta de vinos y bebidas. Muy buenos precios. Sobre el servicio y ambiente: varios aspectos muy buenos y algunos lunares a tratar por ser regulares a malos, como las reglas de higiene que no cumplen los cocineros trabajando a la vista. El control de la gesti\u00f3n me parece demasiado centralizado y que se desborda en horas pico y conlleva a errores anecdoticos en los pedidos y la falta de toallas o secador en el muy limpio y ordenado ba\u00f1o de hombres. Pero son s\u00f3lo detalles que no empa\u00f1an una deliciosa cocina."
+    }, 
+    {
+      "date": "14 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Foier", 
+      "text": "Excelentes pastas, buen precio, el servicio le falta un poquito. Otro lugar en donde no te dan lo que corresponde si no lo ped\u00eds."
+    }, 
+    {
+      "date": "31 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "veronica2", 
+      "text": "Muy buena la comida y la atenci\u00f3n."
+    }
+  ]
+}

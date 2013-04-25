@@ -1,0 +1,388 @@
+{
+  "malos": [
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jorgekr", 
+      "text": "Mariscos las porciones son chicas para compartir no alcanzan, y para una persona el precio es caro. Igual lleno el lugar porque es chico, sin gran variedad en el me\u00f1u y la carta. La cocina es aceptable, atenci\u00f3n pasable. (19-05-2012)"
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cesalvar", 
+      "text": "realmente el arroz de la paella fuera de serie, lastima que solo encontre pollo y muy poquito de calamar, pues el pulpo los camarones, langostinos, habian desaparecido."
+    }, 
+    {
+      "date": "6 Jul 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "miguecampos", 
+      "text": "Fui varias veces y la calidad lamentablemente fue bajando. El jamon serrano era pura grasa, la tortilla tardo 40 minutos y la paella era puro calamar y \"un\" camaron de adorno en el medio. Una pena."
+    }, 
+    {
+      "date": "3 Ago 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Lucioytere", 
+      "text": "P\u00e9sima atenci\u00f3n. \r\nSirvieron, luego de insistencia, el plato con una hora de demora.\r\nSucio el sal\u00f3n y nadie se hizo cargo de la lentitud en el servicio."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Abu_Tito", 
+      "text": "Si bien el ambiente es bueno y la atenci\u00f3n muy cordial, nos decepcion\u00f3 la comida. \r\nTrat\u00e1ndose de un restaurante t\u00edpicamente gallego, imaginamos un sabor algo m\u00e1s destacado. No dir\u00e9 que es mala, pero es lo que uno encuentra en cualquier restaurante de medio pelo.\r\nEl precio abonado result\u00f3 excesivo para lo consumido. Una entrada compartida, compuesta por unas rodajas de cantimpalo de supermercado ($ 35.00) y un poco de queso supuestamente gruyere de segunda marca ($17.00). Media paella $90.00 \r\nNo tengo intenciones de regresar."
+    }, 
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Es un lugar muy familiar, atendido por una se\u00f1ora que sabe asesorar amablemente sobre los platos de la carta. La comida es muy buena y abundante. Es un restaurante que sin lujos, logra que el comensal se sienta c\u00f3modo y salga con ganas de repetir la experiencia."
+    }, 
+    {
+      "date": "20 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "wc2462", 
+      "text": "Comida aceptable, precio accesible, paciencia con la atenci\u00f3n, llan\u00f3 mi atenci\u00f3n que un 50 % de las mesas pidi\u00f3 bebidas alcoholicas y otro 50 % almorzaba con sifon de soda."
+    }, 
+    {
+      "date": "20 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "manlio", 
+      "text": "con mi esposa muy buena comida"
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gusdel2009", 
+      "text": "El lugar es sencillo parece la t\u00edpica casa de una t\u00eda, pero la comida es muy buena, muy abundante (para compartir!!!) y justifica la espera; la gran mayor\u00eda de los comensales se conoc\u00edan con Manolo (el due\u00f1o), y creo que esa es la mejor carta de presentaci\u00f3n, todos eran habit\u00faes del restaurante. Los precios son m\u00e1s que razonables, merece ser conocido."
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ArmenioRengo", 
+      "text": "Muy buena la paella, algo lento el servicio ya que estaba lleno, se hizo esperar la paella, pero valio la pena la espera!!!"
+    }, 
+    {
+      "date": "1 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "JDamian", 
+      "text": "Atendido por su due\u00f1o, destaca un clima familiar y al no tener ventana a la calle, sino interna, varias parejitas se ocultaban alli. No da una gran impresion el lugar pero la comida satisface al mas exigente y la gente que habia se veia habitue del lugar."
+    }, 
+    {
+      "date": "21 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "rhr955", 
+      "text": "Es un bodeg\u00f3n hispano, en el que una se\u00f1ora se da ma\u00f1a para atender sola todas las mesas. Ambiente festivo y ruidoso, sal\u00f3n chico y sin lujos. Comimos una tortilla buena pero con las papas previamente hervidas, y una cazuela de pulpo muy buena, plato aparentemente nuevo en la carta. El \u00fanico postre espa\u00f1ol del men\u00fa, natillas, fueron expresamente desaconsejadas por la mesera. La carta de vinos es corta y demasiado cara. Para ir en grupos grandes y hablar mas fuerte que los vecinos."
+    }, 
+    {
+      "date": "9 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chorni", 
+      "text": "Responde al tipo de restaurantes regionales de tradici\u00f3n espa\u00f1ola. En este caso con muy buena cocina, con un men\u00fa inalterable al paso el tiempo. Muchos se quejan del ambiente y el servicio, pero hay que entender que ese es el estilo de este tipo de restaurantes y est\u00e1 bien que as\u00ed sea."
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Mr_colmillo", 
+      "text": "Muy buena calidad de la comida, excelente el arroz con mariscos.\r\nEl lugar es sencillo, la atenci\u00f3n amable aunque no profesional y los platos se demoran dado que todo se hace en el momento.\r\nRecomendable para comer muy bien, con tiempo y sin pretensiones acerca del lugar."
+    }, 
+    {
+      "date": "10 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Draki", 
+      "text": "Este lugar es para aquellos que vayan con la \u00fanica pretensi\u00f3n de comer MUY BIEN (cocina espa\u00f1ola) a un PRECIO M\u00c1S QUE RAZONABLE. Tener en cuenta que es el buffet de una sociedad de fomento atendido por PERSONAS AMABLES PERO NO PROFESIONALES, en un AMBIENTE MODEST\u00cdSIMO. Es recomendable reservar."
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "eusad", 
+      "text": "Comida espa\u00f1ola de primera y muy barata, platos exquisitos y muy abundantes... Si bien te atienden amablemente, hay que esperar much\u00edsimo para que traigan el pedido. Y hay d\u00edas en los que vas y no est\u00e1 disponible el restaurante porque hay eventos o bien est\u00e1 cerrado. Recomendaci\u00f3n: Llamar antes de ir para no clavarse."
+    }, 
+    {
+      "date": "7 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "noradebartolo", 
+      "text": "Nada del otro mundo. No sobresale en nada."
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "maryjoe", 
+      "text": "Recomiendo el cantimpalo como entrada, excelente.  El arroz con mariscos est\u00e1 bien, es sabroso, aunque vino sin camarones y sin pulpo.  Natillas algo insulsas y chirlas.  El encargado se esmera pero la atenci\u00f3n es lenta y la comida tard\u00f3 bastante.  La carta de vinos es muy escasa.  El lugar es modesto pero c\u00f3modo y c\u00e1lido."
+    }, 
+    {
+      "date": "29 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pelicura", 
+      "text": "La comida excelente."
+    }, 
+    {
+      "date": "21 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lauringil", 
+      "text": "El lugar es familiar y acogedor, siempre es bueno ser recibido por el propio due\u00f1o. La paella tard\u00f3 y vino salad\u00edsima (casi incomible), no ten\u00edan panqueques esa noche. El salm\u00f3n estuvo bien, todo acorde a una cantina espa\u00f1ola."
+    }, 
+    {
+      "date": "10 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LuigiTrastorno", 
+      "text": "El lugar es familiar, con m\u00fasica flamenca de fondo. El due\u00f1o (andaluz) es un personaje, y orienta bien con los platos. Muy bueno el arroz con mariscos, buen balance en los mariscos (y no como muchos que lo llenan de calamar porque es m\u00e1s barato). Recomendable."
+    }, 
+    {
+      "date": "26 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pabcap", 
+      "text": "El lugar est\u00e1 un poco escondido y es familiar. La atenci\u00f3n la realiza el due\u00f1o y tiene buen trato. Las rabas no eran de lo mejor. La paella estuvo muy rica, pero tard\u00f3 una eternidad. Recomiendo el lugar para quien gusta de los mariscos. Ir con paciencia."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "riveranoe", 
+      "text": "De las mejores paellas (arroz con mariscos). La com\u00ed de casualidad ya que la camarera se equivoc\u00f3 de plato ordenado. Si bien la atenci\u00f3n no fue la m\u00e1s eficaz, los platos abundantes y gustosos hacen que valga la pena la visita. Para los amantes de la buena comida espa\u00f1ola!"
+    }, 
+    {
+      "date": "15 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fernandah", 
+      "text": "Excelente comida! Pedimos jamon crudo, rabas y media paella para dos adultos y un ni\u00f1o. La paella es de lo mejor que he probado. Demoran bastante pero valio la pena!"
+    }, 
+    {
+      "date": "9 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mr-Colmillo", 
+      "text": "Calidad y precio se cumple. Destaco la atencion de Manolo. La mayoria de los platos son buenos. Sobre todo recomiendo el arroz con mariscos."
+    }, 
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "JulyFede", 
+      "text": "100% Recomendable. No comi tan buena paella y cazuela de mariscos en ningun otro lado. Los pescados increibles. El lugar no es ni lindo ni glamoroso pero .\u00bfuno va a comer o a mirar las paredes ? Faro de Vigo..sos lo mas !! Beti creo que se llama asi la Sra. que atiende las mesas, le pone toda la onda pero se tarda. A veces se llena. Hay que esperar a veces 40 min aprox. pero aseguro q la comida lo vale."
+    }, 
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Patote", 
+      "text": "Fui hace 1 a\u00f1o o mas y la paella era excelente.\r\nMi comentario apunta mas a avisar que intente ir el domingo a la noche y estaba cerrado. Pregunte al kiosco de enfrente y me dijo que los domingos estaban abriendo al mediodia. A no clavarse!"
+    }, 
+    {
+      "date": "14 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "daniel2011", 
+      "text": "Todo exquisito. El arroz con mariscos un canto al sabor. La cazuela desluce a lo m\u00e1s rico imaginado. La atenci\u00f3n, acorde a este tipo de restaurentes. Poco que comentar del ambiente."
+    }, 
+    {
+      "date": "3 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gangi", 
+      "text": "realmente comicos excelente, las gambas no tienen competencia, exc los calamates fritos y explota el arroz con mariscos, lo recomiendo para amantes de la buena comida sin exigir mucho en estetica y decoracion, la atencion es muy amable, reservar si o si, mariano"
+    }, 
+    {
+      "date": "11 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lauriss", 
+      "text": "No es la primera vez que vamos con amigos. Siempre comemos excelentes mariscos, frescos y a muy buen precio. El lugar es un bodeg\u00f3n muy sencillo, no esperen m\u00e1s, pero la comida vale la pena."
+    }, 
+    {
+      "date": "8 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "germangoar", 
+      "text": "La atenci\u00f3n como siempre es lenta, hay que ir armado de paciencia, si uno sabe eso de antemano, es un restaurant muy recomendable. Comida espa\u00f1ola de primera clase por un precio muy conveniente. El arroz con mariscos es obligatorio aunque tarda bastante . El pulpo prohibitivo, est\u00e1 $140 la porci\u00f3n. La natilla muy suave, una delicadeza. Esta vuelta no comimos calamaretis aunque suelen ser excelentes.\r\nComida espa\u00f1ola de esta calidad y por este precio en Bs.As, muy dificil. La atenci\u00f3n es de regular para abajo, pero se ve ampliamente compensada. Muy recomendable."
+    }, 
+    {
+      "date": "13 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JDamian", 
+      "text": "La comida es sencillamente riqu\u00edsima. La espera se ameniza con la charla del due\u00f1o que es un andaluz muy gracioso (igualmente tarda) pero lo bueno se hace esperar. Realmente se nota cuando la comida no esta recien hecha. Cualquier cosa con arroz que pidan sera genial. Un ambiente peque\u00f1o, acogedor y familiar para comer en la cocina de una abuela espa\u00f1ola que nunca tuve."
+    }, 
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Fripp", 
+      "text": "Ya desde la entrada me dio buena sensaci\u00f3n. Es un lugar acogedor, que por lo visto acaban de remozar. La atenci\u00f3n es casera, sin demasiadas pretenciones, aunque c\u00e1lida. Pero lo m\u00e1s importante, que es la comida, sencillamente excelente. El arr\u00f3z con mariscos era magistral; ten\u00eda unos langostinos que no com\u00ed ni en Espa\u00f1a, y los calamares se deshac\u00edan en la boca. Los pedidos tardan, pero vale la pena esperar. Los calamaretti tambi\u00e9n fueron reverenciados como correspond\u00eda. La pr\u00f3xima pruebo otras cosas para ver si el nivel es parejo."
+    }, 
+    {
+      "date": "9 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Milhouse", 
+      "text": "Altamente recomendable si te gusta la comida espa\u00f1ola. La paella era espectacular, el due\u00f1o un gallego muy gracioso y la mujer una cocinera de aquellas. Cada vez que puedo voy, adem\u00e1s el ambiente es muy familiar y las porciones muy generosas"
+    }, 
+    {
+      "date": "24 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "silviasa", 
+      "text": "Me convert\u00ed en habitu\u00e9."
+    }, 
+    {
+      "date": "29 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lejanisi", 
+      "text": "Comida estupenda, lugar muy simp\u00e1tico."
+    }, 
+    {
+      "date": "21 Oct 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mercho", 
+      "text": "Comparto el comentario de los usuarios anteriores, pero resalto el arroz con mariscos, aunque haya que esperar una hora (lo que deber\u00edan hacer es avisar la demora y uno elige)."
+    }, 
+    {
+      "date": "10 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lejourna", 
+      "text": "Es una rareza de Buenos Aires, poco difundida. La cocina es esmerada, las porciones son abundantes, aptas para compartir."
+    }
+  ]
+}

@@ -1,0 +1,548 @@
+{
+  "malos": [
+    {
+      "date": "6 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "lino45", 
+      "text": "Se mudo o cerr\u00f3."
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ilmandril", 
+      "text": "Otro fracaso de Palermo, la comida es mala, no trae lo que promete la carta, viene tristemente presentado y preparado, sin gracia ni sabor. La atenci\u00f3n es igualmente mediocre. Nunca jamas volveria."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mamo", 
+      "text": "Todo muy rico y fresco. La atencion estuvo bien. El lugar es agradable. Relaci\u00f3n precio / calidad perfecta. Volver\u00eda."
+    }, 
+    {
+      "date": "15 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mariannet", 
+      "text": "Que pena que haya cerrado!! Fui hace un tiempo con una amiga y la comida era muy rica, el lugar sencillo pero muy lindo, la atencion muy buena. Una lastima!! (\u00bfalguien sabe por qu\u00e9 cerraron?)"
+    }, 
+    {
+      "date": "9 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nijdenmu", 
+      "text": "Ingredientes fresqu\u00edsimos y atenci\u00f3n amable, muy linda opci\u00f3n para el mediod\u00eda y comer sano y barato"
+    }, 
+    {
+      "date": "28 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "WOW_Argentina", 
+      "text": "Se destacan los sandwiches que son originales y de muy buena calidad, haciendo de Pinkalola una opci\u00f3n distinta e innovadora en la zona de Plaza San Mart\u00edn. La relaci\u00f3n precio-calidad es excelente. Los mozos se esfuerzan y son muy amables pero les falta prontitud y m\u00e1s profesionalismo en la toma de pedidos y la atenci\u00f3n. El men\u00fa r\u00e1pido del mediod\u00eda no es r\u00e1pido. Hay que ir con tiempo. El servicio de delivery es muy bueno."
+    }, 
+    {
+      "date": "28 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "WOW_Argentina", 
+      "text": "Se destacan los sandwiches que son originales y de muy buena calidad, haciendo de Pinkalola una opci\u00f3n distinta e innovadora en la zona de Plaza San Mart\u00edn. La relaci\u00f3n precio-calidad es excelente. Los mozos se esfuerzan y son muy amables pero les falta prontitud y m\u00e1s profesionalismo en la toma de pedidos y la atenci\u00f3n. El men\u00fa r\u00e1pido del mediod\u00eda no es r\u00e1pido. Hay que ir con tiempo. El servicio de delivery es muy bueno."
+    }, 
+    {
+      "date": "17 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Maxi77", 
+      "text": "Me encant\u00f3 el lugar, muy buena atenci\u00f3n. Algo diferente, vale la pena !!"
+    }, 
+    {
+      "date": "2 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "roxi9", 
+      "text": "Al mediodia, durante la semana, uno espera comer en un lugar relajado para distraerse del ambiente laboral. Pero no fue asi. Fuimos con mis compa\u00f1eras de trabajo porque parecia un lugar agardable sin embargo el servicio fue pesimo, la demora eterna, y recien a los 45 minutos trajeron lo que ellos llaman entrada: \"dos tostadas con una mezcla sospechosa de salsa capresse\". El resto de la comida estuvo bien pero como se imaginaran tardaron mucho mas en llegar el resto de los platos. No voy a volver porque en ningun momento se disculparon por la gran demora."
+    }, 
+    {
+      "date": "2 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mel1984", 
+      "text": "La atenci\u00f3n fue mala, teniendo en cuenta que hay un men\u00fa del d\u00eda uno espera que la comida llegue r\u00e1pido y eso no sucedi\u00f3 ni siquiera con la entrada (el mozo tir\u00f3 una de las broquetas de la entrada de mi amiga y ni siquiera la repuso o le cambi\u00f3 el plato). Estuve a punto de levantarme e irme cuando llego el plato principal. En ning\u00fan momento nos pidieron disculpas por la demora."
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "VanAiken", 
+      "text": "Festeje mi cumpleanos nuevamente en este lugar, y no me fallaron, ni la atenci\u00f3n ni la comida acotado a sandwichs de autor y algun corte de carne. Llegaron mas personas de las q se esperaban e hicieron todo lo posible para resolver el tema de espacio. Excelente"
+    }, 
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lushia", 
+      "text": "Festeje mi cumplea\u00f1os en Pinkalola, nos habian armado un lugarcito muy acojedor para mi grupo de gente, la comida (variedad de sandwiches) estuvieron muy ricos! Una queja para hacerles fue la lentitud en que llegaban los platos a la mesa...mas aun que son sandwiches y ensaladas que no es muy elaborado. Pero es recomendable!!"
+    }, 
+    {
+      "date": "3 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gabriella", 
+      "text": "Creatividad, combinaciones acertadas, excelente materia prima y buen gusto en la carta de sandwiches hacen que el comensal pueda disfrutar el producto que llega a la mesa, m\u00e1s a\u00fan si se le agrega la ambientaci\u00f3n c\u00e1lida y acogedora del lugar. No tuve la misma experiencia con los licuados ya que conten\u00edan jugos artificiales. El servicio, si bien fue atento, en momentos se lo notaba ausente y distraido. Me llam\u00f3 la atenci\u00f3n que el descuento por Gu\u00eda Oleo lo realizaran s\u00f3lo en los platos y no en el total de la cuenta. Lo considero una buena propuesta gastron\u00f3mica para reincidir."
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "dralu", 
+      "text": "Nos gusto el ambiente, la carta interesante, las porciones son chicas, comimos cada uno entrada, plato principal y postre, y mi novio se quedo con hambre. La atenci\u00f3n muy buena. Si no fuese por el descuento no volver\u00eda."
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Cecioasis", 
+      "text": "Pinkalola es definitivamente una opci\u00f3n para repetir. La comida es muy interesante y original. La boutique de sandwiches es genial si quer\u00e9s probar varios sabores, y los precios est\u00e1n muy bien. El servicio de las mozas fue muy atento y nos ayud\u00f3 a seleccionar, se nota que estaban al tanto de lo que conten\u00eda cada plato y c\u00f3mo se preparaban. Me gust\u00f3 tambi\u00e9n el ambiente, relajado, espacioso y con mucho estilo (tiene pinturas a la venta). Lo \u00fanico es que quiz\u00e1s fueron un poquito desorganizados con la cuenta, ya que nos trajeron una que no era nuestra y tuvimos que aclararles el error."
+    }, 
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "luligra28", 
+      "text": "Era la primera vez que ibamos . Ni yo lo conoc\u00eda el lugar pero la Gu\u00eda Oleo me ayuda y mucho . Como buena secretaria busqu\u00e9 y me asesor\u00e9 antes de reservar . Mis amigos los comensales fascinados por el ambiente , por la comida , por la m\u00fasica , por el nivel de atenci\u00f3n y gente asistente al restaurant. De f\u00e1cil acceso y seguro . Lo recomiendo y es m\u00e1s , volver\u00eda sin lugar a dudas ."
+    }, 
+    {
+      "date": "3 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "crism4", 
+      "text": "los platos llegaron a destiempo y despues de una laaarga espera, la comida buena pero escaza (sobre todo el ojo de bife)"
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "bjmarito", 
+      "text": "El lugar 10 puntos, la atencion genial, la comida muy buena, dependiendo del gusto de cada uno acerca de  lo tostado del pan, ya que para mi gusto, estaba un poco duro, y siendo un lugar en el que se sirve mayoria de sandwiches y pocas opciones al plato, el pan tendria que ser un poco mas cuidado, ya que es la base de un buen sandwich, los mozos, muy buenos en lo suyo, parecen estar muy motivados"
+    }, 
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "mendezleonor", 
+      "text": "Me gusto mucho el ambiente, la comida estaba riquisima! lastima q la hamburguesa de mi novio estaba cruda pero la cocinaron enseguida. Muy buena onda la gente que trabaja ahi y hay bastante variedad de sanguches."
+    }, 
+    {
+      "date": "27 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ende", 
+      "text": "Se me ocurrio buscar un resto por palermo y me encontre con el calor, el aroma y la simpatia de Pinkalola. Desde su due\u00f1a Gabriela (que largo todo y se puso un restobar en palermo)hasta el bachero, TODOS unos fenomenos. Me encanta ir a un lugar y que me atiendan bien, con precios mas que logicos y si a eso le sumas que se come rico rico, yo se los tengo que recomendar.Por fin un lugar donde venden bodegas Callia!!!!!! Festeje mi cumple y eramos 20 personas. Gracias a Tatiana, la camarera que me asignaron... ademas de ser super atenta era tremenda belleza.  La pasamos realmente bien."
+    }, 
+    {
+      "date": "13 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "RodIsa", 
+      "text": "Una vez, una compa\u00f1era de trabajo vino con el famoso folletito rosa de un lugar nuevo que conocio. Al probar el primer sandwich que mezclaba dos de mis ingredientes favoritos (Rucula y lomo) me enamore del lugar. Uno siempre se prgtunaba donde comprar un buen sandwich para poder comer sin perder tiemepo y Pinkalola me dio la solucion. Ayer fuimos a comer al lugar y otra vez supero mis expectativas. Excelente atencion, excelente servicio y la comida 10 puntos como siempre. Gabriela, una genia!"
+    }, 
+    {
+      "date": "9 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jdweb", 
+      "text": "el lugar es agradable, la atencion podria ser mejor y comida es muy buena, para comer algo rapido sin muchas pretensiones"
+    }, 
+    {
+      "date": "4 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Marichis", 
+      "text": "El lugar es lindo, nada fuera de lo com\u00fan, para ir de paso al mediod\u00eda est\u00e1 muy bien."
+    }, 
+    {
+      "date": "1 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "babbell", 
+      "text": "el campo caliente enmudecio a mi novio durante 15 minutos,yo por mi parte igual con el sandwich de camembert,almendras y rucula, increibles!!! los panes caseros de verdad(se nota) y las papas q los acompa\u00f1an se encargan de q te vayas satisfecho y feliz, por supuesto q vuelvo porq me atienden genial y sino, pedire el delivery."
+    }, 
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "eduv_1977", 
+      "text": "Riquisimos los sandwiches, a excelente precio, con postre y bebida, lo recomiendo.\r\nPara comer ahi es lindisimo el patio."
+    }, 
+    {
+      "date": "27 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Buena opcion para una comida rapida, con especialidad en sandwiches de gran calidad.  Recomendable."
+    }, 
+    {
+      "date": "17 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Es un lugarcito lindo y con onda para el almuerzo; la comida me pareci\u00f3 ok pero nada m\u00e1s y la atenci\u00f3n, \u00eddem. Hoy no qued\u00e9 del todo satisfecha con la oferta. Voy a volver para darle otra oportunidad y probar otras opciones a ver si tengo m\u00e1s suerte\u2026"
+    }, 
+    {
+      "date": "17 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Isina", 
+      "text": "Para un s\u00e1bado al mediod\u00eda nublado, zafa."
+    }, 
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pablobel", 
+      "text": "Muy buenos los sandwichs, barato. El lugar seguro que de noche lucemejor que de dia. falta un poco de pintura y los sillones tapizado."
+    }, 
+    {
+      "date": "9 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "surfer83", 
+      "text": "Generalmente pido delivery a Pinkalola por la cercan\u00eda a mi oficina. Primer punto a favor: aceptan tickets. Segundo: la atencion es r\u00e1pida, pero si hac\u00e9s un pedido grande, suelen confundir las ordenes. M\u00e1s all\u00e1 de esto, los sandwiches gourmet son de gran calidad, con ingredientes frescos y gran  presentaci\u00f3n."
+    }, 
+    {
+      "date": "24 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "malditobrocoli", 
+      "text": "La comida es riqu\u00edsima y la atenci\u00f3n es excelente, falta pulir unos detalles en cuanto al servicio, por que reci\u00e9n est\u00e1n empezando. La verdad que la la pasamos genial!! El ambiente es super c\u00e1lido y los chicos que atienden son amorosos!!"
+    }, 
+    {
+      "date": "22 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andt", 
+      "text": "Los sandwiches estan muy bien elaborados, con productos frescos. El men\u00fa ejecutivo es de lo mejor de la zona para almorzar algo r\u00e1pido."
+    }, 
+    {
+      "date": "21 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leeleebee", 
+      "text": "Es un lugar agradable en su ambientaci\u00f3n. La atenci\u00f3n buen\u00edsima, y la comida muy sabrosa y bien presentada. Muy buena propuesta para el mediod\u00eda, ya que por el precio del sandwich elegido,ofrecen sopa de entrada, bebida y postre.\r\nEl postre del d\u00eda era brownie con dulce de leche y estaba verdaderamente buen\u00edsimo!!! Un lugar para recomendar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "liditarc", 
+      "text": "Permanecen los mismos gustos, estilo de sandwiches raros, que en palermo.. pero se les nota el crecimiento,sobre todo en el sushi.Por eso, ahora me gusta mas,Estan menos descontracturudo, igual de rico, rapido, sano y barato. ideal !"
+    }, 
+    {
+      "date": "10 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lolamorarte", 
+      "text": "buenisimoooooo!!! FUI ATRAIDA POR LOS SANDWICHES DE AUTOR... festejabamos un cumple ( en el centro) ... y SORPRESA SUSHI!!!! BUENISIMO!!! NADA Q ENVIDIALE A NINGUNA CADENA TOP.!!! no se lo pierdan!!! vivo en caballito... no querran abrir uno ahi???"
+    }, 
+    {
+      "date": "14 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pophie", 
+      "text": "AHH!!! bueniissimoo!!!! fui con una amiga a tomar un te hay de todo tipo!!!  y nos quedamos a almorzar... toda una sorpresa!!! tienen un monton de sandwiches super divertidos y riquisimos.. \" DE AUTOR\" los llaman... muy economico, lindisimo lugar, buena musica... genial el camarero dominicano, que ademas nos explico los cuadros q estan a la venta... VUELVO SEGURO!!!!!"
+    }, 
+    {
+      "date": "20 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danyer", 
+      "text": "Excelente!, al fin algo diferente en sandwich. Ademas tienen platos muy ricos con el menu del dia. Pediamos delivery, y hace un par de dias fui al local, esta buenisimo. Muy buenos los cuadros que exponen. Buena onda los mozos. Volveremos!!"
+    }, 
+    {
+      "date": "7 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eduv_1977", 
+      "text": "Exelente opcion de mediodia para los que trabajamos en la zona de retiro, un lugar perfecto, sin fisuras. no tienen delivery todavia pero atencion que pronto tendr\u00e1n, buena musica!"
+    }, 
+    {
+      "date": "5 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ailegnave", 
+      "text": "El lugar lo encontramos por medio de esta gu\u00eda y la verdad nos encant\u00f3. Tanto que ya hemos ido 3 veces en 10 d\u00edas. El mesero que atiende es muy atento, los precios son justos, la carta es corta, f\u00e1cil de leer y completa y la comida muy sabrosa. El ambiente es agradable, aunque nada especial."
+    }, 
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fer_muni", 
+      "text": "La atencion fue excelente, la comida tambien. Lo unico a criticar es que tardan bastante en servir la comida. Pero vale rescatar que es casera y fresca. Valio la pena la espera."
+    }, 
+    {
+      "date": "15 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "princes", 
+      "text": "La verdad que es hermoso el lugar.. me encanto la atencion y por sobre todo el sabor de la comida.. soy de frecuentar lugares asi y este me parecio bellisimo.. lo recomiedo.. Felicitaciones"
+    }, 
+    {
+      "date": "12 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MaxPower", 
+      "text": "Muy buen lugar! Probe los sandwiches de Pinkalola por delivery hace meses, y me enamore. Hoy tuve ganas de ir a conocer el local, y la verdad no desentona con el nivel de la comida: es calido, tranquilo y con mucha onda para gente joven. La due\u00f1a es muy simpatica y la comida imperdible. Por fin alguien se esta abriendo paso con los sandwiches gourmet!!! Gracias Daniela!!!"
+    }, 
+    {
+      "date": "21 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "NILIC", 
+      "text": "Una opci\u00f3n completamente diferente para los cl\u00e1sicos.  Muy buena calidad. La atenci\u00f3n... ah\u00ed, un poco despistada.  Definitivamente para volver"
+    }, 
+    {
+      "date": "25 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Agui", 
+      "text": "El lugar de por si, invita a concurrir con amigos y/o pareja. La atencion como siempre es excelente, siempre muy atentos y agradables, sin ser molestos. Los sandwiches son es-pec-ta-cu-la-res! ya que no son simples sandwichs. Tenes que ir y probarlo."
+    }, 
+    {
+      "date": "28 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "VanAiken", 
+      "text": "Excelente atenci\u00f3n, prediposici\u00f3n total y personalizada. La comida de 10"
+    }, 
+    {
+      "date": "26 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carola63", 
+      "text": "Excelente lugar para comer sandwiches distintos. Los panes son exquisitos, saborizados y los elaboran all\u00ed. Todos vienen acompa\u00f1ados con papas horneadas con hierbas frescas.  Un lugar super recomendable fundamentalmente por la atenci\u00f3n."
+    }, 
+    {
+      "date": "11 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "1948c", 
+      "text": "Excelente! Todos los detalles muy cuidados. La atenci\u00f3n hiper c\u00e1lida, materia prima seleccionada, muy buena presentaci\u00f3n de los s\u00e1ndwiches acompa\u00f1ados con exquisitas papas horneadas con hierbas frescas, abundantes y riqu\u00edsimos. Muy c\u00e1lida la atenci\u00f3n de los camareros. Muy recomendable!!!!"
+    }, 
+    {
+      "date": "17 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MichelleC", 
+      "text": "DELIVERY: excelente presentac\u00ec\u00f3n, sandwiches deliciosos y precios muy razonables. La comida tarda unos 20 minutos en llegar, cosa que para el barrio de Palermo est\u00e1 muy bien, no es r\u00e1pido pero tampoco tarda.\r\n\r\nRESTAURANT: una ambientaci\u00f3n MUY linda y cuidada, buena atenci\u00f3n, festej\u00e9 ahi mi cumplea\u00f1os y sali\u00f3 super bien. Precios muy accesibles y la comida deliciosa. Los tragos salieron exquisitos. Y la due\u00f1a Gabriela, se ocup\u00f3 de todos los detalles para el evento. Yo creo que el lugar es un 9. MUY recomendado."
+    }, 
+    {
+      "date": "10 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "RVF75", 
+      "text": "Excelente lugar, c\u00e1lido, con mucha luminosidad, y la tranquilidad exacta para un buen almuerzo. Me conect\u00e9 a Internet y lei algunas revistas que tienen all\u00ed. Recomiendo las mesas en la calle!"
+    }, 
+    {
+      "date": "23 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lu03", 
+      "text": "Me encant\u00f3 el lugar....el ambiente es muy c\u00e1lido y esta muy bien ambientado, te sentis como en casa.\r\nLa comida es muy rica y esta muy bien presentada."
+    }, 
+    {
+      "date": "18 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "matirubio", 
+      "text": "Muy bueno el lugar, se come muy bien, y tiene un buen ambiente. Muy recomendable!"
+    }, 
+    {
+      "date": "17 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "valeriaM", 
+      "text": "Me encant\u00f3 el lugar; la atenci\u00f3n es super c\u00e1lida, y la comida, lo mejor, como la de casa, un manjar.\r\nUn placer haber ca\u00eddo en Pinkalola!"
+    }, 
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "paulab", 
+      "text": "Nos encanto la comida y la atencion. Estan buenisimos los sandwichs.El lugar es muy agradable y los precios super amables."
+    }, 
+    {
+      "date": "5 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eponine", 
+      "text": "Se come b\u00e1rbaro, el lugar tiene mucha onda y es atendido por sus due\u00f1os que est\u00e1n en todo."
+    }
+  ]
+}

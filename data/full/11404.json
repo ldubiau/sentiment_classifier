@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "loolita", 
+      "text": "Fue una muy grata sorpresa.  Los chipirones y el goulasch, exquisitos. La ambientaci\u00f3n es sencilla pero moderna. La atenci\u00f3n un poco lenta porque era s\u00e1bado a la noche y el lugar estaba repleto."
+    }, 
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chaqs", 
+      "text": "Buena comida. Ambiente muyyy ruidoso."
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leogp", 
+      "text": "Comida alemana o austriaca muy buena en un club reacondicionado en su salon.\r\nEXCELENTE el goulash, puede pedirse para 3 o cuatro personas y no regatean la porcion.\r\nFuimos varias veces en familia o con amigos y comimos muy bien a un precio bajo realmente.\r\nTotalmente recomendable.\r\nOJO! DOmingos a la noche SOLO pizza libre"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Danielro", 
+      "text": "El ambiente es algo movido mas para amigos que para pareja, bien de club de barrio. En verano el patio es mas tranquilo.\r\nLa especialidad es el goulash con spaetzle es abundante y uno de los mejores que prob\u00e9. Las tablas son un poco chicas y la atenci\u00f3n es buena pero se llena mucho los viernes y s\u00e1bados. No es caro y se come muy bien."
+    }, 
+    {
+      "date": "15 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Yasmin", 
+      "text": "Excelente"
+    }
+  ]
+}

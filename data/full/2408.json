@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "18 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Leandrin", 
+      "text": "Las empanadas son muy sabrosas, una lastima que la chica que atiende tenga pocas ganas de hacerlo y que las empanadas valgan 2,50!!! un precio de locos. Esta gente perdio el juicio. En diciembre val\u00edan 1,80. No se dejen robar!!"
+    }, 
+    {
+      "date": "15 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "M\u00e1s que un restaurante, es un delivery con algunas mesas en las que se pueden comer las excelentes empanadas, humita en chala y tamales que son la especialidad. Para el que le gusta hay tambi\u00e9n un muy buen vino patero envasado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Chiu", 
+      "text": "Tanto las empanadas como los tamales muy sabrosos. El queso de muy buena calidad."
+    }, 
+    {
+      "date": "10 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Elcritico", 
+      "text": "Muy buenas las empanadas, \u00a1excelentes! Correcta la atenci\u00f3n."
+    }
+  ]
+}

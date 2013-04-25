@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mafalda73", 
+      "text": "Siempre pedimos pizza y siempre nos result\u00f3 muy bien: buena masa, buenos ingredientes, no retacean. Hoy pedimos empanadas y tambi\u00e9n estuvieron muy buenas. Tal vez lo \u00fanico es que con el delivery suelen llegar un tanto fr\u00edos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Zorak_20", 
+      "text": "Espectacular las pizza. Todas super rellenas, no le mezquinan en ningun ingredientes. Masa fina y bien crocante. Recomiendo la fugazzeta rellena, una bomba! Y la pizza alpinista (huevo frito, panceta, hongos y parmesano) espectacular!\r\nEl servicio de delivery es muy bueno, tardan lo que te dicen o menos.\r\nLa mejor pizza de la zona."
+    }, 
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "NachoE1", 
+      "text": "Muy buena la Fugazzeta Rellena !!!! INCREIBLE !!!!!!\r\n RECOMENDABLE"
+    }
+  ]
+}

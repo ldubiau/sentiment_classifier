@@ -1,0 +1,76 @@
+{
+  "malos": [
+    {
+      "date": "6 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "blackhole", 
+      "text": "Cerro!!! Hace meses. Ahora esta uno llamado Ugarteche!!! Actualizar."
+    }, 
+    {
+      "date": "30 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "micha_ster", 
+      "text": "P\u00e9simo!! Tostado con puro pan, casi sin queso, y medialunas a\u00f1ejas.\r\nLa atenci\u00f3n podr\u00eda ser mejor.\r\nNo vuelvo!"
+    }, 
+    {
+      "date": "25 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Shoguir", 
+      "text": "Es un desastre la atencion!! El mozo con buena itencion pero uno solo para todo el local.\r\nLas papas fritas llegaron cunado mi hijo termino de comer la milanesa, mi se\u00f1ora recibio su plato cuando todos terminamos. Es un lastima!!"
+    }, 
+    {
+      "date": "17 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Pierinis", 
+      "text": "Malisimo!"
+    }, 
+    {
+      "date": "15 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "refmap", 
+      "text": "Todas las veces comi algo de la  parrilla ; me  parece que al responsable( parrillero), le falta \\\" un toque\\\" para acreditarse como tal.\r\nNo la pega en el punto, a veces como \\\"marcada\\\" y seca,\u00f3 a veces , excesivamente jugosa...\r\nLas chicas, muy buenas y  serviciales.\r\nEsperar\u00e9 un tiempo antes de volver ( si por ahi cambian de parrillero / proveedor de carnes )"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "tomito1", 
+      "text": "tomando precio calidad esta muy bueno,el hambiente exselente,i siempre con buenas promociones,volvere!!!"
+    }, 
+    {
+      "date": "12 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "Un lugar simple y tranquilo. Est\u00e1ndar. Ideal para ir a comer y charlar sin ninguna molestia. Precios accesibles y m\u00e1s si uno aprovecha alg\u00fan que otro descuento que ronda por la ciudad."
+    }
+  ]
+}

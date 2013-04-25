@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "null", 
+      "text": "una de las mejores pizzas de bsas!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "uchapablo", 
+      "text": "una de las mejores pizzas a la piedra de bs as!"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "26 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "leandro_", 
+      "text": "La comida es mala relacionada con el precio."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "paysandu39", 
+      "text": "Tenddrian ke tener alguna clase de atencion especial con los clientes, un invitacion de una copa de champan o con un cafe. \r\npodian tener alguna tarjeta para sumar puntos y tener obsequios con esos puntos (almuerzos gratis, descuentos en vinos, u otra clase de regalos...)peque\u00f1as cosas que al cliente le \r\ngustan...y es una manera de atraer clientela..."
+    }, 
+    {
+      "date": "20 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "solilu", 
+      "text": "Comida buena. Deber\u00edan poner m\u00e1s cuidado en la vajilla, el plato de postre dejaba ver detalles de poca limpieza."
+    }, 
+    {
+      "date": "16 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "drmurray", 
+      "text": "El postre \"Copa Argentina\", diez puntos. La \"Bondiola Calcio\", excelente. \r\nEl cubierto ($27) incluye bebida sin alcohol y postre, \r\nSe pueden repetir los platos sin l\u00edmite."
+    }, 
+    {
+      "date": "14 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marylomb", 
+      "text": "Muy buena relaci\u00f3n precio/calidad, por $24 com\u00e9s de todo e incluye bebida sin alcohol. Los platos salen muy bien decorados, la panera incluye un pan de pizza excelente."
+    }, 
+    {
+      "date": "29 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guille1", 
+      "text": "Buena comida.\r\nRecomiendo las rabas y el risotto con frutos de mar; como postre la copa Argentina es imperdible(merengue, helado, mousse, dulce de leche y chocolate)."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "solch", 
+      "text": "Por el monto de $24 podes comer y beber (sin alcohol) todo lo que quieras, con el agregado importante de no tener que levantarte a servirte la comida."
+    }, 
+    {
+      "date": "31 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "manchipu", 
+      "text": "Me encant\u00f3. Platos abundantes y muy sabrosos. Recomendable el vitel thon\u00e9 y la copa italia con frutillas, merengue y una crema muy buena. Un comentario: la vajilla no es del todo buena, pero es lo \u00fanico que tengo para decir"
+    }
+  ]
+}

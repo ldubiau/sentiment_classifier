@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "5 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mestre", 
+      "text": "muy buena comida, la pasamos muy bien en un lugar bien decorado con una vista magn\u00edfica, precio accesible!!"
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "falcor", 
+      "text": "el servicio en general fur regular a bueno\r\nseis puntos"
+    }
+  ]
+}

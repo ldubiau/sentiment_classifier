@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "2 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Sabrinaa", 
+      "text": "La comida completamente insulsa. Estuve durante toda la comida agregandole sal, pimienta y queso rallado a un plato tan simple como tagliatellis al ragu (fideos a la bolognesa, vamos). Por otro lado, cuando llega la cuenta, uno tiene que pagar todo por bueno, buenisimo, excelente. P\u00e9sima relaci\u00f3n precio-calidad. No creo que dure, es una l\u00e1stima, porque lo podr\u00edan haber hecho bien."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "day", 
+      "text": "Muy buena la camida y el lugar, comi unas pizzas muy ricas!!! se las super recomiendo sobre todo por la masa bien crocante y finita. Las pastas tambien estan buenas, todo muy casero y hecho en el momento, vamos a volver"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yuroshka", 
+      "text": "El ambiente es super tranquilo. Las mesas est\u00e1n c\u00f3modamente espaciadas unas de otras. En cuanto a la comida: Deslumbrantes los \u00f1oquis gorgonzola. Muy buena atenci\u00f3n. Me pareci\u00f3 un toque de distinci\u00f3n la posibilidad de ser asesorado por el chef del lugar."
+    }, 
+    {
+      "date": "9 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariita", 
+      "text": "Realmente muy bueno, la comida la hacen en el momento.todo es muy fresco y con productos de muy buena calidad. Super recomendable."
+    }, 
+    {
+      "date": "12 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CarlosCalvo", 
+      "text": "Good location, excellent food, good, un-pricey wine choice.  Highly recommended."
+    }, 
+    {
+      "date": "12 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "moppet", 
+      "text": "Good location, excellent food, good, un-pricey wine choice.  Highly recommended."
+    }, 
+    {
+      "date": "28 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "girolama", 
+      "text": "me encanto el lugar, la comida es excelente, no es la comida italiana comun es regional!!!asi que es un  restaurant para comer rico con calma y probar sabores diferentes y ricos!!!!es comida casera!!!"
+    }
+  ]
+}

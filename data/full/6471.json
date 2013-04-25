@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "2 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "nati_025", 
+      "text": "Fui varias veces y siempre tuve malas experiencias. En la primera fuimos a comer una pizza y la misma se encontraba fria y el queso a medio derretir. Tuvimos que pedir que por favor la calienten. \r\nOtro d\u00eda fui a la tarde a tomar un caf\u00e9 y el mozo acuso que no hab\u00eda agua, tampoco nos ofrecio otras opciones y nos terminamos yendo.\r\nY por \u00faltimo fuimos una noche a comer un sanguche de pan arabe y tardo mas de 1 hora, como si hubiese pedido un plato elaborado.\r\nPersonalmente no voy m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "fabypao", 
+      "text": "En linea general es malo, salvo la parte de juegos para chicos. La verdad el lugar decayo bastante, no vale la pena."
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "gusflores1976", 
+      "text": "Buena pizzer\u00eda para llevar a los ni\u00f1os. Las pizzas que comimos estuvieron bien. El mozo que nos toc\u00f3 estuvo atento. Las dos cuidadoras de la sala de juegos muy bien. La parte delantera del restaurant es recomendable para aquellos que quieran menos ruido, dado que en el fondo est\u00e1 el sal\u00f3n para chicos."
+    }, 
+    {
+      "date": "9 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sedc", 
+      "text": "Es un lugar de minutas. Buenas pizzas y empanadas. Pesima atencion: los mozos son bastante torpes en el trato. El vino que prob\u00e9 estaba picado. Caro para el servicio ofrecido."
+    }, 
+    {
+      "date": "6 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "KariGonzalez", 
+      "text": "Bueno, de ambiente familiar y de barrio. La comida es buena- Excelente el lugar de juego para los chicos, las chicas que los cuidan le ponen mucha onda."
+    }, 
+    {
+      "date": "14 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "loloman74", 
+      "text": "la atencion del maitre espectacular ,nos termino atendiendo el"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fancesca", 
+      "text": "Como en la vieja epoca,casa familiar de exquisitas pizzas tanto a la piedra o al molde que hace honor al barrio en un ya clasico de villa del parque.Los chicos se divierten con el patio de juegos y los grandes con los maestros pizzeros quienes cocinan a la vista de todos.Excelente atencion y buenisimos los precios.Mencion aparte para el panqueque solera y el belgrano,entre 8 no pudimos terminarlo!"
+    }
+  ]
+}

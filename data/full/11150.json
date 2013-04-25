@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "12 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CERCER", 
+      "text": "Hay un plato para compartir que se llama Botana que es excelente, lo recomiendo"
+    }, 
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "solangec", 
+      "text": "La atenci\u00f3n un poco pobre ya que eramos los \u00fanicos en el restaurante pero se compensa con el ambiente el cual es c\u00e1lido y  tranquilo."
+    }
+  ]
+}

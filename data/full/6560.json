@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "12 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pitolio", 
+      "text": "Un hotel boutique con un restaurant super chiquito pero donde los platos est\u00e1n muy bien elaborados y muy sabrosos.\r\nTiene dos living walls que transformar al espacio en un lugar super relajante.\r\nDefinitivamente volver\u00e9."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andycook", 
+      "text": "Excelente comida en un ambiente chico pero muy calido y exclusivo en pleno centro de la ciudad. Muy buena atencion. Muy recomendable."
+    }
+  ]
+}

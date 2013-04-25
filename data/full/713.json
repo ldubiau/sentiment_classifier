@@ -1,0 +1,518 @@
+{
+  "malos": [
+    {
+      "date": "25 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "SebasRecoleta", 
+      "text": "Est\u00e1 bien ambientado, pero ped\u00ed locro y estaba lejos de ser un locro de calidad. Es verdad que era barato pero tampoco me parece que la calidad condice con el precio.\r\nLa salsa del locro era cualquier cosa menos una salsa de locro."
+    }, 
+    {
+      "date": "1 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "borgani", 
+      "text": "En Bs As no se comen buenas empanadas y \u00e9sta no es la excepci\u00f3n. Es demasiado seca, muy peque\u00f1a, sin sustancia. Adem\u00e1s extraordinariamente cara: $5 cada una, cuando de costo no puede tener ni el 15% de ese valor. El panqueque tampoco estaba bien. S\u00f3lo volver\u00eda para tomar un caf\u00e9, porque la atenci\u00f3n y el lugar son aceptables."
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "memexclass", 
+      "text": "Muy escasos los platos!!!! fr\u00edo y recalentado!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "alfa55", 
+      "text": "Situado en la esquina de Juncal y Jun\u00edn, La Querencia es una buena opci\u00f3n costo/beneficio para degustar platos regionales. La atenci\u00f3n del personal es correcta y amable. La comida no se hizo demorar mucho y estuvo muy rico todo (empanadas de varios gustos y pastel de papas).\r\nLamentablemente s\u00f3lo aceptan pago en efectivo y los ba\u00f1os precisan una remodelaci\u00f3n (muy chicos e inc\u00f3modos).\r\nA pesar de esto, no deja de ser una buena experiencia, no dudar\u00eda en volver para probar otros platos."
+    }, 
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "miyhu", 
+      "text": "seis empanadas, dos cazuelitas, dos postres y dos gaseosas $ 204. Todo exquisito m\u00e1s que nada las empanadas de carne y el panqueque de dulce de leche. Las mozas muy atentas"
+    }, 
+    {
+      "date": "13 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marian_fonita", 
+      "text": "Muy buen lugar de comida tradicional, las empanadas excelentes, aunque es verdad que son chiquitas. La atenci\u00f3n espectacular, muy atenta la moza, estaba en todos los detalles. tienen men\u00faen ingles para extranjeros."
+    }, 
+    {
+      "date": "1 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "malegria", 
+      "text": "La querencia cumple. Es de esos lugares que quedan cerca de casa, que no te castigan con precios altos y que sirven comida que no defrauda. Las empanadas, si bien chiquitas, son una perlita! Y el resto de los platos suele estar muy bien. Para los del barrio, en una noche sin mayores pretenciones: muy recomendable!"
+    }, 
+    {
+      "date": "22 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Hace rato que quer\u00eda pasar x La Querencia a probar las especialidades de la cocina criolla. Empec\u00e9 por una rica empanada de carne como entrada y despu\u00e9s prob\u00e9 el plato del d\u00eda (colita mechada con ensalada) y me gust\u00f3 mucho. Habr\u00e1 que volver en invierno para seguir degustando los platos tradicionales de m\u00e1s calor\u00edas, como el locro o la carbonara, que no son aptos para estas temperaturas de verano."
+    }, 
+    {
+      "date": "17 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Arbex", 
+      "text": "Muy buena carne, estilo casero, sin sofisticaci\u00f3n. Vino de la casa, bourgogne, simple pero justo y honesto."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "frozados79", 
+      "text": "Comi lentejas y estaban bien. Mi novia comio pastel de zapallo y estaba rico. Esta bien sino sabes donde ir"
+    }, 
+    {
+      "date": "16 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchape", 
+      "text": "Uno de esos lugares a los que vale la pena ir y disfrutar. Es para comer como en casa pero fuera de ella. Cocina rica, saludable, abundante y sobre todo, casera. Una variedad de cazuelas  pasteles pocas veces visto.\r\nImperdible una rica empanada  para comenzar la noche.\r\nSencillamente un gran lugar en el que uno es muy bien atendido y  saborea y disfruta  una deliciosa comida casera"
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "verywell", 
+      "text": "Es muy buena la atenci\u00f2n de las mozas , es muy buena la calidad de los ingredientes de las comidas pero es una l\u00e0stima que no acepten tarjeta de cr\u00e9dito ya que si somo varios comenzales y uno es el que invita tiene que ir con mucho efectivo, cosa que ya no estoy acostumbrada y no me gusta."
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "msbaujs", 
+      "text": "excelente atenciom.la moza super simpatica y atenta sin ser cargosa ,las empanadas exquisitas y la ensalada super\r\nMuy buena alternativa para pasarla bien con buenisima onda"
+    }, 
+    {
+      "date": "19 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fukerito", 
+      "text": "El lugar es chico y siempre se llena. Hay pocas mozas por lo cual no solo te tardan en atender sino que te atienden mal, 2 veces me trajeron algo que no pedi.\r\nDe entrada comimos unas muy ricas empanadas. De plato principal, pechito de cerdo delicioso con pure mixto. Y de postre, quebrachito, arrollado helado cubierto de chocolate, muy rico tambien."
+    }, 
+    {
+      "date": "18 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elverde", 
+      "text": "La c\u00f3mida es razonablemente buena, el servicio adecuado y la ambientaci\u00f3n si bien ruidosa, por el lugar peque\u00f1o no es desagradable. Es adecuado para llevar turisas extranjeros a probar c\u00f3mida regional bien preparada."
+    }, 
+    {
+      "date": "22 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kariyory", 
+      "text": "Vamos seguido y hay suficiente variedad para no aburrirse. Especialmente recomendables el locro, las lentejas, los pasteles de papa y de camote y los platos del d\u00eda. Muy buena carta de postres y una atenci\u00f3n excelente. Lo \u00fanico criticable es que es muy chico, y cuando se llena hay mucho ruido y los vinos suelen venir demasiado calientes."
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Jelp", 
+      "text": "Linda ambientacion, Muy rica comida tradicional"
+    }, 
+    {
+      "date": "29 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Koche", 
+      "text": "Antes iba siempre, ahora por comer la misma comida que cocino en mi casa ..me parece caro.\r\nServicio de mesa 4.50!!"
+    }, 
+    {
+      "date": "13 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Cecioasis", 
+      "text": "Lo bueno de La Querencia es que es una opci\u00f3n accesible si quer\u00e9s comer comida regional. Los precios son buenos y la comida es interesante sin ser demasiado compleja. Los platos son m\u00e1s bien simples lo cual es bueno si quer\u00e9s comer algo rico y diferente. La variedad de empanadas no es muy importante y eso es una pena porque el restaurant se especializa en ese tipo de comidas. Destaco el servicio ya que la moza fue atenta en todo momento especialmente a la hora de recomendar: sab\u00eda lo que conten\u00edan todos los platos y qu\u00e9 eran. El ambiente es lindo y original pero quiz\u00e1s un poco chico."
+    }, 
+    {
+      "date": "19 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "traductor", 
+      "text": "Un lugar que no s\u00f3lo no decae sino que mejora con el paso del tiempo: los platos criollos son inmejorables y las empanadas, un cl\u00e1sico en Buenos Aires. El ambiente tiene sus bemoles ya que hay demasiadas mesas y la circulaci\u00f3n es m\u00ednima. Las mozas son magn\u00edficas y hacen que uno pase un buen momento. Hay pocos vinos y uno de jarra aceptable. Ojal\u00e1 sigan con esta relaci\u00f3n precio/calidad tan alta."
+    }, 
+    {
+      "date": "24 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Polita", 
+      "text": "Una buena opcion para fin de mes. La comida es muy buena, la atencion depende de la camarera que te toque (he ido mas de una vez, y con distinta suerte), esta ambientado lindo, pero conviene llegar tempranito porque despues de las 9 y media te toca esperar siempre. Para recomendar, las empanadas de cordero y el pastel de calabaza."
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maka2000", 
+      "text": "excelente la camarera que nos atendio! super gentil, atenta a nuestras necesidades!!comimos una picada chica que era muy abundante, quiz\u00e1s le faltaba mas varirdad de quesos, pero qun as\u00ed quedamos opiparas!!!recomendable!"
+    }, 
+    {
+      "date": "15 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Afipan", 
+      "text": "Fuimos al restaurant de Palermo, recien inaugurada. Muy buena la comida y los vinos, a los mozos le faltaba un poco de experiencia, pero repito que era todo muy nuevo. Un muy buen ambiente, un lugar para volver"
+    }, 
+    {
+      "date": "27 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "baterilla", 
+      "text": "Muy ricas las empanadas, la atenci\u00f3n es buena pero las mesas est\u00e1n muy juntas. Pod\u00e9s pasar de la sensaci\u00f3n peque\u00f1o e \u00edntimo a subte de las 9 de la ma\u00f1ana. Igual lo recomiendo."
+    }, 
+    {
+      "date": "27 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Comida regional muy sabrosa a precios muy buenos. Eso si, hay que ir temprano porque a la noche se llena."
+    }, 
+    {
+      "date": "9 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Joak", 
+      "text": "las chicas que atiende muy agradables, la comida riquima, los precios aceptables. Es un buen restaurant para comer rico sin abonar excesivamente. Recomendable!"
+    }, 
+    {
+      "date": "6 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pabloguri", 
+      "text": "la comida es muy buena pero las porciones son muy chicas, al ser un lugar muy peque\u00f1o las mesas se encuentran muy cerca una de la otra ademas de ser chico el tama\u00f1o de la mesa en si tambien fuera de eso es recomendable."
+    }, 
+    {
+      "date": "1 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "BCGS", 
+      "text": "Sabrosa comida regional, a precio accesible y esmerada atenci\u00f3n. \r\nLamentablemente padece del mismo mal que aqueja a la mayor\u00eda de los restaurantes actualmente: ruido y poco lugar entre las mesas."
+    }, 
+    {
+      "date": "25 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Hiji", 
+      "text": "Muy caseros los platos, parece hechos en casa. \r\nLas empanadas muy gustosas, la carbonada muy rica, mejor que el pastel de papas.\r\nLos postres frescos y riqu\u00edsimos todos. \r\nLa atenci\u00f3n es un poco desatenta."
+    }, 
+    {
+      "date": "2 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "egfiad1", 
+      "text": "Muy buena comida aut\u00f3ctona, \u00fanico detalle, la espera los d\u00edas de invierno."
+    }, 
+    {
+      "date": "28 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maida_ma", 
+      "text": "Las empanadas de la huerta, carne y humita muy buenas, as\u00ed como la humita al plato. \r\nDe postre muy rica la isla flotante."
+    }, 
+    {
+      "date": "10 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "terrizza", 
+      "text": "Le faltar\u00eda tener mesas redondas para grupos."
+    }, 
+    {
+      "date": "10 Oct 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rosemari", 
+      "text": "Es un buen lugar para comer comida regional. \r\nEl servicio es regular por la cantidad de gente que va, sin embargo, me quej\u00e9 y se encargaron de retribuir su error."
+    }, 
+    {
+      "date": "19 Ene 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "moira1", 
+      "text": "Tienen muy poca variedad de comidas, s\u00f3lo uno o dos platos..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JIJI82", 
+      "text": "muy buena la comida. el locro 10 puntos! excelente atencion. precios razonables"
+    }, 
+    {
+      "date": "6 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kraigparkinson", 
+      "text": "Always a delight to eat here. It's our neighborhood favorite and always the best value for money."
+    }, 
+    {
+      "date": "11 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "AOrso", 
+      "text": "EL bife de chorizo muy bien cocinado y super sabroso, la atenci\u00f3n muy cordial y relajada, estaban siempre que se los necesite pero manten\u00edan distancia para que los comensales puedan tener intimidad"
+    }, 
+    {
+      "date": "5 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "carrocc", 
+      "text": "Excelente atenci\u00f3n de las mozas de la noche, Muy buena comida, un poco lenta la salida de los platos, pero se puede entretener la panza con las empanadas de gustos variados...\r\nLo mejor, el helado de Canela!"
+    }, 
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "audi", 
+      "text": "Excelentes empanadas y comida regional. Lugar peque\u00f1o pero muy agradable. Mi \u00fanica cr\u00edtica es que las empanadas cada vez son m\u00e1s peque\u00f1as."
+    }, 
+    {
+      "date": "22 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Koche", 
+      "text": "Muy buen lugar, el menu completo, las empanadas podr\u00edan mejorar.  La comida regional muy sabrosa.  Amplia carta de postres que volvere a probar."
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "reckord", 
+      "text": "Siempre recomendable, muy buena comida regional. En especial en invierno son ineludibles el pastel de papa norte\u00f1o y el locro. Las empanadas de las mejores que hay (la del tambo merece un cap\u00edtulo aparte). Los precios m\u00e1s que accesibles. La relaci\u00f3n precio calidad indica que o son altruistas o benefactores de la humanidad u otros lugares se aprovechan."
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Natyvk", 
+      "text": "Ya probe antes humita al plato, empanadas y pastel de calabaza y todo es riquisimo"
+    }, 
+    {
+      "date": "2 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juliolamardo", 
+      "text": "Hace rato que no visitaba un lugar de comida exquisita y a un prcio mas que razonable. La atencion excelente."
+    }, 
+    {
+      "date": "19 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "paudabove", 
+      "text": "La comida excelente, si bien la carbonada un poco picante para mi gusto. Las empanadas deliciosas. La atenci\u00f3n, muy buena. Recomendable, y el precio m\u00e1s que accesible."
+    }, 
+    {
+      "date": "4 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Isasu", 
+      "text": "Es un lugar buenisimo, la gente es encantadora pero tiene un problema: el RUIDO. Es terrible. Escribo para que lo lean los due\u00f1os y hagan algo, les va regio, pero els iria mejor sin ese espantoso RUIDO!!!"
+    }, 
+    {
+      "date": "21 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ivonduk", 
+      "text": "Muy rica comida regional para probar si se est\u00e1 de paso. Sal\u00f3n chiquito y ruidoso. Cierra temprano."
+    }, 
+    {
+      "date": "18 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jenn", 
+      "text": "Me encanto la ensalada aunque no es muy autoctona...Me encanto muchisinmo la atencion.Aunque fui muy pocas veces, las camareras siempre me recibieron con una sonrisa  e igual se nota que te recuerdan a pesar de la gente que aparece diariamente"
+    }, 
+    {
+      "date": "25 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarquitosT", 
+      "text": "Las empanadas son deliciosas."
+    }, 
+    {
+      "date": "15 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "audi", 
+      "text": "Excelentes empanadas y lindo ambiente. \r\nEl local es peque\u00f1o y a veces hay que esperar, pero vale la pena."
+    }, 
+    {
+      "date": "1 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carlos3", 
+      "text": "Muy ricas empanadas."
+    }, 
+    {
+      "date": "17 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vickukis", 
+      "text": "Excelente, rescatan muy bien los sabores autoctonos."
+    }
+  ]
+}

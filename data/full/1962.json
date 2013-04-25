@@ -1,0 +1,146 @@
+{
+  "buenos": [
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rulopadre", 
+      "text": "El lugar es chico pero c\u00f3modo, la camarera muy atenta. Las porciones son acordes con el tapeo, ni escasas ni excesivas. Buena calidad en los productos. Buena carta de vinos."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "laupi", 
+      "text": "La est\u00e9tica del lugar es linda aunque un poco chiquito, tienen una mesa en un patiecito con plantas y velitas, para ir en pareja, el tapeo muy bueno , algo escueto."
+    }, 
+    {
+      "date": "5 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DGT", 
+      "text": "Se trata de un lugar bastante peque\u00f1o, aunque con una est\u00e9tica c\u00e1lida. Cada d\u00eda hay platos especiales, que por lo general est\u00e1n buenos. Los dulces (tortas y cuadrados) son su especialidad y no tienen desperdicio."
+    }, 
+    {
+      "date": "13 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cafes", 
+      "text": "Bueno, sin demasiados lujos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "flor82", 
+      "text": "Fu\u00ed a la tarde a tomar un t\u00e9 con torta y es riqu\u00edsimo. El ambiente es tranquilo. Vale la pena para un momento de relax."
+    }, 
+    {
+      "date": "20 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hiebaum", 
+      "text": "Muy c\u00e1lido. Si bien el local es chico, forma parte de un ambiente acogedor. Ideal para ir en pareja en una velada rom\u00e1ntica. Aclaraci\u00f3n: No es apto para quienes comen con los ojos y quieren porciones abundantes."
+    }, 
+    {
+      "date": "30 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mamaanchi", 
+      "text": "Me encanta Ohana, es uno de mis lugares favoritos. El ambiente te llena de paz"
+    }, 
+    {
+      "date": "12 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "T_Martin", 
+      "text": "Un lugar muy agradable, recomendable para todos los dias"
+    }, 
+    {
+      "date": "11 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eiglesias", 
+      "text": "Un excelente lugar para ir con la pareja, no tiene luz baja pero tampoco muy alta. La moza es muy amable y atenta en todo momento. La comida es once puntos. Para regresar."
+    }, 
+    {
+      "date": "13 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pipu", 
+      "text": "El lugar es chiquito pero muy c\u00e1lido. \r\nTanto la comida como la presentaci\u00f3n de la misma son muy buenas. Muy recomendable para pasar un buen rato."
+    }, 
+    {
+      "date": "28 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gaby33", 
+      "text": "Fuimos con unos amigos a cenar, nos encant\u00f3 el ambiente (m\u00fasica tranquila). Es chiquito, es como cenar en tu casa con amigos, sin cocinar."
+    }, 
+    {
+      "date": "1 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vickyparra", 
+      "text": "El lugar es muy c\u00e1lido y muy bien atendido.\r\nLa comida es excelente, en cuanto a presentaci\u00f3n, sabor y cantidad."
+    }, 
+    {
+      "date": "4 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lrocca", 
+      "text": "Ambiente acogedor, un poco chico, esmerada atenci\u00f3n, sabrosa comida y los postres una maravilla. Recomendable."
+    }, 
+    {
+      "date": "26 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jade", 
+      "text": "Muy buena la comida y la atenci\u00f3n personalizada. Fui con amigas a festejar un cumplea\u00f1os y la pasamos muy lindo."
+    }
+  ]
+}

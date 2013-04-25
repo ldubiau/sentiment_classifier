@@ -1,0 +1,76 @@
+{
+  "malos": [
+    {
+      "date": "16 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "truja", 
+      "text": "Pedi Delivery de una Bondiola con fritas.. un desastre. La porcion super chica.. y las papas todas aceitosas.. Ahora se llama Pistacho."
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "osalan", 
+      "text": "Fui por comentarios de  la gu\u00eda. El Chorizo estaba QUEMADO porque lo \"calentaron\" en  mariposa. El asado era  Grasa con hueso literalmente y sin exageraci\u00f3n Se lo mencion\u00e9 al mozo y ni siquiera acus\u00f3 la cr\u00edtica ...Car\u00edsimo para lo que ofrecen. No volver\u00e9 ."
+    }, 
+    {
+      "date": "1 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "anita29", 
+      "text": "No estuvo rica la parrilla que ped\u00ed a domicilio. no le pondr\u00eda mala, sino regular o normal para abajo. un lugar maso."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cechu020", 
+      "text": "El restaurante ahora se llama PISTACHO, el lugar en si es tipo bodegon, no muy lindo, pero si lo que importa es la comida y muy buenos precios, eso queda en un segundo plano. Se puede pedir bebida grande y termina siendo bastante econ\u00f3mico. La atenci\u00f3n es muy buena, el mozo super simp\u00e1tico y servicial."
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ososibarita", 
+      "text": "Es la t\u00edpica parrilla de barrio sin lujos ideal para un mediod\u00eda, la materia prima es buena, es una pena que siempre tenga pocos comensales, este restaurante ya cambi\u00f3 tres veces de nombre. Carola Lopez, La Cipolatta y ahora es Mauricio"
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Pelado62", 
+      "text": "Un verdadero boliche con pretensiones de restaurant, hasta se dan el lujo de cobrar cubierto!!! Atendido por gente poco profesional. El precio desmesurado para el servicio que dan."
+    }, 
+    {
+      "date": "26 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "brgelectricidad", 
+      "text": "Un lindo lugar para comer una muy buena parrilla a un muy buen precio, cordial atencion."
+    }
+  ]
+}

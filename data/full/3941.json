@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "23 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "flor82", 
+      "text": "La entrada de triangulitos de polenta es buena y bien presentada... pero x los platos principales no vuelvo m\u00e1s. La porci\u00f3n de chivito era un desastre. Trajeron la pata sequ\u00edsima (aprox 150gr d carne todo el resto hueso) con papas y batatas QUEMADAS. El cordero lo hab\u00edan hecho uno o 2 d\u00edas antes por lo que ten\u00eda un gusto a heladera terrible. Una verg\u00fcenza.\r\nEl mozo buena onda pero le falta mucha experiencia. Para no ir."
+    }, 
+    {
+      "date": "1 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "GiGi_", 
+      "text": "Mal ambientado, las mesas estan muy juntas y el lugar no es tan grande. La comida normal pero no vale x la relacion precio - calidad"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gabrich", 
+      "text": "Fui con mi novio a desayunar y la verdad que fue bastante bueno el desayuno, abundante y original. La atencion fue muy simpatica, aunque con algunos errores esta bien. Lo unico malo del lugar es que medio chico y cuesta cirular."
+    }, 
+    {
+      "date": "2 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "magic", 
+      "text": "Fui al mediodia con mi novia un domingo y comimos muy bien. Nos atendieron bien y no es caro el men\u00fa. Comimos entrada, principal y postre a un precio muy razonable (con bebida incluida). La comida es buena y original. La carta (exceptuando los men\u00faes de mediod\u00eda) me pareci\u00f3 que ten\u00eda unos precios exorbitantes para un lugar que recien comienza."
+    }, 
+    {
+      "date": "8 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "aleory", 
+      "text": "Tiene sus peque\u00f1as fallitas pero al comienzo todos comenzamos de la misma manera, el maestro se perfecciona con la pr\u00e1ctica, y las sugerencias. aprendamos a dejar mas sugerencias que quejas y entonces muchos mas argentinos regresaremos.\r\ntal vez cambiar un poco la orientaci\u00f3n de las mesas pero por lo dem\u00e1s un lugar tranquilo y socegado realmenta para descansar."
+    }
+  ]
+}

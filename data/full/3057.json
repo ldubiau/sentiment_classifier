@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "4 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Hugue", 
+      "text": "Fuimos a cenar. Comimos una parrilada para dos personas, nada del otro mundo. Un porcion de papas fritas y de postre dos almendrados. Los vinos eran pocos ya que ten\u00edan solamente San Huberto y en dos variedades, siendo Cavernet Suavingnon la que escogimos. Recomendable para ir aunque no es la gran cosa."
+    }, 
+    {
+      "date": "9 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lilibet", 
+      "text": "Buen lugar, buena ambientaci\u00f3n y atenci\u00f3n. Atendido por sus due\u00f1os. La mercader\u00eda de la parrilla y las entradas de muy buena calidad y buena presentaci\u00f3n. Recomendable."
+    }, 
+    {
+      "date": "31 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "theuserisonfire", 
+      "text": "Buena relaci\u00f3n precio/calidad. Nada para destacar ya sea bueno o malo. Es recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fabricioph", 
+      "text": "Trabajando en quilmes, fui muchas veces a almorzar aqui, los emnues ejecutivos son de la mejor calidad para un precio tan bajo. La comia se sirve caleitne y siempre esta deliciosa.\r\nTambien festejamos un cumplea\u00f1os, la mejor atencion."
+    }, 
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ratatuille", 
+      "text": "muy recomendable, excelente ambiente y atencion, la comida muy buena. excelente la torta de vino tinto con helado. Fuimos atendidos por el due\u00f1o al finalizar la cena."
+    }, 
+    {
+      "date": "23 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Alexo", 
+      "text": "Me sent\u00ed muy a gusto con la atenci\u00f3n recibida, atendido por los due\u00f1os."
+    }
+  ]
+}

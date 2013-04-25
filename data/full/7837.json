@@ -1,0 +1,628 @@
+{
+  "malos": [
+    {
+      "date": "12 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "AdamSmith", 
+      "text": "Mal...mal el servicio, llegamos y si bien tiene estacionamiento y un cartel gbrande que dice valet parkin nadie se acerc\u00f3 a buscar el auto ni a indicar donde estacionar, que era en la parte trasera del lugar, cuya entrada no se ve porque es oscuro. El servicio tambien mal, poco pendientes de los pedidos. La comida en relaci\u00f3n precio calidad es mala. No vuelvo y no es recomendable."
+    }, 
+    {
+      "date": "25 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Gaita76", 
+      "text": "Lamentable la calidad y el servicio.\r\nPed\u00ed unos tagliatelle Alfredo, supuestamente la especialidad de la casa, y no ten\u00edan gusto a nada. El mozo me consult\u00f3 sobre la comida, y le transmit\u00ed que no ten\u00eda gusto. Su respuesta fue: \"La salsa Alfredo es uns salsita\". Un horror para quienes hemos degustado esta majestuosa salsa."
+    }, 
+    {
+      "date": "13 Ene 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "thewakef", 
+      "text": "Servicio lento y desde\u00f1oso."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vdorza", 
+      "text": "Es uno de esos pocos lugares donde b\u00e1sicamente se come bien. Sin vueltas. La atenci\u00f3n podr\u00eda mejorar un poco pero es correcta, y el ambiente est\u00e1 muy bien logrado. Lo m\u00e1s recomendable, las pastas."
+    }, 
+    {
+      "date": "24 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ajf", 
+      "text": "La atenci\u00f3n del mozo nos pareci\u00f3 p\u00e9sima. Los platos principales ricos pero muy chicos por el precio que cobran. No volveremos jam\u00e1s."
+    }, 
+    {
+      "date": "24 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Laury2", 
+      "text": "Una gran decepcion. Las pastas son ricas pero nada del otro mundo, 15 pesos el servicio de mesa por 3 pancitos super chiquitos. Un capitulo aparte para el mal servicio de los mozos que nos atendio a la ligera, nos dio la sensacion que nos queria sacar de encima rapido. Es pura apariencia, muy caro para lo que es. No vuelvo mas."
+    }, 
+    {
+      "date": "17 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carocz", 
+      "text": "Muy mala atenci\u00f3n, la comida rica pero nada sobresaliente, aparenta todo mas de lo q es realmente"
+    }, 
+    {
+      "date": "13 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "EmiliaRomagna", 
+      "text": "Como siempre bueno. Para mejorar: tama\u00f1o de las porciones (es caro pero lo vale, aunque con 8 panzotti en un plato se quedan cortos), carta de vinos (un poco limitada) y disponibilidad de los platos (no habia fiori di zucca, ni calamaretis). El servicio  muy bueno, pero un poco lento..."
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "C\u00e1lida casa reciclada donde ofrecen muy buena cocina italiana con una atenci\u00f3n buena sin deslumbrar. Comimos tr\u00edo de canelones con salsa bolognesa, pechuga rellena empanada en panko con salsa de choclos y  de postre, cannoli. Todo muy bueno; aunque las aut\u00e9nticas \"cannoli sicilianas\" no se elaboran con masa phila y su relleno es generalmente de ricota o mascarpone y no de chocolate. Ese fue el punto en el que podr\u00eda decir que no se respet\u00f3 la verdadera cocina italiana.  En general, todo muy bueno. Carta de vinos con pocas etiquetas y caros."
+    }, 
+    {
+      "date": "16 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ezemellini", 
+      "text": "Muy bueno, excelente comida y atenci\u00f3n los mozos muy buenos."
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RichardP", 
+      "text": "Ambiente familiar, mozos super experimentados, para comer como en casa de la nona"
+    }, 
+    {
+      "date": "27 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "kavayoloco", 
+      "text": "Por lo que cuesta, no convence. La comida no es nada especial, el servicio es lento. Debe mejorar el ambiente cenando en el patio, por eso merece otra oportunidad."
+    }, 
+    {
+      "date": "30 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "PabloRaffo", 
+      "text": "Concretamente:\r\nEn primer lugar quien nos recibi\u00f3 en la puerta (que estaba detr\u00e1s de la caja) tiene malos modales.\r\nEl aire acondicionado del salon donde me sent\u00e9 (al fondo) es insuficiente.\r\nPromediando la comida, una moza trajo dos pilas de platos y se dedic\u00f3 a faenarlos rociandolos con un producto y apilandolos en un mueble. El ruido molestaba mucho.\r\nEl precio de la copa de vino por el tama\u00f1o que tiene y la cantidad que sirven puede mejorar.\r\nSi fuera el due\u00f1o aprovechar\u00eda las cr\u00edticas para que aquellos que vamos a dejar nuestro dinero, tengamos ganas de volver."
+    }, 
+    {
+      "date": "4 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Crispino", 
+      "text": "Para nosotros es un cl\u00e1sico. Creo que las pastas que se comen all\u00ec son las mejores de zona norte. El trio de canelones es genial. Tambi\u00e9n los postres. Muy buena carta de vino. El mozo que nos atiende siempre est\u00e1 permanentmente atento a todo. No es de los cargosos pero s\u00ed de los eficientes. Esta vez  fuimos con nuestro beb\u00e9 y nos atendi\u00f3 mucho m\u00e1s r\u00e1pido que siempre."
+    }, 
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elcarli", 
+      "text": "Muy buena la comida en general, tienen algunos problemas con los vinos que no siempre los tienen en existenca"
+    }, 
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FlowerBomb", 
+      "text": "La comida es muy rica, buena panera, la carta acotada  pero bien. Los tallarines Alfredo, caseros, en su punto justo y la salsa so\u00f1ada. La atenci\u00f3n es corecta. El tema es que en el balance final no se justifica lo caro que termina costando."
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Polow", 
+      "text": "El lugar esta pobremente ambietado han distribuido mesas en todo lugar disponible lo cual da como resultado un ruido de fondo muy fuerte y desagradable.En cuanto al servicio mas alla del gran desgano con el que nos atendieron no hace falta decir mas.La comida en general buena pero no fueron platos complejos solamente pastas y es de mencionar que el tiramisu era un postre con un lejano parentesco,por ultimo lo mas desagradable fue la cuenta totalmente desproporcionada respecto a la calidad de lo ofrecido.No hay que ir"
+    }, 
+    {
+      "date": "27 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gloriaroble", 
+      "text": "Una muy buena opci\u00f3n para comer pastas, buena salsa en platos bien servidos. La atenci\u00f3n fue buena y los precios quiz\u00e1s un poquito elevados."
+    }, 
+    {
+      "date": "17 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "albert177", 
+      "text": "fuimos por el dia de la madre,hace mucho que lo hacemos,la principal critica es por que la comida se demor\u00f3 mucho,m\u00e1s de una hora.La pizza que pedimos de entrada era ridiculamente peque\u00f1a,los tagliatelli y los canelones bien,pero la lasagna lleg\u00f3 medio fria...por ahora sigue teniendo mi credito,pero habr\u00e1 que mejorar esos puntos."
+    }, 
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "franka", 
+      "text": "Realmente impresionado, desde que se mudo mejoro en calidad y Decoracion, Muy bueno Canasta de pan y una comida simple pero incrieble,sin pretensiones y una calidad soberbia"
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Chapin", 
+      "text": "La comida es buena, pero ten\u00eda entendido que era a\u00fan mejor. Ped\u00ed unos penne vendetta que vinieron con dos peque\u00f1os tomates secos y un solo br\u00f3coli. Muy pobres. Pr\u00f3b\u00e9 los noquis suffl\u00e9 de espinaca, muy recomendables. Creo que los precios no condicen ni con la calidad de la comida ni con el ambiente en general. No se si volver\u00eda."
+    }, 
+    {
+      "date": "26 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "inca", 
+      "text": "comida exelente canelones inperdibles, buena atencion ,supervisada por sus due\u00f1os, precios acordes con la calidad de los productos."
+    }, 
+    {
+      "date": "30 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Molmolel", 
+      "text": "Se mudaron a Dardo Rocha al 1400, un lugar p\u00e9simo. Nada que ver con Libertador en Acassuso!\r\nLa comida sigue siendo buena, y los precios cada vez m\u00e1s por las nubes. Supongo que querr\u00e1n pagar lo que les cost\u00f3 la casa nueva en pocos meses. Es un desprop\u00f3sito que cobren como si fueran Pedro Picciau cuando todos sabemos que no lo son."
+    }, 
+    {
+      "date": "4 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tano14", 
+      "text": "Voy muy seguido, porque se come bien, los due\u00f1os son muy amables, y especialmente voy cuando tengo ganas de comer los tagliatelles a la Alfredo. Los hacen muy bien. No es barato, pero lo bueno siempre cuesta. En pastas, 10 puntos. En otras comidas, bien. Una vez com\u00ed las perdices en escabeches que estaban muy buenas. Pero no las hacen m\u00e1s, porqu\u00e9 ? !!!!! Postre preferido, el ganache de chocolate, tarda un poco pero es exquisito. Recomiendo compartirlo, a pesar de que la porci\u00f3n no es abundante."
+    }, 
+    {
+      "date": "12 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "milebu", 
+      "text": "La comida es muy buena, casera y hecha en el momento pero lo mejor de todo es la atenci\u00f3n de los mozos y los due\u00f1os. Uno se siente como en casa\r\nUn lugar recomendablepara ir a comer solos o con amigos y poder donversar."
+    }, 
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FJSan", 
+      "text": "muy buenas pastas, hechas con oficio y cocidas en su punto. \r\nla carta no impresiona es normal nada nuevo y/o interesante y mucho menos arriesgado. \r\nlas salsas son buenas o muy buenas. \r\npero el precio no lo justifica, tiene precio como para requerir excelencia y no la tiene.\r\nseguramente el precio responde al lugar donde est\u00e1 ubicado y al p\u00fablico que concurre.\r\npersonalmente es una opci\u00f3n moderada y para ir con gente mayor y tradicional."
+    }, 
+    {
+      "date": "30 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "WallyRC", 
+      "text": "Exagerado el precio, la comida muy buena como asi tambien la atencion y comodo por el estacionamiento, pero insisto demasiado costoso cada plato sin dejar en cuenta que no son para nada abundantes. No hay menu para ni\u00f1os, asi que recomiendo ir solo mayores sino la cuenta se dispara potencialmente....."
+    }, 
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Julie10", 
+      "text": "Tagliatelle Alfredo es una excelente opcion para tener el propio gusto de la comida italiana. La comida siempre sale a tiempo con temperatura exacta. El ambiente y servicio es impecable. No queda ninguna duda que es un maravilloso restaurante para ir frecuentemente."
+    }, 
+    {
+      "date": "19 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ISO9001", 
+      "text": "Es una buena opci\u00f3n para comer pastas. C\u00f3modo si uno va con auto ya que tiene estacionamiento propio. Tardaron un poco en atendernos y tomarnos la orden pero el plato lleg\u00f3 antes de lo esperado. El lugar no es muy grande pero el ambiente es c\u00e1lido y familiar. Es cierto que las porciones no son demasiado abundantes pero en nuestro caso nadie se qued\u00f3 con hambre. En cuanto al precio no lo vi para nada exagerado sino acorde a la zona y a la comida."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Friedrich", 
+      "text": "La comida sigue siendo muy buena, pero los precios siguen subiendo y las porciones achic\u00e1ndose, ideal para comer buenas pastas si no se tiene hambre. \r\nLa bodega es variada y el servicio muy bueno."
+    }, 
+    {
+      "date": "16 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Veterano", 
+      "text": "He ido a cenar varias veces. El lugar es agradable tranquilo y c\u00f3modo. Tiene estacionamiento atras. Es ya un cl\u00e1sico de la zona con sus clientes habituales. La comida es muy buena y la atencion excelente, pero los precios son algo excesivos."
+    }, 
+    {
+      "date": "17 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Roxyp", 
+      "text": "La calidad de la pasta es indiscutible pero salvo los \u00f1oquis (muy ricos), las porciones pueden quedar cortas. El lugar est\u00e1 bien aunque algunas mesas son un poco chicas. Tiene la comodidad de tener estacionamiento. Han subido el precio."
+    }, 
+    {
+      "date": "19 Mar 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ana_prado", 
+      "text": "Comparto la opini\u00f3n respecto a la escasez de las porciones, los panzotis estaban muy sabrosos sin embarco eran peque\u00f1os y con poco relleno. Lo lamentable fue el servicio, tuvimos que pedir la panera ya que no la tra\u00edan y la pasta lleg\u00f3 fr\u00eda, inconcebible. Reserv\u00e9 en sector no fumadores y esto no fue respetado. El ambiente del lugar est\u00e1 bueno pero en definitiva no volver\u00eda a este lugar."
+    }, 
+    {
+      "date": "11 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Buenas pastas en ambiente agradable. Muy ricos postres y atenci\u00f3n."
+    }, 
+    {
+      "date": "3 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "andycook", 
+      "text": "Las pastas son buenas. El lugar estaba medio vac\u00edo y los platos tardaron siglos en llegar. Los mozos, parec\u00eda, trabajaban a reglamento. El ambiente medio deprimente."
+    }, 
+    {
+      "date": "25 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Vitto", 
+      "text": "Alfredo ya no es lo que supo ser. Una verdadera l\u00e1stima. El antipasto variado pero de muy poco sabor, las Tagliatelle Alfredo indignas del nombre que llevan, los spaghetti con salm\u00f3n ahumado pasados y regulares y para colmo los precios muy remarcados. El ambiente es agradable, el estacionamiento muy c\u00f3modo y la atenci\u00f3n amable, pero en definitiva com\u00ed regular y pague caro."
+    }, 
+    {
+      "date": "18 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pizza", 
+      "text": "Soy italiano y puedo decir que las pastas son riqu\u00edsimas."
+    }, 
+    {
+      "date": "15 Abr 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "HeavenLeigh", 
+      "text": "Este lugar fue una decepci\u00f3n. La comida me pareci\u00f3 espantosa y car\u00edsima. 3 tri\u00e1ngulitos de polenta frita nos costaron 20 pesos.\r\nNada fue lo suficientemente sabroso como para desear volver. No lo recomiendo, no volver\u00eda jam\u00e1s."
+    }, 
+    {
+      "date": "14 Sep 2004", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "patricia1", 
+      "text": "Porciones escasas, con platos sin identidad."
+    }, 
+    {
+      "date": "5 Feb 2002", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "notri", 
+      "text": "Cl\u00e1sico restaurant de comida italiana. Muy bien todo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Terrree", 
+      "text": "Riquisimooooo....y la atencion es divina. mucha simpatia, muy amables. un ambiente calido. Vuelvo pronto, me tentaron varios platos."
+    }, 
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Valli", 
+      "text": "Fui el domingo con amigos y comimos super bien. Las rabas de entrada estaban muy tiernas y sabrosas. Como platos, pedimos tr\u00edo de canelones,  \u00f1oquis souffle y  panzottis de calabaza, resultaron uno mejor que el otro. De postre, canolis y panqueques, riqu\u00edsimos.\r\nLa sorpresa fueron las caipiri\u00f1as que prepara uno de los mozos, Quino y fueron de las m\u00e1s ricas que prob\u00e9! En el verano, comiendo en el jard\u00edn, ser\u00e1 el trago obligado.\r\nLa atenci\u00f3n excelente, con mozos experimentados y la panera calentita muy tentadora. Super recomendable."
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Crispino", 
+      "text": "Como siempre excelente todo. Una linda noche. Las mesas afuera impecables. Una entrada de queso brie riqu\u00edsima, los langostinos empanados muy bien tambi\u00e9n. Las pastas (tagliatelle, lasagna y gnocchi), postre exquisito almendrado casero, frutos del bosque y un licorcito con biscotti muy buenos. Pero lo que nos sorprendi\u00f3 esta vez fueron las caipirinhas EXTRAORDINARIAS, que elabora personalmente uno de los mozos. Volveremos por ellas"
+    }, 
+    {
+      "date": "20 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Redax", 
+      "text": "Un lugar d\u00f3nde se respira buena onda y se come excelente; d\u00f3nde Rub\u00e9n y Laura se esmeran por hacernos sentir como en casa.  La pasta es muy buena y los postres exquisitos!  No se pierdan la entrada \"Fiori di zucca / Flor de Calabac\u00edn\"; un manjar...  Para mejorar: La carta de vinos."
+    }, 
+    {
+      "date": "3 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Coruch", 
+      "text": "Excelente ambiente, buen\u00edsima la comida... incre\u00edbles las pastas. En verano abren una terracita/jardincito, como si fuera el patio de una casa. Muy lindo. Lo que s\u00ed, algo caro, pero vale la pena.  Voy a volver."
+    }, 
+    {
+      "date": "9 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Preludio", 
+      "text": "Carta acotada pero los platos son excelentes en su punto y su sabor. Deben mejorar un poco la carta de vinos, la atencion impecable."
+    }, 
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Amarela", 
+      "text": "Un lugar c\u00e1lido, un ambiente acogedor y tranquilo con buena m\u00fasica italiana.\r\nBuena atenci\u00f3n y muy buena comida, las pastas en su punto y las salsas deliciosas.\r\nMe qued\u00e9 con ganas de probar la panna cotta  pero me fui muy conforme con todo, incluso con los precios.\r\nCreo que la buena comida y la buena materia prima cuestan y deben pagarse con placer, si quer\u00e9s comer barato andate a un carrito de la costanera...\r\nSin duda volver\u00eda, un lugar muy agradable."
+    }, 
+    {
+      "date": "18 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "julioasensio", 
+      "text": "Mi plato favorito Polenta con osobuco. En Italia no lo pueden hacer mejor!"
+    }, 
+    {
+      "date": "29 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "loszorros", 
+      "text": "Que lugar increible!!! Alfredo se mudo y aunque lo crei imposible aun es mejor!!! La comida como siempre excelente los spaghettis con langostinos insuperables, la atencion impecable, me siento como en mi casa. Felicito a sus due\u00f1os por su calidez y buen gusto.Super recomendable!!!"
+    }, 
+    {
+      "date": "17 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "conicoquis", 
+      "text": "que rica  comida, cada vez que voy  me sorprenden con un plato diferente.....anoche pedi panzottis de calabaza, los mejores!!!! el ambiente es muy calido, senti que estaba en italia. tuve la oportunidad de almorzar en alfredo disfrutando del sol......excelente  ubicacion, la atencion de los mozos..impecable,muy buena onda y atentos a todo. \r\n los due\u00f1os siempre ahi,al frente..y cuidando cada detalle. \r\n\r\nsigue siendo mi alfredo!!!"
+    }, 
+    {
+      "date": "25 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lolocha", 
+      "text": "Fui a comer al nuevo Alfredo, me senti como si hubiera estado comiendo en la Toscana, el lugar es divino, calido, acogedor, de buen gusto.\r\nLa atencion y comida impecables como siempre.\r\nLos Felicito!!!"
+    }, 
+    {
+      "date": "28 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "julioasensio", 
+      "text": "Comida italiana deliciosa. Recomiendo la polenta con osobuco. Adictiva"
+    }, 
+    {
+      "date": "26 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ascoli", 
+      "text": "Excelente calidad. Muy buena atenci\u00f3n, y precios acordes al servicio recibido. Muy recomendable."
+    }, 
+    {
+      "date": "21 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "duckf", 
+      "text": "Fui a comer el fin de semana y la verdad que hacia mucho que no comia algo tan rico, me encanto el lugar y la atencion excelente."
+    }, 
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "julioasensio", 
+      "text": "Excelente"
+    }, 
+    {
+      "date": "26 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jorgeo", 
+      "text": "Ya no es el Alfredo de la casona de Per\u00fa y Libertador."
+    }, 
+    {
+      "date": "7 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Feddor", 
+      "text": "No dispone de sector no-fumador lo cual es muy desagradable, especialmente en un municipio que en realidad prohibe el fumar en todo lugar p\u00fablico cerrado."
+    }, 
+    {
+      "date": "20 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Dalina", 
+      "text": "Muy buenas las salsas que acompa\u00f1an las pastas."
+    }, 
+    {
+      "date": "24 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "campos", 
+      "text": "A partir de ahora, mi restaurante favorito en Buenos Aires."
+    }, 
+    {
+      "date": "9 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Richy", 
+      "text": "Muy buena la comida, pero un poco escasa en relaci\u00f3n a su precio."
+    }, 
+    {
+      "date": "20 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "liliana_", 
+      "text": "Ambiente agradable e intimo ,muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "12 Mar 2002", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida es bien italiana. el lugar es acogedor."
+    }
+  ]
+}

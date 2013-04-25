@@ -1,0 +1,44 @@
+{
+  "buenos": [
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lucarna", 
+      "text": "Muy buena atenci\u00f3n. Muy bueno para tomar un caf\u00e9 y trabajar un rato."
+    }, 
+    {
+      "date": "25 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Lindo cafecito para una visita de pao. Atenci\u00f3n medio lenta. Dulces ricos y lugar con mucha luz y bien ambientado"
+    }, 
+    {
+      "date": "26 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "evitate", 
+      "text": "nos gusto. de menu tenian unos canelosnes buenisimos!!! muy rico todo. muy lindo el lugar"
+    }, 
+    {
+      "date": "22 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "nicogonza85", 
+      "text": "me gusto para un cafe y torta. la atencion medio floja.."
+    }
+  ]
+}

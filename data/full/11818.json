@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "15 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "valecach", 
+      "text": "La comida es excelente, pero ediliciamente esta muy deteriorado y el ambiente deja mucho que desear. Un restaurant de ese nivel no puede tener paneras con las galletitas u grisines en paquete"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anca", 
+      "text": "por ser un lugar en la plata y yo tambien lo soy es una alternativa para recomendar amplio familiar con mucha luz la atencion es excelente y el lugar maso la comida de muy buena calidad y los precios acorde las pastas con fruto de mar y el rissotto todos espectaculares ricas las rabas y muy mala la panera los postres bien"
+    }
+  ]
+}

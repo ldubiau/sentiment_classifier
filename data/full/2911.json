@@ -1,0 +1,778 @@
+{
+  "malos": [
+    {
+      "date": "6 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "boheme", 
+      "text": "Por favor, verifiquen si es que cerr\u00f3 definitivo.   Muchas gracias"
+    }, 
+    {
+      "date": "16 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Pandol", 
+      "text": "Que sea una pescaderia, ayuda, pero si no hay una buena cocina no alcanza. La comida es regular. En consecuencia el precio/calidad es alto. El ambiente puede pasar y la atencion es buena. No es lugar para ir de noche."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "climatologia", 
+      "text": "Indudablemente el pescado es fresco, hasta hace unos meses no me parecio tan caro, y no tenia el olor a rosa mosqueta  artificial que invade el local, un grave desacierto ya que el estar oliendo eso altera el paladar y no se disfruta bien el sabor del pescado,  solo volveria si sacan ese perfume que nunca necesito, ya que nunca tubo olor  a pescado."
+    }, 
+    {
+      "date": "15 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "MexicanoenBaires", 
+      "text": "Hoy fuimos a mediod\u00eda. El servicio es excelente. El plato de mi esposa (trucha a al acelga) estaba demasiado cremoso, pero a\u00fan as\u00ed todo es fresco. Les recomiendo espacialmente las empanadas de mariscos. Una delicia."
+    }, 
+    {
+      "date": "14 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "lorelind", 
+      "text": "Me pareci\u00f3 un restaurante que  cobra  mucho para lo que brinda:Pues  si bien ,el pescado es  extremadamente fresco , los platos no resultan ser ni tan sofisticados, ni tienen un sabor  especial , como para  pagar por ellos. Queda  claro que  para vender pescado crudo,\"que sea fresco\" es  una  condici\u00f3n necesaria y no un m\u00e9rito.-El lugar impresiona limpio, pero parece medio pelo\u00b7  Ofrecen unos langostinos al \"ajillo\", y  sabiendas que es un restaurante predominantemente peruano, los pedimos y  los sirvieron tibio y los langostinos no tenian sabor"
+    }, 
+    {
+      "date": "14 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Mobilante", 
+      "text": "Fue una pescader\u00eda, me parece que ahora ya nadie va a comprar pescado fresco. Solo algunos a llevar platos hechos. En el mostrador solo se ve\u00edan filets y una palometa entera. Buena la fritura. Los pescados a la plancha con mucha harina y casi fritos. La brotola que yo com\u00ed no estoy seguro de que estuviera reci\u00e9n hecha. La \u00fanica razon de ser de un restaurante que solo hace pescados, es que los platos sean perfectos. Para mi debut y despedida."
+    }, 
+    {
+      "date": "16 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nictalope", 
+      "text": "Voy hace a\u00f1os, siempre todo fresqu\u00edsimo y muy rico.\r\nYa se sabe que la cartas de vinos es limitada, pero no voy a eso ...con un torront\u00e9s se acompa\u00f1a bien. Un lugar sencillo y muy limpio,\r\ncon dos abundates cartas de alternativas peruanas y al gusto de aqu\u00ed.\r\n\u00bfSugerencias? Ceviche de mero, parihuela, salm\u00f3n rosado con salsa de langostinos....\r\nSiempre vuelvo."
+    }, 
+    {
+      "date": "22 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "esquimal", 
+      "text": "Sencillo lugar , es la 2* vez que voy y me siento compensado por lo que fui a buscar: pescados y/ mariscos variados y frescos a precios muy razonables. Es obvio que no es para una importante salida de viernes o sabado a la noche."
+    }, 
+    {
+      "date": "14 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "anela", 
+      "text": "El lugar el limpio y acogedor, la atenci\u00f3n es buena. Tienen 2 cartas: peruana y solo pescados. El producto es fresco pero me parece que le falta sabor, las porciones son grandes como para compartir."
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "telramud", 
+      "text": "Amplia carta concentrada en pescados y frutos de mar. Atenci\u00f3n: hay dos men\u00faes, uno de ellos destinado a las alternativas peruanas. Agradable y abundant\u00edsimo ceviche de mero (recomendable entrada para compartir), sin artificios. Materias primas fresca -fundamental para esta clase de propuesta-. Deber\u00edan cuidar el punto de los platos cocidos (p. ej. el salm\u00f3n grillado estaba al l\u00edmite de arruinarse por sobrecocci\u00f3n). Guarniciones elementales. Dos postres disponibles durante mi visita. De ellos, la torta tres leches, empalagosamente buena. Sal\u00f3n, atenci\u00f3n y servicio b\u00e1sicos, pero correctos."
+    }, 
+    {
+      "date": "26 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Vivo a 5 cuadras desde hace 7 a\u00f1os y nunca habia ido. Grata sorpresa. Pescados muy frescos. No vi tanto plato peruano como la gente dice en los otros comentarios. Si vi, muchos postres peruanos. Comi una milanesa de brotola muy rica, muy fresca y jugosa.  Buena atencion."
+    }, 
+    {
+      "date": "13 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "PedroV", 
+      "text": "Sirven de las mejores rabas que prob\u00e9 en Buenos Aires. Los langostinos, los camarones y la merluza estaban muy frescos. Las picadas que ofrecen con varias cosas de mar son abundantes, la de dos deja llenas a dos personas sin pedir nada m\u00e1s. Las papas fritas no las recomendar\u00eda ni las volver\u00e9 a pedir, son de las congeladas de bolsa y est\u00e1n mal hechas. No s\u00e9 como hacen para que queden tan h\u00famedas, como si no las hubieran fre\u00eddo a la temperatura correcta... sorprendente dada la calidad de las dem\u00e1s frituras que prob\u00e9 en el lugar."
+    }, 
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GAB459", 
+      "text": "Ante todo el horario esde 19.00 a 23.00. Corriganlo. Al ser tambien pescader\u00eda, la mercader\u00eda es fresca y con mucho movimiento.La comida est\u00e1 muy bien preparada. Recomiendo la tabla de mar (pescados y mariscos fritos) Es excelente y hay pocos lugares donde lo sirvan de esa manera. El ambiente es com\u00fan y al menos no es ruidoso por lo chico que es."
+    }, 
+    {
+      "date": "18 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Bucanera", 
+      "text": "Resto con la pescader\u00eda muy sencillo, pero prolijo y limpio.  Muy buenos platos y atenci\u00f3n. Fuimos al mediod\u00eda, es ideal,  para comer liviano."
+    }, 
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tobiano", 
+      "text": "Especial para pescados y mariscos, recomendable. El resto muy, pero muy sencillo, pero vale la pena."
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "michel000", 
+      "text": "Muy buen lugar. Sencillo pero bien limpio y prolijo. Muy buena comida. Rabas concrantes de entrada, y luego abadejo al roquefort, salmon rosado con salsa de camarones y brotola con queso gratinado. Todo muy bueno. Para volver a probar los otros platos."
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cecco", 
+      "text": "Peque\u00f1o, pero amigable y productos mas que frescos."
+    }, 
+    {
+      "date": "7 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SILSIL", 
+      "text": "La comida es muy rica, la atenci\u00f3n es muy esmerada, y el lugar, si bien es peque\u00f1o, muy limpio. su carta\r\ntiene una amplia variedad de comida peruana y otra con mariscos y pescados y otras variedades de platos al estilo nacional, volver\u00e9.-"
+    }, 
+    {
+      "date": "12 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "eldecolonia", 
+      "text": "Excelente comida tipica, de lo mejor de sus platos y un ideal a la hora de consumir mariscos, un lugar basico en gral pero limpio y acogedor."
+    }, 
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gestro", 
+      "text": "Fui por los comentarios de la gu\u00eda, la verdad que la comida es EXCELENTE, platos tipicos Peruanos pero solamente, como lo dice su nombre, a base de pescados y mariscos. El lugar sensillo pero ordenado y limpio al igual que el ba\u00f1o. La atenci\u00f3n de la camarera es atenta y explica de que se tratan las preparaciones. El ceviche de lenguado y mariscos es de lo mejor que prob\u00e9, se nota la frescura del producto. Ten\u00e9s ganas de comer pescados y mariscos pero de una forma distinta a la tradicional no te pierdas visitarlo. Fui un mediod\u00eda, creo que es mejor porque el lugar no da para largas sobremesa"
+    }, 
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Joco", 
+      "text": "Impresionante la parihuela de cangrejo !! se come con los dedos y te ensucias todo, pero lo vale, 9 puntos. el ceviche era muy bueno tambien. el lugar es muy feo, es una pescaderia de barrio con mesas. la atencion en buena, te explican bien los platos, pero antes deberian aclarar que hay 2 cartas, una de comida variada y otra exclusivamente peruana. yo pregunte por platos peruanos (por q fui por referencia de la guia) y recien ahi me trajeron la carata solo peruana. muy recomendable para comer comida peruana de mar sin importar el lugar. muy barato"
+    }, 
+    {
+      "date": "30 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chilu", 
+      "text": "sencillo, rapido, frutos del mar aceptables y buenos precios."
+    }, 
+    {
+      "date": "17 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "yamigo", 
+      "text": "bueno opcion para comer pescados y sus derivados."
+    }, 
+    {
+      "date": "9 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "papelito", 
+      "text": "Rico, fresco y barato. ideal para despu\u00e9s del cine."
+    }, 
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "churi", 
+      "text": "El mejor ceviche que comi en Bs.As. Buenisima la palihuelade cangrejos. Si uno esta dispuesto a comer rico sin importarle el entorno, el lugar es recomendable"
+    }, 
+    {
+      "date": "17 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Karlinho", 
+      "text": "Fuimos 4 personas y comimos tres platos y una guarnci\u00f3n.  Excelente la cazuela de Mariscos, muy bueno el salm\u00f3n y normales los tallarines al fileto. Porciones abundantes, servico algo lento pero amable, todo se hace en el momento. Ambiente austero, pero muy limpio y prolijo. Los precios de las bebidas gaseosas y alcoholicas est\u00e1n por encima del promedio para este tipo de restaurante.  No es un restaurante barato, pero si se pide bien se puede comer muy bien a un precio razonable.  Seguramente volver\u00e9"
+    }, 
+    {
+      "date": "7 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "novygourmet", 
+      "text": "Ya somos habitues del lugar y sigue siendo la mejor opcion en comida peruana en base a pescados. Tiene casi todo a favor. Rica comida, porciones abundantes y para compartir, precios normales y una muy buena  atencion de la camarera. Si andan por la zona y les gustan los \"bichos\" no se lo pueden perder!!!!"
+    }, 
+    {
+      "date": "17 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pane", 
+      "text": "Pescader\u00eda y restaurante con fuerte olor a lavandina ni bien entr\u00e1s pero prolijo, bien el servicio y original el concepto de tener ambas cosas integradas. De entrada te dan la carta para argentinos pero ped\u00ed tambi\u00e9n la peruana que tambi\u00e9n es buena. Platos abundantes, no sofisticados, comida casera, bien presentados pero sobretodo y fundamental: muy frescos. Prefiero los pescados cocidos, y las rabas, el ceviche no es mejor que los de restaurantes peruanos de 1er nivel."
+    }, 
+    {
+      "date": "27 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "novygourmet", 
+      "text": "La verdad, desde qu conocimos Solo Pescado nos hicimos habitues, y lo recomendamos mucho. La comida es fresca, sabrosa y abundante, y los platos son economicos, No se si saben, lo que le da el gusto al ceviche es el cilantro, pero esta vez...lo reemplazaron por perejil y si no preguntamos no nos decian nada...Tambien nos sorprendio que la cocina cerrara a las 2230 de un sabado, rechazando gente que venia a cenar, teniendo el lugar semi vacio...en fin, igualmente seguiremos volviendo!!!"
+    }, 
+    {
+      "date": "8 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gourdanito", 
+      "text": "Muy buena opcion para quienes nos gusta saborear pescados y mariscos. Tal vez, en mi opinion, un escalon mas abajo que Pedro 94; pero realmente un lugar muy recomendable. Existen dos listas de precios; una de las cuales esta emparentada con la comida peruana; pero ambas muy completas y tentadoras. Excelente el ceviche mixto y muy buena la brotola gratinada que pedimos. Las porciones son realmente generosas y muy buena la relacion con los precios. La atencion no desentona, Como dato negativo; no sirven cafe. Gracias, Oleo, por el dato de este buen restaurante"
+    }, 
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pelado62", 
+      "text": "A pesar de que telef\u00f3nicamente me informaron que no hac\u00edan reservas, al llegar al lugar hab\u00eda mesas reservadas. Tambi\u00e9n mesas libres. La calidad y frescura de los productos es de destacar. Los platos demoran un poco pero se nota que han sido realizados en el momento. Para recomendar."
+    }, 
+    {
+      "date": "29 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jujeno", 
+      "text": "buena la comida, y super abundante la porcion, el precio bueno, vale la pena"
+    }, 
+    {
+      "date": "17 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "peter831947", 
+      "text": "Lugar sencillo y limpio.\r\nLa comida es muy buena, de tenor casero.\r\nEl servicio es regular (cerveza sin su punto de frio), pero todo lo compensa la comida y los precios modicos, por cierto."
+    }, 
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ososibarita", 
+      "text": "Fu\u00ed porque me lo recomendaron y no me defraud\u00f3. Platos de pescado tradicionales y tambi\u00e9n de la cocina peruana, todo super fresco y porciones muy abundantes, la persona que nos atendi\u00f3 fu\u00e9 muy atenta y cordial, el ambiente es muy sencillo ideal para un mediod\u00eda."
+    }, 
+    {
+      "date": "26 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Donata", 
+      "text": "Los pescados son muy frescos, el ambiente es regular, un poco peque\u00f1o para mi gusto y esta sobre iluminado, pero si se esta por el barrio y se quiere comer un buen pescado no hay duda que ese es el lugar, tiene la mercader\u00eda a la vista, ademas el precio es accesible."
+    }, 
+    {
+      "date": "6 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Empanatron", 
+      "text": "relacion precio\\calidad excelentes, la atencion igual, siempre muy atentos y saben recomendar a cualquier paladar, voy seguido y el pescado siempre esta fresco, excelente opcion para tener en cuenta al salir del shopping."
+    }, 
+    {
+      "date": "13 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "yiyo", 
+      "text": "Una muy buena pueta en marcha de como preparar los platos a la vista ,mucha limpieza y orden."
+    }, 
+    {
+      "date": "14 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sur5", 
+      "text": "Es un lugar simple pero limpio. Porci\u00f3n abundante. Buena relaci\u00f3n costo = prestaci\u00f3n"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ro1288", 
+      "text": "Fui a comer sola uin martes a la noche. El lugar es chico, igual habia poca gente. El lugar es lindo calido chiquito pero bien ambientado y muy limpio.\r\nLa atencion barbara\r\nLa comida expectacula, realmente muy rica y abundante, pero abadejo al horno con vegetales.\r\nLo que si es carito, lo vale pero es carito...el plato me costo 59 pesos mas 12 pesos de una gaseosa mas 7, 6 pesos de servicio de mesa."
+    }, 
+    {
+      "date": "2 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Kuna", 
+      "text": "Picada de mar super fresca. muy rico! recomiendo y voy a volver!"
+    }, 
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ElGranOtto", 
+      "text": "Fuimos con mi novia y nos fuimos muy satisfechos con el lugar. Pedimos una tabla para 2 personas que tranquilamente alcanzaba para 3. Abundante y todo tipo de pescados. El pescado realmente muy fresco y exquisito. El lugar no dice mucho, mostrador ni bien entras no queda bien, pero todo muy limpio y se pod\u00eda apreciar un olor rico en el ambiente. Remarco la limpieza del lugar y la atenci\u00f3n que fue excelente. No esperamos nada para que nos sirvan la comida. Carta de vinos tranquila pero zafaba. La zona en donde queda es en frente del abasto, no es muy linda pero estando dentro del lugar sent\u00eds que no es la zona horrible que realmente es. Recomiendo el lugar por todo lo anteriormente expuesto."
+    }, 
+    {
+      "date": "8 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "MarcosHB", 
+      "text": "Muy rica la comida!!! La saque de la gu\u00eda \u00f3leo y me cruce al frente del shopping a probar q onda... Recomendable 100%"
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "vero09ar", 
+      "text": "De lo mejor que hemos probado en pescados y mariscos. Es la segunda vez que vamos. La atenci\u00f3n excelente. El \u00fanico problema es el lugar, ya que es un pescaderia con venta al publico y unas mesas. Las mesas se mueven, hay una en que te golpeas la cabeza con un estante. El vino que quer\u00edamos no estaba, los precios de la carta de vinos est\u00e1n bien. Vamos a volver"
+    }, 
+    {
+      "date": "27 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "inhospito78", 
+      "text": "Buenisimos y frescos los pescados. Muy buen ceviche y lenguado grille."
+    }, 
+    {
+      "date": "14 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "smoje", 
+      "text": "El lugar es feo y la zona peor. En cuanto a la comida, los pescados est\u00e1n hechos de manera impecable, sin nada q envidiarle a muchos restaurants de categor\u00edas superiores. Los precios no son baratos sino justos, porque en definitiva estas comiendo en una pescader\u00eda con algunas mesas."
+    }, 
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "afj", 
+      "text": "S\u00f3lo Pescado. Variedad, frescura y buen precio. Lugar netamente limpio y sencillo, pero c\u00e1lido por su atenci\u00f3n.  Platos muy abundantes. Carta de vinos correcta. Mouse de Maracuya... excelente. La zona  no es la mejor, pero vale la pena ir y disfrutar de una propuesta sana."
+    }, 
+    {
+      "date": "7 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Julibert", 
+      "text": "me acerque a la noche y pedimos un ceviche mixto de corvina: exquisito ! y un lomito gratinado,,, hay cervezas varias  el servicio es correcto, el cobro del cubierto se entiende , aprop\u00f3sito de una nota publicada en el blog de oleo, ya que la espera se hace amena con maiz y mani. los platos son abundantes y cocidos a punto,la verdad es que vamos a volver pronto!"
+    }, 
+    {
+      "date": "31 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Tobiano", 
+      "text": "Es para ir con amigos a comer buenos pescados, bastante baratos y abundantes. El lugar es limpio y muy, pero muy sencillo"
+    }, 
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Ramiroferrando", 
+      "text": "Hab\u00eda le\u00eddo algunos comentarios de que la mercader\u00eda era muy fresca, y lo pude comprobar. La clave de la frescura de un pescado est\u00e1 en si lo pod\u00e9s comer grill\u00e9 y se notan sus sabores, cosa que fue 100% as\u00ed."
+    }, 
+    {
+      "date": "4 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "LALUN", 
+      "text": "Es de esos lugares donde el producto le gana a todo, ambiente, servicio, etc, vale la pena, pedimos camaron con queso marinado y ceviche de salmon con mariscos, excelente, para volver seguro."
+    }, 
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Muy buen lugar para probar la cocina peruana y la tradicional de pescados y mariscos. Con la calidad de siempre, ofrecen platos sabros\u00edsimos que atrapan el paladar de quien los visita. La atenci\u00f3n es cordial y los precios son muy econ\u00f3micos para la calidad que brindan. Para volver por m\u00e1s, sin dudarlo."
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Trentino", 
+      "text": "Excelente! Pescados y mariscos fresqu\u00edsimos y con mucha variedad, tanto en tipo como preparaci\u00f3n (tienen dos cartas, una argentina y otra peruana, que no la ofrecen si no la pedis). Si bien se pide mucho ceviche, platos tales como la br\u00f3tola al ajillo est\u00e1n tambi\u00e9n buen\u00edsimos.  Y los postres no se quedan atr\u00e1s (mousse de maracuy\u00e1 y leche volteada perfectos). El lugar es en principio una pescader\u00eda, pero a\u00fan as\u00ed la ambientaci\u00f3n est\u00e1 lograda, tipo restaurancito de chile o per\u00fa donde s\u00f3lo importa el pescado. Ideal para el mediod\u00eda."
+    }, 
+    {
+      "date": "16 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "CaroyPablo", 
+      "text": "Abundante comida, fresca y variada. Sencillo el ambiente"
+    }, 
+    {
+      "date": "6 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Lalo_va", 
+      "text": "Fuimos con un amigo que me recomendo. Realmente comi muy bien, lo que resalto es la frescura de los pescados, no muy frecuente.Es un lugar para ir a comer bien, casi de paso, no es una salida en si. Lo recominedo"
+    }, 
+    {
+      "date": "7 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pruebo", 
+      "text": "Para sacarse las ganas de pescados y mariscos no conozco otro lugar mejor, fui con mi madre y tuvo la misma opinion,volvere muy recomendable"
+    }, 
+    {
+      "date": "7 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "abuchechi", 
+      "text": "Una muy agradable sorpresa. Nunca hab\u00eda ido pero seguro que voy a volver. Elegimos peruana. La org\u00eda de mariscos muy sabrosa y variada. Algo no muy frecuente: se apreciaba bien el sabor de cada elemento. Con acompa\u00f1amiento de papas hervidas y arroz. Muy sencillo. Buena atenci\u00f3n. Buena onda. Muy limpio. Ba\u00f1os impecables. Recomendable"
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Josekun", 
+      "text": "El lugar muy sencillo y popular.\r\nLa comida muy fresca y muy buena.\r\nVolver\u00e9 para probar otros platos."
+    }, 
+    {
+      "date": "29 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "brother", 
+      "text": "Tienen 2 cartas, porte\u00f1a con pescados y peruana con platos t\u00edpicos. Excelente cocina, la org\u00eda de mariscos es muy buena opci\u00f3n acompa\u00f1ada de un arroz. La parihuela de mariscos es la cazuela sin pimenton. El ambiente es ecl\u00e9ctico parejas de turistas alemanas, japonesas, algunas familias de peruanos, parejas porte\u00f1as,un par de raperos. Muy divertido y junto con Pedro94 una buena propuesta para comer pescado."
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mtrevisi", 
+      "text": "\u00a1\u00a1\u00a1EXCELENTE!!!fui con mi esposa sabiendo que era una pescader\u00eda con mesas y me encontr\u00e9 con una muy buena atenci\u00f3n y el Salm\u00f3n y la Trucha resultaron unos verdaderos manjares, seguramente muchos resto 5 estrellas lo envidiarian; volveremos si o si !!!"
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "baytuna", 
+      "text": "Excelente lugar. Te atienden bien, comes espectacular y no pod\u00e9s creer estar comiendo en la pescader\u00eda, ni un olor!. Nunca com\u00ed merluza tan tierna y sabrosa. Super recomendable, para volver siempre que se va al shopping Abasto. Los ba\u00f1os impecables. Precios \u00fanicos en mariscos, adem\u00e1s de la frescura asegurada. Lo \u00fanico a mejorar las papas fritas que no estaban muy ricas. Para volver sin dudas."
+    }, 
+    {
+      "date": "2 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Nictalope", 
+      "text": "Qu\u00e9 m\u00e1s decir aqu\u00ed ! La comida es excelente y el lugar un poco estrecho pero hay que reservar con tiempo si se va a cenar, y m\u00e1s el fin de semana. Todo est\u00e1 muy bien logrado, pero si hay cangrejo, h\u00e1ganle por ese lado. Cuando hay, siempre te ponen uno encima del plato. A destacar: el Ceviche de la Casa, ambos salmones y mero, vieiras, almejas, mejillones y regado de camarones y un par de langostinos. Hay platos, como salm\u00f3n rosado en salsa de camarones, que son algo fuera de esta Tierra. Siempre voy, y me quedo hasta el cierre. Tambi\u00e9n se puede comprar mariscos y pescado a buen precio."
+    }, 
+    {
+      "date": "21 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Pero qu\u00e9 placer escondido en el Abasto!! Es un restaurante/pescader\u00eda que permite llevar comida elaborada o comer en el lugar. Comimos ceviche y un plato principal llamado Org\u00eda de mariscos, que ofrece pescados y mariscos fritos con morrones y papas natural, con unos condimentos exquisitos. El servicio es buen\u00edsimo y amabibil\u00edsimo, sin ser profesional y el ambiente es muy prolijo y agradable. No tiene ni punto de comparaci\u00f3n con otro del mismo sistema en Caballito. La carta es la convencional de pescados o la de cocina peruana que en nuesto caso es la que degustamos. Excelente y recomendable!"
+    }, 
+    {
+      "date": "9 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Marsus", 
+      "text": "Excelente yo lo habia visto por la gu\u00eda pero no lo ubicaba por el barrio hasta que un vecino me lo marco.Quede encantado con la comida y con la atenci\u00f3n del lugar.Los precios super accesibles una grata sorpresa altamente recomendable"
+    }, 
+    {
+      "date": "19 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "bocuse", 
+      "text": "Excelente para comer frutos del mar.-Sin pretensiones de ambientaci\u00f3n.-"
+    }, 
+    {
+      "date": "28 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "bbgourmet", 
+      "text": "Excelente opci\u00f3n para degustar pescados muy frescos, tienen una carta tradicional y otra con cocina peruana. Los platos son muy abundantes y se pueden compartir. Las mozas son muy atentas ya tienen que m\u00e1s de una vez tienen que explicar en que consisten los platos de la cocina peruana. El ambiente es peque\u00f1o pero agradable para un almuerzo o cena sin m\u00e1s pretenciones que la buena comida."
+    }, 
+    {
+      "date": "10 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gourdanito", 
+      "text": "Buen lugar para degustar buenos productos del mar. Pedimos ceviche de lenguado y mariscos(incluye cangrejo); que realmente es de los mejores que probe. Muy sabroso tambien el salmon grille. Poseen una carta local y otra con platos peruanos; pero que trabajan ambas con una muy marcada eficacia. El servicio no le va en zaga: tambien muy bueno. Si quieren comer excelentes pescados y mariscos; este es uno de los restaurantes indicados"
+    }, 
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ayahuasca", 
+      "text": "A mi exigente paladar, el mejor lugar de comida peruana"
+    }, 
+    {
+      "date": "17 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Jotabe", 
+      "text": "Comida exquisita y \"al pie de la pescader\u00eda\". Pocas mesas, bien atendidas y dentro de un contexto muy austero. Pero en el plato... \"maravillas\". Insist\u00ed en pedir la carta peruana."
+    }, 
+    {
+      "date": "28 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dillam", 
+      "text": "Se come en la misma pescader\u00eda, pero no hay olor fuerte. Es sencillo muy limpio y muy tranquilo por que es peque\u00f1o. Ya fuimos 2 veces y los platos fueron abundantes y frescos. El precio muy acorde."
+    }, 
+    {
+      "date": "8 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "marita5789", 
+      "text": "Muy buen restaurante: tiene casi todos los condimentos. La comida es muy sabrosa. Las porciones son generosas. Los precios son muy competitivos: La relacion precio-calidad es positiva. La atencion es  rapida y diligente. En el mismo local, hay venta de pescado fresco y comidas elaboradas; no obstante el ambiente es agradable. Para quienes amen los pescados y mariscos; este restaurante es de visita obligatoria."
+    }, 
+    {
+      "date": "3 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Helen_88", 
+      "text": "Excelente, diez puntos, increible el lugar, el mejor ceviche mixto que probe, la paella exquisita, el lugar me sorprendio bastante, tanto las porciones abundantes para compartir, como la ambientacion y la higiene del lugar.Muy limpio todo, la atencion esmeradisima, me quede con ganas de probar toda la carta, tienen dos menus, uno \"argentinizado\" y el otro opcional con comida peruana, que la verdad la propuesta me gusto mucho y por eso fue la elegida.Vuelvo segurisimo"
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "LatexX", 
+      "text": "El 'chupe de mariscos' (no est\u00e1 en la carta) es excelente. La mejor sopa de mi vida. El ambiente es agradable, limpio y buena onda. Los precios accesibles y es todo fresco. Que m\u00e1s quieren???"
+    }, 
+    {
+      "date": "9 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "novygourmet", 
+      "text": "Un hallazgo!!! realmente una muy buena opcion a la hora de comer frutos de mar, ainda mais...Un lugar muy limpio, calido, con 2 opciones de carta, una para expertos en este tipo de comidas, nosotros no lo somos, y una mas comun. Aparte me gusto porque en otras mesas habian  paisanos de los due\u00f1os, lo que hace presumir que se come como en su lugar de origen, en este caso Peru.\r\nseguramente volveremos!!!"
+    }, 
+    {
+      "date": "10 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "SaltShaker", 
+      "text": "Simplemente el mejor ceviche que encontramos en Buenos Aires, y no con un precio alto. Hay dos cartas - un \"regular\" para desconocidos y un \"Peruana\" si sabes que la existe, y eso tiene las cosas mejores."
+    }, 
+    {
+      "date": "15 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ayahuasca", 
+      "text": "Soy Peruano y un personaje complicado con la comida, critico, pero puedo decir que este resto es excelente, el mejor de comida peruana en Buenos Aires"
+    }, 
+    {
+      "date": "5 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Euni", 
+      "text": "Muy fresco el pescado."
+    }, 
+    {
+      "date": "0 0000", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Eze334", 
+      "text": "Muy"
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "malos": [
+    {
+      "date": "3 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "HoldenCaufield", 
+      "text": "El vac\u00edo que pedi era una suela, un desastre. Ya habia pedido un matambrito anteriormente y fue regular, pero pense que habia tenido mala suerte. El lugar es agradable, nada especial y los precios son altisimos para la calidad de comida y servicio. Solo fui porque me queda cerca y me invitaron."
+    }, 
+    {
+      "date": "12 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "nonstop", 
+      "text": "La comida es regular, las carnes sobre cocidas, el pollo de la brochette crudo! Un lugar para ir solo si le queda comodo. No espere un gran resaurante porque no lo es. El ambiente agradable."
+    }, 
+    {
+      "date": "10 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "kingshasa", 
+      "text": "Com\u00ed a la carta dado que los men\u00faes y las ensaladas del salad bar eran p\u00e9simas. Todo malo, el mozo me abri\u00f3 una botella de vino que no hab\u00eda pedido y despues me la facturaron. Creo que este tipo de restaurante aunque tenga succeso es para gente que no busca nada del otro mundo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "DrGabo", 
+      "text": "Te reciben bien, con una copita de Champagne, la comida est\u00e1 bien, nada sobresale. Al Valet Parking, ten\u00e9s que pedirlo y esperarlo, a la hora de la partida ten\u00e9 paciencia para que te devuelvan el auto."
+    }, 
+    {
+      "date": "20 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dubi", 
+      "text": "Muy lindo lugar, atencion esmerada. No dieron la botella de vino para llevar porque no lo tomamos en la mes y tambien nos dieron lo que quedo de uno de los platos. Volvere!"
+    }, 
+    {
+      "date": "12 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "carola63", 
+      "text": "Es un lugar muy agradable, se come muy bien, los platos son abundantes y muy bien presentados, el ambiente es \u00edntimo a pesar de la cantidad de mesas, van a sentirse muy a gusto."
+    }, 
+    {
+      "date": "19 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Maguila_bis", 
+      "text": "Estuvo bien. El lugar es agradable y tranquilo. La comida es muy abundante, no pudimos pedir postre. De todos modos para ser un plato agridulce me result\u00f3 demasiado empalagozo, el matambrito al verdeo estaba mucho mejor. Era tan abundante que no comimos postre"
+    }, 
+    {
+      "date": "19 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fschlim", 
+      "text": "El lugar es muy agradable, confortable y tranquilo. la atencion fue muy cordial y muy servicial. la comida de primera, los tres pedazos de asado de tira impecables. la provoleta en su punto. definitivamente vuelvo."
+    }, 
+    {
+      "date": "30 Abr 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Sin_concesiones", 
+      "text": "Hac\u00edan 20 grados afuera y 30 en el sector fumador. El pac\u00fa est\u00e1ba muy bueno, pero los zucchinis eran como tres botones de sobretodo. El matambrito de cerdo estaba quemado y helado. \r\nSe olvidaron el chorizo que lleg\u00f3 20 minutos despu\u00e9s, totalmente quemado y por dentro era una sucesi\u00f3n infinita de bolas de grasa. Las papas fritas buenas. Caf\u00e9s y almendrado bien. Ped\u00ed el auto con la cuenta (tiene valet parking) y cuando sal\u00ed el auto ni lo hab\u00edan pedido. Consejo: un cliente deja pasar una vez cenar onda odisea, pero generalmente no deja pasar una segunda. P\u00f3nganse las pilas, jam\u00e1s pas\u00e9 algo as\u00ed en este restaurante, las anteriores tres veces fueron buenas."
+    }, 
+    {
+      "date": "5 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "foly", 
+      "text": "Muy lindo el lugar, carta muy variada, los mozos cargosos, bastante caro. \r\nMuy recomendable el \"postre del negro\". Es para ir de vez en cuando."
+    }, 
+    {
+      "date": "8 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "megf26", 
+      "text": "El lugar es muy confortable, las ensaladas y pastas est\u00e1n muy buenas."
+    }, 
+    {
+      "date": "17 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "BuenApetito", 
+      "text": "Mala relaci\u00f3n costo beneficio. La peor ensalada caesar que prob\u00e9 en mi vida (llena de mayonesa y sin queso)."
+    }, 
+    {
+      "date": "23 Jul 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Pituxinha", 
+      "text": "Demasiado caro para la comida que ofrecen. \r\nEl mozo es muy cargoso y no se dejen enga\u00f1ar por las entradas que ofrecen que son caras y regulares."
+    }, 
+    {
+      "date": "4 Jul 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "panamorfico", 
+      "text": "Desde la apertura hace seis meses a la fecha subieron los precios un 50 y desmejoraron mucho la atenci\u00f3n."
+    }, 
+    {
+      "date": "26 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mariodom", 
+      "text": "Pocas opciones. Buen ambiente. Buen servicio, pero nada excelente."
+    }, 
+    {
+      "date": "7 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "edepel", 
+      "text": "Lugar ameno, el servicio es bastante bueno y hay gran variedad de platos en men\u00faes especiales o a la carta a mayor precio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Danuz", 
+      "text": "La atenci\u00f3n del lugar es excelente. Y la comida de una calidad buen\u00edsima. El ambiente es tranquilo, y las mesas est\u00e1n bastante separadas, por lo que se puede conversar muy tranquilo."
+    }, 
+    {
+      "date": "23 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ALPRM", 
+      "text": "Cenamos con mi mujer calamaretis de entrada y principal Lomo a casta\u00f1a (IMPERDIBLE) eso si despues de comer todo esto me fui en ambulancia. Mi mujer ceno Abadejo con crema y champignon, muy bueno, sabroso. \r\nEl servicio excelente, no sabia que tenia Vallet Parquing, no lo probamos. Para recomendar."
+    }, 
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Feduchi77", 
+      "text": "La verdad que el lugar es muy bueno. La comida es muy rica y el servicio impecable. Incluso, dado que pedi ensalada rusa y no tenian la misma en el men\u00fa, el mozo me informo que no hab\u00eda problema y me la armaron en el momento. Recomendable."
+    }, 
+    {
+      "date": "10 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "petyballe", 
+      "text": "Muy lindo el lugar y excelentes los ostiones gratinados. \r\nLa cazuela con piment\u00f3n espa\u00f1ol, muy rica pero un poquito picante. \r\nEl mozo no fue pesado, pero le falta un poco de experiencia."
+    }, 
+    {
+      "date": "23 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Bebusga", 
+      "text": "El restaurante es muy bueno, voy bastante seguido y me gusta recomendarlo. Sus platos son exquisitos, cada ves que voy a comer me pido un vacio a la parrila o unos \u00f1oquis de la abuela."
+    }, 
+    {
+      "date": "2 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fjaitt", 
+      "text": "Muy buen lugar. Muy recomendables las pastas. Definitivamente, volveremos."
+    }, 
+    {
+      "date": "8 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GiGi_", 
+      "text": "Porciones abundantes y ricas."
+    }, 
+    {
+      "date": "21 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "minibel", 
+      "text": "Hemos invitado a amigos a almorzar muchas veces. Todos quedaron encantados y cada uno se apresur\u00f3 a recomendarlo\r\na sus amigos. \r\n\u00a1Que tengan mucha suerte porque se lo merecen!"
+    }
+  ]
+}

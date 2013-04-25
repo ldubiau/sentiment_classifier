@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Geritacruz", 
+      "text": "Excelente ambiente y comida"
+    }, 
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "huga", 
+      "text": "El lugar es muy agradable, la atenci\u00f3n es excelente.  \r\nTiene una barra muy c\u00f3moda para comer. Es un lugar con buena comida y muy buenos precios."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ClaudeBernard", 
+      "text": "El lugar es confortable y la atenci\u00f3n personalizada del due\u00f1o hace que uno se sienta muy c\u00f3modo. Las tapas son generosas (con 5 tapas comen bien dos personas y los sabores no defraudan. Es buena cocina.  La carta de vinos es modesta y los precios son relativamente altos. Laz experienci fue positiva y es un lugar recomendable al que dan ganas de regresar."
+    }, 
+    {
+      "date": "16 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luichicorazon", 
+      "text": "La comida es muy buena,tiene el gusto exacto,la atencion ,tambien es buena ,para recomendarlo,un lugar peque\u00f1o y agradable."
+    }, 
+    {
+      "date": "10 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adenis", 
+      "text": "un lugar para comer sin estridencias medioambientales que potencia el disfrute de los platos que se ofrecen. M\u00fasica excelente, iluminaci\u00f3n que no agrede y atenci\u00f3n amabilisima-"
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "amalias", 
+      "text": "Muy buena propuesta gastron\u00f3mica y excelente atenci\u00f3n."
+    }
+  ]
+}

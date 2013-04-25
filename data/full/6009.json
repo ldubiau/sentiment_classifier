@@ -1,0 +1,548 @@
+{
+  "malos": [
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Kukita", 
+      "text": "Pizza en porciones reclaentadas, fria, el mozo con casi nulas ganas de atender, a pesar de la propaganda, es malo y caro. Pareceria que no les interesa atender cuando se piden porciones sueltas. Vivo enfrente pero como la tercera es la vencida no ir\u00e9 m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "lisandrolan", 
+      "text": "La comida buenisima. Lastima que el local es muy ruidoso."
+    }, 
+    {
+      "date": "9 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Pizzer\u00eda t\u00edpica de barrio con una muy buena pizza que llega a los pocos minutos y con ingredientes frescos y de calidad. Tambi\u00e9n prob\u00e9 unas empanadas ($8 c/u) de entrada muy buenas.\r\nEn el local entraban 62 personas y generalmente eran amigos o conocidos por los mozos por lo que el ambiente era muy familiar y ameno. Servicio r\u00e1pido, eficaz y muy cordial por parte del mozo.\r\nDato: la pizza arranca en $50."
+    }, 
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "karlo", 
+      "text": "Sin grandes pretensiones, lugar a meno para comer a una relaci\u00f3n de precio calidad conforme."
+    }, 
+    {
+      "date": "2 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fschlim", 
+      "text": "Excelente pizzeria mitica de buenos aires. La atencion por mozos de profesion y los platos de chapa en donde viene la pizza te remontan a epocas pasadas donde habia que esperar mas que los lugares fashion de ahora para comerte una porcion de pizza. linda la renovacion que ya tiene un par de a\u00f1os. un cl\u00e1sico"
+    }, 
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lucasefe", 
+      "text": "Muy buena pizza. De lo mejor de Villa Crespo, con certeza. La cerveza bien fria, como corresponde. Un muy buen lugar para comer algo con un amigo."
+    }, 
+    {
+      "date": "23 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Fabri86", 
+      "text": "Pizza de las que no hay en muchos lugares!!esto si que es una pizza, con ingredientes de calidda y con cantidad! para ir a disfrutar una muy buena pizza con onda tranqui bien de barrio!"
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Bien la pizza. Nada del otro mundo tampoco. Hay opcion de pedirla medio molde o la piedra. Nosotros comimos a la piedra. Finita y crocante."
+    }, 
+    {
+      "date": "27 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "almoldeporfavore", 
+      "text": "Recomiendo la de jam\u00f3n y morrones y la fugazzeta, excelentes.\r\nEmpanadas, faina, y muzzarela, normales.\r\nCerveza, bien helada."
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "jmarroni1", 
+      "text": "Fuimos a comer al mediodia, el ambiente deja que desear, las pizzas tienen muy buen queso, la de Morron y Jamon muy buena."
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "sciutomaxi", 
+      "text": "Muy rica la pizza, lastima el mozo muy mala onda nunca me dio la carta como para elegir o ver los precio.Lo bueno fue que la pizza era rica y no tuve que esperar nada."
+    }, 
+    {
+      "date": "11 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Juancentro", 
+      "text": "Clasica pizza de barrio. Divide aguas, si sos de palermo mongo, no te acerques. Si queres comerte un par de porciones al molde con una cerveza, no lo dudes. Napo, fugazzeta, jamon y morrones, lo cl\u00e1sico, sale impecable."
+    }, 
+    {
+      "date": "27 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ALenOleo", 
+      "text": "Dejando de lado que pedimos pizza a la piedra y nos trajeron al molde (el hambre no nos dej\u00f3 cambiar), se puede decir que estaba buena.\r\nTendr\u00e9 que volver a probar la otra para entender tantos elogios... aunque me animo a decir que es una pizza m\u00e1s... nada m\u00e1s!"
+    }, 
+    {
+      "date": "31 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marton24", 
+      "text": "Es la gran pizza tradicional de Villa Crespo. Mantiene intacto su talante a pesar del movimiento de local. La pizza al molde es \u00fanica, la mozzarella que utilizan no tiene rival y le pelea palmo a palmo a las mejores pizzas de la ciudad. El ambiente y el servicio son correctos para las expectativas que genera un establecimiento de este tipo."
+    }, 
+    {
+      "date": "19 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SILSIL", 
+      "text": "La pizza es muy rica, la rellena de cebolla me gust\u00f3 y la napolitana y calabresa ambas con rodajas de tomates , estaban bastante bien considerando que muchas veces el tomate en rodajas en la pizza suele saber un tanto agrio \u00e9ste estaba b\u00e1rbaro.Volver\u00e9 a probar la media masa, ya que com\u00ed a la piedra y v\u00ed en otras mesas la media masa y ten\u00eda buen aspecto, la quiero probar.-"
+    }, 
+    {
+      "date": "11 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "jomalen", 
+      "text": "Fui por los comentarios. pobre ambiente y atencion , pizza normal. hoy en dia, se come pizza buena en casi todas partes. me llamo la atencion los comentarios..."
+    }, 
+    {
+      "date": "11 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "yamigo", 
+      "text": "la pizza me parecio muy buena, del lugar no hay mucho para destacar,fui varias veces ya q trabjaba cerca de ahi."
+    }, 
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "florenciavl", 
+      "text": "Com\u00ed simplemente pizza de muzzarella. La verdad era muy rica, al molde, con un queso de buena calidad. Pero el lugar es espantoso. Lo recomiendo, pero s\u00f3lo para ir, comer buena pizza, y no esperar nada m\u00e1s."
+    }, 
+    {
+      "date": "25 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "wella", 
+      "text": "Muy Buena Pizzeria. La pizza muzzarela al molde no es muy alta como el Fortin o Cuartetas y un poco elevado el precio pero tiene buena masa y muzzarela.\r\nAhora la Fugazzeta es otra histora, muy alta, mucha masa y con mucho queso y un precio insuperable! me gusto mas que la del fortin esopecialmnte por el queso que es mas liviano. Excelente!! lo mismo con la de verdura lastima que usen la misma prepizza con salsa para prepararla. La masa de las empanadas es casera y se nota. Buenas empanadas pero quizas un poco caras. Todo para llevar: Gde Muzza $28, porc. fuzazzeta $4, empanadas $3,5.-."
+    }, 
+    {
+      "date": "2 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "semas", 
+      "text": "Fuimos muchas veces a la tradional de la esquina.La pizza es excelente pero cara.Esta nueva versi\u00f3n mantiene las caracteristicas de la otra , o sea excelente pizza , precios elevados , regular atenci\u00f3n. No obstante es un \u00edcono de Villa Crespo.Comparto lo dicho anteriormente ir a ver a Atlanta y una pasada por \"la\" N\u00e1poles , un cl\u00e1sico."
+    }, 
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "MILO_2006", 
+      "text": "Una de las mejores pizzas que prob\u00e9 (calabresa), junto a las de EL CUARTITO. Sin embargo, la atenci\u00f3n es mal\u00edsima, el lugar es antiguo, casi dejado, de barrio... pero de los '70. O sea, ideal para Delivery si est\u00e1s cerca o pedir para llevar. Los precios son muy altos, llegando a ser excesivos y abusivos. Saludos."
+    }, 
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Superchuga", 
+      "text": "La verdad que los otros comentarios me llaman la atencion...si bien los mozos tienen cara de pocos amigos, a la hora de atender no tuve ningun problema NUNCA. Soy cliente de la casa desde que me mude hace un a\u00f1o, vivo enfrente, siempre que voy me atienden de prima, el gallego de la caja es muy gracioso, el clima es bien de barrio, quizas eso moleste pensando que se ubica a pocas cuadras de palermo..."
+    }, 
+    {
+      "date": "10 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Copito", 
+      "text": "Quise comer una rica pizza y en Villa crespo, Napoles es un lugar de referencia. No me equivoque pero me lleve una sorpresa con los precios. $30 una grande de muzzarella me parece exagerado teniendo en cuenta el lugar. No fue sorpresa la mala atenci\u00f3n de los mozos... sino no ser\u00eda Napoles. \r\nMuy rico, un poco caro para una pizzeria de barrio."
+    }, 
+    {
+      "date": "21 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Milek", 
+      "text": "Si no fuera por la pizza que me parece rica no pediria nunca mas, los mozos son unos razistas y se la creen demasiado. \r\nMejor no pido mas, ojala lo cierren por la mala atencion."
+    }, 
+    {
+      "date": "14 Jul 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "Las pizzas son ricas, tirando a caras, el lugar es una pizzer\u00eda cl\u00e1sica, pero la atenci\u00f3n fue muy mala, me trajeron mal el pedido, esper\u00e9 una eternidad la cuenta. El camarero no anotaba y no ten\u00eda buena memoria."
+    }, 
+    {
+      "date": "11 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "rockybalboa", 
+      "text": "Si bien la pizza es buena, no es la de hace unos a\u00f1os atras.\r\nla atenci\u00f3n como siempre es mala."
+    }, 
+    {
+      "date": "7 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elrafa", 
+      "text": "La pizza es buena, el mozo tiene muy mala onda, parec\u00eda una c\u00e1mara oculta.\r\nLa verdad, no vale lo que cobran."
+    }, 
+    {
+      "date": "1 May 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marianoso", 
+      "text": "Es muy pero muy caro para lo que es el lugar. \r\nLa pizza es rica, normal, nada despampanante."
+    }, 
+    {
+      "date": "20 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Hiji", 
+      "text": "Especial para los amantes de los bodegones y bares antiguos.\r\nUn lugar detenido en el tiempo. La pizza sabrosa, la atenci\u00f3n mala. \r\nMozos impacientes y malhumorados. Pero vale la pena conocer por la antig\u00fcedad del lugar."
+    }, 
+    {
+      "date": "13 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "gogo", 
+      "text": "Inexplicable. Pedimos una pizza de muzarella y morrones sin jam\u00f3n. Lleg\u00f3 con jam\u00f3n. \r\nAceptaron el error y la trajeron otra vez. La misma, recalentada y con trocitos m\u00e1s peque\u00f1os de jam\u00f3n. \r\nEl servicio algo \"duro\" a la hora de entender.\r\nEl ambiente correcto, un cl\u00e1sico bien del barrio."
+    }, 
+    {
+      "date": "3 Oct 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "paulan", 
+      "text": "La atenci\u00f3n es campechana, pero a la comida le falta. \r\nLa verdad uno entra m\u00e1s por nostalgia a las viejas pizzer\u00edas que por otra cosa. \r\nLas empanadas son una bomba, con dos uno queda m\u00e1s que satisfecho."
+    }, 
+    {
+      "date": "10 Sep 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ckuc", 
+      "text": "La pizza era sabrosa, pero vino con \"mosca en el queso\" inclu\u00edda. \r\nLa atenci\u00f3n es pat\u00e9tica, el mozo cree estar haci\u00e9ndole un favor a uno y su cortes\u00eda est\u00e1 ausente. \r\nEl precio es demasiado para lo que ofrecen. S\u00f3lo sobreviven por la tradici\u00f3n del lugar."
+    }, 
+    {
+      "date": "11 Sep 2004", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "fabbar1", 
+      "text": "La pizza es buena. La atenci\u00f3n y el ambiente algo parecido a la pel\u00edcula Alien. \r\nPedirle al mozo un pimentero es una odisea con final incierto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Mau", 
+      "text": "excelente pizza, podr\u00eda tener una mejor barra para comer de parado, pero en mi caso siempre la voy a buscar y es muy buena al molde, tanto la de muzza c\u00f3mo la fugazzeta y la de espinaca con salsa blanca. Quiz\u00e1s es un poco cara, pero la calidad lo vale!"
+    }, 
+    {
+      "date": "8 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Essssssss", 
+      "text": "Muy piola guachin alta piza la de jamon y morrones va como pi\u00f1a"
+    }, 
+    {
+      "date": "16 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ccoll", 
+      "text": "Pense que habia cerrado pero no, se habian mudado..., sigue siendo un clasico, la pizza de las mejores que hay al molde.\r\nPara los fanas de este tipo de pizza, me encanta!"
+    }, 
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Payvals", 
+      "text": "La MEJOR, repito, LA MEJOR FUAZZETA RELLENA, con jamon y morrones, para arrepentirse de los pecados e ir a comer hasta morir. si no fuiste, deberias ir. URGENTE:"
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "LuKiNiAs", 
+      "text": "Excelente pizza tradicional de buenos aires. Es para ir con amigos porque el ambiente no es para ir en pareja. Recomendable."
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aardid", 
+      "text": "Espectacular, la pizza riquisima, la atencion muy muy buena, el precio correcto, y algo para destacar ... la cerveza HELADA ! como tiene que ser ... uno se cansa de ir a comer y que le den la bebida caliente ... aca estaba MAS QUE BIEN !"
+    }, 
+    {
+      "date": "2 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Alejo", 
+      "text": "Cl\u00e1sico de cl\u00e1sicos, una de las grandes pizzerias de Buenos Aires sin duda, no se le escatima nada a la pizza, materias primas de primer\u00edsima calidad; desde que se mudo recupero el nivel que por un tiempo fluctu\u00f3 un poco y ademas mejor\u00f3 mucho la atenci\u00f3n. Es simple, si uno quiere comer de las mejores pizzas de Buenos Aires en una t\u00edpica pizzer\u00eda de barrio, este es uno de los lugares por donde nunca deber\u00eda dejar de pasar.\r\nAhhh, La contrase\u00f1a es: N\u00e1poles grande a la piedra."
+    }, 
+    {
+      "date": "19 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cucurru", 
+      "text": "Pizzer\u00eda de alto nivel. Muzzarela, Napolitana o Fugazzetta, son todas exquisitas. Se mud\u00f3 pero conserva la calidad.\r\nEl servicio es muy bueno.\r\nNo entiendo a los usuarios que critican el ambiente. \u00bfQu\u00e9 m\u00e1s se le puede pedir a una excelente pizza? Yo creo que el ambiente est\u00e1 bien."
+    }, 
+    {
+      "date": "14 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Xeneize", 
+      "text": "La pizza a la piedra es muy buena, y la pizza al molde es espectacular. No s\u00e9 de d\u00f3nde sacan el queso, pero es lo que marca la diferencia con el resto de las pizzer\u00edas de Buenos Aires.\r\n\r\nLa atenci\u00f3n es sobria y correcta, y el lugar es c\u00f3modo y limpio, sin dejar de ser una pizzer\u00eda cl\u00e1sica sin grandes lujos. Lo que m\u00e1s me gusta es que la pizza al molde se puede pedir por porciones, lo que d\u00e1 para probar distintos sabores."
+    }, 
+    {
+      "date": "8 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Angelcenter", 
+      "text": "Comimos pizza media masa y postre balcarce, excelente la calidad de la pizza. Vale la pena aunque el servicio es solo aceptable."
+    }, 
+    {
+      "date": "26 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "adraugello", 
+      "text": "Es la primera vez que voy desde que se mudaron.La Calidad de la pizza es indescriptible. Hay que ir y probarla para poder sentirlo y comprenderlo."
+    }, 
+    {
+      "date": "21 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Por suerte reabri\u00f3 N\u00e1poles para el bienestar de los que gustamos de la buena pizza!!! En un lugar m\u00e1s chico que el de la esquina, con la misma despreocupada atenci\u00f3n de siempre y precios algo m\u00e1s altos que lo habitual, pero con la indiscutible calidad de una de las mejores pizzas de Bs. As. Un deber para los que seguimos disfrutando de las cl\u00e1sicas pizzer\u00edas de barrio en lugar de los \"pizza y caff\u00e9\"."
+    }, 
+    {
+      "date": "8 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "maianm", 
+      "text": "Por tener la pizza m\u00e1s rica y ser testigo fundamental en nuestras vidas, amamos este lugar.\r\nEs muy cara, casi como si pagaran un alquiler de microcentro, aunque es simplemente una pizzer\u00eda iconoclasista en Villa Crespo.\r\n\r\nLa muzzarella es de esas que no conocen competencia. La de cancha es sin duda la mejor de buenos aires. Recomiendo que la pidan a la piedra. esta pizza es tan buena, que durante los meses que cerraron, manifestamos nuestro duelo sin pizza alguna.\r\n\r\n\r\nAhora que se mudaron no vale la pena quedarse ah\u00ed sentado. Mejor pedirla para comerla en casa."
+    }, 
+    {
+      "date": "13 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ingridbsi", 
+      "text": "A este lugar hay que ir si uno tiene muchas ganas de comer una exquisita pizaa hecha a lo \"bodeg\u00f3n\" bien cargada y abundante. El lugar es un pizzer\u00eda vieja detenida en el tiempo donde no existen los detalles de los rest\u00f3 modernos (o sea, bien simple). La atenci\u00f3n no es mala pero muy r\u00fastica. En general, la comida riqu\u00edsima, el lugar , olvidable..."
+    }, 
+    {
+      "date": "17 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ale2008", 
+      "text": "Un cl\u00e1sico de Villa Crespo y una de las mejores pizzas de Buenos Aires. Compite palmo a palmo con Las Cuartetas y El Fort\u00edn. Lo malo: La atenci\u00f3n y los precios muy caros."
+    }, 
+    {
+      "date": "18 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "DoPorto", 
+      "text": "A ver, es LA pizzeria por excelencia de Villa Crespo. Sin Villa Crespo, no existir\u00eda la Napoles, y al reves tambien. Es parada OBLIGADA despues, o antes, de ir a ver a Atlanta, \u00bfquien puede tener el tup\u00e9 de criticar tan loable institucion? La mejor pizza de Bs As, saludos."
+    }, 
+    {
+      "date": "11 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Marto65", 
+      "text": "La pizza es muy buena.Abundante muzarela y de buena calidad.\r\nEl lugar: Pizzer\u00eda de barrio.\r\nLa atenci\u00f3n: muy regular con mozos nada  gentiles.\r\nEl precio:Una grande de muzarela con jam\u00f3n $38,es un tanto alto."
+    }, 
+    {
+      "date": "20 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "belu_sam", 
+      "text": "La verdad que les recomiendo el lugar al que quiera comer una de las mejores pizzas de buenos aires!!!\r\nEl lugar es un clasico de Villa Crespo, bien tipico y conserva su escencia de pizzeria de barrio."
+    }, 
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ultraseven", 
+      "text": "El lugar podria estar mejor pero es un cl\u00e1sico. Los precios son un poquito picantes pero la comida lo vale, y me parece que eso cuenta, y mucho. Muy cordial la atenci\u00f3n."
+    }, 
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nadiasonia", 
+      "text": "Com\u00ed pizza a la piedra y era excelente. Hace mucho que no com\u00eda una pizza tan buena. Pero la atenci\u00f3n fue p\u00e9sima y los precios muy altos (una grande de muzzarella y jam\u00f3n $35)."
+    }, 
+    {
+      "date": "11 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "federombo", 
+      "text": "Pizzer\u00eda cl\u00e1sica (antigua), de barrio.\r\nQuienes quieran comer una pizza con masa y queso como las de antes, no deben dejar de ir.\r\nSi bien la opci\u00f3n a la piedra es excelente, recomiendo pedir al molde, donde se aprecia mejor la calidad de la masa.\r\nImperdible la fugazzeta rellena (molde).\r\nUna quilmes imperial (siempre bien fr\u00eda) acompa\u00f1a justo."
+    }
+  ]
+}

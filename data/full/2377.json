@@ -1,0 +1,158 @@
+{
+  "malos": [
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "silviast", 
+      "text": "La comida me pareci\u00f3 mal\u00edsima. La suprema con papas fritas realmente artificial. Los fideos caseros con camarones estaban insulsos. Es una l\u00e1stima porque las porciones son abundantes, el lugar est\u00e1 bien ambientado y el mozo que nos atendi\u00f3 fue muy amable."
+    }, 
+    {
+      "date": "19 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "netneko", 
+      "text": "El ambiente es ruidoso y poco acogedor y no concuerda con el precio del lugar, el precio un poco alto y la carta de postres demasiado poco elaborada. No me gusto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Buen lugar para comer comidas cl\u00e1sicas con sabores caseros elaboradas con productos frescos. Es lo que llamar\u00eda buena comida, pero no para destacar. La atenci\u00f3n es amable y el ambiente c\u00f3modo. Es una buena opci\u00f3n cuando uno est\u00e1 cerca."
+    }, 
+    {
+      "date": "31 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "solilu", 
+      "text": "En la suc. de Scalabrini disfrute de un lomo muy bien hecho.Abundante plato y logrado sabor pero con una interminable espera. Coincido en la poco dedicada atencion. Podria optimizarse la relacion precio-producto."
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "buni1010", 
+      "text": "Fui a la sucursal que esta en Cabello y Scalabrini Ortiz. Si bien la comida es relativamente buena y abundante, la atencion fue realmente pesima. El lugar estaba casi vacio y entre que me sente y un mozo se acerco pasaron 20 minutos. La comida tardo 40 minutos y en traerme la cuenta tardaron 15. Se olvidaron que lo que ellos venden es un SERVICIO. No vuelvo mas."
+    }, 
+    {
+      "date": "13 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "comelotodo", 
+      "text": "Para un plato del dia tardaron 40 minutos... atenci\u00f3n p\u00e9sima, no te atienden ni siquiera cuando quer\u00e9s pedir la cuenta.  Los mozos se pasaron un buen rato entreteniendose con una chica que entr\u00f3 a vender lapiceras, y ni miraban a los comensales. El ba\u00f1o con mal olor y sin jab\u00f3n. No vuelvo."
+    }, 
+    {
+      "date": "11 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "meibe", 
+      "text": "Fuimos a cenar un mi\u00e9rcoles lluvioso, lo elegimos porque el lugar nos parecio muy agradable y tranquilo. La carta carta result\u00f3 ser muy variada, las porciones muy abundantes y sabrosas, la atencion muy buena y el precio acorde. Suficiente para sugerirlo como una buena opcion."
+    }, 
+    {
+      "date": "26 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Buena opci\u00f3n para solucionar el mediod\u00eda porte\u00f1o: ricos platos cotidianos (muy buena calidad de bife y excelente cocci\u00f3n), atenci\u00f3n r\u00e1pida y ambiente agradable y amplio. Recomendable para almuerzos al paso cuando uno necesita hacer un alto y refugiarse del calor de Buenos Aires."
+    }, 
+    {
+      "date": "10 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Buen lugar. Pasable, si estas en la zona podes visitarlo y encontrar algo alguno que otro plato atractivo. Las pastas en la carta suenan pretenciosas, en la realidad son pastas normales, no salen de la media, tienen salsas comerciales pero son bastante safables. El lugar no tiene una ambientacion destacable, el servicio es bueno, la relacion precio calidad podria ser un poco mejor."
+    }, 
+    {
+      "date": "24 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "danielle1", 
+      "text": "Buena comida, bien servida en un ambiente confortable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Forly", 
+      "text": "Hay una gran cantidad de  buenos rest\u00f3s que sirven porciones MIN\u00daSCULAS. Scuzi es el caso opuesto. Muy generoso en sus cantidades, con dishes decorados por el propio chef, abundante en todo sentido, y con platos realmente muy bien elaborados. La comida es IMPECABLE. El servicio no es de lo mejor. Es MUY molesto tener que perder horas buscando la mirada de un mesero para llamarlo; que NUNCA mira al sal\u00f3n, sino que mira a la barra, conversa con el adicionista o con el barman, y desatiende las mesas QUE SE SUPONE DEBER\u00cdA ATENDER. Un comportamiento cl\u00e1sico dentro de la gastronom\u00eda porte\u00f1a. La ambientaci\u00f3n no vale gran cosa. Un rest\u00f3 para recomendar si se tiene apetito, y si se anda por el centro, y si cuando lo \u00fanico que importe sea COMER MUY BIEN. Porque en Scuzi se come REALMENTE MUY BIEN. S\u00f3lo eso."
+    }, 
+    {
+      "date": "17 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DanYi", 
+      "text": "Muy buena la comida, para visitar."
+    }, 
+    {
+      "date": "24 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tonyrod", 
+      "text": "Lo sigo siempre, ya que cada vez que voy hay una agradable sorpresa."
+    }, 
+    {
+      "date": "1 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lagranputa", 
+      "text": "Buenas pastas, el mozo que me atendi\u00f3, muy amable."
+    }, 
+    {
+      "date": "15 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dlarmayo", 
+      "text": "Me llev\u00e9 una muy buena impresi\u00f3n, nunca hab\u00eda entrado a Scuzi y la verdad, muy bueno."
+    }
+  ]
+}

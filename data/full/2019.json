@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "9 Oct 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "totalthr", 
+      "text": "Simulacro err\u00f3neo de alta cocina."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pluspo", 
+      "text": "El restaurante es muy lindo. Buena comida, con una carta acotada. A veces se complican con los puntos de las carnes. Deben mejorar la atencion. Hay voluntad, pero se necesita mas trabajo con los camareros. Algo ruidoso si est\u00e1 lleno. Pero es una buena opcion."
+    }, 
+    {
+      "date": "6 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Roxyp", 
+      "text": "Calixto puede ser un lugar recomendable para ir en fin de semana, ya que entre semana dudo de la frescura de los ingredientes. \r\nSi bien la comida es muy correcta y el Penne Rigatte muy bueno, tuvimos la mala suerte de pedir unas milanesitas donde la carne estaba pasada. El lugar est\u00e1 bien pero necesita mas atenci\u00f3n."
+    }, 
+    {
+      "date": "29 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lidsutd", 
+      "text": "bueno, lo \u00fanico que rescato es el ambiente, muy lindo... se pusieron en eso pero en la comida y el servicio? los platos eran maso-maso, un poco salados para mi gusto y en porciones peque\u00f1as. Tardaron un siglo para tendernos, un milenio para empezar a comer y una infinidad para que nos traigan la cuenta, considerando que estabamos a s\u00f3lo dos metros de la caja!! Sr. due\u00f1o, p\u00f3ngase las pilas."
+    }, 
+    {
+      "date": "5 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Luciago", 
+      "text": "Ambiente sumamente ruidoso. Total desatenci\u00f3n. S\u00f3lo una moza al mediod\u00eda que se deshace atendiendo y la cocina que no da abasto. Los due\u00f1os detr\u00e1s de la barra ni se mueven. \r\nPod\u00e9s estar una hora y media para comer un plato. Se ve que quisieron darle un toque de nivel al bar, pero indudablemente a los due\u00f1os no les gusta laburar."
+    }, 
+    {
+      "date": "9 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gourmet_maria", 
+      "text": "Muy buena la comida, carta acotada pero suficiente.  Muy buena atenci\u00f3n y ambiente tranquilo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "piman", 
+      "text": "Excelente la comida. La cocci\u00f3n de cada uno de los platos es perfecta. Platos arm\u00f3nicos, delicados y con mucho sabor. La atenci\u00f3n es muy buena, los mozos saben hacer su trabajo, son muy atentos.\r\nLa ambientaci\u00f3n me gust\u00f3 mucho, las sillas son muy comodas. La carta cambia constantemente, un buen punto en este tipo de restaurantes. Volveremos."
+    }, 
+    {
+      "date": "16 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marianobsas", 
+      "text": "Creatividad y calidad en un nivel de cocina que dif\u00edcilmente se puede encontrar en San Isidro. \r\nLos postres son inmejorables y el lugar muy agradable."
+    }
+  ]
+}

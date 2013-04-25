@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "14 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "romanleo", 
+      "text": "Buena comida, buen servicio, precios acordes.\r\nRecomendable lugar, sin pretensiones."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ene 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "esrg", 
+      "text": "Excelente la atenci\u00f3n y la comida. Los platos fueron deliciosos y abundantes (la entrada de  rabas estaban un poco aceitosas). La entrada y las mesas cercanas a ella est\u00e1n mal ubicadas."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "16 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "buell", 
+      "text": "Quiero remarcar lo bien que te sirven los muchachos. Muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "8 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Muy buena opci\u00f3n para almorzar: comida rica en un lugar agradable y a muy buen precio."
+    }, 
+    {
+      "date": "29 Abr 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sannyblanco", 
+      "text": "La ambientaci\u00f3n est\u00e1 bien por tratarse de un restaurante italiano, pero no es nada del otro mundo. \r\nEl servicio es p\u00e9simo, los mozos se olvidan las cosas, los platos tardan mucho y el sabor deja mucho que desear. \r\nNo se respetan los puntos de cocci\u00f3n. \r\nCaro en exceso para la poca calidad que ofrece."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ArielC", 
+      "text": "Excelente lugar para una cena intima y poder hablar tranquilos, las porciones son justas y muy bien preparadas. Los precios son razonables y atenci\u00f3n es muy buena. Totalmente recomendable"
+    }, 
+    {
+      "date": "10 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarceloG", 
+      "text": "Muy buena comida. \r\nExcelente los ravioles negros rellenos con lenguado y salm\u00f3n: Una exquisitez y en su punto justo. \r\nMuy buen servicio y ambientaci\u00f3n. Ideal para una cena rom\u00e1ntica en la planta alta del lugar."
+    }, 
+    {
+      "date": "20 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "claudio318", 
+      "text": "Lugar \u00edntimo para comer, con excelente atencion; el mozo estaba en todas, se cay\u00f3 el cuchillo al piso y antes de levantarlo estaba \u00e9l con otro sobre un plato ofreci\u00e9ndolo, siempre predispuesto con la atencion. \r\nExcelente comida, es la segunda vez que voy y me sigue sorprendiendo la calidad. Precios buenos para el bolsillo argentino. Carta justa y precisa. Recomendable."
+    }, 
+    {
+      "date": "28 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "catupito", 
+      "text": "Muy buena cocina y presentaci\u00f3n de platos. Ambiente \u00edntimo y muy c\u00e1lido. \r\nBuena oferta de cocina variada."
+    }
+  ]
+}

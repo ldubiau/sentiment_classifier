@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "23 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "paulymathu", 
+      "text": "no me gusto para nada"
+    }, 
+    {
+      "date": "19 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "elephant", 
+      "text": "Hermoso el lugar,muy buena atencion,imagino que va a funcionar muchos a\u00f1os, ademas para acompa\u00f1ar el cafe tienen unos croassant que estan barbaros!"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "23 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lulitaa", 
+      "text": "La verdad la pizza es buena, pero es carisima. La atenci\u00f2n mala (vi como una se\u00f1ora se desmayo y en vez de socorrerla la corrieron a un costado por que no pod\u00ecan sacar las pizzas, de terrorrr!!). La relaci\u00f2n precio calidad no existe, es excesivo el precio por lo que te dan. Tardaron mucho en traer la comida y la chica que nos atendi\u00f2 ni se esmer\u00f2 en hacernos sentir a gusto despues de lo que hab\u00ecamos presenciado."
+    }, 
+    {
+      "date": "10 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cristian10", 
+      "text": "La pizza es muy buena, aunque un poco cara. Es una l\u00e1stima que por un acuerdo de publicidad no haya variedad de cervezas. \r\nLa atenci\u00f3n estuvo muy bien. \r\nEl ambiente es simp\u00e1tico, pero la mesas y sillas resultan inc\u00f3modas."
+    }, 
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gwzty", 
+      "text": "Buena la Pizza, con masa finita como algunos nos gusta. Muy bonito el lugar, c\u00f3modo y la atenci\u00f3n correcta.\r\nLo unico que no justifico pagar los elevados precios que tiene la casa por la pizza. Hay algunas opciones igual o mas caras ejemplo: provoletas.\r\nPor eso Recomendado pero para tirar plata por una pizza fashion no para comer muy bien."
+    }, 
+    {
+      "date": "12 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pau32", 
+      "text": "excelente pizza de r\u00facula. muy bueno el molde donde la sirven, que la mantiene caliente un buen tiempo y evita que se pierda el sabor.\r\nrecomendable"
+    }, 
+    {
+      "date": "16 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "malusa", 
+      "text": "La atenci\u00f3n es p\u00e9sima. Tardan mucho en servir y encima traen cualquier cosa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PAUMAR", 
+      "text": "Muy agradable el lugar y excelente la comida."
+    }, 
+    {
+      "date": "2 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "morton2", 
+      "text": "La pizza de r\u00facula y las empanadas de carne, son exquisitas. \r\nLa faina especial tambi\u00e9n se lleva sus premios. \r\nEl ambiente es buena onda pero la atenci\u00f3n no siempre lo es."
+    }
+  ]
+}

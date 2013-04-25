@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "3 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "Un bonito y agradable lugar para desayunar o merendar, aunque cuenta con opciones para el almuerzo. De su gran variedad de cosas dulces es dif\u00edcil elegir una, todo es tentador e invita a volver para seguir degustando. Muy recomendable."
+    }, 
+    {
+      "date": "10 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FLOREG", 
+      "text": "Una de las mejores facturas que prov\u00e9, yo les digo \"facturas gourmet\" son imperdibles. De las dem\u00e1s cosas prov\u00e9 poco  pero en general es todo muy rico. Vayan!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alquimista", 
+      "text": "Excelente propuesta en tortas, masas, panes, etc"
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yuliet88", 
+      "text": "Excelente, muy buenos los postres q tiene, variedad y riquisimo. lo recomiendo para tener una atenci\u00f3n si tenemos que llevar un postre a algun lugar. y las facturas que tiene espectaculares"
+    }
+  ]
+}

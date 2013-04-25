@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jenny_d", 
+      "text": "Es un poco caro, a veces tienen buenas performances para ver como show. Me pareci\u00f3 un poco sucio. No s\u00e9 si volver\u00eda ya que existen demasiadas opciones mejores."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "djb999", 
+      "text": "Extremadamente caro para el servicio y la comida que brindan. Es un abuso por el lugar en el que se encuentra. Conozco bien san telmo y hay mil opciones mejores mas."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "3 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guscuisine", 
+      "text": "Muy buena la comida, un poco excesivo el precio para lo que comimos solo pollo grillado y dos guarniciones, sin bebidas alcoholicas ni postre"
+    }, 
+    {
+      "date": "23 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "alfredoeme2006", 
+      "text": "Fuimos en grupo; com\u00ed un matambrito de cerdo al jerez q estaba muy bueno, los q pidieron pastas quedaron conformes mientras q los q pidieron carne vacuna se quejaron de q era mala y dura. Los postres tambi\u00e9n dejaron q desear. El men\u00fa es amplio y apetitoso, la carta de vinos es breve y, como se est\u00e1 transformando en habitual, los m\u00e1s econ\u00f3micos no los ten\u00edan. La relaci\u00f3n precio - comida no es satisfactoria. Fuimos un dia de semana por la noche, hab\u00eda poca gente, as\u00ed q luego q se retiraran un par de borrachines, el ambiente fue c\u00f3modo y agradable. No volver\u00eda si puedo evitarlo."
+    }, 
+    {
+      "date": "1 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Me pareci\u00f3 muy linda la reforma del local, de buen gusto. Tiene una carta surtida con una excelente atenci\u00f3n del mozo (Fabi\u00e1n)."
+    }, 
+    {
+      "date": "28 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Realmente me gust\u00f3 mucho. El lugar ha sido renovado y la nueva decoraci\u00f3n qued\u00f3 muy agradable: invita a entrar. El mozo se destac\u00f3 por ser muy amable y simp\u00e1tico. Las pastas resultaron ricas, sin ser caras. No se puede pedir m\u00e1s."
+    }, 
+    {
+      "date": "18 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adige", 
+      "text": "Me pareci\u00f3 caro."
+    }, 
+    {
+      "date": "29 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nanyllan", 
+      "text": "Muy buena atenci\u00f3n y las porciones son abundantes."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leilaarquiteta", 
+      "text": "O caf\u00e9 \u00e9 delicioso, servido com uma torta que n\u00e3o havia apreciado antes. Simplesmente maravilhosa! Por\u00e9m, o que mais me agradou foi o atendimento. Prestativos e muito atenciosos os gan\u00e7ons s\u00e3o uma recomenda\u00e7\u00e3o a parte. Parab\u00e9ns pelo excelente servi\u00e7o! Voltarei mais vezes quando for a Buenos Aires."
+    }, 
+    {
+      "date": "28 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vero_kor", 
+      "text": "Muy buena la comida. Ped\u00ed una de las \"sugerencias del chef\" y me encant\u00f3. Tambi\u00e9n se destac\u00f3 la atenci\u00f3n del mozo y una buena carta de vinos."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "24 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lu_2010", 
+      "text": "Los cupcakes son deliciosos y las mesitas en la vereda son ideales para disfrutar a la tarde. Es una buena opci\u00f3n para hacer un stop y comer algo rico mientras paseamos por Palermo. La decoraci\u00f3n muy linda y la atenci\u00f3n normal, casi siempre hay que esperar porque hay bastante gente y eso que no es barato."
+    }, 
+    {
+      "date": "26 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Carowo3", 
+      "text": "Riqu\u00edsimos los cupcakes, s\u00faper tentadores.\r\nTienen un local en Uruguay y Santa Fe tambi\u00e9n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "claudhiamarhia", 
+      "text": "Los cupcakes son riqu\u00edsimos!!! Y los muffins no se quedan atr\u00e1s!. Lo que deber\u00edan mejorar es la atenci\u00f3n no solo porque demoran en atender, sino que las meseras son despistadas. Me ha pasado de estar sentada como 15 minutos esperando que me atiendan, y eso que hab\u00eda poca gente. A pesar de esto a\u00fan sigo volviendo a Muma's por los cupcakes. Gente, cuiden al cliente!"
+    }
+  ]
+}

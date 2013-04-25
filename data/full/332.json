@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "14 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Me queda cerca del trabajo. Para comer al mediodia, al paso, las porciones son correctas y la mayoria de los platos son ricos."
+    }, 
+    {
+      "date": "10 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "avedepresa", 
+      "text": "Muy casera la comida aunque la pasta se queda afuera de dicha categoria.. deberian hacerla casra o mejorar entonces los proveedores/marcas. Buen lugar para almorzar diariamente para la gente que trabaja en el centro."
+    }
+  ]
+}

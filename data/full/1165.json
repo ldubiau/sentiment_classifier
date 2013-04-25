@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "17 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "beth1984", 
+      "text": "Tradicional."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carlos_a", 
+      "text": "Muy esmerada la atenci\u00f3n de la due\u00f1a. Recomiendo la pi\u00f1a colada,es excelente"
+    }, 
+    {
+      "date": "6 Nov 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "patita171", 
+      "text": "Muy buenas arepas y comida de venezuela, super recomendado si te gusta este tipo de comida"
+    }
+  ]
+}

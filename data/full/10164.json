@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "17 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Se me hizo tarde para comentar este restaurante, pero bueno. Les cuento igual. 12 de la noche, En el Tortugas, reci\u00e9n salidos del cine de nuestra oscar man\u00eda. Primero car\u00edsimo. Las Mollejas de cordero grasosas y la entra\u00f1a estaba dura como la piedra. Lo \u00fanico bueno, la ensalada, que no es gran cosa. Nos atendieron medios apurados, y bueno el ambiente es lindo. A\u00fan as\u00ed, no me gusto."
+    }, 
+    {
+      "date": "24 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Lagartus", 
+      "text": "Es una veguenza, caro, la atencion malisima y ni hablar la comida, si tengo que poner un puntaje  -1.   un desastre en todo sentido"
+    }, 
+    {
+      "date": "10 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "anteojosnegros", 
+      "text": "Es todo vergonzoso, el se\u00f1or que nos atendio para mi es de la competencia xq hizo todo mal, la comida muy muy mal, el precio carisimo. Tres vinos pedimos hasta dar con uno que teniana en stock.. X lo que vale hay 100 parrilas mejores"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pirilo74", 
+      "text": "Buen ambiente y excelente atenci\u00f3n."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "intocable", 
+      "text": "Vamos bastante seguido y es una pena ver como va perdiendo calidad.  Todav\u00eda conserva un ambiente agradable y la entra\u00f1a que pido siempre sigue siendo muy buena, pero no as\u00ed otros platos e imperdonable que vengan fr\u00edos. Los vinos muy caros, como en todos lados. Hagan un esfuerzo por defender la marca."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "En el Tortugas Open Mall, un enorme centro de compras, est\u00e1 instalado entre otros interesantes locales de gastronom\u00eda,  El Mirasol.  Este cl\u00e1sico que se inici\u00f3 en Boedo,  fue abriendo con el tiempo, sucesivos locales en importantes polos gastron\u00f3micos.   En este caso,  pude encontrar un ambiente agradable, iluminado con mucho acierto y con una esmerada atenci\u00f3n. La parrilla es muy buena, s\u00f3lo que las tradicionales empanadas fritas, aqu\u00ed no las hacen al momento y eso se nota. Vale la pena conocerlo. Los precios son altos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anitadulce", 
+      "text": "excelente como siempre!! y sobre todo cuando hay chicos los mozos aun mas le ponen empe\u00f1o a la atencion."
+    }, 
+    {
+      "date": "6 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GiselaD", 
+      "text": "Excelente comida y atencion. Fuimos un domingo al mediodia y no tuvimos que esperar para sentarnos!!! Nos dieron una mesa barbara con vista al lago del mall. Las empanadas y las mollejas imperdibles. Tambien comimos vacio y colita de cuadril, ambos espectaculares. Los postres tambien muy ricos. Definitivamente un lugar para volver y volver."
+    }
+  ]
+}

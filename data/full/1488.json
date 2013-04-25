@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "9 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pochochocho", 
+      "text": "Un lugar como para no volver nunca mas.\r\nAtencion PESIMA, tuvimos que pedir 3 veces que nos cambien una cuchara, las 3 veces la trajeron sucia.Muy mala experiencia, no vuelvo nunca mas, por el mismo importe en la zona hay lugares mucho mejores."
+    }, 
+    {
+      "date": "1 Mar 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "megf26", 
+      "text": "No volver\u00eda a ning\u00fan Piacere, fueron decayendo a lo largo de los a\u00f1os. La comida es de pl\u00e1stico"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "susidav", 
+      "text": "las veces que he ido he sido muy bien atendida"
+    }, 
+    {
+      "date": "15 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Gaby33", 
+      "text": "Tardan a\u00f1os en atenderte y a\u00fan pidiendo el men\u00fa, han demorado cuarenta y cinco minutos de reloj en traerlo a la mesa un s\u00e1bado al mediod\u00eda."
+    }, 
+    {
+      "date": "11 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "hhhhh", 
+      "text": "El mejor caf\u00e9 de Belgrano."
+    }, 
+    {
+      "date": "22 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "walmail2", 
+      "text": "Buen lugar, excelente y cordial atenci\u00f3n."
+    }
+  ]
+}

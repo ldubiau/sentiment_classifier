@@ -1,0 +1,138 @@
+{
+  "malos": [
+    {
+      "date": "12 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "OSDE1074", 
+      "text": "Pesimo las empanadas que pedi la maza estaban crudas.\r\nNo se recomienda a nadie.\r\npd: comimos 6 personas y pensamos lo mismo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "jorgec", 
+      "text": "Voto en esta Querencia pero frecuento la de Palermo Holiwood (Honduras) que no esta en el listado para calificar. Ricos platos tradicionales, buenos precio muy buen servicio. Para pasar un rato con amigos, en familia o en pareja."
+    }, 
+    {
+      "date": "27 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Muy buena la comida y a precios muy adecuados. La carta no es muy extensa y se centra en platos aut\u00f3ctonos. El lugar es chiquito pero tranquilo."
+    }, 
+    {
+      "date": "26 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vopol", 
+      "text": "Excelente comida aut\u00f3ctona. Muy buenas las empanadas, muy rico y abundante el plato principal. Un lugar para ir siempre, muy buena opci\u00f3n para los espantosos mediod\u00edas laborales."
+    }, 
+    {
+      "date": "16 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cieloambar", 
+      "text": "Buenas las emp\u00e0nadas de cordero. Sin pretenciones."
+    }, 
+    {
+      "date": "16 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lumare", 
+      "text": "Buenas empanadas. El servicio es r\u00e1pido y las muchachas son cordiales."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "taladro32", 
+      "text": "Muy buena opci\u00f3n de comida criolla  para el mediod\u00eda en el microcentro. Recomendable el men\u00fa del d\u00eda (bebida - empanada -plato principal y postre) por calidad y precio.\r\nEl lugar est\u00e1 muy bien ambientado.\r\nComimos muy bien y barato, sin dudas volveremos."
+    }, 
+    {
+      "date": "28 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cebrita", 
+      "text": "Ambiente muy c\u00e1lido. La comida fue muy sabrosa. Excelentes las empanadas!!"
+    }, 
+    {
+      "date": "24 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Zebrita", 
+      "text": "Me gust\u00f3 todo lo que com\u00ed, la ambientaci\u00f3n y atenci\u00f3n del lugar. \r\nVoy a volver!"
+    }, 
+    {
+      "date": "16 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elcriticon", 
+      "text": "Muy buena la comida y la atenci\u00f3n. \r\nSi bien hay que esperar m\u00e1s de lo acostumbrado, es porque la comida la preparan en el momento. \r\nPara no desesperar, pod\u00e9s leer alguna de las revistas/diarios que ofrecen. \r\nSi van m\u00e1s de seis personas, pueden tener inconvenientes para encontrar lugar."
+    }, 
+    {
+      "date": "13 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucho", 
+      "text": "La carta es variada y hace enfoque en la comida salte\u00f1a."
+    }, 
+    {
+      "date": "17 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "soylamis", 
+      "text": "Excelente la atencion, la comida y el ambiente. La verdad muy bueno."
+    }, 
+    {
+      "date": "16 Mar 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martinde1", 
+      "text": "Las empanadas de La Querencia son excelentes, pero tardan demasiado en despacharlas."
+    }
+  ]
+}

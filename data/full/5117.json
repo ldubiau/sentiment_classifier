@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "1 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Un lugar simplemente para almorzar con tiempo. El servicio es un tanto lento e informal, pero no molesta. La comida es bien preparada y las porciones justas. El ambiente no ayuda: muy anticuado y con sobrepoblaci\u00f3n de mesas. Es demasiado caro para lo que ofrece en comparaci\u00f3n con las propuestas vecinas. No creo q vuelva."
+    }, 
+    {
+      "date": "29 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Buen servicio, menu y ambiente clasico definen a American Bar. Recomendado para un almuerzo sin sobresaltos en zona centrica."
+    }
+  ]
+}

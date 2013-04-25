@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "27 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "chezz", 
+      "text": "El ambiente y la atenci\u00f3n son muy buenas pero los patos no son ni tan natural ni tan deli. Realmente por el mismo precio se pueden encontrar cosas mejores, es un poco pretenciosa la propuesta, entiendo qeu fueron casi unos de los primeros en hacer comida deli y natural, pero bajaron mucho la calidad desde entonces."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "julisk", 
+      "text": "Me llev\u00e9 una ensalada que supuestamente ten\u00eda tofu ...  Es decir que  pagu\u00e9 de m\u00e1s porque era una ensalada con tofu, y no encontr\u00e9 ni uno!!!!"
+    }, 
+    {
+      "date": "28 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "Fui s\u00f3lo porque ten\u00eda un descuento, de otro modo no ir\u00eda, ya que me parece car\u00edsimo pagar, por ejemplo, $13.50 un muffin. El concepto del lugar es muy trillado, con ambiente coqueto, femenino y platos saludables, apuntando a mujeres de alto poder adquisitivo camino al gimnasio. La comida es rica, pero nada del otro mundo, por ese dinero hay cosas mejores y m\u00e1s originales. Mal provistos, a la tarde se hab\u00edan quedado sin la mitad de las cosas de la carta. Lo m\u00e1s rescatable fue la actitud del mozo, super simp\u00e1tico."
+    }
+  ]
+}

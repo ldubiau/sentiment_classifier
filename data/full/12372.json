@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "31 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Un lugar razonable con tapeo sin ninguna creatividad y precio altos para   lo b\u00e1sico de la propuesta"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sambro", 
+      "text": "Los tres mejores platos son las alb\u00f3ndigas de cerdo, los pinchos de pollo y las mollejas. Muy buenos postres tambi\u00e9n. Los platos son para compartir y el lugar tiene muy lindo ambiente y excelente m\u00fasica."
+    }, 
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carito77", 
+      "text": "Fui dos veces a Blanch y me encant\u00f3! Es ideal para ir con amigos  y pedir varios platos e ir probando todo. Fui el dia del amigo y la experiencia fue genial. El lugar es precioso, chiquito e intimo y muy lindo decorado. El servicio es muy bueno y la comida es lo que hace que valga muchisimo la pena volver.  La relacion precio calida es excelente.  Ideal para ir al bruch de los domingo. Recomiendo todo lo que probe, en especial las mini provoletas, la bruscheta de salmon y el tempura de bananas."
+    }
+  ]
+}

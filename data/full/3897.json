@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "12 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Nicka", 
+      "text": "Lo promocionan como lugar c\u00e1lido y con m\u00f9sica de jazz, no est\u00e0 m\u00e0s alejado de la realidad. Adem\u00e0s el mozo apura para levantar las cosas cuando el lugar no est\u00e0 lleno de gente. Una desilusi\u00f2n."
+    }, 
+    {
+      "date": "4 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Hernan25", 
+      "text": "un lugar ideal para reunion de amigas o amigos o para ir con la pareja. Para comer algo distinto y pasar un buen momento.\r\nExcelente atencion, seguramente volvere!!"
+    }, 
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Starblack", 
+      "text": "Muy buenas las rabas, tambien las bruschetas en pan casero !!! el ambiente super calido, me dijeron que fue remodelado por Rescate Gourmet!!\r\nLo recomiendo, seguro volvere!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Loreberh", 
+      "text": "Muy buen ambiente y la mercader\u00eda de primera. Para volver"
+    }
+  ]
+}

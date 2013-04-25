@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "15 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "marysabel65", 
+      "text": "La atencion super profesional, simpatica y atenta fue lo mejor. El lugar tambien es lindo, nada bullicioso, y la comida es economica, y rica (pagando en effvo 10% de descuento) Muy recomendable!"
+    }, 
+    {
+      "date": "7 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "vdorza", 
+      "text": "Esperaba algo m\u00e1s de un restaurante tan recomendado, pero la verdad que me decepcion\u00f3. La carta es muy acotada y los platos dejan mucho que desear en cuanto a calidad. La atenci\u00f3n es correcta y los precios razonables. Sin embargo, no s\u00e9 si volver\u00eda."
+    }, 
+    {
+      "date": "22 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hernanla", 
+      "text": "La comida es muy buena, lo mismo que la atenci\u00f3n.\r\nMuy rico tambien la vizcacha en escabeche que degustamos durante la espera."
+    }, 
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Carca", 
+      "text": "Fuimos con mi esposa con un vaucher. de Oleo  . La comida muy buena. El ambiente agradable y la atenci\u00f3n es correcta. Volveremos"
+    }, 
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "andrea1967bis", 
+      "text": "fuimos el sabado 11/8 a cenar con toda la familia, compre unos cupones, algunos comieron gulash de ciervo, otros ravioles de calabaza y yo wok de verduras, la comida es muy buena y fue muy economico. Pasamos una hermosa velada. La  atencion tambien buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Majigo", 
+      "text": "Fui a cenar con amigas y fue una muy rica experiencia. Desde los panesitos con salsa para comenzar hasta el postre. Yo com\u00ed wok de vegetales, muy rico. Una amiga pidi\u00f3 el ciervo, lo prob\u00e9, y exquisito!\r\nLindo el lugar con buena m\u00fasica y servicio. Volver\u00e9!!!"
+    }
+  ]
+}

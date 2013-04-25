@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "1 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "maxigrosso", 
+      "text": "Excelente carta, atenci\u00f3n, vinos. Los platos de parrilla les falta la \"parrilla\" o asador, pero safan. Recomendable."
+    }, 
+    {
+      "date": "26 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Arsenio Erico", 
+      "text": "Tres amigos comimos una parrillada para 2 con papas fritas y una  ensalada. Muy bien las achuras (ri\u00f1on, chinchul\u00edn y un poquito de mollejas) y la carne rica aunque, como en varios lugares, la tira de asado un poco finita.  La ensalada mixta, en cantidad moderada, te la condimentan en funci\u00f3n de lo que uno le pide.  Como era martes al mediod\u00eda estuvimos muy c\u00f3modos. Hay que volver!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablomolinari", 
+      "text": "Gran parrilla en Caseros. Carne muy muy tierna, porciones generosas y velocidad en la atenci\u00f3n (todo sale bastante r\u00e1pido). La comida es sencillamente excelente, y no es cara en absoluto. A veces cuesta encontrar lugar, sobre todo en fines de semana o d\u00edas especiales. Hace un tiempo ampliaron el local lo que soluciona un poco el problema.\r\n\r\nPara ir y volver infinitas veces."
+    }
+  ]
+}

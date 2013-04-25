@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "7 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Campa", 
+      "text": "Muy bueno el asado, atienden muy bien y mucha onda el lugar. Se come realmente bien y es muy recomendable."
+    }, 
+    {
+      "date": "29 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "foletory", 
+      "text": "Muy bueno el lugar y el ambiente. La parrillada estaba muy rica. Lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Manolo", 
+      "text": "Me encant\u00f3 el lugar, sobre todo la atenci\u00f3n y el buen trato de sus due\u00f1os. Los felicito."
+    }
+  ]
+}

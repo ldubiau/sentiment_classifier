@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "29 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Dachy", 
+      "text": "Tuve la mala experiencia de ir con mis hijos justo en el d\u00eda del padre,\r\nun desastre, las mollejas fr\u00edas, el costillar bueno pero mal servido,\r\ntuve que levantarme hasta la barra a pedir servilletas, me acoto la adicionista que le fallo el personal no volvere."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gwzty", 
+      "text": "Excelente relaci\u00f3n precio-producto, porciones generosas. Un chivito imperdible por lo tierno y bien acompa\u00f1ado.Un servicio muy profesional con mozoz cancheros hacen de este restaurant de barrio algo muy destacado.Simple Bueno y con Precio Razonable.Hay que ir temprano porque se llena, aceptan multiples formas de pago y esta bien ubicado en Villa Crespo. Para Volver"
+    }, 
+    {
+      "date": "6 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juanbazzi", 
+      "text": "la pizza es muy buena, pero cuando pedimos que la calienten la pusieron al microondas, la arruinaron. Pedimos un jugo de naranja y por error trajeron 2. No tiene parking. El lugar es agradable."
+    }, 
+    {
+      "date": "20 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Sharky", 
+      "text": "Muy recomendable, exelente para ir si uno trabaja por la zona."
+    }, 
+    {
+      "date": "15 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lalimir", 
+      "text": "Muy buena ubicaci\u00f3n, ambientaci\u00f3n y atenci\u00f3n.  Excelente para ir con chicos."
+    }, 
+    {
+      "date": "27 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lykoar", 
+      "text": "La comida es muy buena. Comimos un plato para compartir de a dos que era abundante. Como entrada pedimos un 1/4 de porci\u00f3n de pizza que, seg\u00fan el men\u00fa, es para una persona (\u00e9ramos 2), y me pareci\u00f3 mucho por lo que imagino que la 1/2 porci\u00f3n que ofrecen para 2 personas alcanza para mucho m\u00e1s. La atenci\u00f3n es muy buena y el ambiente agradable. Pienso volver con mis amigos para que lo conozcan."
+    }, 
+    {
+      "date": "10 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "silmfa", 
+      "text": "He ido mas de una vez, y en cada una de ellas muy buena la atencion y la calidad de los platos. Muy buena presentacion y excelente mercaderia. La mayoria de los platos son para compartir y a muy buen precio. Totalmente recomendable!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vies", 
+      "text": "Fui a comer al mediod\u00eda en varias oportunidades.\r\nEn lo \u00fanico que fallan es en la cantidad de personal.  Pero a\u00fan as\u00ed son muy amables y cordiales en su atenci\u00f3n."
+    }, 
+    {
+      "date": "25 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "degustador2008", 
+      "text": "Comes barato, abundante, bien, y el mozo que nos toco muy bien!"
+    }, 
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "wings", 
+      "text": "Pedimos trilog\u00eda de carnes.. muy bueno, muy abundante tambi\u00e9n. Comimos 2 y sobr\u00f3.  Se come bien y barato (ya que todo es para compartir)."
+    }
+  ]
+}

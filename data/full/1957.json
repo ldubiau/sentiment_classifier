@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "23 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "aquaman", 
+      "text": "Regulares empanadas,lo que sol\u00eda ser de primera, se convirti\u00f3 en un masacote crudo y sin relleno.No recomendables."
+    }, 
+    {
+      "date": "13 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "criti_2", 
+      "text": "Porciones peque\u00f1as - nada del otro mundo y tirando a mediocre - hasta que te atiendan pasa un rato largo. otro igual mpara que te traigan la comida y !el colmo! tenes que agitar el brazo como un naufrago para que se dignen cobrarte.-\r\nEst\u00e1 bien que sea una pizzer\u00eda y no de las mejores, pero podr\u00edan esmerarse en calidad y atenci\u00f3n.-"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Laurakis", 
+      "text": "Pedimos tres platos de pastas: uno fileto, uno pesto, y uno scarparo que supuestamente ven\u00eda con albahaca y otros ingredientes, grande fue mi decepci\u00f3n al ver que la salsa era la mezcla de las otras dos (no, no es lo mismo y se not\u00f3 en el sabor). Al menos las pastas eran bien frescas y ricas. Y por suerte fue barato, sino..."
+    }, 
+    {
+      "date": "23 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Com\u00ed una buena fugazzeta rellena, una mezcla justa entre una masa no muy agolpada, y un relleno muy apreciable. La muzzarella con la que trabajan es buena. El precio me pareci\u00f3 adecuado. El lugar no re\u00fane mayores elementos que el de una pizzer\u00eda normal. Hay menos gente que las pizzer\u00edas de la zona, y cenar en el lugar resulta c\u00f3modo."
+    }, 
+    {
+      "date": "13 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "cipriani", 
+      "text": "la pizza es rica.un poco cara para lo que es pero en fin"
+    }, 
+    {
+      "date": "20 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "uork", 
+      "text": "Pedi dos pizzas, una de muzzarella y otra fugarella (muzzarella y cebolla) me cobraron CUARENTA Y OCHO pesos. La muzzarella es de bufala?. Un robo, nunca m\u00e1s vuelvo..."
+    }, 
+    {
+      "date": "9 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guillevane", 
+      "text": "Es increible como el sabor de las comidas es exactamente igual en todos los locales de La Continental. La pizza y las empanadas son riquisimos, el resto de las comidas acompa\u00f1an. En esta sucursal la atencion es buena y el ambiente tambien."
+    }, 
+    {
+      "date": "3 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Fana", 
+      "text": "Muy buena atenci\u00f3n y buenos productos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "MeGustaSano", 
+      "text": "No se le puede pedir mucho m\u00e1s que una exelente pizza. La masa perfecta. La cocci\u00f3n justa. La proporci\u00f3n de los ingredientes exacta. La calidad de los productos buena."
+    }, 
+    {
+      "date": "5 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gatita2005", 
+      "text": "Una excelente y tradicional pizzeria. A veces tardan un poco en registrar que llegaste, pero la comida merece la espera... Ideal para charlas entre amigos..."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RodrigoU", 
+      "text": "Caro"
+    }, 
+    {
+      "date": "15 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PechiyDipa", 
+      "text": "Lugar agradable y chico. Normal, no es la gran cosa ni tampoco malo. Comimos una entrada de aceitunas rellenas de cerdo, que parec\u00eda muy   tentador, pero solo se sent\u00eda el gusto a aceituna muy fuerte. Yo com\u00ed unas pastas con salsa de hongos, la salsa era excelente. Mi novia comi\u00f3 unas pastas con mariscos que no era la gran cosa, la salsa ten\u00eda lim\u00f3n y quedaba raro. Gastamos $200 y pico sin postre, con caf\u00e9."
+    }, 
+    {
+      "date": "25 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fernandopeche", 
+      "text": "Almorzamos un domingo al mediodia y llegamos 20 min antes de la hora del cierre. La moza al atendernos nos indico que ten\u00edamos que pedir rapido porque ya cerraba la cocina. Actitud poco amable. Pedimos las aceitunas rellenas de entradas, abundantes pero un poco saladas. De principal, yo ped\u00ed los escalopes y mi mujer el conejo. Estuvieron correctos, nada del otro mundo. El lugar es chiquito y agradable. Recomiendo al due\u00f1o una mejor extracci\u00f3n en la cocina, ya q esta es a la vista y cuando salimos nos tuvimos que ir a cambiar del olor a comida que traiamos en la ropa"
+    }, 
+    {
+      "date": "19 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "daconta50", 
+      "text": "Ambiente sencillo, carta justa, platos ricos. Buen surtido de vinos. Interesantes pastas al estilo italiano, como as\u00ed tambi\u00e9n las aceitunas rellenas y fritas t\u00edpicas de La Marche."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cecingr", 
+      "text": "excelente lugar, la comida se pasa de rica, muy recomendable el semifredo de limon y la torta de chocolate!!"
+    }, 
+    {
+      "date": "20 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tuchito", 
+      "text": "Hace mucho que no comia tan rico! El lugar chiquito pero muy c\u00e1lido, atendido muy amablemente lo que genera de entrada que uno se relaje y disfrute. Probamos de entrada una ensalada caprese que estaba muny buena (con burrata incluida!), una tortilla con chorizo colorado (en el punto justo) De principales destaco los fideos caseros con frutos de mar... la salsa increible, muy sabroso. No llegamos con espacio para los postres... volveremos! (pero sin los chicos! JA)"
+    }, 
+    {
+      "date": "16 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sdeya1", 
+      "text": "Esta situado en un barrio tranquilo, fui varias veces. La atenci\u00f3n es cordial y correcta. Las mesas amplias y c\u00f3modas con manteles de calidad, buena luz. Panes caseros, el carpaccio es mi entrada preferida, pero hay varias y muy elegidas, luego la comida es en general muy buena, hecha con amor, se nota y sabe. La carta var\u00eda pero siempre incluye una opci\u00f3n para uno. Vinos de buenos precios y vinos excelentes, es el tipo e restaurant que busco en Buenos Aires, hay muy pocos."
+    }
+  ]
+}

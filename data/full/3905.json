@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "18 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Betorosas", 
+      "text": "Las papas fritas ten\u00edan gusto a pescado. Supongo que el aceite ser\u00eda viejo. Nos sentamos en una mesa afuera ten\u00edamos al lado la cola de la parada del colectivo. Adem\u00e1s, cuando pasaba el tren, nos ten\u00edamos que gritar para escucharnos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "Un restaurant de barrio, sin grandes pretensiones, pero que cumple con una comida rica, porciones grandes y precios razonables. La atenci\u00f3n es amable y simp\u00e1tica, aunque el ambiente es transitado y riudoso. Lo recomiendo  para hacer una salida sin gastar demasiado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MVC1973", 
+      "text": "Excelente restaurant de estilo \"familiar\". Platos abundantes para compartir. recomiendo la Costillitas de cerdo a la riojana (es para 2 personas) y los canelones de verdura con gusto a los que hacia mi abuela. Es verdad que es ruidoso, ya que esta frente a la estacion y tiene paradasde colectivo en la puerta ... pero adentro el ambiente es muy lindo. Lo recomiendo!!!"
+    }
+  ]
+}

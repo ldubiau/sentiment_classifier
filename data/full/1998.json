@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "9 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Inga", 
+      "text": "El lugar deja mucho que desear, est\u00e1 muy venido abajo. Paredes descascaradas y sillones rotos.  La comida es un desastre. La moza nunca nos prest\u00f3 atenci\u00f3n y no hab\u00eda nada de lo que estaba en la carta."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tiagobsas", 
+      "text": "No era la primera vez que \u00edbamos, pero si la primera que com\u00edamos sushi. \r\nLa verdad es excelente la calidad, genial la comida. El postre igual y el servicio excelente.\r\nPara recomendar notablemente, en pocos lugares me gust\u00f3 tanto el sushi."
+    }
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "malos": [
+    {
+      "date": "5 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "danitza", 
+      "text": "El sector de juegos para ni\u00f1os muy sucio , la comida medio pelo recalentada en microondas y el due\u00f1o un aleman trucho que hace parecer que conoce el idioma y no sabe ni lo que dice."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "e_vanesa", 
+      "text": "Muy rica la comida! s\u00f3lo que tendr\u00edan que renovarlo un poco, adentro mucho calor sin aire encendido, y al menos una manito de pintura. La direcci\u00f3n est\u00e1 mal, es Ortega y Gasset 1880."
+    }, 
+    {
+      "date": "6 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "madelaine", 
+      "text": "Se come muy bien, Tiene un men\u00fa importante con muchas comidas t\u00edpicas,las cremas muy buenas no son sint\u00e9ticas, son como hechas en casa.Saludos.Cris"
+    }, 
+    {
+      "date": "27 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cuervo83", 
+      "text": "Se come bien, un se\u00f1or que atiende habla mucho en alem\u00e1n. Es simp\u00e1tico pero con una simpat\u00eda un poco agresiva. Le falta limpieza al lugar, est\u00e1 algo quedado en el tiempo. El sector de juegos de ni\u00f1os es t\u00e9trico. Lo recomiendo pero para no ir con chicos."
+    }, 
+    {
+      "date": "10 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Damiangourmet", 
+      "text": "Fui el viernes a almorzar, la comida era buena pero nada del otro mundo, buenas porciones pero bastante adaptada al paladar argentino, la atenci\u00f3n no fue mala y los cubiertos estaban un poco sucios, rica comida pero le falta el toque alem\u00e1n."
+    }, 
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Jelp", 
+      "text": "Muy buena la atencion del mismo due\u00f1o: La comida es muy rica y casera"
+    }, 
+    {
+      "date": "22 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida es casera y los platos son abundantes. El lugar es tipo cantina. Los precios son acomodados. Vale la pena conocerlo."
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sebas_74", 
+      "text": "Fuimos por el dia del padre y tenian un precio fijo por persona y muy pocos platos, casi todos sobre la misma base, se noto que estaba todo pre-cocido y se termino al pedir el plato, pero la verdad que no se diferenciaban los distintos platos que pedimos entre 5. Igual por la atencion y el lugar volveria a ir."
+    }, 
+    {
+      "date": "4 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mugremovil", 
+      "text": "Lugar agradable y  sencillo, ideal para probar buenos platos, disfrutar una buena comida y una buena charla.  Buena atencion y a un precio promedio"
+    }, 
+    {
+      "date": "25 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "masarapi", 
+      "text": "atendido por sus due\u00f1os quienes merecen ser oidos en sus recomendaciones el precio es muy apropiado y la comida muy casera"
+    }, 
+    {
+      "date": "21 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jaibanez", 
+      "text": "Fui varias veces a comer al mediodia. Siempre la atenci\u00f3n fue excelente, el local muy bien ciudado y la comida (por lo general  pido platos sencillos) bien preparados"
+    }, 
+    {
+      "date": "15 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dtronica", 
+      "text": "excelente atenci\u00f3n, ambiente familiar y la comida es exquisita"
+    }, 
+    {
+      "date": "12 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Cantina Alemana con diversidad de platos tipicos, que cumple sin sobresalir.  Precios justos, atencion y ambiente correcto."
+    }, 
+    {
+      "date": "4 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "valeria1", 
+      "text": "La comida no defrauda. La cerveza artesanal vale la pena. La atenci\u00f3n es excelente, el mozo estuvo siempre atento sin molestar. \r\nEl ambiente est\u00e1 quedado en el tiempo, para algunos eso es bueno, para otros no tanto."
+    }, 
+    {
+      "date": "13 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "florm", 
+      "text": "Es la misma familia que hacia exactamente el mismo excelente Goulash, 80 a\u00f1os atr\u00e1s en la calle Cramer y Juramente. Cl\u00e1sico bodegon aleman, los platos nunca defraudan y el bolsillo agradecido"
+    }, 
+    {
+      "date": "27 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "gabeto", 
+      "text": "En un lugar antiguo con cuadritos viejos de Alemania, la comida no es gran cosa, los fiambres parecen del supermercado. \r\nLa atencion es agradable y la cerveza casera muy buena. Sigue costando encontrar un buen lugar de comida alemana tradicional."
+    }, 
+    {
+      "date": "23 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "memefe", 
+      "text": "El arenque marinado muy bueno, el golulash es un poco suave, muy buena la mostaza"
+    }, 
+    {
+      "date": "12 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "alfredoeme2006", 
+      "text": "Es peque\u00f1o pero bien puestito, ambientaci\u00f3n agradable, prolijo, con pinta de limpio. El dia q fuimos no estaba lleno, pero hab\u00eda 1 solo mozo (eficiente). \r\nLa comida no fue gran cosa. Lista amplia y tradicional en la q la comida alemana ocupa entre un 10 y un 20. La gama de precios es amplia. Serios problemas de existencias de vinos: a medida q \u00edbamos consumiendo se iban acabandoo las botellas de la marca elegida. C\u00f3mo \u00e9ramos una mesa grande y celebr\u00e1bamos, pedimos champagne: s\u00f3lo hab\u00eda 1 botella. Tambi\u00e9n consumimos el ultimo resto de whisky importado. La tabla de fiambres (para 4) s\u00f3lo inclu\u00eda unas fetas de queso de m\u00e1quina, otras de jam\u00f3n crudo, leberwurst y ensalada de papas. Mis escalopes estaban resecos, la salsa desabrida y el spatzle inconsistente. La torta selva negra, inexpresiva. Imagino que fue 1 mal dia. No s\u00e9 si vuelvo por la revancha, temo que ya no les quede mas vino."
+    }, 
+    {
+      "date": "2 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sofis", 
+      "text": "El servicio incre\u00edble. Cerveza casera y el mozo es extremdamente amable. La comida estaba un poco insulsa."
+    }, 
+    {
+      "date": "28 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rhr955", 
+      "text": "Comida alemana buena y variada. Atenci\u00f3n esmerada. El ambiente no tiene nada que ver con aquel de la calle Cramer."
+    }, 
+    {
+      "date": "5 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "exepor", 
+      "text": "La comida no es muy buena, salvo la salchicha lo dem\u00e1s estaba falto de sabor y recalentado. \r\nLo mejor es la cerveza y la atenci\u00f3n."
+    }, 
+    {
+      "date": "29 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "llamas", 
+      "text": "Recomiendo la cerveza y el pat\u00e9 de ciervo (cuando hay, las porciones son m\u00e1s que generosas)."
+    }, 
+    {
+      "date": "22 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mile_udp", 
+      "text": "La comida es rica y la atenci\u00f3n es muy buena y profesional. Lo \u00fanico que el ambiente es un poco quedado en el tiempo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mengue", 
+      "text": "Los platos son excelentes y tienen mucha variedad (es para volver una y otra vez!). La atenci\u00f3n es muy buena, muy familiar. Es un lugar que desde 1925 est\u00e1 en el barrio, con mudanzas de por medio, que no se puede dejar de conocer."
+    }, 
+    {
+      "date": "22 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Kiku", 
+      "text": "Fuimos un domingo al mediod\u00eda y comimos en la vereda. El due\u00f1o es muy simp\u00e1tico y da buenos consejos sobre qu\u00e9 pedir, no se pone pesado. La comida es muy buena; lo \u00fanico negativo es el local por adentro que est\u00e1 un tanto descuidado. Un lugar 100% recomendable al que volver\u00eda, sentado afuera o cerca de la ventana."
+    }, 
+    {
+      "date": "27 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aquaman", 
+      "text": "La atenci\u00f3n del due\u00f1o es excelente,muy atento.El goulash con spettzle es imperdible. L\u00e1stima que el ambiente qued\u00f3 en el pasado..."
+    }, 
+    {
+      "date": "4 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "arquitect", 
+      "text": "Excelente servicio y atenci\u00f3n , la comida impecable, muy buen precio. Fundamental: nunca molesta un pedido literalmente al servicio del cliente. Ruben y su equipo , maravillosos."
+    }, 
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gwzty", 
+      "text": "Imperdible para conocer la comida alemana. Local peque\u00f1o pero c\u00e1lido, donde los due\u00f1os te asesoran e informan acerca de los platos y la carta.\r\nImperdible el bizmarck, muy bueno el goulash con spattles.\r\nAlejado un poco del quilombo de Las Ca\u00f1itas.\r\nMuy recomendable. S\u00e1bados y viernes puede haber espera pero lo vale."
+    }, 
+    {
+      "date": "11 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dreshus", 
+      "text": "La cerveza artesanal demasiado pesada. Los escalopes gratinados espectaculares. Altamente recomendable."
+    }, 
+    {
+      "date": "7 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pipo", 
+      "text": "Muy buena atenci\u00f3n y muy buen servicio pero medio salado."
+    }, 
+    {
+      "date": "8 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "colcett", 
+      "text": "La comida excelente, no difiere en su sabor de los verdaderos platos alemanes. \r\nMuy buena atenci\u00f3n. Buen ambiente. Ideal para ir con amigos. M\u00e1s que recomendable, la cerveza artesanal."
+    }, 
+    {
+      "date": "11 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AleT", 
+      "text": "Muy buen ambiente. El trato es cordial y los mozos explican la variedad de platos con amabilidad. Un excelente lugar para comer."
+    }, 
+    {
+      "date": "25 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marao", 
+      "text": "Nos atendi\u00f3 el due\u00f1o personalmente. Antes de entrar le preguntamos si ten\u00edan tarjeta de d\u00e9bito o cr\u00e9dito y como las ten\u00eda suspendidas nos ofreci\u00f3 comer y llevarle la plata otro d\u00eda (finalmente sacamos plata de un cajero). La comida excelente, las porciones muy grandes y barat\u00edsimas. Cerveza casera por 5 pesos. \r\nUno de los mejores lugares para comer estofados en invierno."
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "DeniseItalia", 
+      "text": "Excelente la comida y sobre todo la atenci\u00f3n. La calidez del ambiente y de la gente hace que uno se sienta entre amigos. Recomendable."
+    }, 
+    {
+      "date": "12 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Ripley", 
+      "text": "El ambiente es algo vetusto. \r\nQueda compensado con una atenci\u00f3n personalizada y c\u00e1lida. \r\nMuy buena orientaci\u00f3n del mozo en cuanto a platos y cantidades. \r\nSi buscan algo sofisticado, olv\u00eddense; pero si buscan comida alemana decente, este es el lugar. \r\nRelaci\u00f3n precio/calidad: equilibrado. Cr\u00edtica constructiva: incorporar m\u00e1s variedades de cervezas. \r\nTener s\u00f3lo Quilmes es imperdonable. \r\nTodo estuvo muy bien. En su punto."
+    }, 
+    {
+      "date": "4 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "daia", 
+      "text": "Excelente la atenci\u00f3n. Se come espectacular. Es recomendado para todas las personas."
+    }, 
+    {
+      "date": "12 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Poe", 
+      "text": "Si lo que uno busca es comer comida alemana, en un ambiente ameno y tranquilo, es el lugar. \r\nLa atenci\u00f3n es muy correcta."
+    }, 
+    {
+      "date": "27 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "crisgatt", 
+      "text": "Muy buena la sugerencia de la casa, para orientar sobre lo que uno pod\u00eda comer, el chucrut, como la cerveza, exquisitos."
+    }, 
+    {
+      "date": "23 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Moises", 
+      "text": "Platos realmente alemanes.\r\nMuy tranquilo y ameno. Precios bajos."
+    }, 
+    {
+      "date": "16 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ckuc", 
+      "text": "Se pueden disfrutar de sabrosos platos alemanes a un buen precio. El servicio es muy bueno y ameno. El lugar es tranquilo, luminoso, con poco ruido y con gente de diferentes edades. Uno se siente c\u00f3modo, satisfecho y bien atendido."
+    }, 
+    {
+      "date": "7 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vivita51", 
+      "text": "Men\u00fa ejecutivo a la noche (14 pesos sin bebida) muy variado. \r\nLa comida abundante y muy buena. Muy atento y cordial el trato. \r\nEs recomendable para comer algo tradicional alem\u00e1n en un ambiente tranquilo."
+    }
+  ]
+}

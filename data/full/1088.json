@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "17 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guillotes", 
+      "text": "Suelo pedir delivery de este lugar. Eficiente en la atenci\u00f3n telef\u00f3nica, comida buena para los 1/2 dias de la oficina. Recomendable. Muy macanudo el se\u00f1or que atiende el tel\u00e9fono."
+    }, 
+    {
+      "date": "1 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Cachu", 
+      "text": "Pedi delivery, la comida es sabrosa, las porciones son de tama\u00f1o normal y el precio muy accesible."
+    }, 
+    {
+      "date": "5 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Muy buena opci\u00f3n para almorzar, sobre todo en grupos, por la zona: tienen men\u00faes de mediod\u00eda a precios convenientes y la atenci\u00f3n es r\u00e1pida y con buena disposici\u00f3n."
+    }, 
+    {
+      "date": "8 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Eduar", 
+      "text": "Muy bien ubicado. Variedad, buen precio y calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "anela", 
+      "text": "La comida es rica pero no es econ\u00f3mica. La atenci\u00f3n es muy buena y est\u00e1 s\u00faper bien ubicado para turistas."
+    }, 
+    {
+      "date": "12 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jonyjony", 
+      "text": "Muy buen precio. Lugar, comida  y servicio insuperables. En fin, todo muy bien."
+    }, 
+    {
+      "date": "8 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Jonamatus", 
+      "text": "Ambiente y servicio muy bueno, la comida muy sabrosa."
+    }, 
+    {
+      "date": "8 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jcd", 
+      "text": "Buen precio y servicio excelente. La comida es sabrosa, se disfruta."
+    }
+  ]
+}

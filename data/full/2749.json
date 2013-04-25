@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "8 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "dammar", 
+      "text": "Ir a Lo de Joaquin Alberdi ....como describir sus catas.El llegar es sentirse a gusto y comenzar a conocer el mundo del vino.TAnto Joaquin como su equipo son personas que saben aconsejar sobre vinos.Sus catas son buen\u00edsimas, un ambiente agradable probando diferentes bodegas y acompa\u00f1ado de una rica picada.Es un lugar que no puedo dejar de ir.La gran variedad de etiquetas hace la diferencia."
+    }, 
+    {
+      "date": "22 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "silos", 
+      "text": "Fuimos a la degustacion de Finca La Anita, acompa\u00f1ada de una picada de quesos y fiambres. Un buen momento..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Best", 
+      "text": "Una noche muy especial donde nadie te molesta."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "11 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Naquito", 
+      "text": "Muy buena atenci\u00f3n, mozos muy simp\u00e1ticos, ambiente familiar y los bueno que est\u00e1 abierto siempre. He pedido una paella a las 2 de la ma\u00f1ana y no tuve problemas."
+    }, 
+    {
+      "date": "30 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adraugello", 
+      "text": "siempre a la salida del cine y a la salida de algun show en river visite este lugar, desde hace a\u00f1os, es un lugar de comida parte\u00f1a, mucha variedad, porcione abundantes. La atencion en mi ultima experiencia fue realmente mala, el mozo tardo mas de 45 minutos en venir a cobrarnos."
+    }, 
+    {
+      "date": "20 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Laurakis", 
+      "text": "Voy hace muchos a\u00f1os a la salida del cine. LA comida rica y abundante, pero no es nada gourmet, simplemente una pizzer\u00eda que hace minutas, muy ricos los crepes y las pastas, y tambi\u00e9n las pizzas. Tiene reservados de madera sobre un costado. La atenci\u00f3n correcta."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "theanswer07", 
+      "text": "La atenci\u00f3n es excelente, muy buena predisposici\u00f3n de los mozos. El ambiente es muy bueno, c\u00f3modo e ideal para ir a comer en familia. Las porciones son abundantes y la relaci\u00f3n precio/ cantidad es coherente."
+    }, 
+    {
+      "date": "9 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nati1301", 
+      "text": "Excelente lugar para comer luego del cine. Pedi matambrito de cerdo a la pizza con papas noisettes y estaba buenisimo. En otras ocasiones he pedido las rabas a la provenzal que tambien son barbaras, todos los platos son muy abundantes.\r\nMuy buena la atencion de los mozos y el ambiente, los precios tambien muy accesibles, Definitivamente un lugar muy recomendable."
+    }
+  ]
+}

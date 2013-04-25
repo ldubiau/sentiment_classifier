@@ -1,0 +1,126 @@
+{
+  "buenos": [
+    {
+      "date": "5 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "buscador54", 
+      "text": "El lugar esta bueno. La comida es rica, pero el mozo se ve\u00eda superado por la cantiad de mesas ocupadas. No me pareci\u00f3 razonable cobrar servicio de mesa, con servilletas de papel y dos rodajas de pan en la panera."
+    }, 
+    {
+      "date": "9 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fontoto", 
+      "text": "Muy lindo lugar la verdad. M\u00fasica en vivo pero tranquila, onda jazzera. \r\nLo \u00fanico que no me gust\u00f3 mucho fue la forma de condimentar los malfattis, pero en general es muy recomendable. \r\nBuen ambiente y un trato muy cordial."
+    }, 
+    {
+      "date": "25 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gonza10", 
+      "text": "Acogedor, con un servicio ameno. \r\nLa comida es fresca, abundante y de buen sabor."
+    }, 
+    {
+      "date": "2 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elrafa", 
+      "text": "La comida bien, el mozo muy amable. Lugar chiquito, para ir en pareja."
+    }, 
+    {
+      "date": "22 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "dieguis", 
+      "text": "Un lugar muy c\u00e1lido, con velas, ideal para ir en pareja y compartir una pizza o picada con vino o cerveza. \r\nLos precios son realmente accesibles y se puede disfrutar de la intimidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "stella58", 
+      "text": "Es un lugar hermoso. La m\u00fasica suave a media luz, una atenci\u00f3n muy buena, la comida excelente. \r\nLa carne es re blandita, el risotto justo, tanto en cocci\u00f3n como de gusto, la banda muy buena. \r\nEl comentario de la gente que fue con nosotros a festejar un cumplea\u00f1os es que quedaron todos encantados. \r\nNos qued\u00f3 por probar la pizza que seg\u00fan los comenzales de otras mesas era espectacular, pero realmente es para pasar un muy buen momento. \r\nFelicito a los due\u00f1os del lugar."
+    }, 
+    {
+      "date": "11 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rcecilia84", 
+      "text": "Es un buen lugar si quer\u00e9s tener una cena tranquila."
+    }, 
+    {
+      "date": "26 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Caro70", 
+      "text": "Muy buena la comida y muy buena la atenci\u00f3n. Es un lugar para recomendar a mis amigos."
+    }, 
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Charly911", 
+      "text": "Muy bueno, vale la pena visitarlo, una joyita porte\u00f1a."
+    }, 
+    {
+      "date": "20 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MARUREINOSO", 
+      "text": "La ambientaci\u00f3n del lugar es muy c\u00e1lida, su decoraci\u00f3n y m\u00fasica invitan a pasar un lindo momento entre amigos o en pareja. \r\nLa comida tiene ese sabor especial de \"lo nuestro\". Pasar un rato en la yeta trae buena suerte sin duda."
+    }, 
+    {
+      "date": "10 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chetos", 
+      "text": "Como decimos en Chile: \"Bueno, bonito y barato\". \r\nMuy c\u00e1lida la atenci\u00f3n. Me qued\u00f3 pendiente pasar a la hora del mate."
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jesicasa", 
+      "text": "Muy rico todo."
+    }
+  ]
+}

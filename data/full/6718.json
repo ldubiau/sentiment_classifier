@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "petah", 
+      "text": "Muy buenas comidas regionales en ollitas de barro con sabor muy delicado, ah! las empanadas de carne a cuchillo excelentes. \r\nLugar modesto pero amable y espacioso\r\nGaseosas de litro y medio como para sumar a la economia final de la cuenta."
+    }, 
+    {
+      "date": "12 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "granaloco", 
+      "text": "Un lugar desconocido por su ubicacion pero atendido muy atentamente. Siempre que fui, me atendieron co una sonrisa y eso vale...la comida es exquisita, sobre todo la norte\u00f1a, la humita al plato es IMPERDIBLE!!!, los precios son moderados pero las porciones son escazas...es lo unico que deberian cambiar, el resto. 10 puntos. Volvere y seremos millones (ahora hay que ver si tendran lugar para tantos,jajaja)"
+    }, 
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "caludio", 
+      "text": "Es un lugar tranquilo, no muy bonito pero pasable, bien de barrio, las mesas estan bien separadas. La comida es muy buena, abundante y barata. La atenci\u00f3n es lenta pero correcta. \r\nSer\u00eda ideal si modificaran un poco la decoraci\u00f3n/ iluminaci\u00f3n y atendieran un poco m\u00e1s r\u00e1pido.\r\nResumiendo : para comer bien y barato sin muchas pretensiones."
+    }, 
+    {
+      "date": "28 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "granaloco", 
+      "text": "exelente lugar, atendido como si guera por una gran famialia. Lso platros riquisimos con una amplia carta y variadas de exquisiteces regionales...ojala siga siendo asi y no se llene nunca de gente asi no pierden ese toque"
+    }, 
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "El lugar es muy lindo, medio escondido, super tranquilo, los platos son muy ricos y baratos, la carta est\u00e1 bastante bien para comida regional. La atenci\u00f3n es desorganizada, la comida tarda, hay q ir con paciencia, porq tardan un siglo para todo lo q les pidas, pero son muy amables y con buena onda, se nota q no tienen experiencia en el rubro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cebrita", 
+      "text": "El lugar es simple, del estilo bodegon pero cuidado y limpito. La atencion es agil con muy buena onda, estilo familiar y la comida estuvo riquisima, tardan mucho poruq muchas cosas se cocinan en ese momento. Carta de postres escasa. Buen precio. Es mi lugar en el barrio donde recurro cuando no quiero cocinar y me siento como en casa."
+    }
+  ]
+}

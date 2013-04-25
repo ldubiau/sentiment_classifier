@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "2 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "venika", 
+      "text": "la calidad de todo ha bajado.\r\nAnteriormente tenian excelente servicio. Ahora es lento las cosas las tren frias y la calidad de la comida regular la torta estaba seca y el queso era de nuy feo gusto. Ademas tienen muchas menos opciones dulces para la hora del te."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "claerie", 
+      "text": "Suelo ir al medio d\u00eda, ya que me queda cerca. Es ideal para verano ya que tiene lugar para sentarse afuera, muy agradable. Pasan buena m\u00fasica y el servicio es excelente.\r\nHay un men\u00fa ejecutivo muy variado. Suelo pedir los tartines con ensalada.\r\nDe los tartines recomiendo el de calabaza principalmente, seguido por el de queso y cebolla o el de jam\u00f3n y queso. El de espinaca es normal.\r\nLa cazuela de lomo o de pollo es buena, la prob\u00e9, me gust\u00f3. Pero dado que tengo que seguir haciendo cosas prefiero el tart\u00edn.\r\nRepito, el servicio es muy bueno. Tarda un poco, pero nada fuera de lo normal."
+    }, 
+    {
+      "date": "1 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Roxyp", 
+      "text": "Por el bajo de Victoria no hay muchas opciones para comer algo, sobretodo al mediod\u00eda. Este lugar no solo es simp\u00e1tico sino que adem\u00e1s tiene menues de mediod\u00eda a muy buen precio y se nota que son productos frescos."
+    }, 
+    {
+      "date": "11 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "myriam", 
+      "text": "Voy de vez en cuando a tomar el desayuno o la merienda. se porque soy de la zona que cambio de due\u00f1o nuevamente. la torta que com\u00ed era muy fresca y sabrosa lo unico que le pondria mas queso y jamon al tostado (estaba pobre). el espacio es muy agradable y ahora tienen sushi voy a ir a probar. despues les cuento!!!!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rlms", 
+      "text": "Yo era fanatica del dutch cafe hace mucho pero deje de ir porque habia bajado la calidad y la atencion. Pero hace poco fui nuevamente y not\u00e9 que tanto la calidad de los productos y la atencion habian mejorado notablemente. Pregunt\u00e9 que pasaba y me contestaron que habian cambiado de due\u00f1os. La verdad q desde ese dia voy todos los sabados y domingos a merendar con una porcion de torta que para mi son exquisitas y se nota que estan hechas con productos de calidad, ademas el ambiente es muy acojedor con sus sillones que lo hacen sentir a uno en su casa. La verdad lo recomiendo!"
+    }
+  ]
+}

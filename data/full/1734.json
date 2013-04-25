@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "29 May 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "JUANKA", 
+      "text": "Mal\u00edsima atenci\u00f3n. La carne estaba dura y la ensalada horrible y mal lavada. Ah\u00f3rrese un mal momento: no vaya."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Bender", 
+      "text": "La verdad que comi aceptablemente bien, y barato. Es un poco m\u00e1s que bueno, pero no se si llega a muy coo ara un punto m\u00e1s. Pero la verdad que una resto chiquito y cumplidor. Esta muy bien para un almuerzo en la zona, y los precios son muy razonlables. BIen+."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fher2805", 
+      "text": "Muy buena carne y atencion en un ambiente tranquilo, para ir en familia."
+    }, 
+    {
+      "date": "11 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Varels", 
+      "text": "La parrilla a mejorado, se la nota mas limpia y las carnes no salen negras, eso es excelente.\r\nesta muy cuidado por el encargado que esta en el detalle de todo lo que va sucediendo en el servicio. La atencion de las chicas es muy cordial y cuidada. recomendable."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "La comida estuvo bien. En cuanto al servicio y el ambiente puedo destacar dos situaciones distintas: en la zona de atr\u00e1s donde hay aire acondicionado y est\u00e1 todo muy lindo el servicio es b\u00e1rbaro pero en donde estuvimos nosotros sin aire acondicionado, cerca de la calle es totalmente distinto (las fotos que figuran en la gu\u00eda no muestran la parte de adelante del restaurante). Los precios no son baratos para un almuerzo a la tarde teniendo en cuenta lo que comimos. No lo recomiendo para nada. Ahh, y adem\u00e1s hay un olor asqueroso en el ba\u00f1o, mejor aguantense."
+    }, 
+    {
+      "date": "5 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "quiquebaires", 
+      "text": "La atenci\u00f3n es muy buena, el ambiente agradable, la comida sencilla pero buena. Fui varias veces y nunca sal\u00ed defraudado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luz2986", 
+      "text": "La atencion de las camareras fue muy buena, y el encargado muy atento a todo, tanto al recibirnos como al despedirnos.\r\nDebe mejorar la musica ambiental. Por otro lado, los ba\u00f1os est\u00e1n en perfecto estado. Se los recomiendo."
+    }, 
+    {
+      "date": "13 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "arqe", 
+      "text": "Sumamente conveniente la oferta y la calidad de los productos, nada fashion, bien t\u00edpico y accesible."
+    }, 
+    {
+      "date": "16 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lemoni", 
+      "text": "La comida es de excelente nivel. El ambiente es tranquilo y acogedor."
+    }, 
+    {
+      "date": "24 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elturco06", 
+      "text": "Excelente lugar para ir en pareja o en familia. La carne es de lo mejor, las camareras son muy atentas. Lo recomiendo."
+    }, 
+    {
+      "date": "19 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rrpparg1", 
+      "text": "Excelente comida, lugar, atenci\u00f3n, precio y servicio."
+    }
+  ]
+}

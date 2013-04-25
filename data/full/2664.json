@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "9 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Georgie_boy", 
+      "text": "El lugar es \"correcto\" poco pretensioso en cuanto a su carta y la presentacion, el ambiente es normal, no propone nada en cuanto a lo visual y la estetica que haga referencia a su caracter arabe. \r\n Respecto de la atencion es,tambien normal, aunque a veces suelen demorarse. \r\n  En la comida es el punto donde mas se destacan, aunque la carta no sea de las mas amplias y este contaminada con platos nacionales, las porciones son tan abundantes que hasta pueden compartirse, y en relacion al precio resulta una muy buena opcion. No es tal vez el mejor lugar para una salida nocturna."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leandrix", 
+      "text": "Excelente, sobre todo para comer comida casera, hecha con mucha pasi\u00f3n y excelente relaci\u00f3n precio calidad"
+    }, 
+    {
+      "date": "22 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marielita", 
+      "text": "El lugar tiene una onda muy casera, la calidad de los productos es excelente y la atenci\u00f3n por parte de los due\u00f1os les da un toque muy c\u00e1lido."
+    }, 
+    {
+      "date": "5 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tae87", 
+      "text": "Me parecio muy fresco y casero."
+    }
+  ]
+}

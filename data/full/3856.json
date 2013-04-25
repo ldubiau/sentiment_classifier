@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "2 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "alacant", 
+      "text": "lugar muy calido , es dificiel encontrar en buenos aires un lugar lindo y barato..todo rico y original!!"
+    }, 
+    {
+      "date": "23 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "eduv_1977", 
+      "text": "muy lindo lugar, calido, riquisimo el cafe conleche con mediaslunas"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "natachin", 
+      "text": "La comida estuvo riquisima, el lugar es calido tiene mesitas en la calle ideales para estos dias de Primavera, La atencion muy buena, atendido por los due\u00f1os."
+    }, 
+    {
+      "date": "4 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lukio82", 
+      "text": "me parecio un lugar distinto en palermo, el lugar es chico pero hace que la atencion sea mas personalizada. atendida por sus propios due\u00f1os. la verdad que comi muy bien.\r\nporciones justas\r\ny precio y calidad de la mano"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "17 Feb 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "tafari", 
+      "text": "La atenci\u00f3n fue escandalosamente de mal gusto y modales. El mozo, un avivado trataba de enga\u00f1arme con las diversas cosas que le iba pidiendo durante la cena...gato por libre nunca. Y menos a un Ferrer."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "marianun", 
+      "text": "Excelente lugar, para mejorar el aspecto de la cocinera y el parrillero, no dan buena imagen de limpieza y aseo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pablokus", 
+      "text": "Excelente las pastas, se nota que son caseras. \r\nEl ambiente es muy ameno y familiar. Un detalle que no muchos tienen en cuenta: las sillas son comod\u00edsimas, no dan ganas de irse."
+    }, 
+    {
+      "date": "3 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "alejandr10", 
+      "text": "\u00a1Excelente lugar!"
+    }, 
+    {
+      "date": "10 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "roxanaap", 
+      "text": "Las pastas que hacen en este lugar son excelentes, esperamos no cambien."
+    }, 
+    {
+      "date": "19 Feb 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "stephie_", 
+      "text": "Excelentes carnes, bien asadas y una atenci\u00f3n esmerada. Como para recomendar"
+    }, 
+    {
+      "date": "11 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fabianas", 
+      "text": "tanto la pasta como el postre es de elaboracion propia y de excelente calidad y el ambiente muy calido y agradable"
+    }
+  ]
+}

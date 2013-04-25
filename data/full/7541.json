@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "intervox", 
+      "text": "Primero llam\u00e9 por tel\u00e9fono y pregunt\u00e9 si ten\u00edan cordero. Reserv\u00e9 una mesa para dos. Nos sirvieron unas costillitas finitas de cordero, secas y duras. Reconocieron que ya se hab\u00edan quejado otros clientes y que iban a sacar el cordero del men\u00fa porque no consiguen bueno. Sin embargo lo anuncian."
+    }, 
+    {
+      "date": "24 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "QUADRINIDAD", 
+      "text": "Nunca en mi vida me han tratado tan mal como en este lugar. Desde que llegamos, cerca de las 23, hasta que nos fuimos nos presionaron para pedir la comida,nos quitaron los platos sin haber terminado de cenar y nos barrieron los pies para que nos fueramos.\r\nSolicitamos la presencia del maitre para pedir explicaciones y jamas aparecio.\r\nLa cuenta fue exorbitante para el tipo de comida que fue regular.\r\nNO LO RECOMIENDO. NO VUELVO JAMAS."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Criss74", 
+      "text": "Atenci\u00f3n correcta, comida buena, ambiente tranquilo y buen precio de los platos."
+    }, 
+    {
+      "date": "13 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "isaias", 
+      "text": "Muy lindo lugar fuimos con unos amigos a cenar y estuvo todo muy bien, la comida muy buena , la atencion tambien muy buena. es un lugar como para recomendar. seguramente volvere."
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "peter_croata", 
+      "text": "Interesante restaurant. Excelentes las empanadas de carne y los cortes de carnes son de primera calidad. Muy buena atenci\u00f3n, y muy agradable el ambiente.Vayan!"
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Solita1980", 
+      "text": "La ubicaci\u00f3n es excelente. Fuimos muchas veces con mi marido que es italiano y tiene un paladar exigente. Las carnes son de primera calidad, a \u00e9l le encanto el asado de tira especial. yo comi merluza a la parrilla y estaba muy buena, en una ocacion fuimos al mediodia y probe las pastas. Lo bueno de los menues de parrilla es que incluyen el sald bar con una gran variedad de verduras frescas (como espinacas o berenjenas al ezcabeche) para armar tu propia ensalada y servirte a tu gusto las veces que quieras. el servicio es muy bueno. lo recomiendo. por algo van muchos extranjeros."
+    }, 
+    {
+      "date": "24 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ortegui", 
+      "text": "La descubrimos hace unos meses y realmente, ha sido un hallazgo. Excelente atenci\u00f3n y muy buena comida. Para recomendar"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Navarrita", 
+      "text": "Un lugar formidable apra una comida simple. Un poco como el restaurant de barrio. Impecable la atencion de los mozos , ambientacion, ojo los sabados es conveniente reservar con anticipacion, por que hay muchos que ya conocen las bondades de la casa"
+    }, 
+    {
+      "date": "26 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danov", 
+      "text": "Muy bueno todo! Atenci\u00f3n profesional. Ambiente muy tranquilo. Gran calidad de la carne!"
+    }, 
+    {
+      "date": "13 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yesicaer", 
+      "text": "Excelente la comida, la ambinetaci\u00f3n ideal, la atencion fue muy buena y la parrilla a la vista es un toque de distinci\u00f3n m\u00e1s. A recomendarlo!!"
+    }
+  ]
+}

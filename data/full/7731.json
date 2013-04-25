@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "24 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "poly077", 
+      "text": "Lugar agradable para comer algo tranqui con amigos. El ambiente es cuidado y tranquilo.\r\nLa comida correcta."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nbreen5", 
+      "text": "Excelente lugar. Zona centrica, ambiente tranquilo, pero no aburrido gracias a la buena musicalizaci\u00f3n. La atenci\u00f3n es excelente, tanto los mozos como en la barra, muy atentos todos. \r\nLa comida es muy rica, y la relacion calidad/precio deberia ser imitada por mas de un local de la zona. SUPER RECOMENDABLE los calzones y la pizza bolognesa, servida como \"la especialidad de la casa\". \r\nEl precio de la bebida tambien es bueno. Volvere muchas veces mas."
+    }
+  ]
+}

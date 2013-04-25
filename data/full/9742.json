@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ceci_zp", 
+      "text": "Los platos eran buenos pero no tanto como lo indican sus precios. La atenci\u00f3n fue p\u00e9sima, nos atendio una mujer a la que hab\u00eda que agradecerle que no te insultara o insultara al due\u00f1o quien es el cocinero del restaurant."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gudea71", 
+      "text": "Muy lindo lugar. Muy chico y descontracturado. F\u00e9lix, due\u00f1o y qui\u00e9n te atiende, pr\u00e1cticamente te invita a su casa. Te sugiere platos que luego \u00e9l mismo y sus ayudantes te cocinan ah\u00ed nom\u00e1s, en la cocina abierta. Hay muy pocas mesas. Algunas para dos con un velador que crean un clima muy lindo para ir en pareja. Si van en grupo reserven un comedor aparte que hay como para 12 o m\u00e1s personas. No lleven ropa delicada ya que puede quedar con algo de olor de la cocina. Es casi como comer en tu casa. Si hay, recomendado el goulash. Y si se da, recomendado charlar con F\u00e9lix."
+    }
+  ]
+}

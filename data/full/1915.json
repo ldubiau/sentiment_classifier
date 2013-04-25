@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "22 Dic 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "luigin", 
+      "text": "Excelente los shows. El domingo es descartable, pero los viernes y s\u00e1bados son buenos de verdad."
+    }, 
+    {
+      "date": "25 May 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "yanel", 
+      "text": "Muy mala la atenci\u00f3n del propietario del local, quien para realizar la cuenta de mi mesa tard\u00f3 casi 40 minutos, teniendo una computadora. No s\u00f3lo conmigo pas\u00f3 eso sino con todas las mesas.\r\nTambi\u00e9n muy mal trato de \u00e9l hacia sus empleados.\r\n(Las mozas fueron muy atentas y no sab\u00edan como disculparse)"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mmic", 
+      "text": "El ambiente es muy c\u00e1lido y familiar. \r\nFuimos atendidos con eficiencia y \"como en casa\".\r\nEl show fue muy bueno."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "1 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Pironte", 
+      "text": "La comida deja mucho que desear, en particular por tratarse de un lugar que esta ubicado en una zona tan importante a nivel gastron\u00f3mico. \r\nEl servicio: son novatos. Ponen ganas pero les falta experiencia. El ambiente es agradable como la mayor\u00eca de los restaurantes de Recoleta. De estar en la zona nuevamente optar\u00e9 por probar suerte en otro restaurant. Este no me convenci\u00f3."
+    }, 
+    {
+      "date": "19 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "digestivo", 
+      "text": "Despu\u00e9s de insistir en la calle para que entr\u00e1ramos, nos marchamos a mitad de la comida, pagando lo consumido, por servicio desastroso. Si pueden, ev\u00edtenlo."
+    }, 
+    {
+      "date": "3 Abr 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "taango", 
+      "text": "All show, no substance, slow service, my wife sent the food back, overcooked and not what she asked for. Her first language is spanish."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "vpdeangelis", 
+      "text": "La comida es buena. La panera no es mala, pero por lo que cuesta comer en este lugar, podr\u00eca ser mucho mejor.\r\nLa atenci\u00f3n es buena, aunque cuando nos trajeron la boleta se equivocaron y nos cobraron de m\u00e1s; le expliqu\u00e9 a la moza y me volvi\u00f2 a traer la cuenta mal; le volvi a explicar y nuevamente me la trajo mal...\r\nEl ambiente es MALO. En el lugar hacia mucho frio porque no tenian cerrado y entraba viento de la calle. Toda la gente ten\u00eda fr\u00edo.\r\nComo conclusi\u00f3n: no vale la pena ir. La relaci\u00f3n costo/satisfacci\u00f3n no es para nada buena."
+    }, 
+    {
+      "date": "4 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "macaibn", 
+      "text": "Solo vale por la vista. La comida y la atencion son mejorables."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "norberto", 
+      "text": "El servicio de las mozas es correcto, pero las chicas no tienen experiencia. La mesa no ten\u00eda ni platito para el pan, obviamente jam\u00e1s sirvieron vino. Mi cordero vino con una salsa excesivamente concentrada y salada. De strudel, lo \u00fanico que ten\u00eda era el nombre (un pur\u00e9 de manzana envuelto en una masa). El precio me pareci\u00f3 car\u00edsimo por lo que ofrecen, puesto que por el hecho de tener un show (un DJ y un duo), no los habilita para cobrar esos precios. El espect\u00e1culo lo facturan por separado. Resumiendo si van a comer, no es recomendable."
+    }, 
+    {
+      "date": "26 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "doncela", 
+      "text": "No me gust\u00f3 que haya tanta gente en la puerta tratando de hacerme entrar. Pero igual lo lograron. \r\nMuy sabrosa la comida y la atenci\u00f3n de las mozas."
+    }, 
+    {
+      "date": "26 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "crisgatt", 
+      "text": "Buen ambiente, show agradable, buena orientaci\u00f3n en vinos. Se puede pasar un buen momento."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carlosoc", 
+      "text": "Muy rico para estar adentro o en las mesas de afuera con muy buena vista."
+    }
+  ]
+}

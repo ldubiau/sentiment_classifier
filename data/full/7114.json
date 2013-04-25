@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "27 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Chromo", 
+      "text": "Fuimos para san valentin.\r\nPrimero no tenian todos los vinos, luego no tenian todos los platos.\r\nLas batatas fritas estaban marcadas.\r\nSe excusaron de no tener todos los platos porque era \"san valentin\" y \"el personal se habia ido a festejar\"."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El local cambi\u00f3 de firma y de rubro y para mi gusto perdi\u00f3 en el cambio; pas\u00f3 de ser un rest\u00f3 mediterr\u00e1neo de autor a una parrillita de mediana calidad. Todo estuvo ok pero nada elogiable: las carnes no se destacaban ni por calidad ni por abundancia ni por punto de cocci\u00f3n. Llev\u00e9 a un grupo de extranjeros y no me luc\u00ed como hubiera querido con la elecci\u00f3n del lugar y de platos. Lo bueno: es econ\u00f3mico y el ambiente es muy agradable. En fin, no qued\u00e9 demasiado conforme; cumple hasta ah\u00ed..."
+    }, 
+    {
+      "date": "9 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dnp", 
+      "text": "Una excelente adicion al barrio donde faltan lugares que no sean excesivamente caros. Se nota que es un resto nuevo por que les falto algunos platos de la carta, y el servicio es un poco improvisado pero siempre con la mejor onda. La relacion precio/calidad es casi unica en Recoleta. Nada del otro mundo, pero se puede comer una buena carne a un precio razonable. Lo unico negativo es que no entendi por que tienen servilletas de papel... No sera un resto caro, pero tampoco es tan barato. Obvio que es un punto minimo y no me quitan las ganas de volver."
+    }, 
+    {
+      "date": "31 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AnaJuan", 
+      "text": "Muy linda parrilla nueva. La carne es buena y la atenci\u00f3n tambi\u00e9n."
+    }, 
+    {
+      "date": "7 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MalenaMarilyn", 
+      "text": "Me sorprendi\u00f3 esta nueva parrilla en esa ubicaci\u00f3n. La comida realmente muy buena y la atenci\u00f3n de una amabilidad poco usual. No es un lugar pretencioso. Lo recomiendo y desde ya volver\u00e9."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Martincho24", 
+      "text": "Comimos realmente bien, muy buena la calidad con respecto al precio. Papas crocantes y echas en el momento. La entra\u00f1a lo mejor. Nos gusto mucho cenar en la  vereda. Volveremos."
+    }, 
+    {
+      "date": "10 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hermasil24", 
+      "text": "Para empezar muy linda ubicacion, el ambiente es el mejor, con luces tenues y musica tranquila, la atencion es muy agradable y se come muy pero muy bien. En veranito recomiendo las mesitas de afuera. La veradad Muy buen Resto"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "20 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AlexMarquez", 
+      "text": "Muy sabrosa la comida, con estilo casero. Un lugar para evocar sabores de infancia"
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gabileta1982", 
+      "text": "Tienen tartas de diferentes gustos, como ser jamon y queso, berenjenas, puerro, acelga, capresse, todas muy ricas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "crisha", 
+      "text": "Un lugar muy calido,como en los tiempos cuando uno se reunia con la familia."
+    }, 
+    {
+      "date": "3 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lulaa", 
+      "text": "me gusto mucho la ambientacion. atendido por sus due\u00f1os,comida cacera.muy bueno"
+    }
+  ]
+}

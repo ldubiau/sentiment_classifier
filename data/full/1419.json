@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "23 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "frank_grimes", 
+      "text": "No hay opciones vegetarianas. Se digna de ser alem\u00e1n pero las \"mozas\" no tienen mucha idea de esto. La m\u00fasica desagradable, estaban pasando cumbia. Para redondear, estaba Cr\u00f3nica en la TV."
+    }, 
+    {
+      "date": "5 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "mailrola", 
+      "text": "El problema es que se llena de humo el ambiente, parece que la cocina ventila hacia el sal\u00f3n en vez de al exterior."
+    }, 
+    {
+      "date": "3 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "spassmue", 
+      "text": "Lindo lugar, mozas tambien, comida alemana y cocktails."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bababau", 
+      "text": "Hay que probar los \"cocktails\" despues..."
+    }, 
+    {
+      "date": "8 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "globetro", 
+      "text": "Muy buena atenci\u00f3n."
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "malos": [
+    {
+      "date": "1 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "borgani", 
+      "text": "El lugar es una mezcla de estilos, todos grasas. Un poco sucio. La atenci\u00f3n es floja. Ruidoso. Comimos parrilla de una baj\u00edsima calidad. Igual que el servicio de mesa. La verdad es que me confund\u00ed por el aspecto exterior, ya que da para cantina de comidas caseras y buen ambiente, y es un bodeg\u00f3 de esos que cuando sal\u00eds, no solo pensas en no volver, sino que te queda la sensacion que no duran mas de unos meses."
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "puli32", 
+      "text": "A ra\u00edz de los buenos comentarios decid\u00ed ir a conocerlo. Me decepcion\u00f3. P\u00e9simo lugar, el piso del sal\u00f3n bastanta sucio. La entrada pedimos chorizo con ensalad,malo el chorizo con mucha grasa y la cebolla super picante. Por ultimo pedi una entra\u00f1a que no la pude comer, era un chicle asique la devolvi y por supuesto no me la cobraron y termine comiendo el plato con mi pareja. Postre por supuesto no pedimos. No volvemos m\u00e1s."
+    }, 
+    {
+      "date": "26 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "elben", 
+      "text": "Llegamos temprano al lugar, solo habia 2 mesas ocupadas y hasta que nos trajeron la entrada pas\u00f2 una hora, el resto de las mesas que fueron llegando ya estaban servidas. De plato principal pedimos carne, que lleg\u00f2 fr\u00eca y cruda a la hora y media de pedirla. Cuando ped\u00ec que me la cocinen mas, demoraron media hora en traerla, sin llevar la guarnici\u00f2n, que por supuesto despues estaba fr\u00eca. Al quejarnos, dijeron que nos har\u00ecan una atenci\u00f2n. La atenci\u00f2n era el 10% de descuento en la cuenta, que al revisarla, nos hab\u00ecan cobrado mas caro el vino y uno de los platos (justo por el 10%). Para olvidar!"
+    }, 
+    {
+      "date": "16 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Koche", 
+      "text": "Caro. caro el servicio de mesa, los platos...muy caro"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Silvain", 
+      "text": "Me gusto el ambiente, la atencion y la comida. No me gusto la chocotorta. Era pesada y dura."
+    }, 
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sergiodf", 
+      "text": "La atenci\u00f3n por parte del mozo fue muy buena pero tardaron much\u00edsimo en traer los platos, a pesar que el restaurant no estaba lleno."
+    }, 
+    {
+      "date": "4 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mariaGarcia", 
+      "text": "esta beno, la comida es rica, la atencion tambien es buena. para volver."
+    }, 
+    {
+      "date": "17 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "titomargalef", 
+      "text": "buena la atencion,muy buena la comida, pero muy caro el servicio de mesa y las comidas"
+    }, 
+    {
+      "date": "24 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "claudiomf", 
+      "text": "La comida y la atencion es buena. Pero fuimos en 2 ocasiones. Cuando apenas abrieron, la mitad de lo que ofrecia la carta no habia. Terminamos comiendo milanesa con fritas. Excusa: recien abrimos, faltan ingredientes, etc, etc.\r\nVolvimos a los 9 meses. Misma situacion, la mitad de la carta estaba de adorno. Fuimos un dia normal, en un horario normal, ni fin de largo, ni a ultima hora. No se justificaba en esa 2da ocasion porque la mitad de los platos del menu no podias pedirlos. No volvimos mas. Una pena."
+    }, 
+    {
+      "date": "15 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bobesponja", 
+      "text": "La comida es apetitosa(cuidado con la sal), pero la sala esta un poco descuidada en cuanto a la atenci\u00f3n,bien por la enoteca."
+    }, 
+    {
+      "date": "3 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "magic", 
+      "text": "Es un lugar muy lindo para ir a comer al mediodia. No es caro pero a veces deja mucho que desear la atenci\u00f3n. Muy buena comida y ricos postres."
+    }, 
+    {
+      "date": "23 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sancci", 
+      "text": "Muy bueno el recibimiento del due\u00f1o,las mesas son chicas,muy juntas,la pizza que pedimos era excelente,sabrosa muy sana de muy buena calidad.\r\nLa decoracion es muy original y optima,no cansa,se descubren cosas que se dejaron de ver hace mas de 30 a\u00f1os en plaza,una busqueda exhaustiva de todo tipo de rarezas y antiguedades que merece visitarse,los mozos son chicos bastante habiles y le ponen bastante onda.\r\nPrecio aceptable,tiene excelentes picadas,platos elaborados,parrilla buena y los vinos son muy buenos,amplia y vasta lista."
+    }, 
+    {
+      "date": "23 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lichas", 
+      "text": "Muy buen lugar. Muy esmerada ambientaci\u00f3n. Carta muy variada con platos excelentemente preparados. Atenci\u00f3n muy cordial y dedicada."
+    }, 
+    {
+      "date": "16 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "soyali", 
+      "text": "Muchos platos son para compartir. Sabiendo pedir es muy econ\u00f3mico sin perder calidad. Original y c\u00e1lida la ambientaci\u00f3n. Buena atenci\u00f3n. Lo \u00fanico que objetar\u00eda es que los shows los anuncian 21.30 hs. y empiezan cerca de las 23 hs. lo cual se hace muy tarde para un d\u00eda de semana. Fui 3 veces, volver\u00eda sin dudarlo."
+    }, 
+    {
+      "date": "21 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sapien", 
+      "text": "El lugar es muy lindo y muy bue ambientado. Las tablas son abundantes aunque no demasiado sofisticadas. La m\u00fasica en vivo le da un toque especial.\r\nDeber\u00edan mejorar la comodidad de las mesas, que son muy lindas pero inc\u00f3modas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rodizio", 
+      "text": "Cuando llegue quede impactado con la originalidad de la ambientacion, el servicio fue muy bueno pero lo que realmente me sorprendio fue la calidad del asado, hace mucho no comia carne tan sabrosa y tierna a la vez. Desde luego que lo recomiendo."
+    }, 
+    {
+      "date": "19 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gonza22", 
+      "text": "Fui a comer parrilla a este lugar y la verdad que quede sorprendido por la calidad de la carne. Pedi un porcion de asado y realmente hacia tiempo que no comia un asado de primerisima calidad. Pedi un postre tambien y sigo la misma linea, una mousse de chocolate exquisita. Evidentemente hubo un cambio de mano en este restaurant porque el servicio tambien cambio para bien. 100% recomendable, sobre todo para comer muy buena carne."
+    }
+  ]
+}

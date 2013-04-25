@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "31 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Triccia", 
+      "text": "mala comida ... no hay excusas por mas que sea un menu fijo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "El_Barba", 
+      "text": "Panera: pobre, pan blanco y tostaditas\r\nComida: parrilada completa(3 chinchulines, 2 morcillas, 1 chorizo, asado, vacio, lechon y pechito)lo mejor el vacio y eso que estaba arrebatado, la calidad media.\r\nMuy rico el cafe.\r\nVolveria pero no pediria parrilla, daria oportunidad a algun otro plato.\r\nEl lugar es una casa antigua linda, ladrillos a la vista, cuadros modernos. No es para ir con amigos, salvo que sean parejas. Yo fui con mi esposa e hijo. Es familiar."
+    }, 
+    {
+      "date": "12 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Carcelero22", 
+      "text": "Se come bien, a un precio razonable (calculen 70 pesos por persona) comida simpe y sabrosa. Amplia carta de vinos.\r\nLos jueves por la noche hay un show de un tipo que le pone unas ganas terribles. zafa porque no aturde.\r\n\r\nLos mozos son j\u00f3venes, por lo tanto, entusiastas.\r\n\r\nAlgo bueno, el due\u00f1o esta siempre, es uno pelado. Se sienta cerca de la puerta con su familia."
+    }, 
+    {
+      "date": "28 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gladys1810", 
+      "text": "empezaron hace poco, es una idea buena e innovadora para este barrio, una casa antig\u00fca refaccionada. Ahora en verano aprovecharon tambi\u00e9n el patio, poniendo algunas mesas con gazebos. Creo que tanta respuesta del publico los sorprendio pq ultimamente estan desbordados descuidando un poco la atencion. Se destacan por el entusiasmo que ponen para llevar adelante con \u00e9xito este emprendimiento y por la comida bien casera. Carta variada con algunos platos gourmet, buena presentacion, ademas milanesas, papas fritas, pastas, parrilla, todo muy rico. Recomiendo el lomo Davila y reserven pq se llena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "catadoradestilos", 
+      "text": "Me encanto la comida y el buen servicio, ademas estaba guapo el parrillero."
+    }, 
+    {
+      "date": "24 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lola240", 
+      "text": "Recomiendo este lugar por su variada carta, y por el ambiente alegre, familiar. realmente me encanto y volvere pronto..."
+    }
+  ]
+}

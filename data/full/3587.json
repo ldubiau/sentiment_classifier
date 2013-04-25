@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "netwatch", 
+      "text": "Platos sencillos y abundantes, nada del otro mundo. Un boliche de barrio"
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Comi bien y para ser un lugar de pizza.../pasta/carne como cientos en Avenidas de Buenos Aires, tiene precios razonables, en un comodo lugar"
+    }, 
+    {
+      "date": "31 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "fsaurio", 
+      "text": "Muy caro para lo que ofrece. Si bien la comida es sabrosa y abundante. La atencion es mala. Y el costo de la comida y el vino es muy por encima de otras opciones."
+    }, 
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "llGERMANll", 
+      "text": "Un resto al que no es la primera vez que voy, antes quizas demostraba esmerarse un poco mas con la calidad de la comida, con respecto al pecio, es caro , por su ubicaci\u00f3n, su comida, su atenci\u00f3n, no es un precio razonable. Respecto la carta de vinos, no es mala pero los precios estan unos 5 y 10 pesos arriba de los demas restaurantes de la zona. y por ultimo la atenci\u00f3n, el mozo la ultima vez que fui, no paraba de mirar un partido de futbol, luego de subirle el volumen al maximo a la tele, se digno a atendernos cuando \u00e9l quizo."
+    }, 
+    {
+      "date": "10 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "FLOREG", 
+      "text": "Es un poco caro, pero la comida es abundante y rica, hay mozos buenos y malos. Las pastas y minutas son ricas y abundantes, recomiendo especialmente los crepes de calabaza con salsa de puerros, son una delicia!! Hay comida light muy rica.La calabaza rellena es buenisima. Los ba\u00f1os estan arriba no son aptos para discapacitados."
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cloper", 
+      "text": "Nada especial.No tiene wifi. Totalmente olvidable."
+    }, 
+    {
+      "date": "9 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MarceU", 
+      "text": "Muy buena comida, porciones para gente de buen comer, pero un poco caro por la ambientacion y la ubicacion del lugar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Francin", 
+      "text": "La pizza es muy buena, el queso es bien abundante. Me sorprendi\u00f3."
+    }, 
+    {
+      "date": "11 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "casijuana", 
+      "text": "Me pareci\u00f3 muy, pero muy bueno. La comida fue excelente, la atenci\u00f3n muy buena. Lo \u00fanico que se deber\u00eda mejorar es el ambiente: las mesas est\u00e1n muy juntas, no hay intimidad."
+    }, 
+    {
+      "date": "25 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "rula6", 
+      "text": "La comida es muy buena y abundante. El men\u00fa ejecutivo es variado y accesible. La atencion es buena y el lugar es muy lindo aunque deberian arreglarlo y decorarlo un poco."
+    }
+  ]
+}

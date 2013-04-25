@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "8 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "piratamen", 
+      "text": "Uno de los lugares que IBA a comer al mediodia en el laburo, las porciones son muy peque\u00f1as y dejan mucho que desear"
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Jesiquita", 
+      "text": "No pidan empanadas de jam\u00f3n y queso, porque nunca tienen queso. Muy buenas las de cuatro quesos y la pizza. \u00a1Explota!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Joe", 
+      "text": "Com\u00ed bien, nada del otro mundo, tampoco pedi algo demasiado elaborado. Lo que no me gusto fue la atenci\u00f3n de la mesera o deber\u00eda decir \"desatenci\u00f3n\", ya que no nos supo asesorar en cuanto a los platos y tuvimos que reiterar un par de veces el pedido de la cuenta. Alcanza para un almuerzo, pero deber\u00edan esmerarse en atender mejor."
+    }, 
+    {
+      "date": "12 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "aquaman", 
+      "text": "Con sabor a poco, 5 ravioles en el plato.\r\nLo mejor lejos son los sandwiches, con amplisima variedad. Los preparan en el momento.Ambiente luminoso y distendido en el microcentro.Buena atenci\u00f3n de los mozos."
+    }, 
+    {
+      "date": "4 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mechula", 
+      "text": "A la comida la calificaria como bien menos, la verdad es que las porciones no son abundantes y a todos los platos les falta sabor. La atencion es sencilla y buena. El ambiente es agradable."
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "buena opcion para viernes laboral mediodia o after hour, copadas picadas para grupete de amigos, lindo ambiente y atencion ideal dia de sol power tablitas-tapas y cervecita, oscors."
+    }, 
+    {
+      "date": "27 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "anica", 
+      "text": "Mal\u00edsima la atenci\u00f3n y demasiada la demora. Ocurre lo mismo con el delivery."
+    }, 
+    {
+      "date": "4 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "uiesreswr565", 
+      "text": "La verdad muy buena atenci\u00f3n y muy lindo el lugar. Seguiremos yendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "niquel", 
+      "text": "hermoso el lugar, la atencion y la comida.\r\npara recomendar"
+    }, 
+    {
+      "date": "5 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ignacio1", 
+      "text": "Excelente el ambiente, un lugar muy agradable, muy buena la atenci\u00f3n y la comida riqu\u00edsima.\r\nLas picadas s\u00faper abundantes y fresqu\u00edsimas.\r\nSin dudas uno de los mejores lugares del microcentro, para volver."
+    }, 
+    {
+      "date": "6 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marclaro", 
+      "text": "Muy buen lugar. \r\nIdeal para comer algo r\u00e1pido pero riqu\u00edsimo. \r\nMuy buena onda en la recepci\u00f3n, te da ganas de entrar y probar. \r\nLa comida es de muy buena calidad y se nota que es fresca. \r\nLos precios est\u00e1n bien. \r\nNos quedamos con ganas de probar las tortas."
+    }, 
+    {
+      "date": "1 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "niquel", 
+      "text": "Muy buen restaurante."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "25 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chopsuey", 
+      "text": "Abundante las porciones y guarnici\u00f3n. Econ\u00f3micos los postres. Muy buen servicio y mozos profesionales de los de antes.\r\nFaltar\u00eda una mejor carta de vinos. Ambiente muy familiar y barrial. Un mes\u00f3n de los que quedan pocos en Palermo. No es caro y se come muy bien"
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "tresnegro", 
+      "text": "Comida sencilla y honesta, mozos muy profesionales, ambiente correcto. Ni m\u00e1s ni menos, y en Palermo no es poco."
+    }, 
+    {
+      "date": "11 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "chicho_n", 
+      "text": "Comimos entre varios: Ravioles con tuco, milanesa con fritas, tortilla de papas, revuelto granajo. Los primeros estaban realmente insulso y el resto zafaba. La verdad que la comida no es nada del otro mundo. Recomendable para un mediod\u00eda que uno anda por la zona, no quiere gastar demasiado y no tiene mucho tiempo (sali\u00f3 rapido todo). La atenci\u00f3n y ambiente son aceptables, ni mas ni menos."
+    }, 
+    {
+      "date": "4 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jennu", 
+      "text": "Lugar muy agradable para ir a comer, comida abundante y muy bien preparada, todo lo que comi las 3 veces que fui fue muy rico y nada me desagrad\u00f3. La atencion no es mala, solo que hay 1 o 2 mozos y si hay mucha gente tardan mas en atender pero son amables y traen la comida a tiempo. Los precios son accesibles en comparacion a otros lugares."
+    }, 
+    {
+      "date": "15 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "novygourmet", 
+      "text": "Pasamos de casualidad el mediodia del domingo. Recomendable!!! Muy buena eleccion, los platos son abundantes. Muy buena la atencion, es para volver. Uno de los pocos lugares tipicos que quedan en Palermo. Excelente relacion precio / calidad / cantidad"
+    }, 
+    {
+      "date": "29 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Ine_fini", 
+      "text": "Genial. Es el \u00fanico reducto de Palermo donde somos mayor\u00eda los argentinos. Siempre hay parroquianos viendo f\u00fatbol o canales de noticias. Es r\u00e1pido, barato y las comidas son llamadas por su nombre y sin poes\u00eda. Para no se tiene ganas de mucho show off y de verdad morfar."
+    }, 
+    {
+      "date": "7 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablokus", 
+      "text": "Buenas porciones en cuanto a su cantidad y calidad. Los mozos son muy amables y tienen oficio. Excelente la relaci\u00f3n calidad precio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "kiosko", 
+      "text": "Muy buena comida y muy buena atenci\u00f3n."
+    }
+  ]
+}

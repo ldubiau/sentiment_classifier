@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Baryn", 
+      "text": "Pesima comida, pedi un pollo con almendras y me trajeron la grasa del pollo, mi compa\u00f1era pidi\u00f3 arroz con camarones y los camarones se deshac\u00edan como papa hervida, y ademas me cobraron caro."
+    }, 
+    {
+      "date": "21 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida es muy grasosa, no parece muy china ni son productos de calidad, ped\u00ed delivery para probar y nunca mas.. el local es muy chico."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Laura_Va", 
+      "text": "Tengo la sensacion de que los locales de comida china son cada vez menos chinos. Hace rato que no como un buen chau mien. Este es el que tengo mas cerca, siempre uso delivery, lo que te conviene es pedir chaw fan y empanaditas, lo basico. Y el \"pollo a la antigua\" es riquisimo, pero super indigesto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "magickitty", 
+      "text": "muy buena comida, ellos son muy simpaticos, lo recomiendo !"
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "magickitty", 
+      "text": "Pido aca a la noche, la comida es muy sabrosa y muy fresca, los arrolladitos son los mejores !\r\nLo recomiendo !"
+    }
+  ]
+}

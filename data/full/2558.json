@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Andie", 
+      "text": "F\u00fatbol en tv, restaurant oscuro en zona oscura, vac\u00edo, comida mediocre, manteles sucios, caminos de cuero (idea de qui\u00e9n?) m\u00e1s sucios aun, lugar absolutamente olvidable. Lomo jugoso significa algo para el cocinero? En fin, continuo reportando mis hallazgos, algunos buenos, otros no tanto..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "MDB", 
+      "text": "El lugar est\u00e1 bien, demasiado fuerte la m\u00fasica de los televisores. La Bondiola no era muy rica, me la sirvieron casi cruda y la tuve que mandar de vuelta."
+    }, 
+    {
+      "date": "14 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pepito", 
+      "text": "La comida bien, sin grandes pretenciones pero gustosa. Le erraron al ambiente, muy fr\u00edo, todo vidrio sin cortinas y tres televisores."
+    }, 
+    {
+      "date": "7 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "eva", 
+      "text": "Ambiente tranquilo y muy buena decoraci\u00f3n."
+    }, 
+    {
+      "date": "6 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ema", 
+      "text": "\u00c9ramos casi veinte personas y fuimos a festejar mi cumplea\u00f1os. Nos armaron un men\u00fa accesible y el piso de arriba para nosotros. As\u00ed est\u00e1 bueno porque est\u00e1s s\u00faper tranquilo con tu gente, separado del resto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "RO83", 
+      "text": "La comida es espectacular, los platos son cl\u00e1sicos pero muy bien hechos. El ambiente est\u00e1 bueno, tiene muy buenos cuadros en los dos pisos."
+    }, 
+    {
+      "date": "2 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mim", 
+      "text": "El lugar es muy c\u00f3modo, hay mucha luz, mucho espacio y est\u00e1 muy bien decorado. \r\nLe prestan mucha atenci\u00f3n al cliente, por eso uno se siente como en casa."
+    }, 
+    {
+      "date": "27 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sergiov", 
+      "text": "Voy seguido porque tengo un negocio cerca, la comida y los postres buen\u00edsimos; el cafecito que prepara la due\u00f1a, espectacular."
+    }, 
+    {
+      "date": "27 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "VIRCHO", 
+      "text": "El servicio que ofrece es muy bueno, al igual que la atenci\u00f3n para con el cliente. Los platos me parecen exquisitos. El ambiente es ideal tanto a la tarde para estudiar en paz, como as\u00ed tambi\u00e9n para ir a comer a la noche con amigos y pasar un grato momento.\r\nMe gusta mucho este rest\u00f3, voy muy seguido y lo recomiendo."
+    }, 
+    {
+      "date": "27 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Coni", 
+      "text": "Los platos son abundantes, elaborados y exquisitos. El servicio es muy bueno y se conjuga perfectamente con el ambiente. \r\nEl show de tango de los jueves, muy bueno por cierto."
+    }, 
+    {
+      "date": "27 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marti", 
+      "text": "El lugar es excelente, muy bien ambientado.\r\nLa atenci\u00f3n muy buena tambi\u00e9n, se preocupan por las necesidades del cliente. \r\nLa comida es muy rica y los platos son abundantes. Lo recomiendo."
+    }, 
+    {
+      "date": "27 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "almasur", 
+      "text": "Todo muy rico, muy bien presentado y muy bien servido. Un lugar para frecuentar en pareja o con amigos, adem\u00e1s seg\u00fan me dijo la camarera (muy atenta) en mayo comienzan con los shows. \r\nEsta piola, tiene onda."
+    }
+  ]
+}

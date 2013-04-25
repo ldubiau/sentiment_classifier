@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Superfantomas", 
+      "text": "Un espanto. La atenci\u00f2n de cuarta. La comida un chicle. Car\u00ecsimo, dado la baja calidad. El lugar es bonito pero se come mejor en cualquier tenedor libre. No vayan"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pinico", 
+      "text": "Es la 1\u00aa ves que me siento realmente a gusto comiendo carnes en buenos aires, un lugar increible, todo estaba bien.\r\nno dejen de ir."
+    }
+  ]
+}

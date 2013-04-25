@@ -1,0 +1,408 @@
+{
+  "malos": [
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "mastroianni", 
+      "text": "P\u00e9simo servicio con cocina mediocre y al paso. Tuve una muy mala experiencia."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "piri", 
+      "text": "Muy de vez en cuand voy para comer el  sandwich de salm\u00f3n curado que es incre\u00edble. Tienen otros platos tambi\u00e9n muy buenos, pero hay varios que son floj\u00edsimos (sandwich de milanesa, falafel, etc.) El peor defecto es la atenci\u00f3n. Ayer ped\u00ed en el mostrador gazpacho y durante la siguiente media hora tuve que pedir TRES VECES M\u00c1S que me lo sirvieran. Las bebidas llegaron cuando est\u00e1bamos terminando de comer. Siempre tuve malas experiencias con la atenci\u00f3n, ya sea por distracci\u00f3n o maltrato (o ambas)."
+    }, 
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "Fui tentado por la recomendaci\u00f3n de algunos amigos, pero la comida no me sorprendi\u00f3 ni encontramos las opciones de pasteler\u00eda que esper\u00e1bamos. Las opciones para almorzar ya est\u00e1n elaboradas; est\u00e1n a la vista en el mostrador. Hab\u00eda: sopa de vegetales, burrata, gulyas con spetzles, falafel o ensaladas. Se puede llevar la comida en el momento o comer en el lugar, por lo tanto hay que hacer fila al entrar, independientemente de lo que vayas a hacer. Al mediod\u00eda de un fin de semana era ca\u00f3tico y el servicio no daba a vasto. No hay servicio a la mesa as\u00ed que si quer\u00eda pedir algo mas tenias que volver a hacer la cola como si reci\u00e9n entrases al lugar. Solo volver\u00eda para llevarme la comida a casa."
+    }, 
+    {
+      "date": "7 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "joacoelcordobes", 
+      "text": "muy lindo el lugar y rica la comida!"
+    }, 
+    {
+      "date": "5 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DobleCero7", 
+      "text": "Un rinc\u00f3n muy agradable, bien atendido y con una elaboraci\u00f3n muy cuidada. Todo es rico, tartas, sandwiches gourmet y deliciosas cosas dulces. No es barato, pero se disfruta mucho."
+    }, 
+    {
+      "date": "29 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "carolina1504", 
+      "text": "la atenci\u00f3n es horrible, el tipo que atiende es un maleducado. Un d\u00eda va a ir un tipo que no se banque su maltrato y le va a poner un bife."
+    }, 
+    {
+      "date": "28 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Catula", 
+      "text": "P\u00e9sima atenci\u00f3n, soberbia, desganada y desatenta, que opaca todo lo dem\u00e1s: buenos sabores y ambientaci\u00f3n di\u00e1fana."
+    }, 
+    {
+      "date": "26 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Chef666", 
+      "text": "El lugar es muy lindo, pero ahi se queda todo.\r\nLa atencion fue MUY mala, al ingresar no me saludaron, no estaba decidido que comer y no me ofrecieron ni la opcion del menu, ni ninguna sugerencia.\r\nTermine pidiendo una tartita de maracuya que estaba bien, no es lo que esperaba de la Chef Patissier.\r\nAl retirarme nuevamente no recibi respuesta hacia mi saludo, realmente unos mal educados.\r\nSenti como que nunca fui bienvenido en el lugar.\r\nNO LO RECOMIENDO, ni volvere."
+    }, 
+    {
+      "date": "22 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Noix", 
+      "text": "El lugar es acojedor, en hora pico se llena de gente ya que tiene todo con la opcion \"para llevar\" tambien.\r\n\r\nLa comida es muy rica, recomiendo altamente los Cheesecakes, Tarteletas y Muffins :)"
+    }, 
+    {
+      "date": "19 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MRW", 
+      "text": "Muy buena la comida. Bien ambientado pero muy chico y mesas muy juntas. buenos para almorzar bien e irse. Tambien para tomar el te."
+    }, 
+    {
+      "date": "25 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "antropocaro82", 
+      "text": "El lugar es lind\u00edsimo, muy bonita la ambientaci\u00f3n. Fui a tomar el te con unas amigas y comimos muffins, la carrot cake (excelente) y unos mini tostados muy ricos.L\u00e1stima la atenci\u00f3n! Reina la antipat\u00eda y la soberbia. Coincido con lo que dicen otros usuarios: te atienden como si te estuvieran haciendo un favor. Por esto solo no volver\u00eda."
+    }, 
+    {
+      "date": "18 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "novos", 
+      "text": "La atenci\u00f3n es mala, el sistema es inc\u00f3modo, la comida es buena, por eso fuimos por tercera vez. Esto es lo que nos paso, estabamos esperando al frente del mostrador y entr\u00f3 detr\u00e1s nuestro una pareja super cool, como el resto de la gente que suele haber ahi, la due\u00f1a se acerc\u00f3 y los invit\u00f3 a sentarse mientras a nosotros nos segu\u00edan dejando a la espera, nos fuimos, no volvemos m\u00e1s. Eso es: nos discriminaron porque no somos cool. Logran su objetivo, el lugar se va a llenar de gente snob, pero que no sabe nada acerca de lo que es un buen restaurant ni  prestar un servicio con respeto al cliente."
+    }, 
+    {
+      "date": "10 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "soniawasabi", 
+      "text": "Fui con una amiga despu\u00e9s de haber le\u00eddo la recomendaci\u00f3n de Planet Joy. Me desilusion\u00f3 como tantos otros lugares para ir a \"tomar el t\u00e9\".\r\nUn s\u00e1bado por la tarde ten\u00edan muy poca variedad de dulces aunque todo lo que yo prob\u00e9 estaba bien. Las porciones son muy peque\u00f1as y el servicio es desganado. No tienen ninguna propuesta para un t\u00e9 completo.\r\nEl local es peque\u00f1o pero bonito. La m\u00fasica demasiado alta y hace falta acondicionar la ac\u00fastica ya que no se puede conversar sin que el resto de los clientes se enteren de todos los detalles.\r\nEl caf\u00e9 con leche estaba fr\u00edo."
+    }, 
+    {
+      "date": "28 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Xema2005", 
+      "text": "La verdad fui a este lugar con la idea de comprar cosas ricas para merendar con unos amigos....y no encontr\u00e8 nada del otro mundo...si bien la pasteler\u00eda es correcta, me parece que nada destaca, al menos de lo que hemos probado: tarta de peras, muffins de banana, chocolate, mini tarta de membrillos y avellanas. Creo que es un lugar correcto, pero nada nuevo"
+    }, 
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dayi", 
+      "text": "El lugar tiene mucha onda, tiene un estilo muy casual, con atenci\u00f3n excelente y relajante. Es cierto que es peque\u00f1o, pero eso lo hace m\u00e1s interesante. Especial para gente joven. \r\n\r\nLos platos son todos MINI, lo que hace que al fin de cuentas se gaste mucho para llenarse. Pero todo muy rico, y el chese cake de maracuya me encant\u00f3."
+    }, 
+    {
+      "date": "22 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "SohOrtiz", 
+      "text": "Fui por la tarde a probar cosas dulces, com\u00ed scones con dulce casero, estaban buenos, el punto justo. El caff\u00e9 result\u00f3 escaso, taz\u00f3n por la mitad. Por mi parte, el lugar es muy peque\u00f1o, cambiar\u00eda la m\u00fasica ya que me qued\u00e9 m\u00e1s de 1 hora y la m\u00fasica fue siempre la misma. La atenci\u00f3n fue amigable y c\u00e1lida. Seguro que vuelvo a probar la tartita de Dulce de leche con almendras."
+    }, 
+    {
+      "date": "9 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "juampibenoit", 
+      "text": "Fui a Farinelli porque estaba altamente recomendado en la p\u00e1gina, pero fue una verdadera decepci\u00f3n.  La comida es regular, nada sorprenderte ni semejante a ninguno de los bares de new york.  La atenci\u00f3n fue muy mala, quienes trabajan ahi parecian no tener ganas de atenderme. En sintesis, es un lugar pretencioso y poco recomendable"
+    }, 
+    {
+      "date": "7 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Sauce", 
+      "text": "El lugar es divino, comi rico y me atendieron bien, idesl para el mediodia o la tarde."
+    }, 
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "petreca", 
+      "text": "Me encant\u00f3 el lugar, lo conoc\u00ed gracias a la guia oleo, que consulto muy seguido. El lugar tiene muchisima onda, 0 intimidad, no es para ir a contar secretos, es para comer algo dulce muy rico con un buen caf\u00e9."
+    }, 
+    {
+      "date": "11 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "MeReSuNdA", 
+      "text": "El lugar es peque\u00f1o, bullicioso, la comida es buena pero nada de otro mundo, las porciones son peque\u00f1as, el cafe es infimo y te atienden como si te hicieran un favor... deberian mejorar la atenci\u00f3n al cliente."
+    }, 
+    {
+      "date": "23 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mencantaparis", 
+      "text": "Fui por la tarde y prob\u00e9 solamente lo dulce. Muy buenos los scones y la tarta de lim\u00f3n y frutos rojos. El caf\u00e9 con leche podr\u00eda venir en una taza grande completa y no en un jarro a medio llenar. Prometo volver a probar lo salado; se perfila como un lugar al que ir\u00e9 seguido, pero seguramente sea porque vivo cerca. No hay camareros, sino que uno ordena y te lo alcanzan. Cero simpat\u00eda: debe ser que no es cool."
+    }, 
+    {
+      "date": "9 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rose10", 
+      "text": "Muy bueno el concepto, todo rico y lindo.  Las porciones son chicas. El lugar es divino, impecable.\r\nComo para ir todos los dias, aunque para eso, el precio es  un poco excesivo."
+    }, 
+    {
+      "date": "3 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "arturo", 
+      "text": "Un lugar divertido que funciona durante el dia,ara ir si se esta cerca. Buenos Aires tendria que tener mas de estos lugares."
+    }, 
+    {
+      "date": "30 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "karlo", 
+      "text": "muy muy buen opcion! me encanto"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sagan", 
+      "text": "Fuimos el sabado y comimos muy rico. Pedimos sandwich de bondiola con brotes de r\u00facula, ensalada de lentejas y sopa. Tambi\u00e9n pedimos licuados. Muy recomendable."
+    }, 
+    {
+      "date": "9 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Eucha", 
+      "text": "Fui hoy a tomar el te con unas amigas. Todo lo que comimos estaba delicioso!!! Pedimos varias cosas para probar entre todas, muffin de chocolate, scones, torta h\u00fameda de chocolate, bud\u00edn de banana y un tostado de jamon y queso con pan de semillas. Riqu\u00edsimo todo!! Tambi\u00e9n tomamos 3 caf\u00e9s y una gaseosa. Entre 3 gastamos 150 pesos, no me pareci\u00f3 nada caro para todo lo que pudimos probar. La atenci\u00f3n fue muy amable. La pr\u00f3xima vez iremos a probar los almuerzos. Lo s\u00faper recomiendo!"
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sonykid", 
+      "text": "Muy rico y muy lindo el lugar!"
+    }, 
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sagan", 
+      "text": "Me encanta farinelli, voy todos los fines de semana a almozar, el lugar es muy lindo y la comida es increible. Pasas por la barra y elegis la comida, no hace falta men\u00fa porque tenes todo ahi a la vista, fresco recien hecho."
+    }, 
+    {
+      "date": "30 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "HardToPlease", 
+      "text": "Todos los postres que com\u00ed eran deliciosos, en especial una tarta de chocolate con frutillas frescas y una tarta de manzana. La atenci\u00f3n, no muy buena. Es medio self-service. El lugar es bastante peque\u00f1o, pero me pareci\u00f3 lindo."
+    }, 
+    {
+      "date": "18 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fresca", 
+      "text": "Este lugar es increible! Todo es muy rico y fresco. La gente que trabaja tiene muy buena onda. Me encant\u00f3. Muy recomendable!!"
+    }, 
+    {
+      "date": "6 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SusanaQ", 
+      "text": "Todo una delicia. Com\u00ed un sandwich de milanesa, un jugo de Remolacha/Manzana/Jengibre y una cheesecake de mascarpone con Maracuy\u00e1. Ideal para un s\u00e1bado en BA. El lugar es cancher\u00edsimo, el ambiente b\u00e1rbaro, me sent\u00ed como en mi casa."
+    }, 
+    {
+      "date": "2 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "BlueGlue", 
+      "text": "\u00a1Me enamor\u00e9! Est\u00e1 todo tan cuidado y tiene una impronta tan a lo Manhattan que uno no puede creer que los precios sean en pesos. No prob\u00e9 lo dulce -a\u00fan-, pero las tartas y los sandwiches son de lo mejor de Buenos Aires. Para volver y volver. \u00a1Y ojal\u00e1 trabajara por la zona y pudiera hacer de Farinelli mi lugar de almuerzo diario!"
+    }, 
+    {
+      "date": "13 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "devocion", 
+      "text": "Finalmente llego a Buenos Aires el lugar que faltaba. Farinelli es unico. \r\nLa comida es increible, el lugar fabuloso y los chicos que trabajan aca tienen la mejor de las ondas. Me encanta y los felicito por el concepto."
+    }, 
+    {
+      "date": "12 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Frisco", 
+      "text": "Lejos el mejor cheesecake de BA! el resto de las cosas tambien son buenisimas."
+    }, 
+    {
+      "date": "12 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Espartano", 
+      "text": "Hay Amor!!Cuando un ser amoroso y con capacidad decide hacer algo esa capacidad creativa se ve reflejada en cada una de las partes del todo. El lugar es magico, la atencion super calida, los alimentos ricos y frescos. Felicitaciones!!"
+    }, 
+    {
+      "date": "11 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bobby11", 
+      "text": "Concepto original, calidad superlativa, muy agradable ambiente."
+    }, 
+    {
+      "date": "7 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "NakedChef", 
+      "text": "Alternativa hip y rica en Palermo. El sandwich de salm\u00f3n y wasabi en pan multigrano una delicia . El cheesecake y la patisserie destacable. Muy buen ambiente al mediod\u00eda. Vuelvo."
+    }, 
+    {
+      "date": "7 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marinoushka", 
+      "text": "Lind\u00edsimo el lugar y riqu\u00edsima la comida. Un buen aporte al barrio."
+    }, 
+    {
+      "date": "5 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sauze", 
+      "text": "Recomendable!"
+    }, 
+    {
+      "date": "21 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Juanata", 
+      "text": "Excelente ambiente, muy agradable, el sandwich de milanesa es imperdible!!!"
+    }
+  ]
+}

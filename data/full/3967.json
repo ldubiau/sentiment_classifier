@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cerminar", 
+      "text": "Excelentes opciones de sanwiches, buenas tortas, y alguna promo que vale la pena. La zona no es linda, pero el lugar esta bueno y la atenci\u00f3n correcta. Para una merienda o almuerzo rapido, pefecto."
+    }, 
+    {
+      "date": "3 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "anamay", 
+      "text": "Buen\u00edsimos los sandwiches. Medialunas se les terminan muy temprano."
+    }, 
+    {
+      "date": "25 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pirilo74", 
+      "text": "Lugar agradable en la zona"
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Muy lindo lugar, donde al entrar se siente calidez.  El servicio es amable y la carta, variada; carnes pastas, ensaladas, sandwiches y para acompa\u00f1ar un caf\u00e9, se puede elegir entre las opciones dulces que tienen  a la vista. Hay tambi\u00e9n venta de helados y un petit kiosko. Es un lugar muy pintoresco, me gust\u00f3."
+    }, 
+    {
+      "date": "8 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "confit", 
+      "text": "fui a cenar probe una de las mejores caesar soy cocinero y muy pocas veces probe semejante cosa. algo malo, el papillote no lleva gurnicion por favor saquen ese cuos cuos y en todo caso ponganselo tibio y especiado al cordero."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sebastianpm", 
+      "text": "Un ambiente muy exclusivo, la comida que eleji me parecio excelente, tanto el gusto como la presentacion y el servicio desde que entre hasta que me fui excelente, muy atento el camarero. El precio en relacion a la calidad y el servicio me parece barato."
+    }
+  ]
+}

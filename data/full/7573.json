@@ -1,0 +1,908 @@
+{
+  "malos": [
+    {
+      "date": "7 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "LAVIDAROSA", 
+      "text": "Un \u00fanico ambiente poblado de mesas marrones con sillas marrones y mantel tipo camino tambi\u00e9n marron, p\u00e9sima iluminaci\u00f3n, nada rom\u00e1ntico. Buena atenci\u00f3n, el camarero muy atento. Pedimos pastas, mi marido pidio cappelettis, eras pocos; y yo pedi cintas a la Mediterranea, duras, cero gusto la \"salsa\", un plato muy seco. Pedi aceite de oliva para ver si se podian pasar mejor los fideos, me alcanzaron aceite de un sabor horrible, de color verde fluo. Lo \u00fanico pasable? la copa de vino que pedi. Dem\u00e1s est\u00e1 decir que no volveremos, quiz\u00e1 tuvimos mala suerte, igual no habr\u00e1 segunda v vuelta."
+    }, 
+    {
+      "date": "2 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Nahuel77", 
+      "text": "La primera vez que fui en 2010 me pareci\u00f3 correcto, no mucho m\u00e1s, volv\u00ed algunas veces y como casi siempre, la calidad en todo sentido va bajando, al punto en que esta semana fue un desastre, la comida es mala, punto. Una pena"
+    }, 
+    {
+      "date": "9 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ppjm", 
+      "text": "Fuimos una noche en mitad de semana. Nos encontramos con un local en una zona solitaria y nos arriesgamos a quedarnos porque era tarde para buscar otro lugar pero no nos sent\u00edamos seguros. La ambientaci\u00f3n interior hace recordar a una modesta pulper\u00eda, bastante ruidoso para estar a la mitad de su capacidad. La comida no es mala pero tampoco impresiona. El precio anunciado por la gu\u00eda corresponde a una cena sin entrada sin postre y sin vino. No se puede creer que un lugar as\u00ed cobre un cubierto de $12"
+    }, 
+    {
+      "date": "6 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Ancones", 
+      "text": "Pedimos una picada, que para una charla amena y un buen rato de distenci\u00f3n viene muy bien. El problema es al momento de pedir la cuenta : nos cobraron cubierto, y al momento de reclamar todo el mundo estaba de acuerdo que estaba mal pero no nos devolvieron el precio del cubierto. Ni siquiera tuvieron una atenci\u00f3n. Incluso el precio fue excesivo (picada + 2 porrones + 1 Coca =  $125 !!)"
+    }, 
+    {
+      "date": "8 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "erimo", 
+      "text": "De haber calificado al rest\u00f3 en el momento de llegar seguramente hubiera sido positivo, la ambientaci\u00f3n de bodeg\u00f3n me pareci\u00f3 muy correcta, como la cocina a la vista y la separaci\u00f3n de mostrador para comida y bebida. La magia se termin\u00f3 cuando esperamos una eternidad la comida. Tal vez si hubiese estado buena, no me importaba esperar, pero el bifecito con vegetales y papita con cheddar, pesaba 50 gramos y estaba calcinado. Para las mollejas con risotto olvidaron la sutileza en la cocina. Realmente hac\u00eda much\u00edsimo calor adentro. El precio no es para nada acorde con la calidad de la comida."
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "lualque", 
+      "text": "Se trataba de un lugar con algunos platos especiales, en particular locro que siendo el plato estrella de invierno, result\u00f3 que no lo tenian. Los platos alternos que hubo que elegir, el lenguado era escasisimo, salsa idem y la relacion calidad/precio mala. Mascarpone del tiramisu no muy fresco.  El servicio sigue siendo a cargo de estudiantes, mozos  improvisados sin experiencia. Hace frio en invierno, puerta gigante que manda oleadas heladas. Lastima, pero v iene decayendo."
+    }, 
+    {
+      "date": "13 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Zeithgeist", 
+      "text": "Fuimos esta noche. Pedimos pamplona de pollo y la verdad, le faltaba condimento (no solo sal. parecia pollo hervido sin gusto..) sino que el relleno estaba solo de la mitad de la pamplona hacia adelante, y las papas rosti estaban medio crudas y tambien sin sabor alguno. La atencion del mozo es pesima. Casi nos agarra torticolis de tanto cogotear para ver donde andaba. El precio es demasiado alto para la calidad de comida que sirven, realmente. \r\nen fin....Un barsucho con demasiadas infulas... Para no volver"
+    }, 
+    {
+      "date": "21 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Flacanblues", 
+      "text": "La parrillada ten\u00eda carne recalentada, la verdad muy poco recomendable. Una amiga se pidi\u00f3 unos ravioles de los cuales algunos estaban congelados adentro. Nadie se hizo cargo de la carne."
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MmeLaMarquise", 
+      "text": "Lindo por fuera,la comida quiere ser casera con un toque profesional pero no es ni lo uno ni lo otro.los postres malos al igual que la carta.las papas fritas impresentables.una pena porque el barrio da para algo mejor."
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "LolaGourmet", 
+      "text": "Los gnocci no eran nada del otro mundo,la porcion escasa y el tuco de casero poco..parecia salsa de lata.La milanesa ademas de pollo sin sal ni condimentos,era una fritanga impresionante lo mismo que las papas (todavia estoy con ataque al higado).\r\nPara rematar el arroz con leche le faltaba coccion..Una lastima por que el lugar me encanto y la atencion era muy buena..."
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Marianogourmet", 
+      "text": "Fuimos seducidos por los comentarios y la diea de comida casera pero el lugar nos defraud\u00f3. Para que la comida casera en un restaurant sea atractiva debe ser mejor que la que uno p\u00f9ede preparar en casa en 10 minutos y ello no ocurri\u00f3 para nada. La milanesa era un fritanga, el lugar fr\u00edo, mal ambientado. Para no ir ni volver."
+    }, 
+    {
+      "date": "22 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cosmos", 
+      "text": "Una suprema mal cocida y el pescado una fritanga de esas.............El pure? no se sabia que era..."
+    }, 
+    {
+      "date": "30 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "delikatessa", 
+      "text": "El lugar pretende ser despojado pero es fr\u00edo (tambi\u00e9n en temperatura) y poco acogedor. Muy ruidoso. El men\u00fa propone algunos platos nost\u00e1gicos con una aparente vuelta de tuerca. Sin embargo, cuando llegan a la mesa, esa vuelta de tuerca no existe: mucha grasa, manteca, aceite... comida pesada y sin gracia. Ped\u00ed una lasa\u00f1a de verduras y vino sumergida en crema de leche (adem\u00e1s estaba fr\u00eda). Malo para bolich\u00f3n de esquina y malo para rest\u00f3 de barrio. No volver\u00eda."
+    }, 
+    {
+      "date": "12 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "LosGatos", 
+      "text": "nacio un nuevo restaurante en el barrio y quisimos probar,un desastre todo, el ambiente frio, una heladera,no hay nada que sea acogedor,los mozos tendrian que hacer un curso para atender a la gente,nuestra visita al restaurante  Raices fue debut y despedida"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gracio", 
+      "text": "Primero y principal, este restaurant no queda en Nu\u00f1ez, est\u00e1 en Saavedra. Segundo, el lugar est\u00e1 muy bueno. El ambiente es sencillo pero muy agradable, la carta es tenntadora -especialmente los postres-, los platos muy ricos, y la atenci\u00f3n esmerada. Est\u00e1 bueno tener un lugar as\u00ed en el barrio!"
+    }, 
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gabriella", 
+      "text": "Acertada elecci\u00f3n. Platos de buena factura, abundantes y bien presentados. Excelente la trucha con vegetales salteados y papas espa\u00f1olas como los ravioles con salsa de hongos. La pamplona result\u00f3 ser pollo arrollado relleno. Muy bien por la ambientaci\u00f3n, un viejo almac\u00e9n reciclado en el que respetaron su arquitectura original con cocina a la vista. Atenci\u00f3n amable y eficiente. Suspendieron el beneficio CLN, hecho que avisan de antemano. Aceptan descorche. Precios razonables. Me pareci\u00f3, esencialmente, una cocina honesta. Muy bien!"
+    }, 
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "VivianaG", 
+      "text": "Ten\u00edamos antojo de merienda, fuimos un viernes a las 18:45. Pedimos 2 capuccinos, con un cheesecake de ddl (muy bueno) y 2 medialunas con lomito y queso. Tuvimos una buena impresi\u00f3n, \u00e9ramos los \u00fanicos comensales en el sal\u00f3n y fuimos testigos de los preparativos para la noche, al punto de  que trajeron una medialuna y los 10 minutos la otra, sumado a lo que ya hab\u00edan tartdado en traer los caf\u00e9s. El resto, bien, debemos regresar a probar la comida para tener una impresi\u00f3n m\u00e1s completa."
+    }, 
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juliaa", 
+      "text": "Fui a comer al medio dia! La comida estuvo muy buena ( provoleta , bife chorizo y bondiola) de postres una tarta tatan de manzanas! Lo unico flojo fue la panera y que hacia demasiado calor mas que estabamos sentados abajo del aire acondicionado!  SUgerencia: Hay que especificar en la carta que cobran 12$ el cubierto!!!"
+    }, 
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "muy lindo rest\u00f3 de barrio que ofrece platos de la cocina tradicional argentina, de ra\u00edz bien criolla (como locro, guiso de lentejas o pastel de papa) con un toque casero y muy sabrosos. el ambiente es muy agradable e intentar recrear el aire de una pulper\u00eda, muy acorde a la propuesta. recomendable"
+    }, 
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eiglesias", 
+      "text": "La recepci\u00f3n es muy buena, si ten\u00e9s que esperar (como nos pas\u00f3) te tratan con amabilidad y hasta te invitan con una copa de champagne. La comida es muy buena, los platos son abundantes. No comimos postre. Precio acorde a la calidad. La pamplona de pollo imperdible. Volveremos."
+    }, 
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "iberaz", 
+      "text": "Fui varias veces y prob\u00e9 varios platos de la carta. Excelente el risoto con mollejas, la pamplona de pollo o los agnolotis a la Raices. Es cierto que el ambiente es ruidoso, pero la rica comida con muy buenos ingredienteshace que sea un lugar muy recomendable."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marcfk", 
+      "text": "ayer fuimos con mi esposo y una pareja amiga. disfrutamos de una velada magn\u00edfica. Muy rica la comida, buena presentaci\u00f3n, muy buena atenci\u00f3n. Relaci\u00f3n precio/calidad muy buena. Tiene club23 y Club la naci\u00f3n (para tener en cuenta!) lo recomiendo ampliamente."
+    }, 
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Despues de 5 visitas mas a Raices, y con un conocimiento bastante profundo del menu, quiero transmitirles mis impresiones. Menu del mediodia: muy bueno el salteado de pollo y las tiritas de carne, no pidan pastel de papa, es malo. Entradas: muy bien la provoleta, la mozzarella apanada, super recomendable la degustaci\u00f3n de empanadas de copetin fritas. Principales: muy buenos los spaghettis con alb\u00f3ndigas, la mini parrillada y el locro. Sorrentinos negros de salm\u00f3n ahumado ricos, pamplona de pollo igual. Postres: mas o menos, no son lo mejor. Buena atenci\u00f3n y buenos descuentos."
+    }, 
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Puenteazul", 
+      "text": "Nos encanto.  Fuimos a probar, no del todo convencidos por algunos de los comentarios negativos, pero nos sorprendimos gratamente mi esposo y yo.  Es cierto, el cubierto es de $ 12.-, pero con unos panes saborizados muy ricos (que se pueden repetir) y unos porotos con piment\u00f3n riquisimos.  La atenci\u00f3n es excelente y no nos pareci\u00f3 m\u00e1s ruidoso que cualquier otro restaurant.  La cocina est\u00e1 totalmente a la vista y eso tambi\u00e9n nos gust\u00f3 mucho.  \r\nComimos rabas, \u00f1oquis de s\u00e9mola y yo unas cintas mediterr\u00e1neas y todo estuvo riqu\u00edsimo. Los platos son abundantes. Volvemos seguro"
+    }, 
+    {
+      "date": "16 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "floracio", 
+      "text": "Medio dia, men\u00fa con muchos platos elegibles a un precio razonable. Eleg\u00ed tiritas de carne con cebollas, morrones, papas y crema salteadas con el postre. Atenci\u00f3n buena, lugar espaciosos, bien abierto"
+    }, 
+    {
+      "date": "16 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "COLODR", 
+      "text": "Es un lugar con buena cocina casera, precios correctos y bastante agradable, lo feo es que es muy ruidoso, pero da para volver."
+    }, 
+    {
+      "date": "11 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sdongarra", 
+      "text": "Hace tiempo que no ibamos, nos encontramos con un lugar mas establecido. La comida riquisima,la atencion muy amable y atentos a las necesidades de la mesa.  Volvemos seguro"
+    }, 
+    {
+      "date": "18 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "nicklauss", 
+      "text": "fui al mediodia con compa\u00f1eros de trabajo. los menues son correctos, a buen precio y ricos, la comida sin ser sobresaliente es muy buena, se ve como cocinan y todo parece limpio y ordenado."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "patymona", 
+      "text": "Muy buena opci\u00f3n en el barrio. \r\nBuen ambiente, amplio y techos altos\r\nMozo joven, simp\u00e1tico y atento. \r\nEn la barra, gente sonriente y atenta a lo que necesite el cliente\r\nComimos muy rico,  las brusquetas de entrada super recomendables.\r\nLa cocina est\u00e1 a la vista, muy limpia y todo el mundo con cofias y guantes.\r\nPara mi gusto falt\u00f3 un poco de refrigeraci\u00f3n, pero estaba bien ventiilado, es un local grande\r\nVolveremos seguro."
+    }, 
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dalvarez", 
+      "text": "Fui a conocer este lugar, ya que soy de la zona y tenia descuento por CLUB LA NACION.\r\nLa verdad fue una experiencia buena.\r\nEL lugar da para volver todas las veces que uno desee.\r\nEl precio es normal\r\nLaa calidad de la comida muy buena\r\nlimpieza muy buena\r\nAtencio muy buenas."
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "El_rafa", 
+      "text": "Esta en una zona muy tranquila, casi at\u00edpica. El lugar es lindo, calido, tiene la cocina a la vista y es un tanto ruidoso. La panera es b\u00e1sica, los platos abundantes y la atenci\u00f3n buena. Tiene descuento, lo cual hace que sume alg\u00fan que otro puntito a la hora de elegir comer bien y que no sea caro.\r\nRecomiendo el risotto con mollejas y el volc\u00e1n de dulce de leche como postre."
+    }, 
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "willybenedetti", 
+      "text": "Fui a cenar un viernes en septiembre, el local estaba lleno y el ruido no era insoportable. La comida excelente, la carta de vinos algo acotada pero acorde a la de un  restaurante de barrio. La atencion digna de destacar. Una relacion precio calidad apropiada. Es super recomendable. He visitado lugares mucho mas caros y vips y no me fui tan satisfecho como aqui. Volvere !!!"
+    }, 
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mldm", 
+      "text": "Muy buena opci\u00f3n, platos originales, una relaci\u00f3n precio-calidad \u00f3ptima (mas con el descuento de la gu\u00eda), sumado una atenci\u00f3n sumamente amable. Las contras son lo acotado de la carta y mejorar un poco la ambientaci\u00f3n,  pero a pesar de esto eresulta un lugar muy recomendable"
+    }, 
+    {
+      "date": "22 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "coco9234", 
+      "text": "Buena atenci\u00f3n bridada por j\u00f3venes mozos, buena cocina y buen precio. Es una buena opci\u00f3n como restaurant de barrio con una carta algo acotada. La cocina se ve prolija y los platos est\u00e1n muy bien presentados, adem\u00e1s el lugar es muy luminoso. La contra es el ruido del lugar- m\u00e1xime si hay chicos- por lo que no es un lugar ideal para una comida \u00edntima pero salvando este tema es para recomendar. Volveremos."
+    }, 
+    {
+      "date": "13 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Y de repente, en el medio de la nada, apareci\u00f3 Ra\u00edces, un lindo rest\u00f3 donde antes no hab\u00eda nada, solo vac\u00edo y un edificio cerrado. Ahora tenemos otro lugar para comer en el barrio, lindo, luminoso, bien atendido y barato. La comida es muy rica, lo que no comimos pero vimos pasar y comer a otros tambi\u00e9n parec\u00eda muy bueno. Es ruidoso, los ni\u00f1os casi siempre lo son y las mesas largas ni hablar, pero si uno puede hacer caso omiso de eso, entonces es una excelente opci\u00f3n. Los mozos son muy atentos. Me encant\u00f3 la cocina a la vista y el personal de cocina trabajando con guantes. Para volver!"
+    }, 
+    {
+      "date": "24 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vicavica", 
+      "text": "Buena atencion. ricos y abundantes los platos. precios logicos.\r\nla unica contra es que una de las entradas habia sido calentada a medias en un microondas.\r\nlo demas muy, muy rico."
+    }, 
+    {
+      "date": "6 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marinuska", 
+      "text": "muy buena comida casera !! de verdad casera. Tambien es para destacar la cordialidad de los que atienden. Pastas, empanaditas, pamplona... es para darse una vuelta !."
+    }, 
+    {
+      "date": "17 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "patocolo", 
+      "text": "La luz solar  favorece el ambiente gracias a los grandes ventanales que tiene. Mejor ir al mediod\u00eda. Las pastas son  excelentes! Otro d\u00eda pedimos bondiola y vac\u00edo y tambi\u00e9n estaban muy bien. Los mozos muy atentos."
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "GammaRay", 
+      "text": "La verdad es que para estar en Saavedra, un barrio que no tiene una gran oferta gastron\u00f3mica, este lugar es una bocanada de aire fresco. Es una esquina relativamente bien ambientada con no muchas mesas, donde parte de la cocina est\u00e1 a la vista, el men\u00fa es escaso y como una especie \"de autor\", aunque seg\u00fan los que te atienden, lo van rotando seg\u00fan la \u00e9poca y la necesidad de los comensales, la verdad es que fui en pareja y la pasamos muy bien, mi pareja comi\u00f3 una bondiola de cerdo con torre de batatas muy sabrosa y yo unos ravioles con salsa de hongos excelentes, hay un poco de demora en atender pero el esmero en los platos es m\u00e1s que aceptable, no es un lugar para viajar 2 horas para conocerlo pero definitivamente vale la pena darse una vuelta si est\u00e1s cerca, buenos platos y bien presentados en un ambiente agradable."
+    }, 
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lucianat", 
+      "text": "El volcan de papa estaba frio por dentro, no est\u00e1 bueno ya que ten\u00eda chorizo. Precios bastante altos para la calidad de comida.  No volver\u00eda."
+    }, 
+    {
+      "date": "17 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lualque", 
+      "text": "Continua con una carta con relativamente pocas opciones y con pocos platos simples. Los platos son sabrosos. La atencion es voluntariosa pero ignorante por falta de profesionalidad (pibes jovenes). Se compensa con una excelente atenci\u00f3n del due\u00f1o. algo extra\u00f1o: no tienen agua con gas, solo soda. Pedimos boldo y sin avisar trajeron cachamay amarillo (nada que ver). Lo mejor fue la m\u00fasica de tango, excelente conjunto, que se ofrecia completamente gratis."
+    }, 
+    {
+      "date": "17 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "empanadita", 
+      "text": "Los precios son muy altos y los platos no son abundantes por lo tanto no se pueden compartir. El mozo arroja las migas de pan al piso. No condice con la calidad que pregonan. Observo menos gente."
+    }, 
+    {
+      "date": "8 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "nquesta", 
+      "text": "Lugar de barrio. Decoraci\u00f3n muy tranquila. El aire acondicionado no es fuerte. La comida parece realmente casera. A mi me pasa cuando voy que me hace acordar a la cocina de mi abuela. Recomiendo la entrada de chorizo con volc\u00e1n de papa."
+    }, 
+    {
+      "date": "2 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "varilite", 
+      "text": "fui con mi pareja a merendar y a cenar, un lugar simple, buena atencion, una carta acotada de vinos, pero con lo justo. muy buenas las opciones para desayuno y almuerzo, con medialunas recien horneadas y tostadas de pan de campo c/ mate para compartir. unos platos muy bien presentados y bien servidos. un descubrimiento encontrar  un resto que seria uno mas, en lo polos gastronomicos de palermo holywood o recoleta en el barrio de saavedra. una mezcla de platos tipicos con un toque de sofisticacion, que enga\u00f1a al momento de ver un sifon en la mesa. pero le da identidad. y no es caro por el servicio que dan."
+    }, 
+    {
+      "date": "17 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Vascorojo", 
+      "text": "La comida muy fresca, la lasagna de vegetales muy sabrosa, bien condimentada, que es uno de los secretos del \u00e9xito de ese tipo de comidas. La pamplona de pollo bien a punto con una rica guarnici\u00f3n de papas rosty y r\u00facula. Los postres memorables. El reducto bien barrial, ambiente amplio decorado para nost\u00e1lgicos y un lindo detalle la cocina a la vista. Carta de vino reducida pero propone servicio de descorche y soda de sif\u00f3n \u00a1que bueno!"
+    }, 
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Rajope", 
+      "text": "Ambiente familiar con buena comida. Buenos precios."
+    }, 
+    {
+      "date": "15 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "osquito", 
+      "text": "Me gusto. Antiguo remodelado. Servicio muy atento. \r\nbuena calidad. Precio increiblemente barato encima con Club la Nacion.  Carta de vinos escasamente aceptable. Falto aire acondicionado ( flojo( Sillas duras."
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "moldi", 
+      "text": "Fuimos domingo al mediod\u00eda, comimos pastas, \u00f1oquis y sorrentinos negros de salm\u00f3n. Lo primero estaba rico y abundante, los sorrentinos ricos y se sent\u00eda bien el gusto a salm\u00f3n, pero no me gust\u00f3 la combinaci\u00f3n con muzzarella y su salsa de crema, le faltaba algo de \"cuerpo\". Tomamos cerveza, (no me explico porque en un resto sirven porr\u00f3n, creo que para una confiter\u00eda est\u00e1 bien pero para un restaurante debe ser por lo menos de 3/4.)El flan correcto. Ir\u00e9 otra vez para sacar otra conclusi\u00f3n."
+    }, 
+    {
+      "date": "12 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "leonfa", 
+      "text": "El principal problema es el ruido. Tal vez porque el local tiene las paredes desnudas es impresionante el nivel de ruido. Todos van levantando la voz y termina en un infierno. Adem\u00e1s a eso se agrega mala ventilaci\u00f3n y ruido que no veia la hora de levantarme e irme."
+    }, 
+    {
+      "date": "31 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "51daniel", 
+      "text": "agradable lugar de barrio buena atencion siempre atenta precios razonables comida sabrosa Volveremos"
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Rusa", 
+      "text": "Fuios con muchas expectativas por loscomentarios de otros y nos defraud\u00f3. Pedimos una tarta capresse que estaba medio congelada por partes y era muy chiquita. La lasagna de berenjenas, eran s\u00f3lo 3 rodajas de berenjena cubiertas por una delgad\u00edsima capa de vegetales cortados muy chiquititos; eso si, estaba muy sabrosa. Muy amables los mozos, y el ambiente no tiene nada destacable. No me da para volver."
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Nahuel77", 
+      "text": "La comida estaba muy bien, la ternera estaba muy cocida para mi gusto, pero entiendo que estaba al gusto de la mayor\u00eda. la pizza integral estaba IMPECABLE, fresca, los sabores de todos los ingredientes se diferenciaban y complementaban. El vino de la casa era mas que aceptable, y el postre estaba muy bien. Hay que hacer algo con la iluminaci\u00f3n y ambientaci\u00f3n y la atenci\u00f3n si bien es esmerada y atenta deber\u00eda profesionalizarse un poquito. Hab\u00eda demasiada gente rondando el salon casi \"demandando\" feedback de los comesales. Creo que si consiguen perdurar van a madurar mucho. Precio-calidad: Un 10"
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "chorni", 
+      "text": "Primera vez que voy y fue una buena experiencia. En base a una carta reducida pero interesante: platos tradicionales con un toque personal. Excelente el servicio. No hay olor a comida y la limpieza es notable. Habr\u00eda que darle una vuelta de rosca a la ambientaci\u00f3n. La relaci\u00f3n precio calidad es buena. Ojal\u00e1 puedan sostener el emprendimiento porque no hay muchas opciones por la zona."
+    }, 
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pato22", 
+      "text": "Muy buena atencion!! y el lugar es muy agradable.los platos bien caseros."
+    }, 
+    {
+      "date": "31 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dancosty", 
+      "text": "Excelente atenci\u00f3n. Se ve la cocina, eso es muy bueno. La relaci\u00f3n precio calidad est\u00e1 buena."
+    }, 
+    {
+      "date": "9 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "anita_cm", 
+      "text": "El lugar es muy ruidoso, y las mesas muy juntas. La moza nos apuraba demasiado para tomar el pedido. Muy rico los pancitos del servicio de mesa. Las porciones muy chicas, las guarniciones peque\u00f1as.No volveria"
+    }, 
+    {
+      "date": "9 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elube48", 
+      "text": "despojado, demasiado precario, por mas q sea resto barrial, si bien es pulcro, le faltandetalles de confort, como decoracion, ordinada atencion y calefaccion , ya q en noches frias, se sufre"
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "smoje", 
+      "text": "comenzando por la atencion, el mozo era un gordinfli, simpatico y atento, la entrada eran rabas, buenas, pero a razon de $2 por raba, luego, Ravioles 4 Quesos, bunenisimos y \u00f1oquis con tuco, normales, luego el postre Flan con dulce, flan 10 puntos pero arruinado por el DDL, que era espantoso. No es ragalado como se menciona aca, y respecto del ambiente, muy ruidoso y frio."
+    }, 
+    {
+      "date": "25 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "rob_bue", 
+      "text": "Se come bien y a precios l\u00f3gicos. Como restaurant de barrio est\u00e1 m\u00e1s que bien tanto en preparacion como precios.  La gran contra es la decoraci\u00f3n casi inexistente y las grandes superficies que propagan cualquier ruido a tal punto que resulta molesto.  Igualmente yo voy a volver."
+    }, 
+    {
+      "date": "24 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "leokohan", 
+      "text": "El lugar se promociona como la nueva joya gastron\u00f3mica de la Ciudad y no pasa de ser un sal\u00f3n bastante mal puesto con comida que zafa. La comida es rica, s\u00ed, pero no sorprenda y a todos los platos que probamos le faltaban una vueltita de rosca. El lugar no demuestra esmero en la decoraci\u00f3n y es EXTREMADAMENTE RUIDOSO (\u00e9ramos la \u00fanica mesa y ten\u00edamos que hablar a los gritos). Una l\u00e1stima, ser\u00eda bueno tener un buen restaurante cerca de casa, pero este es solo un lugar m\u00e1s..."
+    }, 
+    {
+      "date": "16 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "puli32", 
+      "text": "Al ver tan buenos comentarios decidi conocer este lugar pero me decepciono muchisimo. El lugra me parecio super ruidoso. Apenas llegamos ya nos dijeron que 2 platos de la carta, que es peque\u00f1a, no habia mas.Pedimos una entrada que demoro 40 minutos! Se disculparon por problemas en la cocina. Las milanesas de berenjena muy sabrosas pero nada del otro mundo. De postre la chocotorta estaba congelada, costo cortarla y el sabor se perdia al estar tan fria. La verdad nose si fue un mal dia pero no me dan ganas de volver"
+    }, 
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "escoffier", 
+      "text": "El mayor pecado de este restaurant, es prometer un concepto y no poder cumplirlo.Leo la carta y dice algo as\u00ed como \"la cocina de nuestras madres cuando volviamos de la escuela\", \"sabores entra\u00f1ables\", recuerdos y respeto a la cocina casera. Bueno todo bien hasta que leemos de entradas Volcan de papas con chorizo, ravioles negros con salm\u00f3n, y otros platos de estas caracteristicas. Ni una abuela, ni una madre nos hacia saber se estos platos ni de estos nombres.El lugar qued\u00f3 grande, y no se tuvo muy en cuenta como llenarlo en decoraci\u00f3n. Dulce de leche malo, para un flan rico."
+    }, 
+    {
+      "date": "9 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GourmandGirl", 
+      "text": "Fui con una amiga, yo com\u00ed unos sorrentinos de salm\u00f3n que estaban increibles y ella unos \u00d1oquis de papa con Tuco Casero, compatimos un postre que era un panqueque de banana con helado que nos encant\u00f3. Pedimos un vino de $22 y gastamos $57 cada una. La carta esta muy buena, cocina casera de verdad con una vuelta gourmet. La atenci\u00f3n tambien muy buena, con mozos atentos."
+    }, 
+    {
+      "date": "7 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Max_Fede", 
+      "text": "Muy buena la propuesta. La chocotorta es excelente. Super recomendable. Volver\u00e9 !!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yarfer", 
+      "text": "Excelente de punta a punta: bien la ambientaci\u00f3n, completa la carta y servicio cordial y discreto. Los platos no tardaron, siendo que era domingo al mediod\u00eda. Las porciones generosas, incluyendo la \"milanesita\" del men\u00fa infantil. Para no perder la pamplona y la tarte tatin."
+    }, 
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "federica0901", 
+      "text": "Siempre es un placer ir a Ra\u00edces! Fui con una amiga y pedimos el revuelto gramajo. Muy bueno! Tambi\u00e9n son muy recomendables las quesadillas. Para el postre: Cheese Cake de dulce de leche!\r\nLa atenci\u00f3n es c\u00e1lida y esmerada."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elgordoH", 
+      "text": "Fuimos con mi esposa sabado de semana santa. Buen ambiente, compartimos de entrada  bruscheta muy completa y de buen tama\u00f1o para compartir, plato principal risotto de hongos con mollejas. Muy bueno..!! la carta de vinos es estandard, y la relacion precio beneficio muy buena, el ambiente es agradable, y tener la cocina a la vista genera una buena impresion, Excelente restarunte de barrio, con una cocina gourmet no comun en barrios."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anterior", 
+      "text": "Excelente comida y atenci\u00f3n. Un aplauso  para su chef que pone mucha dedicaci\u00f3n y cari\u00f1o en lo que prepara. No es nuestra primera vez y seguiremos volviendo."
+    }, 
+    {
+      "date": "6 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "varilite", 
+      "text": "fui con mi pareja en varias oportunidades, vivimos a 2 cuadras y fue un hallazgo, encontrar en un restaurante de barrio una cocina que elabora platos comunes con detalles gourmet. que es muy comun en zonas gastronomicas como microcentro o palermo. lo que vi en contra es la ventilacion es caluroso el lugar."
+    }, 
+    {
+      "date": "27 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wahkeen", 
+      "text": "Excelente relaci\u00f3n precio calidad. Porciones abundantes. Muy buena atenci\u00f3n y muy buena comida. Tienen descorche y siempre estacionas en la puerta. Siempre volvemos. Muy rica la brusqueta y los gnocchis de s\u00e9mola."
+    }, 
+    {
+      "date": "26 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ArmenioRengo", 
+      "text": "Es verdad que el lugar es algo ruidoso, pero no insoportable... \r\nMuy buena la atencion, y la comida sencillamente espectacular!!!\r\nLos 3 platos que probe, una delicia...\r\nMuy buena la cocina a la vista!"
+    }, 
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "montitango", 
+      "text": "Es un restaurant excelente!!! Comida riqu\u00edsima, atenci\u00f3n divina, relaci\u00f3n precio calidad, justo. Volveremos! S\u00f3lo puede criticarse que es un poquito ruidoso, el resto impecable, sigan as\u00ed!"
+    }, 
+    {
+      "date": "24 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wahkeen", 
+      "text": "Soy vecino y sigo eligiendo este lugar con frecuencia. Vinos muy accesibles. Menu infantil desde 24$. Carta acotada pero comida para todos los gustos. No vayas a buscar un resto de lujo por que no lo es, si queres un resto de barrio, con precios accesibles, atencion cordial y excelente comida, este es tu lugar. Estaciono siempre en la puerta. Mejoraron mucho el tema del ruido y si el dia esta lindo hay mesitas afuera. Los mejores platos. Sorrentinos de salmon, Batata rellena y los sorrentinos caprese."
+    }, 
+    {
+      "date": "21 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "francomac", 
+      "text": "un restaurant en un lugar tranquilo puesto de manera senncilla, la comida EXCELENTE, se nota el esmero y profesionalismo de los chef, la atencion en el salon mediocre, no dan a abasto cuando se llena, se olvidan las cosas, tardan en atenderte; los precios normales y la carta acotada; es recomendable pero vayan temprano."
+    }, 
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gustavocan", 
+      "text": "\u00a1Excelente! Excelente... hac\u00eda largo rato que no disfrutaba este tipo de sabores. Me hab\u00edan recomendado el lugar y ahora soy un recomendador m\u00e1s. El grupo que me acompa\u00f1\u00f3 tambi\u00e9n disfrut\u00f3 los gustos de esta cocina casera."
+    }, 
+    {
+      "date": "7 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marianatica", 
+      "text": "Un lugar que nacio hace 8 meses...y fue mejorando de a poco. Ideal para comer bien! La cocina de las mas limpias que conoci: a la vista!!"
+    }, 
+    {
+      "date": "1 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Paladarpretencioso", 
+      "text": "Es una opcion muy amena para los que nos da fiaca ir a palermo a encontrar siempre lo mismo por precios altisimos.La propuesta es diferente y los platos muy sabrosos.La atencion esta dirigida por gente joven con muy buena voluntad para explicar cada detalle de los platos, el lugar es un salon grande que se llena ,le falta un toque a la acustica pero nada molesto para charlar.\r\nMuy recomendable"
+    }, 
+    {
+      "date": "17 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wahkeen", 
+      "text": "Mejor\u00f3 mucho el tema de los ruidos y el ambiente est\u00e1 cada vez mas c\u00e1lido. Vinos a precios super convenientes. La comida es excelente, no es una carta larga pero hay de todo. Considerando que es un resto de barrio es de lo mejor precio / calidad. Estacionas en la puerta. La zona es re tranquila. Voy a volver."
+    }, 
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianogastronomico", 
+      "text": "Lo descubrimos con mi pareja y nos parecio muy agradable, comimos un volcan de papa y un cerdo salteado muy bien hechos, la atencion muy atenta y la carta de vinos algo reducida, pero a precios razonables. Volveremos"
+    }, 
+    {
+      "date": "10 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Conrito", 
+      "text": "Vamos con mi mujer desde que abrio y nos encanta la comida, a mi me gusta variar y probe una buena parte de la carta, y si bien no es extensa tiene opciones variadas, siempre comi muuuy bien pero recomendaria la bruscheta (mi favorita) y la pamplona (es sabrosa y abundante), de los postres no soy muy amante pero el postre vigilante es muy rico (un poco chico tal vez). Una particularidad LAS PAPAS RAICES son adictivas.En cuanto al ambiente, es familiar, la atencion es buena, el lugar es limpio y la decoracion agradable. En gral. para mi tiene una muy buena relacion costo beneficio."
+    }, 
+    {
+      "date": "5 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "danurasama", 
+      "text": "Es un ambiente amplio, se puede hablar mientras tomas un vino, la comida me encanto, todo muy sabroso."
+    }, 
+    {
+      "date": "18 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Petise", 
+      "text": "Muy agradable el ambiente, considerada atenci\u00f3n, acogedor y familiar, ; comida  sencilla  aggiornada, muy buena, postres riqu\u00edsimos. He vuelto porque me encant\u00f3; presenci\u00e9 un show muy lindo tambi\u00e9n.Seguir\u00e9 concurriendo!"
+    }, 
+    {
+      "date": "2 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aprieto", 
+      "text": "Un resto interesante en la zona, la comida es excelente, la atenci\u00f3n es buena, cada vez que voy pareciera que el equipo esta mas integrado y el resultado final es mejor,detalles de panes artesanales muy ricos y postres de los de antes con alguna vueltita m\u00e1s que interesante. El lugar si bien empez\u00f3  siendo muy austero y frio, fue poniendose m\u00e1s c\u00e1lido. La carta de vinos es interesante por la  relacion calidad precio y el descorche es una alternativa que a todos nosDetalle fundamental, cocina a la vista y mucha limpieza..Se estaciona en la puerta! Un lugar para  seguir yendo, sin dudas!"
+    }, 
+    {
+      "date": "20 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vivideli", 
+      "text": "Muy buen lugar. Amplio, tranquilo. Con onda. La presentaci\u00f3n de los platos est\u00e1 muy buena. El risotto una delicia!!Muy rico caf\u00e9.Para volver."
+    }, 
+    {
+      "date": "25 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lualque", 
+      "text": "La cocina es realmente tipo casero, con excelentes ingredientes y muy bien hecha.El postre muy bueno.Los vinos de las carta bien elegidos. Panera muy buena. El ambiente puede parecer frio a primera vista, pero tiene muy buen gusto, aunque sea modesto, con detalles significativos. La limpieza en ba\u00f1os y cocina (A LA VISTA), notoria. Lo malo: servilletas de papel y copas para vino no adecuadas (copa abierta para todo). Lo deficiente: la moza que nos atendi\u00f3, por falta deprofesionalidad y la falta de algo para untar de entrada. Relacion calidad/precio excelente. Para volver seguido."
+    }, 
+    {
+      "date": "26 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Lore74", 
+      "text": "Muy buena atencion, sin estar encima, estan muy atentos, esperamos un poco el ojode bife pero valio la pena, es comida que sale de lo comun, hasta el pan saborizado que te dan para esperar la comida es rico y original y con ingredientes sanos. ej: semillas, etc.  Buenisimo!!!!!!!"
+    }, 
+    {
+      "date": "15 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ino_S", 
+      "text": "Excelente la ambientaci\u00f3n del lugar, se nota preocupaci\u00f3n por los detalles. Lo mejor, la comida. Prob\u00e9 el pollo relleno que ten\u00eda distintos vegetales y estaba acompa\u00f1ado con el pure que estaba riqu\u00edsimo y una salsita que acompa\u00f1aba.\r\nLos pancitos caceros son b\u00e1rbaros.\r\nMuy buena atenci\u00f3n. Voy a volver..."
+    }, 
+    {
+      "date": "13 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chinchula", 
+      "text": "Una grata sorpresa para el barrio, le hac\u00eda falta un lugar as\u00ed. Simple de aspecto, pero sus platos son s\u00faper tentadores. No pude resistirme a la panera casera y la empanadita de entrada que te dan. Comi una milanesa de pollo con verduras encima increible!! el pure de espinaca con un huevo encima me sorprendi\u00f3 mucho. Mi marido comi\u00f3 un salm\u00f3n delicioso, estaba todo riqu\u00edsimo. La chocotorta fue de las mejores que prob\u00e9, nos fuimos chochos con el lugar, la atencion y la comida, volveremos sin duda!!"
+    }, 
+    {
+      "date": "12 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wahkeen", 
+      "text": "Hace mucho que no iba a un lugar nuevo y me gustaba tanto. Esta en una zona super tranquila. Muy buena propuesta y los precios son muy buenos. Te reciben con unas empanaditas muy ricas y los platos est\u00e1n muy bien presentados. Se nota que est\u00e1n en los detalles. Podes llevar tu vino, te cobran solo 8$ por descorche. Muy buena la atenci\u00f3n. Hacia falta un resto de esa categor\u00eda en Saavedra. Me gustar\u00eda que haya mas opciones de vinos y ensaladas."
+    }, 
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alelito", 
+      "text": "Un excelente lugar para visitar con toda la familia ya que hay platos para todos los gustos. Destaco: El pan de cebolla, las empanaditas de carnes, el cuidado en la presentaci\u00f3n de los platos y el flan con dulce de leche. Los precios de la carta de vinos son EXCELENTES. Exquisito todo."
+    }
+  ]
+}

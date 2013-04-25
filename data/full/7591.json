@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "30 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "diffi", 
+      "text": "A ...ver...es barata s\u00ed, pero la carne es dur\u00edsima y el chorizo relleno de semolines, p\u00e9simo el pan. La ensalada de zahanoria y huevo OK, pero la condimentamos nosotros. La atenci\u00f3n un despiole, la limpieza no existe y est\u00e1 demasiado grasiento. Parece un mercado central pero no com\u00e9s bien ni ten\u00e9s lo pintoresco de ellos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pidamiani", 
+      "text": "Por $50 mangos por cabeza comes como loco. La relacion precio calidad es excelente. Genail el chorizo y el bife de chorizo. Parrillita bien de barrio,sin pretensiones. Para ir con amigos o con mujeres que solo busquen comer bien."
+    }, 
+    {
+      "date": "25 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juancholandia", 
+      "text": "Es una parrilla t\u00edpica de barrio, pero con una carne muy rica. Los chorizos, especiales. Si no hace fr\u00eco, se puede disfrutar de una mesita afuera.Recomendable.-"
+    }, 
+    {
+      "date": "9 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pidamiani", 
+      "text": "Terrible lugar. Solo para hombres. Me pareci\u00f3 sucio y ruidoso. Pero la comida es muy buena. Excelente chorizo y el bife de chorizo. Muy buen precio"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JuanMRo", 
+      "text": "Siempre se come bien. No te curran con nada. Baratito y al pie. Como pocos. La atenci\u00f3n es excelente y a una velocidad que no se acostumbra en las parrillas modernas. Ped\u00eds provoleta, un matrimonio y enseguida asado. Si no sos un glot\u00f3n, pedite para compartir el flan con dulce de leche. Como no tienen buenos vinos, llevate el tuyo que hay descorche."
+    }, 
+    {
+      "date": "10 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Ecanastra", 
+      "text": "lugar rustico, buena comida y solo. Recomendo el mariposa. Servicio no esta bueno."
+    }, 
+    {
+      "date": "3 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "AhmShere", 
+      "text": "Voy a comer a este lugar desde que ten\u00eda 18 a\u00f1os. Saca la cuenta (ahora tengo 35). El bife de chorizo es riqu\u00edsimo y jugoso y es gigante. El chorizo mariposa tambi\u00e9n es excelente. Y a no olvidar el flan casero con dulce y crema (tambi\u00e9n casera). Todas las porciones son enormes. La relaci\u00f3n precio calidad es de lo mejor que conozco. Ideal para ir con amigos y sentarse en las mesas en la vereda."
+    }, 
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "camcam", 
+      "text": "Si estas buscando algo romantico olvidalo. Pero si lo que buscas es autenticidad, temperatura del barrio y una buena carne encontraste tu sitio. Un sitio realmente popular y sin pretenciones. Lo recomiendo sin duda, mejor un dia de calor sin lluvia para contar con la mesa lineal en la vereda..."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "malos": [
+    {
+      "date": "14 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "La idea era comer algo rapido para seguir paseando por el centro un domingo al mediodia. Los huevos revueltos (o mas bien \"el\" huevo revuelto) estaba seco, la mermelada era el tipico paquetito de plastico de los aviones, tostadas sin gusto a nada. Un lugar para olvidar."
+    }, 
+    {
+      "date": "19 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Agus", 
+      "text": "El chaw fan era b\u00e1sicamente arroz blanco con ropa vieja y salsa de soja."
+    }, 
+    {
+      "date": "20 Mar 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "bubba1980", 
+      "text": "Muy mala atenci\u00f3n, la comida muy grasosa y sin gusto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "t23augusto", 
+      "text": "Para delivery es genial, viene r\u00e1pido y los platos son abundantes."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lu_2010", 
+      "text": "Fuimos a cenar el d\u00eda de la Noche de lo Museos a las 1 de la madrugada con el centro abarrotado de gente. Sin embargo la atenci\u00f3n fue r\u00e1pida y amable. Pedimos una pizza con jam\u00f3n y morrones que lleg\u00f3 rapid\u00edsimo y estuvo por arriba de nuestras expectativas."
+    }, 
+    {
+      "date": "4 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guillotes", 
+      "text": "Cuando voy al restaurante la atenci\u00f3n es excelente, y la comida es bastante buena.\r\nPor otro lado, el servicio de delivery es tr\u00e1gico. Mas de una hora y media para una triste pizza napolitana. Dos llamados durante la espera, y en los dos me dijeron \"ya sali\u00f3\".\r\nAlgo mas para aportar?\u00bf?"
+    }, 
+    {
+      "date": "20 Mar 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "pandereta", 
+      "text": "A la moza hubo que llamarla varias veces para que venga a tomar el pedido. \r\nEl asado de tira ten\u00eda m\u00e1s grasa que carne y las papas fritas estaban llenas de aceite. \r\nCuando pedimos la cuenta, la moza no nos la trajo, s\u00f3lo nos dijo el importe a pagar.  Le pedimos el ticket y como despu\u00e9s de varios minutos no lo trajo, tuvimos que ir a pagar a la caja."
+    }
+  ]
+}

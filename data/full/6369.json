@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DCDC", 
+      "text": "La comida, buen\u00edsima. El ambiente, muy \u00edntimo. La cantidad de mesas, ideal. Atm\u00f3sfera perfecta para disfrutar un buen momento. Imperdibles las mollejitas!!! Altamente recomendable!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cdm", 
+      "text": "Es el lugar ideal para disfrutar intimamente de tu compa\u00f1ia, el entorno es tranquilo y ameno, degustando los  bocadillos de camaron y la Barbeque Ribs (esquisito)se nota la escuela del chef. Muy recomendable"
+    }, 
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pe49", 
+      "text": "Me gust\u00f3 mucho el concepto, la atenci\u00f3n personalizada y la comida excelente, charlar con el cocinero en persona acerca de lo que hab\u00edamos comido fu\u00e9 muy bueno. \r\nLo recomiendo para cenas \u00edntimas y momentos en pareja"
+    }
+  ]
+}

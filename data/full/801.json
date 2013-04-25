@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "3 Oct 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "kittyc_a", 
+      "text": "Para un cafecito a la nochecita, un desastre la atenci\u00f3n. \r\n\u00a1Y caro!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "andihalp", 
+      "text": "Es un muy lindo lugar.\r\nCambiaron un poco el concepto, pero se sigue comiendo bien.\r\nEl lugar es precioso. Buena la atenci\u00f3n."
+    }
+  ]
+}

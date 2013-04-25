@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "MT10", 
+      "text": "Una l\u00e1stima, llam\u00e1s y te dicen una cosa y cuando llegas es otra. \r\nEl precio, la comida, el postre, nada bueno, ni el caf\u00e9. \r\nMe hicieron quedar mal con la gente que lleve por la enga\u00f1osa informaci\u00f3n que me dieron cuando llam\u00e9. La m\u00fasica demasiado fuerte sin necesidad, muy bueno el show de la odalisca y los balarines. \r\nLinda la ambientaci\u00f3n. No creo que vuelva."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jesicarlak", 
+      "text": "La comida buena, abundante y a buen precio. Nos cobraron canilla libre con vino, men\u00fa completo (entrada, platos y postres incluidos), caf\u00e9 y show por $35 pesos por persona. \r\nEl show fue bueno y divertido, la comida muy buena, la atenci\u00f3n m\u00e1s o menos. Un detalle: no le\u00edan la borra de caf\u00e9, lo que le sac\u00f3 un poco la magia."
+    }, 
+    {
+      "date": "8 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gabiota", 
+      "text": "Excelente. Canilla libre y tenedor libre. Adem\u00e1s accesible al momento de concertar reservas."
+    }
+  ]
+}

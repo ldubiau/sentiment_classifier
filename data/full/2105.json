@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "16 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Lindo lugar, mezcla de quincho criollo y sal\u00f3n de fiestas, y muy buena parrillada, especialmente por la calidad de la carne."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "paletas", 
+      "text": "El mejor lugar."
+    }, 
+    {
+      "date": "20 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nely", 
+      "text": "Realmente, excelente lugar. No lo conoc\u00eda y llegu\u00e9 de casualidad. Muy buena la carne, muy lindo show de tango y excelente la cantante (hermosa). Impecable la atenci\u00f3n. Sin duda, para recomendar."
+    }, 
+    {
+      "date": "1 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mniedfel", 
+      "text": "Somos de una empresa en la que una vez por mes festejamos los cumplea\u00f1os y encontramos este lugar que nos resulto muy agradable y con una atenci\u00f3n a la altura del lugar."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "5 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "fedcar", 
+      "text": "Realmente sali decepcionado promocionaron un menu por 80 pesos, las papas fritas estaban blandas y algunas oscuras, el lomo ten\u00eda un gusto abombado, no me cabe duda que esto desmerece al chef de gran renombre, ofrecian un vino de primera marca pero al servirlo era otro de menor calidad. El lugar muy bueno, pero no creo que vuelva"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cositarrica", 
+      "text": "Probamos el men\u00fa de invierno, muy recomendable por calidad precio. Buenos y abundantes la burrata con jam\u00f3n crudo, la sopa madrile\u00f1a, los macarrones con pavita fileteada, las costillas de cerdo con tres pur\u00e9s, el profiterol (era uno enorme) y la sopa helada de frutos rojos. Ambiente agradable con m\u00fasica suave y buena manteler\u00eda. Bueno el vino. La camareras un tanto adustas."
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Abbe_Faria", 
+      "text": "Bien la reserva telef\u00f3nica. Sal\u00f3n sin mucha personalidad, muy hotelesco, semi vac\u00edo, con Celine Dion sonando. Correcta separaci\u00f3n de mesas. Carta de vinos imperdonablemente corta. Bien los copones grandes; mal la temperatura de servicio. MUY rica la terrina de pato y fais\u00e1n con chutney de mango. Muy bien las costillas de cordero con papas, manzanas y panceta (pero ten\u00eda un pedacito de papel aluminio olvidado!). Correcto el salm\u00f3n en salsa de lim\u00f3n y azafr\u00e1n. Ok la torta de almendras con crema. Rico caf\u00e9. Por el precio y el chef de renombre esperaba m\u00e1s."
+    }, 
+    {
+      "date": "27 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "chilita", 
+      "text": "El menu que ofrecen es de 3 variedades por entrada, principal y postre...fuimos tres personas asi que pedimos probar todas las opciones...las entradas buenas en general y abundantes...los principales no nos gusto mucho, ya que vinieron un poco frios, los postres mas o menos...el servicio bueno y el lugar muy lindo...volvere pero no por el menu, tienen lindas opciones a la carta"
+    }, 
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Dartagnan", 
+      "text": "la brochette de mar me result\u00f3 francamente decepcionante, con un par de langostinos de carne poco firme y escaso sabor. La carta de vinos no es muy variada."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nanu_p", 
+      "text": "Me parecio excelente tanto la comida como la atencion, el chef hace valer su buena fama. El menu que ofrecen tiene muy buenas opdiones. Muy recomendable."
+    }
+  ]
+}

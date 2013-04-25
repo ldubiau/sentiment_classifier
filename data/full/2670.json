@@ -1,0 +1,408 @@
+{
+  "malos": [
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "meriii", 
+      "text": "No me gusto. Los platos muy basicos. Yo comi una ensalada de atun com huevo y arroz que la hago en mi casa en dos minutos. La atencion deja mucho que desear."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Maddie", 
+      "text": "Un lugarcito escondido y chico, que se presta a la intimidad. Tiene un jard\u00edn donde se puede comer y una muy buena barra y gran happy hour. La cocina en general es muy buena, destaco especialmente el brunch, con muy buenas opciones (los huevos benedict son muy buenos, las tartas no se quedan atras) y genial para el ritmo de domingo. Tiene una est\u00e9tica muy linda y personal atento que recomienda bien. Es para volver y recomendar."
+    }, 
+    {
+      "date": "12 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ZUMAK", 
+      "text": "Un oasis en el medio de Palermo, sin pretensiones, calido, silencioso, comida casera muy rica y abundante, el salmon ahumado del sandwich es casero y con un smoke suave y perfecto, la tortilla a la espa\u00f1ola, memorable. Las papas fritas con exceso de aceite, pero caseras El Cheese Cake merece un p\u00e1rrafo aparte, excelente...entre tanta torta de queso bastardeada, si o si es obligaci\u00f3n probarla. La atencion amable y esmerada."
+    }, 
+    {
+      "date": "5 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "baffoblu", 
+      "text": "muy lindo lugar, chiquito y calido. atencion desatenta.. chicas con buena voluntad pero lentas. comida muy regular, no me sorprendio... no vuelvo."
+    }, 
+    {
+      "date": "12 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bilbo", 
+      "text": "Genial sobre todo el deck cerca de la pileta para una noche de verano. Muy buena comida aunque un poco corta la carta."
+    }, 
+    {
+      "date": "30 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "el10go2003", 
+      "text": "Atenci\u00f3n aceptable. Buena comida."
+    }, 
+    {
+      "date": "10 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Joco", 
+      "text": "Es un lugar copado para comer al aire libre en pleno Palermo. Un hotel con un jardin para aprovechar un domingo o sabado al mediodia o una salida semanal a la noche en verano o primavera.  Los precios muy logicos, la carta corta pero bien elaborada. Hay brunch con benedict eggs, hamburguesas caseras, ensaladas, tartas, pasta del dia o bife de lomo. T\u00e9 con tortas, hamburguesas, nachos o licuados y t\u00e9s increibles. Gran ambiente, muy recomendado para escapar de la locura de la city."
+    }, 
+    {
+      "date": "10 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Verk", 
+      "text": "Fuimos un feriado con una amiga y mi novio, pedimos: el desayuno ingles, eggs benedict y huevos rancheros. Estuvo todo muy bueno.\r\nComimos en el jardin, que es hermoso. Mucho verde! \r\nLa atencion es amable."
+    }, 
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "chezz", 
+      "text": "Si bien la cocina no es lo que sol\u00eda ser, yo sigo yendo porque es una buena opci\u00f3n cuando estoy antojada de brunch y Oui Oui est\u00e1 lleno (como siempre). Adem\u00e1s, el ambiente es lind\u00edsimo, super recomendable s\u00f3lo para comer en el patio, te olvid\u00e1s que est\u00e1s en buenos aires!"
+    }, 
+    {
+      "date": "25 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "smzuddio", 
+      "text": "Un muy lindo lugar para compartir una velada tranquila, relajada. \r\nAunque la carta no es abundante, cumple con las expectativas. El servicio es atento y cordial. Se destaca el jard\u00edn, con abundante vegetaci\u00f3n y verde. Este espacio al aire libre convierte a Home en un espacio \u00edntimo, ideal para esta \u00e9poca."
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Fenes55", 
+      "text": "Me encant\u00f3 el lugar, sobre todo la terraza para una buena noche. Muy bien la comida y el servicio"
+    }, 
+    {
+      "date": "28 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "novygourmet", 
+      "text": "Lo elegimos para celebrar nuestro 3er.aniversario, y no nos defraudo!!!Es el lugar ideal para una velada rom\u00e1ntica en el jard\u00edn. Nosotros disfrutamos un mediodia soleado en las mesas del fondo. La comida es fresca y sabrosa. Buena relaci\u00f3n precio y calidad. Para disfrutar especialmente en primavera y verano. Lo recomiendo ampliamente, si queres comer o tomar algo en un ambiente muuuuyyyy relajado!!!!!!!"
+    }, 
+    {
+      "date": "28 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "novygourmet", 
+      "text": "Fuimos a celebrar nuestro 3er.aniversario, por las recomendaciones de la GO, y no nos defraud\u00f3!!!Es el lugar ideal para una velada rom\u00e1ntica en el jard\u00edn. Est\u00e1 muy bueno para un mediodia soleado en las mesas exteriores. La comida es fresca y sabrosa, bien servida, de calidad. Muy recomendable en estos dias calurosos...."
+    }, 
+    {
+      "date": "14 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "peter_croata", 
+      "text": "Fuimos a tomar el te con la familia x recomendacion de un amigo. Muy bueno el ambiente tanto adentro como en la terraza. Excelentes precios. La comida muy buena, tomamos un te ingles q viene con torta, tostadas, sandwiches, etc. Recomendable para un domingo a la tarde!"
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Moro", 
+      "text": "Lugar relajado, para poder comer y trabajar al mismo tiempo. Ideal para tener reuniones o encuentros relajados.\r\nPasar\u00e1 a la historida familiar x haber sido el primer lugar al que llevamos con 12 dias a nuestro hijo."
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dnlo", 
+      "text": "Fuimos por los comentarios y qued\u00e9 conforme. Punto a favor: Brunch desde las 12 a 16, con lo cual puede ser un perfecto almuerzo en una linda zona. Punto en contra...se\u00f1ores si es un brunch el plato tiene que venir con el cafe, jugo y agua!!!! Pedi los huevos benedictinos, incluyen salmon ahumado y pan de brioche, bien ahi; el deayuno Ingl\u00e9s, incluye de todo un poco...nada del otro mundo. La atenci\u00f3n es esmerada, pero a la 3\u00b0 vez que te dicen \"ya sale\" te dan ganas de decirles... hace silencio y trae los platos. Para variar est\u00e1 bueno, pero no muy seguido"
+    }, 
+    {
+      "date": "30 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sushi", 
+      "text": "Est\u00e1 buen\u00edsimo el brunch! Pero se destaca la ambientaci\u00f3n de este restaurant con vista al parque de un hotel y la excelente relaci\u00f3n precio/calidad.\r\nLas tartas con ensalada, los egg benedict y el desayuno ingl\u00e9s ... todos altamente recomendable!\r\nIdeal para ir un mediod\u00eda de fin de semana apenas te levant\u00e1s despu\u00e9s de una noche larga. Muy relajado (hay muy pocas mesas) y con una excelente vista, como para almorzar y despu\u00e9s quedarte hasta el atardecer charlando y tomando unos buenos tragos o un vinito!"
+    }, 
+    {
+      "date": "16 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "radet", 
+      "text": "Hab\u00eda comido en Home hace 2 meses y la comida me pareci\u00f3 muy rica y a muy bien precio, por lo cual decidi volver. Anoche encontr\u00e9 que la carta habia cambiado por completo, y que s\u00f3lo ofrecen un men\u00fa con 4 platos para elegir, una lastima porque ten\u00edan una excelente variedad de platos. Comimos sandwiches, nachos y un plato con pollo, porque los principales no eran tentadores, pagamos $60 con un trago incluido. El jard\u00edn es muy lindo, ideal para tomar algo m\u00e1s que para cenar."
+    }, 
+    {
+      "date": "28 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Andie", 
+      "text": "Excelentes huevos benedictinos, ideales para un Sunday brunch, especialmente si consiguen mesa en el jard\u00edn que es realmente lindo. La atenci\u00f3n fue muy buena, a pesar de lo que hab\u00eda le\u00eddo en la Gu\u00eda. Volver\u00eda para unos tragos en una linda noche y tambi\u00e9n para probar el men\u00fa de la cena que parece rico y est\u00e1 a buen precio."
+    }, 
+    {
+      "date": "12 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "iperrone", 
+      "text": "El lugar es muy lindo en general, un hotel moderno y de dise\u00f1o. Quiz\u00e1s el restaurant sea lo menos destacado, pero la vista del jard\u00edn es hermosa. La barra de tragos se destaca por su variedad y tragos creativos. Los precios no son baratos, pero el happy hour compensa. La comida estuvo bien, aunque un poco lenta. La carta de vinos es algo corta. Buena relaci\u00f3n precio-calidad, da para volver a seguir probando tragos y platos!"
+    }, 
+    {
+      "date": "10 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Moro", 
+      "text": "Espacio relajado y verde en medio de bs as... ideal para una tardecita con brusquetas y un rosado bien fresco."
+    }, 
+    {
+      "date": "3 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "chuvillegas", 
+      "text": "Es el lugar ideal para una noche rom\u00e1ntica en el jard\u00edn. Los tragos son muy buenos y la comida fresca y sabrosa. Buena relaci\u00f3n precio y calidad. Para disfrutar especialmente en primavera y verano. Lo recomiendo."
+    }, 
+    {
+      "date": "7 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "excelente para un mediodia soleado en las mesas del jardin del fondo. tener en cuenta es un hotel por lo que se aprecia la piscina y los huespedes, algo no muy piola. la comida bien servida, con calidad, buenas ensaladas y pastas. carta basica pero a conciencia de lo que ofrece esta casona reciclada a hotel. servicio muy bueno atento pero la lentitud de la cocina no ayudo mucho. estaria bueno ampliar la carta y ofrecer silloncitos en la parte del exterior. recomiendo este lugar escondido para un dia soleado, no hace falta reservar y el silencio que ofrece traslada en espacio.precio accesible."
+    }, 
+    {
+      "date": "22 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pauyher", 
+      "text": "Hermoso el lugar, cenamos a un costado de la pileta, la comida riquisima, recomendables las papas fritas, bien crocantes y sin gusto a aceite viejo. la atencion de 10, un lugar para ir en pareja a cenar o para ir a la tarde a tomar algo con amigos. super recomendable."
+    }, 
+    {
+      "date": "3 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "El lugar es increible. Un placer ir aunque sea solo para tomar un trago en el jardin. Todo esta cuidado hasta en el mas minimo detalle. La atencion es correctisima. Se nota mucho el cuidado en la materia prima que se usa en la elaboracion de la comida. Altamente recomendable el brunch. Tambien esta muy bueno para ir los viernes a tomar un trago antes de salir a bailar."
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Pawssies", 
+      "text": "El ambiente es hermoso, la comida es de 10, super acorde a los precios, y la atencion, espectacular. Muy lindo lugar tanto como para ir con amigos o con tu pareja."
+    }, 
+    {
+      "date": "3 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fluxbar", 
+      "text": "Muy buena opcion para brunch de domingo, servicio correcto, ambiente agradable y sobrio."
+    }, 
+    {
+      "date": "1 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Chinisima", 
+      "text": "Qu\u00edz\u00e1s es m\u00e1s recomendable para ir a tomar algo. Los tragos son muy buenos,bien preparados, a precios aceptables, pero las tapas quiz\u00e1s se van un poco. Digamos que no hay \"platos\", es como para picar algo \"gourmet\" entre amigos, teniendo en cuenta que las tapas son m\u00e1s bien individuiales que para compartir. El ambiente muy bueno si es afuera, en el parque; adentro no dice mucho. La atenci\u00f3n cordial y eficiente."
+    }, 
+    {
+      "date": "25 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ARH", 
+      "text": "Vale la pena conocerlo, para poder tomar algo o comer en el jardincito, bien iluminado y con la pileta como decoraci\u00f3n, aunque tambi\u00e9n es muy agradable el interior. La comida es muy buena, cuidadosamente elaborada y presentada. Los precios se corresponden con la oferta. Una buena opci\u00f3n para una comida informal."
+    }, 
+    {
+      "date": "28 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jafe", 
+      "text": "Excelente opci\u00f3n para el brunch los domingos. Lugar increible y pocas mesas lo que ayuda la atencion. Perfectas opciones de verdadero brunch: Entre otros huevos benedictinos, rancheros y bloody mary."
+    }, 
+    {
+      "date": "19 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "diezamiel", 
+      "text": "El area exterior, si bien no son mas que cuatro mesas y la barra es excelente. Se logra un ambiente muy relajado, rodeado por el la pileta y un jard\u00edn muy bien iluminado. Excelente tragos, buena comida y atenci\u00f3n. Precios muy acordes a lo que ofrecen. Es ideal a toda hora. De noche cierran temprano."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Muy lindo lugar, exquisita decoraci\u00f3n, buena atenci\u00f3n de las camareras, tentable el desayuno ingl\u00e9s, ricos brunch. \r\nRecomendable."
+    }, 
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "pulky", 
+      "text": "Si una va a usar WiFi te atienden con muy mala onda, verdaderamente NO recomendado para quien vaya a usar Internet.\r\nLa comida es pasable (muy pocas opciones y porciones muy chicas), la atenci\u00f3n de los mozos es buena como as\u00ed tambi\u00e9n la presentaci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucho719", 
+      "text": "Quiero felicitar a la cocina fuimos ayer  a cenar y la verdad que muy sastifechos con los platos ( en cantidad y delicioso ). muy buen clima la atencion muy atenta. Recomendable a la hora de pasar una agradable velada."
+    }, 
+    {
+      "date": "1 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Vik", 
+      "text": "Home es un lugar muy bonito, que aparenta ser tranquilo y silencioso. Ideal para disfrutar de una tarde en el jard\u00edn y comer unos riqu\u00edsimos huevos Benedict. Pero cuidado porque si buscan paz, deber\u00e1n esperar al verano, cuando es posible conquistar alg\u00fan remoto sill\u00f3n del jardin... ya que el personal habla sin parar de su vida personal (como si uno no estuviese all\u00ed), impidiendo a uno concentrarse en su quehacer. El bloody-mary estaba bastante salado tambi\u00e9n. Pero a favor: el guardia encontr\u00f3 la billetera de mi marido en el ba\u00f1o y la devolvi\u00f3 r\u00e1pidamente."
+    }, 
+    {
+      "date": "26 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "arturo", 
+      "text": "Hotel Boutique premiado internacionalmente, cuyo restaurant funciona muy bien. Excelente relacion precio calidad"
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "garrita", 
+      "text": "Excelente el brunch!!! comimos huevos rancheros y\r\n\u00f1oquis de espinaca con tomates cherry, buenisima la comida y la presentacion. Muy recomendable."
+    }, 
+    {
+      "date": "13 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nathji", 
+      "text": "La atenci\u00f3n de las camareras es excelente. El lugar me encant\u00f3. Muy tranquilo, m\u00fasica agradable, porciones peque\u00f1as pero bien presentadas.  Altamente recomendable para ir en pareja y probar los tragos."
+    }, 
+    {
+      "date": "14 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GoodTaste", 
+      "text": "Un hotel s\u00faper moderno y muy bien decorado que permite disfrutar de una merienda rica en un hermoso patio. La atenci\u00f3n esmerada para los extranjeros pero no as\u00ed para los residentes."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Excelente opci\u00f3n para el brunch del domingo y para pasarse un rato agradable de charla y esparcimiento en uno de esos oasis postmodernos de Palermo."
+    }
+  ]
+}

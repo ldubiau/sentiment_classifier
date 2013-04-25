@@ -1,0 +1,24 @@
+{
+  "excelentes": [
+    {
+      "date": "15 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rodney", 
+      "text": "Tienen una excelente atenci\u00f3n. \r\nLos chajas son tan buenos o mejores que los originales."
+    }, 
+    {
+      "date": "26 Nov 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "victoria6", 
+      "text": "Para almorzar en la vereda un dia de verano, genial, muy de barrio."
+    }
+  ]
+}

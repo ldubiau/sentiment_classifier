@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "4 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "elmocoflojo", 
+      "text": "Decay\u00f3 mucho, comida desabrida. Atenci\u00f3n descuidada, panera obviable. No vuelvo (y eso q yo los propuse para ser incluidos en guia \u00f3leo hace unos a\u00f1os)"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gonza_1971", 
+      "text": "Exquisita comida y ambiente. Muy bien atendidos. Lo \u00fanico que modificar\u00eda es la panera, no est\u00e1 acorde a la calidad de comida que ofrecen."
+    }, 
+    {
+      "date": "6 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Seraf", 
+      "text": "Muy lindo lugar, comida casera, excelentes las pastas. De postre comi una tarta de manzana cn helado, fresca pero sin gusto ambos. \r\nAtencin familiar calida y atenta todo el tiempo."
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Huge", 
+      "text": "Las pastas son bastante buenas pero las porciones son microsc\u00f3picas"
+    }, 
+    {
+      "date": "6 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Franco11295", 
+      "text": "Excelente la comida y el servicio. Buena distancia entre mesas y un ambiente tranquilo. La carta de vino es com\u00fan a cualquier otro restaurante. Lo recomiendo."
+    }, 
+    {
+      "date": "16 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "areva", 
+      "text": "bueno, atenci\u00f2n muy buena, buena  m\u00f9sica.vinos muy pobre cambien la carta. soy cliente. voy con matrimonios amigos. la cr\u00ectica es para crecer."
+    }, 
+    {
+      "date": "16 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sebastiano", 
+      "text": "El habiente de cantina de barrio con toques distintivos , me gustaron .La comida y la coordialidad son tambien dignos de resaltar"
+    }, 
+    {
+      "date": "10 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "scalabrini", 
+      "text": "Me gust\u00f3 mucho la vista de la plaza y la m\u00fasica.La comida muy buena, el precio razonable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sil83", 
+      "text": "La comida, deliciosa; el lugar, muy c\u00f3modo y la atenci\u00f3n, muy cordial. Voy a volver!"
+    }, 
+    {
+      "date": "25 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cuquila", 
+      "text": "Muy buen menu ejecutivo para los mediodias.- Comida casera, muy buena atencion y ambiente agradable.-"
+    }, 
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Dinamita", 
+      "text": "Muy buena la variedad de pastas y salsas, muy ricos los postres caseros.- Buena variedad de vinos y el ambiente muy agradable.-"
+    }
+  ]
+}

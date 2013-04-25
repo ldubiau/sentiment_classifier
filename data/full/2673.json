@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "8 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "m3rr1ck", 
+      "text": "La entrada es buena en sabor y cantidad. Los platos principales estaban fr\u00edos y la cantidad era reducida. Los fetuccini estaban pegados y en algunos casos no hab\u00edan sido separados al momento de su cocci\u00f3n. A pesar de que varios de los comensales ordenamos salsa de hongos ning\u00fan plato vino con esa salsa. El postre muy bueno."
+    }, 
+    {
+      "date": "8 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CHOU", 
+      "text": "La cocina muy bien, basica, rica y abundante.\r\nLa ambientacion muy agradable.\r\nCarta de vinos corta pero muy buena relacion precio real/precio de restaurant.\r\nSeguramente vuelvo."
+    }, 
+    {
+      "date": "15 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gasundo", 
+      "text": "Me encant\u00f3 la atenci\u00f3n especial que tienen y el men\u00fa especial para cel\u00edacos: un lujo. Todos los restaurantes deber\u00edan ser as\u00ed, muy bueno."
+    }, 
+    {
+      "date": "15 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ViDa", 
+      "text": "Nos gust\u00f3 mucho el lugar y la atenci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AngieMila", 
+      "text": "Soy cel\u00edaca, y para mi fue una aventura ir a Simona y comer pasta para cel\u00edacos. La atenci\u00f3n fue buena, el ambiente es muy tranqui, y la verdad es que como cel\u00edaca le agradezco a Simona por tener una carta especial para cel\u00edacos... com\u00ed como los dioses! Con mi propia panera (los chipacitos, perfectos) y mi propio queso rayado... qu\u00e9 lujo! Excelente y recomendable para todos!"
+    }
+  ]
+}

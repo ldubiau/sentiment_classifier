@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Maddie", 
+      "text": "Suelo pedir delivery; hay que llamar con tiempo. Es una buena alternativa para lo que hay por la zona -comida de oficina-, con comida fresca que se elabora en el momento y muy buena panificaci\u00f3n con un precio un poco m\u00e1s elevado que lo que tiene al rededor. El sal\u00f3n es peque\u00f1o y muy ruidoso, la atenci\u00f3n es buena."
+    }, 
+    {
+      "date": "9 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Rasa", 
+      "text": "La comida es buena. El ambiente y la atenci\u00f3n en nada difiere de lo comun de la zona. Es dificil recomendarlo excepto que uno este s\u00f3lo y quiera un lugar tranquilo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fdg74", 
+      "text": "Quiero aclarar que soy habitue de este restaurante todos los mediodias y que el precio que puse es estimado comiendo los platos de la carta, las sugerencias del d\u00eda (mayormente pescado fresco) tienen un valor un poco mas elevado.\r\nMuy buena comida, elaborada en el momento, hay que esperar un rato para que traigan el plato pero vale la pena.\r\nMuy buena onda de los camareros/as."
+    }, 
+    {
+      "date": "11 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "celular", 
+      "text": "Pedi ravioles de carne: un manjar y la salsa, tambien (de champi\u00f1ones). como lo tengo cerca de mi laburo, ya sabia que no me iban a defraudar porque antes ya habia comido otros platos; aunque repito, este plato deleitaba no solo la vista, sino tambien, el olfato. muy recomendable."
+    }, 
+    {
+      "date": "8 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "donato", 
+      "text": "una verdadera opcion diferente a la rutina acostumbrada en el mediodia porte\u00f1o. algo distinto, hay que conocerlo!!!!!1"
+    }, 
+    {
+      "date": "7 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leoper", 
+      "text": "Una maravilla en medio del traj\u00edn del microcentro."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "bellavista", 
+      "text": "Pedimos parrillada libre, las empanadas fr\u00edas, la provoleta era un chicle, el asado puro hueso y como el resto de la carne muy pasada como recalentada, la atenci\u00f3n p\u00e9sima, no volvemos m\u00e1s, nada recomendable al  contrario  ni se les  ocurra ir a este lugar a comer"
+    }, 
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "EFDLS", 
+      "text": "Fuimos en grupo y esperamos en la mesa muchisimo tiempo hasta que nos sirvieron la carne, le reclamamos al mozo que fue muy correcto. Nos llenaron de pan y gaseosas antes de traer la parrilla libre. Las provoletas, del tama\u00f1o de una moneda cortadas como fiambre. No volveremos a ir, no lo recomendamos."
+    }, 
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "damian77", 
+      "text": "Mala calidad de la comida, ped\u00ed provoleta y me sirvieron algo del diametro de una moneda y cortada como fiambre!!.\r\nLa carne dura hiper recalentada\r\nNo volver\u00e9 a ir."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Paxgaby", 
+      "text": "Llegamos y no tuvimos que esperar para conseguir mesa poco antes de las 22 horas luego se formo cola. No deguste las pastas pero la parrilla dejo mucho que desear la empanada de carne parec\u00eda hervida y la achuras le faltaron cocci\u00f3n. El mozo correcto y buena atenci\u00f3n es econ\u00f3mico pero no esperen mucho del lugar."
+    }, 
+    {
+      "date": "8 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Alrdata", 
+      "text": "Es un lugar chico pero por precio/calidad para ir a comer varias veces en un mes"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mvgp", 
+      "text": "La opcion de parrillada libre, esta genial! Empanada casera, provoleta, achuras, vaca, pollo, cerdo; todo con papas fritas y ensaladas varias, libreeeee y de excelente calidad!!! El ambiente es familiar y la atencion es genial! Lo recomiendo 100x100!"
+    }
+  ]
+}

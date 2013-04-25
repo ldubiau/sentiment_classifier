@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "4 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "aquaman", 
+      "text": "Una parada validera para la merdienda en Urquiza ,por la escasez en el barrio y la pasteler\u00eda con cierta elaboraci\u00f3n y dedicaci\u00f3n. El servicio repunt\u00f3 mucho cuando la due\u00f1a nos trajo como regalo una porci\u00f3n de brownie con dulce de leche debido a la demora del jugo(el mozo avis\u00f3 15"
+    }, 
+    {
+      "date": "16 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "malditobrocoli", 
+      "text": "Los proiductos son muy ricos. El lugar parece m\u00e1s grande de lo que es y la atenci\u00f3n si bien no es mala podr\u00eda mejorar. Nosotros fuimos al brunch un domingo por la tarde y la verdad que por $15 pod\u00edas comer todo lo que hab\u00eda servido en las mesas (yogurt, ensalada de fruta, jugo, masitas, brownies, scones, cuadraditos, de todo!!! No s\u00e9 si lo siguen haciendo pero es una opci\u00f3n genial para pasar la tarde con amigas comiendo y charlando!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rolok", 
+      "text": "Fue una merienda espectacular!! Muy creativa, y muy rica. El lugar muy lindo y c\u00f3modo. Muy buena atenci\u00f3n"
+    }
+  ]
+}

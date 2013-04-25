@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "24 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Elver", 
+      "text": "Un lugar con comida \"mediocre\" pero, dada la falta de oferta x la zona y los relativos buenos precios tiene bastante movimiento.\r\nHay cosas buenas (las pastas) y cosas entre malas a muy malas (minutas y pizzas), los precios son acordes a la zona, pero la calidad de los platos bajo significativamente en poco tiempo"
+    }, 
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "gastonlentini", 
+      "text": "Es uno de los peores lugares a los que fui en el ultimo a\u00f1o. Restringieron la carta solo a pizzas y sandwiches porque ni bien entre (19,50) nos dijeron, mire que cerramos a las 21.Termine pidiendo pizza, que tardo 35 minutos y resulto ser una PRE pizza con queso (no muzarella, queso). estaba por pedir vino, pero solo tenian 3 etiquetas y ah\u00ed terminaba la carta."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ams", 
+      "text": "Fui hoy 1 de junio a comprar comida para llevar y una Sprite Cero. La Sprite tenia muy mal gusto y no tenia gas. Volvi para cambiarla y me dieron otra Sprite y cuando la abri tambien tenia muy mal gusto, me fije y el vencimiento era del 28 de marzo de 2012.\r\nSi venden productos con mas de un mes de vencidos no me tienta mucho volver, lamentable."
+    }
+  ]
+}

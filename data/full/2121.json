@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "16 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mau", 
+      "text": "un cl\u00e1sico para los mediod\u00edas, comida rica y abundante, precio normal. Ayer ped\u00ed bife de chorizo con fritas, lleg\u00f3 r\u00e1pido, bien cocido y calentito y con muuuchas fritas por 20 pesos. \r\nEl sal\u00f3n no es muy lindo para ir realmente, prefiero el delivery."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "maruraffo", 
+      "text": "Yo siempre voy a desayunar, y la verdad es que es un lugar comodo, y las facturas son buenisimas...super recomendable para los que estan por la zona"
+    }
+  ]
+}

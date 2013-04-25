@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "willytuner", 
+      "text": "En realidad he pedido mas delivery que asistido propiamente al restaurante. Sin embargo la atencion es buena y la comida es mejor. Lamentablemente como en muchas parrillas los comensales salen con olor a asado hasta en el pelo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "4colores", 
+      "text": "muy buena carne, tierna y sabrosa, el lugar muy bueno"
+    }, 
+    {
+      "date": "16 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eliandra", 
+      "text": "muy buena atencion y comida"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "16 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "chuniman", 
+      "text": "Para festejos populosos de cumplea\u00f1os sin pretensiones de calidad, solo para llenar el barril....de \"gourmet\" tiene nada mas el nombre, para enmascarar que es un tenedor libre chino comun y corriente."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Leokuti", 
+      "text": "Un tenedor libre que vale la pena visitar. Brinda gran variedad de comidas y de buena calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tinr", 
+      "text": "fuimos sin muchas expectativas a conocer el lugar, siendo que es un tenedor libre, pero nos llevamos una grata sorpresa, muy buen ambiente, desde la recepci\u00f3n hasta la chica que nos atendio que se llamaba Karen, la pasamos muy bien, volveremos :)"
+    }
+  ]
+}

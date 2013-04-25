@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "9 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Vitto", 
+      "text": "El lugar es muy agradable y es absolutamente ideal para ir en pareja. Las mesas y sillas me parecieron muy incomodas y mas aun para personas altas. La comida fue buena, rica la entrada de mollejas y verdes, rico el ojo de bife aunque un poco pasado de su punto justo y tentadores los postres. La carta de vinos es corta pero tiene puntas interesantes aunque a mi parecer un poquito excesivo el recargo. En definitiva una experiencia agradable en una franja de precios de alrededor de 180/200 pesos por persona con vino."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "malalademo", 
+      "text": "Excelente ambiente, comida exiquisita. Te atienden barbaro y los precios son re logicos."
+    }
+  ]
+}

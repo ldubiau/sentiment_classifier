@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "23 Dic 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Gigiyjavi", 
+      "text": "\u00a1Nunca tuve una experiencia gastron\u00f3mica tan desastrosa!\r\n\u00a1Sent\u00ed que me estaban tomando el pelo! El fiambre con rusa de las cantinas de La Boca de los '70 eran un despliegue de buen gusto y generosidad comparados con los platos de este lugar. \r\nEl show, pat\u00e9tico.\r\nEn s\u00edntesis: despu\u00e9s no digan que no les avisamos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "La comida es regular, si uno busca una cena donde deleitarse o comer al menos bien, este no es el lugar claramente. La calidad de lo ofrecido es basica. Debe tenerse en cuenta que si se busca comer en paz y tranquilo, es mas lo que se come en un estado de alteracion por lo ruidoso que es. Si se lo calificara como disco el comentario seria otro.\r\nLo mas conveniente seria cenar en otro lado de la zona y luego experimentar a disco."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ViajeroNocturno", 
+      "text": "Un lugar muy completo con un c\u00e1lido ambiente y una comida de primer nivel..el show es bueno y la disco inigualable..s\u00f3lo para gente que disfruta de lo bueno y el intercambio de culturas."
+    }, 
+    {
+      "date": "11 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Maron", 
+      "text": "Excelente lugar."
+    }, 
+    {
+      "date": "5 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cabeale", 
+      "text": "Me parece uno de los mejores bares para todos los extranjeros. \r\nSin embargo, nosotros los Argentinos deber\u00edamos ir a otro lado porque de mi parte no lo recomiendo."
+    }, 
+    {
+      "date": "5 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cabepresidente", 
+      "text": "Excelente Disco Bar."
+    }
+  ]
+}

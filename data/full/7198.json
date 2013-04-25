@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "5 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "loopinga", 
+      "text": "Un cl\u00e1sico platense en constante descenso. Comimos pastas y estaban pasadas (se las pidi\u00f3 al dente) y pizza, que parec\u00eda hecha de prepizza de supermercado chino. Un desastre.  El ambiente y la vajilla y la \"folleter\u00eda\" muy bonitos, pero la comida muy mala. Ah, la atenci\u00f3n p\u00e9sima, pero por falta de personal, no por mala voluntad de la moza que ten\u00eda que atender m\u00e1s de 10 mesas. Ni se les ocurra cenar all\u00ed. Es solo para un cafecito a la tarde nada m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LEPIERRE", 
+      "text": "Hemos ido en varias ocasiones,a \"La Trattoria\" de Centenario y 505, con mi mujer solos y hace poco fuimos en familia con los chicos,mesa para 10 domingo al mediodia,atencion rapida,correcta,con platos acordes al menu infantil y una carta variada y actual con toques de cocina de autor."
+    }, 
+    {
+      "date": "1 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "die87die", 
+      "text": "Comimos pizza y fue mejor de lo que esperaba y el ambiente me encanta, agradable adentro y afuera y sobre todo comodo. Buena relacion precio/calidad. El servicio medio pelo aunque el pedido sali\u00f3 rapid\u00edsimo. Para ir de noche entre-semana bien tranquilos."
+    }, 
+    {
+      "date": "9 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JA", 
+      "text": "La comida es bastante buena pero el servicio lento y desordenado. Se demoraron mucho en traernos la comida, tanto que la moza nos dijo que la habia reclamado y era que se habian quedado sin milanesas. Medio raro, un mediodia y feriado, pues entonces a la noche no quedaria ni agua. Si no hay otras opciones es aceptable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablo.balbis", 
+      "text": "La lasagna de jamon y queso a la bolognesa es realmente buena."
+    }
+  ]
+}

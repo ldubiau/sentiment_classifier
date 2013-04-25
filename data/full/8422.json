@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "27 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pirilo74", 
+      "text": "la comida no estaba buena, la atencion tampoco."
+    }, 
+    {
+      "date": "13 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar con comida car\u00edsima y olvidable. Ped\u00ed una suprema con colch\u00f3n de espinacas y papas noisette, que no estaba buena;  las espinacas no ten\u00edan sabor y parec\u00edan reci\u00e9n sacadas de un paquete de vegetales congelados. Los platos del resto de los integrantes de la mesa no estuvieron mucho mejor.  S\u00f3lo rescatable la presentaci\u00f3n y la abundancia de los mismos,  pero no fue suficiente.como  para hacer de este restaurante un lugar para recomendar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MAPA1", 
+      "text": "El lugar lindo, aire acondicionado, la atencion del mozo muy buena rapidez en traer lo solicitado, comimos pizza y algunas ensaladas, el servicio de mesa si bien me parecio un poco caro $ 7,00 x persona trajo algunas cositas para picar y cuando le solicitamos mas trajo sin inconvenientes, la comida es buena bien hecha tanto las ensaladas como la piza, fugazatta y fainas"
+    }
+  ]
+}

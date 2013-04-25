@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "12 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chonio", 
+      "text": "Muy buena experiencia.  Fui con mi esposa y mis dos hijos adolecentes.  Pasamos un hermoso dia.  Intenso en cuanto al sentido del lugar.  Respecto del restaurante, comimos muy bien. Tanto las pastas como el cerdo y el pollo muy bien preparados y abundantes.  Los postres mejor a\u00f9n.  Lo mejor de todo, la atenci\u00f2n..  Lo recomiendo.   Personalmente vuelvo."
+    }, 
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "parihuela", 
+      "text": "El lugar es muy lindo y el concepto est\u00e1 bueno. La bondiola fue de otro mundo y el conejo tambi\u00e9n estaba buen\u00edsimo. Las opciones vegetarianas (pastas y ensalada) dejaban un poco que desear - demasiadas simples, sin nada de condimento. Lo recomiendo!"
+    }, 
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ghofnug", 
+      "text": "Es la tercera vez que voy y es impresionante como cayo la calidad, el sabor y la variedad de las entradas que eran muy buenas. Me acuerdo haber comido una bondiola que se deshacia en la boca, ahora esta seca y sin sabor. Esta muy lleno de gente, espero que eso no los haga pensar que esta todo bien. Hay que trabajar mucho en la calidad para volver a lo que era. El lugar es muy lindo. El servicio simpatico, pero si no mejora no vuelvo mas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gomarci", 
+      "text": "Fue una experiencia maravillosa, para mi, mi marido, mi madre y mi ni\u00f1a. El sitio inmenso, era un d\u00eda gris y as\u00ed y todo fue fant\u00e1stico. La comida excelente, buenisima la presentaci\u00f3n, los camareros que nos tocaron todos adolescentes super bien preparados y la causa por la que uno va desde capital pagando bastante dinero en peajes vale la pena"
+    }
+  ]
+}

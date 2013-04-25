@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "12 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "ManuelaDiaz", 
+      "text": "Muy buenas las empanadas. El lugar es bien chiquito, recomiendo comer en las mesas de la vereda a la noche, cuando no pasa casi nadie por ah\u00ed."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Grace67", 
+      "text": "Exelente lugar, c\u00e1lido y de buena atenci\u00f3n con las mejores empanadas que he probado."
+    }
+  ]
+}

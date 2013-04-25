@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "12 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "brasas", 
+      "text": "Seg\u00fan parece, el lugar habr\u00eda cambiado de due\u00f1os. Hace 10 a\u00f1os era mucho mejor. Pareciera que desde entonces no han hecho ninguna inversi\u00f3n en el ambiente, deber\u00edan hacerlo porque clientela no le falta al lugar. La comida ha empeorado mucho, las empanadas est\u00e1n igual que siempre y es lo \u00fanico que merece aprobaci\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "narcisadany", 
+      "text": "Lugar tranquilo, se come bien; lo ideal es pedir la promoci\u00f3n del men\u00fa del d\u00eda, que siempre hay dos opciones e incluye bebida, caf\u00e9 y a veces postre, lo cual lo hace muy econ\u00f3mico."
+    }, 
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mllyclrk", 
+      "text": "Su servicio de delivery es super rapido y la pizza es buena.  Su numero ha cambiado- es 1551 en vez de 1441."
+    }, 
+    {
+      "date": "22 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ganzola", 
+      "text": "Ideal para ir comer r\u00e1pido al medio d\u00eda. No conviene salirse del men\u00fa del d\u00eda porque sino el precio suve much\u00edsimo. Las porciones son abundantes y te atienden muy bien y r\u00e1pido. Atienden mesas muy grandes de mucha gente sin problemas. Lo recomiendo."
+    }, 
+    {
+      "date": "20 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "BCGS", 
+      "text": "Buena opcion para el mediodia. Las opciones cambian todos los dias. Buena atencion de casi todos los mozos. No es una maravilla, pero como lugar para almorzar con menu ejecutivo, cumple su rol."
+    }, 
+    {
+      "date": "13 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "boby", 
+      "text": "La comida estaba buena, es \u00fatil al mediodia, ya que es r\u00e1pido."
+    }, 
+    {
+      "date": "20 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jill", 
+      "text": "Muy bien atendidos. Muy buena onda. Nos gusta mucho ir, porque siempre nos reciben c\u00e1lidamente."
+    }, 
+    {
+      "date": "19 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "osvaldo.", 
+      "text": "Mucho ruido en el sal\u00f3n. \r\nRespecto a la comida, la porci\u00f3n es m\u00e1s chica que antes. \u00bfPor qu\u00e9?\r\nA veces viene fr\u00eda y no deber\u00eda pasar."
+    }, 
+    {
+      "date": "16 Jul 2004", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Foier", 
+      "text": "mucho bullicio"
+    }, 
+    {
+      "date": "14 Jun 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "steve", 
+      "text": "Ideal para el mediod\u00eda, r\u00e1pido y de buena calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "FlorDT", 
+      "text": "El pur\u00e9 de pap\u00e1s es el mejor que conoc\u00ed. Ac\u00e1 en mi trabajo lo pedimos siempre, aunque tengamos comida ya. Adem\u00e1s con mi trabajo hicieron un convenio y hay descuento."
+    }
+  ]
+}

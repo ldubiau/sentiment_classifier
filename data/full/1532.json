@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "9 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "PiaDamico", 
+      "text": "Llam\u00e9 por delivery por los comentarios de la gu\u00eda y realmente la pizza me pareci\u00f3 bastante mala. No la recomiendo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Laruch", 
+      "text": "Excelentes empanadas! Imperdible la de carne, canastitas muy ricas y variadas. Pizza muy rica. Atenci\u00f3n muy amable. Muy Recomendable."
+    }, 
+    {
+      "date": "26 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "melinita", 
+      "text": "la mejor pizza a la piedra que comi, las empanadas tambien muy buenas, recomiendo la de roquefort y jamon y las que son tipo canastitas (imperdible la de palmitos)el delivery tarda pero vale la pena esperar."
+    }, 
+    {
+      "date": "29 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "SebKo", 
+      "text": "Uno de los mejores lugares de la Capital para comer pizza y empanadas. La relaci\u00f3n precio - calidad es muy despareja porque se come mucho mejor de lo que se paga. Quiz\u00e1s deben mejorar e informatizar su atenci\u00f3n telef\u00f3nica para que sea m\u00e1s r\u00e1pida. Siempre ped\u00ed delivery y llega en menos de 40 minutos. Recomiendo la empanada de carne, huevo y aceitunas, excelente!"
+    }, 
+    {
+      "date": "24 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dpmolina", 
+      "text": "Es la t\u00edpica pizzar\u00eda de barrio, exclusivamente para delivery, (ya que no cuenta con mesas) que uno desea que no se vallan nunca del \u00e9l. La Pizza es EX-CE-LEN-TE, ni hablar de sus panes de pizza, un manjar. Precio acorde. Para incorporarla como tradicion familiar."
+    }
+  ]
+}

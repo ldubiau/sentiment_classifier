@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "4 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Silvina87", 
+      "text": "Porciones GRANDES.\r\nLas milanesas y hamburguesas altamente recomendadas. Las papas fritas son feas, gigantes y super aceitosas.\r\nRecomiendo pedir delivery, comer ahi por ahi de paso nomas. Es barato"
+    }, 
+    {
+      "date": "21 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "La pizza es solo buena. Pedimos pizza de espinaca con salsa blanca, y nos trajeron de acelga. La pizza de palmitos no es muy abundante. Si bien es rica no es para descorchar de alegria. La atencion muy buena, mozo de oficio, el ambiente muy simple y escueto. La relacion precio calidad es equilibrada, precio razonable para la oferta."
+    }, 
+    {
+      "date": "10 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "enmq", 
+      "text": "las mejores empanadas del barrio"
+    }
+  ]
+}

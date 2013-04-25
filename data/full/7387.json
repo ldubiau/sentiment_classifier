@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "6 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "fedebocata", 
+      "text": "la comida la trajeron fria, el servicio del mozo basico ni te habla, no l orecomiendo"
+    }, 
+    {
+      "date": "8 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "maie", 
+      "text": "No lo recomiendo para nada. Pedi una parrillada y la carne era sosa y de mala calidad... ademas carisimo. No volver\u00e9."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Vascorojo", 
+      "text": "Un bodeg\u00f3n sin mayores pretensiones que servir comida abundante frente al r\u00edo en Tigre, para mayores exigencias abstenerse. Tiene las principales tarjetas."
+    }
+  ]
+}

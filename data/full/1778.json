@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "10 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FrankBlack", 
+      "text": "S\u00f3lo utilizo el delivery, ya que pido desde el trabajo, as\u00ed que no conozco el ambiente. Pero el servicio, tanto telef\u00f3nico como el delivery, es muy bueno; llegan en seguida y la comida es muy buena.\r\nPor ejemplo: el desayuno submarino con tostadas con manteca y mermelada, cuesta cinco pesos. Es enorme el submarino y viene en un vaso t\u00e9rmico y las tostadas est\u00e1n reci\u00e9n hechas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Piper", 
+      "text": "Un lugar peque\u00f1o, pero agradable. Atendido por el due\u00f1o."
+    }
+  ]
+}

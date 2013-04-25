@@ -1,0 +1,86 @@
+{
+  "malos": [
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Nachos07", 
+      "text": "El lugar es muy lindo. La comida no es buena solo vale la pena la cerveza tirada"
+    }, 
+    {
+      "date": "4 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "roxpab", 
+      "text": "muy caro para la calidad de servicio y comida que se ofrece."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Hermoso lugar para  comer tablas de fiambres, tapas y sabrosos platos de cocina, disfrutando  de buenas cervezas  Muy buena atenci\u00f3n y precios s\u00faper eson\u00f3micos. Por la noche se habilitan las mesas del parque, un placer."
+    }, 
+    {
+      "date": "6 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "damianoliva", 
+      "text": "El ambiente es enorme con capacidad para mucha gente lo que provoca demasiado ruido - La distancia entre mesas es muy corta - El servicio de meseros es regular, les falta experiencia, simpat\u00eda y calidad de atenci\u00f3n - Lo \u00fanico que se puede beber es gaseosa o cerveza quilmes la cual trajeron natural en lugar de fr\u00eda - Los precios de la comida son extremadamente caros siendo que las porciones son medianas a chicas y se encuentran retirados de Quilmes Centro - Si uno cena en las mesas de afuera no hay tanto ruido y el bosque es hermoso"
+    }, 
+    {
+      "date": "24 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Maureen", 
+      "text": "Malisima la atencion. los camareros parecen todos principiantes, estuve como 25 minutos esperando que se acercara alguien a tomarnos el pedido. la cerveza es barata pero la comida excesivamente cara, solo da para ir y comer una pizza o una picada."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "\"El lugar\" para tomar cerveza tirada. Atenci\u00f3n amable en un lugar hermoso rodeado del parque que se puede disfrutar tanto de d\u00eda como de noche. Tapas, tablas de quesos y fiambres, tambi\u00e9n de la cocina alemana, platos tradicionales y de parrilla. Los precios de la cerveza tirada, incre\u00edblemente econ\u00f3micos! La carta de vinos es muy pobre. Pero tiene su explicaci\u00f3n;  qu\u00e9 se supone que todos desear\u00edan  tomar en El parque de la Cervecer\u00eda de Quilmes??"
+    }, 
+    {
+      "date": "11 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Veronicaa", 
+      "text": "El lugar est\u00e1 muy lindo luego de algunas redecoraciones. La comida es rica y abundante, aunque la presentaci\u00f3n deber\u00eda ser mejor. La cerveza tirada, excelente. La atenci\u00f3n fue r\u00e1pida y cordial, es un ambiente ideal para ir en familia o con amigos a cualquier hora del d\u00eda. Es para destacar el parque que rodea el restaurante, realmente bellisimo, para disfrutar paseando con la luz del d\u00eda. Fuimos con cup\u00f3n de descuento y cumplieron todo lo prometido."
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mer837", 
+      "text": "ESTO ES EN QUILMES, LEJOS DE CAPITAL PERO REALMENTE PARA PASAR UNA NOCHE MUY DIVERTIDA,HAY UNAS PICADAS MUY BUENAS, Y LO FUERTE ES LA CERVEZA.EL SHOW ES EXELENTE."
+    }
+  ]
+}

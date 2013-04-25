@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "27 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Fraguita", 
+      "text": "Ya no se llama Odyssey.Las fotos no se corresponden con la realidad.No s\u00e9 si habr\u00e1 sido bueno alguna vez. Ahora no."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Sabi", 
+      "text": "Ambiente agradable y c\u00e1lido, decoraci\u00f3n modernosa; me gust\u00f3. La camarera conoc\u00eda poco de los platos pero fue muy voluntariosa y atenta. No hay relaci\u00f3n justa entre el precio y la comida, el primero caro y la comida por dem\u00e1s escasa. Se com\u00eda y estaba rica pero me di\u00f3 verg\u00fcenza ajena que, encima de ser los \u00fanicos en el lugar adem\u00e1s del due\u00f1o con sus amigos, nos sirvieran una diminuta presa de pollo y contadas papas fritas. Sin palabras en cuanto a eso, opt\u00e9 por reirme y comprarme despu\u00e9s un alfajor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "karo_cvg", 
+      "text": "Muy buen ambiente, buena atenci\u00f3n, me pareci\u00f3 muy buena la decoraci\u00f3n moderna, la comida excelente y sobre todo la muy buena onda que hab\u00eda."
+    }, 
+    {
+      "date": "23 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "galk", 
+      "text": "Muy buen ambiente y atenci\u00f3n. \r\nExcelente lugar para el verano por el aire acondicionado. \r\nMuy limpios los ba\u00f1os."
+    }, 
+    {
+      "date": "3 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gpilars", 
+      "text": "Ambiente europeo moderno de vanguardia.\r\nComida \u00f3ptima y bien presentada, muy buena atenci\u00f3n.\r\nTiene distintos sectores tratados desde el dise\u00f1o y la arquitectura."
+    }
+  ]
+}

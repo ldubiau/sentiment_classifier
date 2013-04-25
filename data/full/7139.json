@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "claude66", 
+      "text": "El lugar esta decorado en forma descente pero es mala la organizacion solo tienen 2 mozos, y tuvieron un problema tecnico con el posnet y no se podia abonar con tarjeta, habia un anuncio en la puerta pero me fui defraudado del lugar!!! deberian mejorar la parrillada la sirven en bandeja y no en parrillas individuales!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fklite", 
+      "text": "A mi me pas\u00f3 lo mismo que comenta el otro usuario: hab\u00eda dos mozos y no alcanzaban a atender todo el sal\u00f3n, que estaba bastante lleno. El mozo que nos atendi\u00f3 puso voluntad e hizo lo que pudo (dijo que hab\u00eda faltado el otro mozo; justo un s\u00e1bado a la noche, que mala suerte!). La comida aceptable, pero con tan mal servicio no la pude disfrutar, por ejemplo lleg\u00f3 la comida antes que el vino. Yo pensaba darles otra oportunidad, pero evidentemente hay que ver que haya por lo menos tres mozos."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ElTano_80", 
+      "text": "La comida muy basica, chato, lejos de los sabores autenticos mexicanos. Servicio realmente desatento. No lo recomiendo para los amantes de la gastronomia mexicana."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Hoto", 
+      "text": "Si buscan verdadera comida mexicana vayan al Vato. Buenos platos, ambiente divertido, realmente pocos lugares logran el sabor de la gastronomia azteca."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tincho690", 
+      "text": "Fuimos en pareja y la verdad es que quedamos sumamente conformes. Excelente atencion y vocacion de servicio, y unas fajitas gloriosas.\r\nEs un gusto ver que hay ofertas como esta en Hurlingham.\r\n\r\nSuper recomendado."
+    }, 
+    {
+      "date": "20 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pekenia", 
+      "text": "Vivimos por la zona, la primera vez entramos de casualidad y nos quedamos.  Nos gusto tanto que ayer regresamos con amigos y pensamos volver.  Muy buena la comida, atencion amable y precios buenos."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Martiniaddict", 
+      "text": "Mi lugar favorito para comida mexicano es sin duda  EL VATO. Los nachos con salsitas picantes, los burritos y demas, espectaculares. Recomendacion: los alambres al pastor, una delicia!"
+    }, 
+    {
+      "date": "11 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sebastardo", 
+      "text": "Al fin un lugar donde hay comida mexicana de verdad donde los picantes vienen incluidos (nada de que son opcionales ni cosas asi)"
+    }
+  ]
+}

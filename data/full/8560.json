@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "13 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jomalen", 
+      "text": "fui,os co n grupon, lindo lugar, comida buena y correcta atencion. Viendo la lista de precios parecen aceptables. Volveremos"
+    }, 
+    {
+      "date": "6 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "koalation", 
+      "text": "lindo lugar para desayunar por la ma\u00c3\u00b1ana antes de partir al trabajo. La atencion es muy cordial y atenta por los mozos. Recomendable para desayunar con precios accesibles."
+    }, 
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Capis85", 
+      "text": "Precios acordes, buen menu ejecutivo y los \u00f1oquis caseros son muy ricos, vivo cerca y cada tanto voy con amigos o pido delivery. Recomendable, hoy x ejemplo delivery \u00f1oquis para 3 personas, con distintas salsas, gastamos menos de 27$ por persona, recomendable!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JosephM", 
+      "text": "Compre a trav\u00e9s de groupon, nos atendieron super bien, la comida muy rica, el vino muy bueno."
+    }
+  ]
+}

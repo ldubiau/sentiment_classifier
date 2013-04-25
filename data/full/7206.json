@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "26 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Masilvi", 
+      "text": "Para ir con la familia cuando no ten\u00e9s ganas de cocinar. Carta de vinos pobre; bien la carne vacuna; las ensaladas con lo que tengan (una caprese viene con dados de queso en barra!) Abajo es c\u00f3modo; arriba ruidoso."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ricardo10", 
+      "text": "Muy buena comida pero bastante cara, es la continuacion de una parrilla de muchos a\u00f1os situada en nuevo local. porciones abundantes, peor bueno si bajaran los valores seria perfecto."
+    }, 
+    {
+      "date": "4 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Excelente restaurante en La Plata que adem\u00e1s de pescados y mariscos, ofrece una parrilla de donde salen cortes de carne en el exacto punto pedido. Comimos una exquisita provoleta y un ojo de bife ( para compartir) con panceta, morrones y papas fritas que estaba perfecto. Ambiente relajado y prolijo, atenci\u00f3n profesional y buenos precios, tambi\u00e9n en la carta de vinos, hacen que este lugar sea s\u00faper recomoendable."
+    }
+  ]
+}

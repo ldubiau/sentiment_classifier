@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "caramos", 
+      "text": "Un lugar particular, muy grato y excelente atenci\u00f3n. La comida, tambi\u00e9n, muy buena"
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Es un muy bonito lugar, que por su estetica atrae para pasar un momento agradable, excelente la atenci\u00f3n,la comida muy bien presentada,el pescado le faltaba alg\u00fan detalle que mejorase su sabor.En resumen, un poco mas del cocinero y excelente"
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "padrene", 
+      "text": "Es comer en una casa hermosa y atendido de la mejor manera. La comida puede mejorar"
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Rasa", 
+      "text": "Es una hermosa y moderna casa y se disfruta el poder comer en el living o en el comedor. Se nota que Teresa es arquitecta porque ha sabido darle al lugar un encanto especial. La comida es rica pero se nota que no ha llegado aun al nivel que merece el lugar. La atenci\u00f3n es muy buena y vale la pena visitarlo"
+    }, 
+    {
+      "date": "30 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ediclochard", 
+      "text": "La pas\u00e9 muy bien. Es una casa muy linda atendida por sus due\u00f1os. La comida es muy rica, los postres una maravilla, en especial el volc\u00e1n de chocolate con salsa de maracuy\u00e1. Volver\u00eda a ir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Prem", 
+      "text": "Un lugar para comer platos exquisitos, acompa\u00f1ado con un personal atento el cual te hace sentir como en casa desde que pones un pie adentro de ese restorant de ensue\u00f1os.\r\nRecomiendo realizar esta experiencia de sabores, que con mi familia tuvimos el placer de experimentar.\r\nRecomiendo el copet\u00edn, e ir con mucha calma para disfrutar cada segundo las delicias que cocina el cheff."
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sarma", 
+      "text": "Fuimos con un pareja de amigos .Los 4 quedamos encantados von el lugar.Muy c\u00e1lido, la luz justa, la m\u00fasica buen\u00edsima.Y la comida riqu\u00edsima.Los panes caser\u00edsimos!!!!!!!!! un placer.La combinaci\u00f3n de sabores y la especias: UN LLAMADO A LOS SENTIDOS.Muy buena la atenci\u00f3n .Nos sentimos super c\u00f3modos.Volveremos.Muy recomendable"
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martinpelitti", 
+      "text": "Muy rica la comida y muy agradable la casa, realmente uno se siente en una casa ya que no hay tantas mesas amontonadas como en un restaurante com\u00fan.\r\nMe gust\u00f3 la combinaci\u00f3n entre platos tipicamente argentinos y otros m\u00e1s cosmopolitas, en definitiva, recomendable!"
+    }, 
+    {
+      "date": "15 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Postre", 
+      "text": "La verdad que me parecio un lugar muy agradable y moderno, con la particularidad y comodidad de estar como en casa. Buena atencion y variedad de vinos.\r\nLa comida es muy rica, pero lo mas destacable me parecio la Cazuela de Mariscos. Suelo pedir Cazuela a menudo en distintos lugares pero sinceramente pocas veces tan bien servida y completa como en este. Si tienen intenciones de concurrir no duden en pedirla, ahi entenderan por que se los digo."
+    }, 
+    {
+      "date": "15 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sibari", 
+      "text": "Se come muy bien, el menu por pasos lo deja a uno muy satisfecho, la frescura de los ingredientes y la calidez de la atencion suelen ser las principales ventajas de esta \"casa-resto\" por sobre otros restaurantes clasicos. lo recomiendo mucho, no dejen de probar el volcan de chocolate."
+    }
+  ]
+}

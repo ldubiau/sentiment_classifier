@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "23 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "dario1234", 
+      "text": "Un desastre la comida y la atenci\u00f3n pat\u00e9tica. Molesta e incapaz. Una verguenza a pesar de ir con gente habitue y amiga de los due\u00f1os."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "roox", 
+      "text": "fui con mi pareja una noche y cenamos muy bien . Los platos son abundantes y en su punto justo. \r\nLa carta de vino es algo limitada pero se puede elegir algo bueno.  \r\nVolveremos!"
+    }, 
+    {
+      "date": "27 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Omedeiro", 
+      "text": "Siempre que vamos, nos atienden muy bien, el ambiente de funes es genial, los platos tiene relacion precio/calidad.\r\nEs un lugar para ir seguido porque no gastan tanto y la pasan muy bien, ya que despues de la cena te podes quedar a tomar algo. La barra es muy buena!!"
+    }, 
+    {
+      "date": "19 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "pmpodhorzer", 
+      "text": "Pedi un menu de Sushi combinado con salmon.  El sushi fue bastante correcto (fresco) y fue presentado sobre una piedra grande negra y dos piedras-tablas para comer.  El ambiente es muy bueno para citas romanticas o grupos de amigas (hay mesas grandes circulares y mesas chicas cuadradas).  No habia gingseng, pero si wasabi y soja.  Siendo que estamos lejos de Belgrano o Palermo, una opcion mas que aceptable."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Lulimox", 
+      "text": "El sabado espere una hora y cuarto por un sandwich de rucula y jamon crudo. Las mozas atienden mal, no estan preparados para grandes pedidos de comida. El aire acondicionado esta a full y si le pedis que lo bajen ni bola. Despues de las 12 te suben la musica que ni podes hablar. Un horror."
+    }, 
+    {
+      "date": "25 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Furbolg", 
+      "text": "Con una excelente relacion calidad/precio, un ambiente muy agradable (ya sea por la tranquilidad de la cena o por la movida del bar) y un servicio muy ameno, solicito y cordial, Funes es una excelente opci\u00f3n en la noche del Oeste, m\u00e1s precisamente Ramos Mej\u00eda. \r\nNo dejen de visitarlo."
+    }, 
+    {
+      "date": "1 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "melquiades", 
+      "text": "La atenci\u00f3n no est\u00e1 mal, pero podr\u00eda mejorar. Muy buena relaci\u00f3n calidad/precio."
+    }, 
+    {
+      "date": "14 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "barbylo", 
+      "text": "Es muy recomendable, quiz\u00e1 lo que le falte es variedad de postres y mayor comodidad en las mesas, lo dem\u00e1s muy recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gipy", 
+      "text": "el lugar es exelente, voy siempre con mis amigas y nunca nos arrepentimos de volver..la comida..hay que dar gracias al cheff!!! exelente desde que esta isaias funes cambio..y para bien..les recomiendo que vallan es buenisimooo.los precios son muy accesibles y el ambiente es de lo mejor.opino como algunos chicos que la musica aveces esta un poco fuerte pero no cambio el lugar por nada. mucha comodidad.es divino vale la pena ir!!!!!!!"
+    }, 
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gcarreras", 
+      "text": "Excelente comida y excelente atenci\u00f3n!!"
+    }, 
+    {
+      "date": "10 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Merry", 
+      "text": "Me pedi el Sandwich de Salmon, excelente. Los tragos muy bien, casi no se siente el gusto al alcohol. Buen clima para pasarla entre amigos."
+    }
+  ]
+}

@@ -1,0 +1,968 @@
+{
+  "malos": [
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Profeda", 
+      "text": "Com\u00ed un ojo de bife mal cocinado, crudo pese a que lo solicit\u00e9 cocido.\r\nEn lugar de papas fritas bast\u00f3n me trajeron papas fritas parecidas a las Lay's, sin haber sido informado por el mozo, lo que indica una mala atenci\u00f3n por la falta de asesoramiento. Me cobraron $ 239.- sin haber tomado vino ni comer postre. Consejo: vayan a otro lugar !"
+    }, 
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "PPGonz", 
+      "text": "La carne no era muy blanda pero lo peor fueron las papas fritas: estaban medio negras, blandas y aceitosas. Comimos algunas y horas m\u00e1s tarde nos cayeron muy mal. Tuvimos que terminar tomando digestivos."
+    }, 
+    {
+      "date": "8 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "celeste_morocha", 
+      "text": "Demasiada confianza de los mozos, no me gusta el exceso. La comida regular, es una parrilla mas de buenos aires"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "vdychter", 
+      "text": "Ricoo, muy rico!"
+    }, 
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tuquita", 
+      "text": "Fuimos con mi pareja el domingo a la noche. Me gust\u00f3 much\u00edsimo la atenci\u00f3n, el lugar es c\u00e1lido. Las mejores mollejas que prob\u00e9, las com\u00ed aqui, no asi el bife de chorizo que me pareci\u00f3 un poco duro pero muy sabroso. El postre una tarta de manzanas con helado, espectacular!! lo Volveremos obviamente!"
+    }, 
+    {
+      "date": "15 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "S.B.2009", 
+      "text": "bien. quince pesos el cubierto, y tomando gaseosas, ciento sesenta cada uno, con entrada compartida y postre. la carne rica, las papas tambi\u00e9n. el lugar y la atenci\u00f3n bien, pero es mucho para una parrilla de barrio, seg\u00fan mi humilde opini\u00f3n."
+    }, 
+    {
+      "date": "29 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "LuliyGuille", 
+      "text": "Fuimos a cenar en pareja un d\u00eda de semana, quedamos conformes. Los puntos positivos los aportaron los chinchulines que estaban muy bien cocidos y tiernos, el bife de chorizo result\u00f3 delicioso, las guarniciones tambi\u00e9n, en general los productos fueron de buena calidad y asados en su punto. \r\nLos aspectos negativos y a mejorar pasaron por los precios muy altos para una parrilla de barrio. El ambiente demasiado iluminado no result\u00f3 agradable. La carta de vinos tintos tenia muy pocas cepas (todo era malbec y cabernet). Finalmente la atenci\u00f3n del mesero, adecuada."
+    }, 
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elmarce", 
+      "text": "Parrilla con buenas carnes y porciones. La atienden sus due\u00f1os y se nota en la atenci\u00f3n. Un poco alto el precio del cubierto para un restaurante de barrio y presentaci\u00f3n media."
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mapa21", 
+      "text": "la atencion es buena y la comida bien hecha pero sin ser nada especial.\r\nLos precios son ridiculos, comimos 1 morcilla, media porcion de mollejas (nada del otro mundo), media porcion de bife de chorizo, 1 ensalada 1 postre y agua mineral y gastamos $300 entre 2 !!"
+    }, 
+    {
+      "date": "29 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Diegomzu", 
+      "text": "Muy bueno para el mediodia, aunque a veces tardan un poco, pero se come muy bien."
+    }, 
+    {
+      "date": "23 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Nickolete", 
+      "text": "Excelente atencion. Muy buenas achuras. Porciones enormes. El Asado de tira un poco duro. Lo mejor que despues de la panzada, tiene lemonchelo y cafe express. Recomendado 100. El lugar no es lindo, pero no fuimos a buscar eso. Ideal para ir con amigos."
+    }, 
+    {
+      "date": "13 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Buena parrilla con atenci\u00f3n amable y buenos cortes de carne,  aunque la pamplona de lomo no fue tan buena como esperaba.  Ambiente c\u00e1lido, donde se puede pasar un momento distendido.  Bien."
+    }, 
+    {
+      "date": "11 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "miui", 
+      "text": "Muy rica la comida, pero el precio es excesivo. Una papa al plomo $20, una ensalada de rucula $20 mas el agregado de queso $5,80. \r\nEntre dos personas terminamos gastando $400 compartiendo el postre. Definitivamente no es el presupuesto que figura en esta p\u00e1gina."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pratt", 
+      "text": "Se come bien, la carne es buena, vale la pena visitarlo."
+    }, 
+    {
+      "date": "17 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "WilliamTAF", 
+      "text": "Fui con muchas expectativas por el puntaje que se le asignaba en la p\u00e1gina. No encontr\u00e9 el nivel que esperaba. Sobrecargados, los meseros de trabajo, igualmente se las ingenian para permanecer amables. El ambiente es familiar y la carta es amable. Los postres son abundantes como las comidas pero con la ausencia de glamour que promet\u00edan los comentarios. Lo mejor es que te entregan la carne al punto pedido. Lo peor es que manejan los tiempos de la carne medinte los espesores del corte. Si concuerdo; para ser parrilla m\u00e1s que lo habitual."
+    }, 
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mont", 
+      "text": "La carne y la calidad general de la comida es  muy buena, los precios son altos, pero lo que menos me gusto es que el mozo fue muy cargoso, pasado de confianza...creo que sin ese detalle me dar\u00edan mas ganas de volver."
+    }, 
+    {
+      "date": "3 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lualque", 
+      "text": "Se trata de una parrilla peque\u00f1a, estilo uruguayo, con buena carne medida por peso. El ojo de bife era de medio kilo y de buena calidad, pero la relacion calidad-precio no es buena ($69). chorizo y morcilla demasiado caros por lo que eran.Arriba el ambiente es mas agradable que abajo. No creo que vuelva"
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "ALenOleo", 
+      "text": "Escuch\u00e9 buenos comentarios y pas\u00e9 a probar. El servicio y la comida estuvieron muy bien, considerable porci\u00f3n de carne (para compartir), pero la mollejas de coraz\u00f3n claramente se robaron el almuerzo, exquisitas!"
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Portofino", 
+      "text": "Excelente las mollejas y el postre,bueno el asado"
+    }, 
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "roniz", 
+      "text": "Cuando vi que abrieron una parrilla en ese lugar desconfi\u00e9.Luego fui por recomendaciones de la guia y no me defraud\u00f3. Las mollejas fueron excelentes y el resto de la comida y atenci\u00f3n muy buenos. El precio, un poco alto ya que eramos 4 compartimos 2 entradas, 2 platos principales y 1 postre y pagamos 95 por persona con vino incluido (1 Nieto Senetiner)."
+    }, 
+    {
+      "date": "25 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Panchita3", 
+      "text": "Fuimos por la GO y nos desilusion\u00f3. A veces uno tiene mala suerte con la comida. La pamplona no estaba rica, si el bife de chorizo y las otras cosa no vinieron en el punto pedido."
+    }, 
+    {
+      "date": "28 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nolita", 
+      "text": "Compartimos un ojo de bife, muy tierno y a punto.Muy buenas tambien las papas fritas y las verduras grilladas.Porciones para compartir.\r\nEl mozo muy amable, el servicio fue eficiente y correcto.Una parrilla para volver y para recomendar."
+    }, 
+    {
+      "date": "14 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "DailanKifki", 
+      "text": "La comida esta bien, nada mas. El ambiente esta bien nada mas. Pagamos $ 70 x persona comiendo poco y compartiendo. Francamente por lo que comimos no nos podr\u00edan cobrar mas de $ 35 x persona. Sintesis: Precio de 5* para una parrilla de 2*."
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Chongotres", 
+      "text": "Parrilla como muchas otras, con buena carne......que se fue a las nubes"
+    }, 
+    {
+      "date": "11 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mfunes", 
+      "text": "agradable el lugar pero no es gran cosa. buena la carne, pero caro. los mozos un poco pegotes. no volveria."
+    }, 
+    {
+      "date": "4 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Estibi", 
+      "text": "Muy buena la comida, el tama\u00f1o de las porciones y la atencion"
+    }, 
+    {
+      "date": "19 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "gatuno", 
+      "text": "Buena, en general, sin embargo a mi no me parece que est\u00e9 dentro de las 10 mejores parrillas de Gu\u00eda Oleo.\r\nLa atenci\u00f3n es adecuada, aunque, a mi juicio, los mozos se toman un poco m\u00e1s de confianza que la que a  mi me hace sentir c\u00f3modo.\r\nPondr\u00eda un poco m\u00e1s de iluminaci\u00f3n en las mesas retiradas de las ventanas."
+    }, 
+    {
+      "date": "19 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "xisusg", 
+      "text": "Muy buena la calidad de la carne y el punto de cocci\u00f3n de las mismas. Porciones generosas (para compartir). Servicio muy cordial y atento. El postre del lugar no es gran cosa. El ambiente es bien luminoso y limpio. Podr\u00edan cambiar las sillas de arriba que desentonan con el resto del lugar. Para comer muy bien y pasar un buen momento."
+    }, 
+    {
+      "date": "16 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "Excelente la atenci\u00f3n de los mozos, muy amables. El ambiente es bueno y la comida muy buena, sobre todo la pamplona de lomo!! Lo \u00fanico para criticar de la comida fueron las papas fritas que parec\u00edan fritas con aceite reutilizado. Por el n\u00famero de comensales y por pago en efectivo nos hicieron un descuento. Buen precio."
+    }, 
+    {
+      "date": "12 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "losta", 
+      "text": "Es la segunda vez que iba. esta vez lleve a mi familia que en cuestion de carnes es bastante exigente. todo salio bien. volveremos. el postre marucha de origen argelino demasiado dulce a mi gusto. quienes te atienden saben la calidad de lo que estan vendiendo. sigan asi"
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bapast", 
+      "text": "Muy buen lugar, la comida abundante y super fresca, el chulet\u00f3n es algo que nunca prob\u00e9 en otra parrilla...muy original. Lo \u00fanico que cambiar\u00eda es un poco la ambientaci\u00f3n que es muy de mediod\u00eda.\r\nMuy redcomendable!"
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elverde", 
+      "text": "Fui por los comentarios de la lista, pero a mi parecer son un poco exagerados. La ambientaci\u00f3n y la atenci\u00f3n son normales para una parrilla de este valor, lo que yo definir\u00eda como s\u00f3lo buenos. En lo que respecta a los platos, las mollejas y el ojo de bife resultaron excelentes, el error fue pedir postre, la copa de frutos rojos se debe traducir como cerezas de lata con helado, realmente malo, lo que hace un promedio para la comida de s\u00f3lo aceptable."
+    }, 
+    {
+      "date": "8 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jurguen_79", 
+      "text": "Excelente el servicio, que lindo ir a una parrilla y tener ese tipo de servicio, muy tradicional pero te saludan todos al momento de entrar y al de salir, realmente algo que no me pasaba hace mucho tiempo. Excelente, gracias por tan buena experiencia, volvere!!!!"
+    }, 
+    {
+      "date": "7 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Oscarlitos", 
+      "text": "Fui al mediodia y comi el \u00aamenu ejecutivo\u00aa EXCELENTE, hay para elegir varias opciones, yo me incline por: empanada de carne, riquisima, entra\u00f1a con papas fritas, muy buena carne y papas bien hechas, y de postre budin de pan para golosos.\r\nVolvere a la noche, ya que el lugar, la atencion y los precios son altamente RECOMENDABLES."
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sarica", 
+      "text": "Fui por los comentarios, pero el lugar me decepcion\u00f2, la comida, escasamente buena, y el trato del mozo, mas que buena onda como dicen todos los demas comentareios, me pareci\u00f2 desubicado y con exceso de confianza ( una falta de respeto ), lo que sin duda arruin\u00f2 mi cena.\r\nNo hace falta que aclare que no volver\u00e8.-"
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "soldeacuario", 
+      "text": "Muy buena parrilla, los precios son acordes, el servicio es mu bueno y la carne espectacular.Sabros\u00edsima la proleta,no se la pierdan!!!!"
+    }, 
+    {
+      "date": "29 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rortola", 
+      "text": "Todo muy bueno, el problema las tarjetas, que no funcionaban. Excepto eso, es un lugar para tener en cuenta  y ojala mantengan la calidad del servicio y mercaderia. Recien abierto y todo bien puesto! Otra faltante el estacionamiento."
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "smoje", 
+      "text": "Comimos asado especial y papas fritas. La carne estaba excelente y las papas fritas impecables. Buenas porciones y buena relaci\u00f3n precio-producto. Un detalle, como no ten\u00edan la tarjeta con la que yo quer\u00eda pagar, la persona q me atendi\u00f3, Jorge, me dijo que vuelva otro d\u00eda a pagar. Se han ganado un cliente mas!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "galo2006", 
+      "text": "Fui a Marucha por las calificaciones que lei en Oleo.\r\nMuy buena calidad de carne. Muy buena atencion.\r\nEl lugar es sencillo y comodo, no es ruidoso.\r\nMuy buen precio en relacion a la calidad. $ 105 por persona.\r\nVolveremos"
+    }, 
+    {
+      "date": "5 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Choula", 
+      "text": "El lugar es normal, los precios un poquto altos (sobre todo el cubierto) pero la atenci\u00f3n es genial y la comida es excelente,\r\nUno de los pocos lugares donde todav\u00eda vale la pena ir a comer parrilla.\r\nSuper recomendable"
+    }, 
+    {
+      "date": "22 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariuccia", 
+      "text": "Muy buena la atenci\u00f3n. Excelente la comida, especialmente el asado de tira y el bife de chorizo"
+    }, 
+    {
+      "date": "18 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pilita16", 
+      "text": "Ca\u00edmos en esta parrilla de casualidad y nos llevamos una grata sorpresa. Hace rato que no iba a un restaurante donde sirvieran carne de calidad. Comimos el bife de chorizo y la pamplona de lomo y quedamos m\u00e1s que satisfechos. La atenci\u00f3n es excelente, en ning\u00fan momento se descuidaron y son muy amables. En mi opini\u00f3n, vale cada peso, la calidad hay que pagarla, m\u00e1s teniendo en cuenta que cada vez hay menos parrillas realmente buenas. Seguro vuelvo y se lo recomiendo  a todo aquel que busque excelente calidad de parrilla y buena atenci\u00f3n en un ambiente sencillo pero acogedor."
+    }, 
+    {
+      "date": "5 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mlaurad39", 
+      "text": "Es un lugar mas que c\u00e1lido donde la buena atenci\u00f3n se junta con las mejores exquisiteces asadas!"
+    }, 
+    {
+      "date": "29 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chmarquez", 
+      "text": "Muy buena parrilla en el barrio de Nu\u00f1ez. Una atenci\u00f3n esmerada, carne de primera calidad y cocciones correctas para cada corte pedido. Se destacan las mollejas que son de las mejores que he probado. El lugar es c\u00f3modo y el servicio atento sin invadir. Lo recomiendo para almuerzos o cenas en familia o en pareja."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cococorralesarg", 
+      "text": "Soy habitue de este restaurant, y sinceramente no me voy a cansar de ir ya que la atenci\u00f3n y comida son realmente excelentes! HEADMuy recomendable! Atendido por sus propios due\u00c3\u00b1os.HEADSaludos"
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Robecar", 
+      "text": "Desde que la conoc\u00ed en agosto de 2010, volv\u00ed casi una vez por mes con los amigos y el viernes por la noche fui con mi mujer (le encant\u00f3 el ojo de bife que comi\u00f3). La parrilla siempre bien y fiel a s\u00ed misma: carne inmejorable, excelentemente asada y muy bien servida. Sin duda, una de las mejores parrillas de Buenos Aires, que solo tendr\u00eda que diversificar un poco m\u00e1s la carta de vinos."
+    }, 
+    {
+      "date": "20 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "WilliamTAF", 
+      "text": "Atenci\u00f3n es una parrilla, con ambiente de casa de familia, pero solo parrilla. Toque uruguayo sin sobrecargar le da un plus de calidad. La carta de vinos no es interesante. Si los postres que se sirven abundantes acompa\u00f1ando apropiadamente. Destaca la atenci\u00f3n, esmerada y c\u00e1lida sin sobrecarga. \u00danico detalle a tener en cuenta: ir con tiempo, amigos y ganas de charlar, la comida se demora y su calidad es porque evidentemente no es carne marcada y lleva su tiempo esperar por los platos. Todos los platos en nuestra mesa tuvieron excelente nivel. Mucho mejor mi segunda experiencia ahora nocturna."
+    }, 
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lordtiesto", 
+      "text": "Muy grata sorpresa! La calidad de la comida es superlativa!  Carne tierna y a punto, porciones grandes como para compartir, ensaladas enormes y ambiente sencillo y agradable. La atenci\u00f3n fue incre\u00edble, muy atentos todos los mozos y excelentes recomendaciones. Volver\u00eda con todo gusto y obvio que lo voy a recomendar."
+    }, 
+    {
+      "date": "21 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LAGARTOM", 
+      "text": "- fuimos un mediod\u00eda y pedimos el men\u00fa ejecutivo sin muchas esperanzas.- la primera impresi\u00f3n es la pulcritud, la segunda la simpatia upersonal  y de ah\u00ed en mas.. los entremeses, la entrada a elecci\u00f3n  (buen\u00edsimo el chorizo  y la empanada) el bife tierno y  a punto , el postre, en todo  perfecto  .-"
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "caramos", 
+      "text": "Como otras veces que hemos ido, excelente atenci\u00f3n y parrilla. Porciones generosas"
+    }, 
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "capi2007", 
+      "text": "Fuimos a comer con un grupo de amigos y realmente la pasamos muy bien ,las mollejas espectaculares , los chinchulines crocantes y el chorizo sin grasa, tambien compartimos ojo de bife y unas costillas de lomo que en ningun otro lugar habia comido.Lo recomiendo ciento por ciento."
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Agu81", 
+      "text": "Se come la mejor achura de Buenos Aires, el asado es sarbosisimo y la atencion de los mozos es genial"
+    }, 
+    {
+      "date": "1 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luc1966ero", 
+      "text": "Espectacular tira de asado, muy generosa y hecha como se pidi\u00f3. Las papas fritas estaban bien. La atenci\u00f3n es excelente, medida y atenta. Un lindo ambiente, tranquilo."
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marcelocir", 
+      "text": "Exelente carne, exelente servivio, todo tal como lo pedimos, buenas sugerencias."
+    }, 
+    {
+      "date": "17 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Pavel", 
+      "text": "Es una parrilla peque\u00f1a, en un lugar tranquilo de Nu\u00f1ez donde se puede ir con el auto sin problema.   Las mollejas muy buenas, el ojo de bife era de medio kilo y de excelente calidad, el vac\u00edo tambi\u00e9n y  todo estaba cocinado en su punto exacto.\r\nPero la relacion calidad-precio no es buena ya que caro, por un costo de cubierto similar est\u00e1 \"Aquellos A\u00f1os\" con igual calidad y mejor ambiente.\r\nLa atenci\u00f3n es muy amable y personalizada, pr\u00e1cticamente toda la gente que estaba almorzando cuando yo fui era cliente."
+    }, 
+    {
+      "date": "17 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Celsogian", 
+      "text": "Os propriet\u00e1rios desta Parrila tratam os clientes com muito calor e honestidade o que, na minha opini\u00e3o, reflete diretamente na qualidade de sua EXCELENTE carne e servi\u00e7o. \u00c9 sempre uma enorme satisfa\u00e7\u00e3o regressar 'a Buenos Aires e desfrutar de uma Parrilla como esta! Altamente recomend\u00e1vel!"
+    }, 
+    {
+      "date": "14 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AndresR", 
+      "text": "Vamos muy seguido, a veces solo con mi pareja, otras con amigos.\r\nLos ri\u00f1oncitos y la entra\u00f1a son platos inolvidables; es raro encontrar tan buena calidad y tan buena cocina. Nosotros los pedimos jugosos e incre\u00edblemente asi los traen (lo cual en la entra\u00f1a no es nada f\u00e1cil).\r\nLa atenci\u00f3n es algo de otro mundo, los muchachos son muy gentiles y atentos, sin llegar nunca al punto de ser cargosos.\r\nUna maravilla :)"
+    }, 
+    {
+      "date": "26 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Diegoluis", 
+      "text": "Compartimos una reunion familiar, y fuimos atendidos de manera calida y eficiente por todos los mozos. La comida, sobre todo las carnes son excelentes, tanto la calidad como la cocci\u00f3n."
+    }, 
+    {
+      "date": "2 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pichoncino", 
+      "text": "Fui 2 veces. Muy buena comida con un menu variado y amplia oferta de vinos. La atencion de los mozos es excelente. Es una muy buena opcion para quienes quieran comer bien y cerca de casa."
+    }, 
+    {
+      "date": "24 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mr_K", 
+      "text": "Gran descubrimiento gracias a Gu\u00eda Oleo. Un lugar muy agradable (m\u00e1s para cena con amigos que cita rom\u00e1ntica), un poco escondido en la zona de N\u00fa\u00f1ez. Excelente atenci\u00f3n: descontracturada, distendida y agradable. Y EXCELENTE parrilla!!! El chorizo excelente, y las mollejas de coraz\u00f3n son para el aplauso! Una maravilla. El bife de chorizo en el punto de cocci\u00f3n exacto, muy tierno y super gustoso. Delicioso! Un lugar no solo para volver, sino para recomendar fervientemente. Si quieren comer muy rica carne, hay una nueva parrilla en la ciudad. Espero les vaya muy bien! Volveremos! Y muy pronto!"
+    }, 
+    {
+      "date": "13 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DelBosque", 
+      "text": "Excelente comida y atenci\u00f3n."
+    }, 
+    {
+      "date": "10 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "caramos", 
+      "text": "Una parrilla como pocas en Bs As. Muy buena carne y bien servida."
+    }, 
+    {
+      "date": "8 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Arasunita", 
+      "text": "Espectacular, un ambiente calido y familiar, la comida excelente. La morcilla vasca increible y ni hablar de las mollejas. El postre Marucha es bueno, pero solo si te gusta muuucho las frutos secos. 100 puntos!"
+    }, 
+    {
+      "date": "3 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "el_lindo", 
+      "text": "nunca comi mollejas tan buenas y tan bien hechas como las de marucha y el vacio estaba exelente justo el punto que he pedido y el postre marucha es unico volvere seguro"
+    }, 
+    {
+      "date": "1 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "OJUKA", 
+      "text": "La mejor parrilla de buenos aires, la provoleta nunca comi algo igual y soy experta, el lomo con hueso tiene un sabor unico, la ensalada exquisita y el postre marucha con frutos secos es excelente."
+    }, 
+    {
+      "date": "25 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "george08", 
+      "text": "Sin duda las mejores mollejas de bs.as y el chuleton en el unico lugar . el postre marucha es unico en la argentina , la atencion te sentis como en casa."
+    }, 
+    {
+      "date": "23 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "eitzele", 
+      "text": "Muy buena atencion y excelente calidad de la parrilla"
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "daniel1422", 
+      "text": "para recomendar el mejor asado y las mejores mollejas que he comido fuera de casa\r\nla atencion de primera\r\nvoy a volver sin duda"
+    }, 
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Curitiba", 
+      "text": "Durante cinco dias pudemos desfrutar de um ambiente agrad\u00e1vel, uma comida maravilhosa e de um bom papo. Al\u00e9m de meu filho que deseja voltar a Buenos Aires para rever os amigos da \"Churrasqueira\". Gracias pelo atendimento."
+    }, 
+    {
+      "date": "2 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "JLCK", 
+      "text": "Chorizo, chinchulines, asado del medio, ensalada de hojas verdes !!!"
+    }, 
+    {
+      "date": "19 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gsivori", 
+      "text": "Excelente comida y excelente servicio"
+    }, 
+    {
+      "date": "18 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "danielb", 
+      "text": "Excelente parrilla. Fui varias veces y la carne es de primer\u00edsima. No es frecuente encontrar ese sabor que distingue lo excelente de lo aceptable. Muy buena Atencion."
+    }, 
+    {
+      "date": "15 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Celsogian", 
+      "text": "Por recomenda\u00e7\u00e3o de \u201cGuia\u00f3leo\u201d, foi uma surpresa que me fez recordar o que se comia em Buenos Aires 20 anos atr\u00e1s. Fomos, eu e minha filha, por 4 dias seguidos experimentando v\u00e1rias tipos de carne e \u201csempre\u201d incrivelmente bem servidas, macias e frescas. Desde o p\u00e3o (fresco e quente) at\u00e9 a sobremesa (postre). Aten\u00e7\u00e3o especial dos propriet\u00e1rios SEMPRE presentes! Uma maravilha!!"
+    }, 
+    {
+      "date": "6 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gatochi", 
+      "text": "Excelente calidad y servicio. Desde afuera no parece una gran parrilla pero no se dejen enga\u00f1ar, la calidad del servicio y de las materias primas de primera. El Chulet\u00f3n... algo nunca visto, para compartir y super tierno. super recomendable para ir entre amigos o en familia. Tiene 2 pisos amplios con buena separaci\u00f3n entre mesas. ba\u00f1os impecables. Volver\u00e9 pronto."
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mericris", 
+      "text": "Fui este mediod\u00eca con 5 amigas, pedimos variado, y al ser porciones abundantes probamos un poco de cada cosa.- exquisito todo.- menci\u00f2n especial para las costillas de lomo y la entra\u00f1a: deliciosas.- el lugar es muy pl\u00e0cido y agradable y las mesas est\u00e0n adecuadamente separadas.-  los due\u00f1os, Omar y Jorge, son muy amables, y est\u00e0n detr\u00e0s de cada detalle: una atenci\u00f2n esmerada y distinguida.- el ba\u00f1o de damas, impecable ( una rareza).- volver\u00e8 sin dudar, y lo recomendar\u00e8 a mis amigos sibaritas, pues s\u00e8 que van a quedar encantados.- 10 puntos en todo, inclusive en la relaci\u00f2n calidad-precio.-"
+    }, 
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "PIPERENGIFO", 
+      "text": "Este restaurante hizo que por primera vez me animara a hacer un comentario, a pesar que soy un asiduo visitante de esta pagina.Es muy buenooo,la comida realmente muy sabrosa y abundante,la atenci\u00f3n de primera.Comimos con mi mujer:Pamplona de cerdo Chuleton(impresionante) papa fritas con cebolla gasesoa cerveza de medio lt   postre(levedad) que est\u00e1 delicioso, todo por $189..No es que sea un precio economico, pero la verdad para la calidad de la comida, la atencion, y el buen rato, pienso que es un precio muy justo."
+    }, 
+    {
+      "date": "18 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GABYH30", 
+      "text": "Me encant\u00f3 la comida, la atenci\u00f3n y el ambiente familiar. \r\nDigno de conocer.\r\nRecomendable 100%"
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ricardo666", 
+      "text": "Fuimos basado en los comentarios y la verdad que no nos defraud\u00f3 para nada. La calidad de la comida es excelente, la atenci\u00f3n de los mozos es muy buena, muy atentos en todo momento, procuran crear un ambiente agradable para que uno se sienta como en casa. El lugar es bastante agradable, bien iluminado y confortable. Muy recomendable!!"
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Robecar", 
+      "text": "Fui con unos amigos una noche de jueves, por recomendaci\u00f3n de uno de ellos y sal\u00ed encantado. Todo lo que nos sirvieron fue excelente, tanto el chorizo, como las mollejas y los ri\u00f1ones, mereciendo una menci\u00f3n especial la pamplona de cerdo y el chulet\u00f3n (algo \u00fanico en una parrilla de Buenos Aires, que no debe dejarse de probar), as\u00ed como las papas fritas (simplemente maravillosas). Tiene precios razonables, una carta de vinos corta pero con varias opciones de precios y como la atenci\u00f3n tambi\u00e9n fue muy buena, decidimos con mis amigos volvernos a reunir nuevamente all\u00ed en el pr\u00f3ximo encuentro."
+    }, 
+    {
+      "date": "6 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "perelita", 
+      "text": "Se ve que la experiencia de Jorge y Miguel como mozos de una parrilla famosa y como ex-socios de otra muy buena parrilla fueron necesarias para poder volcarlas ahora en su propio negocio. No hay nada para reprochar, adem\u00e1s son por sobre todas las cosas, muy buena gente. Yo soy fan de la buena comida y la buena atenci\u00f3n, y adem\u00e1s queda en mi barrio, lo cual agrega en mi caso, una comodidad."
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Vitto", 
+      "text": "Que decir... el chorizo sin dudas es de los 3 mejores que prob\u00e9 en Argentina. Las mollejas son perfectas y el asado es inigualable. La atencion alegre y muy rapida. Me quedo corto diciendo que es la mejor opcion en parrila de Belgrano y alrededores."
+    }, 
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Hura", 
+      "text": "muy buena la calidad de la carne,la atencion excelente, buenas porciones, vayan,,,me gusto mucho, solo mejoraria un poco el ambiente, y solos tenian Master,,,"
+    }, 
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rubi", 
+      "text": "Sin dudas la calidad de los productos de super primera linea,realmente se come todo a pedir de boca\r\nla atencion de atenta mirada y con la calidez amigable de Miguel y Jorge .\r\nSin dudas se instalaron no solo en Belgrano -Nu\u00f1ez,sino como referentes de Capital Federal."
+    }, 
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "agusr", 
+      "text": "Excelente materia prima, el ojo de bife una manteca, la molleja se deshace en la boca y el mejor vac\u00edo que com\u00ed hasta ahora. Excelente atenci\u00f3n de parte de  miguel y jorge, muy recomendable todo."
+    }, 
+    {
+      "date": "1 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Savio86", 
+      "text": "La carne es incredibile, la mejor que he entendado en Buenos Aires, la cualidad del servicio es muy alta, y los due\u00f1os hablaron muchos con nosotros italianos! Los precios no son tan alto por la calidad de todo, lo recomiendo! \r\n\r\nUnico punto malo, no me han dicho donde compran la carne!!! AJAJAJA \r\n\r\nOtro punto a favor, no aceptaron VISA y me han dicho que podia pagar proxima vez, asi dado que tenemos efectivos pagamos con este! \r\n\r\nMuchas gracias, volveremos seguramente!"
+    }, 
+    {
+      "date": "31 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Guido4H", 
+      "text": "Cuando quieras la experiencia de comer carne argentina con may\u00fasculas and\u00e1 a Marucha.Las porciones son para compartir definitivamente (el bife de chorizo es de m\u00e1s de medio kilo).Recomiendo la pamplona de cerdo y dejarse lugar para el postre Marucha (no irse sin probarlo). El lugar muy limpio y luminoso y creo que quienes atienden son los due\u00f1os."
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nippur2010", 
+      "text": "SOBRESALIENTE.  Atenci\u00f3n personalizada, ambiente muy bueno y c\u00e1lido. La comida de muy buen nivel; pedimos para dos: empanadas, chorizo, morcilla, chinchulines y mollejas (cantidad y calidad: sobresaliente). Volveremos... ganaron un cliente m\u00e1s..."
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elTanoAlfre", 
+      "text": "Excelente calidad y servicio. Ambiente muy c\u00e1lido.  Atenci\u00f3n impecable. Extremamente limpio y cuidado en cada detalle. Volveremos sin falta. Un lugar para recomendar."
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "anitasoria", 
+      "text": "Excelente el lugar y la comida espectacular, lo que mas me gusto son las mollejas, papas fritas, pamplona, y el postre marucha esquisito, excelente la atencion y mucha limpieza, lo recomiendo tanto para familia como para negocios"
+    }, 
+    {
+      "date": "25 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sirenita_1977", 
+      "text": "Excelente experiencia gastron\u00f3mica para quienes amamos el asado, recomendable 100%. La atenci\u00f3n es de maravilla, la comida deliciosa, y el lugar muy agradable. El precio es razonable en realci\u00f3n a la calidad y cantidad de los platos. Sin duda, volveremos...!"
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lorain", 
+      "text": "me resulto excelente el lugar, la comida de primera, el postre sin comentario para chuparce los dedos.atendido por sus due\u00f1os que le da un servicio especial. no se lo pueden perder voy a volver muchas veces"
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nico75", 
+      "text": "La comida es excelente. Una carne como la que no prob\u00e9 en a\u00f1os. La atenci\u00f3n es un 10, los mozos super atentos a todos los detalles. Todo est\u00e1 muy limpio y ordenado. Recomiendo fuertemente el asado especial. Vamos a volver."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "OJUKA", 
+      "text": "Es la mejor carne que probe y la pamplona es imperdible, recomiendo este lugar obviamente primero por la comida, segundo la calidez del ambiente y tercero por la atenci\u00f3n personalizada de los mozos y de todas las personas del lugar que estan en cada detalle."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "HEYS", 
+      "text": "Me gust\u00f3 mucho el lugar. Muy limpio, la atenci\u00f3n de los mozos es para destacar, atentos a todo.La comida espectacular, la entrada de achuras de una variedad increible. El postre me pareci\u00f3 fabuloso.Y otra cosa para destacar que me fijo mucho siempre a los lugares que voy el toilete, incre\u00edble sinceramente un lugar para recomendar."
+    }, 
+    {
+      "date": "20 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "agustin81", 
+      "text": "Gran parrilla, recomiendo la molleja, se deshace en la boca, el chorizo muy suave y nada pesado, excelente calidad y el ojo de bife una manteca. La atenci\u00f3n de Miguel es muy c\u00e1lida, muy buena opci\u00f3n de parrilla en nu\u00f1ez. Muy recomendable"
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "el_trucho", 
+      "text": "estuvimos con amigos y hemos comido como los dioses las mollejas de corazon no tienen comparacion y lo mejor es la pamplona y la terminamos con el postre de la casa que es espectacular. volveremos seguro"
+    }
+  ]
+}

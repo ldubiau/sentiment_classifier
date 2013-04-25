@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Daquintana", 
+      "text": "Pesima atencion. Despues de esperar 20 minutos a que los mozos o el encargado se dignen a atendernos decidimos retirarnos, el lugar se vino abajo se nota la desidia de todos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jomalen", 
+      "text": "Mejoro mucho, r\u00e1pida atenci\u00f3n, buena comida. opci\u00f3n positiva en Devoto"
+    }, 
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "jomalen", 
+      "text": "Empezo como buena opcion en devoto, iba casi diariamente. la cocina es lentisima, y la calidad y servicio en picada.lastima"
+    }, 
+    {
+      "date": "1 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lailalaila", 
+      "text": "Este restaurante comenz\u00f3 siendo muy bueno el a\u00f1o pasado, pero ahora cambi\u00f3, tanto en la atenci\u00f3n como en la relaci\u00f3n precio-calidad. Ya no lo recomiendo. Demasiada espera para recibir lo que se da."
+    }, 
+    {
+      "date": "12 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jomalen", 
+      "text": "una buena opcion en el barrio de devoto, muy buena atencion, muy buena comida, y precios buenos. Recomendable"
+    }, 
+    {
+      "date": "11 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lailalaila", 
+      "text": "Un lugar de barrio con muy buena atenci\u00f3n. El men\u00fa del d\u00eda, de 32 $ es verdaderamente aconsejable. Lo recomiendo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pianti", 
+      "text": "lo visito a diario para almorzar ya que trabjo relativamente cerca del lugar, mas alla que paso por un par de pizzerias y restaurant antes de kass, es a mi entender bastante superior a sus competidores direcos, se destaca la calidad de la comida, el savor que logran darle a cada plato por mas, la limpieza es muy buena y la atencion es dedicada y familiar, se nota que les gusta la gastronomia por que se ve la dedicacion."
+    }
+  ]
+}

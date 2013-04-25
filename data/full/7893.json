@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "15 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "China33", 
+      "text": "La atencion buena y el ambiente tambien. La calidad de los productos deja mucho que desear. Es una pasteleria comun , sin demasiado sabor, los panes que son caseros sin gusto. Peque\u00f1isimas porciones y sumamente caro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Jugatti", 
+      "text": "Fuimos al Brunch de los domingo y cuenta con 3 men\u00faes de distintos precios. Todos muy completos y con una excelente calidad en la gastronom\u00eda."
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "smi1965", 
+      "text": "Realmente un lugar para recomendar. Un sitio \u00fanico y especial. Me set\u00eda muy a gusto, hacia mucho tiempo que no disfrutaba tanto de una salida. Los Felicito!!!"
+    }
+  ]
+}

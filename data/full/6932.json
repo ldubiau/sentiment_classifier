@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Silvina83", 
+      "text": "Fuimos a la tarde a merendar:Tardaron 45 minutos en atendernos. No limpiaron la mesa, es decir nos sirvieron con la mesa sucia. Pedimos un tostado de pan arabe de jamon cocido y queso y nos lo trajeron todo quemado. Es un lugar muy caro para soportar un servicio malo y una comida de mala calidad."
+    }, 
+    {
+      "date": "28 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Irene10", 
+      "text": "Fui a lamorzar para aprovechar el sol que daba sobre las mesas de la calle Olga Cosettini. Esper\u00e9 20 minutos y cuando me estaba parando para  irme vino el mozo. Ped\u00ed fugazzeta media hora despu\u00e9s me trajeron fugazza, o mejor dicho una prepizza tostada con un poco de cebolla semicruda tirada encima. En resumen, pas\u00e9 mi hora de almuerzo esperando por un pan con cebolla y una gaseosa, todo por el m\u00f3dico precio de $55"
+    }, 
+    {
+      "date": "13 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "tuco2012", 
+      "text": "el lugar es muy lindo pero la pizza comun y es bastante caro, no lo recomiendo"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "usuarioJuan", 
+      "text": "Tardaron demasiado en atendernos.\r\nLes faltan mozos o les sobran mesas.\r\nTienen esos llamadores inalambricos de mozos que me gustan tanto, pero ese dia no funcionaban.\r\nEs uno de esos lugares en donde los mozos te dejan la cuenta y se van, no quieren cobrar.\r\nTuvimos que esperar 10 minutos m\u00e1s para que se nos acercara a pagarle. Al final le pagu\u00e9 en efectivo, si le daba la tarjeta no s\u00e9 cu\u00e1nto iba a demorar en devolv\u00e9rmela. \r\nLos 2 ba\u00f1os son feos, y chicos; aunque estaban limpios.\r\nLas mesas que estan afuera reciben calefacci\u00f3n en epoca de baja temperatura.\r\nLas mesas y sillas de adentro son lindas."
+    }, 
+    {
+      "date": "18 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fschlim", 
+      "text": "Excelente comida como siempre. La ubicacion inmejorable y la atencion bien. No hay como ir un dia de semana tranquilo a la barra a tomar una cerveza y come pizza sin ruidos ni gente molesta."
+    }, 
+    {
+      "date": "8 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "garrote007", 
+      "text": "una pizzeria comun nada del otro mundo \r\nlos precios son propios de madero\r\npero la calidad es como la de cualquier pizzeria de barrio\r\nbastante caro para lo que es"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mccharly", 
+      "text": "Un lugar super tranquilo. Buena atenci\u00f3n. Ambiente inmejorable."
+    }, 
+    {
+      "date": "31 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "monsenoya", 
+      "text": "Fuimos con el cupon de Grupon y la verdad es que comimos muy bien. El dia estaba ideal para la terracita al dique."
+    }
+  ]
+}

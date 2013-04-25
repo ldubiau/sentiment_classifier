@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "12 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Connie_T", 
+      "text": "Fui a cenar ayer y hoy no me puedo levantar de lo mal que me siento. Los platos estaban pasados o recalentados. Ademas es CARISIMO. Excepto por la atenci\u00f3n, el lugar es un desastrex"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Nahueee1", 
+      "text": "Excelente lugar, el ambiente barbaro la m\u00fasica vol\u00famen perfectecto! Los tragos perfectos y la atenci\u00f3n muy buena. Nos sentamos en unos sillones al fondo, lo recomiendo a full!"
+    }, 
+    {
+      "date": "27 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "JoacoW", 
+      "text": "Si vas a tomar algo y te da hambre no te va a decepcionar la comida, esta bastante bien. La barra y la onda de la gente es lo mejor, si bien la ambientacion no es una maravilla siempre explota de gente y eso lo hace divertido."
+    }, 
+    {
+      "date": "17 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lara82", 
+      "text": "Nos atendieron muy bien, el licuado de maracuya estaba riquisimo y el zumo de naranja muy bueno, los nachos fresquitos y los bastoncitos muy buenos. Todo lindo y agradable."
+    }, 
+    {
+      "date": "15 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Lgllybrunette", 
+      "text": "El lugar esta muy bueno, bien decorado buen ambiente. Lo unico fuimos y todo siempre esta reservado, y los mozos q atienden no tienen la menor idea, te hacen sentar y depues t sacan. Conseguimos mesa y las reservadas se llenaron a las 2 horas cuando nos estbamos yendo. La comida nada del otro mundo, pedimos un wok de vegetales no estaba mal pero tampoco merece muchos elogios. La panera es buena. La comida tarda muchisimo, y los mozos con poco oficio."
+    }, 
+    {
+      "date": "19 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "laurigena", 
+      "text": "Excelente barra de tragos variedad y barman."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ILNONO", 
+      "text": "Excelente lugar\r\nLa carta de tragos es increible y la comida esta muy buena\r\nRecomiendo 100%"
+    }, 
+    {
+      "date": "1 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ximenita", 
+      "text": "Es un lugar que esta muy bien puesto, tanto la ubicacion como la ambientacion del lugar. La musica es muy buena, y la comida y el servicio Excelente!!!   Ello Denota el interes de los due\u00f1os. Un lugar muy lindo para ir con amigos."
+    }, 
+    {
+      "date": "12 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Klaus80", 
+      "text": "Ya fu\u00ed un par de veces. Excelente tanto para ir en pareja, con amigos o hasta solo (fenomenos los chicos de la barra). La carta esta buena y variada. Los tragos excelentes. Precio acorde a Ca\u00f1itas (no cobran cubiertos para cenar!). El lugar est\u00e1 muy bien puesto y se nota que se han preocupado por todos los detalles. Vivo por la zona y ya me hice habitu\u00e9. La m\u00fasica esta muy buena."
+    }, 
+    {
+      "date": "23 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CARORB", 
+      "text": "Excelente el lugar. Una propuesta para divertirse. Muy buenos tragos, m\u00fasica, y tapeada.\r\nTiene distintas propuestas seg\u00fan los d\u00edas, algunos dan pizza free, otros tapeo, y solo pag\u00e1s la bebida, me pareci\u00f3 una buena opci\u00f3n para juntarse con amigos."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "18 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "trotamundo", 
+      "text": "Lindo lugar a orillas del r\u00edo. Vista privilegiada, buena atencion y show en vivo con excelentes artistas. \r\nVale la pena en un dia de visita al barrio de la Boca."
+    }, 
+    {
+      "date": "28 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bollicina", 
+      "text": "Quienes conocen la experiencia de una reuni\u00f3n de amigos en una isla o playas de otros pa\u00edses recordar\u00e1n en La Ribera esos lugares. \r\nSobre una vereda amplia, a muy pocos metros de Caminito, en La Boca, frente al antiguo puerto, es el sitio ideal para ir con amigos. \r\nLo tiene todo: intimidad -es el \u00fanico as\u00ed en la zona-, buena m\u00fasica y espect\u00e1culos en vivo. \r\nLo recomiendo para grupos de 30-40 personas, viejos conocidos, por ejemplo, que quieren estar c\u00f3modos -charlando, ri\u00e9ndose o bailando- sin quejas de los vecinos. Destacable la seguridad, ya que Caminito est\u00e1 recomendado a los turistas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "vale1965", 
+      "text": "Muy buena atenci\u00f3n, ambientado perfectamente con nuestras pautas culturales, especial atenci\u00f3n a la tem\u00e1tica tanguera, no hacen esperar, la comida muy buena. Felicitaciones!"
+    }, 
+    {
+      "date": "7 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "efevaldes", 
+      "text": "Excelente el lugar ambiente y atencion. Gracias a los amigos que me invitaron a conocerlo"
+    }
+  ]
+}

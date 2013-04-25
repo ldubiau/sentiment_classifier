@@ -1,0 +1,138 @@
+{
+  "malos": [
+    {
+      "date": "20 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "tuco2012", 
+      "text": "el lugar es muy lindo y barato pero la comida no es para nada buena, la atencion zafa pero no parece de puerto madero"
+    }, 
+    {
+      "date": "14 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "lazorra", 
+      "text": "Es un lugar muy bien ubicado, pero donde la comida es de calidad nivelada hacia abajo. El servicio es normal. Solo amerita visitarlo si al mediod\u00eda est\u00e1s con hambre y los lugares cercanos est\u00e1n llenos."
+    }, 
+    {
+      "date": "5 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "olsenman", 
+      "text": "La comida es mediocre, tandaron 15 minutos en atendernos y la atencion fue pesima, el mozo se quivoco 2 veces el plato elegido ! La comida dejaba mucho que desear, nada del otro mundo.definitivamente no vuelvo mas."
+    }, 
+    {
+      "date": "18 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mcfly", 
+      "text": "El lugar es muy lindo con vista al rio, la zona puerto madero pero la comida no es buena, se nota que nada es de primera calidad. Solo para rescatar que cenaste en puerto madero."
+    }, 
+    {
+      "date": "2 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "BCGS", 
+      "text": "Acorde relacion precio calidad: no es caro y no es bueno. Se esmeran en la atencion (y lo hacen bien), pero eso no oculta el muy bajo nivel de la comida. Claramente intentan cocinar manteniendo los costos lo mas bajo posible."
+    }, 
+    {
+      "date": "14 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "ggrossi", 
+      "text": "La comida es muy precaria. Pero la clave est\u00e1, en lo que no saben. Nos sirvieron ravioles de supermercado. Postres, que en lugar de una hoja de menta, ten\u00edan una hoja de perejil y un don pedro hecho con crema en lugar de helado. Todo fue reclamado y sin obtener ninguna soluci\u00f3n. Una p\u00e9sima experiencia."
+    }, 
+    {
+      "date": "2 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ruchilu", 
+      "text": "No vuelvan, no vayan."
+    }, 
+    {
+      "date": "10 Mar 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida no es buena."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "jesi90", 
+      "text": "EL precio es muy economico para la zona en la que se encuentran, el d\u00eda que fui yo solo hab\u00eda ocupadas 4 mesas (adentro y afuera). El lugar es lindo, la comida es buena, no es de gran calidad pero por ese precio mucho mas no se puede esperar. \r\nOjo al pedir el menu, cada promocion figura en la carta con otro precio, y puede que te pase como a mi que me quisieron cobrar el precio mas caro, despues de una queja reconocieron estar equivocados, y me descontaron los $50 que me habian cobrado de mas.\r\nEn caso de visitarlo REVISAR BIEN LA CUENTA ANTES DE ABONAR."
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "myricris", 
+      "text": "El resultado es muy bueno y pensamos volver a ir.-"
+    }, 
+    {
+      "date": "27 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "efectok", 
+      "text": "Me gust\u00f3, no es lo m\u00e1s lujoso, pero tiene comidas tradicionales y sin tanta pavada o invento. El mozo nos atendi\u00f3 perfectamente y la mesa fue al lado del r\u00edo, excelente. Eso s\u00ed, algunos detalles malos: la mesa se mov\u00eda, pero en general todo bien."
+    }, 
+    {
+      "date": "10 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "dagrafojo", 
+      "text": "En un moderno ambiente en la zona m\u00e1s exclusiva de la ciudad, Xcaret ofrece, sin ostentaci\u00f3n, buenos platos y un ambiente agradable por un precio asombrosamente bajo. \r\nNo se van a arrepentir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "neo", 
+      "text": "El cheff es b\u00e1rbaro y cocina excelente."
+    }
+  ]
+}

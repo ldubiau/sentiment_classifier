@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Xema2005", 
+      "text": "muy bueno el caf\u00e9 realmente, con presencia, no agua sucia como en otros lugares....la atenci\u00f3n super amable....me esperaba otra cosa de la arepa, pero estaba rica igual, parec\u00eda hecho como con polenta. Volver\u00e9 a probar las hamburguesas!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "henri", 
+      "text": "Muy bueno el panini de pollo, pero la hamburguesa...impresionante! Y si no sirven el mejor espresso de Buenos Aires, le pasa raspando. Muy bueno el caf\u00e9 Excelso en granos que venden para llevar, granos premium colombianos tostados por ellos mismos. Me hice fan."
+    }, 
+    {
+      "date": "21 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "diffi", 
+      "text": "EL MEJOR CAFE, excelente atenci\u00f3n y hermoso patio."
+    }
+  ]
+}

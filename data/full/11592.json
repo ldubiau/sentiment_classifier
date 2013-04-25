@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "namafra", 
+      "text": "Buen ambiente mas orientado onda pub que a rest\u00f3; los platos muy bien elaborados,hongos rellenos,solomilo tay y el mousse de chocolate blanco 10 puntos, agradable la de espera en la barra y que te inviten con espumante.por lo que vi las tablas de fiambres son apetecibles ,las voy a porbar y les cuento. gracias."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "augustofvilla", 
+      "text": "Soy de Moreno y voy bastante seguido a Chloe. Es una alternativa a la clasica oferta gastronimica de la zona.\r\nComida gourment, amplica variedad de cervezas y lo mejor es la infraestructura, el techo de bobedilla es muy lindo"
+    }
+  ]
+}

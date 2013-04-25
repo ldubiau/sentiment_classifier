@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "maianm", 
+      "text": "La comida es muy buena, destac\u00e1ndose las pizzas saborizadas y los sandwiches.\r\n En verano, se habilita otra barra en la terraza, que tiene una gran variedad de tragos, cl\u00e1sicos y de autor y una carta de cervezas.\r\n Siempre hay alguna propuesta distinta,  m\u00fasica en vivo, cine, lecturas, o un gran disco sonando. Un ambiente joven, divertido, alternativo.  Sus tres niveles, planta baja, primer piso y terraza, son la alternativa asegurada contra la monoton\u00eda y las salidas convencionales.\r\nUna de las mejores propuestas de la cultura joven porte\u00f1a, imperdible."
+    }, 
+    {
+      "date": "9 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "mbfelix", 
+      "text": "La comida es sencilla y no siempre hay todo lo que est\u00e1 detallado en el men\u00fa. De todas formas, tanto la pizza como los salteados son muy ricos y sumamente econ\u00f3micos. De m\u00e1s est\u00e1 decir que el ambiente (siempre hay m\u00fasica, arte, teatro, algo! sucediendo) es un placer."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carowo3", 
+      "text": "Comida s\u00faper rica, casera, barata. La picada es enorme!\r\nPara aprovechar los recitales, y en verano la terraza!\r\nLugar relajado, sub 35,  no esperes que el mozo se te acerque cada 5 minutos"
+    }, 
+    {
+      "date": "10 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ojitosclaros", 
+      "text": "Hermoso lugar, super c\u00e1lido. Es un ambiente j\u00f3ven, con onda y la atenci\u00f3n es realmente muy buena. La pizza es casera, excelente. Simpre ten\u00e9s alg\u00fan espect\u00e1culo que acompa\u00f1a la velada para pasar una noche impecable. Super recomendable!"
+    }, 
+    {
+      "date": "7 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "peraltagore", 
+      "text": "Matienzo tiene un ambiente muy joven y nocturno, pero amigable. Da para ir solo y conocer gente ah\u00ed. M\u00e1s all\u00e1 del bar, siempre hay algo: bandas, cine, teatro, lecturas, festivales. La comida es simple y el men\u00fa es acotado pero la comida es muy buena, y el precio es inmejorable. La atenci\u00f3n suma, en la barra o en las mesas. Vinos, buenos tragos tambi\u00e9n. Pero lo m\u00e1s importante es la casa, hermosa, con opci\u00f3n de ir a la terraza si est\u00e1 lindo el clima, y la agenda cultural que hay cada noche: Matienzo es escenario para los m\u00fasicos y artistas m\u00e1s interesantes de la escena indedpendiente porte\u00f1a."
+    }
+  ]
+}

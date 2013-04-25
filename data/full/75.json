@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "19 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "analov", 
+      "text": "muy buenos los tragos!"
+    }, 
+    {
+      "date": "25 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Reyna", 
+      "text": "Es ideal para la gente q gusta de toda la cultura brasilera, comida, musica, gente, etc. Ideal para ir en grupo ya q dpues se pone para bailar!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "andrebie", 
+      "text": "La comida es buena y abundante, con precios excelentes. \r\nEl ambiente es bueno, hay de todo para todos los gustos. El espacio no es muy grande pero los shows estan b\u00e1rbaros.\r\nLos miercoles est\u00e1 copado y los fin de semana est\u00e1 bueno hasta las una, despu\u00e9s  hay mucha gente y se convierte en boliche."
+    }, 
+    {
+      "date": "2 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ceci_adv", 
+      "text": "El lugar es realmente muy bueno, la comida es deliciosa y el show divertido. Est\u00e1 bueno para pasar un buen rato."
+    }, 
+    {
+      "date": "17 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "matiasys", 
+      "text": "la cerveza esta un poco cara, $10. Hay que bajar el precio y aparte atualizar la m\u00fasica, sobre todo la electr\u00f3nica."
+    }
+  ]
+}

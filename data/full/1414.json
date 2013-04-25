@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "22 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "pedro", 
+      "text": "Tambi\u00e9n tuve problemas con los due\u00f1os y las mozas al tratar de reclamar un cambio de pedido debido al mal estado del mismo. Mal\u00edsima la atenci\u00f3n y muy mala educaci\u00f3n. Imposible recomendarlo, no creo que pise nuevamente ese lugar."
+    }, 
+    {
+      "date": "15 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Guadalupe", 
+      "text": "El sandwich estaba viejo, el pan era \"de ayer\" y el relleno viejo y caliente. \r\nNo s\u00f3lo que no pidieron disculpas sino que me lo cobraron igual. Fueron muy mal educados los due\u00f1os y las mozas, horrible."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "freakout", 
+      "text": "Voy cada 2 semanas y si no pido delivery frecuentemente. Tiene buen precio y rica comida."
+    }, 
+    {
+      "date": "6 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ramsey", 
+      "text": "Voy siempre a Eat. Es una muy buena opci\u00f3n para el verano. Los sanwichs son muy frescos, sobre todo el de salm\u00f3n ahumado, palta y champignions con un exquisito queso con ciboulette.\r\nTambien el \"ORIENT EXPRESS\" es muy bueno, el pollo con la salsa de soja es sabros\u00edsimo!\r\nEl servicio por lo general es bueno, aunque hay veces que est\u00e1n como torpes. Pero la rapidez para despachar la comida del mediod\u00eda hace de Eat una muy buena opci\u00f3n en el microcentro."
+    }, 
+    {
+      "date": "14 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adraugello", 
+      "text": "La verdad no vi que la comida sea \"natural\" tenian mucho jamon y pollo. Sin embargo me sorprendio la rapidez de mi pedido. Es una opcion para hacer algo diferente al medio dia."
+    }, 
+    {
+      "date": "1 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "morocha", 
+      "text": "Muy buenos sandwiches y un ambiente como para cortar un poco con el barrullo del microcentro y relajarse."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mceci134", 
+      "text": "Voy a almorzar a Eat bastante seguido y si no pido delivery (se puede ver el menu del d\u00eda en la web) Ricas ensaladas y platos del d\u00eda. Sirven r\u00e1pido y abundante,"
+    }, 
+    {
+      "date": "4 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rockstar", 
+      "text": "La atenci\u00f3n es muy buena. Me sorprendi\u00f3 la rapidez con la que trajeron mi pedido."
+    }, 
+    {
+      "date": "8 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ragu", 
+      "text": "Excelente opci\u00f3n de mediod\u00eda. Productos frescos, atenci\u00f3n r\u00e1pida, gente amable."
+    }, 
+    {
+      "date": "10 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "missmery", 
+      "text": "Muy bueno, las ensaladas son muy abundantes y los platos del d\u00eda muy gustosos. Es una buena opci\u00f3n para el mediod\u00eda."
+    }, 
+    {
+      "date": "22 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "andypign", 
+      "text": "La mayoria de las veces como esa ensalada cuyos ingredientes son de excelente calidad. No escatiman en cantidades de salmon, palta, champignones y el servicio es muy bueno."
+    }
+  ]
+}

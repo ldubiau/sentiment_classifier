@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "19 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "demians", 
+      "text": "1) Antes de decirte \"buenas noches\" te cobran por un show de m\u00fasica. \r\n2) Tuve que levantarme e ir hacia la barra para que me atendieran luego de diez minutos.\r\n3) El lugar tiene muy pocas luces, horribles sillas, mesas que bailaban y manteles con agujeros.\r\n4) Cuando empezamos a comer, comenz\u00f3 a menos de cuatro metros a tocar una banda que te hac\u00eda imposible poder disfrutar de la comida, hablar con la persona que ten\u00edas al lado.\r\nEn fin la peor experiencia de mi vida en una cena.\r\nEl lomo a la pimienta me bajaba al comp\u00e1s de la bater\u00eda.\r\nNo parecen tener demasiada idea de como brindar un buen servicio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "caln", 
+      "text": "Pas\u00e9 un buen momento."
+    }, 
+    {
+      "date": "4 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danito", 
+      "text": "Lugar destacado, muy c\u00e1lido."
+    }
+  ]
+}

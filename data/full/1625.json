@@ -1,0 +1,398 @@
+{
+  "malos": [
+    {
+      "date": "15 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Nenitos", 
+      "text": "El lugar es muy lindo, muy bien decorado. La atencion de las mozas, aunque tarda mucho en salir cada plato, es muy buena. La comida no es de lo mejor, el men\u00fa genera muchas expectativas que se ven decepcionadas una vez servido el plato."
+    }, 
+    {
+      "date": "20 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "guillegenio", 
+      "text": "P\u00e9simo restaurante.\r\nLa atenci\u00f3n me pareci\u00f3 mal\u00edsima, la chica que atiende parece lenta, se olvid\u00f3 de contar un cubierto en la cuenta y se olvido de contar un plato para otro comensal.\r\nTrajeron la comida fr\u00eda y no la supieron calentar.\r\nEl queso del pollo estaba todo quemado y no ten\u00eda gusto a nada.\r\nLo \u00fanico bueno que se puede apreciar era la ambientaci\u00f3n y las empanaditas de entrada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alex_monkey", 
+      "text": "Fuimos sin mucha expectativa, comimos un brochette mixto para dos, con papas y ensalada mixta, copa de vino y gaseosa y estuvo todo bien, aunque tardaron un poco en traer la comida.\r\nModico el precio y la ambientacion interesante. Da para vovler, ademas, despues de comer podes ver una buena obra de teatro all\u00ed mismo.\r\nRecomendable."
+    }, 
+    {
+      "date": "18 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "La Clac parece un lugar piola y bohemio pero m\u00e1s bien result\u00f3 ser una especie de trampa para turistas incautos que no cumple ni con lo m\u00ednimo. El ambiente quiere tener un aire kitch que para mi gusto es una forma de camuflar la dudosa higiene del lugar, cosa que ya me predispone a tener cierta desconfianza hacia la cocina. La atenci\u00f3n es mala, ya que las camareras est\u00e1n desatentas y desganadas, y la comida es apenas correcta. No es que los precios sean altos pero me result\u00f3 relativamente caro para lo que ofrecen. No creo que vuelva."
+    }, 
+    {
+      "date": "27 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lausil", 
+      "text": "Excelente!!!comida,atenci\u00f3n,ambientaci\u00f3n,musica.\r\nVamos siempre y cada vez esta mejor."
+    }, 
+    {
+      "date": "17 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "LauraLuna", 
+      "text": "Fuimos por nuestro aniversario y nos gust\u00f3 mucho. Son muy amables y el lugar es precioso (muy indicado para parejas y grupos de amigos, saber que la comida tarda, para no ir apurado). La comida est\u00e1 muy bien. Las tapas no son \"baratas\", pero es algo caro en cualquier parte, as\u00ed que en la relaci\u00f3n precio-calidad est\u00e1 bien. Para comer rico y pasar un lindo rato a la vez."
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "procedencia", 
+      "text": "como siempre, un gusto comer ac\u00e1. no tanto por la comida, sin\u00f3 por la ambientaci\u00f3n. uno no se cansa de mirar todas las fotos y cosas pegadas en las paredes... :)"
+    }, 
+    {
+      "date": "6 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "popoliso", 
+      "text": "Muy lindo el lugar, la llev\u00e9 a mi prima que vino de Chile y le encant\u00f3 la ambientaci\u00f3n del lugar. Las empanadas baratas y muy ricas. Muy t\u00edpico bar de Bs As."
+    }, 
+    {
+      "date": "28 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "titomargalef", 
+      "text": "Ayer despedimos el a\u00f1o con gente de la oficina (23 personas), buena la comida como asi tambien la atencion, en mi caso en particular ya he ido en varias oportunidades y me agrada el lugar"
+    }, 
+    {
+      "date": "25 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "AnaJuan", 
+      "text": "Un lugar cultural, con mucho decorado y bien espaciado. Las empanadas son buenas."
+    }, 
+    {
+      "date": "19 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dientecillo", 
+      "text": "Una muy interesante opci\u00f3n si uno quiere juntarse cerca del centro. La carta esta bastante bien y los platos est\u00e1n bien servidos aunque no se puede decir que sean de lo mejor. Vale la pena ir para conocerlo o juntarse con alguien siempre y cuando no se tenga expectativas de una comida superlativa. La ambientaci\u00f3n est\u00e1 muy bien hecha para quien aprecie lo antiguo. La atenci\u00f3n... floja!!!. Algo que se ve bastante frecuentemente en los restaurantes de esa zona."
+    }, 
+    {
+      "date": "5 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Acodado", 
+      "text": "El ambiente es genial, muy c\u00e1lido y original. Buena predisposici\u00f3n de la moza aunque tardaba en atendernos. La comida vino fr\u00eda y hubo que pedir recalentarla y uno de los platos vino excedido de sal. Es un buen lugar para una 1ra cita, pero no para ir a comer bien."
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Diegote1803", 
+      "text": "Un lugar con una EXCELENTE ambientaci\u00f3n. Todo lo q tiene q ver con el pasado del cine, tv y teatro argentino, esta ah\u00ed. Fotos, posters, discos, de todo. Super llamativo en cuanto a su ambientaci\u00f3n. Sobre la comida, la carta es muy buena y muy variada, pero lamentablemente los platos no cubren las expectativas que se generan al leer la carta. Eramos 4 y en todos los casos la comida lleg\u00f3 fria e incluso hasta un poquito cruda. La atencion es peor todavia, la moza no tiene ni idea de lo que hay en la carta. Lo mejor, el lugar y el postre, banana split. Para conocer pero no para volver."
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Marcelino932", 
+      "text": "Buena comida, excelente ambiente, un lugar especial."
+    }, 
+    {
+      "date": "8 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "procedencia", 
+      "text": "un hermoso lugar para comer unas pizzas o tomar un caf\u00e9. la ambientaci\u00f3n es impagable: hay posters de pel\u00edculas viejas, objetos diversos, etc. la atenxi\u00f3n es buena, la comida tambi\u00e9n, pero sinceramente, el mayor atractivo es el lugar en si mismo. es uno de los pocos restaurantes que conozco con una \"personalidad\" tan \u00fanica."
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "javotv", 
+      "text": "Por sobre todas las cosas destaco la ambientacion del lugar, para pasar un largo rato recorriendo sus paredes cargadas de fotos y afiches de artistas. Para amantes del cine, el teatro y la nostalgia. La comida es buena y bien preparada, opciones variadas y tambien los precios. Un poco flojo el servicio y los platos tardan en salir."
+    }, 
+    {
+      "date": "19 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sandorman", 
+      "text": "Lugar agradable, comida exquisita, atencion muy buena aunque tardaron en atender. para ir acon amigos y pasarla muy bien"
+    }, 
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "marce75", 
+      "text": "Festejamos un cumplea\u00f1os. Pedimos el especial de pollo La Clac (las porciones son abundantes), acompa\u00f1ado con tapas y un buen vino. El lugar tiene una decoraci\u00f3n muy linda y la gente que atiende es muy agradable."
+    }, 
+    {
+      "date": "3 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ale_arga2", 
+      "text": "El servicio suele tardar mucho, tanto para almorzar como para si s\u00f3lo vas a tomar un caf\u00e9. Ni hablar si la mesa tiene m\u00e1s de 6 comensales!\r\nPero en general la gastronom\u00eda es buena. Siempre vuelvo, me gusta la onda del lugar."
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Bichin", 
+      "text": "Excelente ambiente, se pasa el tiempo disfrutando de la decoracion, muy nuestra, muy argentina.\r\nLos platos son super abundantes, el servicio es normal. Los platos salieron muy rapido."
+    }, 
+    {
+      "date": "31 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "tania", 
+      "text": "Una desilusi\u00f3n. Ninguno de las especialidades estaban en el men\u00fa y termin\u00e9 comiendo milanesas de calabaza sin demasiado sabor y faltas de cocci\u00f3n. El lugar es muy agradable y el servicio es correcto."
+    }, 
+    {
+      "date": "25 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rochita", 
+      "text": "Muy hippie, pero lindo. Muy buena la comida."
+    }, 
+    {
+      "date": "3 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mcristin", 
+      "text": "Me pareci\u00f3 un lugar grand\u00edsimo, pero cuando entr\u00e9 lo sent\u00ed muy \u00edntimo y c\u00e1lido. \r\nAdemas de su decoraci\u00f3n original con muy buen gusto lo acompa\u00f1o una agradable m\u00fasica que me hizo sentir una m\u00e1gica noche bohemia. \r\nNo dejen de visitarlo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ulalula", 
+      "text": "La comida estaba muy rica, muy abundante, y barata. La persona que me acompa\u00f1\u00f3 comi\u00f3 pollo a las hierbas, y opina lo mismo."
+    }, 
+    {
+      "date": "9 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "motusx", 
+      "text": "Desde ya el ambiente excelente, y la comida con un toque unico de sabor, quedamos pipones. Como en anta\u00f1o. Uno de los pocos lugares que aun quedan para disfrutar. Y con la posibilidadde ver alguna leyenda del mundo del arte"
+    }, 
+    {
+      "date": "25 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chupito", 
+      "text": "Hasta el \u00faltimo de los objetos m\u00e1s curiosos se encuentran cubriendo por completo todas las paredes, platos muy abundantes (recomiendo, para compartir) y una atenci\u00f3n muy correcta. Ideal para despu\u00e9s de una salida al teatro."
+    }, 
+    {
+      "date": "30 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sepher", 
+      "text": "La verdad uno de los mejores lugares que conosco, con un aire a bohemia increible, perfecto para tomar un vino a la noche, bien acompa\u00f1ado."
+    }, 
+    {
+      "date": "18 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leilafer", 
+      "text": "Muy bueno. Buen ambiente y las pizzas son muy ricas. Los precios son muy accesibles. Muy recomendable."
+    }, 
+    {
+      "date": "25 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Brinaland", 
+      "text": "nos trajeron una tabla increible, con raviolones fritos rellenos de ricota y cantimpalo, raviolitos de queso en una crema buenisim y pesto, quesos, pavita, pastron, crudo, cocido, unas berenjenas de entrada maravillosas, porciones abundantes, ambiente muyyy tranqui en los dias de semana por la noche, esta ambientado que es una belleza de tanta biblia y calefon, indescriptible, lo unico raro es que nos levantaron la bandeja completa de la mesa, en un intervalo de charla que hicimos con mi marido. Y habia bastante aun para degustar"
+    }, 
+    {
+      "date": "2 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tuby", 
+      "text": "Muy buen lugar. Los platos son muy abundantes para compartir. Linda ambientaci\u00f3n. Recomendable."
+    }, 
+    {
+      "date": "28 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Teddy", 
+      "text": "Fui al mediod\u00eda con compa\u00f1eros de trabajo. La comida es muy buena. Tiene un men\u00fa que incluye bebida y postre a precio accesible, aunque no da para ir todas las tardes. El servicio es bastante lento, sobretodo cuando lleg\u00e1s despu\u00e9s de las 13 horas. La atenci\u00f3n de las mozas deber\u00eda mejorar. Recomendable para ir de vez en cuando a comer un rico plato."
+    }, 
+    {
+      "date": "14 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mhormilougue", 
+      "text": "El ambiente tiene muchas fotos y posters antiguos, la comida es espectacular y sobre todo muy abundante (realmente abundante).\r\nLo \u00fanico que le faltar\u00eda es que el personal hable en ingl\u00e9s, ya que ten\u00edan muchos clientes extranjeros y no supieron entenderse.\r\nMuy recomendable."
+    }, 
+    {
+      "date": "8 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sebaigo", 
+      "text": "Muy buena comida y lindo ambiente."
+    }, 
+    {
+      "date": "20 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Perry", 
+      "text": "Tanto la gastronom\u00eda, la atenci\u00f3n y la ambientaci\u00f3n son excelentes.\r\nUn lugar agradable para una velada de igual caracter\u00edsticas.\r\nLo recomendamos."
+    }, 
+    {
+      "date": "17 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "colo", 
+      "text": "Lo recomiendo, excelente ambientaci\u00f3n para recordar a\u00f1os anteriores y muy buena comida."
+    }, 
+    {
+      "date": "16 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "guillerm7", 
+      "text": "Me senti como en mi casa, es un lugar muy c\u00e1lido."
+    }, 
+    {
+      "date": "22 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "YaniKantor", 
+      "text": "Ambiente agradable, buena m\u00fasica."
+    }, 
+    {
+      "date": "11 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "HAC", 
+      "text": "Excelente lugar con un ambiente familiar e \u00edntimo a la vez. La atencion es acorde."
+    }, 
+    {
+      "date": "6 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Santiago", 
+      "text": "Un lugar muy c\u00e1lido, muy bien atendido y decorado.\r\nUn lugar para recomendar con muy buena onda y agradable musica."
+    }
+  ]
+}

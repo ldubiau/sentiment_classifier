@@ -1,0 +1,788 @@
+{
+  "malos": [
+    {
+      "date": "17 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Teteboni", 
+      "text": "La picada, lamentable. Pedimos cerveza y la botella estaba sucia. La atenci\u00f3n deplorable. Todo mal."
+    }, 
+    {
+      "date": "2 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "coconut", 
+      "text": "pedimos delivery. me parecio caro (130 pesos 3 pizzas grandes de diversos sabores y 6 porciones de faina) y bastante flojo. la pizza llego tirando a fria y ni los ingredientes (aunque abundantes) ni la masa eran muy buenos. no reincidiria."
+    }, 
+    {
+      "date": "21 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Corleone", 
+      "text": "Una VERGUENZA el servicio de DELIVERY y la atenci\u00f3n telef\u00f3nica. Demora de una hora y media por una docena de empanadas. Ojo, te cortan la comunicaci\u00f3n al reclamar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vdychter", 
+      "text": "Estuvo muy bien!\r\nLa comida se hace esperar pero son platos abundantes y ricos."
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "WilliamTAF", 
+      "text": "Es para comer pizza y tomar cerveza. si andas por la zona con intenci\u00f3n de charlar y comer en la vereda de un lugar tranquilo te lo puedo recomendar. Barato tambien, no esperes nada m\u00e1s que eso. En mi opini\u00f3n y a\u00fan teniendo en cuenta la relaci\u00f3n calidad precio creo que los 20 puntos que tiene hoy le quedan grandes, por lo menos 4 puntos abajo salvo que la comida no te interese."
+    }, 
+    {
+      "date": "15 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lcastiglioni", 
+      "text": "Es una propuesta para comer relajado y pasar un buen momento en un lindo ambiente. Com\u00ed un tapeo tipo norteamericano, abundante (para cenar 2 personas) y rico. El servicio fue muy bueno pero demor\u00f3 bastante. La cerveza te la entregan helad\u00edsima (claramente punto importante a favor). Buena la relaci\u00f3n precio-calidad"
+    }, 
+    {
+      "date": "22 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cristian14", 
+      "text": "Fui a despedir el a\u00f1o con compa\u00f1eros de trabajo.\r\nLindo lugar para ir en grupo de amigos a comer pizza y tomar una cerveza. Los precios son moderados (muy bien teniendo en cuenta la zona) y la comida es rica. Recomendable."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "MAilroque", 
+      "text": "La picada de pizza estaba bien, pero creo q ahora es m\u00e1s chica. Ricas las empanadas de cordero. que m\u00e1s me gustaba de esta pizzeria era la enredadera de la vereda, pero ya no est\u00e1. Buena atenci\u00f3n, cerveza bien fr\u00eda."
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "julieta555", 
+      "text": "la verdad que para ir con amigos a comer unas pizzas es el lugar casi ideal!!! son ricas, quiza con algunas falencias, pero lindo al fin !!! buena atencion, ambiente bueno y distendido. No lo recomiendo para ir en pareja."
+    }, 
+    {
+      "date": "15 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "everlast30", 
+      "text": "El lugar estaba medio vacio y asi y todo tardaron un poco en atendernos! luego de eso fueron muy atentos y cordiales! las bebidas llegaron en tiempo y la pizza tambien! Si bien no soy un fanatico de la pizza a la piedra esta fue muy rica! buena cantidad de ingredientes! y de muy buena calidad!"
+    }, 
+    {
+      "date": "1 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vdychter", 
+      "text": "Rica pizza y muy buenas ensaldas!"
+    }, 
+    {
+      "date": "26 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Me sigue pareciendo que la onda del lugar invita a una juntada medio al paso con amigos; una opci\u00f3n decontract\u00e9 e informal, ideal para juntarse a comer algo y tomarse unas cervecitas en la vereda o en la terraza, especialmente en estas nochecitas lindas de verano porte\u00f1o"
+    }, 
+    {
+      "date": "19 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pepito", 
+      "text": "Hace mucho que no pasaba por ah\u00ed, baj\u00f3 un poco la calidad,servicio malo. Sin embargo lindo lugar, sobre todo la terraza y la pizza sigue sin tener competencia por la zona."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lauriss", 
+      "text": "Nunca nos vamos decepcionados de Zona. Tanto el tapeo de pinchos (\"Zona\") como el de pizza son abundantes y hasta de a tres se pueden compartir. Siempre vienen deliciosos e incluyen dos chops si la idea es comer con cerveza. El lugar est\u00e1 muy bien, sobre todo la terracita para fumadores. Lo \u00fanico medio regular es el servicio, que tiene sus momentos. Hay que ir con paciencia por las dudas. Los tragos ricos y con precio acorde."
+    }, 
+    {
+      "date": "16 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bruce73", 
+      "text": "Fuimos el domingo a la noche con mi esposa, realmente nos atendieron muy bien el mozo fue muy cordial y preciso, la pizza es sensacional, pasamos un momento muy lindo a luz de las velas y con una musica muy relajada, superecomendable relacion precio y calidad exelentes."
+    }, 
+    {
+      "date": "15 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "borgani", 
+      "text": "Me com\u00ed una pizza grande entera yo solo, asi que muy sustanciosa no es. Medio pelo. Si quer\u00e9s comer una pizza excelente, este no es el lugar."
+    }, 
+    {
+      "date": "29 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mga", 
+      "text": "Es una pizzer\u00eda con onda y con muy buena variedad de pizzas y tapeos.No esperen m\u00e1s que eso. Si quieren comer pizza rica por Nu\u00f1ez vayan a esta esquina."
+    }, 
+    {
+      "date": "22 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "001dany001", 
+      "text": "muy mal atendido, mozos sin experiencia.  trajeron cerveza caliente y se molestaron cuando se los marque (en ningun momento me la cambiaron a pesar de estar llena) mucha demora paratraer la comida y la cuenta (salon vacio). la relacion precio calidad es mala."
+    }, 
+    {
+      "date": "5 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PatoG", 
+      "text": "Un lugar que a simple viste no pormete mucho, pero la pizza con verdura estuve increible, lo mismo que la empanada de cordero que comimos de entrada. La atencion correcta y el ambiente tranquilo."
+    }, 
+    {
+      "date": "13 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cabeson", 
+      "text": "ya no es lo que era, vivo en el barrio y decayo mucho la calidad, el delyvery da lastima 1 hora para entregar una piza a 1 cuadra, el que atiende el mismo hace mas de 6 anos trabaja como empleado publico, si no le gusta trabajar que renuncie."
+    }, 
+    {
+      "date": "19 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lualque", 
+      "text": "Lugar agradable, con buena atenci\u00f3n.La pizza correcta aunque la nuestra sali\u00f3 un poco quemada. Buen topping no muy abundante. La relaci\u00f3n calidad/precio no es la mejor."
+    }, 
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chorchv", 
+      "text": "El lugar es muy \u00edntimo y ubicado en un lugar muy tranquilo. Un lindo ambiente para comer y una carta variada. Muy buena propuesta para Tapeos. Prob\u00e9 el de las Pizzas pero hay otras opciones que seguramente degustar\u00e9 en el futuro. Vale la pena."
+    }, 
+    {
+      "date": "18 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lacoqui", 
+      "text": "la pizza es muy buena,la atenci\u00f3n tambi\u00e9n,tiene una ambientaci\u00f3n c\u00e1lida e \u00edntima,es ideal para ir en pareja,muy recomendable,atenci\u00f3n:cobran $4 el cubierto"
+    }, 
+    {
+      "date": "16 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fschlim", 
+      "text": "El lugar es bastante rescatable pero podria mejorar y mucho. la atencion es la de una pizzeria casi fina. la pizza es comun. nada del otro mundo. una opcion para ir cuando no sabes adonde."
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Cutie", 
+      "text": "Muy lindo el sector de la terraza. El tapeo de pizza es muy abundante y casi que comen mas de dos. La pizza es muy buena, finita pero no seca y con muchas variantes y los platos que vi pasar tentadores. Una buena opcion para salir de las pizzerias tradicionales de Nu\u00f1ez."
+    }, 
+    {
+      "date": "29 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Me gust\u00f3 mucho el lugar porque es sencillo y tranqui pero con onda, ideal para \"ir de tapas\" con amigos. Se distinguen por ofrecer buenos tragos, adem\u00e1s de la tradicional cerveza para acompa\u00f1ar, y por el original tapeo de pizza: muy ricas, variadas y abundantes (el tapeo para 2 ofrece 9 porciones de diferentes gustos); adem\u00e1s a buen precio. Muy bien!"
+    }, 
+    {
+      "date": "1 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "szoro", 
+      "text": "Muy linda la ambientaci\u00f3n de la terraza. Probamos la degustaci\u00f3n de pizzas y estuvo muy bien. No sorprende pero cumple. La atenci\u00f3n muy buena."
+    }, 
+    {
+      "date": "19 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SoyClau", 
+      "text": "Ambiente lindo, (esperaba m\u00e1s por las fotos de la pagina web de piza zona), comi pizza de alcaucil y de ananas, muy ricas, pero comi mucho mejores, la atenci\u00f3n se podria decir correcta.\r\n\r\nBuen precio y una alternativa a los bodegones a los que se accede por el mismo precio.\r\n\r\nPara reuniones grupales y familiares."
+    }, 
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rama23", 
+      "text": "Fuimos de a 4 con una pareja amiga y la verdad es que Zona me sorprendio. Muy lindo lugar para ir en pareja, para relajarse un poco y comer una buena pizza o empanadas de cordero, o pedir el tapeo de pizzas que pedimos, muy bueno!. El servicio es bueno, muy buen ambiente distendido y de buen gusto. Por nu\u00f1ez debe ser de lo mejor que hay para comer pizza"
+    }, 
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "julieta555", 
+      "text": "La pizza de rucula con queso parmesano y tomates secos es simplemente un espectaculo. Atencion buena, simple y esmerada. El ambiente es distendido, relajado, ideal para descontracturarse un poco. Tiene un sector fumador muy piola. Hay que volver."
+    }, 
+    {
+      "date": "19 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "doie", 
+      "text": "La comida estuvo muy rica, pero vino fria! tuvimos que mandarlo a la cocina 2 veces  para que lo calienten!"
+    }, 
+    {
+      "date": "13 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "osquito", 
+      "text": "El problemas que abajo no veia casi nada.  Me fui arriba, mejoraba algo ( no mucho) Pedi mas luz, cijo el mozo que era gastronomia moderna ( sera el ahorro de energia) me tuvo que leer la cuenta. \r\nla comida buena, demasiado calor. estuve muy incomodo. volvere un dia de dia a ver que pasa."
+    }, 
+    {
+      "date": "26 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tites", 
+      "text": "Las empanadas son deliciosas, la de carne cortada y la de cordero son exquisitas. Es lo mejor de la carta."
+    }, 
+    {
+      "date": "4 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "2Pac", 
+      "text": "Las empanadas son excelentes! El delivery funciona bien, pero el servicio... Deja mucho que desear, pareciera que estuvieran haciendote un favor."
+    }, 
+    {
+      "date": "1 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Si_Barita", 
+      "text": "Excelente la atenci\u00f3n de los mozos, y exquisitas las empanadas de carne cortadas a cuchillo."
+    }, 
+    {
+      "date": "5 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Danuz", 
+      "text": "Las ensaladas son muy buenas y las tartas tambi\u00e9n (sobre todo tienen mucha variedad de ellas).\r\nLa atenci\u00f3n es buena, no tardan demasiado en traer lo solicitado, y el ambiente (sobre todo arriba que hay como una terracita cubierta), est\u00e1 muy bien"
+    }, 
+    {
+      "date": "1 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pensaysali", 
+      "text": "Un lugar muy lindo tranquilo! La pizza super rica! Pidan la zona 1"
+    }, 
+    {
+      "date": "26 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "popboy", 
+      "text": "El tapeo de pizza para dos es abundante y sabroso ...y dif\u00edcil de terminar! (una revelaci\u00f3n para m\u00ed fue la pizza con alcauciles: excelente).  La ambientaci\u00f3n es muy agradable, especialmente el piso superior.  Fuimos temprano para cenar y el local estaba casi vac\u00edo.  A medida que ca\u00eda el sol notamos que la iluminaci\u00f3n es un bastante tenue, m\u00e1s acorde para parejas que para familias con chicos, as\u00ed que no me quejo porque estoy en el primer grupo.  Tendriamos que ver si la experiencia es distinta en hora pico... supongo que ser\u00e1 pronto, por esta experiencia estoy seguro de que voy a volver."
+    }, 
+    {
+      "date": "26 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "erimo", 
+      "text": "Se come bien, el ambiente es muy ameno (si llegan temprano y van arriba mucho mejor a\u00fan) y las pizzas son muy ricas (recomiendo el tapeo de pizza). Muy recomendable para ir en pareja o con amigos."
+    }, 
+    {
+      "date": "30 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pablobel", 
+      "text": "Rica pizza ,las pizzas zona una mejor que la otra,afuera es muy lindo igual que la terraza (donde se puede fumar). De la zona de nu\u00f1ez la mejor pizza."
+    }, 
+    {
+      "date": "2 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pepito", 
+      "text": "Todo b\u00e1rbaro, la pizza crocante de corazones de alcahucil excelente, la atenci\u00f3n perfecta y la relaci\u00f3n precio-calidad perfecta al igual que el ambiente de la terraza. Falto un poco de m\u00fasica y todo sal\u00eda redondo. Vuelvo seguro a probar las tapas."
+    }, 
+    {
+      "date": "19 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "juanbazzi", 
+      "text": "excelente ambiente y buena relacion preco calidad de la comida. buena atencion de los mozos. la comida la traen rapido"
+    }, 
+    {
+      "date": "18 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "MDB", 
+      "text": "Muy buena la comida. Bien servido y el ambiente es espectacular, muy buena combinaci\u00f3n de m\u00fasica, en el tono adecuado que se pod\u00eda escuchar sin interrumpir la conversaci\u00f3n. Para volver."
+    }, 
+    {
+      "date": "5 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "titocataldo", 
+      "text": "Cuando fui personalmente siempre me atendieron bien, la comida es muy rica, las empanadas de carne a cuchillo son despues de la torre, las mejores de buenos aires. El lugar es muy lindo, tiene mucha onda para ir en pareja o con amigos, l\u00e1stima que a veces esta lleno y hay que esperar o te toca un lugar malo. El delivery da l\u00e1stima, te atienden siempre muy mal, se olvidan los datos, te atienden apurados, da ocupado, tarda 1 hora... para evitar."
+    }, 
+    {
+      "date": "25 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gabo2000", 
+      "text": "Fui despues de mucho tiempo de pasar por la puerta y seguir de largo porque el lugar de afuera no me decia mucho. Sin embargo me equivoqu\u00e9. Soy bastante buen comedor de pizza y tengo que reconocer que la hacen muy bien, es rica la masa bien compensada en sabor, textura y consistencia. Arriba le ponen buena cantidad y calidad de muzzarella y de los restantes ingredientes pedidos, ademas de presentarla muy correctamente. Diria que es de las pizzas mejor preparadas que prob\u00e9. La atenci\u00f3n no es mala en cuanto a tiempo de espera pero increiblemente el \"coordinador\" de los mozos esta siempre demasiado acelerado, a veces sin motivo, y transmite mal los pedidos en mi caso ped\u00ed una pizza y me trajeron otra, sin comentarios. \r\nEl lugar es muy agradable y la proxima vez quisiera conocer el primer piso que es mucho mas amplio y mejor presentado que abajo."
+    }, 
+    {
+      "date": "5 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guidocm", 
+      "text": "Es un lugar ideal para almorzar los d\u00edas de semana. Recomiendo la pizza. Si bien tiene calefacciones exteriores en la vereda, en invierno se puede poner un poco inc\u00f3modo."
+    }, 
+    {
+      "date": "28 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "MatuteCocon", 
+      "text": "Muy lindo lugar escondido en Nu\u00f1ez. Linda decoracion, buena musica, rica pizza y demas. Recomiendo ir a la terraza cubierta. Los precios acordes."
+    }, 
+    {
+      "date": "17 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lio", 
+      "text": "Muy buen lugar. Excelente relaci\u00f3n precio calidad, acompa\u00f1ado de una muy buena atenci\u00f3n del personal. Muy recomendable es el Tapeo de Pizzas, una pizza mediana de nueve porciones con gustos variados."
+    }, 
+    {
+      "date": "8 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Los platos a la parrilla salen buenos y muy abundantes. Me parece una buena opci\u00f3n por la zona norte de la capital, y adem\u00e1s cuenta con mesas afuera para poder fumar. Es m\u00e1s para ir con amigos, ya que no gast\u00e1s mucho, que para una cena en pareja."
+    }, 
+    {
+      "date": "15 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "spencer", 
+      "text": "Fui varias veces y en todos los casos llegue a la misma conclusi\u00f3n. Un entorno c\u00e1lido, ayudado por la tranquilidad de la zona; buenas pizzas sin demasiadas extravagancias; discretas aunque s\u00f3lidas alternativas de cocina (todas al horno a le\u00f1a) y mal servicio.  \r\nLa atenci\u00f3n es voluntariosa aunque fallan recurrentemente en el manejo de los tiempos."
+    }, 
+    {
+      "date": "9 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fridasoto", 
+      "text": "Muy buena pizza de albahaca, muzzarella y tomate. La fugazzeta era rica tambi\u00e9n. Un poco lento el servicio, todo lo dem\u00e1s bueno. Es para ir de nuevo."
+    }, 
+    {
+      "date": "29 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nina_008", 
+      "text": "La comida es muy rica. Pero la atenci\u00f3n es realmente MUY mala. El mozo no supo tomar bien el pedido, trajo comida equivocada, no par\u00f3 de hacer comentarios fuera de lugar y encima nos falt\u00f3 el respeto. Los platos de madera tiene un olor desagradable. No lo recomiendo."
+    }, 
+    {
+      "date": "19 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Jalu", 
+      "text": "El sitio es realmente lindo y muy c\u00e1lido: la decoraci\u00f3n, las velas, el ambiente, la ampliaci\u00f3n de la terraza que quedo muy bien, la vista a la calle que es hermosa y tranquila. \r\nEs un lugar ideal para ir a conversar de a dos. \r\nLa comida no me parece tan buena pero depende de lo que uno pida, por ejemplo: las pizzas y las empanadas ($1,50) son excelentes, el bife de chorizo a la le\u00f1a ($19) me pareci\u00f3 duro, una copa de champagne se puede tomar por $7, un trago tipo margarita $11, el agua cuesta $4 y no cobran cubierto. \r\nMe gust\u00f3."
+    }, 
+    {
+      "date": "13 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "laumin", 
+      "text": "Est\u00e1 bueno porque es un lindo lugar y barato, como para ir en grupo. \r\nLa atencion es muy lenta, tardan mucho en traerte las cosas y no quieren darte servilletas (si, en serio). \r\nSiempre com\u00ed muy bien, hasta que una vez descubrimos hongos en dos flanes que hab\u00edamos pedido. \r\nSer\u00e1 que no tendr\u00e1n rotaci\u00f3n en los flanes, el resto bien."
+    }, 
+    {
+      "date": "1 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "kokorengo78", 
+      "text": "Muy lindo lugar y muy buena atenci\u00f3n.\r\nLa verdad que me pareci\u00f3 barato para la cantidad de comida que viene en el tapeo.\r\nNo lo pudimos terminar. Recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elgalle79", 
+      "text": "El ambiente es muy c\u00e1lido. A la noche sobre todo para ir en pareja es muy agradable. Sin dudas lo mejor es la pizza a la piedra, tienen much\u00edsimas variedades. Pedimos una a los cuatro quesos y estaba riquisima. Muy buena m\u00fasica de fondo, la atenci\u00f3n es buena."
+    }, 
+    {
+      "date": "19 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "liasela", 
+      "text": "ir con paciencia porque el servicio es lento pero vale la pena. la pizza riquisima"
+    }, 
+    {
+      "date": "13 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "wahkeen", 
+      "text": "Muy buena alternativa. La comida es excelente siempre, tienen muchas opciones adem\u00e1s de pizzas. El happy hour no es conocido y vale mucho la pena. Yo tome caipirinha y es barbara. Recomiendo el tapeo de pizzas y las tartas. Si ped\u00eds pizzas todas las especiales son muy buenas. \r\nQuiz\u00e1s ultimamente subieron un poco los precios para lo que ven\u00eda siendo. La carta de vinos no es buena. Siempre que pido vino tinto viene caliente y lo tengo que poner en una frapera. No se destaca por su servicio, pero tiene muy buena comida y siempre hay lugar. Cobran servicio de mesa a la noche."
+    }, 
+    {
+      "date": "20 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MAilroque", 
+      "text": "Excelente!!! La pizza es de primera (pedimos de anan\u00e1 y r\u00facula). El ambiente es genial, tiene velas y luz tenue. Volveremos por las empanadas de cordero y el rack.!"
+    }, 
+    {
+      "date": "17 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fedezz", 
+      "text": "Excelente comida, muy buen clima en el lugar. La atencion es de primera. La comida tarda un poco desde el momento que la ped\u00ed hasta que me sirvieron. Pero esto demuestra que las cosas la hacen en el momento. La relaci\u00f3n precio calidad est\u00e1 muy bien. Volver\u00e9"
+    }, 
+    {
+      "date": "14 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "andreoide", 
+      "text": "Cumple con lo b\u00e1sico y un poco m\u00e1s: excelente pizza, buen ambiente, buen servicio de mesa y precios razonables en comparaci\u00f3n a la competencia."
+    }, 
+    {
+      "date": "3 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "santicuervo", 
+      "text": "me encanto el ambiente, la atencion fue muy buena en todo momento, y la comida estaba de pelos. exelente la relacion precio calidad.fuimos en pareja y nos encanto realmente vale la pena muy recomendable vamos a volver en cualquier momento"
+    }, 
+    {
+      "date": "26 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lorela78", 
+      "text": "El tapeo Zona es abundante y muy recomendable.La atencion es muy buena, muy pendiente de todos los detalles.Y muy linda ambientacion, sobre todo en la terraza.Volvere!"
+    }, 
+    {
+      "date": "6 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucila07", 
+      "text": "Muy buena la comida, pedimos el tapeo de pizza y es muy abundante, no lo terminamos.\r\nEl ambiente es muy c\u00e1lido, tranquilo y la m\u00fasica en el volumen adecuado.\r\nLa atenci\u00f3n es buena, bastante r\u00e1pido el servicio. Un lugar muy recomendable."
+    }, 
+    {
+      "date": "14 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "fmach", 
+      "text": "Excelente pizza a la piedra, variedades muy originales y por lo visto bien logradas, la napolitana con rucula como hecha en casa, la calabresa con verdadera longaniza calabresa como la religi\u00f3n dicta, sin escatimar muzza o ingredientes, muy buena calidad de ingredientes, la atenci\u00f3n alcanza solamente, el ambiente deja bastante que desear, luz demasiado baja para poder leer la carta o completar la encuesta de opinion que llega con la cuenta, excesiva temperatura en la planta alta que al cabo de un rato se vuelve asfixiante, el sector con mas onda del local es el sector fumadores, un par de puntos llevan a pensar que se busca el r\u00e1pido recambio de mesas, la excelente est\u00e9tica del lugar y la calidad de la comida se ve afectada por estos puntos negativos."
+    }, 
+    {
+      "date": "2 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "justona", 
+      "text": "Es muy c\u00e1lida la ambientaci\u00f3n del lugar y hace la combinaci\u00f3n pefecta con la atenci\u00f3n. Muy recomendables las pizzas y las empanadas de mozarella y verduras asada."
+    }, 
+    {
+      "date": "15 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nushita", 
+      "text": "Es un excelente rest\u00f3 bar, ideal para un amante de las pizzas. \r\nRecomiendo la pizza \"Zona 4\" (Variedad de quesos). Muy lindo ambiente con velas y buen trato."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GoodTaste", 
+      "text": "Excelente las pizzas, hay gran variedad y es muy buena la presentaci\u00f3n.\r\nLugar muy agradable. \r\nAtenci\u00f3n correcta."
+    }, 
+    {
+      "date": "26 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mamo", 
+      "text": "Es un lugar que no baj\u00f3 nunca la calidad de la comida y del servicio, habi\u00e9ndose agrandado de forma considerable. La relaci\u00f3n precio-calidad es perfecta, el servicio fue inmejorable (como siempre) y el ambiente muy c\u00e1lido. Es un lugar al que voy frecuentemente y es altamente recomendable."
+    }, 
+    {
+      "date": "28 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cricri", 
+      "text": "El lugar es muy c\u00e1lido. La atenci\u00f3n es muy agradable. Lo recomiendo."
+    }, 
+    {
+      "date": "19 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ladyjane", 
+      "text": "Me gust\u00f3 mucho la ambientaci\u00f3n. Parece de esos restaurantes caros de Palermo pero nada que ver. \r\nEs muy accesible y rico. Eso s\u00ed, hay mucha gente y tardan un poco en traer las cosas."
+    }, 
+    {
+      "date": "18 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Shisell", 
+      "text": "El lugar es muy c\u00e1lido para estar entre amigos o en pareja. Yo frecuento el lugar desde que se abri\u00f3, opino que creci\u00f3 en cuanto a la carta pero baj\u00f3 la calidez de la atenci\u00f3n. \r\nHoy por hoy la atenci\u00f3n no es c\u00e1lida como en un principio. Gracias."
+    }, 
+    {
+      "date": "17 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CARO189", 
+      "text": "El lugar es muy lindo, adem\u00e1s lo remodelaron y quedo muy c\u00f3modo, excelente ambiente."
+    }, 
+    {
+      "date": "1 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "malaur", 
+      "text": "Muy bien ambientada la terraza."
+    }, 
+    {
+      "date": "22 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "flaviari", 
+      "text": "La comida es muy rica, el lugar es c\u00e1lido y la atenci\u00f3n muy buena. Estamos esperando a ver como queda la ampliaci\u00f3n en el segundo piso."
+    }, 
+    {
+      "date": "10 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "misterpa", 
+      "text": "Relaci\u00f3n precio-calidad m\u00e1s que \u00f3ptima."
+    }, 
+    {
+      "date": "10 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "grupocre", 
+      "text": "Muy buena propuesta."
+    }, 
+    {
+      "date": "5 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "valbelat", 
+      "text": "Los men\u00faes del d\u00eda son muy ricos y la atenci\u00f3n es muy buena."
+    }
+  ]
+}

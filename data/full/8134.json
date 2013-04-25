@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "28 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mamonec", 
+      "text": "Mas de lo mismo... al mejor estilo de diva, cho, farola...  gran variedad, mala calidad... com\u00fan, p\u00e9sima atenci\u00f3n, pero p\u00e9sima... mucho camarero, poca atenci\u00f3n a los clientes... para recibir la carta un siglo de espera... sin mas comentarios... com\u00fan"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "Un restaurante con buenas opciones. Lo m\u00e1s destacable es la comida, abundante y rica. Aunque la atenci\u00f3n var\u00eda dependiendo del mozo, bastante irregular. Es un lugar amplio y lindo, aunque ruidoso, con mala ac\u00fastica."
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andy66", 
+      "text": "Aceite de oliva p\u00e9simo, arruina las excelentes ensaladas. Cuando se llena, se complica la atenci\u00f3n."
+    }, 
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "jorge.lamela", 
+      "text": "Restaurante de gran variedad y escasa calidad , servicio regular e intermitente."
+    }, 
+    {
+      "date": "13 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leticiaquirque", 
+      "text": "Muy buen lugar para ir en familia, con pelotero para los mas chiquitos, algunos dias tambi\u00e9n tienen animacion. Excelente comida, a precio muy accesible, y atenci\u00f3n super cordial. Para recomendarlo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Ariel_lagarto", 
+      "text": "La comida es excelente, la atenci\u00f3n poco descuidada hay que repetir los pedidos y la demora en servir la comida es bastante larga. El ambiente esta bien decorado elegante familiar pero un s\u00e1bado a la noche se ven hombres con ojotas y musculosa. El restaurante cuenta A\u00daN con sector FUMADOR por lo cual es muy molesto comer con EL HUMO DE cigarrillo de otras mesas. Deber\u00edan prestar atenci\u00f3n a estos detalles ya que el lugar es bonito y se come muy bien."
+    }, 
+    {
+      "date": "6 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elalber10", 
+      "text": "Muy buen lugar para disfrutar de una excelente comida, con una atenci\u00f3n por dem\u00e1s esmerada. Platos abundantes y postres de primera. Somos asiduos concurrentes, aunque vivimos en Capital. Muy recomendable."
+    }
+  ]
+}

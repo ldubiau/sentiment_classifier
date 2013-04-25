@@ -1,0 +1,518 @@
+{
+  "malos": [
+    {
+      "date": "4 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "balotage", 
+      "text": "Sin pretenciones, relajado (exagerando estas caracter\u00edsticas): no hay carta, teniendo que leer el men\u00fa desde pizarrones poco iluminados, letra chica y sin contraste. \r\nBebida: aguas y  pisco sour (mediocre, lleg\u00f3 20 mins despu\u00e9s)  Ped\u00ed hielo y sal que nunca trajeron\r\nEntrada: picada muy buena, variantes y sabores interesantes\r\nP. Pal: salteado de mariscos con aceite de piment\u00f3n (s\u00f3lo ten\u00eda mejillones) y un pollo relleno objetivamente crudo (como sacado de la heladera)\r\nPorciones medianas tirando a chicas pero suficientes para decidir irnos.\r\nCon la mejor intenci\u00f3n: necesitan esforzarse m\u00e1s."
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Marmota", 
+      "text": "No s\u00e9 c\u00f3mo la gente dice que la comida es buena en este lugar. Ped\u00ed un \"papillote de salmonete\" y el pescado estaba repleto de espinas, no lo pude comer. Las pastas tambi\u00e9n son p\u00e9simas, se nota que los cocineros no tienen ninguna formaci\u00f3n. Un fiasco."
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "juanitua", 
+      "text": "Una experiencia desastrosa. La verdad, no se entienden los comentarios buenos acerca de este restaurante. Las mollejas de la entrada fueron pasables pero los principales, un desastre. Los \"salmonetes\" estaban eran un nido de espinas, y no eran m\u00e1s que dos sardinitas. Esto acompa\u00f1ado con una monta\u00f1a gigante de pur\u00e9 de habas. En cuanto a los tallarines, un verdadero mazacote. Le dijimos al mozo y ni siquiera atin\u00f3 a ofrecernos una bonificaci\u00f3n u otra opci\u00f3n. Uno de los peores lugares a los que hemos ido"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guillegourmet", 
+      "text": "la comida bien con buen sabor, pero las porciones muy pero muy peque\u00f1as (para persdonas que les guste comer poco) por el precio que ofrecen, el servicio normal un poco lento, el lugar nada de otro mundo. En definitiva,  rica comida pero caro y poco."
+    }, 
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sergiogr78", 
+      "text": "La comida tiene muy buen sabor, con platos que no se encuentran en otros lados, y que cambian de acuerdo al mes. La atenci\u00f3n excelente, explicando los diferentes platos. La \u00fanica contra es que no hab\u00eda aguas saborizadas ni gaseosas."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ElvascoLuis", 
+      "text": "Muy buen servicio, muy buena comida, excelente relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "6 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "nandus", 
+      "text": "Buena comida,pero con precios elevados para la calidad de la misma y el lugar.\r\nSimula bistr\u00f3 y tiene precios de rest\u00f3.\r\nEl men\u00fa del dia es BBB: bueno, bonito (rico!) y barato, pero no salir de ahi porque lo van a sufrir al momento de pagar la cuenta!\r\nEl ba\u00f1o precisa un poco bastante m\u00e1s limpieza!\r\nRecomiendo ir temprano si se va a almorzar: despu\u00e9s se llena y es imposible encontrar mesa, decayendo mucho la atenci\u00f3n."
+    }, 
+    {
+      "date": "9 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "anacanet", 
+      "text": "No me gusto. Comimos el pollo y me parecio exagerado el gusto de la salsa y me cayo pesado."
+    }, 
+    {
+      "date": "7 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "LeCook", 
+      "text": "Me encanta este lugar, Javier el cocinero tiene muy buena onda, y los platos siempre nos sorprenden gratamente. Siempre probamos cosas que no son de nuestra costumbre y nos resultan muy sabrosas. Siempre que podemos vamos.!"
+    }, 
+    {
+      "date": "2 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ricardoyofre", 
+      "text": "Comimos muy rico y salimos muy satisfechos. De entrada mollejas y de plato principal pollo con panceta. Buena atencion en un lugar sin pretenciones, que conforma."
+    }, 
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Dairi", 
+      "text": "La comida, si bien poco variada, nos pareci\u00f3 buena.  El lugar tiene una ac\u00fastica deplorable, lo que lo hace extremadamente ruidoso.  No tiene carta. El men\u00fa est\u00e1 anotado en la pared. Olor a comida en el ambiente que te queda en la ropa cuando sal\u00eds."
+    }, 
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "garota", 
+      "text": "Buena atenci\u00f3n y comida correcta. Lo que no me gust\u00f3 es que sirvieran cerveza en copa sacada de botella de litro.\r\nLa fecha que seleccion\u00e9 es aproximada."
+    }, 
+    {
+      "date": "26 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "indiana", 
+      "text": "Fuimos  porque teniamos descuento con La Naci\u00f3n y result\u00f3 muy bueno. Mariscos muy frescos. Los pescados tambi\u00e9n y muy sabrosos. Nos renovaron 3 veces la canasta de pan casero y no cobran servicio de mesa. Atenci\u00f3n muy amable."
+    }, 
+    {
+      "date": "13 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "merken", 
+      "text": "Cocina de autor lograda integracion de ingredientes chilenos, alto conocimiento en cocina de mar. carta con grandes sorpresas,  unas peque\u00f1as falencias del cocinero (ciboullette quemado) me hicieron dudar pero en un global estuvo muy bueno, recomendado. la carta de vinos buena, corregir temperatura de servicio. atencion muy calida"
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "gmbrig", 
+      "text": "Llegu\u00e9 por una promoci\u00f3n. Aunque no me gustan los men\u00faes fijos, me llam\u00f3 la atenci\u00f3n la propuesta de mariscos y, al ver que ten\u00eda buenas cr\u00edticas, lo compr\u00e9.El men\u00fa constaba de un plato principal (entre dos a elecci\u00f3n) y un postre.No tuve problemas con la reserva y realmente la comida estaba deliciosa, as\u00ed como el vino chileno que pedimos para acompa\u00f1ar.Al pedir el postre, la camarera confirm\u00f3 que pod\u00edamos cambiar el postre por otro que costaba $2 m\u00e1s.En el momento de pagar,el due\u00f1o no acept\u00f3 dicho cambi\u00f3 y nos cobr\u00f3 los postres, en una actitud mezquina y poco amable. L\u00e1stima, no volveremos."
+    }, 
+    {
+      "date": "26 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Pataglobo", 
+      "text": "Fui ir viernes por la noche. El lugar es chico, es un antiguo bar decorado como rest. de mar, sencillo. La comida mediterranea es buena, con un toque de cocina chilena. Las porciones escasas. El panquete de dulce de leche rico. El ambiente regular. La atencion buena."
+    }, 
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchape", 
+      "text": "\"Caimos\" (asi fue) en este lugar. Ibamos rumbo a este y su gran ventanal y su apariencia sencilla y \"bodegonera\" nos convencieron. Nos atendio una colombiana super simpatica y que conocia a la perfeccion cada uno de los platos. Pasamos por una entrada deliciosa \"De mar y tierra\" (peque\u00f1as casuelitas con un pure de choclo, otra con una especie de mouse de mariscos y la otra con pure de calabaza y palta), continuamos un un bife de chorizo delicioso y terminamos con un postre de maracuya muy rico. Sin duda uno de esas perlitas ocultas en la ciudad... Vinos pocos pero muy bien seleccionados"
+    }, 
+    {
+      "date": "29 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "quiquepora", 
+      "text": "Pasamos directamente a los platos principales: un bife de chorizo enchichado que estaba muy rico (solo que no le pegaron al punto de cocci\u00f3n pedido) y el otro plato principal unas alcachofas sarteneadas con ajies con una tortita de choclo y otra de harina de maiz.  De postre torta h\u00fameda de chocolate con salsa de maracuy\u00e1. Muy buena!\r\nLa carta de vinos es corta pero bien elegida con vinos de bodegas boutique. Quiz\u00e1s falten m\u00e1s vinos blancos (ofrecen s\u00f3lo 2) especialmente en este lugar donde hay mucha oferta de mariscos y pescados."
+    }, 
+    {
+      "date": "25 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bell04", 
+      "text": "una vez mas nos fuimos con la agradable sensacion de haberla pasado muy bien. Cada vez que cambian la carta es un placer probar las nuevas combinaciones. \r\nDe postre el tiradito de citricos y maracuya delicioso. volveremos una y otra vez!!"
+    }, 
+    {
+      "date": "16 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Bali361", 
+      "text": "Excelente la atenci\u00f3n, platos exquisitos, con buena presentaci\u00f3n, ambiente muy agradable, muy lindo local. Hac\u00eda falta en San Telmo un lugar donde probar la comida chilena, aunque no solo abordan la cocina chilena, sino que suman platos latinoamericanos de otras regiones."
+    }, 
+    {
+      "date": "24 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "aspirineta", 
+      "text": "Excelente propuesta de cocina mix americana. Me gust\u00f3 mucho el ceviche, los anticuchos de coraz\u00f3n, las machas (aunque picaban muchisimo!) y de los postres en toblerone de quinoa. La pas\u00e9 muy bien, voy a volver."
+    }, 
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vporto", 
+      "text": "muy buena experiencia, bien atendidos, el lomo a o pobre estubo realmente bueno y muy sabroso, las mollejas de la entrada esquisitas, para volver."
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mikeD", 
+      "text": "Propuesta de cocina chilena (de autor?), con sabores aut\u00f3ctonos, sin pretensiones ni sofisticaci\u00f3n: honesta (coherente con el hecho de no cobrar servicio de mesa). A juzgar por otros comentarios, evidentemente tuve suerte: fui correctamente atendido (es verdad, tal vez les falt\u00f3 profesionalismo a los mozos... pero la onda del lugar lo permite) y el lomo a lo pobre, el codillo de cerdo y los boquerones de entrada estuvieron bien. La cocina es algo lenta. La carta de vinos es corta, pero propone bodegas alternativas e interesantes. Al postre no llegu\u00e9; quiz\u00e1 es una buena excusa para volver"
+    }, 
+    {
+      "date": "18 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marianogourmet", 
+      "text": "Excelente lugar, comida de fusi\u00f3n latinoamericana, buena atenci\u00f3n, y carta de vinos novedosa por lo alternativa. Seguramente volveremos."
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sefeca", 
+      "text": "Me gusto, la comida muy buena, le falto mejor presentaci\u00f2n, pero esta bien preparada. Lo deficiente es la atenci\u00f2n, habria que explicarles que amabilidad no es sinonimo de eficiencia. Falto profesionalismo en la atenci\u00f2n. Seguramente volvere.-"
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Chorizobombon", 
+      "text": "El lugar esta bien, es un salon reducido que da a la calle por una gran vidriera e integrado a la cocina. Con la puerta cerrada hac\u00eda calor y no vi aire acondicionado \u00bfque pasa en verano?. Las comidas buenas y originales con un marcado caracter andino/chileno (como su chef).Los platos son dedicados en su sabor y textura y hay que saber esperarlos, no llegan rapido. Lo decididamente desfavorable fue la atenci\u00f3n, hay dos mozos que todavia no entienden el arte de servir: muy atentos pero terriblemente inexpertos. A pesar de esto merece reincidir."
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "peluca76", 
+      "text": "Lindo lugar con muy buena oferta gastronomica, platos originales. La entrada de mollejas es excelente, al igual que el osobuco con arroz cremoso. Sin embargo el volcan de chocolate no esta a la altura de los otros platos (y demoran 20/30 minutos en traerlo a la mesa).\r\nLa atencion esta bien pero podria ser mejor."
+    }, 
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "A favor:MUY BUEN precio de platos de una carta concisa, excelente opci\u00f3n para el mediod\u00eda, con platos decentes, y atenci\u00f3n amable.Muy rica la qu\u00ednoa!. Precios de vinos muy equilibrados, aunque la carta es escueta no dejen de consultar por otras opciones. El mejor rest\u00f3 de la cuadra seguro!.En contra:algunos platos pueden mejorar a\u00fan, como el salteado de mar que en carta sale con langostinos, pero lamentablemente no nos lleg\u00f3 ninguno al plato, la provoleta no estuvo muy buena y el volc\u00e1n de chocolate que sali\u00f3 completamente pasado de cocci\u00f3n. Mejorable la panera 100%.Seguramente volveremos!"
+    }, 
+    {
+      "date": "13 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Glotonazo", 
+      "text": "Un lugar agradable, bien atendido...simple y sobre todo economico!"
+    }, 
+    {
+      "date": "29 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "helenadetroya", 
+      "text": "muy bueno,la comida excelente, gourmet, con sabores y combinaciones muy equilibradas, la atencion muy buena y amena. Excelente las mollejas con panceta.Los precios muy buenos, volveremos.."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "milesansot", 
+      "text": "Comida riqu\u00edsima!!! muy buena atenci\u00f3n. Una sola contra: no me gusta que el lugar invite a escribir en las paredes"
+    }, 
+    {
+      "date": "7 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ElDundy", 
+      "text": "Ya vinimos varias veces y no deja de asombrarnos. Cada uno de sus platos posee un sabor \u00fanico. Y tienen productos que no se ven en otros lugares como caz\u00f3n y variedades de mariscos. 100% recomendable!"
+    }, 
+    {
+      "date": "18 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sandygirl", 
+      "text": "Un lugar peque\u00f1o pero muy acogedor. La comida: fant\u00e1stica y la atenci\u00f3n es muy buena. Todos quedamos muy conformes con nuestra elecci\u00f3n de platos: mariscos, bondiola y cordero: todo riqu\u00edsimo. Un lugar que vale la pena conocer...para luego volver."
+    }, 
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chapa_dgm1", 
+      "text": "La verdad que fue una experiencia muy satisfactoria. Nos gust\u00f3 mucho el lugar, sin pretenciones pero acogedor, la comida es excelente y variada, anoche arrancamos con un ceviche, pasando por un lomo de tiburon (!!) y un mechado a la olla de tira de asado con contorno de charquikan (!!!), todo con excelente presentaci\u00f3n. Los vinos un poco caros, pero son vinos que no se encuentran en Disco o en Coto. Y menci\u00f3n aparte para el mozo Made - in - Colombia, Santiago, que nos explico cada plato y ayud\u00f3 con sugerencias muy  acertadas. Se gasta mas de lo que anuncia esta pagina, pero lo vale. Volveremos"
+    }, 
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lcastiglioni", 
+      "text": "Este es uno de esos lugares que te transportan al mas all\u00e1. Pr\u00e1cticamente indescriptible el encuentro de sensaciones en el paladar, simplemente asombroso. La carta var\u00eda todos los d\u00edas de acuerdo a ingredientes de estaci\u00f3n, muchos platos con pescados y mariscos y sabores nuevos. El chef y due\u00f1o del lugar, Javier, est\u00e1 atento a cada detalle. La presentaci\u00f3n de los platos impecable. Ideal para los que les gusta la cocina sudamericana y disfrutan experimentar sensaciones que se hacen poes\u00eda en la boca."
+    }, 
+    {
+      "date": "11 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "EstebanTs", 
+      "text": "Fui este verano, con mi novia, es una experiencia al paladar que pocas veces e puedes dar porque ademas de tener las carnes argentinas (exquisitas) tienes sabores de todos lados de Sudam\u00e9rica.  Pescados y mariscos asombrosos, que no te topas muy seguido en Baires, ya que no tienen mucho de eso.\r\nA la hora de almuerzo tienen promoci\u00f3n que es mucho m\u00e1s barata que la cena.\r\nsi eres turista chileno, te dan un trato muy cordial ya que como es l\u00f3gico se extra\u00f1a la patria."
+    }, 
+    {
+      "date": "31 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "oscaroi", 
+      "text": "El restaurante es genial, donde pude encontrar comida de diferentes pa\u00edses latinoamericanos que era lo que busc\u00e1bamos con mi novia.\r\nPocas veces encuentras lugares donde te puedas sentir en muchos pa\u00edses, estando solo en uno. Es un restaurante tranquilo con buena comida y muy buen servicio. La recomendaci\u00f3n es de 10"
+    }, 
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Porcia", 
+      "text": "Fuimos a comer con una promoci\u00f3n y tuvimos una sorpresa muy agradable con la calidad de la comida, muy sabrosa, la musica excelente (reconoc\u00ed a Chabuca Granda)"
+    }, 
+    {
+      "date": "8 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "caiogb", 
+      "text": "Nos atendi\u00f3 Javier, su chef y due\u00f1o, que fue muy c\u00e1lido y amable explic\u00e1ndonos todos los platos que estaban en la pizarra. Es comida fusi\u00f3n de inspiraci\u00f3n chilena, con muy lindas combinaciones de sabores, texturas y colores. De entrada pedimos unos langostinos con palta, perfectos con un toque agridulce. Y de principal tambi\u00e9n compartimos el \"Mote Cremoso\", que es la versi\u00f3n de Javier de un plato chileno con trigo y mariscos, un go-la-zo. De postre, sabay\u00f3n de maracuy\u00e1! Y al no haber cerveza en la carta nos tomamos unas limonadas caseras ideales para el veranito. Volveremos, y con amigos!"
+    }, 
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "akanemane", 
+      "text": "Fuimos a comer a mediod\u00eda. Pedimos la entrada de palta, langostino y tomate cherry, estaba muy bien condimentado.\r\nLuego, de plato de fondo pedimos el mote cremoso que es un tipo de risotto de trigo (mote) con mariscos, estaba incre\u00edble!\r\nLos orecios bien y los platos de fondo son abundantes as\u00ed que se pueden compartir. Volveremos."
+    }, 
+    {
+      "date": "27 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Excelente cocina, con sabores que transportan a Chile, el pa\u00eds que fue cuna del chef de De Lira.  Ambiente distendido, atenci\u00f3n amabil\u00edsima por parte de Milan,  que nos aconsej\u00f3 profesionamente sobre los platos a elegir para disfrutar de una exquisita cena. Es un lugar como para recomendar, sin dudas."
+    }, 
+    {
+      "date": "21 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maruski", 
+      "text": "Acabamos de cenar all\u00ed gracias a un cup\u00f3n de descuento; realmente, no sab\u00edamos cu\u00e1l era la especialidad de la casa (la descripci\u00f3n en la gu\u00eda es un poco vaga). Grat\u00edsima fue nuestra sorpresa al encontrarse con comida latinoamericana de autor. Excelente men\u00fa, abundante en mariscos, muy buena atenci\u00f3n y clima, s\u00faper recomendable para quienes deseen conocer un poco del men\u00fa chileno y andino en general!! Los precios, m\u00e1s que acomodados ... volveremos pronto!!"
+    }, 
+    {
+      "date": "11 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "FlorPad", 
+      "text": "Excelente! El lugar es divino, la atencion mas que esmerada.\r\nSe come bien y abundante en un lugar en el que se respira buena onda.\r\nSi estan por San Telmo, recomiendo darse una vueltita por ah\u00ed!"
+    }, 
+    {
+      "date": "9 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luzie", 
+      "text": "muy rica la comida excelente relacion precio calidad ,comimos unos bifes achichados muy ricos y la carne esta super bien condimentada la torta humeda de chocolata con el helado de maracuya riiiiiiquiiiiiisiiiima   pero un poco poca .lo super recomiendo."
+    }, 
+    {
+      "date": "28 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "v.", 
+      "text": "Excelente atencion! Felicitaciones al chef por su dedicacion y exquisitez en cada plato. La atencion super calida :)\r\nVolveremos."
+    }, 
+    {
+      "date": "1 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "debd", 
+      "text": "Es la 2da vez que vamos a este lugar. Como entrada pedimos la tabla de mariscos. Muy rico todo. De plato principal probamos la cazuela de mariscos con salsa picante, machas a la parmesana (recomendable) y carre de cerdo con pure de batatas. Todos los platos estaban muy bien y las porciones fueron justas. Muchos criticaban de este lugar que no tenia aire acondicionado, ahora si lo tiene."
+    }, 
+    {
+      "date": "29 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ROSAMEL", 
+      "text": "De lo mejor que probamos en los \u00faltimos cuatro meses. Muy bueno, cocina chilena muy rica, sin sofisticaci\u00f3n. Las machas a la parmesana imperdibles tan buenas como las que com\u00ed en Chile. La carta de vinos muy acotada, siendo el fuerte los pescados y mariscos le faltan vinos blancos. El postre  rico y el caf\u00e9 excelente, algo poco frecuente. La relaci\u00f3n Calidad /Precio es optima. Junto a Magritte  uno de los mejores lugares para comer pescados y mariscos. Para recomendar.Volveremos sin duda."
+    }, 
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "MaritodeSalto", 
+      "text": "Interesant\u00edsima propuesta. La entrada de pasta tibia de quinoa envuelta en hojas de parra con rara salsa agridulce es un plato original y exquisito. El resto, todo muy bien. Faltaba alg\u00fan postre liviano, todos eran m\u00e1s bien de reposter\u00eda. Se ve que han tenido en cuenta anteriores comentarios, porque la atenci\u00f3n fue muy sol\u00edcita y el servicio r\u00e1pido. El precio es m\u00e1s que razonable. Sugiero probar."
+    }, 
+    {
+      "date": "9 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Polif", 
+      "text": "fuimos tres veces y nos encant\u00f3! la comida es inmejorable, el ambiente muy c\u00e1lido y atendido cordialmente por sus due\u00f1os."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "LeCook", 
+      "text": "Fuimos a conocerlo porque somos de la zona, y siempre estamos al tanto de las novedades.\r\nNos encanto, los platos son muy sabrosos, muy proporcionados en todo sentido, la carta en gral, es acotada, pero ofrece variedad para todos los gustos. Juegan muy bien con las texturas, tanto en lo salado  como en los dulces.\r\nVamos a volver como le dijimos,al chef que estuvo muy atento en saludar a los comensales, a probar el resto de los platos!\r\nMuy recomendable!"
+    }, 
+    {
+      "date": "25 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "traductor", 
+      "text": "Excelente calidad en una comida de cheff, con productos andinos incluidos. Tanto la entrada como el postre fueron inmejorables tambi\u00e9n. Un hallazgo en San Telmo. Carta de vinos corta pero con algunos buenos y de precio razonable."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "21 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Efficient", 
+      "text": "Las Dalias se distingue por ofrecer muy buenos platos caseros, en un ambiente reducido sin pretensiones y con buena atencion. Excelente el clasico lomo a la crema con champignones."
+    }, 
+    {
+      "date": "14 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Un lugar acogedor para comer como en casa. Platos abundantes y con estilo casero que dejan satisfecho a cualquier comensal. El personal a cargo del local es muy cordial y en todo momento lo hacen a uno sentir a gusto. Cabe destacar la excelente ubicaci\u00f3n del local. En fin, una opci\u00f3n poco reconocida pero m\u00e1s que recomendable."
+    }, 
+    {
+      "date": "7 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "marzo66", 
+      "text": "Este restaurante ha sido remodelado y ha ganado mucho en la calidad de la comida y en la ambientaci\u00f3n. Todav\u00eda no veo gran cantidad de gente concurriendo a comer, pero creo que con el tiempo va a ganar muchos adeptos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "capricho", 
+      "text": "La atencion de los mozos es excelente, cuenta con una clientela muy fiel, la comida es tipo casera, excelente!"
+    }, 
+    {
+      "date": "20 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "grisselda", 
+      "text": "Excelente ambiente, restaurante de una alta categor\u00eda, muy buena atenci\u00f3n, platos bien servidos y mucha ambabilidad, lo recomiendo"
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gerhaber", 
+      "text": "Un ambiente muy calido y una atencion exelente, recomendable, y de noche al pagar me invitaron con champagne (algo poco visto en lugares de alta gama)."
+    }, 
+    {
+      "date": "30 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "river84a", 
+      "text": "Excelente comida en una zona privilegiada de Buenos Aires."
+    }
+  ]
+}

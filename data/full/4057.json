@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "29 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rad", 
+      "text": "Voy con frecuencia. Tienen una opci\u00f3n men\u00fa libre que destaca por econ\u00f3mica. Excelentes empanadas de humita y carne que se pueden pedir indefinidamente, y parrillada normal. La atenci\u00f3n es amabil\u00edsima y cordial. Tambi\u00e9n tienen pastas libres, pero no me parecen destacables."
+    }, 
+    {
+      "date": "7 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "pablosg", 
+      "text": "Ideal para ir con amigos o con una relaci\u00f3n ya bien encaminada (no es para una primer cita). Es de los pocos lugares de la zona que no est\u00e1 pensada para turistas. La gente le pone la mejor onda, claro que no se preocupan en servirte por la derecha. En resumen, es para ir a comer bien sin pagar mucho. Si te gusta lo sofisticado, no vayas, camina unas cuadras que te esperan con el hacha. Yo lo recomiendo."
+    }, 
+    {
+      "date": "5 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "el_pala", 
+      "text": "Fuimos un viernes por la noche y el lugar estaba medio vacio. La comida era bastante normal(no probamos las pastas) pero lo que destaco fue la atencion del camarero que por mas que no fue del todo profesional si fue muy amable. La ambientancion es inexistente. Exelente relacion precio calidad"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Brownie_Glam", 
+      "text": "Excelente!!!! todos 10 puntos. probe la parrilla libre  a la noche y al mediodia un menu ala carta, todo muy bien! la carne te llega justo como lo pedis! muy buena la atencion! un lugar muy de barrio para la gente de barrio de san telmo.-"
+    }
+  ]
+}

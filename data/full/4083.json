@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "29 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "puli32", 
+      "text": "Al lugar le falta onda, a pesar que es de barrio aunque sea un poco de musica de fondo para que no haya tanto silencio. Lo mejor la entra\u00f1a, riquisima, el pechito de cerdo un poco seco y la provoleta estaba hirviendo, muy liquida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "florba", 
+      "text": "muy buen lugar!!!! la comida me encanto!!! las porciones son abundantes, caseras y encima a muy buen precio!!!.\r\nlo que me gusto mucho es que en donde esta ubicada no hay ningun problema para estacionar,  ya que en palermo esto se complica, y al ser un lugar super tranquilo se puede disfrutar de la comida!!"
+    }, 
+    {
+      "date": "15 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Elii", 
+      "text": "Ambiente muy agradable, las porciones son muy abundantes, la comida es muy rica..y la atencion es buena.."
+    }
+  ]
+}

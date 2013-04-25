@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "6 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "shumi7", 
+      "text": "Fuimos con un cupon de descuento y no defraudo la comida. No deber\u00edan tener un trato diferenciado con los comensales que van con cupon ya que son estos los que lo prueban y vuelven si el lugar convence. Yo por mi parte me encanto la comida y volver\u00eda, pero quizas otro no lo haga."
+    }, 
+    {
+      "date": "9 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bailac", 
+      "text": "Fuimos con un cupon. Las entradas estaban muy ricas, el plato principal, mas o menos y el flan espectacular. Volveremos, pero hay que mejorar la atencion y hacerlo con un poco mas de ganas. Quizas la falta de ganas fue porque fuimos con el cupon, pero seria una lastima."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Thaiana", 
+      "text": "Tiene menu ejecutivo con bebida y cafe el mismo es muy variado. La verdad solemos ir muy seguido. Muy recomendable, comida freca, abundante y variada. Tranquilo para desconectarse a la hora del almuerzo."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mcsoto", 
+      "text": "Todo bien, aunque mejoraria la atencion, cuestion muy importante para tener ganas de volver, porque comer bien, hay muchos lugares."
+    }, 
+    {
+      "date": "12 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mar471", 
+      "text": "Fuimos a almorzar con un cup\u00f3n de descuento.  Por $ 80.- dos personas con entrada, plato principal, postre y bebidas.  El lugar muy acogedor, la atenci\u00f3n excelente y la com\u00edda riqu\u00edsima.  Sin duda que vamos a volver."
+    }
+  ]
+}

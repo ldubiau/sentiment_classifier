@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Uno de los mejores lugares con playita para comer en el delta. No esperen gran esmero en la atencion, es un parador de rio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "verolago", 
+      "text": "Excelente ambiente familiar y juvenil, sol, playa, buena musica y excelente onda"
+    }
+  ]
+}

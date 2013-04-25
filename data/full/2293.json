@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lau2507", 
+      "text": "Este lugar da verguenza ajena. Primero nos dijeron un precio y luego cuando vimos el menu era otro. La parrillada es escasa, vino cruda , la devolvimos y volvio totalmente dura y sin vacio. Los cubiertos nos dijeron que no serian cobrados, pero al final cuando vimos la cuenta habia un monto que no especificaba y cuando consultamos nos dijeron que era de la mesa, y luego nos informaron que en realidad era la propina. Nos quejamos y nos desmintieron todo y nos pasaron con el cocinero para que le digamos lo mal que comimos...me pregunto si no hubiese sido mejor, un simple \"disculpas\"."
+    }, 
+    {
+      "date": "19 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "SANTI455", 
+      "text": "La comida muy mala, parecia todo recalentado. No tenia gusto a nada. La verdad es que es una verguenza que le ofrezcan esa comida a los extranjeros."
+    }, 
+    {
+      "date": "16 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "javigar90", 
+      "text": "El lugar son un par de mesas en la calle. La carne que comimos estaba terriblemente dura. El show fue muy pobre, no te daban ganas de mirarlo. Para nada recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danamore", 
+      "text": "Buena ambientaci\u00f3n, c\u00e1lida atenci\u00f3n, productos frescos y muy buena presentaci\u00f3n de los platos."
+    }
+  ]
+}

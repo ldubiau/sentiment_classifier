@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "12 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Muli", 
+      "text": "De terror!!! En estas fotos zafa, pero es horrible:feo, mala atenci\u00f3n y comida horrible. Y no vayan ni que sea el \u00faltimo restaurant kosher sobre la tierra."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gallote", 
+      "text": "Re tranquilo. Muy bueno lugar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Jun 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "drka", 
+      "text": "La comida excelente, el lugar muy tranquilo.\r\nBien ambientado, buena relaci\u00f3n precio-comida.\r\nLos platos fueron abundantes y muy bien presentados, ideal para una cena romantica.\r\nLo malo: El mozo (friki)"
+    }
+  ]
+}

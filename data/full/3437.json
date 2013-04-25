@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "18 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "nuchi", 
+      "text": "Muy lindo lugar en cuanto a esmerada atenci\u00f3n, muy cuidada  la decoraci\u00f3n, pensado hasta el m\u00ednimo detalle(carta, vajilla, armon\u00eda de colores) rica y bien presentada la comida. Agradable para desayunos, t\u00e9, comidas. Para recomendar."
+    }, 
+    {
+      "date": "16 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "valderecoleta", 
+      "text": "Es un lugar muy c\u00e1lido, la comida muy rica y la m\u00fasica muy amena.\r\nIdeal para un almuerzo o merienda con amigas."
+    }, 
+    {
+      "date": "12 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Lugar lindo y original, aunque casi pasa inadvertido. Comida rica, ideal para un almuerzo relajado de s\u00e1bado"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "metenesarta", 
+      "text": "Muy bueno el dise\u00f1o y el concepto,ya que hay objetos a la venta,de dise\u00f1o.El ambiente es muy agradable y la comida es excelente,ademas del precio razonable."
+    }, 
+    {
+      "date": "15 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anglers", 
+      "text": "Un lugar muy original. De ambiente \u00edntimo y con una esmerada atenci\u00f3n."
+    }
+  ]
+}

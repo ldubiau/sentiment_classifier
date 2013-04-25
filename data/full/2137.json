@@ -1,0 +1,148 @@
+{
+  "malos": [
+    {
+      "date": "17 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Adrian27", 
+      "text": "Pedimos dos Parrilladas. Una de Vegetales que estaba muy bien, pero la de carnes era bastante mala, todos los cortes sobrepasados de cocci\u00f3n, carne dura, llena de grasa, y de mala calidad. Encima tardaron una hora en traer la comida. El lugar adem\u00e1s est\u00e1 bastante descuidado y la atenci\u00f3n es mala.  Una pena que en un lugar tan bien ubicado no puedan ofrecer una propuesta  mejor."
+    }, 
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "macoca", 
+      "text": "Te cobran una fortuna por servicio de mesa; el vino estaba picado, pedimos la comida y la entrada tard\u00f3 veinte minutos y los platos principales (que por su tama\u00f1o parec\u00edan entradas) cerca de una hora y no estuvieron del todo bueno. \r\nMediocres para ser el tiempo que esperamos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "La comida es buena y el ambiente tranquilo y agradable. La atenci\u00f3n, no pasa de normal y algo desatenta."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Leitus", 
+      "text": "Muy buena la parrillada para dos personas, con abundancia de mollejas."
+    }, 
+    {
+      "date": "2 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Raulernesto", 
+      "text": "Aceptable. Sin cosas para destacar."
+    }, 
+    {
+      "date": "1 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "El lugar es muy lindo, c\u00f3modo y tranquilo para charlar con amigos. La comida es buena. El precio es accesible y el servicio es bueno. Recomendable."
+    }, 
+    {
+      "date": "5 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Muy buena calidad de la carne y las verduras grilladas. Servicio amable y discreto en un ambiente agradable. Todo correcto y como para volver a probar otras opciones."
+    }, 
+    {
+      "date": "1 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Luckytasd", 
+      "text": "Las porciones son muy peque\u00f1as.\r\nPedimos sorrentinos y nos trajeron cuatro de y peque\u00f1os."
+    }, 
+    {
+      "date": "31 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fusilier", 
+      "text": "Todo correcto, el ambiente es tranquilo y agradable, la atenci\u00f3n es cordial y respetuosa (el mozo s\u00f3lo aparece cuando se lo llama, como debe ser). \r\nBuena cocina. Nada del otro mundo en general, pero de todos modos recomendable."
+    }, 
+    {
+      "date": "2 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lucho71", 
+      "text": "Muy buen lugar. Ambientaci\u00f3n, comida y precio en armon\u00eda. Totalmente recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hokans", 
+      "text": "Soy habitue de Pat\u00e9, sin duda lo mejor de la zona del boulevard de Palermo, porciones abundantes. Las mollejas al verdeo son excelentes. \r\nEl ambiente es hermoso, aunque cabe mencionar que no hacen las refracciones necesarias, con lo cual no es muy agradable a la vista en ciertos detalles."
+    }, 
+    {
+      "date": "7 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "susanare", 
+      "text": "Muy buen plato, excelente equilibrio de sabores y presentaci\u00f3n."
+    }, 
+    {
+      "date": "9 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mariaali", 
+      "text": "Me encant\u00f3 la ambientaci\u00f3n y sobre todo la cordialidad de los mozos; en especial Miguel, que ha sido tan amable. Saludos para \u00e9l."
+    }, 
+    {
+      "date": "6 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "miguelit", 
+      "text": "Muy cordial atenci\u00f3n."
+    }
+  ]
+}

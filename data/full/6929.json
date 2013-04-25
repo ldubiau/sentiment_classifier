@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "13 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Milena_Iris", 
+      "text": "Lo recomiendo para comer una pizza al molde bien sequita, no grasosa. Pedimos una a la que le agregamos ingedientes pero el cocinero cometi\u00f3 el error de picar la albahaca y llevarla al horno. El lugar est\u00e1 lleno de lindas obras hechas por el due\u00f1o del lugar, pintoresco, atractivo y un poco sobrecargado."
+    }, 
+    {
+      "date": "25 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Cyn_Farber", 
+      "text": "Pedimos siempre pizza en esta pizzar\u00eda y no s\u00f3lo la pizza es muy buena (y el precio razonable) sino que nos atienden genial, r\u00e1pido, y s\u00faper atentos!"
+    }, 
+    {
+      "date": "27 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "Una original \"pizzer\u00eda art\u00edstica\", ya que el due\u00f1o es pintor y escritor. Las paredes est\u00e1n repletas de sus cuadros y dibujos, y en el local tambi\u00e9n se reparte una minirevista con poemas, dibujos y minicuentos. El ambiente es peque\u00f1o (apenas se puede caminar entre las mesas) y c\u00e1lido, ideal para ir con amigos. Las pizzas son muy buenas, y el precio es acorde a esa calidad. Uno de los cl\u00e1sicos de Vicente L\u00f3pez."
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "buenos": [
+    {
+      "date": "30 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Comida muy despareja. Salm\u00f3n al roquefort bueno, calamarettis a la Lyonesa (versi\u00f3n libre Viejo Derby) sin cebolla. Bueno el tiramis\u00fa. Atencion desprolija y desatenta.en un ambiente simple y familiar.. Los precios no son economicos por la calidad y cantidad que ofrecen."
+    }, 
+    {
+      "date": "8 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "chiquitalinda", 
+      "text": "Pedimos la tabla de mar y solo ten\u00eca rabas y cornalitos (en los restaurantes peruanos siempre tiene m\u00e0s variedad), y la tortilla a la espa\u00f1ola vino sin cebolla, pero respetaron el punto de cocci\u00f2n que hab\u00eca pedido. Todo sin sal, as\u00ec que tambi\u00e8n sin gusto. Estaba lleno y el bullicio aturd\u00eca. No creo que vuelva, no me deslumbr\u00f2 para nada, hasta me pareci\u00f2 caro."
+    }, 
+    {
+      "date": "14 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Luferat", 
+      "text": "Mesas muy juntas y mesas dobles separsdas apenas entre s\u00ed para aprovecharlas el doble con dos juegos de comensales, en paralelo y casi toc\u00e1ndose."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Richy", 
+      "text": "Fuimos a festejar el d\u00eda del amigo en grupo y la pasamos fant\u00e1stico. A pesar de que el sal\u00f3n estaba lleno, la atenci\u00f3n fue excelente y los platos salieron r\u00e1pido (ricos y abundantes). Sumamente recomendable."
+    }, 
+    {
+      "date": "27 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pinico", 
+      "text": "Muy recomendable. si bien las pastas demoraron un poco(entre 20 y 25 minutos) cuando es de esta calidad vale la pena no impacientarse. \r\nBuen servicio, calidez."
+    }, 
+    {
+      "date": "1 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "solilu", 
+      "text": "Un simp\u00e1tico lugar de pocas mesas, atentos al comensal. Ambiente familiar y agradable. Los platos son abundantes. Para recomendar el tiramis\u00fa y la natilla."
+    }, 
+    {
+      "date": "27 Abr 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Bonapetit", 
+      "text": "Mala atenci\u00f3n por el mozo inexperto y que no daba a basto. Reclamamos a la due\u00f1a, quien respondi\u00f3 de mala forma."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pablomac", 
+      "text": "Voy hace a\u00f1os al Derby y jam\u00e1s me defraudan. Pastas, carnes, la famosa y espectacular tabla de frutos de mar y el infaltable tiramis\u00fa, hacen que siempre vuelva. Mabel y el resto de la gente, Claudia, Horacio, Pepe y los cocineros, siempre con la mejor predisposici\u00f3n. Imperdible."
+    }, 
+    {
+      "date": "1 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ZEUSS", 
+      "text": "Buena atenci\u00f3n, buena comida. El espacio es algo apretado, el precio correcto.\r\nPara visitar."
+    }, 
+    {
+      "date": "16 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vgazzanego", 
+      "text": "Las pastas son excelentes, el ambiente est\u00e1 bien decorado, con la linda vista que tiene del Parque Lezama."
+    }, 
+    {
+      "date": "17 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ricatrucha", 
+      "text": "Comida riqu\u00edsima, lugar c\u00e1lido y familiar. Atenci\u00f3n muy buena del mozo y encargado."
+    }, 
+    {
+      "date": "3 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alb67", 
+      "text": "La comida abundante, buena calidad y los tiempos m\u00e1s que correctos.\r\nLa atenci\u00f3n, sobre todo de la mesera inmejorable.\r\nSoy catal\u00e1n y siempre que estoy ac\u00e1, vuelvo al Viejo derby."
+    }, 
+    {
+      "date": "20 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lespaulx", 
+      "text": "Exelente lugar para todos los dias, el ambiente es calido, familiar y muy acojedor. La atenci\u00f3n es correcta y amable. La comida es excelente sobre todo las pastas. Pocas mesas y una hermosa vista al parque."
+    }, 
+    {
+      "date": "27 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "damiande", 
+      "text": "El ambiente es familiar y agradable."
+    }
+  ]
+}

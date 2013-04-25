@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Xareman", 
+      "text": "Fuimos 6 personas y el mozo parecia no entender que la entrada viene antes que el plato principal, porque trajo todo junto.\r\nUno de los pedidos era \"costilla de lomo\" asi figura en el menu, vino pasada y fr\u00eda.\r\nEl encargado muy amablemente nos hizo un descuento considerable,ya que nos quejamos del servicio y la comida.\r\nComo excusa dijo que estaba desbordado porque ese dia habia abajo un desfile de modas, pero la realidad que los comensales eran los que entraban en las mesas.\r\nEl lugar es muy bueno, pero solo volveria por la tarde, a tomar un te."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "hermed", 
+      "text": "El clima es muy agradable, la vista es excelente y el lugar en general es impecable, sobre todo por la hermosa vista que la terraza de Fundaci\u00f3n Proa posee.\r\nUn s\u00f3lo comentario negativo es la demora en la atenci\u00f3n que, me parece, tiene que ver con la poca cantidad de personal. \r\nEn l\u00edneas generales es un lugar incre\u00edble."
+    }, 
+    {
+      "date": "28 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "AMESA", 
+      "text": "Para mi gusto este es el secretomejor guardado de La Boca en materia gastron\u00f3mica. El sitio cuenta con un amplio sal\u00f3n y una terraza que permiten apreciar tranquilamente la parte final del Riachuelo, todo en un ambiente sosegado que permite conversar tranquilamente y disfrutar del almuerzo, te, caf\u00e9 o momento de descanso. Muy buena la atenci\u00f3n de los mozos; las ofertas de la carta est\u00e1n acotadas a cocciones o presentaciones sencillas peromuy bien elaboradas. Para mi gusto un sitio encantador que merece ser conocido y disfrutado, en complemento a toda la oferta cultural de la Fundaci\u00f3n PROA."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "barkohba", 
+      "text": "Fabuloso, desde todo punto de vista. Una maravilla est\u00e9tica in\u00e9dita en Buenos Aires."
+    }
+  ]
+}

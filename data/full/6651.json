@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "mr_olias", 
+      "text": "Decision lamentable la mia al pretender encontrar en este lugar, una alternativa valida en la zona de almagro para comer una parrillada. Es pesima, quemada (arrebatada) gorda como pocas veces y dura. Todo mal, encima, sali todo impregnado en olor a humo y grasa. HORRIBLE !!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fklite", 
+      "text": "Eramos cuatro, pedimos una entrada y tres platos de parrilla: el bife de chorizo bien, la entra\u00f1a bien pero escasa para el precio (una tirita $30) y el asado muy malo. Dos ensaladas, papas fritas congeladas muy malas, postre y caf\u00e9, dos botellas de vino y dos aguas: $90 por persona. Un poco caro, pero nos atendi\u00f3 muy bien la moza  (eso si, habia poca gente) y el ambiente es agradable. Dificil de evaluar. Una inc\u00f3gnita. Habr\u00e1 que volver y probar de nuevo."
+    }, 
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marce5", 
+      "text": "Cordial atenci\u00f3n, buena carne, y un ambiente familiar. Las mesas est\u00e1 bien ubicadas."
+    }, 
+    {
+      "date": "14 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ososibarita", 
+      "text": "Restaurante con una carta muy variada parrilla, pastas y pescados. Ambiente muy agradable y tranquilo con mesas y boxes. La atenci\u00f3n es muy correcta y al final de la comida nos invitaron caf\u00e9 o una copa de vino espumante. Es un lugar para volver."
+    }, 
+    {
+      "date": "31 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pulgoso", 
+      "text": "La verdad muy buen lugar sorprende la calidad de la carne el ambiente bastante comodo es recomendable."
+    }, 
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "2315xxx", 
+      "text": "carta variada de comidas,buena atencion y una carne exquisita"
+    }
+  ]
+}

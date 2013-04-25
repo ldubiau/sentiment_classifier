@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "2 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "GS13", 
+      "text": "El lugar es c\u00f3modo, pero al estar la puerta de ingreso abierta en la intersecci\u00f3n de las avenidas el ruido de la calle era un poco molesto. \r\nLa comida es aceptable. Los mozos son atentos."
+    }, 
+    {
+      "date": "14 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "MAGNUS", 
+      "text": "buenas porciones, los mozos se esmeran por atender bien."
+    }, 
+    {
+      "date": "4 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Goose", 
+      "text": "T\u00edpico pizza-cafe de barrio. Carta muy amplia. Buena comida y abundante, aunque cara."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mayte73", 
+      "text": "Se puede comprobar el esmero por la satisfacci\u00f3n del cliente y la gran calidad de productos."
+    }, 
+    {
+      "date": "18 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "heber197", 
+      "text": "Utilizo siempre delivery y es excelente el servicio."
+    }
+  ]
+}

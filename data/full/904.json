@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "29 Jul 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "silsu", 
+      "text": "Si bien el lugar estaba lleno, quiz\u00e1s porque el precio es barato, lo dem\u00e1s mal\u00edsimo. Hasta la camarera nos coment\u00f3 el desastre de la cocina. Para un lugar como Puerto Madero, esto lo tira abajo."
+    }, 
+    {
+      "date": "21 Jul 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "aletheam", 
+      "text": "El lugar no est\u00e1 lleno por una raz\u00f3n sencilla: la comida es mala y \"vieja\" acompa\u00f1ada de un mal servicio. \r\nEncima pas\u00e9 dos d\u00edas mal despu\u00e9s de ir a comer.\r\nHay mucho humo en el ambiente, alguien debe tomar nota de esto, ya sea el due\u00f1o o la autoridad sanit\u00e1ria de la Ciudad de Buenos Aires."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Oct 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "veronica6", 
+      "text": "Debimos suponerlo porque era uno de los pocos restaurantes que no estaban llenos. \r\nLa comida y el ambiente dejaron bastante que desear, pero la atenci\u00f3n fue de terror."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "extranai", 
+      "text": "Es exelente el lugar y principalmente las camareras, muy atentas. En especial una llamada Mariana."
+    }, 
+    {
+      "date": "14 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gilea02", 
+      "text": "Es un lugar excelente, muy buena atenci\u00f3n, exquisita comida. Buen lugar para compartir con amigos."
+    }
+  ]
+}

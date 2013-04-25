@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "26 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "La calidad de la carne sigue siendo el fuerte de esta parrilla; com\u00ed el mejor bife de lomo que recuerdo: tierno, jugoso y sabroso como pocos. Muy bien!"
+    }, 
+    {
+      "date": "16 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "nuchi", 
+      "text": "Un lugar que conserva barrio en su ambientaci\u00f3n y servicio, muy bien ubicado, buenas carnes, sin pretensiones"
+    }, 
+    {
+      "date": "3 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "megf26", 
+      "text": "Es una parilla que tiene 80 a\u00f1os, no esperar grandes lujos, el mozo que nos atendi\u00f3 hace 44 a\u00f1os que trabaja ah\u00ed, la atenci\u00f3n fue excelente. \r\nLa comida es muy buena, recomiendo de postre el flan con dulce de leche y crema no defrauda."
+    }, 
+    {
+      "date": "19 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El bife de chorizo es muy bueno y el lugar es  una de esas parrillas bien de barrio como las de antes donde uno sabe qu\u00e9 esperar. Cualquier d\u00eda de semana, sin pretensiones demasiado gourmet, saldremos satisfechos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nartub", 
+      "text": "Fui dos veces, la primera me llevaron, la segunda llev\u00e9 yo a dos amigos.\r\nLas dos veces me pareci\u00f3 un lugar espectacular.. es de los restaurantes de antes. \r\nSi vas apretado con la guita, com\u00e9s bien. Ahora, si ten\u00e9s ganas de gastar un poco m\u00e1s para probar distintas cosas, creo que vas a tener una comida memorable. Recomendable."
+    }
+  ]
+}

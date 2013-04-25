@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "26 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "coconut", 
+      "text": "cadena de fast food que intenta destacarse por la calidad de sus propuestas en sandwiches, tartas y ensaladas, pero no termina de convencer ni de encontrar su identidad propia. el local de diagonal norte, en microcentro, tiene precios altos en relacion con la calidad, como todos los restaurantes de esa zona. el philly cheese steak (a 23 pesos con papas mc cain y coca de maquina) no esta del todo logrado. y mejor evitar la comparacion odiosa con su version original, la de los puestitos callejeros de filadelfia... que, dicho sea de paso, no cuesta mas de 4 dolares."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gisegaby", 
+      "text": "En una buena opcion dentro del patio de comidas, pero es CARO por lo q es, nada q ver la foto del sandwich con lo q te traen, era rico pero esperaba otra cosa."
+    }, 
+    {
+      "date": "13 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cachocastania", 
+      "text": "Buena comida, l\u00e1stima que est\u00e1 adentro del shopping."
+    }, 
+    {
+      "date": "20 Feb 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "isgar8", 
+      "text": "Buena comida t\u00edpica arabe, pero en otro lugar estaria mucho mejor, porque al estar dentro del shopping, no hay nada de tranquilidad..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "La comida es buena asi como la atenci\u00f3n. Intenta ser un cierto oasis en un insoportable patio de comidas de un shooping bastante caluroso y muy ruidoso."
+    }
+  ]
+}

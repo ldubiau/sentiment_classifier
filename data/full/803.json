@@ -1,0 +1,308 @@
+{
+  "malos": [
+    {
+      "date": "27 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "SoleHor", 
+      "text": "Precios muy elevados para lo que es. Es chico y mucho no se esforzaron para darle vida. Si queres esperar mas de 30 min. para que te traigan algo es sin duda el lugar..."
+    }, 
+    {
+      "date": "11 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "florcita14", 
+      "text": "El lugar, la onda de los mozos, todo muy bien, el tema es que es un bar y las bebidas no son buenas. Un bellini no puede servirse con champagne caliente! Es un buen punto de encuentro, nada mas"
+    }, 
+    {
+      "date": "21 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Bestvalue", 
+      "text": "Los tragos muy buenos, la comida mala pero barata. las rabas estaban buenas, los \u00f1oquis INCOMIBLES, la atencion y la ambientacion muy buenas.Vino tinto por copa solo carcassone, blanco Los arboles (sin comentarios)"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Hexagram6", 
+      "text": "pedimos una pizza que estaba dividida en 2: una mitad cebolla, panceta y huevo; la otra tenia jamon y champignones. Estaba riquisima pero la cebolla muy fuerte, la pudieron haber salteado. La musica estaba fuerte y repetitiva, el resto todo bien. los precios son un poco elevados. no comimos postre"
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "@LuciaEsmoris", 
+      "text": "Muy riko el lomito, lindos chicos, para ir a tomar algo y picotear algo... esta bien..."
+    }, 
+    {
+      "date": "20 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Patunguis", 
+      "text": "Coincido con la opini\u00f3n del usuario sybaryte... el servicio es PESIMO!. Para pedir por segunda vez estuvios esperando mas de 30"
+    }, 
+    {
+      "date": "10 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jor1341", 
+      "text": "MUy lindo un lugar agradable para compartir con amigos!"
+    }, 
+    {
+      "date": "6 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "camacri", 
+      "text": "Excelente el Happy hour!"
+    }, 
+    {
+      "date": "15 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "sybaryte", 
+      "text": "Lugar chico con mucha onda pero pesima atencion, pesima cocina, y apenas rescatable cockteleria!"
+    }, 
+    {
+      "date": "15 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "huesobone", 
+      "text": "Almuerzo muy seguido en el restaurant \"El \u00danico\" de Palermo y hoy me entero nuevo aumento de precios y cambio de modalidad de postre   caf\u00e9 opcional ya no es opcional y va con el men\u00fa. Les dijimos que nos ten\u00edan que haber avisado antes por ser clientes habitu\u00e9 y nos dijo un se\u00f1or calvo que no se pueden acordar de todos los que van. Mucha gente pidiendo libro de quejas. Aparte quitaron la pizarra con los precios. Me pareci\u00f3 una actitud desleal con los clientes que vamos siempre. Como conclusi\u00f3n no voy a ir m\u00e1s, me defraudaron y a todos los que pueda les voy a comentar para difundirlo."
+    }, 
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CaroR_", 
+      "text": "Fuimos a comer la noche, pero la atenci\u00f3n fue p\u00e9sima. Los platos llegaron 50 min. tarde y adem\u00e1s fr\u00edos. Incluso pedimos al horno y lo trajeron frito. Decidimos no dejar propina y al retirarnos una moza se acerc\u00f3 de mala forma a exig\u00edrnosla!!... Ins\u00f3lito."
+    }, 
+    {
+      "date": "18 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Me gust\u00f3 mucho la onda del lugar y me sorprendi\u00f3 gratamente la calidad de las tapas (milanesitas en cuadraditos, salchichitas al vino blanco, alb\u00f3ndiguitas, croquetas de papa): criollas, caseras y ricas. Para pasar un lindo rato de brindis y charla porte\u00f1a con amigos"
+    }, 
+    {
+      "date": "15 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "carola63", 
+      "text": "Fuimos a tomar un trago y el postre despu\u00e9s de la cena en otro lado. Esta es una de las grandes esquinas de Buenos Aires, el lugar tiene mucha onda y es sin dudas un meeting point. Muy visitado por extranjeros y gente con onda."
+    }, 
+    {
+      "date": "15 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Es una buena opcion para ir a tomar algo con amigos porque tiene bastante movida. Ademas, algo para tener en cuenta, es que fui un martes y estaba lleno, cosa que no pasa en otros bares de la zona que a la 1 ya estan cerrando. \r\nEn si se destaca su ambientacion, adentro es todo bastante oscuro con velas en la mesa y afuera las mesitas estan muy bien puestas."
+    }, 
+    {
+      "date": "15 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "jlvdca", 
+      "text": "Voy seguido a comer al mediodia. Tienen varios menus, todos al mismo precio, economicos pero buenos. Recomendable si no queres gastar mucho y hacer un breack al mediodia en un lugar con buena onda."
+    }, 
+    {
+      "date": "14 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "PenelopeGlamour", 
+      "text": "Simplemente un muy buen lugar como punto de encuentro con amigos, mucha gente alrededor, tanto en la calle como en el bar. Considerenlo para tomar buenos tragos antes o despues de ir a cenar."
+    }, 
+    {
+      "date": "5 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fschlim", 
+      "text": "El lugar llena un espacio en el cual pasar un rato cuando uno no se siente muy exigente y puede reunirse con amigos. buen ambiente, atencion basica y la comida es satisfactoria."
+    }, 
+    {
+      "date": "12 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Stankillkenny", 
+      "text": "La verdad que, por lo hermosa que es la esquina, deja bastante que desear la atencion y la calidad... no hablar de la CANTIDAD. La camarera no es que nos atendi\u00f3 mal, sino que ni nos atendi\u00f3... muy mal. El lomo borgo\u00f1a estaba rico, pero no como para ser una de las especialidades de la casa. Igual era de esperarse, PURA IMAGEN!"
+    }, 
+    {
+      "date": "7 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Excelente esquina y muy colorida, especial para tomar una cerveza helada en verano, cuando oscurece se pone mas intimo y ponen velitas en las mesas.\r\nla atencion no es del todo buena, le hicimos el pedido 2 veces y la cuenta tambien se la solicitamos 2 veces, por el resto, recomendable."
+    }, 
+    {
+      "date": "3 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "leslita", 
+      "text": "Ambiente con onda da como para sentarse y disfrutar por lo bohemio que es, pero la atencion ES PESIMA!!fuimos un domingo en la noche y la camarera que nos toco fue cortante, mal humorada, antipatica, se hacia la q no escuchaba y cuando por fin se acercaba era como si nos estuviera haciendo un favor, pero con la mesa de a lado(llena de hombres)era muy simpatica e insinuante, la verdad creo q deberian cambiar de personal o capacitarlos en atencion al cliente, la gente extranjera tambien puede NO recomendar ese bar, tenganlo en cuenta."
+    }, 
+    {
+      "date": "17 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "valeseo", 
+      "text": "Por ser Palermo no me parecio caro. COmida aceptable, con un toque de distincion a clasicos platos.\r\nMuy buena variedad de bebidas y tragos."
+    }, 
+    {
+      "date": "22 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "hernan", 
+      "text": "para relajarse un rato, ver gente pasar y escuchar musica. Divertido, con onda. Muchos extranjeros (y eras). Mozas serviciales."
+    }, 
+    {
+      "date": "6 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Megafon_mdp", 
+      "text": "El lugar no es lo que pretende ser. La atenci\u00f3n es p\u00e9sima, la comida no es de primera calidad, el servicio es muy lento. No todos los tragos son de la misma calidad."
+    }, 
+    {
+      "date": "29 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "GoodTaste", 
+      "text": "Los ingredientes que utilizan no me parecen de gran calidad, por eso los platos quedan a medio camino. \r\nLa barra es regular, pero lo m\u00e1s valorable es el ambiente de la peque\u00f1a pero gran esquina."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gand0lfi", 
+      "text": "La comida fu\u00e9 muy buena. El servicio es bueno pero deja un poco que desear. Los platos especiales son recomendables, no asi los platos comunes, que no tienen nada de especial. Buena presentaci\u00f3n y no es caro para la zona."
+    }, 
+    {
+      "date": "9 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gonza68", 
+      "text": "El lugar es incre\u00edble, la comida esta al nivel de los mejores restaurantes bistro del mundo, la barra cuenta, me arriesgo a decirlo con los mejores barmans que hay actualmente en buenos aires, pero lo mejor es la onda!!, siempre te encontras con alguien, siempre esta abierto y siempre hay gente, este bar es \u00fanico."
+    }, 
+    {
+      "date": "3 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nicola", 
+      "text": "Es un rest\u00f3 con muy buen ambiente, excelente m\u00fasica, quiz\u00e1 algo fuerte para la charla. \r\nCarta variada, platos exquisitos y excelente relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "15 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lolitagl", 
+      "text": "Fant\u00e1stico."
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luisina_", 
+      "text": "Excelente la comida, la ambientaci\u00f3n y la atenci\u00f3n. Adem\u00e1s el precio es s\u00faper accesible."
+    }, 
+    {
+      "date": "12 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mpini", 
+      "text": "Muy bueno."
+    }
+  ]
+}

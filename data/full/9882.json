@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Huge", 
+      "text": "La comida es mala, la atenci\u00f3n es p\u00e9sima. Por ejemplo pedimos panqueques y aparte de tardar 40 minutos los trajeron requemados.\r\nVarios vinos de la carta brillan por su ausencia"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rafafrogone", 
+      "text": "El lugar tiene una decoraci\u00f3n muy linda, genera un ambiente c\u00f3modo y c\u00e1lido. La atenci\u00f3n nos pareci\u00f3 excelente.\r\nEl desayuno completo que ofrecen es muy completo y uno queda muy satisfecho.\r\nVolveremos!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GabyP", 
+      "text": "El men\u00fa tiene muchas opciones y es econ\u00f3mico; incluye el plato, postre, bebida y caf\u00e9. El mozo fue muy amable y atendi\u00f3 perfectamente a todos nuestros pedidos. La mesas est\u00e1n bien separadas entre s\u00ed y el ambiente es muy agradable. \u00a1Volveremos!"
+    }
+  ]
+}

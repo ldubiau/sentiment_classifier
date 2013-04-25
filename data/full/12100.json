@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "23 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "black_olive", 
+      "text": "Lo que m\u00e1s me atrajo fue el entusiasmo de los due\u00f1os que est\u00e1n estrenando restaurant. Est\u00e1n en cada detalle y todo es muy fresco. El chef es de La Bourgogne, toda una referencia. La panera y el primer plato (crema de calabaza) exquisito, el plato principal (pescado) no estuvo a la altura de mis expectativas. Igual volver\u00e9 para seguir probando, ya que el men\u00fa es muy atractivo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Georgiana", 
+      "text": "Excelente experiencia de principio a fin. Un lugar discreto, acogedor, con adecuada ubicaci\u00f2n y separaci\u00f2n  de mesas, cuidada decoraci\u00f2n y vajilla. Detalles  de buen gusto en el servicio y esmerada atenci\u00f2n. \r\nLa calidad de los productos utilizados, la exquisitez de sus platos y  la amabilidad tanto de la due\u00f1a  como de la encargada de nuestra mesa,implican que sin duda volveremos."
+    }, 
+    {
+      "date": "23 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PetitGourmand", 
+      "text": "Excellence! Panera increible con manteca con trufas, caviar de aceitunas! Las presentaciones son maravillosas y los platos exquisitos..."
+    }
+  ]
+}

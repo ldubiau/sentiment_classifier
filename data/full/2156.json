@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "4 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "anddufau", 
+      "text": "Unos compa\u00f1eros han pedido ah\u00ed en varias oportunidades y la presentaci\u00f3n de la comida no es agradable. Las pastas imposibles de comer. Las fritas aceitosas. T\u00edpico lugar descuidado de Bs As, con los platos de siempre y sin cuidado en la preparaci\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guadalupe193", 
+      "text": "La comida lleg\u00f3 completamente fr\u00eda despu\u00e9s de 50 minutos de espera. La intenci\u00f3n de la camanrera era buena pero estaba sobreocupada."
+    }, 
+    {
+      "date": "3 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lorenaelo", 
+      "text": "El lugar es un pub, de comida mediterranea s\u00f3lo tiene las pizzas. La carta es pobre. \r\nLas pizzas son ricas pero peque\u00f1as. La m\u00fasica demasiado alta. El servicio de mesa lento y deficiente. \r\nLos precios son baratos pero no es un lugar que elegir\u00eda para deleitarme con buena cocina."
+    }, 
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Coca_Sarli", 
+      "text": "Llegamos por casualidad, y nos encontramos con un lugar muy ameno para comer. La comida estuvo muy bien, muy rica y la atenci\u00f3n no fue excelente pero s\u00ed, muy precisa. Recomendable."
+    }, 
+    {
+      "date": "13 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "piojosay", 
+      "text": "Espectacular el lugar, voy todos los fines de semana.\r\nLa gente que atiende tiene muy buena onda y el ambiente es b\u00e1rbaro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "superpepote", 
+      "text": "Excelente lugar y ubicacion. \r\nAmbiente calido y amigable!"
+    }, 
+    {
+      "date": "10 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Melinha", 
+      "text": "Muy buena atenci\u00f3n."
+    }
+  ]
+}

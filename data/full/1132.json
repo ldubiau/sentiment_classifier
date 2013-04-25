@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "17 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aliciali", 
+      "text": "Es el t\u00edpico restaurante al que se vuelve siempre porque el trato es cordial y la comida buena. La lista tiene opciones para todos los gustos."
+    }, 
+    {
+      "date": "19 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "joma", 
+      "text": "Trato cordial, buena cocina, muy buen aire. Recomendable."
+    }, 
+    {
+      "date": "9 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "joma", 
+      "text": "Buena parrilla, buenas pastas y buenos pescados."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "atekka", 
+      "text": "Cubierto variado y de alto nivel."
+    }, 
+    {
+      "date": "14 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "revistal", 
+      "text": "Buen\u00edsimo para ir en grupo."
+    }
+  ]
+}

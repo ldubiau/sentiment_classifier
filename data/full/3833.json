@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "5 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Chufu", 
+      "text": "De cuarta!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sushi", 
+      "text": "Fuimos a tomar unos tragos con amigos y comparado con unos a\u00f1os atr\u00e1s, el lugar perdi\u00f3 su encanto.\r\nEs un bar sin pretensiones, la picada chica era bastante completa, con tortilla, y papas fritas adem\u00e1s de los ingredientes tradicionales. Los tragos ... nada del otro mundo. Pero tienen variedad de alcohol como para elegir con cual quer\u00e9s que sea preparada tu bebida.\r\nNo volver\u00eda."
+    }
+  ]
+}

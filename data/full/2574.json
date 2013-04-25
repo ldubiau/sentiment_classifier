@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "8 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Qu\u00e9 dif\u00edcil es comer en el microcentro! Ni hablar de que sea una experiencia placentera que se parezca remotamente a c\u00f3mo deber\u00eda ser la atenci\u00f3n y el servicio en un restaurante; hay que conformarse con pasable, barato y r\u00e1pido. Este lugar logra las 3 cosas con un tibio \"bueno\" raspando..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elube48", 
+      "text": "Buen lugar, con buena propuesta, en un barrio que tiene pocos lugares para comer."
+    }, 
+    {
+      "date": "31 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "BruceYZuki", 
+      "text": "Es un t\u00edpico bodeg\u00f3n de barrio pero con un ambiente m\u00e1s moderno. \r\nLas pastan son muy recomendables y el precio es bastante accesible. \r\nUn lugarcito para descubrir."
+    }
+  ]
+}

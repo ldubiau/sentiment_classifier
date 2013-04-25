@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "27 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "blueble", 
+      "text": "El lugar es gigante, lindo, llama la atencion de afuera... pero no pasa de ahi; la camarera no sabia que existia el plato que le pedi... me lo dijo, los langostinos fritos $45 empanados, vienen 7 y chiquitos, no me gusto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "evitate", 
+      "text": "Lo que ofrecen esta bueno...pero caro. la atencion es totalmente inexperta. el lugar muuuuuy grande."
+    }
+  ]
+}

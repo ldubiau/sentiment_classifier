@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "8 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Bleurouge", 
+      "text": "Buen lugar para comer algo bien casero, sin nada de presentaci\u00f3n lujosa y a buen precio, si se est\u00e1 de pasada por el barrio. Las porciones son acorde a los precios. No cobran cubierto, si bien traen panera y alg\u00fan escabeche rico."
+    }, 
+    {
+      "date": "8 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "comelolacome", 
+      "text": "Buen lugar bien de barrio para almorzar. Siempre est\u00e1 lleno as\u00ed que hay que ir temprano. Cobran servicio de mesa pero siempre te ponen alguna cazuelita con berejenas, aceitunas, etc. Tienen varios platos elaborados dignos de probar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lucas_cu", 
+      "text": "Un c\u00e1lido ambiente acompa\u00f1ado de una excelente atenci\u00f3n hacen del resto un lugar ideal."
+    }, 
+    {
+      "date": "31 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "macbett", 
+      "text": "Excelente atenci\u00f3n familiar, muy buena cocina, ambiente relajante."
+    }
+  ]
+}

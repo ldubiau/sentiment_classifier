@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marcotegui", 
+      "text": "Exelente y calido lugar, de muy buena atencion con una carta variada y platos de muy buena calidad de presentacion, gusto y cantidad (no son muestras de platos como en otros lugares)"
+    }, 
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "emi80", 
+      "text": "Lindo lugar, muy buena calidad la comida y la cerveza helada. Para mejorar, los ba\u00f1os y su limpieza, sin emabrgo para medio dia o tardecita es recomendable"
+    }, 
+    {
+      "date": "16 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marcotegui", 
+      "text": "Un lugar exelente, atendido por sus due\u00f1os en todos los detalles, comida de muy buena calidad y abundante (no como en la mayoria de la zona) muy recomendable!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CharlieSu", 
+      "text": "Calidad exelente de los productos utilizados en la comida, cocinados a punto y temperatura. Evidentemente denota un gran esmero en la cocina acompa\u00f1ado por la impecable atencion."
+    }
+  ]
+}

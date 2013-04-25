@@ -1,0 +1,76 @@
+{
+  "malos": [
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "gust75", 
+      "text": "Pizza mala. Hacen un happy hour farsa, ya que te dan dos tragos al precio de uno pero en vasos que parecen tubos de ensayo.\r\nLa atenci\u00f3n y calidad de tragos malisima: los barman y mozos parecen pasantes."
+    }, 
+    {
+      "date": "5 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "QuesoAzul", 
+      "text": "Buen lugar solo para bailar un rato, los tragos te hacen medio vaso fernet medio coca cola y en vaso de pl\u00e1stico. Horrible. Le ponen onda con la m\u00fasica."
+    }, 
+    {
+      "date": "2 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "jupuapan", 
+      "text": "La pizza llego fr\u00eda y no era de lo mejor, la masa estaba como cruda y le faltaba sabor en general. Si ped\u00eds gaseosa te la sirven en vaso con hielo, dice que es de marca, pero por el sabor no parece. Si usas el ba\u00f1o tenes que dejarle \"propina\" al que lo cuida \u00bf?"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "azulro", 
+      "text": "Comimos una hamburguesa con papas fritas y un chop por 50 pesos y un lomo con fritas con chop por 70. Estaba bueno, abundante. Aprovechamos el happy hour que dura hasta la una y por 35 pesos tomamos dos tragos chicos y medio pelo. La carta no es muy variada. Pero por ser martes, comer bien,  tomar algo y bailar un rato, no est\u00e1 nada mal. Adem\u00e1s, la camarera muy amable. Vuelvo seguro."
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "@LuciaEsmoris", 
+      "text": "La piza muy rica, y el combo de hamburguesa con papas buen\u00edsimo, mejor de lo q esperaba, ademas barato."
+    }, 
+    {
+      "date": "15 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "La atenci\u00f3n estuvo muy bien, es un lugar para tomar algo m\u00e1s q ir a comer, la comida era abundante pero lleg\u00f3 fr\u00eda."
+    }, 
+    {
+      "date": "19 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "La pizza no es mala pero tampoco es la gran cosa. Es un lugar para ir a tomar algo mas que para comer. Alrededor de las 2 sacan las mesas, se pone bueno y se puede bailar."
+    }
+  ]
+}

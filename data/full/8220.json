@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Guilli2008", 
+      "text": "el lugar es bueno, pero tardaron 40 minutos  en traernos la comida, cuando la trajeron la ensalada no ten\u00eda todos los ingredientes prometidos, avisamos y nos trajeron la palta en un platito aparte. Al terminar nos cobraron un precio diferente al de la carta. Una pena"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sinsal", 
+      "text": "El lugar es agradable con una decoracion correcta, nada para destacar la atencion fue lenta y por entrar en la categoria bar , tener una sola opcion de cerveza me parecio pobre.  El tostado que pobre estuvo rico pero para las opciones que hay en la misma manzana se quedan un poco atras."
+    }, 
+    {
+      "date": "10 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "misolmi", 
+      "text": "La propuesta es normal, la comida es correcta sin ser particularmente rica y el servicio es promedio, en fin, nada extraordinario salvo los precios. Si bien es un lugar agradable, no se destaca en nada. Para ir a un lugar promedio, yo elegir\u00eda uno m\u00e1s barato."
+    }, 
+    {
+      "date": "25 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "tgold", 
+      "text": "Muy buen lugar para pasar un mediod\u00eda tranquilo y sin apuros muy buena atenci\u00f3n y muy elaborados los platos volver\u00eda sin dudas"
+    }, 
+    {
+      "date": "18 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Luciana2406", 
+      "text": "Siempre buen atenci\u00f3n. Sentarse afuera en noches templadas es un placer."
+    }, 
+    {
+      "date": "7 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "micha_ster", 
+      "text": "La comida es rica, y afuera tienen un muy buen lugar calefaccionado para fumadores. \r\nLa atenci\u00f3n muy corecta, se equivocaron en nuestro pedido, por lo que sali\u00f3 el chef a disculparse y nos invitaron el caf\u00e9. \r\nTienen 20% de descuento con club la naci\u00f3n y discoplus! Sin descuento es un poco caro para lo que ofrecen..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "frenchporteno", 
+      "text": "My bueno restauran de cocina internacional, lugar original, servicio bueno, comida todo bien el Salmon muy bueno y el ojo de bife...\r\n\r\nSoy cliente de hace mucho voy para trabajar de dia tomando caf\u00e9, para almuerzar y tambien cenar. Soy un cliente dificil y el resulta esta siempre bueno."
+    }
+  ]
+}

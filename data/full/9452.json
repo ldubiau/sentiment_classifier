@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "macmel", 
+      "text": "No es malo ni feo el lugar, pero est\u00e1 m\u00e1s orientado a boliche!"
+    }, 
+    {
+      "date": "1 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "josvalenzuela", 
+      "text": "No me gust\u00f3, la verdad no me gust\u00f3."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "17 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "magiano", 
+      "text": "Fue eb un evento del trabajo, nos ofrecieron 3 menu a eleccion en el momento del evento y salio todo a tiempo y muy bien."
+    }, 
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "girolamo", 
+      "text": "El lugar me parece muy bueno muy bien ambientado el servicio es muy bueno especialmente el de la se\u00f1orita Natalia muy simpatica.\r\nLa comida es muy buena y mi sugerencia es que faltarian algunos postres clasicos los cuales tienen muchisima salida como son el tiramis\u00fa, el chees cake y el volcan de chocolate con una bocha de helado de crema \r\nles comento esto porque soy casi un pastelero profecional a punto de recibirme en el instituto del Gato Dumas y capaz les sirve mi comentario.\r\nDesde ya muchas gracias por su tiempo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luna_delfin", 
+      "text": "El lugar esta excelente a parte ya me llego la invitacion para la apertura del resto por la noche y que despues de la cena se hace baile espero que vayan todos ya el lugar amerita que si al mediodia es excenlente el servicio, la comida y el lugar, por la noche estara excelente. ah la apertura es el 7/03/09 hagan sus reservas yo voy a estar ahi sin duda ya que soy una clienta de su bar"
+    }
+  ]
+}

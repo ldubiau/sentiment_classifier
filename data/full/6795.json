@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "marianocopa ", 
+      "text": "El lugar esta bueno. Bastante alejado de la zona comercial, con lo cual es bastante tranquilo. El pan estaba un poco viejo, pero la comida es muy buena y abundante"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Vitto", 
+      "text": "Este lugar en mi opini\u00f3n es uno de los mejores restaurantes de la zona norte. Las pastas como las cuerdas de guitarra al pomodoro e basilico son excelentes al igual que lo fueron los pescados como el salm\u00f3n con s\u00e9samo y los cortes de carne en general como los saltimbocca a la romana.\r\nHace mas de 8 a\u00f1os que lo frecuento y aunque haya cambiado varias veces de nombre, de hecho ahora se llama Lola & Mora, tanto el esp\u00edritu, como la atenci\u00f3n y fundamentalmente la cocina estuvieron, por suerte, siempre en el mismo nivel. Verdaderamente recomendado."
+    }
+  ]
+}

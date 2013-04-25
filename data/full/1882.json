@@ -1,0 +1,458 @@
+{
+  "malos": [
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "yaiko", 
+      "text": "me parecio caro, con poca variedad de los platos. Ricos pero demasiada fritura, se nota q el aceite no era nuevo..atencion bien, normal. Pero no recomendaria q gasten su dinero alli. Hay lugares mejores."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "El lugar es muy lindo y amplio, la atenci\u00f3n es correcta, hay una sola camarera q demuestra estar cansada. La comida: es rica, pero las porciones son chicas y los ingredientes no son muy exclusivos como para tener ese precio. Me parece caro y la comida no es TAAAAAAN buena."
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "La comida es rica pero cara, y las porciones son peque\u00f1as. Al lugar le falta un poco de mantenimiento (l\u00e9ase: arreglar las rajaduras de las paredes, quitar las telara\u00f1as, etc.). La moza es de lo m\u00e1s simp\u00e1tica. Recomiendo la desgustaci\u00f3n de postres, es muy rica y tiene un poquito de todo."
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "tere75", 
+      "text": "Me parecio carisimo, las porciones son muy chicas y ademas tardaron una hora en traernos dos tostadas. Habia una sola camarera para todo. Muy desorganizado. Mal servicio."
+    }, 
+    {
+      "date": "13 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "flor82", 
+      "text": "Me pareci\u00f3 car\u00edsimo por lo que comimos. Las porciones son s\u00faper chicas por lo cual pedimos varias cosas. Debo reconocer que son muy sabrosas.. pero me parece demasiado pagar 74 pesos por persona, cuando compartimos un postre entre 2 y tomamos 4 aguas en total."
+    }, 
+    {
+      "date": "20 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lucas82", 
+      "text": "La atenci\u00f3n de las mozas fue muy buena, que nos gui\u00f3 en el pedido ya que el men\u00fa no se entiende si no conoc\u00e9s la modalidad.\r\nLa calidad de la comida tambi\u00e9n fue buena, muy gustosa y muy exquisita.  Buena calidad de los ingredientes.\r\nLo malo es que las porciones son \u00ednfimas y la \u00fanica forma de salir satisfecho es gastando una fortuna ya que es muy caro. Nueve tostadas cuestan $45. Con la cual come una persona."
+    }, 
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adolfost", 
+      "text": "muy ricas tapas, abundantes, muy bien atendido por las mozas, se llen\u00f3 y la gente ped\u00eda m\u00e1s y m\u00e1s tapas. ba\u00f1os muy originales, faltar\u00eda mejorar el pan y un poco la decoraci\u00f3n, pero muy bueno en general."
+    }, 
+    {
+      "date": "10 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "bengadorp", 
+      "text": "Todo bastante rico pero llevar tarjeta de credito, chequera etc. Porque si no estas dispuesto a gastar te moris de hambre. Se entiende: porciones chicas y caro."
+    }, 
+    {
+      "date": "3 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El lugar est\u00e1 muy bien pero es tan ruidoso que se escucha m\u00e1s el bullicio de las otras mesas que la conversaci\u00f3n de la propia. \r\nLas tapas son muy ricas y bien hechas con productos de calidad pero las porciones te dejan con hambre (cada tapa son solo dos tostaditas chicas). La atenci\u00f3n es correcta, de modo que el saldo no est\u00e1 mal, pero..."
+    }, 
+    {
+      "date": "29 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cacun", 
+      "text": "El lugar permite dialogar, tiene aspecto sobrio sin lujos pero la comida es la protagonista. Falta la opcion del nombre! copas de vino aconsejadas con cada tapa o racion."
+    }, 
+    {
+      "date": "7 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "megf26", 
+      "text": "Pros: El lugar tiene mucha onda, fuimos unos cuantos a festejar un cumplea\u00f1os en los sillones, las tapas eran muy ricas y muy bien decoradas. \r\nContras: Las mozas y el due\u00f1o NO son amables."
+    }, 
+    {
+      "date": "25 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "cable", 
+      "text": "Las tapas son riquisimas y los platos tambien. El servicio es muy bueno, la moza nos gui\u00f3 en todo momento con los platos. Es cierto que hay muy poca gente, pero hay que considerar que fuimos un d\u00eda lunes. \r\nEs una l\u00e1stima que nadie se preocupe de la imagen del local, atribuyo a eso los comentarios de falta de gente. Repito: la comida es buenisima! Pero imposible invitar a alguien a comer ahi."
+    }, 
+    {
+      "date": "5 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "javerius", 
+      "text": "La comida esta buena, aunque la seleccion de tapas no es muy variada. Cuando yo fui no habia mucha gente, asi q el ambiente estaba mas q tranquilo. La atencion no es de las mejores."
+    }, 
+    {
+      "date": "12 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Roms32", 
+      "text": "Fuimos dos personas, el ambiente es c\u00e1lido, cenamos un buen tapeo con un vino. Pasamos una noche agradable, con muy buena atenci\u00f3n y a muy buen precio."
+    }, 
+    {
+      "date": "11 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ivordonez", 
+      "text": "La comida estuvo bien presentada y en cantidad, sobre todo considerando que eran tapas. La carta de vinos era escueta, pero el \u00fanico real problema fue la atenci\u00f3n; realmente penosa. Hab\u00eda 4 mozas y tres mesas (la nuestra era de ocho) y no pudieron dedicarse a explicar los platos ni a hacernos sentir c\u00f3modos.\r\nLa carta no era clara, y al hacer el pedido sin ning\u00fan tipo de gu\u00eda no supimos si ordenamos poco o  mucho hasta que eventualmente terminamos de comer. \r\n\r\nGracias a un descuento de La Naci\u00f3n lo sentimos barato."
+    }, 
+    {
+      "date": "2 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Dariojavier", 
+      "text": "Primero: la comida. Pedimos una degustaci\u00f3n de tapas (27$) que result\u00f3 ser lo mejor de la noche. Los pinchos era excesivamente caros para la cantidad que tra\u00edan, en nuestro caso pedimos uno de cerdo y la verdad que fue un poco una desilusi\u00f3n. La atenci\u00f3n era muy buena, las mozas eran todas muy profesionales y c\u00e1lidas. El ambiente es bueno, aunque al estar TAN vac\u00edo, se hace un poco triste. Evidentemente no se llena nunca.\r\nNo se si volver\u00eda a ir. Lo har\u00eda solo por la degustaci\u00f3n de tapas."
+    }, 
+    {
+      "date": "5 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "LUABR", 
+      "text": "Me parece que para ser un lugar de tapas y vinos, tenia muy poca variedad de ambos, el lugar me parecio un tanto familiar (depende del gusto de cada uno). El ambiente no dice mucho."
+    }, 
+    {
+      "date": "5 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "dnp", 
+      "text": "Un lugar que se llama \"entre tapas y vinos\" deber\u00eda tener una buena selecci\u00f3n de tapas y vinos, \u00bfno? \r\nBueno, este no ten\u00eda ninguno de los dos. La selecci\u00f3n de vinos es bastante mala, con muy poca opci\u00f3n. Algunas de las tapas son ricas, pero hay muy poco que sea original. Los sofas son feos (y s\u00f3lo hay dos). Tambi\u00e9n me sorprendi\u00f3 que era un ambiente muy familiar."
+    }, 
+    {
+      "date": "23 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "deedee", 
+      "text": "\u00bfSiempre est\u00e1 tan vac\u00edo? Y eso que era s\u00e1bado. Al servicio le falta simpat\u00eda, pero la comida estaba bastante bien. \r\nEl lugar se caracteriza por ofrecer tapas y pinchos, en Europa se come por la misma calidad al mismo precio. \u00bfNo es un poco caro entonces? El ambiente es simple pero muy agradable."
+    }, 
+    {
+      "date": "22 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "szoro", 
+      "text": "Buena atenci\u00f3n, ambiente tranquilo y espacioso. La comida est\u00e1 muy bien servida. Estar\u00eda bueno que ofrezcan un men\u00fa con variedad de tapeo, para que sea m\u00e1s econ\u00f3mico y poder degustar m\u00e1s."
+    }, 
+    {
+      "date": "1 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Anette", 
+      "text": "Muy mal servicio, tardaban mucho en traer la comida y en atendernos, a pesar de que no estaba lleno el lugar. Por otro lado, los platos son muy caros por la cantidad de comida que estos tra\u00edan. Gastamos mucho y  nos quedamos con hambre."
+    }, 
+    {
+      "date": "20 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ripley", 
+      "text": "Toda la comida buena, la atenci\u00f3n buena. Las mesas muy peque\u00f1as, muy mala ac\u00fastica, la m\u00fasica casi ni se escuchaba y a pesar de que hab\u00eda pocas mesas con gente ya hab\u00eda un griter\u00edo insoportable. \r\n\u00bfEl aire acondicionado? El viejo truco de boliche: apagarlo para que consuman m\u00e1s. \u00bfConsejo? si el due\u00f1o quiere ofrecer algo realmente bueno, que mantenga el nivel de comida y servicio y arregle ac\u00fastica y aire."
+    }, 
+    {
+      "date": "12 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "marcelito", 
+      "text": "Me gust\u00f3 mucho la camarera Micaela. La comida, no tanto."
+    }, 
+    {
+      "date": "14 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mirtasu", 
+      "text": "Nos trajeron una cuenta que no era la nuestra, despu\u00e9s del reclamo fue corregida.\r\nPoca comida para el precio."
+    }, 
+    {
+      "date": "14 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fullsin", 
+      "text": "Muy bueno. C\u00e1lido y espacioso, especializados en tapas. Excelente el postre: la torta tibia de chocolate."
+    }, 
+    {
+      "date": "1 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "chino", 
+      "text": "Comimos muy bien dejandonos llevar por las sugerencias de su due\u00f1o. Muy buena ambientaci\u00f3n y no tienes a la mesa de al lado encima. El serivicio muy cordial y eficiente."
+    }, 
+    {
+      "date": "14 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lungui", 
+      "text": "La carta de vinos es mal\u00edsima. Mala atenci\u00f3n y en la adici\u00f3n figuraban cosas de m\u00e1s. \u00a1No vuelvo nunca m\u00e1s!"
+    }, 
+    {
+      "date": "12 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aim.sand", 
+      "text": "Muy bueno. Men\u00fa corto, exclusivamente de tapas (principalmente espa\u00f1olas). El sal\u00f3n es grande con espacio entre las mesas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gogy", 
+      "text": "Todo inmejorable, excelente las tapas, Gonz\u00e1lo el due\u00f1o un madrile\u00f1o muy simp\u00e1tico y agradable, la cocina excelente, las camareras divinas muy profesionales y de muy buen y simp\u00e1tico trato.El lugar amplio, c\u00e1lido, comod\u00edsimo, bueno que mas todo  de maravillas como dicen los espa\u00f1oles. SOLO QUE NO ENTENDEMOS PORQUE CERRO, hace como 2 1/2meses. UNA LASTIMA, no hemos encontrado un lugar de tapeo que lo supere. GONZALO volveeeee!!!!"
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "zeltag", 
+      "text": "Fui a festejar el cumplea\u00f1os de mi esposa y me parecio una alternativa muy divertida. Mucho espacio entre mesas y atencion casi privilegiada."
+    }, 
+    {
+      "date": "30 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AA42", 
+      "text": "Es un lugar al que nos gusta ir por la calidad de atenci\u00f3n, la buena comida y los precios razonables. Ideal para compartir entradas y platos."
+    }, 
+    {
+      "date": "8 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "losguses", 
+      "text": "Un lugar autentico, en un lugar de moda, cosa dificil de conseguir. Fui con mi pareja y nos hicieron pasar una noche increible. Super atentos. Y la tan criticada demora, nos sirvio para charlar entre plato y plato. \r\nEl que quiere servicio express, que vaya a los arcos dorados. Yo fui a pasar una linda noche y este lugar, me dio una excelente. Sigan asi!"
+    }, 
+    {
+      "date": "8 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gruakayk", 
+      "text": "Excelentes los dos platos mencionados. La atenci\u00f3n es mejor que buena y el ambiente est\u00e1 muy bien logrado aunque puede ser algo ruidoso cuando se llena el local."
+    }, 
+    {
+      "date": "28 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pulpo", 
+      "text": "Como dice el nombre del lugar con muy buenas tapas y buenos vinos."
+    }, 
+    {
+      "date": "25 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "panke", 
+      "text": "Muy buena atenci\u00f3n y excelente comida."
+    }, 
+    {
+      "date": "14 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Terbi", 
+      "text": "Muy amable las personas que atienden."
+    }, 
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AA42", 
+      "text": "Todo lo que nos sirvieron era muy sabroso. Comimos tapas y pinchos, todo para compartir entre varios. Las mesas est\u00e1n bien separadas. Fuimos un viernes a la noche y en ning\u00fan momento se llen\u00f3. La atenci\u00f3n fue buena, comimos b\u00e1rbaro y no nos pareci\u00f3 caro. Queremos volver."
+    }, 
+    {
+      "date": "13 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elbb", 
+      "text": "la verdad excelente el lugar y la atenci\u00f3n. Creo que es lo justo y necesario para tener una noche agradable con alguien a quien c aprecia. realmente lo recomiendo, muy bueno."
+    }, 
+    {
+      "date": "13 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Micu", 
+      "text": "El lugar es c\u00e1lido y se complementa con una excelente comida, no s\u00f3lo por su sabor, sino por la evidente calidad de los ingredientes que se usan para elaborarla. Muy recomendable y a precios razonables."
+    }, 
+    {
+      "date": "19 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pachy", 
+      "text": "Ambiente muy ameno y espacios c\u00f3modos. Excelente atenci\u00f3n y deliciosa comida."
+    }, 
+    {
+      "date": "16 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wylly", 
+      "text": "Muy lindo lugar, muy acogedor, limpio y de muy buena atenci\u00f3n. \r\nLa calidad de la comida es excelente."
+    }, 
+    {
+      "date": "5 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Zippo", 
+      "text": "Muy buena atenci\u00f3n, muy buena comida."
+    }, 
+    {
+      "date": "20 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lospipos", 
+      "text": "Simplemente el mejor lugar de aut\u00e9nticas tapas espa\u00f1olas. Muy buena selecci\u00f3n de vinos y cordialidad en el servicio."
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jpdonnet", 
+      "text": "Exelente ambiente, muy buena musica y muy buenos vinos."
+    }, 
+    {
+      "date": "20 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "solealec", 
+      "text": "Ambiente calido y muy buena comida."
+    }
+  ]
+}

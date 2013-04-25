@@ -1,0 +1,146 @@
+{
+  "buenos": [
+    {
+      "date": "8 Mar 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "alessandro", 
+      "text": "No lo recomendar\u00eda, Buenos Aires tiene muchos mejores restaurantes."
+    }, 
+    {
+      "date": "14 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Santy", 
+      "text": "Falta total de servicio, faltaba por lo menos un mesero m\u00e1s. Ped\u00ed lomo y parec\u00eda hamburguesa, tan lento todo que decid\u00ed pagar e irme lo antes posible. \r\nLo \u00fanico r\u00e1pido fue la cuenta. \r\nMe arruinaron la noche."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rob", 
+      "text": "Un lugar ideal y dificil de igualar porque tiene buena comida, buena ambientaci\u00f3n y precios muy razonables."
+    }, 
+    {
+      "date": "23 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Kochi", 
+      "text": "En Palermo es el mejor restaurante que fui. Sin lugar a duda voy a volver. Se lo recomend\u00e9 a unos amigos y me lo agradecieron."
+    }, 
+    {
+      "date": "22 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pabloosmo", 
+      "text": "Com\u00ed un salm\u00f3n rosado con un punto de cocci\u00f3n perfecto y un chutney casi como los que com\u00ed en la India."
+    }, 
+    {
+      "date": "21 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Carlos", 
+      "text": "Excelente."
+    }, 
+    {
+      "date": "23 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tigresas", 
+      "text": "Muy bueno."
+    }, 
+    {
+      "date": "26 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tonytony", 
+      "text": "Me lo recomendaron y realmente com\u00ed mejor de lo que esperaba.\r\nL\u00e1stima que la m\u00fasica es poco interesante y no hab\u00eda show."
+    }, 
+    {
+      "date": "31 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leosouth", 
+      "text": "Muy sabroso el pollo y exquisita la mayonesa de ajo que lo acompa\u00f1aba."
+    }, 
+    {
+      "date": "31 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "magalich", 
+      "text": "Un lugar muy original."
+    }, 
+    {
+      "date": "25 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "galapago1", 
+      "text": "Muy buena comida y un servicio profesional. El ambiente est\u00e1 bien."
+    }, 
+    {
+      "date": "14 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mariacin", 
+      "text": "Com\u00ed un salm\u00f3n en un punto de cocci\u00f3n perfecto y una guarnici\u00f3n muy sabrosa.\r\nEl lugar es un poco fr\u00edo."
+    }, 
+    {
+      "date": "28 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mermoral", 
+      "text": "Originales las bruschetas. Nos pareci\u00f3 excelente el plato de queso donde se sirven los \u00f1oquis.\r\nLos ravioles de cordero con salsa de lima son muy buenos tambi\u00e9n."
+    }, 
+    {
+      "date": "16 Jul 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carlos", 
+      "text": "Muy econ\u00f3mico y muy buena comida con una carta muy original.OK"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Jun 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mrubiste", 
+      "text": "Buen restaurante en general. Lindas chicas."
+    }, 
+    {
+      "date": "18 Jun 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "labombon", 
+      "text": "El precio de las gaseosas es excesivo ($5,50 un vaso). La comida no es muy buena (el pollo se supon\u00eda que deb\u00eda ser frito y parec\u00eda hervido) y el servicio de las camareras deja mucho que desear."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "beatle", 
+      "text": "El rest\u00f3 es de lo mas agradable, las chicas son de lo mejor. Buena calidad y belleza. Servicio muy humanitario que no se encuentra en ning\u00fan otro lado."
+    }
+  ]
+}

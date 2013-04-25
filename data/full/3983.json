@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "30 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "No me gust\u00f3 para nada: la atenci\u00f3n result\u00f3 deficiente por falta de datos acerca de los platos (que no tra\u00edan una explicaci\u00f3n clara) y porque el chico cero onda fue incapaz de orientarnos con alguna recomendaci\u00f3n (qu\u00e9 tal es el plato de lentejas? Y..., si te gustan las lentejas, est\u00e1 ok (sic)); la comida result\u00f3 insulsa, desabrida y aburrida, nada interesante. Y para colmo todo era car\u00edsimo en relaci\u00f3n con la calidad... Nada recomendable"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LAC_", 
+      "text": "Era bueno... lamentablemente CERR\u00d3."
+    }, 
+    {
+      "date": "4 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "vica", 
+      "text": "La comida es rica pero hasta ah\u00ed pero lo que realmente no tiene relaci\u00f3n es que los platos son muy caros, especialmente la degustaci\u00f3n y los postres, en relaci\u00f3n a la cantidad. El lugar es hermoso. La atenci\u00f3n es esmerada pero casi pesada y un poco torpe."
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vichyvdw", 
+      "text": "Excelente lugar para probar nuevos sabores. Hay que ir abiertos a esa experiencia dado que no tiene nada que ver a lo que estamos acostumbrados. Si bien la carta no es muy variada, la realidad es que cada plato es como una carta completa, llena de especies combinadas con excelente gusto."
+    }, 
+    {
+      "date": "25 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "seb87", 
+      "text": "NO HABIA VINOOOOOOOOOOOOOOOOOOOOOOOO!!!!\r\npasando ese momento de sorpresa, la comida estuvo rica, gustos nuevos, combinaciones raras pero rico. y tomamos tragos de la india... no muy acordes para comer... pero el ambiente muy lindo!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Hugitoviana", 
+      "text": "Muy Bueno, los verdaderos sabores de la comida india, recomendable!"
+    }, 
+    {
+      "date": "1 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lidia78", 
+      "text": "Una sinfonia de especias. Realmente muy bueno"
+    }, 
+    {
+      "date": "14 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "riodeplata", 
+      "text": "La comida es excelente, a mi gusto poco abundante, pero supongo que lo gourmet as\u00ed lo requiere.\r\nSe nota que los que atienden son due\u00f1os, y no muy duchos en atender cuando el restaurant est\u00e1 lleno, pero lo compensan con buena voluntad.\r\nIgualmente, para las pocas opciones vegetarianas que da la ciudad, es un lujo."
+    }, 
+    {
+      "date": "13 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Benjasoler", 
+      "text": "Excelente propuesta. Fuimos atendidos mu cordialmente por su due\u00f1o y la ambientaci\u00f2n nos encanto. Recomendable"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nortealbruna", 
+      "text": "Excelentes las mollejas. A punto, justa la sal y con lim\u00f3n. Un restaurante familiar con muy buena atenci\u00f3n. Super recomendable."
+    }, 
+    {
+      "date": "23 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ALenOleo", 
+      "text": "Siempre que estoy laburando por el barrio, almuerzo en lo de \"los Tulus\"... Gran Bodegon de Barrio, con una humilde pero dedicada atenci\u00f3n y una comida muy buena! (lo mejor? la carne y loz sorrentinos)"
+    }, 
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Perramus", 
+      "text": "Un lugar donde siempre se es bien recibido, con una atenci\u00f3n muy cordial y comida rica y abundante. El ambiente es t\u00edpico restaurant debarrio, con las mesas muy juntas y ruidoso, pero da gusto volver."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Tekna11", 
+      "text": "Excelente bodeg\u00f3n, como los de anta\u00f1o.\r\nComida muy rica.\r\nPara recomendar."
+    }, 
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pioup", 
+      "text": "Todo rico y entre amigos. Rodo te hace sentir en casa y aparte cocinan como los dioses. 100 % recomendable, deberi abrir a la noche."
+    }, 
+    {
+      "date": "20 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lulatufro", 
+      "text": "Los Tulumbanos es t\u00edpico y excelente bodeg\u00f3n de Barrio. La atenci\u00f3n es super amable, como en casa.  Lo m\u00e1s recomendable es la parrilla, en especial el bife de chorizo y, sin duda, la entra\u00f1a. Siempre te regalan una entradita de quesos y fiambres de primera. Si andan por Mataderos, no lo duden."
+    }, 
+    {
+      "date": "3 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jabus100", 
+      "text": "comida de 1ra, muy buena atencion. bodegon de los buenos"
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "comergrosso", 
+      "text": "Es un bodegon de barrio atendido por sus propios due\u00f1os, gente nacida en un pueblo cordob\u00e9s llamado Tulumba. La comida es excelente, la atenci\u00f3n muy buena y r\u00e1pida. No hay que esperar nada del ambiente, mesas con papel donde adem\u00e1s se hace la cuenta al final."
+    }
+  ]
+}

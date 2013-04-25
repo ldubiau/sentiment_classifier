@@ -1,0 +1,148 @@
+{
+  "malos": [
+    {
+      "date": "1 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "juliantadei", 
+      "text": "Fui con mi novia. La atenci\u00f3n es p\u00e9sima, el ambiente es de terror y la comida seca y sin sabor, como si fuera del dia anterior."
+    }, 
+    {
+      "date": "28 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Heaven84", 
+      "text": "Los sandwiches q promocionan con pan casero vienen con unas flautitas viejas incomibles. El que promocionaban como crocante de pollo no era m\u00e1s que una suprema de  granja frita. Los chicken fingers eran mini cuadraditos de 1x1 cm q parec\u00edan sobras. La bondiola de cerdo estaba rica, era lo \u00fanico aceptable. No volver\u00eda,"
+    }, 
+    {
+      "date": "15 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ferraria", 
+      "text": "Comimos con mi novia y no nos gusto:\r\nLa atencion no fue buena.\r\nEl sushi no fue bueno tampoco y menos por ese precio. Hemos comido sushis superiores entre las opciones de"
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Mecafe", 
+      "text": "Fuimos porque ten\u00edamos un cup\u00f3n de groupon. tardaron 55 minutos en traernos el sushi (cuando otras mesas se sentaron despu\u00e9s que nosotros y les sirvieron antes)hab\u00edan s\u00f3lo 4 mesas ocupadas. de beber, quise un vino blanco en tama\u00f1o 375, y no ten\u00edan. me ofrecieron en copa, ped\u00ed sauvignon blanc, y solo ten\u00edan chardonnay, callia, a 15 pesos la copa (un robo, sale hoy en disco 16.29 la botella, me sirvieron media copa, en una entre el cop\u00f3n y la flauta de champagne)y encima, falto de fr\u00edo. el sushi, aceptable. se acerca la moza (\u00fanica para todo el sal\u00f3n) a ofrecer algo m\u00e1s..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MariaEch", 
+      "text": "Muy rica la comida. Buen ambiente."
+    }, 
+    {
+      "date": "11 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Al llegar fuimos bien recibidos. Fueron atentos en todo momento, pero una sola persona en todo el sal\u00f3n hace dificil tener un servicio correcto. El ambiente es bueno, sin demasiado para destacar. El sushi me pareci\u00f3 regular. A mi entender el problema estaba en el arroz, un tanto pasado, apelmazado. El tama\u00f1o y el armado de las piezas me pareci\u00f3 correcto. No fue una mala experiencia pero no estar\u00e1 entre mis preferidos cuando piense en volver a comer sushi. el precio es aceptable, pero cobran $6 de cubierto a cambio de nada."
+    }, 
+    {
+      "date": "12 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fedeguaglia", 
+      "text": "Fuimos a comer con mi novia. Apenas entramos nos recomendaron dejar el auto en un estacionamiento ya que es una zona peligrosa.\r\nLa atenci\u00f3n deja mucho que desear, tardaron casi 40 minutos en traernos una tabla de 40 piezas. Realmente fuimos con otra expectativa del lugar. Para los que estan empezando a comer sushi esta bien, para los que ya conocieron el buen sushi no les recomiendo este lugar en absoluto."
+    }, 
+    {
+      "date": "19 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lechon1", 
+      "text": "El lugar esta muy bien puesto.  El sushi excelente los vinos muy buenos, deberian agregar algun postre mas a la carta. Me parecio una barbaridad el comentario del que pidio delivery parece mas algun competidor que un cliente."
+    }, 
+    {
+      "date": "20 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ales", 
+      "text": "la comida nada del otro mundo. bien por la cerveza helada y la m\u00fasica de fondo (quiz\u00e1s un poco alta). cuidado con el barrio! dejar el auto en el garage m\u00e1s cercano."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Night", 
+      "text": "Muy recomendable, distinto a lo habitual, la comida exelente, muy buena musica y lo bueno que es super relajado y bien distendido. Me encanto lo recomiendo.Ah lo mejor es que te cocina y atiende el due\u00f1o."
+    }, 
+    {
+      "date": "28 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "piolox", 
+      "text": "Re buen lugar y comida! fui con mi novia, comimos bien y rico, nos saludo el due\u00f1o, la m\u00fasica esta re buena tambi\u00e9n."
+    }, 
+    {
+      "date": "19 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MarinaVS", 
+      "text": "Un lugar muy ameno para disfrutar de muy buena comida."
+    }, 
+    {
+      "date": "28 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lasergroup", 
+      "text": "Muy buen ambiente, super c\u00e1lido, la atenci\u00f3n fue buena, La comida superlativa, las costillitas se deshacen, un manjar, y el panqueque, de otro planeta. Muy recomendable."
+    }, 
+    {
+      "date": "27 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "polvorita6", 
+      "text": "Me gusta mucho este sushi"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "25 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Batalla", 
+      "text": "El lugar est\u00e1 muy bien, claro. Pero la comida es floj\u00edsima. Hay un bife de chorizo (dentro de un men\u00fa corto) duro, muy duro. Y unas milanesas cero apetitosas. Los acompa\u00f1amientos de verduras son unas berenjenas y apenas algo m\u00e1s pasadas por chamusquina. El pan ok, la atenci\u00f3n correcta. Quiz\u00e1 haya que pedir sanwichs, que ofrecen varios."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Vicocha", 
+      "text": "Incre\u00edble vista de Buenos Aires, ideal para tomar algo en la terraza!!! Muy buena la pasteleria y sandwich"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LULITA22", 
+      "text": "Excelente lugar!!!  la comida muy rica, y las empanadas del menu patrio  deliciosas, me trajeron el recuerdo de mi abuela!!! atencion muy buena!! y por ultimo la encargada muy atenta y simpatica!!"
+    }, 
+    {
+      "date": "26 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "florcita14", 
+      "text": "Fuimos a pasear por Caminito y descubrimos este lugar hermoso!! La comida es excelente y la vista de la terraza impredible. Lo voy a recomendar!"
+    }, 
+    {
+      "date": "27 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Perlas", 
+      "text": "Muy bueno el menu del artista !!! relacion calidad/precio: la mejor !\r\nOasis en el barrio de La Boca."
+    }
+  ]
+}

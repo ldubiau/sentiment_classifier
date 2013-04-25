@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "gmarcello", 
+      "text": "S\u00e1bado a la noche el lugar estaba vac\u00edo, La calidad de la carne baja y la trajeron a la mesa en una bandeja sin carb\u00f3n y fr\u00eda.\r\nDejamos mas de la mitad."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Conile", 
+      "text": "Muy buena atenci\u00f3n, parrilla generosa, guarnicion abundante. Muy tierna la carne"
+    }, 
+    {
+      "date": "12 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "silvianieto", 
+      "text": "Fuimos con un cupon y comimos bien, buen ambiente y buena atencion. La parrillada estaba buena pero quizas un poco corta de cantidad para dos personas. Lo unico malo es que solo quedaban dos postres, cosa que deberian corregir."
+    }
+  ]
+}

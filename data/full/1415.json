@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Natumar", 
+      "text": "Horrible ese lugar! Mala la atenci\u00f3n! \r\nCuando pedis la parrillada Capataz (mas cara que la com\u00fan) apenas te trae un par de mollejas y otras cosas que \"supestamente\" agrega: un desastre."
+    }, 
+    {
+      "date": "2 Sep 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "maurosalmo", 
+      "text": "P\u00e9simo. Debe ser unos de los peores restaurants que fui en mi vida. La parrilla de libre no tiene absolutamente nada, te traen los que ellos quieren y cuando se les canta, si les ped\u00eds algo te lo traen a las 2 horas. Si quieren comer toda la noche papas fritas -que es lo \u00fanico aceptable que hacen- les recomiendo este lugar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "magica", 
+      "text": "Excelente carne y servicio con precios m\u00f3dicos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lichomaiden1", 
+      "text": "Siempre voy, los platos son abundantes, los precios accesibles y la atenci\u00f3n es buena. Recomendable."
+    }, 
+    {
+      "date": "2 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mauge", 
+      "text": "Hemos probado la mayor\u00eda de sus platos. Somos una familia que nos gusta, cuando viajamos, recorrer distintos resto del mundo. El ambiente, la calid\u00e9z y la calidad de su cocina priman en capataz. Cabe destacar a sus due\u00f1os, porque representan muy bien al pa\u00eds."
+    }, 
+    {
+      "date": "29 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "colorado", 
+      "text": "Un lugar para tener en cuenta."
+    }, 
+    {
+      "date": "20 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vette", 
+      "text": "Excelente calidad de carne."
+    }
+  ]
+}

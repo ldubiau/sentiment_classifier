@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "naoah", 
+      "text": "Una opcion buena para el barrio si no se busca pretensiones de lugar y solo queremos zafar la noche...El bife de chorizo de este resto es dificil de igualar, es muy tierna y lo vengo percibiendo ya hace anios. La pizza es bastante buena. Los platos en gral que comi nunca me defraudaron. La atencion de los mozos es muy atenta. El lugar, es un tipico restaurante de barrio, basico"
+    }, 
+    {
+      "date": "19 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adraugello", 
+      "text": "Un clasico de belgarno. La tencion es increible y la comida tiene un exquisito sabor. es mas bien para ir con amigos a comer pizza y a tomar cerveza, sobretodo si hay partido de futbol.:(\r\nA la noche el lugar cambia y se torna mas familiar."
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "procedencia", 
+      "text": "\u00a1muy buenas pizzas!"
+    }, 
+    {
+      "date": "8 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "soygonzz", 
+      "text": "Lugar para ir con amigos a comer pizza y tomar cerveza, los precios son accesibles."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gustave", 
+      "text": "En San Cayetano todo parece exagerado, menos el precio. Los tostados de jam\u00f3n y queso desbordan del plato, los licuados de frutas ocupan dos vasos inmensos, los mozos derrochan simpat\u00eda y hospitalidad, las mesas se vuelven multitudinarias y familiares... Entre lo negativo est\u00e1 el gran bullicio y el calor, que en horas pico se vuelve agobiante en las mesas m\u00e1s internas. El lugar no es para una cita rom\u00e1ntica, pero s\u00ed es muy recomendable para ir con familia y amigos. Muy buen precio y un trato \"como en casa\", una rara avis para esa zona de Belgrano."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "malos": [
+    {
+      "date": "17 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "GonzaG", 
+      "text": "Decir que la Brioche Dor\u00e9e tiene comida francesa es lo mismo que decir que un restaurant la tiene porque est\u00e1 en la calle Jean Jaures... Como restaurant la comida es la de un bar (si, ricos sandwichs el men\u00fa del mediod\u00eda ev\u00edtelo), el servicio es el de un bar de shopping (malo), el ambiente es el de un shopping (malo) y la carta de vinos, bueno... tienen buenos jugos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Est\u00e1 bueno para un almuerzo laboral."
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Verito2011", 
+      "text": "Me gusta para tomar un caf\u00e9 acompa\u00f1ado de una tarteleta de frutos rojos.. Rico el nuevo caf\u00e9 frozen"
+    }, 
+    {
+      "date": "5 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Francin", 
+      "text": "los sandwichs son ricos pero los arruinan calentandolos en el microondas, las cosas dulces son muy ricas."
+    }, 
+    {
+      "date": "11 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "DiegoPonti", 
+      "text": "Simplemente un lugar para parar y tomarse unos minutos a comer algo mientras se est\u00e1 de compras en el shopping. No puedo opinar sobre la ambientaci\u00f3n pues se utiliza el patio de comidas del Shopping."
+    }, 
+    {
+      "date": "24 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Una excusa para hacer un alto en el shopping y optar por un tentenpi\u00e9 para seguir la vuelta y nada m\u00e1s"
+    }, 
+    {
+      "date": "14 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gimani", 
+      "text": "no tengo ningun comentario malo,solo que me gusto estar ahi y me senti muy bien"
+    }
+  ]
+}

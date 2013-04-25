@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Sebastardo", 
+      "text": "La comida era bastante insipida, si se lo toma como fast food, pasaria, pero no. Lo que mas me llamo la atencion que la gaseosa y la cerveza parecian rebajas con agua, pero lo abrieron delante mio asi que no puedo decir nada. En definitiva, no me gusto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "SOLEMA", 
+      "text": "Local de aspecto campestre,descuidado en cuanto a la decoracion,totalmente ausente.comprobamos las mismas falencias que en el local de ramos mejia en cuanto a la comida.los ingredientes como salchichas, panceta, pollo los incorporan al panqueque crudos!!!con la unica coccion de unos segundos cuando cierran el panqueque,lo vimos personalmente por estar sentados al lado de la ventana vidriada de la cocina.la atencion fue lerdisima.la mousse de chocolate seria muy rica si la sirvieran bien fria.carlitos no se olvide de cambiar el aceite donde frien las papas y poner mas relleno en los panqueques"
+    }, 
+    {
+      "date": "19 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Valush", 
+      "text": "Fui un par de veces ya, los panqueques son riquisimos y llenan bien, los dulces espectaculares. la atencion es buena (incluso habia alcohol en gel), el ambiente climatizado. fuimos por el cumple de un amigo, la pasamos bien, aunque estuvieron mal de no obsequiarle ya sea una porcion de torta con velita de regalo. Recomendable! Hoy vamos nuevo!"
+    }
+  ]
+}

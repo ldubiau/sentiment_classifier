@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "20 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Franco59", 
+      "text": "Tienen que mejorar la atenci\u00f3n, las camareras lentas y sin ideas (nos sirvieron las entradadas sin platos individuales). La comida es regular, pero bien presentada. Muy lindo el lugar."
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Helen", 
+      "text": "Deber\u00edan mejorar la atenci\u00f3n. Es lento el servicio y las camareras no tienen mucha idea."
+    }, 
+    {
+      "date": "9 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "laviu", 
+      "text": "Muy buena propuesta para el barrio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "josegiro", 
+      "text": "Exquisita comida acompa\u00f1ada de una distinguida atenci\u00f3n y  excelente ambiente"
+    }, 
+    {
+      "date": "21 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "alizalaz", 
+      "text": "El ambiente es lindo, estuve el d\u00eda de la jornada l\u00edrica y me pareci\u00f3 un show \u00fanico."
+    }, 
+    {
+      "date": "7 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "malala15", 
+      "text": "El lugar es lind\u00edsimo y me encant\u00f3 la idea de que cada local sea totalmente distinto, desde la decoraci\u00f3n hasta los pocillos. Cada ambiente \"pertenece\" a la celebridad  a la que est\u00e1 dedicado, muy novedoso. \r\nLa comida y los chocolates son geniales. \r\n\u00a1No se vayan sin probar el caf\u00e9!"
+    }
+  ]
+}

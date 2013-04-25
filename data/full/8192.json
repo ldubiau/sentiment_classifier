@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "20 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "bebotito", 
+      "text": "Quiz\u00e1s la mala experiencia fue haber usado el delivery. la carne del asado dura, incomible. las papas fritas blandas. morcilla y chorizo, buenos. o sea, una porci\u00f2n de asado muy fea, un chorizo, una morcilla y unas papas: 70 pesos!. nunca pedimos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dielava79", 
+      "text": "Parrilla de barrio. Salis con olor a humo y la panza llena. Bondipan exquisito! Morci y chori no se quedan atr\u00e1s. Los precios son un regalo en relaci\u00f3n a la calidad de la carne. De postre llevate un pollo entero a tu casa!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "caritoq83", 
+      "text": "Excelente parrilla. La comida es riqu\u00edsima, viene acompa\u00f1ada por precios muy bajos y porciones abundantes. Ideal para ir con amigos o en familia sin pretensiones respecto a la ambientaci\u00f3n."
+    }
+  ]
+}

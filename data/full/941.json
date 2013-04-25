@@ -1,0 +1,208 @@
+{
+  "malos": [
+    {
+      "date": "28 Nov 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "monotuerto", 
+      "text": "Me pareci\u00f3 un lugar muy agradable pero la comida excesivamente cara y de bajo nivel.\r\nEl servicio no coincide con la calidad que cre\u00eda tenia este restaurante."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "Impecable ambiente y servicio. Precios acordes y ubicaci\u00f3n ideal y sin igual. \r\nEn comida bien, por eso sale la mitad que su hermano Nectarine, no es comparable. Recomiendo aprovechar las mesas para parejas sentados uno al lado del otro en el sal\u00f3n central."
+    }, 
+    {
+      "date": "27 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JAG", 
+      "text": "Comida normal con precios normales. Nada excepcional. Lejos de su hermano mayor Nectarine."
+    }, 
+    {
+      "date": "22 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "osquito", 
+      "text": "Coincido con otros comentarios: servicio formal pero sin calidez, fr\u00edo. La comida normal, nada excepcional. El ambiente excelente."
+    }, 
+    {
+      "date": "29 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "juampi1978", 
+      "text": "Ambiente muy agradable y atenci\u00f3n de primera. La comida no me deslumbr\u00f3, pero estuvo bien."
+    }, 
+    {
+      "date": "7 Oct 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Carolina73", 
+      "text": "El ambiente, s\u00faper agradable. \u00cdntimo y cosmopolita. Una combinaci\u00f3n recomendable. La carta, corta pero buena. Un men\u00fa con cierta complejidad que no es para todos los d\u00edas. Ideal para una ocasi\u00f3n especial. la atenci\u00f3n, no muy c\u00e1lida. No iba de la mano del lugar. A veces hab\u00eda que buscar qui\u00e9n nos atendiera.  No estaba a la altura de las circustancias. Volver\u00eda? Tal vez. Si mejoraran la anteci\u00f3n, definitivamente."
+    }, 
+    {
+      "date": "10 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mariangela", 
+      "text": "El lugar est\u00e1 muy bien, al no ir mucha gente parece m\u00e1s para salida en parejas. La comida buena y la atenci\u00f3n tambi\u00e9n."
+    }, 
+    {
+      "date": "22 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "tomeu", 
+      "text": "Se come bien pero demasiado caro para la breve carta y su calidad. Muy lindo ambiente."
+    }, 
+    {
+      "date": "2 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vidrag", 
+      "text": "Todo bien pero tendr\u00edan que ampliar la carta de vinos que es un poco limitada."
+    }, 
+    {
+      "date": "15 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "manebro", 
+      "text": "ame este lugar!!!!!!!!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "santa", 
+      "text": "La comida fue excelente, las porciones importantes. Con salsa y condimentos justos, realmente exquisito. \r\nEl lugar es muy est\u00e9tico, aunque hac\u00eda demasiado calor. La atenci\u00f3n fue buena."
+    }, 
+    {
+      "date": "27 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "el_magnifico", 
+      "text": "Deben tener magos en la cocina, porque es un lugar exquisito. Para chuparse los dedos."
+    }, 
+    {
+      "date": "17 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hgr", 
+      "text": "El lugar es encantador, muy bien atendido y la comida es extremadamente personal. Muy recomendable!"
+    }, 
+    {
+      "date": "20 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Isolda", 
+      "text": "Excelente restaurant. Una opci\u00f3n incre\u00edble al mediod\u00eda por la calidad, el ambiente y el precio."
+    }, 
+    {
+      "date": "3 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "espina_i", 
+      "text": "Muy buena la comida, con un precio s\u00faper accesible al mediod\u00eda y un lugar hermoso."
+    }, 
+    {
+      "date": "24 Feb 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "@guynevo", 
+      "text": "Menu ejecutivo con precio accesible"
+    }, 
+    {
+      "date": "3 Feb 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Consuelo", 
+      "text": "El lugar es c\u00e1lido, sereno y agradable. La atenci\u00f3n es de primera, y los platos son de lo mejor que he probado en cocina italiana.  Imperdible!"
+    }, 
+    {
+      "date": "1 Feb 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "liclorena", 
+      "text": "Llamamos para reservar en horario que no atendian y muy amablemente nos devolvieron el llamado.\r\nEl lugar es precioso.\r\nLo unico que dice tener estacionamiento pero no lo tiene, igual hay uno justo en frente."
+    }, 
+    {
+      "date": "16 Jun 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "esteban1", 
+      "text": "Muy buen italiano de super pastas caseras, decoraci\u00f3n de Laura O. Atenta atenci\u00f3n.\r\nDe lo mejor en italianos..."
+    }, 
+    {
+      "date": "5 May 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "steve", 
+      "text": "Todo muy bien, pero creo que la comida debe ser un poco mas descontracturada y abundante."
+    }
+  ]
+}

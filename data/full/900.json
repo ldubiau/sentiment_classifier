@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "14 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "LauMa", 
+      "text": "El lugar es exelente, la comida es bien casera y esta bien aunque lo mejor es el ambiente bluesero y la musica en vivo."
+    }, 
+    {
+      "date": "17 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "valeseo", 
+      "text": "No puedo creer que en la Boca exista un lugar asi. Se abusan de la historia acumulandola en las paredes. Una mugre desde donde se lo vea. Desde la encargada a los mozos, unos maleducados. Groserias delante de clientes. Me cayo muy mal la comida. Deberian clausurarlo. Cualquier otro lugar hubiese sido mejor que eso."
+    }, 
+    {
+      "date": "15 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ramos", 
+      "text": "Lugar para ir a disfrutar el ambiente blusero. \r\nNo es para ir todos los d\u00edas, es m\u00e1s bien para tomarse una cerveza con man\u00ed y ver lo que pasa con algunos personajes que se ven de cartoon."
+    }, 
+    {
+      "date": "30 Nov 2003", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "Un lugar archi tipico de La Boca, fui hace muchos a\u00f1os, pero para el turista es mas que recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bktn_pat", 
+      "text": "Lo mejor de la zona."
+    }, 
+    {
+      "date": "20 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "karinapr", 
+      "text": "Me pareci\u00f3 unlugar extraordinario, muy original y muy bien atendido, por gente del blues con historias de vida incre\u00edbles, que se muestran muy sencillas y humildes.\r\nMuchos extranjeros de cualquier edad visitan el lugar en busca de buena m\u00fasica y ser atendidos con buena onda."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "15 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Marcosfanu", 
+      "text": "No fui al restaurante, pero ped\u00ed por delivery, un plato de lomo a la pimienta que me dijeron por tel\u00e9fono que era para compartir para dos personas, y que costaba $75, pens\u00e9 que era bastante caro para ser un delivery pero lo pedimos igual. cuando lleg\u00f3 nos dimos cuenta que era una porci\u00f3n muy chica, apenas una porcion y media, y la calidad era muy mala. resumen: mala calidad y muy caro, un plato de delivery por $75, ese costo es igual a estar sentado en un restaurante, como la cabrera o kansas que para mi son excelentes.-"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "feragusper", 
+      "text": "Nunca comi en el lugar, siempre pedi delivery con lo cual no puedo opinar mucho del servicio mas que el servicio de delivery, que es relativamente r\u00e1pido y eficiente. La comida es muy buena y con precios accesibles, una excelente relaci\u00f3n precio calidad. Es muy recomendable la carne al horno con papas, la carne se deshace completamente y es muy gustosa."
+    }, 
+    {
+      "date": "1 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Morwen", 
+      "text": "El buen gourmet es una muy buena rotiser\u00eda que cuenta con unas mesitas para poder comer en el local. El ambiente es peque\u00f1o pero agradable y muy bien atendido. \r\nLa mayonesa de ave y las costillitas a la riojana son muy ricas"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sangastin", 
+      "text": "el sal\u00f3n quedo re bueno, los felicito por la renovacion, la comida exquisita como siempre y el servicio es excelente... sigan asi,no hagan caso a comentarios sin sentido!!!!"
+    }, 
+    {
+      "date": "9 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hellorod", 
+      "text": "Comida buena, precios accesibles y buena atencion. Simplemente eso, como debe de ser, no hay que decir nada mas."
+    }, 
+    {
+      "date": "22 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "wity", 
+      "text": "La atencion muy cordial (a pesar que solo hay una joven para todas las mesas, nunca pierde su sonrisa)y la comida riquisima. SUPER RECOMENDABLE"
+    }, 
+    {
+      "date": "1 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "michaelscofield", 
+      "text": "Es un lugar excelente para comer comida casera.  No tiene lujos ni los pretende, sin embargo, todo es de primera calidad, a un cuarto de precio de un restaurante \"fancy\". No dejen de probar: el bife de chorizo, las supremas, las pastas caseras, la carne al horno y el tiramis\u00fa."
+    }, 
+    {
+      "date": "5 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "nadiasonia", 
+      "text": "El lugar es una rotiser\u00eda con mesas (es un lugar sencillo), las pastas caseras son excelentes y el resto de los platos MUY buenos. \r\nExcelente relacion precio-calidad si queres comer sin gastar mucho."
+    }, 
+    {
+      "date": "24 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "nadiasonia", 
+      "text": "Las pasta caseras son MUY buenas, el lugar es casero, con buena atenci\u00f3n y MUY buenos precios. Es una rotiser\u00eda con mesas."
+    }
+  ]
+}

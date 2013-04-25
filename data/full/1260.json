@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "17 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "carlon", 
+      "text": "El men\u00fa ejecutivo de regular calidad. la carne parec\u00eda hervida, el vino no pudimos tomarlo por lo avinagrado as\u00ed que tuvimos que pedir uno de la carta, lo que increment\u00f3 notablemente el precio. en sintesis no regreso m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "hermo", 
+      "text": "muy buena atencion, y exelente calidad-precio.\r\nrecomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Oct 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "boquitak", 
+      "text": "El lugar es muy agradable, c\u00f3modo, familiar y la comida muy deliciosa y una muy buena atenci\u00f3n. Para recomendar."
+    }
+  ]
+}

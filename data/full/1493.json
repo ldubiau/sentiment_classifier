@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "3 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Santino23", 
+      "text": "Una verguenza, pedi 2 porciones de torta que costaban 7.50 cada una, y me trajeron 2 \"mini-tortas\" del tama\u00f1o de un apoyavaso. En la carta figuraban como porciones, y en ningun lado decia la palabra \"mini\", salvo en el recibo. Lamentable"
+    }, 
+    {
+      "date": "20 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "la_muda", 
+      "text": "Muy mala la comida y la atenci\u00f3n. No voy m\u00e1s"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "hgiambas", 
+      "text": "Mala relaci\u00f3n precio calidad. Muy caro para lo que es... un restaurant que no tiene nada especial."
+    }, 
+    {
+      "date": "15 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "No se destaca en nada.. Es para tomar un cafe o el te"
+    }, 
+    {
+      "date": "11 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "anddufau", 
+      "text": "Ped\u00ed una ensalada para llevar. Ensalada Caribe coun una porci\u00f3n generosa de nueces. Muy buena opci\u00f3n para el mediod\u00eda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "TOTY", 
+      "text": "Muy buena la comida y la atenci\u00f3n del personal es impecable."
+    }, 
+    {
+      "date": "10 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "angels17", 
+      "text": "Muy ricas las comidas, milanesas, todo muy bien  hecho y presentado."
+    }
+  ]
+}

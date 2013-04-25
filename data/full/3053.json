@@ -1,0 +1,44 @@
+{
+  "buenos": [
+    {
+      "date": "13 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pablovlar", 
+      "text": "El restaurant nos parecio atractivo pero lo que objeto es que por el precio que pagamos no da la relacion costo/beneficio. No es malo pero no volveria"
+    }, 
+    {
+      "date": "7 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Paula_fmendez", 
+      "text": "El lugar es normal, los precios lo mismo... La atencion deja mucho que desear, los platos son simples, no tienen mucha presentacion. No es un lugar que recomendar, tampoco es malo, pero quizas le agregaria algo mas."
+    }, 
+    {
+      "date": "16 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nano00", 
+      "text": "Espacios amplios y c\u00f3modos, aunque la ambientaci\u00f3n es mejor en el espacio fumador. Las luces de la barra son molestas. Sobre todo en invierno, deber\u00edan tratar de servir comida y guarnici\u00f3n a la misma temperatura (caliente !). Los principales resultaron algo insulsos."
+    }, 
+    {
+      "date": "20 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elmarce", 
+      "text": "El sushi fue muy bueno, especialmente el hot. \r\nEl salm\u00f3n vino sin gusto ni condimentos y el arroz lo mismo. \r\nEl postre estaba rico y por ello lo califico de bueno en la comida. \r\nLa moza fue muy amable pero no est\u00e1 capacitada. La actitud con la cuenta fue inadecuada pues se valieron de un pretexto futil para hacer menos descuento que el que correspond\u00eda."
+    }
+  ]
+}

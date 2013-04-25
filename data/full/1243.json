@@ -1,0 +1,156 @@
+{
+  "buenos": [
+    {
+      "date": "27 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Meche", 
+      "text": "Me encanto en lugar es un ambiente muy c\u00e1lido, y se pueden encontrar platos que no hay en todos lados."
+    }, 
+    {
+      "date": "5 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Angie_13", 
+      "text": "Los precios son un poco altos, pero la comida es de muy buena calidad.\r\nCuando fui hab\u00eda mucha gente: no me pareci\u00f3 c\u00f3modo que haya tantas mesas cerca y era imposible escucharse por el ruido que hab\u00eda."
+    }, 
+    {
+      "date": "2 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "marila27", 
+      "text": "La comida tarda en llegar a la mesa y cuando llega esta tibia o casi fr\u00eda. El pan lo trajeron cuando termin\u00e1bamos de comer. El precio no es accesible. No lo recomiendo."
+    }, 
+    {
+      "date": "10 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GooS", 
+      "text": "Un ambiente muy tranquilo. La verdad es que hay que ir varias veces porque te quedas con ganas de probar todo lo de la carta."
+    }, 
+    {
+      "date": "26 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nanito", 
+      "text": "El ambiente es agradable y de caracter\u00edsticas aut\u00f3ctonas. Las porciones si bien no son abundantes, son de muy buena calidad. Es una buena elecci\u00f3n para salir de los est\u00e1ndares de los \"rest\u00f3 modernos\"."
+    }, 
+    {
+      "date": "2 Ago 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Baco", 
+      "text": "La comida es escasa y muy mal servicio. Lo mejor: el se\u00f1or que toca el piano."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "p77k", 
+      "text": "La cazuela de cordero fue una decisi\u00f3n acertada, en su punto, con la temperatura correcta y excelentemente condimentada. El carr\u00e9 en la porci\u00f3n justa y la guarnici\u00f3n de verduras abundante. El servicio normal."
+    }, 
+    {
+      "date": "25 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "heberecufe", 
+      "text": "Muy buena calidad de quesos, fiambres y embutidos. Muy buen Tiramis\u00fa. La atenci\u00f3n no es destacable, pero tampoco mala. Lo \u00fanico que podr\u00edan mejorar es la temperatura de la cerveza, tienen muy buenas cervezas artesanales, que acaban siendo intragables porque jam\u00e1s estan frias! Pero pese a esto es un lugar para volver repetidamente!"
+    }, 
+    {
+      "date": "3 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gatita2005", 
+      "text": "No es barato... pero sabrosisimos sus platos y sus cervezas artesanales. Recomiendo especialmente la colorada. Ademas un ambiente tranquilo y muchisima variedad de opciones en su carta... No dejen de ir!!!"
+    }, 
+    {
+      "date": "29 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gabilina", 
+      "text": "Excelentes las variedades de pizzas. Muy recomendable la de jamon crudo y r\u00facula. Tambi\u00e9n es muy buena la cerveza artesanal. El ambiente es un poco bullicioso los fines de semana y a eso se suma que las mesas est\u00e1n muy juntas, por lo que no se puede conversar tranquilo. De poder elegir, es preferible ir durante la semana."
+    }, 
+    {
+      "date": "22 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nadiasonia", 
+      "text": "Muy buena picada y cerveza artesanal. Mala atenci\u00f3n, pocas meseras y desatentas."
+    }, 
+    {
+      "date": "10 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PeCo", 
+      "text": "Est\u00e1 muy bueno para ir y tomarse algunas cervezas caseras con un rico plato.\r\nBuenisima atenci\u00f3n y precio acorde al lugar y comida.\r\nAlgo diferente en la noche porte\u00f1a. Buena idea y las buenas ideas hay que reconocerlas."
+    }, 
+    {
+      "date": "19 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Poe", 
+      "text": "Lo primero que merece destacarse es la variedad de la carta, con m\u00faltiples opciones. \r\nLa calidad de la comida es excelente, no as\u00ed la atenci\u00f3n, que es correcta, pero fr\u00eda e impersonal. \r\nEl ambiente es agradable, con una atmosfera campesina. \r\nLo recomendamos."
+    }, 
+    {
+      "date": "28 Ago 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mio1981", 
+      "text": "Si bien la comida es excelente, el servicio fue p\u00e9simo, el restaurante no estaba lleno y nos atendieron a las 15:45 habiendo llegado al lugar a las 14 hs."
+    }, 
+    {
+      "date": "15 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marivele", 
+      "text": "Muy buena la comida, menu variado."
+    }
+  ]
+}

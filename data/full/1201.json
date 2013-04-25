@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "19 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Ideal para salir del paso, sin gastar mucho y comiendo sin muchas pretensiones. La carta no es extensa pero cumple, la atenci\u00f3n es correcta, el ambiente b\u00e1sico y con la comodidad de poder pagar con tarjeta."
+    }, 
+    {
+      "date": "1 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fer3000", 
+      "text": "Lugar agradable y ricas minutas"
+    }, 
+    {
+      "date": "5 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "andy", 
+      "text": "Falta de ventilaci\u00f3n y de aire acondicionado. Muy inc\u00f3modo en \u00e9pocas de verano."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "GustavoM45", 
+      "text": "Muy mala la atencion, habia una se\u00f1ora que al parecer era la due\u00f1a que nos trato muy mal porque fuimos con mis sobrinos chicos. La moza que nos atendio tuvo muy mal trato. Pense que era yo solo pero al leer los comentarios noto que es un comun denominador. No lo recomiendo para nada. No volvere"
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mariana73", 
+      "text": "NO lo recomiendo. Los platos son mediocres y la atenci\u00f3n, p\u00e9sima. Adem\u00e1s, aunque la comida es insulsa, los precios son muy SALADOS"
+    }, 
+    {
+      "date": "6 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MariaLaura43", 
+      "text": "Muy mala atenci\u00f3n, de las camareras y sobre todo de la due\u00f1a. El lugar es lindo, y los platos zafan, pero no me gusta pagar para que me atiendan mal, con mucha demora y poca disculpa."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mariell", 
+      "text": "Muy mala la atencion en particular de la due\u00f1a del local quien realizo una alevosa discriminacion por concurrir con ni\u00f1os peque\u00f1os, ya que hicieron lo posible para que nos fueramos. Mi marido tomo un diario del lugar para leerlo y la moza se lo quito de las manos por pedido de la se\u00f1ora.. Nunca me trataron tan mal."
+    }, 
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "macanudo", 
+      "text": "Ya hab\u00eda ido al mediod\u00eda. El lugar es muy lindo y se come muy bien. Sucedi\u00f3 que fuimos con mi mujer, sus padres y mi hijo (de 4 meses). Hicimos una reserva a la tarde pidiendo una mesa al exterior. Llegamos y antes de sentarnos la due\u00f1a manda  a una camarera a que nos dijera \"Mir\u00e1 que ac\u00e1 afuera la gente fuma habanos, por el nene te digo\". Atr\u00e1s vino la due\u00f1a: \"Son clientes que vienen siempre, viste. De noche no aceptamos beb\u00e9s, estuvimos mal en no decirtelo por tel\u00e9fono\". Ok, podemos ir adentro? \"No, est\u00e1 todo reservado\". Lo incre\u00edble es que el que fumaba estaba en la mesa con la due\u00f1a."
+    }, 
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "edistefano", 
+      "text": "Si bien lo recomiendo, la experiencia no fue del todo grata. Llegamos luego de las 23hs sin reserva atraidos por lo agradable del lugar, la iluminaci\u00f2n y el entorno, y las camareras no parecieron interesadas en recibirnos y tampoco en atendernos. Tuvimos que reclamar la panera y la carta, que es corta pero muy interesante en opciones. Lamentablemente solo quedaban algunos platos disponibles as\u00ec que tuvimos que elegir por descarte. De todos modos estuvo muy bien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Martincho Alaniz", 
+      "text": "Hermoso lugar!!!\r\nla atencion impecable!!!\r\nla comida tardo bastante (cerca de 40 minutos las entradas y otros 40 minutos la comida) en mi interior estaba bastante encabronado pero cuando llegaron los platos realmente me alegre porque eran inmejorables!!!!\r\nrecomendacion... vallan con tiempo pero vallan porque vale la pena.\r\nreserven antes!!!!! sino seguro se comen una espera de mas de 1 hora!\r\nlo recomiendo ampliamente !!!!"
+    }
+  ]
+}

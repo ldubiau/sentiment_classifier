@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "4 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jpdesantis", 
+      "text": "La relaci\u00f3n precio calidad es mala. He ido a cenar dos veces y la comida es un desastre: parece sacada del freezer y calentada en el microondas. Por \u00faltimo, la atenci\u00f3n es no es buena del todo como en bares de igual categor\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ropo", 
+      "text": "Un lugar para almorzar tranquilo. A favor. Bien ambientado. La calidad y la preparaci\u00f3n de la comida es muy buena.\r\nEn contra. Las bebidas cola son de m\u00e1quina y publican un men\u00fa ejecutivo pero el mismo no incluye cubierto cosa que no he visto en ning\u00fan otro restaurante."
+    }, 
+    {
+      "date": "28 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Bundy", 
+      "text": "Comi el menu ejecutivo y estaba aceptable. Pero la publicidad de la pizarra de la puerta es enga\u00f1osa. Promocionan un menu pero cuando entras el plato en promocion es otro. Ademas te suman el costo del cubierto que no aclaran en la puerta. No voy a volver, me senti enga\u00f1ado. El ambiente no es el mejor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "diczy", 
+      "text": "EXCELENTE COMIDA...EXCELENTE ATENCI\u00d3N!!\r\nSe nota el cuidado de cada plato y de cada ingrediente usado, vuelvo cada vez que puedo,  100% recomendable!"
+    }, 
+    {
+      "date": "3 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tanguera", 
+      "text": "Ya fuimos dos veces, es una experiencia diferente a la hora de comer. \r\nEs el lugar idual para comer entrada, plato y postre, todo llega en tiempo y forma, las porciones tienen el tamano perfecto todo esta pensado para ser vivido como una experiencia."
+    }, 
+    {
+      "date": "20 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nicolandes", 
+      "text": "Alguien probo la picada mosquetera??? Es excelente!!!"
+    }, 
+    {
+      "date": "30 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elyachtman", 
+      "text": "muy sobria la decoracion, atencion justa y comida excelente.una carta breve  y precios de $70/pax sin vino.super recomendable!!"
+    }, 
+    {
+      "date": "15 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nicolandes", 
+      "text": "Muy buena barra y una variada carta de comida. Muy rico el tex-mex y excelente el postre Obelisco"
+    }
+  ]
+}

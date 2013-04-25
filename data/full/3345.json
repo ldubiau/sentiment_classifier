@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "7 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Una buena opcion para tomar una buena cerveza en jarra con amigos acompa\u00f1ada de una gran picada. La musica esta buena y se llena bastante."
+    }, 
+    {
+      "date": "5 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "surfer83", 
+      "text": "Buen lugar para pasar una noche entre amigos. Tiene muy buenas promociones y los precios son razonables."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "radians", 
+      "text": "Excelente pizza, y realmente muy barato."
+    }, 
+    {
+      "date": "31 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Noodle", 
+      "text": "La picada esta muy buena y es muy completa la recomiendo.."
+    }, 
+    {
+      "date": "31 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vvv84", 
+      "text": "totalmente recomendable"
+    }, 
+    {
+      "date": "29 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PICHE", 
+      "text": "Excelente ambiente, buena musica, comida de muy buena calidad y servicio de atencion rapido.- precios moderados."
+    }, 
+    {
+      "date": "11 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Muliska", 
+      "text": "Muy buen ambiente, la comida exelente, y los precios razonables, cuentan adem\u00e1s con promociones, como ser la picada con jarra de cerveza, que adem\u00e1s de la calidad de los productos estan bien presentados."
+    }
+  ]
+}

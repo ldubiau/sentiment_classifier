@@ -1,0 +1,608 @@
+{
+  "malos": [
+    {
+      "date": "14 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mariarqc", 
+      "text": "Atendimento p\u00e9ssimo. Pizza razo\u00e1vel."
+    }, 
+    {
+      "date": "27 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Scu55", 
+      "text": "Cervezas aguadas y no frias. Picada poco variada y mal presentada."
+    }, 
+    {
+      "date": "10 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "horaquio", 
+      "text": "Pocas veces me atendieron tan mal en un lugar!! nos sentamos afuera, nadie atend\u00eda y al preguntar no hubo respuesta cuando nuestra mesera era a la que se le pregunt\u00f3 pedimos a otro enojado porque no era su mesa hasta que se hizo cargo la que correspond\u00eda , no hablo ni una palabra en toda la noche, ni hola! la ensalada cesar pesima,solo lechuga con pollo y mayonesa para ponerle, la hamburguesa bien, la cerveza muy bien. si no quieren dejar propina e irse indignados con la atenci\u00f3n. no ir!!"
+    }, 
+    {
+      "date": "20 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "intervox", 
+      "text": "Al sentarte no te sirven nada ni despu\u00e9s de tomarte el pedido. Hay que esperar mirando el cielo y las palomas que se caminan por las mesas.\r\nLuego de 15 minutos nos dice la chica encargada que la mesa (para dos personas y sin ninguna indicaci\u00f3n) estaba reservada.\r\nLe dijimos que no nos \u00edbamos a cambiar. Entonces nos respondi\u00f3 que no nos tomaba el pedido ella, que sigui\u00e9ramos esperando a la camarera.\r\nLa ensalada \"Caesar\" era s\u00f3lo lechuga con trocitos de pan frito y queso rallado.\r\nNo quisimos pedir el libro de quejas porque sabemos su inutilidad."
+    }, 
+    {
+      "date": "4 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "LolaLyman", 
+      "text": "Hace unos a\u00f1os iba muy seguido ya que una de mis amigas trabajaba all\u00ed. Las papas Buller sol\u00edan ser el mejor plato para acompa\u00f1ar con una cerveza, pero ahora dejan mucho que desear... el queso ni siquiera era cheddar, o mejor dicho queso. Las cervezas siguen siendo buenas. Nos atendi\u00f3 una moza que parec\u00eda reci\u00e9n venida de un velorio y nos brind\u00f3 una atenci\u00f3n muy escueta. Quedar\u00e1 como tercera o cuarta opci\u00f3n a la hora de elegir lugares para ir a picar por Recoleta."
+    }, 
+    {
+      "date": "12 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "fabs", 
+      "text": "A place to drink beer, not to eat or drink anything else. The beers were great but my friend asked for a drink with vodka and we had to add an extra shot because it was like a milkshake."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasti\u00e1n11", 
+      "text": "El mejor lugar de cervezas artesanales y conozco varios, comida t\u00edpica para picar o acompa\u00f1ar las excelentes cervezas. Voy muy seguido de tarde, noche, a cualquier hora."
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "maurotte", 
+      "text": "Muy Buenas Cervezas, sobre todo la Honey Beer y la Indian Pale Ale, las pizzas no tienen nada extraordinario pero estan bien, la atencion a veces deja bastante que desear, tardan en atenderte, te pasan por al lado como si no estuvieras ahi... tendrian una mala noche. Voy a volver."
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "germanb", 
+      "text": "Lindo lugar, buena atenci\u00f3n.  Ideal para picotear y tomar cerveza."
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "lu_2010", 
+      "text": "Bastante sorprendida por la calidad de la comida: recomiendo la pizza margherita. S\u00ed coincido con que la atenci\u00f3n es mala, t\u00edpico resto de la zona en el que hay un par de chicas invitandote a entrar y despu\u00e9s no dan a basto con los mozos..."
+    }, 
+    {
+      "date": "9 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Teddy", 
+      "text": "Es la segunda vez que voy pero ya no vuelvo por tres razones principalmente:\r\n- Precios car\u00edsimos.\r\n- El happy hour aplica solamente si te sent\u00e1s adentro. Donde se vi\u00f3 eso???\r\n- Al presentar una tarjeta de descuento me la rechazaron aduciendo que hac\u00eda 2 semanas ya no la aceptaban. Cuando consult\u00e9 a la empresa que hace el descuento, me informaron que el descuento segu\u00eda vigente.\r\nUna verg\u00fcenza!"
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lidsutd", 
+      "text": "Cervezas artesanales de las buenas. Comida pasable."
+    }, 
+    {
+      "date": "10 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "el_little", 
+      "text": "fui en busca de las famosas papas buller y me lleve una decepcion!"
+    }, 
+    {
+      "date": "5 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ramsey", 
+      "text": "Las cervezas son ricas, sabrosas. La ALE no vale mucho la pena, pero las dem\u00e1s son para probar. Vale la pena volver y seguir probando.\r\nLa comida, otro tema... creo que la pizza es sabrosa, ricos ingredientes... pero lo dem\u00e1s dista bastante de la t\u00edpica cocina americana.\r\nEs para ir con amigos, pasar un rato agradable y no ser pretenciosos."
+    }, 
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Killigrew", 
+      "text": "Lo \u00fanico malo de Buller es que las mesas de afuera est\u00e1n muy juntas Mi men\u00fa preferido son los nachos Buller acompa\u00f1ados de un Melon Ball... Incre\u00edble!"
+    }, 
+    {
+      "date": "1 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "zime_nina", 
+      "text": "La mejor cerveza artesanal! y buena comida, en especial las picadas."
+    }, 
+    {
+      "date": "4 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "barrj", 
+      "text": "A cerveja estava gostosa assim como a pizza. Um bom lugar para comer e nada mais."
+    }, 
+    {
+      "date": "5 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cclaudel", 
+      "text": "Una gran decepci\u00f3n. Las cervezas estaban aguadas y sab\u00edan a nada, cualquier comida que se pidiera tardaba media hora en llegar y los precios resultaron car\u00edsimos."
+    }, 
+    {
+      "date": "26 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sovtek", 
+      "text": "Agradable pub donde las cervezas artesanales que prodcuen son el principal atractivo. Dicho sea de paso, son realmente buenas. En cuanto a la comida, es aceptable, pero como bien dijo otro miembro del sitio, se acerca m\u00e1s a la comida que uno puede encontrar en un bar, no tanto en un restaurant hecho y derecho (enti\u00e9ndase: picadas, algo de comida mexicana, etc). Contras: un poco caro para lo que es, y por momentos la m\u00fasica demasiado fuerte en el interior del local dificulta el di\u00e1logo en la mesa. Pros: la cerveza artesanal y la terracita/patio, ideal para tardes/noches de primavera o verano."
+    }, 
+    {
+      "date": "4 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "after office, marus y machi (un placer haber compartido una vez mas un hermoso momento) degustando los bares birreros. en este caso muy buena la opcion para degustar las 6 cervezas artesanales que ofrece el lugar para luego elegir una o mas. buenas las papas y las muzarellas tambien.el servicio justo, con un poco de falta de cortesia y esmero pero aprobado.buenas opciones de cervezas fuera de las tradicionales (con whisky por ej), el lugar es muy agradable como asi la zona, frente al cementerio, buenisimo! las cervezas artesanales varian de los 4.5 a los 8.5 grados recomendando las primeras."
+    }, 
+    {
+      "date": "22 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "procedencia", 
+      "text": "Empecemos por lo malo: es caro. Muy caro. Las pintas de cerveza est\u00e1n entre 16 y 20 pesos. La porci\u00f3n de papas fritas es min\u00fascula, y sale 12 pesos. Lo bueno: la atenci\u00f3n y la cerveza artesanal, que es deliciosa. Es un lugar para ir muy de vez en cuando, a disfrutar lentamente de lo que se est\u00e1 tomando. Si se desea tomar cerveza en cantidad, habr\u00e1 que elegir otro lugar... se puede decir que ac\u00e1 se prioriza la calidad sobre la cantidad. Es un lugar para ir a darse un gusto."
+    }, 
+    {
+      "date": "3 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Teddy", 
+      "text": "Buen lugar para charlar y tomar unas cervezas. Comida m\u00e1s parecida a la de un bar que a un restaurant. Muy caro por lo que consumimos."
+    }, 
+    {
+      "date": "6 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Garbis", 
+      "text": "Fuimos a cenar, el lugar estaba lleno de gente y esperamos un rato para sentarnos. La atenci\u00f3n p\u00e9sima, no tan buena como a los turistas extranjeros. Pedimos rabas y papas que no fueron nada especial. Luego una pizza que tard\u00f3 30 min en llegar con una jarra de cerveza que lleg\u00f3 despu\u00e9s de que terminamos de cenar y caliente."
+    }, 
+    {
+      "date": "17 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "msalias", 
+      "text": "La comida en general es buena, pero no pidas una hamburguesa porque es de Pati cualunque. Los nachos y las fajitas, igual que las picadas, van mejor. Lo que destaca, claro, es la cerveza y tambii\u00e9n tienen buena variedad de tragos. El ambiente es bueno, sobre todo afuera, para reunirse con amigos."
+    }, 
+    {
+      "date": "6 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "germangoar", 
+      "text": "Un ambiente muy agradable, tranquilo y con musica de fondo que acompa\u00f1a en todo momento dejando conversar tranquilamente. Tiene mesas en la calle lo que hace que en una linda noche se potencie mucho mas lo hermosa que es la zona.\r\nLa comida esta bien, no es nada para recordar pero no desentona tampoco. Si \u00e9sta fuera mala, por mas que el lugar sea como es, no volver\u00eda. Como la comida acompa\u00f1a bien, y la atencion es aceptable, da para reincidir. No es barato, pero por la zona en que esta no se puede pedir menos.\r\nEn resumen, es un lugar recomendable para ir en pareja y pasarla mas que bien."
+    }, 
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "italiana", 
+      "text": "Las cervezas riquisimas, la degustaci\u00f3n muy bien presentada. Las pizzas tambi\u00e9n est\u00e1n buenas y la atenci\u00f3n siempre que fui me pareci\u00f3 muy buena, sobre todo para un lugar tan frecuentado. La verdad, es un lugar donde siempre tengo ganas de ir porque tanto por la atenci\u00f3n como por la comida, siempre la pas\u00e9 muy bien."
+    }, 
+    {
+      "date": "30 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mkarenm", 
+      "text": "Excelente lugar para beber unas cervezas artesanales. Las papas fritas Buller y la picada,sensacionales. Si bien no es econ\u00f3mico, est\u00e1 bien ubicado, las mesas afueras son ideales para los dias lindos, vale la pena."
+    }, 
+    {
+      "date": "29 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "IgnacioMerino", 
+      "text": "Fui con unos amigos por comentarios de este lugar. El ambiente es inigualable, con las maquinas cerveceras a la vista!, mesas comodas y servicio muy bueno con camareras atentas a nuestros petitorios. Nos sentamos en la terraza que esta al aire libre y pedimos una degustacion de cervezas, todas artesanales y DELICIOSAS!! luego pedimos de entrada nachos buller ( imperdibles ) y aros de cebolla, y despues una pizza Americana, que echa en el horno de barro la hace inigualable!! De mas esta decir que nos tomamos 2 pintas de cerveza cada uno servida con el frio justo. Un lugar para voler!"
+    }, 
+    {
+      "date": "14 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Ateneax", 
+      "text": "Es un cl\u00e1sico por excelencia de la cerveza artesanal. Aunque los precios son un poco elevados (especialmente porque no hay 2x1), el lugar es altamente recomendable."
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dpuent", 
+      "text": "fuimos a picar algo, fui muchas veces pero la ensalada cesar esta espectacular!! mejor q la de kansas y fridays, y las papas buller siempre espectaculares, pedimos degustacion de las cervezas la que mas me gusto es la honey beer, es la mas fuerte pero una delicia, siempre vuelvo, es economico y muy rico"
+    }, 
+    {
+      "date": "3 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "El lugar tiene onda y esta muy bien decorado. Se caracteriza por tener sus propias cervezas artesanales que son exquisitas pero demasiado caras, $18 la pinta es demasiado."
+    }, 
+    {
+      "date": "30 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "Excelente lugar para beber muy buena cerveza. La ambientacion es buena, es logico esta orientado a turistas extranjeros, lo notas en los precios. la comida no sale de lo normal, hay veces que dejan un poco que desear, no se recomienda para comer. En gral suele ser un lugar ruidoso.Las sillas son incomodas por lo que se recomienda quedarse en la barra y tambien nos veremos beneficiados por la atencion que alli se dispensa. recomiendo probar la degustacion de cervezas y despues beberse una rica pinta de lo que mas les haya gustado. Es un lugar ideal para ir con amigos de previa."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lumpa", 
+      "text": "Es un cl\u00e1sico para ir despu\u00e9s del trabajo a pasarla bien. Las cervezas son excelentes y los platos generosos. es algo caro quiz\u00e1s, pero para mi lo vale.\r\nLo \u00fanico que tendr\u00eda que reprocharle es la atenci\u00f3n de un camarero que es un aparato. Pero de ninguna forma eso empa\u00f1a el valor del lugar."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nicky", 
+      "text": "La cerveza honney es excelente, pero asi cuesta... medio cara. Aunque la cerveza es de calidad, se dedican a eso\r\nlos aros de cebolla muy recomendables.\r\nesta bueno para ir en pareja o con amigos. Es para ir seguido, lo recomiendo."
+    }, 
+    {
+      "date": "22 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "surfer83", 
+      "text": "Pedimos una pizza, papas fritas y 2 pintas de cerveza cada uno y gastamos alrededor de $80. La verdad que las cervezas muy buenas, la comida tambi\u00e9n. \r\nEl precio es definitivamente para no ser habitu\u00e9."
+    }, 
+    {
+      "date": "9 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "syster", 
+      "text": "Fui en el happy hour despu\u00e9s del trabajo, tiene unas mesas al aire libre que cuando hace fr\u00edo cuentan con un sistema de calefacci\u00f3n muy copado. \r\nPedimos dos medias pintas para probar las cervezas artesanales, altamente recomendables. Volver\u00eda."
+    }, 
+    {
+      "date": "13 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ivonduk", 
+      "text": "El lugar es para ir a probar las cervezas, que son muy ricas durante el happy hour. Est\u00e1 orientado al turista y por lo tanto es car\u00edsimo.Tom\u00e9 tres vasitos de cerveza chicos y tres`porciones de pizza finita y gast\u00e9 26 pesos. Volver\u00eda a ir a la sucursal que est\u00e1 en microcentro durante el happy hour. La que mas me gust\u00f3 fue la honey."
+    }, 
+    {
+      "date": "3 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tayla", 
+      "text": "Un cl\u00e1sico!!! Amo las cervezas que tienen...en especial la honey beer y la india pale. Se puede cenar si uno tiene en claro que son platos simples. Las pizzas son muy buenas, para los que les gustan las que son finitas y crocantes. Las papas buller para picar algo mientras tomas son muy buenas. Yo voy hace a\u00f1os y lo recomiendo."
+    }, 
+    {
+      "date": "13 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Zippo77", 
+      "text": "Es lugar es para ir y tomar cerveza, tres de las opciones son excelentes. \r\nLa pinta y el chopp est\u00e1n a precio justo, pero el sampler es caro, sabiendo que es un \"servicio\" a quienes quieren probar todos sus sabores por primera vez. \r\nNo da para comer, no es nada del otro mundo y algo cara. Despu\u00e9s de la cerveza, a cenar a otro lado. La tipo malteada de chocolate que hac\u00edan hace un tiempo, no se si todavia est\u00e1, es una perdici\u00f3n. \r\nEl ambiente es de Recoleta, a mi no me encanta, pero sab\u00e9s donde vas. \r\nEl servicio es regular, pero nada desastroso."
+    }, 
+    {
+      "date": "18 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Jalu", 
+      "text": "Elegimos una mesa al aire libre rodeada de \u00e1rboles, eso me gust\u00f3. Las cervezas eran fant\u00e1sticas (un chopp cuesta siete pesos y una pint, nueve), hay para todos los gustos. La pizza estuvo muy rica (veintid\u00f3s pesos una Margarita) y los fried muzzarellas salen diecis\u00e9is pesos.\r\nLo gracioso es que todo estaba escrito en ingl\u00e9s, o sea que apuntan a turistas. Entonces, si yo fui con un extranjero, \u00bfpor qu\u00e9 la camarera se neg\u00f3 a llamarnos un taxi o rem\u00eds, y nos dijo que pod\u00edamos tomar uno en la calle? Eso no atender bien al turismo. Definitivamente la atenci\u00f3n fue p\u00e9sima."
+    }, 
+    {
+      "date": "12 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "paprini", 
+      "text": "El lugar es agradable y bien decorado. \r\nSu especialidad es la cerveza artesanal, con lo que decoraron el ambiente con esa tem\u00e1tica (la cual incluye dos enormes tanques en su entrada). \r\nLa comida es regular y el servicio de meseros es de regular a malo. Nada destacable, a excepci\u00f3n de algunas cervezas que valen la pena (la colorada, por ejemplo)."
+    }, 
+    {
+      "date": "29 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "El5Loco", 
+      "text": "Es un buen lugar para tomar algo un d\u00eda de semana a la noche y relajarse un poco, pero nada especial.\r\nLa cerveza es una locura, \u00a1muy buena!"
+    }, 
+    {
+      "date": "8 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Los platos son muy abundantes y la comida estuvo bien, pero es muy caro para lo que uno come."
+    }, 
+    {
+      "date": "18 Jun 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CarlosD", 
+      "text": "Buen lugar, medio juntas las sillas y mucho ruido. Caro para un pub as\u00ed, el servicio muy deficiente."
+    }, 
+    {
+      "date": "6 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Diego38", 
+      "text": "El lugar est\u00e1 bueno, la cerveza casera es imperdible. \r\nOpaca un poco la cena la atenci\u00f3n recibida y que los platos estaban un poco fr\u00edos."
+    }, 
+    {
+      "date": "1 Jul 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ceciw", 
+      "text": "El ambiente es demasiado ruidoso y las sillas no son c\u00f3modas. La picada estaba buen\u00edsima, con much\u00edsimas variedades y la cerveza artesanal tambi\u00e9n muy buena. Un poco caro, sin embargo."
+    }, 
+    {
+      "date": "2 Abr 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Es un lugar divertido y con onda sobre todo para los amantes de la cerveza. Ideal para ir con extranjeros que quieren ver la noche de Recoleta"
+    }, 
+    {
+      "date": "20 Feb 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "patypere", 
+      "text": "muy mala atencion, buena cerveza artesanal"
+    }, 
+    {
+      "date": "7 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "romanleo", 
+      "text": "Buenas cervezas artesanales.\r\n$9 la pinta. Algo ruidoso para mi gusto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JimenaP", 
+      "text": "Excelente el patio para estos dias de verano con las riquisimas cervezas que elaboran! Todo muy rico y la atencion muy buena! Nada mas que agregar."
+    }, 
+    {
+      "date": "27 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JimenaP", 
+      "text": "Volvimos por la cerveza, q siempre es buenisima (aunque esta vez no estaba del todo fria) y nos sorprendio la comida mexicana: muy rica y bien hecha. La atencion no estuvo mal, pero podria estar mejor."
+    }, 
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gesy_011", 
+      "text": "Hace a\u00f1os que vamos y la comida es buenisima, la cerveza excelente para el que le gusta tomar cerveza claro, y la atenci\u00f3n es muy buena, rescatando 1 o 2 mozos que no atienden bien, pero como no los encontras siempre que vas no nos quita las ganas de volver. Solemos pedir los nachos Buller, pizza Marguerita grande y 2 pintas de cerveza y gastamos $170, entre los 2. Quedas super satisfecho y sin sed. Para nosotros la especialidad es la pizza y cerveza pero hemos probado otros platos que tambien son riquisimos, y super abundantes. Volveremos siempre!"
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "camacri", 
+      "text": "Me sorprendio la comida ya que habia ido a tomar cerveza ahi pero nunca a comer. La comida es americana y creo que compite mano a mano con los mejores restaurants de comida americana. No solo es sabroso con un toque casera, si no que tiene una presentacion gourmet. 100% recomendable."
+    }, 
+    {
+      "date": "12 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Caricotera", 
+      "text": "exelente. realmente me quede muy conforme con todo... sin duda voy a volver..."
+    }, 
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yeyek", 
+      "text": "Es un excelente lugar para ir con amigos a tomar cerveza. Es un poco caro pero el ambiente est\u00e1 b\u00e1rbaro y la atenci\u00f3n es muy muy buena. Las chicas de la barra con unas genias y nos hicieron sentir como en casa. Gracias."
+    }, 
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rainbow", 
+      "text": "el ambiente me parece excelente, y el espacio al aire libre es mejor aun porque se puede escuchar musica pero no es muy ruidoso. los platos son todos muy buenos, las pizzas son riquisimas y los sandwiches abundantes. la especialidad es la cerveza, que es artesanal(y aunque el precio es un poco alto lo valen totalmente)pero todos los tragos son muy buenos! el barman es genial!\r\nEs un lugar al que voy regularmente porque me encanta!!! =)"
+    }, 
+    {
+      "date": "30 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mexicana74", 
+      "text": "La degustacion de cervezas es excelente. Asi podes probar de todas las variedades de cervezas que hacen. Todas son deliciosas. Tienen una cerveza para cada tipo de gusto, desde ligeras hasta fuertes, o desde dulces hasta amargas. Las fajitas muy recomendables."
+    }, 
+    {
+      "date": "26 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juansalas", 
+      "text": "Hay seis variedades de cerveza artesanal de primer nivel. El servicio es muy bueno, la comida excelente. Es ideal para la previa con amigos o para una cita."
+    }, 
+    {
+      "date": "23 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adrian_v", 
+      "text": "Muy buena atenci\u00f3n de parte de los chicos que atienden y explican muy bien cada plato. Lugar agradable y muy lindo.\r\nPara recomendar"
+    }, 
+    {
+      "date": "25 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucho", 
+      "text": "El men\u00fa es variado, rico y abundante. Las promos rigen todos los d\u00edas hasta las 18 hs. La cerveza que prob\u00e9 (dry stout) es excelente. Volver\u00eda para probar las demas variedades (tienen seis). Un lugar que ning\u00fan amante de la cerveza deber\u00eda pasar por alto."
+    }
+  ]
+}

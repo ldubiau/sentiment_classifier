@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "10 Jul 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Jcarloslorca", 
+      "text": "Una experiencia espantosa:\r\nla atenci\u00f3n de la camarera fue lamentable, las achuras estaban quemadas y para colmo de las cosas se demor\u00f3 m\u00e1s de una hora en traernos un plato que ten\u00eda el queso en mal estado. \r\nUn desastre."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Nov 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Foier", 
+      "text": "Interesante parrilla de barrio, para comer barato sin culpa y con buenos ingredientes."
+    }
+  ]
+}

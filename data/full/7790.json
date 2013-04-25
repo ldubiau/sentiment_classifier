@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "13 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Bling", 
+      "text": "La comida: nos dieron dos gaseosas sin gas, calientes y llenas de hielo para compensar, terminaron siendo agua con colorante en lugar de \"Coca Cola\". Los bastones de muzzarella eran DOS, solo dos en total para dos personas. Las tiritas de pollo eran CUATRO y muy peque\u00f1as. \r\nEl lugar: llen\u00edsimo de mosquitos.\r\nLos tapizados estaban rotos. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "@LuciaEsmoris", 
+      "text": "El lugar es super divertido para ir despu\u00e9s del trabajo, las picadas est\u00e1n buen\u00edsimas. Siempre que vamos la pasamos genial..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "halcon_maya", 
+      "text": "Excelente opci\u00f3n para almorzar o tomar un cafe con algo dulce.La ubicaci\u00f3n es ideal para los que trabajan por la zona, tranquilo y moderno, el ambiente es muy agradable y la propuesta gastronomica totalmente renovada (cambiaron la gerencia del resto) y mucho mas gourmetizada que antes.Cada dia un plato diferente que te sorprende por creatividad y excelente elaboraci\u00f3n y cuidado.Lo dulce cada d\u00eda mejor y el cafe para acompa\u00f1ar es de primera calidad.En definitiva, NO SE LO PUEDEN PERDER,MUY RECOMENDABLE!!!!"
+    }
+  ]
+}

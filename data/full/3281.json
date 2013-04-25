@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Renero", 
+      "text": "Muy buen ambiente, con neto perfil tanguero en la decoraci\u00f3n. Muy amables en la atenci\u00f3n, precios m\u00e1s que razonables, muy buena comida. Para pasar un buen momento."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ricobaldi", 
+      "text": "Fui con unos amigos venezolanos a mostrarles un espect\u00e1culo de tango... y sal\u00ed maravillada. Est\u00e1 muy bien pensado, los cantantes y bailarines estaban ah\u00ed, a nuestro lado, lo que nos hac\u00eda sentir parte del show. La comida es de primer nivel, y con el precio, nos hicieron un descuento porque \u00e9ramos varios...."
+    }, 
+    {
+      "date": "19 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "danibar", 
+      "text": "El lugar es acogedor, estilo bodeg\u00f3n de principios de siglo pasado. Muy buena climatizaci\u00f3n, esmerada atenci\u00f3n desde la recepci\u00f3n y hasta la salida."
+    }
+  ]
+}

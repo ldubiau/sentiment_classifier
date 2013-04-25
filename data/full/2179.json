@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "3 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Friedrich", 
+      "text": "Muy lindo lugar, bien ambientado y hogare\u00f1o.\r\nNo comparto los comentarios en cuanto a la comida, pedimos un tapeo que resultaron ser simplemente broshettas, como plato principal nos recomendaron los ravioles, ped\u00ed ravioles de ricota en salsa cuatro quesos, la salsa era un simple b\u00e9chamel insipida y mal hecha. A mis compa\u00f1eros les pas\u00f3 lo mismo y terminamos dejando los platos a medio comer. Una l\u00e1stima."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "fredra", 
+      "text": "Las pastas ricas,un poco gruesa la masa.Las bruchetas buenas pero se quedaron sin albahaca ,no pod\u00e9s quedarte sin ese ingrediente un s\u00e1bado a la noche.Poca calefacci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alula", 
+      "text": "El lugar es muy lindo, super acogedor como sus due\u00f1os Jorge y Cristina siempre tan amables con sus clientes, te sentis como en casa, Lo mejor del lugar las pastas y los platos del dia recomendados por Jorge, la carta de vinos muy buena, la atenci\u00f3n impecable y lo que no se pueden perder es el famoso TIRAMISU de Cristina, es lo maximo en postres que comi hasta ahora, este lugar es para volver y volver......"
+    }, 
+    {
+      "date": "3 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ARIGARA", 
+      "text": "Es un ambiente acogedor con atenci\u00f3n personalizada de primera; la calidad y sabor de la comida es excelente. \r\nUn lugar para el amante del buen comer, parejas y familia, sin lugar a dudas es Deja Vu."
+    }, 
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Walter", 
+      "text": "Lugar muy hogare\u00f1o y tranquilo. La atenci\u00f3n es muy cordial y la comida deliciosa. Recomendable."
+    }, 
+    {
+      "date": "23 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gordi", 
+      "text": "Muy buena atenci\u00f3n. Lugar hogare\u00f1o, tranquilo y moderno."
+    }, 
+    {
+      "date": "23 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nanis", 
+      "text": "El ambiente y la gente son excelentes, como los precios. S\u00faper recomendable."
+    }, 
+    {
+      "date": "23 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sabi", 
+      "text": "Fui varias veces al mediod\u00eda, pero mayormente de noche. Me gusta porque es un lugar tranquilo y agradable, la atenci\u00f3n es personalizada y suave. La comida exquisita, no hubo una vez que algo del plato que eleg\u00ed no me gustara."
+    }
+  ]
+}

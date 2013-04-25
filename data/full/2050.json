@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "5 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "yovanu", 
+      "text": "La pizza a la parrilla es muy buena, asi tambi\u00e9n las pastas. Tienen variadad y calidad.\r\nLa atenci\u00f3n es medio desordenada, quiz\u00e1 hay varios mozos atendiendote y en definitiva ya no sabes cual es el tuyo, pero son muy amables todos.\r\nEl lugar es chico y tranquilo, pero lindo para pasar una velada armoniosa."
+    }, 
+    {
+      "date": "26 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lablanco", 
+      "text": "Excelente la pizza y las empanadas.  El servicio muy malo, nos atend\u00edan alternativamente dos mozos, uno m\u00e1s despistado que el otro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "florcita16", 
+      "text": "La mejor pizza a la parrilla."
+    }, 
+    {
+      "date": "7 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Topi", 
+      "text": "Bueno. La comida muy buena y a tiempo, los deliverys son los mejores."
+    }, 
+    {
+      "date": "15 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lrocca", 
+      "text": "Pizza a la parrilla bien lograda y crocante. Para recomendar."
+    }, 
+    {
+      "date": "20 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "daleroly", 
+      "text": "Excelente la pizza a la parrilla."
+    }, 
+    {
+      "date": "24 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "consumidor", 
+      "text": "Muy buena la pizza a la parrilla! L\u00e1stima que el delivery no llega muy lejos."
+    }
+  ]
+}

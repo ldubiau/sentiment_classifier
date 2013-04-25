@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "mar471", 
+      "text": "Fuimos el domingo pasado  y nos atendieron  mal, para suavizar nos obsequiaron el postre. Perdieron el pedido, despu\u00e9s lo apuraron y despu\u00e9s de mas de una hora vino el asado carbonizado. Lo devolvimos y nos trajeron otro que tampoco estaba a punto como lo hab\u00edamos pedido.Adem\u00e1s mal asesoradas, nos dijeron que era para compartir y no era cierto. Parece mucho, pero es tan finito, que si uno quiere comer solamente asado es una porci\u00f3n por persona.  De todas maneras en algun momento quiero darles otra oportunidad, porque pienso que fue un mal d\u00eda, los comentarios en general de la guia son buenos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Soliman", 
+      "text": "Es un centro tradicionalista donde funciona este restaurante ambientado en ese estilo. Sobrio y c\u00e1lido. Las porciones abundantes, platos cl\u00e1sicos sin pretensiones pero buenos. Precios razonables."
+    }, 
+    {
+      "date": "7 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "diogenes44", 
+      "text": "Muy bueno, excelente atenci\u00f3n"
+    }, 
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "roxpab", 
+      "text": "El lugar parece una pulperia de un pueblo pero est\u00e0 en la ciudad, muy buena la atenci\u00f2n de las mozas, las porciones son muy abundantes. Tienen descuento con nextel, de todos modos los precios son muy buenos. Yo lo recomiendo!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "Sorprendente la buena experiencia en un lugar tan apartado. Abundantes las porciones que permiten compartirlas sin mezquindad. Recomiendo mucho la comida que hacen al disco y el vino de la casa que lo hace Finca Los Maza. Muy atentos en el servicio. Un placer para repetir."
+    }
+  ]
+}

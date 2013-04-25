@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "25 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "carlotito", 
+      "text": "Muy buena opci\u00f3n para ir a almorzar.\r\nExcelente ambiente y buena comida.\r\nLa panera es de las mejores que he probado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gris2", 
+      "text": "Muy buena calidad a precio razonable.\r\nTodo casero, desde el pan hasta el postre."
+    }, 
+    {
+      "date": "21 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "alemana", 
+      "text": "Excelente opci\u00f3n para salir a comer, combina la sencillez de un riqu\u00edsimo men\u00fa con un ambiente familiar y distendido. La atenci\u00f3n muy cordial."
+    }, 
+    {
+      "date": "16 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gabyfalda", 
+      "text": "Me encant\u00f3 el lugar, la variedad de comidas, la ambientaci\u00f3n y la atenci\u00f3n."
+    }, 
+    {
+      "date": "12 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "matias02", 
+      "text": "Muy buen ambiente y comida."
+    }, 
+    {
+      "date": "3 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "comilon", 
+      "text": "Se trata de una opci\u00f3n donde se combinan de manera \u00f3ptima precio y calidad. \r\nLa comidad es excelente y la carta se renueva habitualmente dentro de una l\u00ednea mediterr\u00e1nea. El ambiente es muy particular: peque\u00f1o en el interior pero c\u00e1lido y  familiar. \r\nUna carta de vinos acorde a los precios. La atenci\u00f3n esta a cargo de los due\u00f1os y de mozos muy atentos al cliente.\r\n\u00a1Exquisita la panera!"
+    }, 
+    {
+      "date": "28 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lauriblues", 
+      "text": "El lugar es peque\u00f1o. Pero la comida es espectacular. El postre que prob\u00e9 fue maravilloso. La atenci\u00f3n, impecable."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "10 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "moira_perez", 
+      "text": "Es un bar de barrio, que incre\u00edblemente se conserva en medio de tanta transformaci\u00f3n \"fashion\" de la zona. La comida es buena y los mozos son de los de antes. Sin pretensiones, pero aut\u00e9ntico.  Para ir y no difundirlo demasiado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "capbeto", 
+      "text": "Eramos cuatro, pedimos merluza al roquefort, bife de chorizo con fritas, \u00f1oquis  de verdura con dos salsas (la saira increible).. todo fresco, casero, muy rico. La atencion de la moza suma otro punto, educada, siempre atenta y con sugerencias acertadas.. un detalle, preferible ir al mediodia cuando la carta es mas amplia."
+    }, 
+    {
+      "date": "3 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "echiti", 
+      "text": "Fui con mis chicos,disgrutamos de este lugar sencillo,con rica comida,buena atencion,los mozos\"divinos\".Volveria!!!!"
+    }
+  ]
+}

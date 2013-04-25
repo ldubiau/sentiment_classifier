@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "carrizza", 
+      "text": "Comimos rico, pero nada especial. El salmon no vino en el punto pedido y ya era tarde para cambiarlo."
+    }, 
+    {
+      "date": "6 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "era lindo pero lamentablemente este rest\u00f3 cerr\u00f3"
+    }, 
+    {
+      "date": "28 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "albahacapistacho", 
+      "text": "Fuimos por primera ves con mi pareja y la verdad que comimos barbaro, ella se pidio unos ravioles de calabaza con manteca de salvia que estaba exquisitos y yo comi como entrada los sticks  especiados de lomo que me encataron y como plato fuerte el salmon, que estaba en su punto justo. la atencion es exelente. un lugar para recomendar"
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sobremesa123", 
+      "text": "Todo muy bueno, la atenci\u00f3n y el ambiente muy c\u00e1lido. Excelente Relaci\u00f3n Calidad Precio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "melangel", 
+      "text": "Lugar muy acogedor. La carta tiene buenas opciones, y la comida muy sabrosa, en su punto, bien presentada. La carta de vinos es completa. Buena atenci\u00f3n. Recomendable."
+    }, 
+    {
+      "date": "24 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "rosto", 
+      "text": "Excelente comida con buen servicio"
+    }, 
+    {
+      "date": "15 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mikaindia", 
+      "text": "Es un lugar tradicional de recoleta al que siempre vamos con amigos, hace unos meses cambiaron de chef y de carta. la verdad es que nos sorprendieron con las nuevas opciones a la hora de comer, todo muy rico, esperamos volver pronto"
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tanbrz", 
+      "text": "muy recomendable, muy buena cocina, todo casero y recomiendo el postre Rogel y la mousse de chocolate caseros,excepcionales!!!!!!!"
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "magdamo", 
+      "text": "fuimos a comer con un grupo de amigas, la pasamos barbaro, el ambiente 10 puntos, super familiar, muy bueno todo, 100 % recomendable!!!!"
+    }
+  ]
+}

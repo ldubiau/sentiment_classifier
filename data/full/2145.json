@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "2 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "edy1", 
+      "text": "Todo regular, la pasta medio pelo y la atencion comun y corriente, lindo el lugar. Quizas sean mejor los desayunos."
+    }, 
+    {
+      "date": "22 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "A pesar de que a los dem\u00e1s comensales les gust\u00f3 la comida, de los langostinos anunciados para mi plato, no encontr\u00e9 rastro alguno. \r\nLa atenci\u00f3n tambi\u00e9n result\u00f3 deficiente porque s\u00f3lo hab\u00eda dos mozas y les costaba dar abasto con las mesas de arriba. \r\nUna l\u00e1stima porque el lugar es muy lindo y el appetizer, el caf\u00e9 y el brownie estuvieron muy bien."
+    }, 
+    {
+      "date": "29 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "solved", 
+      "text": "La atenci\u00f3n es incre\u00edble y el ambiente tambi\u00e9n. Es uno de esos lugares a los que ir\u00eda todos los d\u00edas. Fant\u00e1stica la persona que me atendi\u00f3 y me sirvi\u00f3 el t\u00e9, la mejor atenci\u00f3n que he recibido (y no s\u00f3lo a m\u00ed, tambi\u00e9n v\u00ed como trataban a los otros clientes). De todos modos, creo que eleg\u00ed un t\u00e9 demsiado suave para mi gusto, ya probar\u00e9 un par m\u00e1s."
+    }, 
+    {
+      "date": "21 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "verobrac", 
+      "text": "El lugar es incre\u00edble y el caf\u00e9 me pareci\u00f3 exquisito."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GoodTaste", 
+      "text": "Excelente desayuno para compartir.\r\nMuy buen gusto en la presentaci\u00f3n del t\u00e9. Muy recomendable el jugo de lima y jengibre."
+    }, 
+    {
+      "date": "23 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "osquito", 
+      "text": "Excelente entrada con funghi porcini. Muy bueno el lomo.\r\nEl servicio, demasiado meloso, revelando falta de profesionalismo."
+    }
+  ]
+}

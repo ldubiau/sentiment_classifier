@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "11 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mariapaz1", 
+      "text": "R\u00fastico y urbano, buena cocina, con ingredientes de buena calidad, especialmente carnes y pescados. Entradas con quesos y fiambres de campo estupendos. Los postres muy ricos y buena presentaci\u00f3n. Buenos vinos para elegir. Atencion cordial, porciones abundantes."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanmarq", 
+      "text": "Me pareci\u00f3 muy buena la onda del lugar, tranquilo y con un clima distinto, vale la pena."
+    }, 
+    {
+      "date": "28 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "saugargr", 
+      "text": "Precios accesibles. Muy buena la comida, excelente predisposici\u00f3n de sus due\u00f1os en la atenci\u00f3n. Imperdibles las fotos que decoran el lugar."
+    }, 
+    {
+      "date": "30 Ene 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LiliB", 
+      "text": "disfrute de la comida excelente, el servicio le falta un poco, pero vale la pena saborear los platos de este nuevo restaurante."
+    }
+  ]
+}

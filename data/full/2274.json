@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "25 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bgpospf", 
+      "text": "Clasico de estudio de la facultad. Tranquilo nada del otro mundo pero es barato y recomendable para ir a tomar un cafe"
+    }, 
+    {
+      "date": "27 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Angie_13", 
+      "text": "La atenci\u00f3n es buena y el ambiente normal (t\u00edpico de un bar de barrio).\r\nMuy buenas las medialunas!"
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "marclaro", 
+      "text": "Es s\u00f3lo para zafar cuando sal\u00eds de la facultad o para juntarte a estudiar un rato.\r\nEs un barcito gallego como cualquier otro."
+    }
+  ]
+}

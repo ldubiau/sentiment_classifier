@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "1 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nadiamj", 
+      "text": "La relaci\u00f3n precio-calidad es un esc\u00e1ndalo. Las empanadas que pedimos estaban llenas de harina y algo secas. La pizza chica era MUY chica, muy finita, y cara. Una gaseosa chica de vidrio sal\u00eda $6,50 y estaba tibia. El ambiente no era el mejor. La pr\u00f3xima vez que salga de un concierto algo hambrienta, seguro caminar\u00e9 m\u00e1s. Nunca volver\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "LakerGirl", 
+      "text": "La atencion fue un desastre. No habia demasiados clientes en ese momento, asi q no hay excusas de porque estuve sentada 15 minutos antes de que me vengan a atender. Un ultraje.Tanta espera no valio la pena, xq la masa de las medialunas era un asco y el cafe con leche normal. No lo recomiendo para nada."
+    }, 
+    {
+      "date": "21 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Deathman", 
+      "text": "Fuimos a ver a Dolores O''riordan, salimos del teatro y no sabiamos adonde ir a cenar, empezamos a caminar y encontramos esto... el de Av. Santa Fe est\u00e0 muy bueno as\u00ec que entramos... Dios, un antro, chiquito, mal atendido... comimos algo y huimos despavoridos, no lo recomiendo por nada. Por si todo esto fuera poco hab\u00eda dos prostitutas con dos se\u00f1ores de avanzada edad y estaban a los gritos todo el tiempo."
+    }, 
+    {
+      "date": "24 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lauykiko", 
+      "text": "La panera es muy buena, con un pan de pizza espectacular."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cecioasis", 
+      "text": "Muy lindo restaurante - bar. Muy buenas ofertas de platos y lo mejor de todo es que ten\u00eda men\u00fa light. La moza que nos atendi\u00f3 fue muy atenta y simp\u00e1tica. La comida estuvo muy rica y las porciones eran abundantes, es decir, estaban muy bien en relaci\u00f3n con el precio. Lo \u00fanico que me pareci\u00f3 un poquito chiquito es el local, pero al ser una mezcla entre restaurante y confiter\u00eda est\u00e1 bien. La comida lleg\u00f3 muy r\u00e1pido y en un breve ratito pude comer perfectamente. \r\nIdeal para comer rico y sano a unos pocos minutos, si uno tiene horario de oficina.\r\nMe qued\u00e9 muy conforme."
+    }
+  ]
+}

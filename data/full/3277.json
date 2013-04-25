@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "27 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ibarrola", 
+      "text": "muy mala la atencion el mozo tardo por reloj 17 minutos en trtaerme el pedido y luego desaparecio.\r\nlas comidas parecen de avion y encima son carisimas-"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Nicolandes", 
+      "text": "P\u00e9sima atenci\u00f3n"
+    }, 
+    {
+      "date": "5 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Jelp", 
+      "text": "Bueno para ir si queda cerca por algun motivo. La comida no es mala pero no vale tanto la pena"
+    }, 
+    {
+      "date": "7 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Valle", 
+      "text": "Voy cada tanto, me queda muy cerca. El lugar no es malo. He visto cr\u00ecticas muy negativas del servicio, y yo sin embargo nunca tuve problemas en la atenci\u00f3n. La pizza es buena. El resto de los platos son bastante caros en relaci\u00f3n a lo que ofrecen. El ambiente es agradable, pero un poco ruidoso. No da para cena \u00edntima, pero para una pizza de tanto en tanto est\u00e1 bien."
+    }, 
+    {
+      "date": "12 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "arik", 
+      "text": "Buena comida y punto. Cuando abri\u00f3 ten\u00eda mucho mejor servicio y eso se notaba en la cantidad de p\u00fablico que ten\u00edan que ahora mengu\u00f3. Para destacar el sector para chicos."
+    }, 
+    {
+      "date": "16 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "FJSan", 
+      "text": "Los almuerzos a la pasada son aceptables.\r\nDesayunar un caf\u00e9 con leche y medialunas no es un placer pero est\u00e1 bi\u00e9n.\r\nCenar en este lugar es, por decir algo, evitable.\r\nLa atenci\u00f3n es mala. Pero se nota que falta conducci\u00f3n en los responsables del sal\u00f3n.\r\nLa comida es toda igual, es como comer en un avi\u00f3n, todo tiene m\u00e1s o menos el mismo gusto.\r\nPor mi cercan\u00eda laboral es un lugar que suelo usar, pero la verdad no recomiendo m\u00e1s que un caf\u00e9 o al mediod\u00eda un plato del d\u00eda para seguir tu camino. \r\nNo es un lugar para salir a comer."
+    }, 
+    {
+      "date": "20 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lazorra", 
+      "text": "El lugar es amplio y luminoso, pero la atenci\u00f3n es muy mala. El mozo parece que pone de su bolsillo la plata para comprar las masitas que acompa\u00f1an el caf\u00e9, ya que las mezquina. Adem\u00e1s es muy caro y la decoraci\u00f3n de los platos muy grasa. Lo que es destacable es el espacio para los chicos."
+    }, 
+    {
+      "date": "29 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "javerius", 
+      "text": "La comida no es mala, pero la atencion si"
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guillevane", 
+      "text": "Los mozos atienden pesimamente, ni te saludan, tienen mal humor, poca paciencia y tardan una eternidad. La pizza te la traen fria, y el helado derretido. En mesas grandes no se organizan y complican a todos los comensales."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anytammolina", 
+      "text": "Fu\u00ed varias veces a este lugar a comer y la verdad es que el lugar es excepcional, te atienden muy bien, no tardan mucho para traerte la comida y el sabor de las pizzas es excepcional."
+    }
+  ]
+}

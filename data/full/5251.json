@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "20 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Benz", 
+      "text": "Sucio, moza de mal humor, comida nada espectacular.."
+    }, 
+    {
+      "date": "29 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "rucula", 
+      "text": "Si bien se esmeran en la atenci\u00f3n, es bastante caro con respecto a la calidad de la comida, y al agregar el menu con parrilla es muy deficiente pues algunos trozos recalentados y mal hechos, cambien pues cada vez hay menos comenzales"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Klama", 
+      "text": "Salvo el show, el resto no es para exigentes......."
+    }, 
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CaroyPablo", 
+      "text": "Festejamos el cumplea\u00f1os de mi mam\u00e1. El show de flamenco fue excelente, el servicio de mesa fue sobresaliente! La moza y el encargado nos hicieron sentir especiales. La comida del men\u00fa fijo fue abundante y deliciosa! Altamente recomendable. Sin duda volveremos!"
+    }, 
+    {
+      "date": "25 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "criti_2", 
+      "text": "lo frecuentamos al mediod\u00eda,cuando estamos por la zona (una vez al mes). Es una agradable opci\u00f3n para un  almuerzo sin grandes pretenciones. De hecho trabaja con empresas de la zona. Esto quizas hace los mozos se deshubiquen, trato confianzudo y desatento. El mozo que nos toc\u00f3 era realmente un maleducado, resaltaba m\u00e1s por ser canoso y aparentar m\u00e1s edad que sus compa\u00f1eros, pero realmente ciertas actitudes, como al observar la panera vac\u00eda hacer el \"chiste\" de buscar el pan en una bolsa de boutique que teniamos sobre el asiento del box, eran para retirarse.- El encargado macanudo. Es una pena"
+    }, 
+    {
+      "date": "19 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "nolita", 
+      "text": "Buena atencion, muy agradable el duo de guitarra y canto, ambiente tranquilo .Platos abundantes,pero las salsas que acompa\u00f1an las pastas no son muy buenas. Un poco mas de atencion a la comida ayudaria mucho."
+    }, 
+    {
+      "date": "3 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Lugar muy bien ambientado,c\u00e1lido y con una atenci\u00f3n amable.La carta es corta y consiste en su mayor\u00eda en pizzas y pastas,aunque tambi\u00e9n cuenta con algunos platos de cocina y parrilla. No es una cocina para exigentes."
+    }, 
+    {
+      "date": "15 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lotero", 
+      "text": "Optamos por el menu de pizza libre, ricas pizzas y el servicio muy bueno. No se ofrecen todos los sabores de pizzas dentro del menu libre. El lugar muy agradable, amenizado por un duo tocando tangos y melodico."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Susanne", 
+      "text": "Muy buen lugar, excelente ambientacion, ideal para disfrutar un buen momento en pareja. La comida muy buena !!!!"
+    }
+  ]
+}

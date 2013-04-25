@@ -1,0 +1,548 @@
+{
+  "malos": [
+    {
+      "date": "16 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "brainy", 
+      "text": "Me pareci\u00f3 muy pretencioso en precio para la calidad que prometen y ofrecen. Hay mejores opciones en la zona."
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "chefabril", 
+      "text": "lamento discrepar de la mayoria de los comentarios, definitivamente no es lo mejor que he comido en la zona, aunque hay que reconocer que la atencion es excelente dado que el mozo conoce muy bien la carta y te orienta y sugiere algunos platos, pero al final de cuentas uno va alli buscando buena comida y no fue lo que obtuvimos, lo mas rescatable fue un entrante que eran unas brochetas de pollo y cerdo con salsa de mani, pedimos tambien chaw fan mixto que estaba simple, un cerdo laqueado con anan\u00e1 y res con salsa de ostras, todos platos simples y pobres en sabor, no me parecio tan barato como los demas, definitivamente no creo volver."
+    }, 
+    {
+      "date": "6 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Huge", 
+      "text": "Realmente deplorable. La masa de las entradas era engrudo. La comida tard\u00f3 much\u00edsimo y era desabrida. Lo \u00fanico pasable era el chaw fan. Conozco muchos restaurantes chinos mucho mejores, y no hablo de los que conoc\u00ed en Pekin, San Francisco, Nueva York o Par\u00eds. Hab\u00eda 3 mozos para 6 mesas ocupadas pero ni aparec\u00edan, aunque eran corteses."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vitto", 
+      "text": "Sigue siendo uno de mis favoritos en cuanto a comida china se refiere. Los dim sum y demas entradas al vapor son muy buenas pero desafortundamente son siempre las mismas, creo que deber\u00edan ampliar la oferta para que los clientes habituales no se aburran de comer siempre lo mismo durante a\u00f1os y a\u00f1os. Los brochettes de cordero, el pescado agridulce y el pescado entero frito son muy buenos exponentes de la gastronom\u00eda del lugar que valen la pena probar. El local es agradable, la atenci\u00f3n es muy buena y las sillas son incomodisimas! Hay que reservar en fines de semana porque se llena. Recomendado!"
+    }, 
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "noerana", 
+      "text": "Se come muy rico y abundante. Sabores sencillos pero muy frescos; mucha variedad, excelente atenci\u00f3n, muy buena ambientaci\u00f3n y el precio acorde a lo que se come; aunque en proporci\u00f3n, capaz hay otros lugares en los que se come mucho mas y tambi\u00e9n muy rico. Fundamental: los ba\u00f1os, bien limpios. Seguramente volver\u00e9 a probar mas platos!!!!"
+    }, 
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chimichurreta", 
+      "text": "El mejor restaurant al que he asistido, incre\u00edble! Una obra de arte en cada uno de sus platos, la atenci\u00f3n muy c\u00e1lida y respetuosa. HEADSe transform\u00f3 en uno de mis lugares preferidos."
+    }, 
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "soldemey", 
+      "text": "Nos trajeron la comida rapido y comimos super rico!!!"
+    }, 
+    {
+      "date": "15 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RGBLS", 
+      "text": "Excelente Dim Sum. El lugar es agradable y la atenci\u00f3n es buena pero en general vamos los domingos a la noche y deben tener poco personal en la cocina, por que siempre, aunque tengan menos de la mitad de las mesas ocupadas, te dicen que la cocina tiene demoras antes de que te sientes a la mesa. De todos modos el que sabe comer sane esperar."
+    }, 
+    {
+      "date": "27 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sandro", 
+      "text": "muy buena cocina y atencion"
+    }, 
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Joco", 
+      "text": "Fuimos con un amigo que vivi\u00f3 en Hong Kong y nos dijo que el men\u00fa reflejaba muy bien el tipo de preparaciones se encuentran all\u00ed. Mayoritariamente son platos chinos pero hechos al estilo de HK. Lamentablemente los precios son alt\u00edsimos, pero hasta el momento es el mejor rest\u00f3 chino que fui en Bs. As. Muy buena calidad de los productos. La especialidad son los mariscos y curries; aunque la carta es extens\u00edsima y hay gran variedad de opciones. Buena experiencia pero no creo que vuelva por el nivel de precios y por que personalmente  no me enloqueci\u00f3 la comida."
+    }, 
+    {
+      "date": "1 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nieves09", 
+      "text": "Evidentemente o no entendimos el lugar, o pedimos los platos equivocados. Luego de ver los comentarios y hasta una cr\u00edtica de Fernando Trocca respecto a este lugar, fuimos con grandes expectativas que no cubrimos. El ambiente es como el de cualquier lugar del barrio Chino y la atenci\u00f3n es buena. La comida estaba muy bien pero no deslumbr\u00f3 ni fue m\u00e1s que la de otros restaurantes de ese estilo, aunque s\u00ed lo fue su precio. De todas formas puede que hayamos elegido mal los platos, por lo que a\u00fan le damos un cr\u00e9dito y probablemente volvamos m\u00e1s adelante por la revancha. Hay que reservar"
+    }, 
+    {
+      "date": "12 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lalolandasss", 
+      "text": "Definitivamente una propuesta diferente dentro del barrio chino. Prob\u00e9 platos que nunca habia visto pero extremadamente sabrosos como los ravioles a la plancha.\r\nLas porciones no son muy abundantes, lo que por un lado al ir en grupo uno puede probar una gran variedad de platitos,  pero  uno termina pagando precios sensiblemente m\u00e1s elevados de lo que uno acostumbra en el barrio chino.  \r\nLo recomiendo como una experiencia diferente, aunque mi fidelidad ya esta comprometida a otras opciones de la zona."
+    }, 
+    {
+      "date": "19 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Adalberon", 
+      "text": "Hasta donde conozco...la mejor opci\u00f3n porte\u00f1a en comida china. Limpio, luminoso, amplio, buena cocina y precios razonables. El mozo de ojos redondos es correcto (y parco). El de ojos rasgados (los dos son obvios argentos) es sumamente comunicativo, te cuenta toda la carta y te asesora con criterio.  Para probar m\u00e1s platos es mejor ir por lo menos de a cuatro y calcular unos 160 por cabeza, cena completa con postre. Tienen dos mesas grandes redondas que resisten hasta doce personas. Nosotros fuimos (once) con chicos y ellos tambi\u00e9n la pasaron muy bien."
+    }, 
+    {
+      "date": "19 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lovelyrita", 
+      "text": "Est\u00e1 bien, la comida es buena, pero los precios me parecieron un poco excesivos... ya que tampoco es deslumbrante. Cuando pedimos el plato el mozo nos pregunt\u00f3 si lo quer\u00edamos con chau fan o con arroz blanco, por lo cual supusimos que el arroz ven\u00eda incluido como acompa\u00f1amiento... nos sorprendi\u00f3 que al final nos hab\u00edan cobrado dos porciones de chau fan. Habiendo tantos otros lugares para probar en el barrio chino, probablemente no vuelva."
+    }, 
+    {
+      "date": "17 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "pipelass", 
+      "text": "Muy agradable el lugar, la atenci\u00f3n EXCELENTE por el chico Oriental por que con el argentino la verdad solo se le hizo una pregunta y parece que no se le podia hablar, pero por lo demas nos siguio atendiendo el chico Oriental y sus recomendaciones fueron muy buenas, la comida sabrosa, al ambiente le ayudaria un poco mas con el volumen un toquecito mas alto no mucho pero si que se escuche la musica de fondo que ese dia estaba muyyyy de fondo. lo recomiendo."
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "papucho", 
+      "text": "distinto a cualquier chino tradicional. buena cocina, buen ambiente y buena onda"
+    }, 
+    {
+      "date": "21 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "uggo", 
+      "text": "La comida es muy buena. Atenci\u00f3n:excelente. Los mozos conocen la comida y recomiendan conforme los gustos de los clientes. Una ventaja: hablan castellano. Decoraci\u00f3n de acuerdo a lo esperado en restaurantes de comida china. Ambiente un poco ruidoso, sin m\u00fasica. En mi opini\u00f3n, muy buena relaci\u00f3n precio calidad. Volver\u00e9."
+    }, 
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tastevin", 
+      "text": "Ambiente discreto, comida rica, atencion pedagogica. Sin musica (10 puntos), sin olores (10 puntos), promete. Gracias Lui!"
+    }, 
+    {
+      "date": "29 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "danynadal", 
+      "text": "El verdadero gusto de la comida China lo encontre en este lugar,todo rico y de primera.Para recomendar.En la ambientacion estimo que le falta musica,todo lo demas barbarto."
+    }, 
+    {
+      "date": "27 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Good china in town. Se distingue de otros restaurantes chinos por dos factores: 1) Servicio: a pesar que todas las mesas esten ocupadas, van a ser bien atendidos. Ademas brindan una excelente descripcion de los platos. 2) Ambientacion: para ser un chino esta aprobado. Se percibe que hubo buena voluntad y esmero. Las fotos de la guia estan dezactualizadas. \r\nLa platos clasicos de la comida china adaptada al paladar internacional son buenos. Es muy recomendable ir en grupo para compartir entradas (carta especial de entradas al vapor)y platos principales. Sin dudas regresare por el pato laqueado."
+    }, 
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MSratatouille", 
+      "text": "Creo que uno de los mejores lugares de comida china en el barrio chino.\r\nEl unico problema es que si vas un fin de semana a la 1.30. te pueden llegar a servir el primer plato a las 2.30...muchisima demora.\r\nCreo que tendrian que contratar a mas gente. Si no fuese por la demora creo que amaria a este lugar."
+    }, 
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "naoah", 
+      "text": "Una buena cocina, diferenciado un poco de la china continental o taiwanesa. No es tan aceitosa y es una opcion fija para mi cuando quiero comer este tipo de comidas. Los platos salen rapidos y en su punto justo. No es caro, me parece una buena opcion."
+    }, 
+    {
+      "date": "28 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ddaniel", 
+      "text": "Hola. mi intencion es que aquellas personas que como yo tengan ganas de visitar lugares nuevos sepan que en este lugar se retira uno satisfactoriamente. Buena la comida, el que sabe comer sabe esperar, hay que esperar algo, pero es el precio que hay que pagar por comer comida preparada en el momento. El mozo bien, educado, cortes, amable y con buena voluntad de dar explicacion a cada plato. Lugar muy recomendable a precio acomodado.\r\nLa limpiza del salon y ba\u00f1os acorde con el lugar, buena."
+    }, 
+    {
+      "date": "9 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "diezamiel", 
+      "text": "Muy buen lugar de comida china. La calidad y variedad de la comida es muy muy buena. A la atencion no le sobra nada, fui un martes por la noche y habia solo 3 mesas ocupadas, creo q podria haber sido mejor. El lugar es prolijo y nada mas, pero con eso le basta para tener el mejor ambiente dentro de los restos chinos."
+    }, 
+    {
+      "date": "1 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bender", 
+      "text": "un gran descubrimiento en el barrio chino(recomendaci\u00f3n del ex cheff del hilton), probablemente el mejor lugar en la ciudad para comer comida cantonesa .El pato laqueado fue un espectaculo, eb fin todo lo que probe(lamento no recordar bien los nombres fue muy bueno). Casi excelente. Servicio normal, pero la comida MUY BUENO. Lo recomiendo!"
+    }, 
+    {
+      "date": "24 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jumanzolido", 
+      "text": "Muy buena comida. La atenci\u00f3n es s\u00f3lo buena. Los platos demoran pero se nota que la comida es muy fresca. Vale la pena."
+    }, 
+    {
+      "date": "18 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "laugiusor", 
+      "text": "Es una muy buena opci\u00f3n en el barrio chino, ya que ofrecen comida cantonesa (no taiwanesa, como la mayor\u00eda). Son recomendables los bocaditos al vapor, como el Ja Kao (relleno con langostinos). Los domingos conviene ir temprano, porque suele ir Norma Aleandro y familia y se los comen todos. Los rellenos de cerdo, tambi\u00e9n valen la pena. Si se avisa con tiempo (porque demora) preparan pato laqueado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "bleublancrouge", 
+      "text": "Excelente cocina, servicio atento y muy simp\u00e1tico, ambiente sencillo y agradable, iluminaci\u00f3n correcta, buen nivel sonoro. Somos habitu\u00e9s y seguiremos si\u00e9ndolo."
+    }, 
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "blonde", 
+      "text": "La comida excelente, hecha con dedicaci\u00f3n.\r\nLa ateci\u00f3n es impecable, muy simp\u00e1ticos...mas de un palermitano los necesita!\r\nEl chef increible!"
+    }, 
+    {
+      "date": "23 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pavel", 
+      "text": "Lo conoc\u00ed por recomendaci\u00f3n de Narda Lepes y luego de haber visto a Lui cocinar en el programa de TV de Narda me decid\u00ed a ir.  El ambiente es sobrio, agradable y tranquilo y la atenci\u00f3n de los mozos muy buena. La comida es excelente, los sabores son m\u00e1s sutiles que los de la cocina china de otros lugares de BA.  Probamos el brochetes de pollo y cordero de entrada y mero entero frito (imperdible) con bud\u00edn de nabo frito y camarones con huevo (es una especie de omelette),  Buena relaci\u00f3n precio/calidad. Aunque no es barato y no aceptan tarjetas de cr\u00e9dito es altamente recomendable."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marisa0932", 
+      "text": "\u00a1Perfecto! El lugar es precioso, los mozos amabil\u00edsimos y la comida excelente. Hay que tener reserva porque es muy concurrido..."
+    }, 
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fornaro", 
+      "text": "Excelente la comida y la atenci\u00f3n."
+    }, 
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "black_olive", 
+      "text": "Hace dos a\u00f1os que cuando quiero comer buena comida china voy all\u00ed y la calidad de la comida se mantiene impecable. El ambiente es sobrio, agradable y tranquilo y la atenci\u00f3n de los mozos super agradable, sobre todo el mozo de origen chino. La comida es muuuuy rica. Hoy pedimos cerdo laqueado (exquisito), carne con salsa picante, verduras al curry, ensalada de algas y de postre lichis con helado de vainilla (super recomendable!). Los dumplings rellenos de camarones y bambu o cerdo y jengibre tambi\u00e9n son b\u00e1rbaros. Buena relaci\u00f3n precio/calidad. No es barato."
+    }, 
+    {
+      "date": "16 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "tool78", 
+      "text": "Hace mucho que buscaba una buena comida china. Excelente variedad. Atencion muy buena, el mozo muy atento y con muy buenas recomendaciones. Para volver 100%"
+    }, 
+    {
+      "date": "4 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "miki62", 
+      "text": "Excelente lugar!! Mi preferido en el Barrio Chino. La atenci\u00f3n y las recomendaciones por parte de los chicos que atienden son muy buenas. Conviene ir con paciencia porque casi todos los platos son elaborados por el chef y puede demorar, pero vale la pena, ya que todos los platos son de gran calidad"
+    }, 
+    {
+      "date": "28 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "kiwix", 
+      "text": "La comida es exelente, me encantan las brochettes al igual que los ravioles al vapor de camarones y los pancitos rellenos de cerdo y jengibre. Las porciones son escasas francamente y termina siendo un poco caro. La atenci\u00f3n es muy esmerada y pese a que el lugar es chico no se sobreocupa y el clima es muy agradable. Es el restaurant de comida china que mas me gusta y tambien es el que frecuenta Narda Lepes con su familia."
+    }, 
+    {
+      "date": "20 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "natiloquita", 
+      "text": "El mejor restaurant del barrio chino. La comida es muy delicada y se nota que est\u00e1 preparada con mucha dedicaci\u00f3n.\r\nLa masa de los raviolitos de langostinos es muy suave y delicada y denota la alta calidad del lugar. La sopa agripicante inigualable y el punto de cocci\u00f3n de los pescados excelente. \r\nTardan mucho en traer los platos, es su punto en contra."
+    }, 
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alex_Z", 
+      "text": "Era justo lo que buscaba, poder ir con mi familia a un lugar con comida china pero que de sensaci\u00f3n de limpieza, est\u00e9 bien ambientado y no desborde de gente, ruido y olor. Impecables ravioles a la plancha de cerdo y jengibre, muy buenos los spring rolls (sala agridulce casera o al menos no la de frasco de otros lugares), rico el pollo picante con s\u00e9samo (picor elevado pero sabroso), bastante buena la carne con jengibre, normal pero bien el chaw fan. El mozo nos atendi\u00f3 con amabilidad y paciencia (hab\u00eda pocas mesas ocupadas). Voy a volver a probar m\u00e1s cosas."
+    }, 
+    {
+      "date": "23 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "arturo", 
+      "text": "Excelente. \nY me parece esplendido que no tenga musica."
+    }, 
+    {
+      "date": "15 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rinocerose", 
+      "text": "Hay 3 tipos de restaurantes chinos en Buenos Aires. Los comunes (la mayor\u00eda) con atenci\u00f3n y ambientaci\u00f3n regular y comida cl\u00e1sica del cant\u00f3n, Hong Kong Style, y Royal China.\r\n\r\nRoyal China es para otra billetera. \r\n\r\nHong Kong Style es para la gente que quiere comer excelente comida china, con buena atenci\u00f3n, una ambientaci\u00f3n muy adecuada y una comida bien sabrosa, platos grandes para compartir.\r\n\r\nSin dudas voy a volver a probar otros platos."
+    }, 
+    {
+      "date": "15 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carpincho23", 
+      "text": "atencion cordial, familiar, los platos son preparados en el momento cuidadosamente y con muy buen equilibrio de sabores, para disfrutar !"
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "laindia_86", 
+      "text": "Muy buena atencion. \r\nExcelencia en la comida.\r\nY un ambiente espectacular!.\r\n\r\nLo super recomiendo!"
+    }, 
+    {
+      "date": "15 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "unkle", 
+      "text": "Del barrio Chino, el mejor, ser\u00e1 su toque \"Hong Kong\" quiz\u00e1, pero los platos son realmente poderosos, exquisitos y con una cocci\u00f3n maravillosa. Recomiendo el cangrejo (ya lo repetimos 2 veces). An\u00edmense a todos los bocados de entrada, no se van a arrepentir, especialmente los diferentes dim sum que ofrecen. Me queda pendiente Pato Laqueado que hay que avisar un d\u00eda antes. El servicio es b\u00e1rbaro, te explican todo, no solo los ingredientes sino los tipos de cocciones. Ideal ir de 8 o 10 y pedir las mesas con la bandeja giratoria para probar todo. Ambiente simple y agradable, mejor que la mayoria"
+    }, 
+    {
+      "date": "10 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "lastresemes", 
+      "text": "El cocinero sabe encontrar el punto exacto a cada uno de los ingredientes. Dedicado y esmerado,por eso un poco lento, no es la cl\u00e0sica comida china que se ofrece por el barrio. Una cocina gourmet y de autor con especialidad oriental. Excelente la atenci\u00f3n de Andrea, Lili y Carlos"
+    }, 
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "black_olive", 
+      "text": "Maravilloso! Un excelente descubrimiento. Lo mejor que prob\u00e9 en comida china en Capital. La carta es amplia y variada, ofrecen bastante mas que los platos tradicionales. La calidad de la comida (materia prima y preparaci\u00f3n) es fant\u00e1stica. El servicio bueno y el lugar m\u00e1s sobrio y agradable que los restaurantes chinos habituales. Ya lo agregu\u00e9 a mi lista de favoritos. Volver\u00e9 a probar el pato laqueado."
+    }, 
+    {
+      "date": "9 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "PS01", 
+      "text": "Hong Kong style stisfiso nuestras espectactivas.Los grandes chef de  la ciudad, al igual que los periodidstas gastronomicos lo elogian con gran acierto.\r\nLa comida, preparada en el momento por Lui , con la mejor materia prima, justo punto de coccion e impecable tecnica, es exquisita!!!.Es un resto de familia donde cada cual contribuye a que el comensal disfrute de una inolvidable experiencia de sabores tipicos de la cocina de Hong Kong.El buen servicio es indescriptible!"
+    }, 
+    {
+      "date": "25 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "julieta555", 
+      "text": "Comida china de la mas fina que haya probado. El precio es algo alto, pero vale la pena, trasmite lo que es la cocina china verdadera. Y contrariamente con otros restos chinos, pareciera que aca no usan aceite de lo tan cuidados que son los platos!  Vuelvo seguro para el pato laqueado (que hay que pedir por tel o reserva, porque lleva 1 hs de coccion!!! Los ravioles de gengibre exquisitos y los pinches de cordero y pollo, ni hablar!!!"
+    }, 
+    {
+      "date": "5 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Fannette", 
+      "text": "Comida china autentica, coccion es precisa, sabores como se corresponden, productos frescos. El lugar no es exactamente muy \"glamour\" ... pero asi es en China!"
+    }, 
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pilita16", 
+      "text": "Lo primero a resaltar de este lugar es la atenci\u00f3n; los mozos son muy amables y atentos. El ambiente es tranquilo, pero no por eso deprimente. Es un lugar amplio y acogedor. Por \u00faltimo,lo m\u00e1s importante:la comida. Tanto el cerdo agridulce como el chop-suey de verduras estaban perfectos. Las palmas se las lleva la entrada: unos envueltos de pollo en masa de tofu con bamb\u00fa, incre\u00edbles. Muy recomendable bajo todo punto de vista, volveremos."
+    }, 
+    {
+      "date": "15 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Chonta", 
+      "text": "Los sabores me recuerdan a la comida cantonesa de varios restaurants de Taiwan. Muy buena carta (a excepci\u00f3n de los postres) y muy cordiales al atender. Explican en detalle y pacientemente cada plato. Es el mejor restaurant Chino en Argentina al que haya ido hasta ahora. Muy recomendable."
+    }, 
+    {
+      "date": "21 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FerHamden", 
+      "text": "Despu\u00e9s de mucho tiempo de probar las restaurantes sobre Arribe\u00f1os del barrio chino decidimos conocer los alrededores. Llegamos cerca de las 22, un lugar iluminado, espaciado entre mesa y mesa, el servicio es muy bueno, gentil y te saben explicar cada plato. La carta si bien es parecida a los demas del barrio los platos parecen tener un poco m\u00e1s de elaboraci\u00f3n y cuidado. Si quieren probar algo distinto en el barrio seria mi recomendaci\u00f3n."
+    }, 
+    {
+      "date": "30 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "henri", 
+      "text": "El mejor restaurant chino en Chinatown, por lejos. La delicadeza y diferenciaci\u00f3n de los gustos en las entradas al vapor y las empanaditas con masa de tofu no tienen paralelo en ning\u00fan otro establecimiento. Hasta el arroz chaw fan con huevo tiene un ahumado de fondo espectacular! Para volver...y volver...y seguir volviendo y recomendarlo."
+    }, 
+    {
+      "date": "29 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "italiancook", 
+      "text": "Exelente el mejor sin dudas se destaca de los clasicos restos chinos de toda Argentina.Ravioles chino relleno con productos de primera y no congeados como en las mayoria de los restaurante.precios acuerde con la calidad del producto.Falta un poco de decoracion en el local.Las fotos y la direcion en el mapa que figuran en la guia no corresponden a la realidad hay que atualizarlos.."
+    }, 
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Vir78", 
+      "text": "Excelente atenci\u00f3n. El due\u00f1o es el que cocina, de hong kong, muy ortodoxo en sus comidas, muy distinto al resto de los restaurants chinos de la zona. Se nota la excelente calidad de las materias primas."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "13 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Drusila", 
+      "text": "Excelente la ambientaci\u00f3n del lugar, la atenci\u00f3n es normal. Ideal para ir a tomar algo."
+    }, 
+    {
+      "date": "6 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Filipo", 
+      "text": "El lugar es excelente, muy rom\u00e1ntico, moderno. La comida muy rica, lo \u00fanico malo es el precio un poco caro y faltar\u00eda m\u00e1s variedad de vinos y postres. Seguramente volver\u00e9 muy pronto"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "anabella1", 
+      "text": "Excelente comida y muy buena ambientaci\u00f3n (dise\u00f1o, iluminaci\u00f3n, musica tenue)"
+    }
+  ]
+}

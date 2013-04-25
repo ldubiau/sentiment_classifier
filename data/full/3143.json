@@ -1,0 +1,578 @@
+{
+  "malos": [
+    {
+      "date": "28 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "viktor52", 
+      "text": "Servicio extremadamente lento. larga espera innecesaria porque hab\u00eda mesas desocupadas que no se preparaban mientras los clientes aguardaban. pedimos vac\u00edo. demor\u00f3 40 minutos. estaba duro incomible. no pude pedir postre ni caf\u00e9 ya que nadie nos atend\u00eda. tuve que ir a buscar la cuenta para poder retirarme. en resumen: caro y malo."
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Memina", 
+      "text": "Muy malo el servicio, tardaban a\u00f1os en darte la carta. La carne estaba hervida, las ensaladas viejas y los postres calentados al microondas. Las mozas  perdidas."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "netneko", 
+      "text": "Pedimos un ojo de bife jugoso y no solo era MINIMO, sino que adem\u00e1s estba casi quemado, mi novio pidi\u00f3. En cuanto al servicio: Pedimos unas papas fritas que nunca llegaron y tuvimos que pedirle dos veces que nos traigan un agua porque la moza se olvid\u00f3. No es terrible, pero tampoco lo recomendar\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Muy lindo lugar, y muy buena comida. Una parrilla recomendable."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gafer", 
+      "text": "Buena Comida y buena Atenci\u00f3n.  Todo salio rapido (aun con mucha gente en el local). Ambiente calido.  El pan: Rico pero escaso (manteca para acompa\u00f1ar seria ideal).  Muy recomendable como siempre!"
+    }, 
+    {
+      "date": "16 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "WillieTheGolfer", 
+      "text": "Muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "19 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Polita", 
+      "text": "Normalito. Malo el servicio. Tienen un sistema de salad bar que aparentemente necesita un manual. Bueno el asado al asador."
+    }, 
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Buen lugar como para disfrutar de una muy buena cocina y fundamentalmente parrilla, con cortes de carne de buena calidad y a muy buenos precios. La carta de vinos si bien  no es muy extensa, ofrece etiquetas cl\u00e1sicas que no son para nada caras. Tiene salad muy variado que est\u00e1 inclu\u00eddo libre, como acompa\u00f1amiento de los platos principales  La atenci\u00f3n es esmerada y aunque el lugar es bullicioso por la gran cantidad de gente que concurre, se puede comer c\u00f3modamente y en un ambiente muy agradable como para recomendar."
+    }, 
+    {
+      "date": "29 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Elvaquerito", 
+      "text": "Vamos cada tanto, las veces y no nos fuimos del todo conformes, pero volvimos la semana pasada y estubo todo OK."
+    }, 
+    {
+      "date": "15 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "apolonline", 
+      "text": "Hace bastante que voy y no falla. A veces hay mucha espera, pero a diferencia de lo que ocurre en la sucursal de San Isidro, ac\u00e1 vale la pena esperar. El salad bar, aceptable y muy fresco. Luego, ped\u00ed entra\u00f1a y asado jugosos. La entra\u00f1a tierna y en el punto pedido: un manjar. El asado, de lo mejorcito que he comido \u00faltimamente, aunque demasiado \"jugoso\"(crudo) en una de las puntas. Papas fritas ricas y abundantes. La primera panera, s\u00f3lo pan blanco; la segunda sum\u00f3 negro y tostaditas saborizadas. El ambiente un poco ruidoso, el servicio bueno. Buena relaci\u00f3n precio/calidad. Sin dudas, volver\u00e9."
+    }, 
+    {
+      "date": "2 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kangu77", 
+      "text": "fui con mi novia el viernes por la noche llegue pasadas las 21 y la espera no fue tanta la comida muy buena solo una ensalada la papa estaba cruda. el resto muy bien y buena relacion precio-calidad"
+    }, 
+    {
+      "date": "22 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mauroo", 
+      "text": "Muy buena relaci\u00f3n precio-calidad. Salad bar siempre fresco y sabroso. La carne es buena, de excelente consistencia, aunque podr\u00eda ser un poco m\u00e1s sabrosa (cuando hay que agregarle mucha sal... algo falta). Recomiendo los pescados y las ribs. Como se ha dicho no ir fines de semana a la noche. Espera desagradable y ambiente ruidos\u00edsimo."
+    }, 
+    {
+      "date": "21 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lidsutd", 
+      "text": "Es un cl\u00e1sico de zona norte. Se come muy bien, y el salad bar se mantiene decente y creativo a pesar del tiempo (y de la inflaci\u00f3n). Me encantan sus ribs, y la salsa del bosque es lo mejor. Una carta corta pero con la medida justa. Lugar muy limpio y la atenci\u00f3n, correcto. No vayan los fines de semana y d\u00edas complicados a la noche, se llena de chicos y la espera por una mesa puede ser interminable (y miren que no hay nada por alrededor), y hay muchos chicos gritando. Pero si uno va un d\u00eda tranqui, todo sale muy bien!"
+    }, 
+    {
+      "date": "16 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Matagusosa", 
+      "text": "Fui a almorzar con mis compa\u00f1eros del trabajo. EN gral vamos bastante seguido ya que nos queda cerca del trabajo. Como siempre, la antencion es muy buena, la comida es muy buena tambien, capaz le falta un poco de varieda. El salad bar es excelente. Es un lugar que recomiendo para visitar.\r\nSin duda volveremos."
+    }, 
+    {
+      "date": "28 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adrianfuente", 
+      "text": "Excelente el salad bar y bueno el resto"
+    }, 
+    {
+      "date": "3 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Garryson", 
+      "text": "excelente, no soy apego a la atenci\u00f3n femenina, pero sorprende ver la eficiencia de las chicas en el servicio, la comida muy bien, el ambiente muy bueno, de lo mejor de la zona. Felicitaciones."
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "canchera", 
+      "text": "Muy lindo el ambiente, muy amables y efecientes las mozas,Muy completa y fresca la salad bar.El vacio, las papas y batatas fritas, sequitas, riqu\u00edsimas.Tambien la brochete mixta y el matambrito tiernizado de vaca...Los postres...unas copas super deliciosas.Lo super recomiendo.Ir con calma, siempra hay mucha gente...buen ambiente,,,hay lugar y gente que te cuida el auto."
+    }, 
+    {
+      "date": "20 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CArlaB", 
+      "text": "Es el lugar que elegimos desde hace a\u00f1os con mis amigas para festejar el D\u00eda del Amigo. El lugar es c\u00e1lido, la comida es variada, rica y los productos son frescos. Hay mesas redondas grandes, para un grupo de 10 son perfectas. Y los precios razonables!"
+    }, 
+    {
+      "date": "27 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Elverde", 
+      "text": "Un buen lugar para un sabado o domingo al mediod\u00eda si se est\u00e1 por la zona, buen estacionamiento, el lugar bien decorados con buena distribuci\u00f3n de mesas, aunque algo ruidoso, la atenci\u00f3n es buena por tratarse de una parrilla y tiene un buen salad bar en relaci\u00f3n al precio, el plato principal depende algo de la suerte, ni ojo de bife no fue bueno, pero el salm\u00f3n de mi esposa estaba muy bueno."
+    }, 
+    {
+      "date": "4 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Oscarlitos", 
+      "text": "Muy buena parrilla sobre la Panamericana, comodo estacionamiento y servico de vigilancia. Las carnes riquisimas y el chorizo y las empanadas deliciosas. Sigue teniendo uno de los mejores salad bar, y esta incluido en el precio del plato principal, muy conveniente. \r\nEl servicio es atento y eficiente, pareciera un poco lento pero al llegar los platos se olvida ese detalle.\r\nLa ambientacion es estilo rustica, tipo rural, pero con buen criterio y muy limpio todo.\r\nHay que ir, vale la pena. Ah y los precios muy razonables."
+    }, 
+    {
+      "date": "5 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Hu_Gui_To", 
+      "text": "Esperaba m\u00e1s. Com\u00edmos relativamente bien -normal-pero me atendieron p\u00e9simo y me cobraron como si hubiera comido b\u00e1rbaro con una atenci\u00f3n sobresaliente. No vuelvo."
+    }, 
+    {
+      "date": "29 Nov 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "edumen", 
+      "text": "El lugar y la comida eran buenos, la carne bien y la salad bar tambi\u00e9n. El precio es razonable pero la atenci\u00f3n deja mucho que desear, tardan mucho en responder con lo que uno le pide."
+    }, 
+    {
+      "date": "26 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "muy buena opcion para alejarse un poco de la capital durante un dia de semana. hermosa decoracion y ambientacion, mucha madera e iluminacion original, habitaculos y boxes, buenas opciones. el servicio apenas desatento sin sobresalir pero cumpliendo. la comida de muy buena calidad, principalmente carnes, muy buena la pamplona y el matambrito. tiene salad bar bastante completa. los precios un 10% elevados de lo que el nivel de este restaurant ofrece. recomiendo ampliar un poco la carta y mejorar el servicio. se destacan los cortes, las mesas y habitaculos asi como tambien la decoracion interior."
+    }, 
+    {
+      "date": "22 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "el_cachafaz", 
+      "text": "La parrilla es buena, sin pretender lo inolvidable. El salad Bar es completo y bastante bueno. No lo eligir\u00eda para volver."
+    }, 
+    {
+      "date": "18 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sancci", 
+      "text": "Excelente ubicacion,muy buena ambientacion,excelente recibiento,poco tiempo para las reservas,a las 12:30hs caducan,es una forma muy sutil de decir que no toman reservas.\r\nDestaco el salad bar,aunque tiene cosas sencillas,tiene cantidad,muy fresco y podes repetir todas las veces que quieras,MUY BUENO,yo iria de dia,de noche le temeria un poco para llegar"
+    }, 
+    {
+      "date": "7 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "JA", 
+      "text": "Validando servicio, ambiente y los platos, da una resultante realmente aceptable en la perspectiva de calidad y precio para esa zona de Pilar."
+    }, 
+    {
+      "date": "2 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mumimumi", 
+      "text": "Realmente me parecio muy buen restaurant, por el solo hecho que es una parrilla y yo comi unos tallarines caseros que estaban exisitos. Ademas todos los platos tienen derecho a salad bar muy completo. La carne al asador es bueniiisima. Fines de semana se llena mal!\r\nUn lugar para ir en pilar y volver!"
+    }, 
+    {
+      "date": "13 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "indio2040", 
+      "text": "la carne a punto del parrillero, las camareras muy mal educadas lo unico que salvo mi noche fue la cajera que soluciono un problema con mi tarjeta de credito (estaba vencida) lo soluciono con la mejor sonrisa y le puso mucho humor y buena onda, si todo el personal fuera asi es un lugar para recomendar"
+    }, 
+    {
+      "date": "2 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ganzola", 
+      "text": "Restaurant que visite muchas veces (tanto de d\u00eda como de noche) y no quer\u00eda dejar pasar de hacer el comentario. La carne es excelente al igual que el salad bar y los postres. La atenci\u00f3n es bastante buena. Quiz\u00e1s la \u00fanica queja es que se llena y sin reserva en horas pico hay bastante demora. Altamente recomendable!"
+    }, 
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mauroo", 
+      "text": "Es la quinta o sexta vez que voy y la comida es siempre de primera. No es algo sobrehumano, pero si muy buena, y extremadamente acorde a su precio. El ambiente es acogedor, autentico y cuidado. El servicio suele ser bueno aunque la ultima vez descuidaron algunos detalles... seguramente debido a la impericia de la moza que parecia ser nueva... un error que estoy dispuesto a tolerar. De cualquier manera es muy recomendable."
+    }, 
+    {
+      "date": "27 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "marylomb", 
+      "text": "Destaco que  el ambiente es muy calido, la comida es sabrosa (muy bueno el salad bar)y el servicio eficiente. Para recomendar"
+    }, 
+    {
+      "date": "29 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "anddy", 
+      "text": "Me parecio un lugar calido. Lo que destaco es el salad bar, ya que tenia todos los productos en buenas condiciones, y con los condimentos apropiados.y limpio en condiciones optimas. La comida muy buena. Las mozas esperando nuestra partida...!!!"
+    }, 
+    {
+      "date": "25 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mga", 
+      "text": "Ideal para ir un s\u00e0bado o domingo al mediod\u00eca.\r\nEl lugar me parece que est\u00e0 ambientado muy c\u00e0lido y con buen gusto.\r\nLa comida es muy buena, destaco el asado a la le\u00f1a ya que a pesar de no ser fan\u00e0tica de ese corte creo quer se rob\u00f2 los aplausos de la mesa.\r\nComo las ensaladas son tan abundantes y ya vienen incluidas si ped\u00ecs por persona un plato de m\u00e0s de $22 ni vale la pena pedir otra guarnici\u00f2n ya que est\u00e0n muy buenas.\r\nLos postres tambi\u00e8n muy buenos (destaco el panqueque de manzana y el flan que era super casero)."
+    }, 
+    {
+      "date": "30 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elgordoH", 
+      "text": "Lugar muy recomendable, al llegar estacionameinto vigilado, buena recepcion, muy buena la atencion de las camareras, muy bueno el salad bar, y las carnes de primera las sirven tal como uno las solicita, (me gusta todo muy jugoso, y asi me lo traen sin estar crudo.)Los sanitario muy buenos y limpios, Para volver\r\n\r\nBuena relacion precio calidad"
+    }, 
+    {
+      "date": "3 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Jotaleonetti", 
+      "text": "Si bien \u00e9ramos muchos en la mesa y pod\u00eda parecer complicada la atenci\u00f3n, casi todos pedimos cosas similares y la moza se ofusc\u00f3: puso mala cara ante algunos pedidos que le hicimos (la manteca fue solicitada 4 veces y nunca lleg\u00f3), narr\u00f3 velozmente lo que \"no hab\u00eda disponible\" (cortes de carne por paro del campo), se llev\u00f3 las gaseosas antes de que las termin\u00e1ramos y para peor, le contest\u00f3 mal al m\u00e1s chico de la mesa (9 a\u00f1os...reclamaba el helado...) Nunca es claro cu\u00e1ndo te cobran el salad bar y cu\u00e1ndo no. Las ensaladas son pobres en elaboraci\u00f3n y las porciones, cada vez m\u00e1s chicas."
+    }, 
+    {
+      "date": "6 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "sancci", 
+      "text": "Excelente ambientacion desde que llegue,muy buena parquizacion,arquitectura campestre.\r\nCocina y parrila limpia,muy cuidados los sanitarios.\r\nLa atencion es muy aceptable,ya que el sabado por la noche se llena,las mozas atienden de manera aceptable,las porciones de carnes son peque\u00f1as,el salad bar es bastante bueno,el postre es optimo.\r\nEl ambiente de los comensales es muy bueno,son de los countries de Pilar,no va cualquiera.\r\nLa cuenta es acorde a lo que se come,es para ir de vez en cuando,eso si,temprano para no esperar."
+    }, 
+    {
+      "date": "2 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sapi68", 
+      "text": "muy bueno el salad bar (que es estilo libre), bueno las achuras y postre; de la carne es pasable, no brilla pero tampoco defrauda; correcto y amable el servicio; estacionamiento vigilado y la ambientaci\u00f3n es agradable.- es para volver.-"
+    }, 
+    {
+      "date": "27 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Solomillo", 
+      "text": "Fui con mi esposa e hija un d\u00eda de semana por la noche. El trato de las mozas fue muy bueno, especialmente para con mi hijita. El salad bar es excelente y la carta de vinos tambi\u00e9n. Algo caros algunos. El asado no fue lo mejor de la noche (estaba un poco pasado para mi gusto) pero fue mejor el vac\u00edo, tierno, jugoso, abundante. Los postres correctos sin destacarse sobre otros restaurantes y los precios razonables. El lugar es muy bonito y el estacionamiento est\u00e1 vigilado. Recomendable, pero no esperen la mejor parrilla de sus vidas."
+    }, 
+    {
+      "date": "15 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pau32", 
+      "text": "Fui varias veces, nunca defrauda, comida simple y efectiva a precios razonables.\r\nel lugar muy lindo, super recomendable."
+    }, 
+    {
+      "date": "14 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mariagr", 
+      "text": "Me encanta eSta parrilla. Todo eS acorde. Nada deSentona. EL precio, la comida y la atenci\u00f3n. TOdo muy bueno"
+    }, 
+    {
+      "date": "26 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pbuceta", 
+      "text": "La parrilla es muy buena y el salad bar superlativo. Viernes y sabados hay carnes al asador. Recomendable."
+    }, 
+    {
+      "date": "1 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "daddy", 
+      "text": "Todo parece m\u00e1s o menos \"razonable\", comida, atenci\u00f3n, lugar.\r\nNo espere nada sofisticado ni mucho menos, tampoco sea exigente con la calidad de la parrilla. La comida debe pasar obligadamente a un segundo plano.\r\nEl \"precio vs calidad\" NO cierra tanto como antes."
+    }, 
+    {
+      "date": "14 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Juan_Caivano", 
+      "text": "Es un lugar bien familiar con una carta chica pero efectiva, y con muy buenos precios teniendo de parametro los promedios de la zona. Ideal para ir en familia y con chicos. El salad bar si bien es completo, de un tiempo a esta parte, ha perdido en calidad."
+    }, 
+    {
+      "date": "11 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Damasco", 
+      "text": "un lugar bien ambientado, para destacar es el trato que brindan las mosas, asesoran y conocen de que se trata la comida del lugar, realmente son muy buenas en su trabajo, la parrilla es buena, nada del otro mundo. Un punto a parte merecen los precios, son casi delirantes."
+    }, 
+    {
+      "date": "16 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Muy lindo lugar, buena relaci\u00f3n precio/calida. Para recomendar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "analiaodonto", 
+      "text": "La parrillona es excepcional ,la carne es de primera, muy buena la atencion y el salad bar es INCREIBLE !!!Un ambiente inmejorable , estacinamiento . De 10 puntos le doy 2o"
+    }, 
+    {
+      "date": "8 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mauroo", 
+      "text": "Es excelente, el salad bar de alta calidad, la carne espectacular.\r\nEl volc\u00e1n de chocolate de postre se lleva premios, y el tiempo de espera es bastante aceptable.\r\nExcelente relaci\u00f3n precio-calidad para hoy en d\u00eda."
+    }, 
+    {
+      "date": "23 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariano32", 
+      "text": "excelente calidad del salad bar, las porciones son abundantes, comimos matambrito de cerdo y mollejas, y de postre mouse de chocolate (bien caserito). Volvere!!"
+    }, 
+    {
+      "date": "23 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariano32", 
+      "text": "excelente calidad del salad bar, las porciones son abundantes, comimos matambrito de cerdo y mollejas, y de postre mouse de chocolate (bien caserito). Volvere!!"
+    }, 
+    {
+      "date": "7 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elgordoH", 
+      "text": "Atencion excelente, las carnes en su punto exacto tal como la pedimos, las camareras eficientes, atentas y rapidas, el salad bar completisimo, fresco y muy gustoso. Para volver"
+    }, 
+    {
+      "date": "24 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "smoje", 
+      "text": "Las empanadas y el salad bar que tienen so lo m\u00e1s. La carne es muy buena tbn, y pese que se pone a full, te atienden bien. Matiene una muy buena relacion precio-producto."
+    }, 
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tim67", 
+      "text": "Lugar muy recomendable para visitar en familia, muy buena la atencion de las camareras, el salad bar bueno pero podria tener mas variedad, las carnes de primera calidad, la trajeron en el punto justo y con muy poca sal (me gusta de esta manera asi uno elije el grado de salada que prefiere o colocar sal sin sodio). Los postres excelentes. Los sanitarios impecables. Unica contra el ambiente un poco ruidoso (es muy grande el lugar y se llena)\r\nRecomiendo reservar los fines de semana porque el lugar se llena de gente y la demora es mucha."
+    }, 
+    {
+      "date": "25 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Fui un domingo al mediod\u00eda y qued\u00e9 muy contento.  En un ambiente c\u00e1lido, con una atenci\u00f3n que se puede mejorar, com\u00ed super bien.  Ped\u00ed el matambre tiernizado que estaba b\u00e1rbaro y de postre recomiendo el panqueque de manzana flambeado (espectacular).  Otra cosa que podr\u00edan mejorar es la panera, pero en l\u00edneas generales \"La Porte\u00f1a\" aprueba holgadamente y no dudar\u00e9 en volver cuando ande por la zona."
+    }, 
+    {
+      "date": "5 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Julchas", 
+      "text": "Excelente opci\u00f3n para un domingo al mediodia. La comida es barbara, siempre traen la carne como la pedis y el servicio es muy cordial. Los precios sos razonables con la calidad y el lugar. Para recomendar!"
+    }, 
+    {
+      "date": "15 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "homerhv", 
+      "text": "Muy buena comida; el salad bar tiene una gran variedad y vale la pena ir solamente por eso. Bueno servicio, excelente ambientaci\u00f3n."
+    }, 
+    {
+      "date": "15 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "klaug", 
+      "text": "El lugar es agradable con una buena ambientaci\u00f3n. Sobresale la atenci\u00f3n de las mozas, siempre atentas y con un muy buen conocimiento de la carta. La comida es de muy buena calidad (ojo no deja de ser una parrilla y como tal es calificada). Recomendable llegar temprano, los tiempo de espera son de m\u00e1s de 45 minutos."
+    }, 
+    {
+      "date": "20 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maria4568", 
+      "text": "Muy cuidado el lugar, muy limpio, bien ambientado y muy bien atendido a pesar de la gran cantidad de gente en espera. \r\nEl precio es muy conveniente y l\u00f3gico, no como en muchos lados que es practicamente un robo."
+    }
+  ]
+}

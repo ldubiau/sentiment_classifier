@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "11 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "PidoLaPalabra", 
+      "text": "Me parece obvio que los otros 5 comentarios son del propio due\u00f1o o de sus amigos dilectos.\r\nAunque la pizza es aceptable, no merece el titulo de Resto Bar.\r\nEl ambiente es, por decirlo con cari\u00f1o y suavidad, extremadamente sencillo; \r\nLas mesas son de laminado plastico y ni siquiera hay manteles de papel.\r\nEl personal es el due\u00f1o; hay una persona mas en la cocina."
+    }, 
+    {
+      "date": "28 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pinky85", 
+      "text": "La verdad que es muy abundante y original.El ambiente es muy agradable en especial los fines de semana como fuimos ya que nos divertimos mucho porque habia karaoke."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "btalice", 
+      "text": "Desde hace 15 dias cambiaron los due\u00f1os. No se como era antes y si los comentarios son reales o no, pero ahora la comida es exelente y la atencion tambien."
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Naldo", 
+      "text": "Ambiente agradable, atenci\u00f3n personalizada y eficiente, comida donde se destaca la elaboraci\u00f3n, la calidad y originalidad de sus ingredientes. Excelente presentaci\u00f3n. Para recomendar."
+    }, 
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lisita", 
+      "text": "Me encanta este lugar es muy calido y la comida siempre excelente."
+    }, 
+    {
+      "date": "14 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "el12", 
+      "text": "Un lugar muy calido, en donde cene realmente como en Europa."
+    }, 
+    {
+      "date": "14 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Andre8", 
+      "text": "Buena m\u00fasica, clima alegre y buena atenci\u00f3n.\r\nLa presentaci\u00f3n de los platos es muy atractiva."
+    }
+  ]
+}

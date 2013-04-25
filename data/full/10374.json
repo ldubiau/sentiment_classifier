@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "26 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "sheine", 
+      "text": "La ambientacion es lo mejor que tiene el lugar. Estilo moderno, con plasmas . Las sillas : incomodisimas. La moza: pocas ganas de atender. El, poco atenta a los requerimientos de los clientes. El personal que esta detras de la barra charlando entre ellos. Fuimos 4 con un cupon de pizza libre. Fria, solo 3 variedades jamon, cebolla y tomate, prepizza  coon poco gusto. No volveria mas"
+    }, 
+    {
+      "date": "21 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "mariela83", 
+      "text": "La pizza no ten\u00eda gusto a nada... Fuimos con un cup\u00f3n de descuento."
+    }, 
+    {
+      "date": "19 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "ANONIMO84", 
+      "text": "El lugar es muy lindo.. ambientado como corresponde.. musica tranqui, pero la comida deja mucho que desear.. comimos pizza, llegaba a la mesa fria, y los ingredientes (jamon, tomate, etc) tenian feo gusto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "anamay", 
+      "text": "Raro lugar. H\u00edper boliche, musica tecno, luces giratorias... y nadie. Fuimos con un Groupon. La comida bien, sencilla, pero era muy raro comer ah\u00ed."
+    }, 
+    {
+      "date": "25 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ManuelaDiaz", 
+      "text": "El ambiente es fr\u00edo, las sillas y las mesas son plegables por lo que se mueven y uno no se puede apoyar en el respaldo a no ser que pretenda  recostarse. Las porciones eran chicas y ricas, aunque nada del otro mundo. El mozo nos cambi\u00f3 los platos de lugar a mi amiga y a m\u00ed cuando nos los hab\u00eda dado bien al principio."
+    }, 
+    {
+      "date": "18 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "misolmi", 
+      "text": "Lo mejor de este lugar es la ambientaci\u00f3n. La iluminaci\u00f3n tenue, las butacas de cuero, la buena m\u00fasica, hacen que sea un lugar donde pasar un momento agradable en pareja o con amigos. La comida fue correcta, los tragos, muy ricos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Totru", 
+      "text": "El lugar esta buenisimo para ir con amigos o festejar cumplea\u00f1os, lo unico que las banquetas se movian mucho. Ambientacion muy buena, musica de primera. Pedimos una pizza con amigos y nos encanto la pizza, riquisima. Muy buena atencion."
+    }
+  ]
+}

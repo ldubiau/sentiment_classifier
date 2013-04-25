@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "26 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Cooking111", 
+      "text": "una ensalada sin presntacio\u00f2n, un lasagna fria y recalentada en microondas hecho que la convierte en una goma, una carta de vinos pobre, una pizza fragil con la masa cruda y con una muzzarella de muy mal sabor ...la atenci\u00f2n que deja mucho que desear, NO LO RECOMIENDO PREFIERO HACER PIZZA EN CASA"
+    }, 
+    {
+      "date": "7 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "blancoynegro", 
+      "text": "La lasagna estaba recocida y seca en los bordes. El cordero, duro, y su guarnici\u00f3n era dulce en exceso por la reducci\u00f3n de vino y las cebollas. El postre era original en su composici\u00f3n- ten\u00eda maracuya, frambuesa e higos- pero era m\u00e1s un helado que un parfait. La ambientaci\u00f3n es muy c\u00e1lida y agradable para una velada en pareja."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pepuni", 
+      "text": "muy buen lugar, muy intimo, especial par ir en pareja, el due\u00f1o es un autentico italiano\r\nmuy buena atencion, buenos platos. volveria"
+    }, 
+    {
+      "date": "21 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Vascos", 
+      "text": "muy buena atencion, excelentes platos, todo bien"
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jdweb", 
+      "text": "Se come muy buena pasta, con buena atencion y ambiente familiar. Tipica trattoria italiana. Para volver"
+    }, 
+    {
+      "date": "27 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Muy rica la comida y la atenci\u00f3n, el lugar es muy agradable."
+    }, 
+    {
+      "date": "26 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "nolita", 
+      "text": "Buen ambiente y buen servicio,pero pocas opciones en el menu y en la carta de vinos.Muy buenos panes y buena relacion precio calidad en la comida,precios altos en vinos."
+    }, 
+    {
+      "date": "19 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "remy_argentino", 
+      "text": "Fuimos a principio de a\u00f1o, nos encant\u00f3 la ambientaci\u00f3n y la muy amable atenci\u00f3n de quien creemos ser\u00eda su due\u00f1o, un hombre italiano.\r\nM\u00fasica italiana, espacios c\u00f3modos y pan casero muy bueno.\r\nVamos a volver pronto, muy lindo lugar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "caroleta", 
+      "text": "fui un martes donde  sin saberlo fui sorprendida con un show de tenoreslo que hizo mas amena la comida  realmente fue una velada increible la que pase en este lugar junto a unos amigos muy recomendable"
+    }, 
+    {
+      "date": "2 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lamosca", 
+      "text": "fuimos a comer un dia martes, la comida es excelente muy bien preparada, con una amplia variedad de platos, con una atencion por el personal muy buena,con excelente trato, y una ambientacion con muy buen gusto, un show de tenores muy agradble, definitivamente es un lugar para recomendar."
+    }
+  ]
+}

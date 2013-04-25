@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "29 Sep 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "TheFig", 
+      "text": "Lamentable. Podr\u00eda ser un buen restaurant cambiando algunas pocas cosas, pero lo \u00ednico bueno es la ambientaci\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gogo", 
+      "text": "Al mediod\u00eda la comida estaba a punto. La carne de lomo correcta en sabor y textura.\r\nEl sevicio muy simple. No ten\u00eda informaci\u00f3n para motivar a probar alg\u00fan plato.\r\nEl lugar se ve descuidado, algo desprolijo."
+    }, 
+    {
+      "date": "19 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "sunyata", 
+      "text": "El sector de sillones es incomod\u00edsimo.\r\nParec\u00eda que hab\u00eda una promoci\u00f3n de Amex en la entrada pero despu\u00e9s no se vio reflejada al momento de pagar."
+    }, 
+    {
+      "date": "4 Jun 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "trading", 
+      "text": "Si alguna vez ten\u00e9s que quedar bien con un cliente importante extranjero, quer\u00e9s buen ambiente, sin m\u00fasica estruendosa, con mozas que saben hacer su trabajo y te atienden como a un rey: NUNCA VAYAS A LOMO!\r\nEl servicio es deplorable, el due\u00f1o de LOMO podr\u00eda haber gastado menos plata en decoraci\u00f3n y m\u00e1s en mozos de profesi\u00f3n. LAMENTABLE. Ah, otra cosa, no te preocupes en reservar porque es lo mismo, te dan la mesa que quieren."
+    }, 
+    {
+      "date": "16 Abr 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "gmaisa", 
+      "text": "El personal muy amable pero el servicio insoportablemente lento.\r\nLa comida: mollejas secas y fr\u00edas nadando en un charquito de salsa sin gusto de primer plato. De plato principal, lomo. Es dif\u00edcil arruinar un lomo pero por lo menos lograron secarlo bastante. La salsa era la hermana melliza de la aburrida que vino con las mollejas.\r\nEn fin, una hermosa terraza ideal para venir a tomar una copa de vino despu\u00e9s de cenar en un buen restaurante."
+    }, 
+    {
+      "date": "16 Abr 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "negrito1", 
+      "text": "El Chef no acepta cambiar guarniciones argumentando en forma soberbia que el sabe mejor que los comensales como preparar un plato. Ser\u00eda aceptable en un lugar con calidad de comida superior, en cambio de lo que ofrece Lomo es mediocre y pretencioso."
+    }, 
+    {
+      "date": "15 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Isolda", 
+      "text": "Increible la terraza!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "laumin", 
+      "text": "Cuando llegu\u00e9 pregunt\u00e9 si segu\u00eda vigente la promocion de Amex y me dijeron que si. Comimos muy bien y nos atendieron muy bien tambi\u00e9n, hasta que lleg\u00f3 la cuenta. Quisimos pagar con la Amex Platinum, pero nos dijeron que era solo con la gold que empezaran con el numero tres. \r\nSi, cualquiera. \r\nTuve que discutir con el gerente, al que tuve que pedirle que se acercara a la mesa porque me hab\u00eda llamado a la barra. \r\nAl final, nos hicieron la promoci\u00f3n porque sino era bochornoso."
+    }, 
+    {
+      "date": "11 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Un almuerzo veraniego en la terraza con una buena copita de vino. Son los ingredientes para una tarde excelente."
+    }
+  ]
+}

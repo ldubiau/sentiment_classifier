@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Marlur ", 
+      "text": "La comida regular, la persona que nos recibi\u00f3 era la misma que cocinaba y la que, tambi\u00e9n cobraba. Demora en la atenci\u00f3n. Por otro lado, p\u00e9sima la mesera, se dirig\u00eda de mala gana cuando le ped\u00edamos o le pregunt\u00e1bamos sobre la comida. No lo recomiendo."
+    }, 
+    {
+      "date": "23 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ElCharrua", 
+      "text": "Sal\u00ed satisfecho! Buena comida t\u00edpica, nos gust\u00f3 mucho. Le falta a la carta de vinos, claro. Atenci\u00f3n esmerada."
+    }, 
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Emilkar", 
+      "text": "Un restaurante de buena cocina jud\u00eda, no tienen carta de men\u00fas ni de vinos, te ofrecen y comentan los platos t\u00edpicos, los vinos son solo tres marcas y caros por su calidad.\r\nEl postre bien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dagor", 
+      "text": "comida jud\u00eda impecable.\r\nEl sabor de las cocinas de mi abuela, la atenci\u00f3n cordial atenta,fui con toda mi familia una mesa de 18 nos atendieron a todos a tiempo, porciones abundantes,y la calidad supera al precio."
+    }, 
+    {
+      "date": "9 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Carina67", 
+      "text": "La mejor comida judia que comi en a\u00f1os. El lugar no dice nada de afuera, parece un bar de barrio, el secreto es sentarse \"a comer\" como se com\u00eda  en lo de una abuela o t\u00eda judia. Excelentes precios."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "9 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "hellorod", 
+      "text": "Soy del barrio y hace muchos a\u00f1os que como en Johann. Es un lugar de comida porte\u00f1a, sin vueltas y al grano, la milanesa es una milanesa y el bife un bife, sabroso y por lo general abundante. En especial la mila napolitana y el pollo a la mostaza. Los mozos son aquellos mozos macanudos de antes que conocen a todos quien van a comer ahi. Recomendable el menu del medio dia que es abundante y al precio justo. Un buen lugar, nada mas."
+    }, 
+    {
+      "date": "1 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mburucuya", 
+      "text": "Restaurante muy tradicional, tienen men\u00fa ejecutivo al mediod\u00eda con empanadita y copita de jer\u00e9z m\u00e1s salad bar;luego plato principal, rico y abundante; postres varios y caf\u00e9.Los mozos muy atentos; ambiente tranquilo, se puede conversar con los dem\u00e1s comensales. Hay que tener en cuenta, que los ba\u00f1os est\u00e1n por escalera, en el subsuelo, no apto para discapacitados ni personas con problemas de movilidad por subir/bajar escalera. Muy buena relaci\u00f3n precio/calidad/cantidad.Ya he ido varias veces."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chbarq", 
+      "text": "Comimos buena comida porte\u00f1a, muy bien atendidas por mozos conocedores del oficio y de la carta para recomendar. Excelente el pollo c/salsa de mostaza y el cerdo agridulce con unas papas rellenas: BOMBA!\r\nEl resto de los precios de la carta me parecieron mas que normales. El ambiente un poco \"senior\" y lo unico incomodo son los ba\u00f1os en el subsuelo."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "5 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adraugello", 
+      "text": "aunque el nombre lo indica \"bar rock\", no vi realmente casi nada de rock. La atenci\u00f3n p\u00e9sima, las mesas y sillas parecen mas de un caf\u00e9 de lavalle que de un bar y la comida demasiado aceitosa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Barbarellita", 
+      "text": "La pizza napolitana muy muy buena, y la temperatura de la cerveza mucho mejor aun. A mi me gust\u00f3, fui al de la calle Boedo."
+    }
+  ]
+}

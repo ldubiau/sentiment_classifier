@@ -1,0 +1,648 @@
+{
+  "malos": [
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Alelanglois", 
+      "text": "El servicio los s\u00e1bados por la noche es malo. Adem\u00e1s, pedimos un bife de chorizo para compartir y era muy chico, mal cocido y caro."
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "valeydari", 
+      "text": "Tardaron 50 minutos en traernos la comida y eso que no estaba lleno. Me mancharon la campera y no se hicieron cargo. El plato de mi mujer estaba sin gusto, reclamamos y nos dijieron que era asi. Un desastre."
+    }, 
+    {
+      "date": "5 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "HerSim", 
+      "text": "Acabo de salir del restaurant y no pienso volver. el pure crudo sin leche, aguado. de los rinoncitos, 2 o 3 vinieron viejos recalentados de no se cuando. pedi ensalada verde de $ 16 y por pedirle el condimento con queso rallado, me costo $ 28 ( el doble !!!!) cobraron servicio de mesa incluyendo mi hijo menor, que en ningun lugar lo cobran al 100%. comente todo pero marche preso. no vuelvo y lo comunicare por donde pueda"
+    }, 
+    {
+      "date": "14 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Stankillkenny", 
+      "text": "Me cautivo el exterior y dije \"No puedo dejar de probar...\" mala eleccion, una pena porque el mozo nos atendio de primera... pero la comida dejaba bastante que desear. La carne dura por un lado y cruda por otro, supongo que no debe ser culpa de la cocina, sino mas bien del proveedor... pero eso lo tengo que ver si vualvo a ir. Una lastima, pintaba BUENO."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ashisterita", 
+      "text": "soy del inminente barrio gourmet de villa crespo y este restaurante tradicional es muy grato que todavia se conserve. Buena comida y atencion de los mozos. El lugar es mas lindo de noche."
+    }, 
+    {
+      "date": "28 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Belumar", 
+      "text": "Pedimos de entrada rabas a la Romana, riquisimas ! Como plato principal. Escalopes a la Johana, muy abundante, son tres escalopes grandes, con una salsa blanca liviana con verdeo y panceta y muchas papas espa\u00f1olas. Y mi pareja un Lomo a la pimienta (bastante picant\u00f3n) con papas noissete, las papas eran hervidas, no fritas, y servidas en un cuenco con crema. No pedimos postre porque apenas pudimos terminar los platos, muy conformes aunque un poco caro, con 2 aguas y lo dicho pagamos $240 ! El mozo r\u00e1pido y cordial.. El ambiente nada del otro mundo."
+    }, 
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Ambiente, atenci\u00f3n y comida, todo correcto. Mozos que saben su oficio y precios muy buenos. Hay diferentes promociones seg\u00fan los d\u00edas y una carta con men\u00faes muy sabrosos de bajas calor\u00edas . Para volver sin lugar a dudas."
+    }, 
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mariovaras", 
+      "text": "El ambiente es tranquilo, c\u00e1lido, buenos platos, comida bien elaborada, y  una atenci\u00f3n adecuada. Buena relaci\u00f3n calidad/precio. Una buena opci\u00f3n en el barrio de Caballito."
+    }, 
+    {
+      "date": "13 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Floripondias", 
+      "text": "Otro de esos lugares sencillos del barrio para ir cuando no hay ganas de cocinar. Comimos pescados a la parrilla que estaban muy bien. La atenci\u00f3n correcta, pero la comida demor\u00f3 como 50 minutos. Pero volveremos, vale la pena probar  las otras opciones de la carta."
+    }, 
+    {
+      "date": "26 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fukerito", 
+      "text": "Caimos con mi novia luego de pasar muchos restos de la zona que tenian cola para ingresar. Al entrar vimos que tenia stickers de haber sido uno de los mas votados en guiaoleo, cosa que nos levanto el animo en la eleccion.\r\nLos platos son super abundantes, si piden entrada pidan un solo plato. Pedimos el escalope a la Johana, que viene con una crema con panceta, super recomendable, el mozo nos dijo que era el mejor plato del lugar, y yo me pedi un cerdo del litoral con batatas fritas, muy bueno tambien!\r\nEl mozo muy servicial.\r\nEl lugar es lindo, pero le falta una lavada de cara. Para volver!"
+    }, 
+    {
+      "date": "17 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "La carta tiene una amplia variedad de platos pero ninguna resulta econ\u00f3mica. Ped\u00ed un lomo con panceta, rabas y arvejas, y si bien la porci\u00f3n era buena tard\u00f3 bastante viendo que solo hab\u00eda dos mesas ocupadas adem\u00e1s de la nuestra (era un d\u00eda de semana a la noche).\r\nDentro del lugar hay muchos cuadros que no tienen ninguna relaci\u00f3n entre ellos y una ara\u00f1a de techo que no cuaja con lo que es el lugar.\r\nCreo que se puede comer mejor, m\u00e1s barato y con mejor atenci\u00f3n por el barrio."
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "samave", 
+      "text": "Muy buena opci[on, porciones superabundantes, mesas bien separadas, se trata de un restaurante familiar con muy buenos precios"
+    }, 
+    {
+      "date": "29 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cbkr11", 
+      "text": "Una buena opci\u00f3n en relaci\u00f3n precio, cantidad, calidad. Las porciones se comparten sin inconvenientes; el mozo muy atento y responsable al aconsejar platos aptos cel\u00edacos. \u00a1Gracias!"
+    }, 
+    {
+      "date": "30 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rferrari", 
+      "text": "Dado que entr\u00e9 ilusionado y sal\u00ed con cara de nada, arranco por lo mejor: los mozos son muy profesionales, la carta es extensa, los platos son correctos y las porciones son abundantes. Adem\u00e1s, hay descuentos por pago en efectivo lunes y martes, y los mi\u00e9rcoles en mesas de mujeres. Lo malo es que los platos no sobresalen y es (para mi) caro para las prestaciones. La suma de servicio de mesa y bebida sin alcohol ara\u00f1a los $20, y para los precios de los platos s\u00edrvanse ver la p\u00e1gina y sumarle un 20%. No tiene muchos rivales en la zona, y sin embargo no me veo volviendo. Saquen sus conclusiones..."
+    }, 
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rochipet", 
+      "text": "La verdad es que vamos seguido. Nos gusta mucho la atencion y la comida. El mozo que siempre nos atiende nos recibe con un beso. Hay platos que son muy buenos como el pincho villaguay. Es un lugar para recomendar."
+    }, 
+    {
+      "date": "7 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mirta14", 
+      "text": "Voy todos los mi\u00e9rcoles a cenar a Honorio y quiero destacar la atenci\u00f3n del mozo Oscar. Es cordial, educado, conoce su oficio, un placer que nos atienda \u00e9l. Es un ambiente familiar y las pastas con mariscos riqu\u00edsimas!!!"
+    }, 
+    {
+      "date": "13 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Sievitaviviera", 
+      "text": "Muy buena la relaci\u00f3n precio/calidad. Con detalles incluso: una pasta de roquefort con ricota interesante. Una copita de espumante de atenci\u00f3n tambi\u00e9n. Y el pan t\u00edpico de fonda, pero sabroso."
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "alfa55", 
+      "text": "Fuimos un s\u00e1bado por la noche sin reserva, por suerte no tuvimos que esperar mucho. El servicio y la atenci\u00f3n fueron correctos, los platos muy ricos. Lo \u00fanico que tendr\u00eda para criticarle son las mesas, al menos en el sector donde nos sentamos. Si bien estaban cubiertas con un mantel eran inc\u00f3modas. El lugar tiene una onda a bodeg\u00f3n familiar. En general la experiencia fue positiva y comimos bien, las porciones son abundantes."
+    }, 
+    {
+      "date": "15 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Laisa", 
+      "text": "Riqu\u00edsima la tabla de achuras y porciones muy abundantes. Para compartir en familia."
+    }, 
+    {
+      "date": "30 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "semas", 
+      "text": "Como siempre , comida casera sencilla ,abundante a buen precio.buen servicio de mesa , copa de bienvenida y al final.Mozos de oficio , buena atencion.Relaci\u00f3n precio calidad adecuada."
+    }, 
+    {
+      "date": "31 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sergio2", 
+      "text": "Llegamos recomendados por unos amigos que son habitu\u00e9s del lugar, y la verdad que no nos decepcionaron; todo muy rico, los platos son abundantes y el servicio de los mozos es muy bueno. Por eso ahora, nosotros tambi\u00e9n recomendamos el lugar."
+    }, 
+    {
+      "date": "18 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sele1503", 
+      "text": "fui cliente durante dos a\u00f1os ibamos una vez por mes seguro a cena r toda la familia que eramos 14 . quiero aclarar que la comida es mas que buena . es fresca y sabrosa. Lo malo  y pesimo del lugar son los mozos son sobervios y atienden mal a desgano. No fuimos mas desde la noche que pasamos un mal rato con un mozo llamado DANIEL. ( un maleducado )"
+    }, 
+    {
+      "date": "15 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "aledie10", 
+      "text": "Excelente lugar para ir a comer en cualquier ocasi\u00f3n, pero ojo; los platos son para compartir siempre pregunten al moso como son los platos porque si no reventas de comer. El servicio es mas que excelente. Altamente recomendable."
+    }, 
+    {
+      "date": "18 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "semas", 
+      "text": "Volvimos a ir despues de un tiempo y sigue cumpliendo con las expectativas , ambiente familiar ,restoran de barrio , comida buena, porciones generosas, atenci\u00f3n amable y buenos precios.Si no tiene pretensiones gourmet vaya y pruebe , creo que no lo defraudar\u00e1."
+    }, 
+    {
+      "date": "26 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ale_arga2", 
+      "text": "Tranquilo lugar de barrio para ir en pareja o familia. La comida abundante y rica. El servicio lento pero amable."
+    }, 
+    {
+      "date": "20 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "endorfina", 
+      "text": "Me sorprendi de lo bien que me hicieron sentir con la atencion y la buena comida. como era el cumplea\u00f1os de mi esposo pude comprarle un oleo que decoran el lugar. y al pagar descontaron el cubiento de mi marido( el del cumple no paga)"
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "semas", 
+      "text": "Cumple con el objetivo : comer en el barrio , comida casera y con porciones generosas a buen precio . Las mollejas con champignones son realmente buenas.Pregunten antes de pedir porque la mayoria de los platos se pueden compartir ; nosotros pedimos de mas y no llegamos al postre.La atencion adecuada , el ambiente agradable. Los vinos a buen precio. Bien , recomendable , no defrauda."
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "marcegodoy", 
+      "text": "Muy buena comida. abundantes platos y la atencion tambien es muy buena. recomendable"
+    }, 
+    {
+      "date": "17 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "caludio", 
+      "text": "La comida es muy buena, el ambiene tranquilo y muy familiar y los precios acordes. La \u00fanica cr\u00edtica es que a veces tardan un poco en atender."
+    }, 
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Frank", 
+      "text": "Fuimos un s\u00e1bado a la noche y nos pareci\u00f3 que est\u00e1 quedado en el tiempo. No es lindo el ambiente, deber\u00edan renovarlo por completo. Incluso la carta, que siempre es la misma desde hace a\u00f1os. Lo que s\u00ed cambian y seguido son los precios. \r\nTienen valores de restaurante gourmet y no son platos gourmet, no tienen nada del otro mundo, s\u00f3lo que son abundantes y listo."
+    }, 
+    {
+      "date": "18 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CHARLY357", 
+      "text": "EL LUGAR BUENO, TAMBIEN LA ATENCION DE LOS MOZOS , MUY SOLICITOS. PLATOS ABUNDANTES, SABROSOS Y DE MUY BUENA RELACION PRECIO CALIDAD.SERVICIO DE MESA COMPLETO, INCLUIDO CHAMPAGNE. TIENE ESTACIONAMIENTO A MITAD DE CUADRA.RECOMENDABLE. ES PARA VOLVER."
+    }, 
+    {
+      "date": "25 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Valmar", 
+      "text": "La comida es muy buena y abundante,hay mucha variedad, tiene dia especial para mujeres con descuento. El servicio es bueno."
+    }, 
+    {
+      "date": "13 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marcegodoy", 
+      "text": "Muy buena la comida, abundantes y muy frescas las pastas. Lo \u00fanico que no me gust\u00f3 fue que los panqueques los hacen a la vista y m\u00e1s all\u00e1 de que sea una atracci\u00f3n deja un olor en la ropa espantoso...."
+    }, 
+    {
+      "date": "20 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gwzty", 
+      "text": "Excelente lugar, precios razonables, un poco escondido en Caballito. Hay que esperar los fines de semana pero vale la pena.\r\nExcelente relacion costo/calidad. Eso si, no pedir nada raro: comidas simples y porte\u00f1as."
+    }, 
+    {
+      "date": "14 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rockybalboa", 
+      "text": "El plato de bondiola de cerdo agridulce con menta y romero esta muy bien servido, las pastas son muy buenas y las supremas rellenas tambi\u00e9n. La atenci\u00f3n es sobresaliente."
+    }, 
+    {
+      "date": "7 Jun 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Mafa", 
+      "text": "La carne no fue de lo mejor que com\u00ed cuando deber\u00eda serlo. \r\nLa incomodidad que no tengan tarjetas suma a mi entender algo negativo. \r\nComo suele suceder al ver una pareja joven, la atenci\u00f3n no es buena. \r\nNo volver\u00eda ni recomendar\u00eda."
+    }, 
+    {
+      "date": "22 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "akychan", 
+      "text": "Nos atendieron muy bien, hasta ahora de de unas cuantas parrillas que fuimos por la zona es en la unica que nos dieron Verdadero Bife de chorizo y muy tierno."
+    }, 
+    {
+      "date": "25 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gashina", 
+      "text": "Del barrio lo mejor. \r\nAumentaron bastante los precios \u00faltimamente, pero igual que el resto de los restaurantes. \r\nLa calidad de la comida es muy buena y son muy abundantes. \r\nEs muy bueno el espacio para No-fumadores (un sector completamente aparte). \r\nPara pedir por delivery tambien es muy recomendable un plato alcanza para dos."
+    }, 
+    {
+      "date": "18 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Claudio", 
+      "text": "Buena comida, muy buena atenci\u00f3n. Platos abundantes. El lugar para chicos podr\u00eda mejorarse bastante."
+    }, 
+    {
+      "date": "19 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tonio", 
+      "text": "Platos abundantes, muy buena calidad y agradable ambiente.\r\nEn zona Caballito, un restaurante recomendable."
+    }, 
+    {
+      "date": "3 Dic 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "NOFX", 
+      "text": "La comida zafa. El lugar esta bien, aunque nada \"\u00a1Ohhh!\". De medio pelo. Le falta onda, pero se come aceptablemente bien."
+    }, 
+    {
+      "date": "11 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gustavo11", 
+      "text": "C\u00e1lido, econ\u00f3mico, familiar. Platos generosos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "virtginia", 
+      "text": "Lo que menos me gusta es el ambiente. Por sobre todo porque pasan discos de LuisMi de fondo. La atenci\u00f3n y alimentos muy rico. Tienen una carta de vinos bastante extensa. Bastante familiar"
+    }, 
+    {
+      "date": "21 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cotitalg", 
+      "text": "Pedimos un solo plato: los famosos escalopes. La porci\u00f3n no era muy abundante (tres lonjas de lomo con papas, la achicaron), para nosotros estuvo bien pero a dos de buen comer no le alcanza. El plato estuvo exquisito. El precio por lo que comimos nos pareci\u00f3 demasiado. Gastamos 150 pesos solo pidiendo un plato principal, un vino de 350, un agua y una lagrima. Por ese dinero hemos comido mucho mejor en otros lugares. La atenci\u00f3n es excelente, el mozo muy atento y divertido. El lugar c\u00e1lido, familiar."
+    }, 
+    {
+      "date": "29 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianojaja", 
+      "text": "Un bodeg\u00f3n bien puesto y apto para la familia en Caballito, que se nota concurrido por habit\u00faes. Los mozos atienden bien y la carta tiene muchas opciones atractivas y bien descriptas. Los platos son de buen tama\u00f1o, con salsas casi pecaminosas. Me gust\u00f3 el carr\u00e9 de cerdo a la alemana. Hay promociones por pago en efectivo."
+    }, 
+    {
+      "date": "9 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "tanatanita", 
+      "text": "Restaurante con variedad de platos y porciones para compartir (hay que saber pedir, de todos modos los mozos asesoran muy bien). Los platos llegan calientes y todos a tiempo (dato que es muy importante para disfrutar todos en familia o reunidos comiendo al mismo tiempo). Los postres debieran contemplar mas opciones o agiornarlas. \r\nEs cierto que el servicio de mesa esta un poco elevado para la zona pero en general la experiencia fue positiva. \r\nSugiero reservar para no tener que esperar tanto sobre todo un s\u00e1bado por la noche o domingo al medio d\u00eda."
+    }, 
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elalber10", 
+      "text": "Fuimos el domingo al medio d\u00eda. El mozo nos atendi\u00f3 muy bien, nos avis\u00f3 de la tardanza del pato que pedimos, y todos ellos fueron  abundantes. El dato c\u00f3mico, \u00e9ramos dos comenzales, preguntamos al mozo qu\u00e9 era el \"panqueque a la Italiana\", nos dice que panqueque de manzana con helado y ensalada de frutas. Lo que no nos dijo es que era GIGANTE. Tuvimos que llevarnos a casa porque es para cuatro c\u00f3modo. Muy bueno. Lo \u00fanico, el laudo (cubierto) es m\u00e1s caro que en La Parolaccia de Puerto Madero (bajenlo un poquito que no amerita tanto)."
+    }, 
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Favito", 
+      "text": "Hac\u00eda a\u00f1os q no iba y, la verdad, fuimos de casualidad con mi flia. porq no hab\u00eda lugar en otro restaurant de la zona (muy recomendado en la gu\u00eda, por cierto, pero si un m\u00edsero lugar para esperar). Llegu\u00e9 un tanto mal predispuesta, pero me cambiaron el humor. La atenci\u00f3n esmerada dl mozo, q adem\u00e1s fue muy gentil con mis hijos, fue lo primero positivo d la experiencia. Y despu\u00e9s, lleg\u00f3 la comida. Platos tradicionales, sin extravagancias, pero abundantes y deliciosos. Lo mejor para una noche q no hab\u00eda comenzado bien. Y como corolario, al ser el cumplea\u00f1os de uno d los comenzales, tuvimos un importante descuento y copita de champagne (no muy bueno, pero val\u00edo la intenci\u00f3n). Lo \u00fanico q no me gust\u00f3 fue la pseudo torta de festejo q result\u00f3 ser una porci\u00f3n de almendrado camuflado con crema y cerezas. Creo q no es tanto esfuerzo preparar un bizcochuelo."
+    }, 
+    {
+      "date": "23 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ana sol", 
+      "text": "Fui con mi esposo y con amigos. La pasamos muy bien. Ahora me viene genial xq abren al mediodia y eso me permite almorzar xq tengo poco tiempo y la atencion es rapida y excelente. La comida es abundante, variada y riquisima. Atendido x sus due\u00f1os con amabilidad y calidez hacen de este restoran mi preferido sin  dudarlo"
+    }, 
+    {
+      "date": "17 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "aledie10", 
+      "text": "un lugar muy agradable relaci\u00f3n precio calidad excelente los platos son muy abundantes, si van no duden en compartir los platos porque son gigantes. la carta de vinos es muy buena y el precio tambi\u00e9n. La atenci\u00f3n es cordial. Estos lugares son ideales para una cena tranquila y de charlas largas, dado que las mesas est\u00e1n a una buena distancia y no se escucha ese bullicio molesto que uno termina ablando a los gritos. Conclus\u00econ altamente recomendable."
+    }, 
+    {
+      "date": "17 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rst", 
+      "text": "Un restaurante muy recomendable, excelente atenci\u00f3n de Am\u00e9rico, la comida muy abundante, para compartir, de calidad excelente las pastas, una carta para todos los gustos y precio razonable, fui con amigos y la pasamos excelente, (entrada, plato principal no compartido, postre, caf\u00e9 y buen vino) la casa invito otra vuelta de cafe y champagne, volver\u00e9 con mi esposa pues es realmente para todo publico."
+    }, 
+    {
+      "date": "16 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lidia66", 
+      "text": "Excelente lugar, acorde precio y servicio, muy recomendable"
+    }, 
+    {
+      "date": "14 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "zztoparg", 
+      "text": "Somos de Caballito y es un cl\u00e1sico de la zona, como siempre mantienen la calidad de los platos y porciones abundantes, la atenci\u00f3n muy amistosa ! lo recomiendo !!!!"
+    }, 
+    {
+      "date": "3 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mari29", 
+      "text": "me recomendaron este lugar y fui a conocerlo DIVINO RE COMFORTABLE MUY RICA LA COMIDA Y LA ATENCION DE DANIEL (EL MOZO)UN DIVINO UN TRATO HERMOSO MUY SIMPATICO, UN CARISMA COMO POCOSLO SUPER RECOMIENDO           MARIANGELES"
+    }, 
+    {
+      "date": "2 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tiky38", 
+      "text": "El lugar es divino,un ambiente muy calidolos mozos excelentes daniel lejos el mejor mozo su amabilidad su carisma y su alegria le da un toque especial  en tu cena o almuerzo super recomendable y si van pidan por ( dany sin duda el mejor)"
+    }, 
+    {
+      "date": "12 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "endorfino", 
+      "text": "Soy de olivos y me hablaron de Honorio. No me defraud\u00f3. Es c\u00e1lido. Platos que comes con los ojos. Todo muy limpito y atenci\u00f3n esmeradisima. Lo pase tan bien que hasta compr\u00e9 un cuadro de los que exhiben. 10 puntos. Y con sector fumador."
+    }, 
+    {
+      "date": "16 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sushi2", 
+      "text": "Las porciones son abundantes, para compartir. La comida es de muy buena calidad. El ambiente no es muy \u00edntimo, y por esto es m\u00e1s adecuado para grupos j\u00f3venes. El detalle negativo fue que un par de platos estaban sucios. Pero de cualquier manera, es un lugar recomendable de esta zona."
+    }, 
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "joselu", 
+      "text": "Muy buen lugar, buena mercaderia y variada. buena atencion.El bife de chorizo espectacular"
+    }, 
+    {
+      "date": "27 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "NANYLVC", 
+      "text": "Excelente lugar, atencion, comida, calidad, precio. Un lugar para conocer y probar de todo. No he comido plato que no ma haya dejado satisfecho. Muy recomendable. Imperdible."
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "SilAres", 
+      "text": "esa noche quer\u00edamos ir a Don Zoilo q queda a unas cuadras y terminamos en Honorio porque necesit\u00e1bamos estacionamiento! pero nos sorprendi\u00f3 lo bien q la pasamos, la comida estuvo excelente, el mozo -de los de antes y SABEN- m\u00e1s que excelente. Los platos son muy abundantes, pedimos parrilla, ensalada y una entrada, y todo m\u00e1s que bien. Muy buen lugar, 100% recomendable, Vayan!"
+    }, 
+    {
+      "date": "8 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Fripp", 
+      "text": "Los platos son abundantes (para compartir), los ingredientes son de primera calidad y la comida es muy sabrosa. Para recomendar."
+    }, 
+    {
+      "date": "3 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "comensal", 
+      "text": "Quiz\u00e1s lo mejor de la zona. Excelente comida y atenci\u00f3n, ambiente familiar.\r\nPara ir sin dudar."
+    }, 
+    {
+      "date": "25 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "charlone", 
+      "text": "Bien atendido, comida excelente y precio accesible."
+    }, 
+    {
+      "date": "21 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mfzabala", 
+      "text": "C\u00e1lido ambiente. Muy buena atenci\u00f3n. Muy conforme."
+    }
+  ]
+}

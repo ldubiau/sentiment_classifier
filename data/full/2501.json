@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "13 Mar 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Skrooks", 
+      "text": "Es la segunda vez que hemos comido aqui al medio d\u00eda. La comida es regular y no m\u00e1s. El servicio adentro fue adecuado, pero afuera, fue deficil consegir la atenci\u00f3n del mozo - quien tuvo poco inter\u00e9s en todo caso. Parece buen lugar para tomar cafe y leer el periodico tranquilamente sin molestia."
+    }, 
+    {
+      "date": "23 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mona", 
+      "text": "Me gusta el lugar porque es comida casera y la atenci\u00f3n es muy buena, sobre todo los mozos. Lo \u00fanico malo que puedo decir del lugar es que tienen que hacer algo con la ac\u00fastica."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Adolescente", 
+      "text": "Delicioso."
+    }, 
+    {
+      "date": "20 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "musi", 
+      "text": "Excelente atenci\u00f3n y comida. Para recomendar."
+    }, 
+    {
+      "date": "23 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marge", 
+      "text": "Es un lugar muy tranquilo para comer algo rico o tomar un caf\u00e9 sin apuro."
+    }, 
+    {
+      "date": "11 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sandokan", 
+      "text": "Los \u00f1oquis eran caseros y de verdura, muy ricos. La salsa, espectacular."
+    }, 
+    {
+      "date": "5 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Celita", 
+      "text": "El precio incluye bebida y postre. \r\nEl tiramis\u00fa de la casa es insuperable."
+    }, 
+    {
+      "date": "1 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Negroni", 
+      "text": "Muy buena la comida y la atenci\u00f3n. El precio es por un men\u00fa en el que estaba agregada la bebida y el postre. \r\nRecomendable."
+    }
+  ]
+}

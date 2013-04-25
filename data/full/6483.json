@@ -1,0 +1,548 @@
+{
+  "malos": [
+    {
+      "date": "23 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Haruchin", 
+      "text": "Fuimos a comer al mediod\u00eda, Pedimos mostacholes con salsa rosa y las pastas parec\u00edan de paquete, muy lejos de ser caseras. Los postres muy escuetos, la ensalada de trutas ten\u00eda semillas. La atenci\u00f3n es buena, pero el men\u00fa ejecutivo no respeta el descuento de club la naci\u00f3n"
+    }, 
+    {
+      "date": "11 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "JorgeLoRey", 
+      "text": "Este restaurant lo unico que tiene de italiano es el nombre. Fui con mi esposa un domingo al 1/2dia. Pedimos de entrada berenjenas a la parmesana para compartir. Estas estabas cortadas gruesas crudas y  sin sabor sabor. De principal yo pedi risotto de gambas, estuvo bien. Mi mujer eligi\u00f3 la  lasagna, sinceramente incomible. La salsa supuestamente \"bolognesa\" me hizo acordar a la de la colimba. No lo recomiendo."
+    }, 
+    {
+      "date": "16 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "luckana", 
+      "text": "no tienen ni acceso ni ba\u00f1os para discapacitados (mentirosos)  el risotto di funghi acido  el maiale feo los postres bien las bruschetas muy buenas"
+    }, 
+    {
+      "date": "22 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "chinchula", 
+      "text": "El lugar es lindo y sentarse al lado del r\u00edo en Puerto Madero siempre es divertido. La panera parec\u00eda buena a simple vista, pero el pan estaba viejo. El segundo mozo que nos atendi\u00f3 no nos mir\u00f3 al entregarnos los platos 4 minutos despu\u00e9s de haberlo pedido, los tir\u00f3 encima de la mesa, tuvimos que pedirle hielo por segunda vez, queso rallado y aceite de oliva. Mi plato estaba sin gusto, solo un fuerte olor a alcohol del oporto sin diluir. Los fideos de mi marido estaban extremadamente picantes y ni se sent\u00edan los tomates secos. Pedimos la cuenta y salimos despavoridos, no volveremos."
+    }, 
+    {
+      "date": "23 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Lor1427", 
+      "text": "Pedimos unas verduras grilladas de entrada y el 70% de las mismas vinieron crudas, no hay nada m\u00e1s desagradable que una berenjena dura y sin sabor. Luego para los platos principales pedimos una milanesa con papas al horno y unos ravioles de abadejo con la masa de tinta de calamar. Estuvimos una hora esperando y cuando finalmente llega el mozo con los platos, nos trae unos sorrentinos de jam\u00f3n y queso (que no pedimos!) y los ravioles todos rotos, con el relleno abierto y mezclado con la salsa; un espanto! Devolvimos los platos y pedimos la cuenta. No lo recomiendo!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "herno7", 
+      "text": "Los ravioles de salmon exquisitos. Pero esta caro. Si hace calor esta espectacular comer afuera. Adentro no esta bueno: ruido y poco espacio."
+    }, 
+    {
+      "date": "22 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mayfair", 
+      "text": "Evidentemente tuvieron un cambio importante, los platos son abundantes y servidos a punto. Precios razonables, atencion esmerada y una muy buena carta de vinos."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "hombrehumano", 
+      "text": "del 1 al 10 y aprobando con 6, le pongo un 6.  Cumple y ya, no pidas una  atencion esmerada. Comida bien .   comimos una entrada entre 2, un vino de 80 , agua, 2 platos , un postre. Descuento de de club LN , salio 270 ya aplicado el desc     En sisntesis  va bien,  ni mas ni menos. Pero tuve mejores cenas en terminos grales , por misma $."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "null", 
+      "text": "muy bueno! la atenci\u00f3n"
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "paigedavis", 
+      "text": "Fuimos con 5 amigos a la noche. La comida y el ambiente son muy buenos - porciones enormes (para compartir), lindo lugar adentro y afuera. Sin embargo, tuvimos el peor servicio posible. Totalmente pat\u00e9tico. Esperamos 45 mins los principales, y cuando los trajeron ni pidieron disculpas. Igual cuando pedimos la cuenta. Una l\u00e1stima porque me gusta mucho la comida, pero con servicio tan lamentable no volver\u00e9 por un largo tiempo."
+    }, 
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pablomat", 
+      "text": "Fuimos en dos oportunidades y en ambas comimos muy buen a un muy buen precio. las porciones son muy abundantes y bien preparadas, los vinos a su justa temperatura, la atenci\u00f3n muy cordial, hicimos largas sobremesas sin que nadie nos apurara en absoluto. Muy recomendable, sobre todo para sentarse afuera y disfrutar del r\u00edo.\r\nVolveremos"
+    }, 
+    {
+      "date": "27 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "2comacinco", 
+      "text": "Una buena elecci\u00f3n para disfrutar un d\u00eda soleado junto a los diques y con la tarjeta de CLN u otro descuento en la mano. Como es de esperar los precios son elevados y la comida correcta y en porciones abundantes. Probamos los \u00f1oquis \"a la siciliana\" con una exorbitante cantidad de salsa de tomate y salchichas, y los canelones, con buen aspecto casero y rico sabor."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ladypato", 
+      "text": "Muy buen lugar.Nuy buena la comida, italiana.Excelente la carta de vinos y una buena atencion. La ambientacion es muy linda, con mesas con vista a a los canales de Pto Madero. Hay que reservar con tiempo ya que el lugar es peque\u00f1o, Lo recomiendo!"
+    }, 
+    {
+      "date": "5 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "TinRona", 
+      "text": "Lindo lugar, ubicado en una linda zona con vista al r\u00edo. Buena comida, buena atenci\u00f3n. Recomiendo reservar con anticipaci\u00f3n ya que es un lugar chico y se llena r\u00e1pido. Los precios son acordes. Vale la pena conocerlo."
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Oliveria", 
+      "text": "Concurrimos habitualmente porque las pastas son excelentes.....pero la \u00faltima vez nos cobraron $14 pesos de servicio de mesa por persona??? Realmente no lo vale...."
+    }, 
+    {
+      "date": "27 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Tolkin", 
+      "text": "Fui al mediod\u00eda y me sent\u00e9 afuera en un d\u00eda soleado. Muy agradable el ambiente y la vista. Buena la atenci\u00f3n, pero le falta capacitaci\u00f3n al personal. Buena la comida (eramos tres) pero tambi\u00e9n le falta. No se si volver\u00eda."
+    }, 
+    {
+      "date": "21 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mayfair", 
+      "text": "Excelente opcion para el mediodi con menu de 2 platos a precio accesible. Muy buena la atenci\u00f3n y la calidad de los ingredientes. Solo aceptan pago en efectivo."
+    }, 
+    {
+      "date": "23 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jad138", 
+      "text": "Un lindo lugar en Puerto Madero, con precios un poco elevados aunque hay descuentos que lo hace mas accesible. El ambiente esta muy bien aunque es un poco ruidoso. La comida si bien no destaca es buena y sabrosa. La atenci\u00f3n es regular y es un punto a mejorar. Es un lugar como para ir de vez en cuando."
+    }, 
+    {
+      "date": "22 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "uruguay390", 
+      "text": "Un lugar aceptable. Buena comida. Linda vista. Mediocre atenci\u00f3n. Precios elevados sin el descuento de Club La Naci\u00f3n."
+    }, 
+    {
+      "date": "24 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pollybaires", 
+      "text": "Muy rico todo, me gusto mucho la ubicaci\u00f3n del lugar..."
+    }, 
+    {
+      "date": "24 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "monoono", 
+      "text": "Ya habia estado en otras oportunidades, y en cada una de ellas no me defraudo. Tiene ese toque romantico de ser una cantina pero muy aggiornada con la ubicaci\u00f3n geogr\u00e1fica. La comida la presentan en forma abundante, en su punto y con un muy exquisito sabor. Es recomendable la ensalada Ferrara, muy fresca y sabrosa, como tambi\u00e9n la polenta, creo que hasta a un ni\u00f1o le puede gustar, sabiendo lo dificil que es para un ni\u00f1o comerla. La atenci\u00f3n es destacable, est\u00e1n presentes pero sin molestar."
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kryku", 
+      "text": "Lugar peque\u00f1o pero agradable, comida muy buena. El precio nos parecio elevado teniendo en cuenta que las porciones no eran abundante."
+    }, 
+    {
+      "date": "1 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carola63", 
+      "text": "Excelente atenci\u00f3n, comida muy buena, el ambiente es algo reducido, pero la vista al dique le otorga un importante valor agregado.  Como el volc\u00e1n de chocolate no hab\u00eda salido en su punto ideal (con la lava que emana al cortarlo) lo cambiaron por otro que s\u00ed estaba \u00f3ptimo. Un gran detalle que los comensales valoramos y mucho."
+    }, 
+    {
+      "date": "20 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AnaJuan", 
+      "text": "Una carta muy variada entre pastas y carnes, con salsas convencionales y originales. La comida es riqu\u00edsima, por que la vale la pena el precio.\r\nEs chiquito el lugar, pero agradable y con buena vista e iluminaci\u00f3n."
+    }, 
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Alito04", 
+      "text": "Los platos son algo escasos y el servicio es poco esmerado. Por el precio y la zona deber\u00eda mejorar en este aspecto"
+    }, 
+    {
+      "date": "30 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "eldecolonia", 
+      "text": "MUy lindo lugar con unas vistas espectaculares de pto madero, la atencion es buena y la comida tambien es algo caro pero tiene descuento de la nacion que balancea un poco la cuenta, para volver"
+    }, 
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "notebook", 
+      "text": "La comida aceptable, aunque los \u00f1oquis no tenian sabor, o sea, mejorable. Buena atencion y una muy linda vista. Tienen 20 % de descuento con La Nacion"
+    }, 
+    {
+      "date": "19 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fitt", 
+      "text": "Preferi las mesas que dan con vista al rio, ya que la noche estaba calida.-\r\nLa comida es muy buena , tanto en la elaboracion como en presentacion.Resalto la calidad de los productos y su frescura.-\r\nBien logrado.-"
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Astarte", 
+      "text": "Si bien hab\u00eda pasado varias veces por la puerta nunca hab\u00eda entrado. Pero llevada por los comentarios de Guia Oleo y por tener descuento por el Club La Nacion decid\u00ed ir a conocerlo. Me gust\u00f3 mucho la comida, especialmente las pastas y el volc\u00e1n de chocolate. Tiene muchas mesas afuera y por supuesto una vista bien linda. Comentario aparte para los exquisitos pancitos de jam\u00f3n."
+    }, 
+    {
+      "date": "9 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "puccini", 
+      "text": "Las entradas estupendas.\r\nLos platos principales, en nuestro caso, pastas, excelentes, porciones muy abundantes.\r\nLos canolis eran seg\u00fan receta, con masa frita.\r\nLa temperatura del vino muy adecuada. Excelente cava.\r\nAtenci\u00f3n muy cordial."
+    }, 
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guirico", 
+      "text": "Muy bueno todo. ahora,la muy buena carta de vinos se ve totalmente opacada por los precios abusivos que tiene. realmente incomprensible."
+    }, 
+    {
+      "date": "2 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Con una vista excelente, una atenci\u00f3n esmerada y una muy buen cocina Il fiume logra que el comensal se sienta s\u00faper c\u00f3modo.Es un lugar para ir y disfrutar. Recomendable adem\u00e1s por los precios."
+    }, 
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida es buena y abundante la atenci\u00f3n es esmerada y buena vista al dique. Los precios no son caros."
+    }, 
+    {
+      "date": "14 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "eldoto", 
+      "text": "La comida es muy sabrosa y de muy buena calidad,al igual que los postres.El ambiente es exageradamente ruidoso y ademas el ba\u00f1o se comparte ante ba\u00f1o entre mujeres y hombres produciendo mucha confusi\u00f3n y resultando realmente inc\u00f3modo.La carta de vinos es variada pero los precios son exagerados.En definitiva todo lo que acompa\u00f1a al la muy buena comida no es bueno,una l\u00e1stima."
+    }, 
+    {
+      "date": "8 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "monoono", 
+      "text": "no es de los retaurantes con pretenciones de ser gourmet, \u00e9ste solo tiene la pretencion de ser bueno y logra ser casi gourmet"
+    }, 
+    {
+      "date": "10 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "vivid", 
+      "text": "Servicio excelente en un muy buen lugar con una atractiva vista al r\u00edo y buena comida."
+    }, 
+    {
+      "date": "17 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "malalo", 
+      "text": "Muy buena la opcion de menu ejecutivo al mediodia. Se llena al aire libre con dias soleados. Recomiendo el rissotto y las pastas en todas sus variantes, son especialistas."
+    }, 
+    {
+      "date": "29 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nicotyp", 
+      "text": "Muy buena relaci\u00f3n precio calidad. Excelentemente ubicado para estar en un lugar agradable sin las congestiones de otros barrios porte\u00f1os. Muy buena atenci\u00f3n, porciones abundantes. Vale la pena"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pach", 
+      "text": "Muy buena opci\u00f3n para comer riqu\u00edsima comida italiana, con opci\u00f3n de comer en la terraza, junto al dique."
+    }, 
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dauphine", 
+      "text": "Muy buena comida italiana preparada a la vista y 100% en el momento\r\nLa atenci\u00f3n es correcta y el lugar agradable para disfrutar con una vista al Dique espectacular.\r\nVamos seguido y para nosotros es el \"Ristorantino\""
+    }, 
+    {
+      "date": "12 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fekan", 
+      "text": "Muy buenas pastas al borde del dique. La atenci\u00f3n bien y los precios se ajustan al servicio y calidad que uno recibe. De 1 a 10 un 7,5"
+    }, 
+    {
+      "date": "27 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "javier_canta", 
+      "text": "Fui unas 2 o 3 veces al mediodia y 2 o 3 a la noche. Al mediod\u00eda el menu excepcional un dia habia chorizo a la pomarola, uh q placer. A la noche siempre pedi pollo a la capri, increible el sabor de ese plato. El lugar muy agradable los precios baratos por la zona donde se encuentra o sea elevados pero razonables. Y la atenci\u00f3n siempre muy bueno. Una de las veces tuve que esperar unos 10 minutos y nos sirvieron una copa de champagne . MUY RECOMENDABLE. Igual hay unos meses que no voy, espero volver pronto y encontrar la misma atenci\u00f3n."
+    }, 
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "iecapici", 
+      "text": "Muy buena cocina italiana con una ambientaci\u00f3n ideal para parejas. No es recomendable ir en grupos grandes (m\u00e1s de 4), ni con bebes con carritos ya que el lugar es chico y tiene poco lugar de tr\u00e1nsito. Los platos est\u00e1n muy bien servidos (casi abundantes). Correcta selecci\u00f3n de vinos, pero no muy extensa. Muy buena atenci\u00f3n aunque por el poco lugar entre mesas la tarea del mozo se torna molesta para el comensal . Los toilletes comparte lo lavabos para hombre y mujeres (situaci\u00f3n no muy agradable para estas \u00faltimas).\r\nRecomiendo: el vulcano di cioccolato."
+    }, 
+    {
+      "date": "19 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "allebanaam", 
+      "text": "Buenisimo , super recomendable este restoran!.."
+    }, 
+    {
+      "date": "10 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pablomat", 
+      "text": "Excelente lugar, comida excelente y muy abundante,\u00e9xcelente carta de vinos, lo recomiendo, pagamos con club la naci\u00f3n y con tarjeta"
+    }, 
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Rodolfo_Lopez", 
+      "text": "La atencion es muy detallada y calida, los platos son abundantes y las salsa excelente. El unico detalle a remarcar es la mesa en si, vasos de vidrio pesados y grandes, en vez de copas, muy poca iluminacion, cabe destacar que comiamos afuera, pero aun asi podrian mejorar en ese aspecto, donde precisamente comer frente al rio es una de las cosas que se destacan, mas alla de eso puntual el lugar es muy recomendado"
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SonyAlves", 
+      "text": "Excelente la atenci\u00f3n. La comida esta en su punto justo.  Los fideos con estofado de cordero imperdibles.  No ten\u00edan el vino que hab\u00edamos elegido... pero la moza enseguida propuso otro el cual nos gust\u00f3.  Un lugar para recomendar."
+    }, 
+    {
+      "date": "25 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "chicho_n", 
+      "text": "Una buena experiencia, con altibajos. Comimos un risotto de frutos de mar y un cordero con hongos sobre risotto al lim\u00f3n. Ambos estaban realmente deliciosos, sobre todo el primero, genial! El lugar est\u00e1 bien ambientado, con cocina a la vista, pero al ser peque\u00f1o se torna MUY ruidoso cuando est\u00e1 lleno, una lastima por la excelente vista al r\u00edo, la cual presta para relajarse. Un capitulo aparte merece el mozo, aunque simp\u00e1tico (?) no tenia idea de nada, era un ente, no respond\u00eda, nos queria convencer de pedir una bebida aparte del vino cuando no la deseabamos. Por la comida, es para volver."
+    }, 
+    {
+      "date": "6 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Excelente lugar, servicio y cocina, el conejo estaba muy bien realizado"
+    }, 
+    {
+      "date": "24 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tuco2012", 
+      "text": "muy lindo lindo lugar, la comida es excelente aunque la atencion del mozo deja un poco que desear, la vista al rio es hermosa y da para relajarse y disfrutar, para ir de vez en cuando"
+    }, 
+    {
+      "date": "2 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rasa", 
+      "text": "Al mediod\u00eda de un d\u00eda lindo se disfruta al m\u00e1ximo el lugar al lado del r\u00edo en un espacio para disfrutar. La comida es abundante y muy gustosa, desde las pastas hasta los pescados. Vale la pena ir"
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FELUCHO", 
+      "text": "Buen lugar al aire libre, bruschetas para compartir igual que algunos pescados ... las pastas, si te gustan, no las compartas!!Sal\u00eds satisfecho a precios razonables."
+    }, 
+    {
+      "date": "7 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Jhonie", 
+      "text": "Muy buenos platos. Gran atenci\u00f3n. Recomendable y para volver."
+    }, 
+    {
+      "date": "19 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pulpo", 
+      "text": "Excelente comida con platos y presentaciones muy originales. Servicio de lo mejor, l\u00e1stima que el ambiente es muy ruidoso. La cava es excepcional.Muy buena relacion precio/calidad ya que los platos son compartibles."
+    }
+  ]
+}

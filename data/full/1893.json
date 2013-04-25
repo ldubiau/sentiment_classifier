@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "6 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Maxemm", 
+      "text": "el lugar es fuera de lo tradicional , exelentes son la clases de tango  previas a la cena , el lugar me parece un tanto peque\u00f1o pero la atencion es buena"
+    }, 
+    {
+      "date": "15 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vale3012", 
+      "text": "El lugar es excelente. El show de tango es un recorrido por las diferentes epocas del baile argentino. \r\nRecomiendo los sorrentinos de calabaza, inigualables!"
+    }, 
+    {
+      "date": "11 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Fertxu", 
+      "text": "Regular. El ambiente est\u00e1 bien, el show bien, pero el lugar es recontrachico."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "karly", 
+      "text": "Buena atenci\u00f3n, muy buen show. Realmente recomendable, a buen precio con canilla libre inclu\u00edda."
+    }, 
+    {
+      "date": "23 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pasmo18", 
+      "text": "Excelente show, todo muy cuidado."
+    }
+  ]
+}

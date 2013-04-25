@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "14 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "fabs", 
+      "text": "Terrible food with a lot of fat on it. No salt. I went there because I was passing by and starving."
+    }, 
+    {
+      "date": "26 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "juliape", 
+      "text": "malo. cuando estaba terminando el sandwich (que estaba sequito)lo abr\u00ed y vi hongos en el jam\u00f3n crudo."
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "tanieta", 
+      "text": "el lugar es bueno,el servicio lentisimo,la ensalada tenia champignones de lata y en lugar de panceta(como decia el menu)tenia jamon cocido, los ravioles (incomibles) fueron cambiados por una milanesa apenas aceptable, malisimo."
+    }, 
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "marzo66", 
+      "text": "Horrible. Muy mala comida y car\u00edsimo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "garrote007", 
+      "text": "la pizza es rica \r\npero vino hecha un cubito osea muy fria,\r\nel camarero parecia que jugana al pan y queso \r\n2 horas para todo. es un bar moderno de muchos otros nada dle otro mundo y teniendo en cuenta como esta todo de caro que dos personas coman bien y sobre por 60 pesos esta bien."
+    }, 
+    {
+      "date": "28 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cangre", 
+      "text": "es un exelente lugar de decorados muy buenos ambiente bueno lo mas lindo los postres muy hermosos y abundantes"
+    }, 
+    {
+      "date": "20 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "juandomingo", 
+      "text": "Es un lugar que verdaderamente no se como sigue en pie. he ido ya varias veces y siempre me pasa lo mismo (si, se que soy un tonto). la atenci\u00f3n deja mucho que desear y la comida brilla por su ausencia. no lo recomiendo para nada."
+    }, 
+    {
+      "date": "13 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ruchilu", 
+      "text": "La comida es buena, la atencion es excelente, soy asiduo cliente de este lugar y me atrevo a decir que la atenci\u00f3n es de la mejor que me ha tocado, vuelvo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lukitas18", 
+      "text": "muy buena atencion comida muy rica y economica acomparacion con los restaurant que se encuentran en la zona y los postres son los mejores"
+    }
+  ]
+}

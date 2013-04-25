@@ -1,0 +1,448 @@
+{
+  "malos": [
+    {
+      "date": "14 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "lulufd", 
+      "text": "Pesima atencion, todavia estoy esperando en famoso pan de pizza y las copas de champagne que ofrecieron cuando entramos.\r\nLa comida mala, muy caro, tardaron mucho en traerla, no tengian vino balnco para acompa\u00f1ar las pastas.\r\nEn fin, una noche para el olvido"
+    }, 
+    {
+      "date": "19 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Salida", 
+      "text": "La pizza parecia de freezer y el servicio dejo mucho que desear, el ambiente estaba bueno pero no es para recomendar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "romemarcosca", 
+      "text": "Ideal para ir en pareja, un hermoso ambiente con muchas velitas, luces tenues y muy rom\u00e1ntico. para ver la carta te prestan una linternita. Rica pizza combinada con cerveza.  Esta ubicado en una barrio de Nu\u00f1ez  solitario y tranquilo."
+    }, 
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "arielventura", 
+      "text": "No ibamos a entrar porque de afuera parecia chiquito y vacio.- Por suerte entramos. La comida es excelente. Gran variedad de pastas y salsas. Gran variedad deCrepes. Pizzas de mil maneras diferentes. \r\nEl ambiente es muy intimo, romantico, calido. Muy bonito. \r\nEl servicio 10 puntos.Muy atentos siempre disponibles.\r\n\r\nSaber que es un poco caro"
+    }, 
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "VamoAKD", 
+      "text": "Excelente ambientaci\u00f3n, muy lindas las ara\u00f1as estilo \"vintage\", se les va la mano con la iluminaci\u00f3n (te dan linterna para ver el menu... original, pero la verdad prefiero un poco m\u00e1s de iluminaci\u00f3n) La atenci\u00f3n excelente, muy educada y servicial sin ser invasiva. Y el precio razonable. Para mejorar: ped\u00ed carpaccio de pulpo y no ten\u00edan, m\u00e1s tarde tampoco tuvieron... helado de crema americana. Igual pas\u00e9 bien y volver\u00eda."
+    }, 
+    {
+      "date": "6 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pablocuell", 
+      "text": "Lindo lugar en un zona muy tranquila de Nu\u00f1ez, casa antigua con luces muy tenues y velas, la pizza bien pero un tanto cara. Ideal para ir en pareja y pasar una linda noche en un lugar rom\u00e1ntico."
+    }, 
+    {
+      "date": "31 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "TOM_DM", 
+      "text": "Muy buen lugar para ir en pareja! La pizza es muy buena y la atencion excelente. Lo mejor, la ambientacion! Ademas esta en un barrio muy lindo y tranquilo."
+    }, 
+    {
+      "date": "21 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "armandoprado69", 
+      "text": "Super rom\u00e1ntico con luces muy tenues y a la luz de las velas, ideal para ir en pareja, para leer la carta te dan una linternita. Muy lindo como est\u00e1 ambientado. La pizza estuvo muy buena y la atenci\u00f3n excelente. Esta ubicado en un lugar muy tranquilo y apartado en el barrio de Nu\u00f1ez. Sin duda para volver, aunque los precios son un poquito caros,pero vale la pena."
+    }, 
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maldmariana", 
+      "text": "Me gusto mucho el lugar casa antigua con luces muy tenues y un ambiente s\u00faper c\u00e1lido, en una zona de Nu\u00f1ez m\u00e1s que tranquila, ideal para ir en pareja. Atenci\u00f3n muy buena y la pizza muy rica. Muy RECOMENDABLE."
+    }, 
+    {
+      "date": "1 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Claytton", 
+      "text": "La ambientaci\u00f3n es hermosa, la comida es muy rica, pero es car\u00edsimo"
+    }, 
+    {
+      "date": "6 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Draki", 
+      "text": "Fui a cenar con mi esposa y una pareja amiga. La comida es buena y la atenci\u00f3n muy correcta y adecuada al lugar. Pero lo m\u00e1s destacable es la hermosa y refinada ambientaci\u00f3n, que hace que uno quiera tomarse su tiempo y extender la sobremesa. Los ba\u00f1os son lindos y limpios. Algo caro, pero vale la pena."
+    }, 
+    {
+      "date": "27 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nicojgn", 
+      "text": "Muy buena experiencia vivi en Mandarina\u00b4s. El lugar esta muy bien ambientado, con excelentes detalles como las velas en las mesas, la ara\u00f1a imponente al entrar y la linterna que traen junto con la carta. Comimos pasta y nos gusto, especialmente los ravioles a la gamberoni con camerones. Recomendable para algun festejo intimo o para una salida romantica."
+    }, 
+    {
+      "date": "20 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mmaiola", 
+      "text": "El lugar es muy agradable y la comida es buena pero pagar $160 por una pizza y un litro de cerveza me parece un disparate. No comimos ni entrada, ni postre. Encima, la pizza mas grande es de 6 porciones.\r\nSol\u00edamos ir con mi pareja porque es un lugar muy agradable, pero seguramente esta fue la \u00faltima vez. Si no fuera por los valores de los platos el lugar es recomendable."
+    }, 
+    {
+      "date": "4 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "gcaldeiro", 
+      "text": "Excelente para ir en pareja, la atenci\u00f3n fue muy destacable y el postre maravilloso. La comida esta bien pero podria mejorar un poco y la carta de vinos podria ser un poco mas completa. Pienso volver!"
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "perezgd", 
+      "text": "El lugar es increiblemente rom\u00e1ntico, mesas bien separadas. La pizza muy rica, pero no \u00fanica. Lo qu menos me gust\u00f3? Los precios. Muy caro. Creo que cobran m\u00e1s el lugar que la comida."
+    }, 
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "xdamian", 
+      "text": "La verdad que esperaba un poco m\u00e1s de Mandarina\u00b4s, especialmente por lo que cobran. Una pizza chica y 2 cervezas =120. Me sorprendi\u00f3 que no tuviesen cerveza tirada (es lo m\u00ednimo que espero en un lugar as\u00ed) y encima la que ped\u00ed no estaba suficientemente fr\u00eda. La verdad que la pizza no ten\u00eda nada diferencial respecto a otras de la zona.  Si bien el gesto de la copa de champagne ofrecida al llegar fue agradable, te la terminan cobrando con los $9 de servicio de mesa por persona. En fin, lamentablemente no lo puedo recomendar."
+    }, 
+    {
+      "date": "12 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Ezeqbarca", 
+      "text": "Buen descubrimiento de este lugar perdido en el barrio de Nu\u00f1es, ambientado en una casa antigua  y a la luz de las velas, la pizza excelente, la atenci\u00f3n muy buena con muy buena predisposici\u00f3n. Muy recomendable e ideal para ir en pareja."
+    }, 
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Ma_Fer", 
+      "text": "Excelente ambientaci\u00f3n, \u00edntimo y c\u00e1lido, recomendable para salir de los circuitos habituales."
+    }, 
+    {
+      "date": "1 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mivimu", 
+      "text": "Muy \u00edntimo y rom\u00e1ntico! Buena la comida...y una atenci\u00f3n prolija y cordial."
+    }, 
+    {
+      "date": "15 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Caronoemi", 
+      "text": "El lugar muy lindo, para ir en pareja, muy buena decoraci\u00f3n, es una casa antigua iluminada con velas, hay un piano y la primera vez que fui tocaron. Las pastas no me parecieron muy ricas, eran fideos de paquete, caro por ser eso. Vale la pena ir."
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cristiangabriel", 
+      "text": "Lugar muy agradable y las mesas ben puestas. Cenamos pizza y estaba deliciosa, la atenci\u00f3n no  profesional pero muy amable y cordial. Copa de champagne de invitaci\u00f3n."
+    }, 
+    {
+      "date": "12 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Rul0", 
+      "text": "Rico, nada del otro mundo. Pero el ambiente incre\u00edble. Muy lindo para ir en pareja. Por ah\u00ed mejor que para cenar es para ir a tomar y picar algo. Atentos con una copa de champagne de recepci\u00f3n."
+    }, 
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Elverde", 
+      "text": "Muy buena ambientaci\u00f3n con luz tenue, m\u00fasica suave y velas. El calzone es muy bueno y los precios acordes con el tipo de comida. Un buen gesto la invitaci\u00f3n de una copa de champagne como bienvenida."
+    }, 
+    {
+      "date": "5 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pacarg", 
+      "text": "Reserve anticipadamente, cando llegue, tuve que tomar unas pocas mesas que quedaban, la atencion muy buena y profesional, copa de vino la tuvimos que cambiar porque estaba malo, los ravioles abundantes y ricos, los postres, muy bien, seran las 2 guas minerales que me llevaron el precio por las nubes.... Ahh.la musica muy agradable. Ambientacion, excelente."
+    }, 
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "luca98", 
+      "text": "Lo mejor del lugar es la ambientacion, luz muy baja, velas, todo lo necesario para una cena romantica.  Comimos dos platos principales (pastas con salsas normales), dos gaseosas y un postre para compartir (cheese cake). Pagamos $125 entre los dos(bastante caro para haber comido pastas). Te regalan una copa de champagne la cual se cobran con el precio del cubierto."
+    }, 
+    {
+      "date": "6 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ArielVito", 
+      "text": "Es un muy buen lugar para ir en pareja, la comida es buena, si bien yo me pedi fuccile a los 5 quesos y era bueno, mejor fue el plato de mi novia, fuccile a la carbonara.\r\nMuy atentos al servir de entrada champagne y tablita. Las mosas muy atentas, lastima q despues de cierta hora ya como que el amontonamiento de gente hace que parezca que te quieran echar. Fuera de eso muy recomendable, ambiente muy oscuro, musica de fondo buena... el precio estaba bien, aunque podria ser un poco mas barato, mas por la cantidad que te sirven en el plato."
+    }, 
+    {
+      "date": "17 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "belapala", 
+      "text": "excelente opcion para ir en pareja\r\ntienen mesas afuera y en estos dias de calor es lindo comer en un lugar tranquilo , con velas , y con rica comida"
+    }, 
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Wendy", 
+      "text": "Me sorprendi\u00f3 mucho el ambiente q se vive en el interior de este local, pintado (por fuera) del color de la fruta que hace honor a su nombre. Una esquina alejada del circuito palermitano, con muy buenas opciones de pastas y pizzas. La iluminaci\u00f3n es bastante baja, pero te dan linternitas para leer la carta (buen detalle). Recomiendo \u00f1oquis de verdura con salsa bas\u00edlico y la pizza de banana (un manjar!). Tb. hay una de mandarina...habr\u00e1 q volver para probarla! Sugerencia: saquen de la playlist a los malditos Bossa \u00b4n..., por favor: suenan toda la noche (cualquiera de sus versiones)"
+    }, 
+    {
+      "date": "30 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mariaeg", 
+      "text": "es un hermoso lugar muy privado, y aunque es chico la gente de al rededor no molesta. La comida es muy rica y las mozas muy atentas y pendientes. volvimos y volveremos! muy recomendable"
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "malen_na", 
+      "text": "La COMIDA: le faltaba calor y cocci\u00f3n a las pastas, pero estaban muy bien presentadas. Las porciones no son abundantes pero s\u00ed suficientes. \r\nLa ATENCI\u00d3N: Muy desorganizado. Reclamamos 3 veces el pan y el queso lleg\u00f3 cuando est\u00e1bamos a mitad del plato. \r\nEl AMBIENTE: Muy rom\u00e1ntico, casi a oscuras, con mucha pero mucha onda. Tranquilo a pesar de estar lleno. Las mesas de afuera son solo para sentarse a tomar algo.\r\nMuy recomendable, aunque creo que habr\u00eda que apuntar directamente a la pizza con champagne que ten\u00eda muy buena pinta."
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lauamil", 
+      "text": "Nos encanto. Es un ambiente super romantico, ideal para ir en pareja. Para ser un lugar de champagne, les faltan algunas opciones, pero igual es un lugar sumante disfrutable. Volveremos"
+    }, 
+    {
+      "date": "13 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "dragoncito", 
+      "text": "La unica opcion q tenes es pizza o pizza , y buen a coemr pizza entonses buena pizza, siempre hay lugar siemrpe esta bastante vacio"
+    }, 
+    {
+      "date": "10 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Panito", 
+      "text": "El mejor ambiente para comer pizzas que puede haber. Excelente el detalle de las linternitas para ver la carta (de otra forma, ser\u00eda imposible verla!). \r\nEl servicio un poco lento, lo que se vio agravado por la ubicaci\u00f3n de nuestra mesa (pr\u00e1cticamente no nos ve\u00edan las camareras). Por lo dem\u00e1s, la pizza es excelente y el ambiente espectacular. Muy recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ctfafa", 
+      "text": "Muy bien atendidos por una troupe de se\u00c3\u00b1oritas colombianas, atentas y sonrientes.HEADSirven una variedad de pizzas muy novedosas, ricas.HEADDe postre, crepe de manzana muy lograda.HEADHEADEn general, nos pareci\u00f3 muy rico, un poquito lento porque estaba a full. HEADHEADEl precio parece caro porque hubo 1 postre (para dos)  y caf\u00e9, pero no tomamos vino."
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mariaeg", 
+      "text": "Muy lindo lugar! Es muy romantico, iluminado con velas y muy pocas luces, comimos pizza que es el concepto del lugar, muy rica, y la atenci\u00f3n es buena.. ya fuimos varias veces y volveremos!"
+    }, 
+    {
+      "date": "29 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gpais", 
+      "text": "Excelente lugar para cena romantica, las pastas excelentes y el pan de pizza de entrada es genial. Dan una copa de espumante de bienvenida. Los postres muy buenos."
+    }, 
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "natisole10", 
+      "text": "Que lindo lugar apartado de los circuitos gastron\u00f3micos. Luces tenues a la luz de las velas en una casa antigua, buena atenci\u00f3n y la pizza muy rica."
+    }, 
+    {
+      "date": "23 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "elmund", 
+      "text": "Todo muy rico, desde el pan de pizza, despues pedimos una ensalada de champi\u00f1ones que estaba muy buena, yo comi unos pennes mandarina\u00b4s cafe o algo asi que estaban muy buenos y mi mujer comio unos crepes que le encantaron, lo unico malo fue que la cerveza estaba a temperatura ambiente. volvere a probar la pizza!!"
+    }, 
+    {
+      "date": "7 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "IvanJarazo", 
+      "text": "Muy buena ambientaci\u00f3n musica y velas tienen objetos de decoracion que son interesantes,comi un cheescake muy bueno para recomendar ya que muy pocos lugares tienen cheescakes frescos al igual que la torta de chocolate y tome unas bebidas y tambien me ofrecieron el champagne. Precio acorde a la cantidad."
+    }, 
+    {
+      "date": "5 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "latrus84", 
+      "text": "Ideal para parejas!"
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "solana", 
+      "text": "La verdad que hace mucho que no voy a un lugar asi! El ambiente tranquilo y relajado, para ir en pareja! Muy bueno el ambiente con velas! No se llena de gente y ponen una musica relajante y linda. \r\nLa comida muy pero muy rica (pizza al aglio), bien finita y a la parrilla! La entradita que traen con pizzitas y pancitos riquiiisima! \r\nNos encanto la atencion de la moza, divina! Y ni hablar de la gentileza de la copa de shampagne!\r\nLa verdad que un lugar aislado y muy bueno para ir en pareja, donde se la pasa bien y es super tranquilo! 100% RECOMENDADO!"
+    }, 
+    {
+      "date": "15 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ilgallito", 
+      "text": "La verdad que es un lugar con toda la onda para ir con tu pareja a tomar algo, muy lindo ambiente, todo oscuro con velitas... yo me pude sentar en una mesa especial que es con tipo un reservado... la comida es muy buena y el precio esta bien... los pancitos de entrada de pan de pizza son riquisimo..\r\nmuy recomendable!! saludos"
+    }, 
+    {
+      "date": "29 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rodri_fco", 
+      "text": "Excelente las pastas. Ya fui dos veces y son de muy buena calidad. El servicio no es bueno, la comida tarda en venir y los mozos no son los mejores. \r\nMuy ricos los pancitos que te sirven. Si no fuera por estos y por la copa de champagne que nos invitaron el servicio ser\u00eda malo.\r\nEl ambiente es el mejor para ir en pareja, oscuro, con velas, muy rom\u00e1ntico. \r\nPrecio acorde a la calidad de la comida."
+    }, 
+    {
+      "date": "21 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ricciardelli", 
+      "text": "Las pastas y la pizza son excelentes, el flan con crema delicioso, el ambiente es intimista, con m\u00fasica suave donde se puede charlar, muy recomendable para ir en parejas ya que la iluminaci\u00f2n es muy tenue, en cada mesa hay velitas.\r\nla atenci\u00f2n es esmerada, las pastas siempre a punto, nosotros concurrimos desde hace 2 a\u00f1os aproximadamente.\r\nEs para recomendar."
+    }
+  ]
+}

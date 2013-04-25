@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "tuso", 
+      "text": "el lugar agradable la comida buena mucho murmullo , el mozo un poco despistado le pide una cosa y me trae otra  un besugo $ 50- salsa $ 20 papas $20. un poco mas me cobran la gran cantidad de espinas que tenia"
+    }, 
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "PEPESA", 
+      "text": "El lugar es muy bonito, sorprende la carta de todo pizzas, milanesas, pescados, pastas mas acorde a un lugar de paso que a cocina especializada, desde la carta no se entiende la propuesta, sin embargo  lo sabroso de la comida y un precio razonable, hacen razonable probar si la misma calidad es para todo lo que ofrecen, en resumen para probar"
+    }, 
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "LauraLuna", 
+      "text": "El lugar est\u00e1 bueno pero tiene cosas, a mi criterio, q mejorar, porq da para ser m\u00e1s confortable de lo q es. Es comida de bodeg\u00f3n (pizza, minutas, pastas) con algunas pretensiones gourmet. Ped\u00ed cazuela de mariscos y pescado saturada de sal q no me gust\u00f3 (por la sal y le faltaba papa o alguna legumbre q contraste un poco), pero el matambre de mi novio estaba buen\u00edsimo. Por lo tanto creo q me confund\u00ed de plato, pero le tengo fe al resto de la carta. La ambientaci\u00f3n es lind\u00edsima, l\u00e1stima que ponen m\u00fasica fea y fuerte. Los mozos son muy atentos. Volver\u00e9 por otros platos, pero bajen el volumen!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rasa", 
+      "text": "El lugar es muy atractivo. Sorprende la carta por su amplitud, (abarca todo el espectro incluyendo pizza) lo que induce a creer poca especializaci\u00f3n, sin embargo las pastas que prob\u00e9 ( ravioles de salm\u00f3n a la putanesca) estaban perfectas, para felicitarlos. La carta de postres reducida. Vale la pena conocerlo!"
+    }, 
+    {
+      "date": "23 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Granagourmet", 
+      "text": "Muy buena carta, y platos exquisitos, a precios razonables. Habria que ampliar un poco mas la carta de vinos. Buena atenci\u00f3n, ambiente agradablemente decorado. Recomendable."
+    }, 
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leandroluna", 
+      "text": "La verdad que es un lugar excelente con un muy buen decorado. La comida en exquisita y a un precio muy razonable.\r\nSinceramente es un lugar para recomendar!!!"
+    }
+  ]
+}

@@ -1,0 +1,538 @@
+{
+  "malos": [
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "raulj", 
+      "text": "Fui con un grupo de amigos, seis en total, y pedimos una picada de las dos que habia para elegir. La idea era pedir la segunda al finalizarla.\r\nNos dio la impresion que abrieron la heladera y pusieron lo unico que encotraron, algunos fiambres de los mas comunes y de caseros nada. No pedimos la segunda porque no valia la pena.\r\nLa cerveza artesanal sin gusto. No vale lo que cobran ni lejos.Mejor elegir otro lugar."
+    }, 
+    {
+      "date": "4 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "juanyjesy", 
+      "text": "Veamos por donde empezar, fuimos despues de haber escuchado por radio del lugar asi que decidimos con unos amigos que era el rumbo indicado. El lugar es afable, peque\u00f1o pero agradable, con buena musica, sillas a la calle y un barrio muy tranquilo, fuera del circuito gastronomico. Cuando nos sentamos nos dimos cuentas que los precios eran altos 200 pesos una picada para 4, pero dijimos bueno por lo que pormetia la radio, aceptamos. La picada lejos de ser algo artesanal es algo que se puede comer en cualquier lugar de buenos aires por menos de la mitad, y la cerveza no esta tan buena."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Debbbi", 
+      "text": "El lugar tiene 2 contras importantes: 1. si bien la cerveza es rica, no la sirven lo suficientemente fria (ni siquiera traen los vasos frios como en otros lugares de cerveza artesanal). 2. los precios son rid\u00edculamente altos para lo que sirven - una picada no muy abundante ni variada con tres platitos de untables."
+    }, 
+    {
+      "date": "9 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "tararira40", 
+      "text": "Realmente una decepci\u00f3n !!! Encargamos una picada para 2 para retirar y sinceramente no puede calificarse como picada: carisimo, mal presentado (te la dan en una bandejita en una caja de pizza) y muy pobre. Puro queso y solo dos variedades. Ninguno duro o simi duro. Medias rodajas de lewer que practicamente estaban desechas por lo fino q las cortaron. Dos tetitas super finas de jamon crudo... en fin, no lo recomiendo para nada. Al menos para las picadas. No entiendo como pueden cobrar esa plata por algo tan  malo."
+    }, 
+    {
+      "date": "27 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "kissera", 
+      "text": "La verdad que no entiendo como puede tener buenos comentarios un lugar como este. El lugar es chico,con mal olor que se percibe apenas entras. La picada, carisima ($90 para dos personas) y de muy mala calidad. La cerveza,nada del otro mundo. Lo \u00fanico bueno es que no nos cobraron la degustaci\u00f3n de sus tres gustos (en la carta figuraba $25! la degustaci\u00f3n).Para destacar: el ba\u00f1o parece sucio y tenebroso, la pileta(una chapa doblada con un orificio a modo de desag\u00fce) es compartida, sin luz y te salpicas todo al lavarte las manos. El local no tiene ambientacion alguna,y esta muy descuidado.No vuelvo!"
+    }, 
+    {
+      "date": "18 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mondy1", 
+      "text": "El lugar es muy chiquito pero es lindo. Las chicas que atienden muy atentas, no asi el due\u00f1o, quien nos ubic\u00f3 en una sola mesa para siendo 4 adultos y un nene y habiendo mas mesas disponibles. Recien nos dieron otra mesa mas45 minutos despues, cuando nadie mas la ocupo. La comida no es mala pero me parecio un poco caro para el tipo de picada tan com\u00fan. 3 variedades de saleme jamon cocido y crudo y 2 tipos de queso. La cerveza rica pero nada del otro mundo, para ser artesanal."
+    }, 
+    {
+      "date": "24 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Black_Lion", 
+      "text": "Fui con dos amigos, no hay picada para tres, entonces pedimos una para dos. La moza nos sugiri\u00f3 pedir una para dos y luego una individual, pero la verdad es que el precio es excesivamente elevado y para terminar gastando 70 pesos en una picada para 3, me voy a otro lado. Tomamos una jarra de cerveza artesanal y dos chopps, gastamos algo de $84. \r\nLa picada no me gust\u00f3, es inaprobable que le pongan MORTADELA.. y los quesos no eran tan buenos. Nos quedamos con hambre.\r\nTampoco volver\u00e9."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Yasmin", 
+      "text": "me pareci\u00f3 caro y nos atendieron muy mal"
+    }, 
+    {
+      "date": "20 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mauchaca", 
+      "text": "Caro y escasa cantidad en las tablas."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pipocas", 
+      "text": "Rica cerveza de fabricaci\u00f3n propia (la mejor es la roja); ambiente c\u00e1lido atendido por sus due\u00f1os. El pianista le da un toque especial."
+    }, 
+    {
+      "date": "30 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "BarrioBajo", 
+      "text": "El espacio es onda bodegon, sencillo, poca gente. El se\u00f1or pianista es un viejo divino. La musica en vivo da un buen ambiente. Y que el due\u00f1o este un sabado a la noche leyendo un libro en la mesa del medio, es por lo menos pintoresco.\r\nLa Comida estuvo bien, una buena porcion, quizas no el mejor goulash.\r\nMuy rica cerveza, buen servicio en general. \r\nUn lugar para descubrir una noche fria de oto\u00f1o."
+    }, 
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Geli", 
+      "text": "S\u00f3lo 6 o 7 mesas que est\u00e1n todas en la vereda de una esquina, que no es precisamente limpia o agradable por su vista. La picada est\u00e1 bien, pero tampoco es gran cosa, (mucho queso, ninguno semiduro, poco fiambre y mucho pan). La cerveza es buena, pero con la excusa de lo artesanal te la cobran car\u00edsima. El personal es atento, pero desalineado, y ni siquiera te ponen un platito individual para apoyar los carozos de las aceitunas. No hay cubiertos. Todo el lugar es desprolijo y est\u00e1 venido a menos.  Resumiendo: disfrazados de bodeg\u00f3n de barrio, te cobran como si estuvieses en Puerto Madero."
+    }, 
+    {
+      "date": "29 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sotrete", 
+      "text": "Alma de bodeg\u00f3n donde la comida se cuece con el sabor de lo casero.\r\nProbamos la pierrade de verduras y carnes y no defraud\u00f3, aunque preferir\u00eda que el servicio indicara correctamente sobre como manejar la piedra y autococinarse. \r\nEl lugar podria estar m\u00e1s limpio pero as\u00ed est\u00e1 bien con la imagen que da.\r\nP\u00e1rrafo aparte para las cervezas de elaboraci\u00f3n casera. Si bien ya las hab\u00eda recontraprobado, tomarlas bien frescas y a la temperatura justa en la propia \"f\u00e1brica\" mejor\u00f3 mi estima sobre las mismas. No son maravillosas, pero para todo amante de las cervezas artesanales, al menos debe probarlas."
+    }, 
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LucasWG", 
+      "text": "Es una gran opci\u00f3n para pasar una noche c\u00e1lida en un ambiente intimista y familiar a la vez. Muy recomendable."
+    }, 
+    {
+      "date": "21 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "RichiRichi", 
+      "text": "Me pareci\u00f3 caro, la cantidad es buena, la calidad tambi\u00e9n, pero la variedad de la picada no era mucha. No defraud\u00f3 del todo pero probar\u00eda en otro lugar antes de volver."
+    }, 
+    {
+      "date": "17 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "reiven", 
+      "text": "Una cerveceria artesanal excelente. Todas las cervezas son buenas, pero la roja es excelente. Las picadas son buenas, me queda pendiente probar el gulash. \r\nEl unico detalle \"malo\" es que el piano que tienen en su interior esta muy desafinado y se torna molesto a los pocos minutos, pero tomando la cerveza afuera ese problema se subsana"
+    }, 
+    {
+      "date": "7 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adraugello", 
+      "text": "Fuimos a tomar una cerveza artesanal y la acompa\u00f1amos de una picada. Excelente opcion en verano y en lugar tranquilo como es Villa Urquiza.100 % recomendable."
+    }, 
+    {
+      "date": "20 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gesp_hotel", 
+      "text": "el ambiente muy bueno, me recomendaron las picadas pero nos dedicamos solo a beber su exquisita cerveza artesanal, la persona que nos atendio nos dio una breve explicacion de como la realizan y nos recibio con una degustaci\u00f3n de las variedades. Lo mejor, que el delivery llega a casa!!! ;)"
+    }, 
+    {
+      "date": "20 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gesp_hotel", 
+      "text": "muy bueno!!! la cerveza es muy rica, hasta la de trigo que no es mi preferencia!!! le tengo que dar una chance a la comida, ya que solo fui a beber!!!"
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Fui a tomar una cerveza y comer una picada despues del trabajo, los precios bastante caros y no habia picadas copadas para uno, asi que me pedi una cerveza artesanal que aunque rica... no estaba a la temperatura adecuada y unos untaditos, especie de mantecas de garbanzos, anchoas y pate acompa\u00f1ados por aceitunas verdes y negras y pan de pizza, la presentacion muy buena, y los sabores suaves pero nada del otro mundo. Lindo lugar para conocer y tomarse una cerveza, el ambiente es peque\u00f1o y el servicio correcto."
+    }, 
+    {
+      "date": "10 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cosicosi", 
+      "text": "Excelente el goulash. La picada no tanto pero se podia comer. El ambiente podria estar mas cuidado. La atencion muy esmerada."
+    }, 
+    {
+      "date": "10 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mldm", 
+      "text": "Una t\u00edpica esquina de barrio convertida en un apacible bar para disfrutar de buenas picadas y muy rica cerveza. Buen ambiente con musica en vivo y camareras muy atentas hacen que este lugar sea una muy buena opci\u00f3n para la zona."
+    }, 
+    {
+      "date": "24 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nartub", 
+      "text": "Fui con grandes expectativas de probar una buena cerveza artesanal y de comer una buena picada.\r\nLa cerveza es rica pero no es realmente nada del otro mundo, cuesta 30 pesos la jarra de litro y medio, creo que hay mejores opciones. En cuanto a la picada, tampoco fue lo que esperaba. Hab\u00eda dos tipos de quesos (uno era queso de m\u00e1quina), un par de salames, jam\u00f3n cocido y no me acuerdo mucho m\u00e1s. Adem\u00e1s era cara. Si vuelvo va a ser dentro de muuucho s\u00f3lo para ver si mejor\u00f3 en algo."
+    }, 
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "GabrielaGaviota", 
+      "text": "No es gran cosa.  Las tablas est\u00e0n bien, pero....falta variedad de fiambres, y los quesos... Sin duda est\u00e0 bien para tomar una cerveza en un lugar tranquilo con amigos, pero gastronomicamente no ofrece ninguna sorpresa.  Muchos recordaran un lugar de picadas en Recoleta \"sabores y Sentidos\" donde se podia tomar una copa de vino acompa\u00f1ada por pan casero del redondo y crujiente, chistorra, lomito aumado, quesos aumados y ciervo entre otros majares.   El queso cortado a maquina y la mortadela no deberian figurar entre los ingresdientes de una muy buena picada...ac\u00e0 sobraba. Mucho le falta...."
+    }, 
+    {
+      "date": "19 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "julietadb", 
+      "text": "Fuimos un dia de la semana a la noche,,muy poca oferta de platos, mejor dicho, nula.\r\nPicadas solamente y encima cariiiisiiimas!!!!!\r\nLa cerveza normal, nada de otro mundo...No volvere."
+    }, 
+    {
+      "date": "30 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "molcin", 
+      "text": "Excelente opci\u00f3n para compartir una picada entre amigos. La cerveza artesanal es riqu\u00ecsima!"
+    }, 
+    {
+      "date": "12 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MDB", 
+      "text": "\u00bfLo mejor? El Pierrade: Una piedra caliente con mecheros de gel combustible abajo en donde te cocin\u00e1s queso, huevo, verduras, tiritas de carne y de panceta. Buenisimo por la onda que tiene de comida participativa. La cerveza es bien rica... nada ESPECTACULAR... pero cumple sobradamente el objetivo (nos tomamos 3 jarras de 1.5 litros!). Muy bueno el guitarrista que ameniz\u00f3 la velada."
+    }, 
+    {
+      "date": "23 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lluhay", 
+      "text": "El lugar es excelente y las chicas que atienden son amorosas."
+    }, 
+    {
+      "date": "10 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Lale", 
+      "text": "Spanghler tiene una muy buena cerveza artesanal. Como buscador de dicho elixir, me qued\u00e9 muy conforme con el producto final. El ambiente es agradable y se disfruta el doble si el d\u00eda ayuda a salir a las mesitas de afuera.\r\nDe comer no ped\u00ed nada as\u00ed que no opino. No es el lugar, pero cumple su cometido.\r\nRecomendable."
+    }, 
+    {
+      "date": "15 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "josemat", 
+      "text": "Me gustan los bolichones y atra\u00eddo por la calificaci\u00f3n de la gente en Gu\u00eda Oleo fui a conocer el lugar.\r\nLes describo lo sucedido: el lugar no tiene ninguna clase de atractivo, una casa esquina com\u00fan, hecha un simple bar (sin barra), con un piso y techos llenos de manchas; todo el personal eran dos mozas, una chiquita de 10 a\u00f1os y un se\u00f1or con apariencia de due\u00f1o. \r\nPor supuesto a pesar de su buena voluntad no daban abasto con los pedidos que ten\u00edan que levantar, preparar y servir.\r\nLa picada, excepto un buen salam\u00edn y lomito, muy pobre. Con quesos muy comunes (\u00bfqueso de maquina?, ning\u00fan queso picante). La cerveza, buena hasta ah\u00ed. Todo esto por un precio/calidad muy alto. Pero lo que m\u00e1s nos asombr\u00f3 es la calificaci\u00f3n de 27 puntos que le pone la gente en la Gu\u00eda."
+    }, 
+    {
+      "date": "4 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "danielpi", 
+      "text": "Un lugar muy particular, tranquilo y cuando va la persona que toca el piano es todav\u00eda mejor. \r\nEl goulash de primera y la cerveza negra imperdible. \r\nFuimos muchas veces, ahora no tan seguido porque el men\u00fa se restringi\u00f3 bastante."
+    }, 
+    {
+      "date": "2 Jul 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mengue", 
+      "text": "Las picadas son excelentes y la cerveza muy rica. Los precios podr\u00edan mejorar un poco... son bastante caros."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "AmyLoo", 
+      "text": "fui el viernes despues de comerme un chasco horrible en una cevecer\u00eda q est\u00e1 cerca con mis compa\u00f1eros de trabajo y la pasamos barbaro.\r\nnos atendi\u00f3 el due\u00f1o, nos cont\u00f3 sobre la cerveza, probamos de 4 tipos diferentes y decidimos ir por una jarra de rubia para irnos rapido... terminamos tomando de la roja, rubia, negra  y la de trigo y comimos una picada q estaba buenisima!! el queso INCREIBLE.\r\nvolveremos!!"
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Chucuchu", 
+      "text": "Comimos una picada espectacular. Con fiambres y quesos riquisimos! Pero lo mejor, lejos, la cerveza! El due\u00f1o nos cont\u00f3 sobre la fabricacion y hasta haremos un curso para aprender a hacer cerveza en casa! Un lugar tranquilo, con linda musica, qe se puede conversar y pasar un rato muy agradable. La camarera fue muy atenta y nos aconsej\u00f3 sobre el tama\u00f1o de la picada.\r\nMuy recomendable!"
+    }, 
+    {
+      "date": "5 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dasi", 
+      "text": "El lugar es peque\u00f1o, c\u00e1lido. La cerveza de primera. Es uno de los pocos lugares que quedan con cerveza propia. La picada es abundante y el fiambre se nota que es de campo. Quiz\u00e1s le agregar\u00eda un queso semi duro. Los postres pocos. La atenci\u00f3n es cordial y sencilla. Fu\u00ed con un amigo a charlar y para eso es ideal."
+    }, 
+    {
+      "date": "24 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Caraca", 
+      "text": "Fuimos a celebrar con mi novia nuestro aniversario de compromiso y nos sorprendi\u00f3 gratamente el lugar. La atenci\u00f3n de Daniel es impecable. Las cervezas, fant\u00e1sticas!!! Y la picada, bien cl\u00e1sica, fue imponente. No hab\u00eda ning\u00fan ingrediente raro, s\u00f3lo embutidos y quesos tradicionales, todos mercedinos. En el gusto y en la cantidad reside la mayor virtud de la picada. 100% recomendable. El ambiente, muy peque\u00f1o. Se destaca su calidez y tranquilidad."
+    }, 
+    {
+      "date": "10 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AmyLoo", 
+      "text": "fui con un par de amigas y la verdad es q la cerveza est\u00e1 buenisima. Ten\u00edan hasta de trigo. La picada era abundante y variada, m\u00e1s rica de lo q esperaba.\r\nEl \"queso de maquina\", no es el queso de maquina q te venden en el super; salta en el paladar q no es un queso regular, tiene un alto gusto a l\u00e1cteo q otros quesos no tienen. Le pregunt\u00e9 a la camarera y me mostr\u00f3 los quesos enteros q usan para las picadas. Me dijo q eran de un convento o algo as\u00ed. Muy ricos.\r\nvolveremos"
+    }, 
+    {
+      "date": "15 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "maitas", 
+      "text": "la atencion fue excelente, ideal para una noche tranquila, el pierrade exquisito,variado, la calidad de todo fue excelente."
+    }, 
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rodenstein", 
+      "text": "la atencion es muy buena y el ambiente es muy intimo, totalmente recomendable."
+    }, 
+    {
+      "date": "17 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mr_Petersen", 
+      "text": "Muy buenas las cervezas y pierrade. Las recomiendo."
+    }, 
+    {
+      "date": "11 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Raqui", 
+      "text": "Muy buena la cerveza artesanal, una de las mejores que prob\u00e9. La tabla de fiambres y quesos para dos es abundante y muy variada. \u00a1Vale la pena!"
+    }, 
+    {
+      "date": "26 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Salva", 
+      "text": "Pocas veces se encuentra tan buen trato y tan genuino inter\u00e9s por el cliente. Excelente la cerveza negra y los fiambres."
+    }, 
+    {
+      "date": "31 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "edistefano", 
+      "text": "Muy lindo lugar para reunirse a charlar. Pocas mesas, ambiente sencillo y c\u00e1lido. \r\nNo se fuma, lo cual es un verdadero hallazgo. Muy buenos los fiambres."
+    }, 
+    {
+      "date": "30 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elpauer", 
+      "text": "La cerveza artesanal es buen\u00edsima, sale en el punto justo. Quiz\u00e1s le falte algo a las picadas, pero el sabor de todos los tipos de cerveza le da a Spangher un nivel muy bueno. El lugar es chiquito y la atenci\u00f3n es muy cordial."
+    }, 
+    {
+      "date": "28 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cyndy", 
+      "text": "La mejor cerveza artesanal que he probado. Sobre todo la negra. Sumamente recomendable."
+    }, 
+    {
+      "date": "23 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tanquetus", 
+      "text": "Muy buena la picada y la cerveza artesanal de primera. La negra es b\u00e1rbara."
+    }, 
+    {
+      "date": "20 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fugeelau", 
+      "text": "Spangher se pone aun mejor en verano, con las mesas afuera en una hermosa esquina de Villa Urquiza. \r\nEscuchando jazz, comiendo el mejor fiambre junto a la mejor cerveza es el plan ideal para una noche especial."
+    }, 
+    {
+      "date": "19 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "msolcrav", 
+      "text": "Es un lugar incre\u00edble, con productos \u00fanicos en Capital Federal. La atenci\u00f3n es excelente."
+    }, 
+    {
+      "date": "14 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pachugal", 
+      "text": "Muy buena atenci\u00f3n, excelentes las picadas de campo y los quesos por su calidad. \r\nMuy ricas las cervezas."
+    }, 
+    {
+      "date": "12 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carol1", 
+      "text": "Excelentes fiambres, una picada muy abundante, muy buena cerveza y unas camareras s\u00faper simp\u00e1ticas."
+    }, 
+    {
+      "date": "4 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "udaneri", 
+      "text": "Excelentes picadas y personal muy amable.\r\nHay m\u00fasica en vivo, dependiendo los d\u00edas."
+    }, 
+    {
+      "date": "21 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "apanciera", 
+      "text": "Fuimos 4 personas, tomamos cerveza artesanal, comimos una picada MUY abundamte de productos caseros (sobr\u00f3 un poco)y una mouse de chocolate, de vicio porque no pod\u00edamos comer m\u00e1s."
+    }, 
+    {
+      "date": "3 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PFAG", 
+      "text": "Se come muy bien, las picadas son abundantes, pero lo m\u00e1s importante es la calidad de los elementos que componen la picada. La cerveza es extraordinaria, en cualquiera de sus tres formas. \r\nLa atenci\u00f3n es muy buena, solo que como se prepara en el momento tarda un poquito pero ese tiempo uno lo emplea en degustar un rico pat\u00e9, una pasta de garbanzos y otra de pescado, muy suaves untadas en un pan calentito. \r\nLos sabados hay show, generalmente una pianista amiga de la casa."
+    }
+  ]
+}

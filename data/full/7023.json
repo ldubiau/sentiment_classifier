@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "5 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "misolmi", 
+      "text": "Este tipo de cafecitos peque\u00f1os y bien ambientados surgen como hongos en Belgrano, y siguiendo la tendencia, abri\u00f3 recientemente Torra Banus. Es un lugar lindo, con pocas mesas y comida agradable sin ser pretenciosa. Destaco el hecho de que ped\u00ed un frapuccino que me vino con la crema agria, y no s\u00f3lo me lo cambiaron, sino que me hicieron un descuento.\r\nVolver\u00eda, sobre todo para probar los helados."
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "estydeolivos", 
+      "text": "Un muy lindo lugar, muy buenos sandwiches y helados.\r\nEsmerada atencion del mozo Santiago, creo que ese era su nombre."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marpu", 
+      "text": "La ambientaci\u00f3n es muy moderna y agradable para estar y pasar el rato. Es un lugar muy acogedor a pesar de estar ubicado sobre una avenida, \u00e1mbito propicio para la charla. Podria tener mas mesas. En vidriera tienen unos tentadores postres que no hay que perderse. La atenci\u00f3n directa de los due\u00f1os es excelente. Recomendado: Sandwich Caesar.\r\nUna opcion para no perdersela"
+    }
+  ]
+}

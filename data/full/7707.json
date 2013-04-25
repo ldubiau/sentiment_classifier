@@ -1,0 +1,536 @@
+{
+  "buenos": [
+    {
+      "date": "10 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pirilo74", 
+      "text": "Los sandwiches estaban exquisitos. \nElegimos el lugar por la ubicaci\u00f3n y  el ambiente. La cordialidad no estaba incluida en el precio, al menos en esta visita."
+    }, 
+    {
+      "date": "31 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Elsibarito", 
+      "text": "El lugar es realmente hermoso. Para quedar muy bien en una salida de a dos. Pedimos pastas y no defraudaron. Buena atencion. Para pasar un buen rato!"
+    }, 
+    {
+      "date": "24 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "thebrightstar", 
+      "text": "Fui a desayunar un d\u00eda de semana y qued\u00e9 enamorada del lugar y los scons!"
+    }, 
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "piri", 
+      "text": "Me encant\u00f3! La comida y los postres son ricos, los tragos tambi\u00e9n. Muy buena relaci\u00f3n precio-calidad. El ambiente es excepcional."
+    }, 
+    {
+      "date": "13 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mencantaparis", 
+      "text": "Fui varias veces al mediod\u00eda, ya que trabajo a unas cuadras. Buen men\u00fa fijo con 4 alternativas, excelente relaci\u00f3n precio-calidad, muy bueno el caf\u00e9. El ambiente es inmejorable, decorado divinamente. Muy buenas las carnes con guarnici\u00f3n del men\u00fa, especialmente las guarniciones, que son cl\u00e1sicas pero siempre tienen alguna vuelta de tuerca."
+    }, 
+    {
+      "date": "27 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "umma2012", 
+      "text": "rivas es mi oasis dentro del microcentro, cuando no soporto mas la oficina y tengo ganas de almorzar en un lugar bien, no lo pienso, rivas es el lugar, y si vas acompa\u00f1ado sorprenderas gratamente a tu pareja o amigos. para almorzar solo hay cinco o seis platos que van cambiando, lo que en algun punto te lo hace mas simple. y a la noche tenes una carta completisima. recomiendo tomarse un trago si da el bolsillo, y probar los postres. la mezcla de san telmo, el ambiente hemingwayano, musica de fondo, calida atencion, te renueva el alma, lo recomiendo, tanto para almorzar como para cenar."
+    }, 
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "null", 
+      "text": "muy lindo lugar en san telmo. la carta es chica pero eficiente  probe el salmon, que estaba riquisimo. mi pareja probo las cintas mal cortadas, una pasta muy interesante. son pocos los restaurantes que tienen musica en vivo y esto ayuda a hacer cafe rivas una opcion unica en la zona."
+    }, 
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alizarin", 
+      "text": "Nos gust\u00f3 mucho la comida, muy fresca y si bien los platos no son a compartir, son justos y muy ricos. El ambiente muy agradable, las mesas no estan muy juntas.  Volveremos"
+    }, 
+    {
+      "date": "16 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "BlueGlue", 
+      "text": "Lind\u00edsima m\u00fasica (piano en vivo) y un ambiente y decoraci\u00f3n muy a lo Casablanca. Comimos unas cintas mal cortadas y un salm\u00f3n, ambos alucinantes. Lo mejor, sin embargo, los postres: la mousse de maracuy\u00e1 y la isla flotante se llevan todos los aplausos. \r\nBuena carta de whiskies tambi\u00e9n. \r\nPara volver."
+    }, 
+    {
+      "date": "4 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pirilo74", 
+      "text": "Ambiente agradable, buen servicio, los platos del d\u00eda se dejaron comer.\nImprescindible mejorar los sanitarios"
+    }, 
+    {
+      "date": "26 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "maria_jose", 
+      "text": "muy lindo lugar en san telmo! me encanto la ambientaci\u00f3n, cuidadosamente arreglada.  la limonada de gengibre y albahaca refrescante y perfecta para una tarde calurosa. La pesca del dia con pure de berenjas estaba sencillamente deliciosa!!"
+    }, 
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DamySasa", 
+      "text": "Fuimos a la tardecita por unas cervezas y un tapeo, la verdad una grata sorpresa el lugar muy lindo ambiente y una excelente atenci\u00f3n, las tapas una delicatesen, la carta de vinos whisky y dem\u00e1s bebidas espirituosas de muy buen nivel. Seguro volver\u00e9 en breve para almorzar ya que la carta nos gusto mucho."
+    }, 
+    {
+      "date": "17 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mateodesantelmo", 
+      "text": "Un lugar muy agradable, comida bunea (con un toque de creatividad) y servicio cordial."
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Vivante", 
+      "text": "Excellent atmosphere and good value food. Especially charming at night with the romantic low level lighting."
+    }, 
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "amapola_rosso", 
+      "text": "hermosa esquina de San Telmo, el carpaccio de lomo, los \u00f1oquis y el ojo de bife, riqu\u00edsimos. Recomendada la jarra de limonada con jengibre y menta. Piano de fondo, muy agradable!"
+    }, 
+    {
+      "date": "23 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "2comacinco", 
+      "text": "Precioso rinc\u00f3n de San Telmo. Cualquier plato mejora con ese ambiente cl\u00e1sico y con mucho estilo. Muy recomendables los \u00f1oquis con crema de espinacas y queso brie. La limonada es un punto alto."
+    }, 
+    {
+      "date": "23 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mariobros", 
+      "text": "Un rinc\u00f3n precioso, casi escondido del bullicioso domingo santelmitano. C\u00e1lido bistr\u00f3, con mucha madera, manteles de papel, vajilla informal, decoraci\u00f3n art nouveau, panera cl\u00e1sica, buena m\u00fasica de fondo. Atenci\u00f3n regular (especulan con llenar las mesas de 4 y dejan a clientes que vienen de a 2 colgados). El men\u00fa es todo atractivo. Precios razonables. \u00d1oquis con salsa de espinacas y brie $45, roast beef braseado en vino tinto c/portobellos $54, jarra de limonada $20.- Volver\u00e9 para desayunar o merendar unos scons o muffins con muy buena pinta con algunos de los variados t\u00e9s."
+    }, 
+    {
+      "date": "21 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "Una buena opci\u00f3n para merendar en un lugar acogedor, bello y bien cuidado. Adem\u00e1s se pueden degustar algunas de las creaciones de In\u00e9s Berton, aunque ser\u00eda interesante que indicaran c\u00f3mo se debe tomar cada t\u00e9. Lo \u00fanico que habr\u00eda que mejorar es la atenci\u00f3n que si bien es cordial, es un poco despistada. Sin embargo, es una buena experiencia."
+    }, 
+    {
+      "date": "1 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Manuel A", 
+      "text": "No tengo palabras. El lugar mejor decorado del mundo. Salido de 1000 fantas\u00edas posibles y humanas del imaginario irreductible de bistr\u00f3 plat\u00f3nico. Interiorismo, detalles y cuidados de la propia mano de God. Quiz\u00e1s god sea argentino."
+    }, 
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "plokato", 
+      "text": "muy bien todo y se puede comer todavia a las 4 de la tarde !!!"
+    }, 
+    {
+      "date": "8 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "carlos123", 
+      "text": "Buena sorpresa para San Telmo. Excelente ambientacion, muy buen servicio y comida cuidada. Inmejorable relacion precio-calidad"
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Musetta", 
+      "text": "Nos encant\u00f3. Conserva el esp\u00edritu de San Telmo pero, a diferencia de otros, tiene una ambientaci\u00f3n cuidada en cada detalle. La cocina es simple pero impecable con productos frescos y de calidad y ciertos toques gourmet. La carta de vinos muy cuidada y criteriosa. La atenci\u00f3n esmerada y cordial. Y lo mejor de todo es que el precio es acorde a la propuesta y no te \"castigan\" por estar en una zona tur\u00edstica"
+    }, 
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elmarce", 
+      "text": "Fuimos 4 personas y, si bien la carta es acotada, pedimos diferentes platos. Todos muy buenos. El lugar es calido y la atencion muy cordial. La relacion precio calidad es optima y por eso no considero un detalle relevante que pongan servilletas de papel, pero el marco de atencion/ambiente parace requerirlo. Para volver."
+    }, 
+    {
+      "date": "20 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "chiquitalinda", 
+      "text": "Primera visita desde su tercer reforma, la cocina mejor\u00f2, el ambiente sigue decorado con mucho gusto y acierto, y est\u00e0 un poco m\u00e0s caro. Los ravioles de rucula de mi pareja estaban increibles, igual que mis \u00f1oquis de plato del d\u00eca, muy sabroso, prolijo y cuidado. Los postres deliciosos. El servicio correcto..."
+    }, 
+    {
+      "date": "9 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "mayfair", 
+      "text": "Local chico pero muy tranquilo para conversar y muy bien ambientado excelente o para el 1/2 d\u00eda a un precio mas que accesible ($ 35) con 3 opciones de menu variado. La cocina esta a la vista y los platos salen rapidamente. La atenci\u00f3n es buena pero debe mejorar. Regresare de noche para comparar."
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Chanchi78", 
+      "text": "Lugar muy acogedor y bien ambientado en San Telmo. Excelente opcion de mediodia para un almuerzo tranquilo y distendido. La comida estuvo bien...correcta. El servicio fue atento.\r\nPara volver a conocer la propuesta de merienda!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Jotabe", 
+      "text": "Excelente cocina que armoniza con la esmerada atenci\u00f3n y lo cuidado del lugar. \r\n\u00a1Totalmente recomendable!"
+    }, 
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "floppylfc", 
+      "text": "La barra es excelente. Los tragos son preparados con los mejores ingredientes y respetando sus sabores. La comida es sumamente recomendable. El sandwich de salm\u00f3n, la ensalada de salm\u00f3n y el ojo de bife son exquisitos. La atenci\u00f3n es muy cuidada, y el ambiente es perfecto."
+    }, 
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eitzele", 
+      "text": "Excelente propuesta, una decoraci\u00f3n original que merece la visita. Buen men\u00fa y carta de vino. Lo mas importante excelente relaci\u00f3n precio calidad, demuestran quese puede comer muy bien y no es necesario gastar mucho"
+    }, 
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "michba", 
+      "text": "Excellent food! Very nice ambience. Especially loved the great salads, well-dressed and creative. My friends had pasta and loved it, too. Wonderful coffee."
+    }, 
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marianne30", 
+      "text": "muuuuy recomendado! el lugar es divino, aunque quiz\u00e1s un poco ruidoso, y la comida excelente. La entrada de langostinos y chipirones a la plancha con hongos y jam\u00f3n crudo es una buena raz\u00f3n para volver muchas veces."
+    }, 
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Polixa", 
+      "text": "Solamente por el risotto de cordero que com\u00ed ya se llevan todos los pergaminos, pero si a eso encima le sumamos la excelente atenci\u00f3n de los mozos y una ambientaci\u00f3n muy buena tenemos un nuevo favorito. Que no decaiga."
+    }, 
+    {
+      "date": "2 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vdychter", 
+      "text": "Muy buena propuesta!!!!\r\nMe encant\u00f3 el lugar... casi que te sentis en una pelicula de Woody Allen. \r\nComimos un risotto de cordero, pure de batata que era mundial!!! una entrada de berenjenas, una ensalada de salmon...\r\npufff que rico que estuvo :)"
+    }, 
+    {
+      "date": "17 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ignaciobelgrano", 
+      "text": "Realmente muy bueno. Una propuesta bastante bo-bo (del franc\u00e9s: burgu\u00e9s - bohemio) con todo acorde a este estilo: el men\u00fa, los mozos, el ambiente. Comimos muy bien y disfrutamos de una propuesta distinta en San Telmo, con un toque de arte....los fines de semana se arma una movida cultural a eso de las 11pm"
+    }, 
+    {
+      "date": "10 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "la_dolce_vita", 
+      "text": "Excelente propuesta! La entrada de langostinos y mollejas merece un aplauso. El risotto otro mayor, y el flan de chocolate blanco un beso al chef!\nIncre\u00edble todo, ya volv\u00ed dos veces mas!"
+    }, 
+    {
+      "date": "25 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "picnic", 
+      "text": "Alucin\u00e9."
+    }, 
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sagan", 
+      "text": "Muy linda esquina de San Telmo, excelente ambientaci\u00f3n, muy buena relaci\u00f3n precio-calidad. Recomiendo probar las endibias de entradas y el cordero como plato principal. Vuelvo pronto."
+    }, 
+    {
+      "date": "20 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Juvi", 
+      "text": "Un lugar genial para comer como los dioses y sentirse en otra epoca. \r\nLa comida nunca falla y el servicio excelente. Los jueves generalmente tienen musica en vivo, auque sea alguien tocando en el hermoso piano y a veces una banda completa."
+    }, 
+    {
+      "date": "24 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "null", 
+      "text": "muy buena atenci\u00f3n, el ambiente correcto, los platos no parecen abundantes, pero llenan"
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Argento1982", 
+      "text": "Excelente atenci\u00f3n, muy buena comida y un ambiente \u00fanico. La ambientaci\u00f3n es excelente!!!"
+    }, 
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "loretta11", 
+      "text": "Una sola palabra : genial ! Lugar mu yespecial, onda a\u00f1os 30 pero moderno. La sensacion de sentirse entre New York y Bs As. Carta corta pero muy completa: ensaladas frescas originales, risotto del mar, bife, milanesas, etc. Para picar te invitan a unos bocaditos de tortilla con cherries suculentes. Precio/calidad muy bueno. Vuelvo seguro!!"
+    }, 
+    {
+      "date": "4 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fil", 
+      "text": "Uno de los mejores de san telmo y de buenos aires"
+    }, 
+    {
+      "date": "3 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pipocas", 
+      "text": "Pedimos 2 ensaladas, muy buenas las 2. Una con camarones y la otra con rucula, queso brie y peras caramelizadas. Las dos muy buenas. El lugar es muy lindo y los platos de la carta parec\u00edan elaborados. Para volver y probar mas cosas."
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juansa174", 
+      "text": "Es la segunda vez que vengo. En sus platos, pese a que la carta es acotada, se destaca la elaboraci\u00f3n y lo acentuado de los sabores. Recomiendo el ojo de bife. El ambiente - especialmente por la m\u00fasica y la decoraci\u00f3n- te lleva por instantes a los a\u00f1os 50. El servicio es excelente."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Argento1982", 
+      "text": "Excelente atenci\u00f3n. Muy buen ambiente. Un lugar con muy buen clima y una atenci\u00f3n especial en cada detalle, tanto en la arquitectura como en la decoraci\u00f3n. Una hermosa esquina de San Telmo. 100% recomendado para ir a comer y disfrutar de un buen men\u00fa en un lindo lugar."
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gsember", 
+      "text": "Realmente me encanta este lugar y voy al menos una vez por semana. La comida mantiene una excelente relaci\u00f3n precio calidad, con platos accesibles y bien hechos. \r\nEn cuanto al ambiente, creo que no existe otro restaurant con esa calidez, con una decoraci\u00f3n simple y bien pensada en todos los detalles.\r\nExcelente lugar para hacerse habitu\u00e9! aunque tener alguna rotaci\u00f3n en la carta, como ser un plato del d\u00eda o de la semana ayudar\u00eda\r\nsuper recomendable"
+    }, 
+    {
+      "date": "27 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fepa", 
+      "text": "El lugar es fant\u00e1stico...no se parece a ning\u00fan otro. Un clima \"d\u00e9contract\u00e9\" en el coraz\u00f3n de San Telmo...la cocina es muy buena..\r\nMuy recomendable !!!"
+    }, 
+    {
+      "date": "22 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "madeinchina", 
+      "text": "Primera vez que voy y no paro de recomendarlo un hallazgo,. Es una esquina hermosa en pleno san  Telmo..la comida exquisita recomiendo el cordero confitado y el queso y dulce de postre. La atenci\u00f3n fue muy buena . Para recomendar!"
+    }, 
+    {
+      "date": "20 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "camifernandezrivas", 
+      "text": "Excelente el lugar, la comida, la atenci\u00f3n, en un momento en el entrepiso un musico tocando el piano. Algo mejor???\r\nSuper recomendable"
+    }, 
+    {
+      "date": "26 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fepa", 
+      "text": "El lugar es fant\u00e1stico, para no perd\u00e9rselo !\r\nLa comida result\u00f3 muy buena...El men\u00fa a un precio m\u00e1s que razonable.\r\nPara mejorar ? la atenci\u00f3n no fue muy \"profesional\"...\r\nPara recomendar !!!"
+    }, 
+    {
+      "date": "19 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "virgilia2", 
+      "text": "Est\u00e1 en la esquina de Estados Unidos y Balcarce, el lugar es muy c\u00e1lido, la comida es de buen precio y muy buena, atendido por su due\u00f1o..."
+    }, 
+    {
+      "date": "25 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Casalita", 
+      "text": "Excelente lugar! Fuimos recomendados por un amigo y super\u00f3 ampliamente nuestras expectativas. Los platos estaban bien presentados, llegaron a tiempo y fue un fest\u00edn de sabores. Vino de la casa, muy bueno. La perlita: los postres. Probamos varios de la carta y todos eran riqu\u00edsimos (especial menci\u00f3n para mousse de maracuy\u00e1). Ambiente ameno. Muy recomendable!"
+    }, 
+    {
+      "date": "24 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marianor", 
+      "text": "El espiritu del bodeon argentino, con una ambientaci\u00f3n excelente, delicada, en un lugar con el tama\u00f1o justo.  Un pianista que acompa\u00f1a muy bien. Revistas y decoracion que facilitan la charla.  Los platos llegan pronto, a tiempo y sin errores. Nos fuimos muy contentos."
+    }
+  ]
+}

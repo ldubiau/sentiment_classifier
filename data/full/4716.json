@@ -1,0 +1,388 @@
+{
+  "malos": [
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Hugo", 
+      "text": "No considero que deba crearse un restaurante mezclando un monton de objetos viejos para darle un aura retro . al menos si se prentende hacer eso que no cobren precios actuales ya que no se invirtio en decoraci\u00f3n\r\nel cafe es directamente agua con gusto y la atenci\u00f3n de la moza no es ni mala ni buena, es simplemente desganada. \r\ninsisto si se pretende cobrar como algo bueno debe ser bueno"
+    }, 
+    {
+      "date": "27 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "anamay", 
+      "text": "Fui ayer. No tienen tarjeta. No ten\u00edan Internet. Fui a tomar el t\u00e9 y no ten\u00edan casi nada a las 18.30 de un viernes. No me trajeron lo que ped\u00ed. La atenci\u00f3n muy floja. No vuelvo."
+    }, 
+    {
+      "date": "22 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "taniah", 
+      "text": "esta cerca de mi casa y cuando abrio esta feliz.  Fui a comer y me parecio muy muy floja la comida auqnue el servicio no tan malo.  Volvi a las semanas y el servcio cada ves era peor y la comida tambien.  La ultima ves ya era inaceptable la mala onda lo pesima que era la comida y la onda desinteresada de la gente trabajando ahi.  Lo unico bueno que le queda es el tecito y el wi fi.  Una lastima."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "franthames", 
+      "text": "Agradable decoraci\u00f3n, buena atenci\u00f3n, tipico lugar de palermo para desayunar"
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "flob", 
+      "text": "rico, casero, simple"
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alesavo", 
+      "text": "Un lugarcito de lo mas agrdable ,vivo por la zona pero no habia ido anteriormente, excelente opcion para un desayuno/almuerzo o te/cena muy buena combinacion, lo malo que no tengan tarjeta de credito es una pena porque es para ir con toda la flia, por favor que los camareros sonrian mas, lo merece el ambiente"
+    }, 
+    {
+      "date": "14 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ALMUDENA", 
+      "text": "muy bueno!! lo recomiendo, el personal un poco distraido pero bien !"
+    }, 
+    {
+      "date": "22 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Maddie", 
+      "text": "Es 1lugar prolijo, chiquito que se llena y es ruidoso la atenci\u00f3n es mala y dejada. Los productos en t\u00e9rminos generales son regulares a buenos, pero caros; fui varias a veces, sobre todo a desayunar, los minipancakes hay que evitarlos, salen quemados, no tan pancakes y realmente mini el cafe ligeramente aguado; las madialunas ricas. Sandwiches sabrosos. Es casi 1falta de respeto qel mismo producto q cobran a la ma\u00f1ana 1precio a la tarde lo cobren m\u00e1s caro, sin distinguir si quiera si es d\u00eda de semana o no. Antes era mejor,  despu\u00e9s de la mala atenci\u00f3n, caras de la moza y baja calidad no vuelvo"
+    }, 
+    {
+      "date": "10 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "nico78", 
+      "text": "Muy rica la comida y excelente la atencion de Griselda!!!"
+    }, 
+    {
+      "date": "15 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sandrotomo", 
+      "text": "Creo que en el formato oui oui hay mejores opciones, deber\u00edan mejorar y cambiar las opciones de la cocina."
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nicotete", 
+      "text": "Muy buen lugar, muy buena atencion. No dejar de pedir la limonada."
+    }, 
+    {
+      "date": "1 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CoconutSkin", 
+      "text": "Recomendable. Lo bueno: Se puede merendar cosas mas originales que en los cl\u00e1sicos lugares. El ambiente es lindo, aunque es chico. Me gust\u00f3 la musicalizaci\u00f3n, y no estaba tan alto el volumen.\r\nLo malo: Las mesas se juntan bastante por la cantidad de comensales que se juntan. El servicio deja bastante que desear por los precios, ped\u00ed caf\u00e9 con leche con unos mini pancakes con crema y frutas cortaditas (frutillas, kiwis, peras y manzanas), pero me trajeron primero los mini pancakes, y como 10"
+    }, 
+    {
+      "date": "8 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ggerrtner", 
+      "text": "Quiero aclarar, que tom\u00e9 solo un caf\u00e9 por la ma\u00f1ana, ya que estaba de paso.\r\n El lugar es agradable, bien ubicado y con m\u00fasica bien suave, lo cual no me molest\u00f3 para nada a la hora de leer el diario. \r\n Solo una cr\u00edtica,que si la revierten le dan unos puntitos mas!\r\n No hab\u00eda carta/men\u00fa, en cambio, una pizarra. Si ten\u00e9s problemas de visi\u00f3n, LOLA!\r\n El resto, sin problemas. Ideal para algo antes del mediod\u00eda o un almuerzo liviano."
+    }, 
+    {
+      "date": "17 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jano1968", 
+      "text": "Estaba buscando un lugar para comer algo y poder leer un poco y la verdad que me encant\u00f3 este resto super c\u00e1lido con productos de primer nivel, sabores simples y bien cocinados. Muy recomendable."
+    }, 
+    {
+      "date": "11 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maddie", 
+      "text": "Fui siempre a desayunar, tienen carta y pizarra. Los desayunos/meriendas son muy buenos y salen de lo t\u00edpico que uno ve. La atenci\u00f3n buena; aceptan s\u00f3lo efectivo y hay que pedirles la cuenta porque te traen un papelito garabateado. Muy lindo ambiente, tranquilo, con buena m\u00fasica, diariso y revistas. los sandwichs parecen muy buenos. Es una muy linda opci\u00f3n para cortar con lo que se ve en Palermo."
+    }, 
+    {
+      "date": "21 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bakito", 
+      "text": "Se impone como nuestro lugar para almuerzos del fin de semana, por la buena onda, cercan\u00eda y excelente comida. Todo es fresco, est\u00e1 bien preparado y sale a tiempo."
+    }, 
+    {
+      "date": "3 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chicho_n", 
+      "text": "Caminando con mi novia por palermo, charlando acerca de donde pod\u00edamos comer unas ricas ensaladas, una mujer pasa por al lado nuestro (result\u00f3 ser la due\u00f1a) y nos recomienda este bar. Una afortunada casualidad. Las ensaladas y sandwiches est\u00e1n muy bien(los panes son excelentes). Tambi\u00e9n recomiendo la limonada y los postres. El ambiente es calido, aunque si esta lleno puede tornarse un poco ruidoso. El servicio estuvo bien (pese a que nos terminaron de servir la limonada para reutilizar la jarra), aunque al ser un lugar peque\u00f1o terminas siendo espectador de las charlas/discusiones del personal"
+    }, 
+    {
+      "date": "10 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "thermomix", 
+      "text": "Excelente atenci\u00f3n, buena comida, rapido y simple.Volvere!"
+    }, 
+    {
+      "date": "5 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Bernar", 
+      "text": "fui muchas veces, prob\u00e9 todos los platos de verano..y ahora las pastas me encantaron!!!! Lo mejor es la torta de banana con dulce de leche."
+    }, 
+    {
+      "date": "17 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "stella78ar", 
+      "text": "El lugar es muy calido e ideal para una tarde veraniega, la limonada que te sirven en el tipico pinguinito es riquisima, asi tambien como las tortas, muy recomendable tambien para las ensaladas que por lo que pude ver son muy abundantes.\r\nAmpliamente recomendable."
+    }, 
+    {
+      "date": "5 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pabloycaro", 
+      "text": "Me gust\u00f2 por su tranquilidad y su ambiente. Tiene muy buena energ\u00eca."
+    }, 
+    {
+      "date": "22 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Golosita", 
+      "text": "Es un rinconcito muy agradable, especialmente para un desayuno, un caf\u00e9, tomar el t\u00e9 o un almuezo liviano. Ricas ensaladas, s\u00e1ndwiches, falta mejorar los vinoes."
+    }, 
+    {
+      "date": "14 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Carito77", 
+      "text": "El lugar es lindisimo, decorado con EXCELENTE gusto. Y la comida esta a la altura del lugar, muy sabrosa y con ingredientes frescos. Ideal para un almuerzo o te. Volvere MUCHAS veces porque ademas la atencion es impecable. Me encanto la sillita que hay en el ba\u00f1o, quiero una!!!"
+    }, 
+    {
+      "date": "27 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ms1112", 
+      "text": "No recuerdo el nombre del sandwich, era el de queso brie."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alicacu", 
+      "text": "Buena comida. Ingredientes de calidad, hechos en el momento. Lugar c\u00e1lido y grato. Buena atenci\u00f3n. Deliciosa la limonada!!"
+    }, 
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Floram", 
+      "text": "Muy buen servicio, ambiente y todos los platos que ofrecen son de primera. Ambiente acogedor."
+    }, 
+    {
+      "date": "9 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ARIBRUZZO", 
+      "text": "Excelente lugar. Se nota que los ingredientes son frescos. Platos simples y ricos. Volvere!!!"
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juca17", 
+      "text": "Es un lugar muy lindo, la comida es muy rica y es m\u00e1s barato que cualquier caza turistas del centro, 100% recomendable"
+    }, 
+    {
+      "date": "19 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Komishama", 
+      "text": "Me encanto el lugar y la propuesta.\r\nLas ensaladas tienen combinaciones poco comunes.\r\nLos sandwiches realmente fascinantes. Uno solo no puede con ellos.\r\nLas galletitas con tomillo me parecieron mas que originales.\r\nEl lugar es un poco chico y el sabado estaba bastante llenito.\r\nEs recomendable, pero para aquellos que busquen un tentempie o saborear algo distinto."
+    }, 
+    {
+      "date": "10 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diegoestevez2011", 
+      "text": "Me encanto la decoracion del lugar. Muuy rico Wrap de pollo con limo! Recomiendo"
+    }, 
+    {
+      "date": "1 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "facil2000", 
+      "text": "Los sandiwchwes son muy variados y riquisimos, pero riquisimos, con ingredientes poco comunes y muy buena preparacion. Vienen acompanados con papas en general. La limonada muy buena y los postres barbaros. Ideal para un domingo al mediodia de lluvia. GRan descubrimiento este lugar, voy a volver siempre que pueda"
+    }, 
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carito77", 
+      "text": "Cada vez que voy a Helena me siento como en mi casa, pero con mejor cocina. Me dan ganas de quedarme horas y probar todo. El lugar es hermoso, muy acogedor y divinamente decorado, y del tama\u00f1o justo. Adoro la limonada y los sandwichs, y la vedette: la torta esa de banana que es mi perdicion. Sin dudas, una joyita dentro del multitudinario circuito palermitano."
+    }, 
+    {
+      "date": "15 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cgodoyba1", 
+      "text": "excelente lugar! la atenci\u00f3n fue \u00f3ptima y los dulces que probamos riqu\u00edsimos! lo \u00fanico a tener en cuenta: s\u00f3lo efectivo y a las ocho cierran"
+    }, 
+    {
+      "date": "20 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vadaca", 
+      "text": "Ya fui varias veces... me encanta todo. El lugar es super calido, con buen servicio y con comida exquisita. Ya comi sandwiches, ensaladas, wraps, brownies, torta y nada me defraudo.."
+    }, 
+    {
+      "date": "6 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Humbertoprimo", 
+      "text": "Buen ambiente. NY style bistro."
+    }, 
+    {
+      "date": "16 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "merceaime", 
+      "text": "Muy canchero y tranquilo. Me encanto"
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "queseyo", 
+      "text": "Ya fui varias veces porque vale la pena un lugar tan lindo y bien atendido....algo distinto para compartir en un ambiente tranquilo, charlas con amigos"
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "queseyo", 
+      "text": "Ya fui varias veces porque vale la pena un lugar tan lindo y bien atendido....algo distinto para compartir en un ambiente tranquilo, charlas con amigos"
+    }
+  ]
+}

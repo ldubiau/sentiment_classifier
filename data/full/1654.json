@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "5 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "querico", 
+      "text": "Los \u00f1oquis con goulash eran simples \u00f1oquis con estofado de carne. Los panes con ajo son una groser\u00eda, el lugar espantoso y ambiente viejo. \r\nNo vuelvo ni gratis."
+    }, 
+    {
+      "date": "16 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Inesli", 
+      "text": "El estacionamiento es un robo, pues cobran $4,50 la hora.\r\nLa comida muy mala.\r\nEscuch\u00e9 el mismo comentario de otros comensales."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "RINA", 
+      "text": "La comida es buena, pero mal presentada y escasa en relaci\u00f3n al precio.\r\nEl espacio en general es chico, en especial los ba\u00f1os."
+    }, 
+    {
+      "date": "17 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AlePin", 
+      "text": "El lugar es chico para tantas mesas. Falta acondicionar y restaurar algunos lugares que desde la mesa se ve\u00edan en mal estado, como las paredes."
+    }, 
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ruchilu", 
+      "text": "Parejo en todo, vuelvo."
+    }, 
+    {
+      "date": "4 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "fedemurrone", 
+      "text": "No cumpli\u00f3 con mis expectativas, ni en servicio ni en calidad, mucho menos en ambiente."
+    }, 
+    {
+      "date": "13 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ApoRich", 
+      "text": "Falta un poco de ambientaci\u00f3n, la decoraci\u00f3n es vieja, es un restaurante peque\u00f1o."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "flap191", 
+      "text": "Destaco la atenci\u00f3n, siempre en tiempo y lugar y la seguridad en la entrada. \r\nAs\u00ed como el ambiente confortable y los platos de muy buen nivel."
+    }, 
+    {
+      "date": "6 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dieguito", 
+      "text": "Se nota particularmente que los platos tienen ese toque de la comida casera. Fuimos muy bien atendidos (hab\u00eda poca gente al mediod\u00eda) y los precios son aceptables. Faltar\u00eda aggiornar un poco la ambientaci\u00f3n."
+    }, 
+    {
+      "date": "5 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lrocca", 
+      "text": "Todo a punto y sabroso. Recomendable, buena opci\u00f3n de postres y muy ricos."
+    }
+  ]
+}

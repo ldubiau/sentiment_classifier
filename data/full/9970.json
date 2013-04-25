@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "24 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "monkina78", 
+      "text": "P\u00e9simo todo.Tardaron 1 hora para traer el pedido, el cual no era nada del otro mundo: una porci\u00f3n de tarta y un s\u00e1ndwich.Cuando finalmente llego, estaba fr\u00edo... las porciones m\u00ednimas.El servicio es malisimo.Nada recomendable."
+    }, 
+    {
+      "date": "10 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MargaritaMonda", 
+      "text": "Mi plato estaba horrible. Era una porci\u00f3n enana, la masa de la tarta incomible, el relleno sin preparaci\u00f3n ni ali\u00f1o. Las milanesas de mis amigos duras y las porciones de papas muy chicas. Segunda vez que voy, las dos veces mal\u00edsimo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Teddy", 
+      "text": "Ya he estado en Primafila varias veces y esta vez le quise dar una oportunidad a este lugar. El ambiente est\u00e1 bien. El servicio empez\u00f3 de regular a bien. La comida bien, hasta ah\u00ed. La salsa scarparo que ped\u00ed estaba salad\u00edsima. Caro aunque al lado del resto de los restaurantes del Buenos Aires Design es barato."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lennon", 
+      "text": "es claramente extra\u00f1o la poca concurrencia de este exclusivo lugar, no es barato pero tampoco de los m\u00e1s caros. no nacieron para triunfar, seguramente tendr\u00e1n que pensar algo para darle m\u00e1s vida."
+    }, 
+    {
+      "date": "3 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Un almuerzo muy agradable en un ambiente apacible y encantador donde el acento est\u00e1 puesto en un servicio impecable para el benepl\u00e1cito del visitante."
+    }, 
+    {
+      "date": "5 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "green", 
+      "text": "La comida en su punto justo.\r\nLo que m\u00e1s se destaca es la atenci\u00f3n, siempre en el momento exacto sin molestar.\r\nLos postres riqu\u00edsimos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Dorys", 
+      "text": "Muy buena la comida, la atenci\u00f3n y la ambientaci\u00f3n, a precio c\u00f3modo. L\u00e1stima la gente que concurre al lugar, deber\u00edan controlar un poco m\u00e1s el acceso, que est\u00e9 acorde con el nivel."
+    }, 
+    {
+      "date": "14 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lennon", 
+      "text": "Exclusiv\u00edsimo lugar, con una ambientaci\u00f3n de lujo. Aprovechamos una promoci\u00f3n, eso abarat\u00f3 considerablemente la cuenta. \r\nUn regular para la atenci\u00f3n, comparada con otros lugares de la misma categor\u00eda.\r\nY bueno... hay otra vida, l\u00e1stima que es m\u00e1s cara."
+    }
+  ]
+}

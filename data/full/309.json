@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "10 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sandino3", 
+      "text": "P\u00e9simas las pastas! La lasagna la rechac\u00e9 porque estaba recalentada, medio quemada y helada! La remplac\u00e9 por sorrentinos, que no ten\u00edan muzzarella! Es un lugar para olvidar..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Buen lugar para comer platos simples sin exigencias gourmet. Las milapizzas son gigantes y con abundantes imgredientes. Hay  adem\u00e1s men\u00faes que incluyen postre y bebida a buenos precios. El servicio,  bueno, aunque algo lento.  Est\u00e1 bien pero no deslumbtra.."
+    }, 
+    {
+      "date": "20 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Oskar", 
+      "text": "El ambiente y el servicio cumplen, a la comida le falta. Tal vez dejando la parrilla de lado, mejorar\u00eda el puntaje."
+    }, 
+    {
+      "date": "17 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ariel1", 
+      "text": "Muy ameno el ambiente. Muy buen trato. Almuerzo todos los mediod\u00edas all\u00ed."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ghammin", 
+      "text": "Como siempre, gran comida."
+    }
+  ]
+}

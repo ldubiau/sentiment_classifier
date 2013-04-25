@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "12 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "katto65", 
+      "text": "La comida buena, sencilla...para una comida familiar sin chicos...y sin exigencias."
+    }, 
+    {
+      "date": "25 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "caroluli2007", 
+      "text": "Comida casera,  como en tu casa,  el ambiente con aire es aceptable,  se puede ir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lauritalinda", 
+      "text": "La comida es casera, todo del d\u00eda, nada viejo. Muy sana, como en casa y muy barato. Lo recomiendo."
+    }
+  ]
+}

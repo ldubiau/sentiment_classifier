@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carocz", 
+      "text": "Muy buena opci\u00f3n, riqu\u00edsima la comida y platos originales! Recomendable"
+    }, 
+    {
+      "date": "12 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "luchisoto", 
+      "text": "Estuve en la inuaguraci\u00f3n y despu\u00e9s fui a comer 2 noches. El lugar es muy c\u00e1lido, un ambiente familiar que te hace sentir como en tu casa con amigos.\r\nLa barra de tragos muy buena y muy accesible. La atenci\u00f3n espl\u00e9ndida. Est\u00e1n en los detalles y siempre con una sonrisa.\r\nLa comida exquisita, la pas\u00e9 muy bien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Joaquincano", 
+      "text": "Excelente Lugar! Muy rico, muy agradable, para ir con amigos o en pareja!!!"
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariadesanmartin", 
+      "text": "Riquisimo!! y muy lindo!!"
+    }
+  ]
+}

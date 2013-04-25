@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "16 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "rrofman", 
+      "text": "El lugar es agradable, pero el servicio muy malo y lentisimo, la cocina peor.  Milanesas de muzzarela que estaban aun congeladas en el centro  (y luego las recalentaron en el microondas), salm\u00f3n que estaba crudo, pasta  carbonara que, por alg\u00fan motivo que no pude entender, ten\u00eda tuco... NO VAYAN!!!"
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "myriam", 
+      "text": "El lugar es lindo y muy prolijo pero la comida deja mucho que desear. ped\u00ed un men\u00fa especial que ellos arman para la noche y esperaba un plato super elaborado y llamativo. la pechugas eran supremas rebozadas que no iba con la salsa propuesta que adem\u00e1s no tenia sabor. el pure de batata que acompa\u00f1aba era m\u00e1s papa que batata. si no mejoran la comida o cambian el chef, por m\u00e1s que el lugar sea lindo no lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "AlejandraR", 
+      "text": "la comida moderadamente correcta, pero con salad bar libre como complemento de los platos, m\u00e1s 20% descuento La naci\u00f3n, hacen que sea una opci\u00f3n v\u00e1lida para ir a comer (sin muchas pretenciones), pero con buena relaci\u00f3n precio/calidad"
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Adrianotto", 
+      "text": "Fui a cenar con mi novia y una pareja amiga. Buena atenci\u00f3n, muy buena la comida y razonable los precios de la carta.\r\nRecomendable."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "LauritaCook", 
+      "text": "Sinceramente, no me gust\u00f3 por la mala atenci\u00f3n de uno de los mozos, que nos recibi\u00f3 tarde, no nos tom\u00f3 el pedido y tuvimos que volver a pedirlo a otro mozo y finalmente porque la comida tard\u00f3 1 y 1/2 hs en llegar y me quisieron cobrar una botella de vino que no ped\u00ed ni tom\u00e9! UNA VERG\u00dcENZA!"
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "LauritaCook", 
+      "text": "No le recomiendo a ning\u00fan usuario venir ac\u00e1, yo fui con mi novio, en plan de noche de jazz y cena y la pas\u00e9 terriblemente mal.\r\nPara arrancar, el 1\u00b0 mozo que nos atendi\u00f3 ni prest\u00f3 atenci\u00f3n a lo que ped\u00edamos, despu\u00e9s nos ignor\u00f3 por completo. El 2\u00b0 mozo, remend\u00f3 un poco las cosas, pero para un plato de pescado/mariscos, que no deber\u00eda tomar m\u00e1s de 25/30"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "julioasensio", 
+      "text": "Comimos muy bien y nos sorprendimos gratamente cuando llego la cuenta. Nos invitaron tambi\u00e9n con un champagne al inicio."
+    }
+  ]
+}

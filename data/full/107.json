@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "6 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ClaudiaC", 
+      "text": "La comida est\u00e1 bien, pero la ac\u00fastica del lugar no es buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AZUL", 
+      "text": "Un lugar muy bien ambientado, con una atenci\u00f3n excelente y comida como hac\u00eda tiempo no com\u00eda. Fuimos cuatro, pedimos diferentes platos y todo estaba sublime."
+    }, 
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mflog", 
+      "text": "Ambiente familiar y c\u00e1lido, pero poco profesional."
+    }, 
+    {
+      "date": "10 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gurudigi", 
+      "text": "Excelente, me encant\u00f3. \r\nFui porque lo v\u00ed en la tele en un programa de inmigrantes. \u00a1Pidan el vodka de miel!"
+    }, 
+    {
+      "date": "30 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chicaigu", 
+      "text": "El ambiente es excelente, con un aire de anta\u00f1o s\u00faper bien logrado, aunque tal vez la m\u00fasica, aunque muy buena, muy fuerte. Los platos son verdadera comida eslava, porciones generosas. La carta es corta pero justa y la relaci\u00f3n precio-calidad es buena. Ideal para reuniones familiares, aunque una cena \u00edntima tambi\u00e9n funciona. Como descendiente de polacos, me encant\u00f3."
+    }, 
+    {
+      "date": "23 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PEPINNO", 
+      "text": "Un lugar tranquilo, de muy buen servicio y atenci\u00f3n. Las especialidades son de sabores ex\u00f3ticos y muy bien equilibrados para nuestro paladar. Especial para noches de invierno."
+    }, 
+    {
+      "date": "17 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "julio.bu", 
+      "text": "Muy buena comida y atenci\u00f3n. \r\nLo malo: no tiene horario de almuerzo, ni abre todos los dias... se lo ve mas cerrado que abierto."
+    }
+  ]
+}

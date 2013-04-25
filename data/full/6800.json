@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "guille111", 
+      "text": "La comida no mala pero posiblemente le falte calidad a la materia prima."
+    }, 
+    {
+      "date": "5 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Pane", 
+      "text": "El lugar si lo ves de afuera te da miedo entrar, una vez adentro segu\u00eds con la misma sensaci\u00f3n cuando ves paredes azules a la entrada y luego rojas, superado eso la comida es aceptable, no descolla, pero no est\u00e1 tan mal como la apariencia del local."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jnnybam", 
+      "text": "Muy rico y almuerzos baratos de 15 pesos (incluye entrada y plata principal)"
+    }
+  ]
+}

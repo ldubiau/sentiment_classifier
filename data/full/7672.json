@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "23 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rasa", 
+      "text": "Los pinchos estan bien resueltos. La atenci\u00f3n pronta y muy amable El lugar chico pero agradable"
+    }, 
+    {
+      "date": "6 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "feke", 
+      "text": "fuimos a comer recomendados x unos amigos, no habia gente y dudamos pero al final entramos y la verdad es q no nos arrepentimos para nada, continuen asi q les va a ir muy bien.."
+    }, 
+    {
+      "date": "6 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "Es un resto-bar donde se puede ir a tomar algo tranquilamente con alguien o amigos, como asi tambien organizar una exclusivamente una comida distendida o intima. El fuerte que tiene es la flexibilidad que ofrece por q es un lugar tranquilo pero que se come bien (buenos tapeos y platos de autor) y a la vez se puede tomar algo y sentirse comodo en un espacio relajado. Los precios son muy bajos y los platos que probamos eran bastaante bien logrados (sorrentinos de morcilla con crema, bondiola de cerdo con batatas caramelidas, tapeo de ostras gratinadas, shot capresse, brusquetas, brochetas)."
+    }, 
+    {
+      "date": "29 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rolago", 
+      "text": "Fui con amigas. Algunas comieron tapas. Los platos son abundantes que no se pueden terminar.El ambiente es acogedor e invita a quedarse."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ward", 
+      "text": "Muy buenos tragos y comida. Me gusto, volver\u00e9!"
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "josefinamz", 
+      "text": "Muy buen tapeo!!, calidad, gusto, geniales!!, muy recomendable!, Volveremos! Atencion axcelecte, pedimos el menu dia dia y fue altamente recomendable. Precio y Calidad muy favorables."
+    }, 
+    {
+      "date": "24 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rasa", 
+      "text": "Muy bueno el tapeo. Una alta calidad de servicio. Relaci\u00f3n calidad precio extremandamente alta."
+    }, 
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Un excelente lugar de tapas, en cada una un detalle de buen gusto y una relaci\u00f3n precio calidad dificil de encontrar, el lugar tranquilo y lindo, atenci\u00f3n muy buena"
+    }, 
+    {
+      "date": "14 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Juribe", 
+      "text": "Excelentes tapas.\r\nBUen vino.\r\nRelaci\u00f3n precio / calidad: \u00f3ptima!"
+    }, 
+    {
+      "date": "20 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GUSCHU", 
+      "text": "Fui a festejar el dia del amigo.\r\nExcelente comida!\r\nMuy bueno el lugar.\r\nGustavo (de Belgrano)"
+    }
+  ]
+}

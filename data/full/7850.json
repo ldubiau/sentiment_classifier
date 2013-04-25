@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "20 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "TotoRoto", 
+      "text": "Fuimos con mi jefe, almorzamos sin vino, solo un postre y dos caf\u00e9, con 1 empanada por cabez de entrada, 200$ por cabeza. El asado al asador, requemado por fuera, muuucha grasa, mucha espera. No vale los 15 mangos que cobran de cubierto."
+    }, 
+    {
+      "date": "8 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "tomcorp", 
+      "text": "Un desastre la comida. Peor entra\u00f1a que probe en mi vida, chiclosa, cruda, imposible de comer y cortar.\r\n\r\nCuando en una parrilla las carnes son asi, se\u00f1al de irse a otro lado."
+    }, 
+    {
+      "date": "28 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "novillito", 
+      "text": "Ex tierra de parrilleros esta peor que antes, para no vovlver a probar mas"
+    }, 
+    {
+      "date": "19 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Academico1", 
+      "text": "Este restaurante que antes fue TIERRA DE PARRILLEROS cambio de nombre, la atencion es regular, la comida pesima, muy caros los platos y escasos, ademas muy cerca las mesas unas de otras. No es para nada recomendable.-"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pablocra", 
+      "text": "muy buena atenci\u00f3n, eso mas el lugar, los grandes espacios y mas que aceptable comida hacen que no resulte tan caro.  Recomiendo la Pmaplona de pollo."
+    }, 
+    {
+      "date": "22 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "maya101", 
+      "text": "Fuimos con el cupon de descuento de una revista. Precio un poco caro, buena coccion de las carnes, entre los que pedimos, sobresale el plato de Cordero. Ambiente muy pintoresco como para los turistas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "usuarioJuan", 
+      "text": "La carne es excelente. El chorizo riquisimo. El vac\u00edo tiernisimo, se cortaba con los dedos (literalmente). El mozo te vuelve a llenar el vaso cuando se vacia."
+    }, 
+    {
+      "date": "16 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pancho007", 
+      "text": "Excelente atenci\u00f3n, muy buen manejo de la cantidad de gente para ser un domingo al medio dia. El mozo muy atento. Destaco el esmerado cuidado de quien parec\u00eda ser el responsable del sal\u00f3n, que estaba en varios lugares a la vez complementando a los camareros y ocup\u00e1ndose de que nada faltara. pasamos un almuerzo excelente y muy tranquilo frente al dique. Parecia otro pais. y pensar que casi no vamos por leer algunos comentarios negativos...."
+    }
+  ]
+}

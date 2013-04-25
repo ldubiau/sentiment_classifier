@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "18 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elasador", 
+      "text": "Era el menu de rosh hashana. habia dos menues con un poco de cada cosa de las mas conocidas de la cocina judia. nada especial. muy elevado el precio.el lugar es una confiteria que ademas hace algunas comidas.no merece mayores comentarios."
+    }, 
+    {
+      "date": "5 Nov 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "mpalpebr", 
+      "text": "Ambiente con mucho olor a comida. No hay carta de vinos y s\u00f3lo una marca ya sea en blanco o tinto. Se me cobr\u00f3 un agua con gas de m\u00e1s, pero al reclamar se me devolvi\u00f3 el importe. \r\nEl plato principal fue compartido y estaba frio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "viko", 
+      "text": "Muy rica la comida, como lo prepara mi familia."
+    }, 
+    {
+      "date": "3 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PeCo", 
+      "text": "Muy rico, como si cocinara mi bobe."
+    }, 
+    {
+      "date": "25 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Eugenia", 
+      "text": "Festej\u00e9 un cumplea\u00f1os y realmente fue excelente. \r\nLa cheff es espectacular, la comida exquisita, la atenci\u00f3n excelente y el precio muy bien para tan buen servicio. Recomendable."
+    }
+  ]
+}

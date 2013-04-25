@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AdrianG", 
+      "text": "Buen lugar para cenar, muy buena atencion tanto de los mozos como del due\u00f1o, siempre atentos. La comida sin ser exelente es muy buena y el precio no es exesivo, seguramente volveremos"
+    }, 
+    {
+      "date": "14 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "luky", 
+      "text": "Ay don Batista, qu\u00e9 has hecho con tu relaci\u00f3n precio-servicio-calidad?\r\nNo es lo que era, si aument\u00e1s los precios, por lo menos pon\u00e9 polacril en las paredes para que no se vea la humedad, sino me quedo en mi casa. Suprema maryland por las nubes, hasta que no vuelvas a ser el de antes no vuelvo mas y recomiendo a todos mis amigos no ir."
+    }, 
+    {
+      "date": "16 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gabo3175", 
+      "text": "Ambiente familiar y tranquilo. Las parrilladas muy buenas y abundantes. Recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DiegoQ", 
+      "text": "Ideal para ir con la familia o los amigos, es bastante m\u00e1s que una \"parrila de barrio\". Todo riqu\u00edsimo, especialmente las mollejas, las papas fritas y el helado. La atenci\u00f3n (con mozos de verdad!) es muy buena y el ambiente es acorde a la propuesta (y est\u00e1 muy bien tambi\u00e9n). Volveremos."
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Carola1980", 
+      "text": "En b\u00fasqueda de un lugar bueno donde poder ir a comer, me recomendaron don batista; y sin lugar a dudas puedo decir que no se equivocaron en la recomendaci\u00f3n. la parrilla es excelente, en especial las mollejas y la carne. me sorprend\u00ed al ver la variedad de gustos que posee el salad bar (muy bien presentado). es ideal para aquellos que nos gusta mezclar todo tipo de verduras, etc en la ensalda. qu\u00e9 decir del helado?...me encant\u00f3!. la atenci\u00f3n del mozo fue muy buena y siempre nos preguntaba si todo estaba bien o necesit\u00e1bamos algo m\u00e1s. por todo lo ante puesto, recomiendo don batista!!!"
+    }, 
+    {
+      "date": "9 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "polaco1982", 
+      "text": "Comi un lomo al champignon digno de repetirse. Las porciones abundantes y las papas a la crema la combinaci\u00f3n perfecta. Muy simp\u00e1tico el mozo y el ambiente muy tranquilo."
+    }
+  ]
+}

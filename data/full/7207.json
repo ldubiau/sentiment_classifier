@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "25 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "xxyy", 
+      "text": "El ambiente es bueno y la comida tambi\u00e9n. Se nota que le ponen dedicaci\u00f3n. L\u00e1stima la atenci\u00f3n, el mozo nos miraba como si no quisiese que estemos all\u00ed. Quiz\u00e1s era \u00e9l el que no quer\u00eda estar. Una pena, porque no pudimos disfrutar de eso tan lindo que es la buena comida."
+    }, 
+    {
+      "date": "10 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fedecuknoise", 
+      "text": "muy buena propuesta otra vez de la mano de un joven chef, comimos muy bien relajados de estar comiendo comida fresca.\r\nplatos ricos y bien presentados.\r\nfelicitaciones!! volvere"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vyain", 
+      "text": "Una gran experiencia gastron\u00f3mica, un viaje de sabores, comida que te hace bailar. Muy muy recomendable!"
+    }
+  ]
+}

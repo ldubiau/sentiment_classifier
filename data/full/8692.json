@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "29 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "danoratatuil", 
+      "text": "Las picadas son variadas y muy ricas, con ingredientes ex\u00f3ticos como jabal\u00ed, trucha, conejo, quesos como limburgo, caccio cavallo, pancitos caseros, etc. El lugar es muy original porque es un vag\u00f3n real ingl\u00e9s de 1914. Vale la pena conocerlo."
+    }, 
+    {
+      "date": "1 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "El lugar sin dudas es muy original, ya que se trata de un vag\u00f3n de tren de principios del siglo pasado. La comida es casera, no tiene mucha variedad, tiene platos aut\u00f3ctonos y milanesas, pollo y un par de pastas. Tardan bastante porque la deben realizar en el momento, La atenci\u00f3n muy amable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ekiel", 
+      "text": "lugan increible, todo muy rico"
+    }
+  ]
+}

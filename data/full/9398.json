@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cocod", 
+      "text": "La moza excelente,la comida un desastre, la tortilla no ten\u00eda sal ( ponerle encima queda horrible)EL 1/2 bife era una muestra gratis a $44, las fritas a la provenzal las ped\u00ed sequitas y estaban babosas, apenas cocidas. Por la radio 102.7 ofrecen los jueves una botella de bianchi sin cargo cada dos personas, eramos 4 y pedimos 2, la segunda nos la cobraron, me quej\u00e9 y argumentaron que la publicidad estaba equivocada, llam\u00e9 a la radio y me dijeron que era como yo dec\u00eda. No volver\u00e9"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "leticiaquirque", 
+      "text": "La comida muy buena, aunque se hizo esperar, pero en la carta aclara que sean pacientes porque los platos son elaborados en el momento. Una parrillada para 2, la compartimos entre 4, con algunos complementos, ensalada con ingredientes frescos. Ambiente ameno, tranquilo y atenci\u00f3n muy esmerada. Fui de casualidad pero seguramente volveria"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "Muy buena atenci\u00f3n y destacado servicio que completa una buena parrilla. Sin dudas, recomendable."
+    }, 
+    {
+      "date": "14 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mr17", 
+      "text": "Excelente lugar, fui un viernes a la noche, el lugar tranquilo, las mesas no est\u00e1n muy cerca con lo cu\u00e1l esto hace que puedas tener una velada \u00edntima con todo gusto. La atenci\u00f3n es de lo mejor, sus due\u00f1os est\u00e1n constantemente en el lugar y en mi caso, me trataron excelente, preocup\u00e1ndose hasta el m\u00ednimo detalle. Comimos parrillada para dos, Las porciones son abundantes y la calidad es de primera.\r\nConclusi\u00f3n: De lo mejor en carnes de La Plata y me atrever\u00eda a decir"
+    }
+  ]
+}

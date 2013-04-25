@@ -1,0 +1,488 @@
+{
+  "malos": [
+    {
+      "date": "22 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sedfriviere", 
+      "text": "Fui con una amiga que tiene familia en mexico, creo que pocas veces quede TAN mal. La comida carece de ese sabor fuerte y picante caracteristico de Mexico, exceso de aceites realmente parecia mas unas papas de mc donalds que quesadillas y finalmente tacos y quesadillas de HARINA de TRIGO. El servicio fue malo cuando entramos pero empeoro con los comentarios de mi invitada lo cual me desagrado mas ya que no deberia hacer un minimo esfuerzo para tratar de mejorar su cena?. El ambiente es algo familiar y sin demasiada busqueda de originalidad en la deco. Muy inferior a Xalapa y Df."
+    }, 
+    {
+      "date": "28 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "dpcd", 
+      "text": "Tiene una fama legendaria entre aquellos que no son habitu\u00e9 de los restaurantes de comida mexicana. Es un 5 estrellas en la ambientaci\u00f3n y servicio, pero no el la calidad y sabor de sus platos. Podr\u00edan mejorar."
+    }, 
+    {
+      "date": "8 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ghofnug", 
+      "text": "La verdad que muy decepcionante. A la comida le faltaba sabor y \"cari\u00f1o\". Los nachos fueron los peores que ya comi, doritos con poco queso mantecoso arriba... ademas los precios muy altos y las porciones muy chicas. No se si soy yo demasiado exigente, pero no es para volver."
+    }, 
+    {
+      "date": "5 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Alejandrisima", 
+      "text": "Soy mexicana. \r\nTristemente es el peor que he visitado. La comida es mala y las porciones son diminutas. \r\nEl precio es elevad\u00edsimo para lo que ofrecen. El mariachi solo canta tres canciones y no canta bien. Ojal\u00e1 mejoren."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "M_Bracco", 
+      "text": "Muy rica la comida, lo mejor es la atencion de los mosos que no son pesados pero estan para atenderte cuando lo necesitas.\r\nEl lugar es muy lindo, pero algo ruidoso y no lo solucionaron las horribleas placas de goma espuma en el techo..."
+    }, 
+    {
+      "date": "22 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elverde", 
+      "text": "Para comer algo distinto, el lugar cumple y nada m\u00e1s. Comida, ambientaci\u00f3n y atenci\u00f3n s\u00f3lo aceptables."
+    }, 
+    {
+      "date": "20 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elift", 
+      "text": "Hacia tiempo que no iba, y esta vez me decepcion\u00f3, bajo mucho el servicio, desaparecieron los margaritas de bienvenida, falto un poco de musica, la comida estaba bien, pero falta el picante mexicano, la atencion deja mucho que desear, una l\u00e1stima..."
+    }, 
+    {
+      "date": "20 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Chufu", 
+      "text": "La comida estaba rica. No fue la mejor experiancia en comida mexicana que he tenido. El margarita estaba aguado y el pescado a la veracruzana podria haber estado mas sabroso. Pero el mayor inconveniente era el frio que hacia en el salon!!!! No creo que vuelva!"
+    }, 
+    {
+      "date": "24 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gabilina", 
+      "text": "Fuimos con un grupo de compa\u00f1eros de trabajo al mediodia. El lugar \"cumple\" si no tenes grandes pretensiones: la comida est\u00e0 bien, y el servicio es esmerado."
+    }, 
+    {
+      "date": "20 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "abroglia", 
+      "text": "La comida es muy buena, pero el precio es excesivo para lo que es el restaurante.  La decoraci\u00f3n tambi\u00e9n es bastante pobre."
+    }, 
+    {
+      "date": "4 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tici_lr", 
+      "text": "El lugar esta muy bien ambientado,con luz baja pero agradable,la comida es tipica cenamos fajitas y tacos, muy buenos.Para volver con amigos."
+    }, 
+    {
+      "date": "7 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RudyF", 
+      "text": "La comida muy buena y suficiente, tambi\u00e9n la \"margarita\" con la que acompa\u00f1amos la comida.\r\nPero no es para ir mas de una vez por a\u00f1o.\r\nLos Mariachis....., menos mal que se fueron pronto.... :-("
+    }, 
+    {
+      "date": "2 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kupa", 
+      "text": "Fuimos con amigos al de palermo y la verdad q la comida es muy rica y abundante y la atencion de primera,queriamos una mesa q estaba desarmada pero nos informaron q podia llegar a demorar algunos minutos,pero de manera muy atenta y amable nos ofrecieron otra de igual o mejor ubicacion,asi q agradezco la atencion de las recepcionistas y de los mozos en general."
+    }, 
+    {
+      "date": "7 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nickyta", 
+      "text": "El lugar es muy lindo, la comida tambi\u00e9n es  una buena adaptaci\u00f3n a la tradicional Mexicana, pero al pollo con mole por ejemplo le falta \"lo picosito\", no tenia mucho sabor. La atenci\u00f3n no nos gust\u00f3, quisimos sentarnos en una mesa del mismo sal\u00f3n que \"no estaba preparada\" por lo tanto no nos dejaron. Tuvimos que sentarnos donde nos lo ordenaron. En un momento se volvio bastante ruidoso y molesto el tema de los mariachi, llega a cansar."
+    }, 
+    {
+      "date": "6 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "izzy", 
+      "text": "Muy rica la comida y acertada la participacion de los mariachis, ya que alegran el ambientesin aturdir"
+    }, 
+    {
+      "date": "6 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Dario1962", 
+      "text": "realmente fuimos con muchas espectativas y salimos muy conformes.la comida es muy buena,la camarera nos explico todas las dudas que teniamos.La carta es clara y variada."
+    }, 
+    {
+      "date": "19 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "letu2009", 
+      "text": "La comida y el lugar muy buena, l\u00e1stima la atenci\u00f3n (al mozo lo podias tener al lado que no te prestaba atenci\u00f3n, encima tenes predeterminada la propina en la factura)!!, la iluminaci\u00f3n mala, y lamentablemente nos ubicaron en una mesa debajo del aire acondicionado, lo por consecuencia se nos enfrio toda la comida!!"
+    }, 
+    {
+      "date": "21 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MILO_2006", 
+      "text": "La comida muy buena! Recomiendo ir entre amigos y compartir los platos para poder probarlos. Los precios son \"normales\" y las porciones \"aceptables\" que se pueden compartir (para probar, no implica que puedan comer dos personas por plato). El servicio y el ambiente est\u00e1n ok. Ideal para ir entre amigos."
+    }, 
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Connie08", 
+      "text": "La pasamos super! Muy divertido que canten los mariachis. Compartimos unas tapas de res, pollo y vegetales estupendas! Lo recomiendo!!!"
+    }, 
+    {
+      "date": "5 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ximeyguille", 
+      "text": "No \u00edbamos desde hace un a\u00f1o, y nos sorprendi\u00f3 el cambio para peor que hubo en el servicio.  La moza que nos atendi\u00f3 no ten\u00eda la menor idea de la carta del restaurante, as\u00ed que no pod\u00eda contestar ninguna consulta sobre los platos ni los postres.  Fuera del tema del servicio, la comida y el ambiente siguen siendo buenos.  Precios un poco caros, como de costumbre, pero no han aumentado tanto como otros restaurantes en los \u00faltimos tiempos, con lo cual han quedado un poco m\u00e1s a tiro."
+    }, 
+    {
+      "date": "21 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dimari", 
+      "text": "Un lugar para conocer, ambiente agradable, comida tipica"
+    }, 
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MeKRo", 
+      "text": "TODO de 10 ... muy bien ambientado no me prive de un solo gasto fui justamente al de san isidro ya que es muy buena zona la moza con muy buena onda pero me kede con ganas de tequila no por que no hubiese si no por que no me quedaba mucho espacio :P.\r\n\r\neste es el comentario de un simple taxista asi ke esta al alcance de todos."
+    }, 
+    {
+      "date": "23 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "avedepresa", 
+      "text": "La comida es muy buena, aunque para mi gusto la siento bastante \"argentinizada\". Muy buenas porciones y bien presentados los platos. El servicio fue muy correcto y est\u00e1 muy bien ambientado el lugar."
+    }, 
+    {
+      "date": "10 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "valeria1", 
+      "text": "Mi sensaci\u00f3n es que los platos est\u00e1n acomodados al gusto argentino, lo cual no quita que son muy buenos. La atenci\u00f3n fue amable y el lugar es muy bonito."
+    }, 
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AleRuiz", 
+      "text": "Me gust\u00f3 la comida y el lugar. El mozo fue muy amable y nos asesor\u00f3 muy bien. Los Mariachis le dan color al lugar, lo que me molesta es que se vengan a cantar a la mesa, interrumpiendo la cena y la conversaci\u00f3n. \r\nIgualmente lo recomiendo."
+    }, 
+    {
+      "date": "6 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Tukito", 
+      "text": "Muy buena la comida aunque me sorprendio un poco el aumento del precio, igualmente sigue siendo uno de mis lugares preferidos para ir a comer."
+    }, 
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nico1974", 
+      "text": "Ya hab\u00eda ido a otros de los locales de Maria Felix, y ninguno de ellos decepciona, para ir de vez en cuando es un buen programa. Buena comida, buenos tragos y con buena billetera."
+    }, 
+    {
+      "date": "18 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "hipercandombe", 
+      "text": "La experiencia es buena. Me parece un poco caro. Es verdad que est\u00e1 \"argentinizado\"."
+    }, 
+    {
+      "date": "16 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cristianelvasco", 
+      "text": "la verdad comidas muy tipicas muy rico todo lo que si tarda un poco los platos"
+    }, 
+    {
+      "date": "14 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Virr", 
+      "text": "La atenci\u00f3n del mozo que nos atendi\u00f3 fue muy esmerada, nos sirvieron nachos con una margarita como bienvenida (cobran $4 el cubierto) pedimos fajitas para 1 con tortillas para dos,porque la cantidad entre lo que sirven en la fajitas para dos es casi la misma y el precio la mitad. Las fajitas no son realmente mexicanas, estan argentinizadas (las preparan con salsa de soja), pero ricas, las salsas picantes no pican tanto. Tomamos margaritas ($15) estaban muy bien hechas, y de postre compartimos marquez de chocolate,estaba rico, nada del otro mundo. Aclaro que nosotros somos de comer poco, pero si realmente dos personas piden fajitas para dos, el precio es elevado para lo que sirven. Siempre volvemos."
+    }, 
+    {
+      "date": "9 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida es rica y abundante, el lugar esta bien puesto y las mesas separadas, vale la pena."
+    }, 
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lastoflast", 
+      "text": "Fuimos recibido con amabilidad y nos dieron nachos para esperar la comida. Las margaritas estan bien hechas. La comida es buena pero las porciones son diminutas. Los mozo/as son atentos pero como hay muchos y son jovenes charlan mucho entre ellos y se pierde intimidad durante la comida. La relacion precio/calidad no es buena."
+    }, 
+    {
+      "date": "11 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "myaninag", 
+      "text": "El recibimiento no es para nada c\u00e1lido, ni siquiera dan nachos para esperar la comida. \r\nEn cuanto a la atenci\u00f3n, es carente de toda formalidad y educaci\u00f3n.\r\nHonestamente esperaba otra cosa de un lugar que aparenta ser mucho m\u00e1s de lo que en realidad es."
+    }, 
+    {
+      "date": "9 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "derek", 
+      "text": "Bien la atenci\u00f3n como siempre, bien la comida.. caliente y r\u00e1pida... los mariachis un poco invasivos."
+    }, 
+    {
+      "date": "12 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LaNanis", 
+      "text": "Un cl\u00e1sico de la comida mexicana en Zona Norte. Lo mejor del lugar son los margaritas. \r\nEs una buena opci\u00f3n para ir en pareja o con amigos.\r\nAmplia variedad de la carta."
+    }, 
+    {
+      "date": "7 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "Un lugar muy lindo, aunque no muy \"aut\u00e9nticamente mejicano\". La comida es muy rica, recomiendo la Botana Mar\u00eda F\u00e9lix par probar un poquito de todo. El show de mariachis me gust\u00f3 mucho, se detienen ante cada mesa y parean por todo el restaurant, sin relegar los sectores m\u00e1s vac\u00edos."
+    }, 
+    {
+      "date": "30 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "aleseba", 
+      "text": "Soy habitu\u00e9 de los locales de Belgrano y Martinez y me sorprendi\u00f3 la poca bola que nos dieron. Ni margarita de recibiento, ni nachos para esperar la comida. No hab\u00edan prendido el Aire y el calor te invitaba a partir. Parecen de otra empresa, pero quiz\u00e1s sea por que reci\u00e9n arrancan..."
+    }, 
+    {
+      "date": "22 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jorplas", 
+      "text": "Lugar agradable y c\u00e1lido, con buena comida y atenci\u00f3n cuidada.\r\nEl inconveniente es el mucho ruido y la poca luz para leer la carta."
+    }, 
+    {
+      "date": "7 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Vanu", 
+      "text": "La comida es buena, aunque podr\u00eda ser mejor. Las porciones son muy peque\u00f1as. Los tacos los sirven sin ninguna salsa, la cual la cobran aparte. Por el precio deber\u00edan incluirla."
+    }, 
+    {
+      "date": "17 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carlitos_53", 
+      "text": "Fu\u00ed al local de Olivos y est\u00e1n un poco desorganizados. Abrieron hace poco. De todas formas, nos atendi\u00f3 una chica divina y nos trincharon la comida, en ningun Mar\u00eda F\u00e9lix te lo hacen. Lo \u00fanico malo es que se les inund\u00f3 el sal\u00f3n, pero estuvo todo muy bueno en general: \u00a1felicitaciones!."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "catn", 
+      "text": "Me encant\u00f3, la comida estaba riquisima, me atendieron muy bien!!!!\r\nLo recomiendo!!"
+    }, 
+    {
+      "date": "25 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yeyu14", 
+      "text": "Excelente la comida fue buenisimaa!!! es un lugar que siempre recomiendo. Yo fui al de av Libertador en la lucila. Comimos unas tapas con camarones y una plato con arroz y lomo que no recuerdo el nombre y de postre unos panqueques con merengue ,helado, frutas rojas y dulce de leche. SI TIENEN LA POSIBILIDAD NO DEJEN DE IR HASTA HAY MARIACHIS INCLUIDOS"
+    }, 
+    {
+      "date": "17 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Catleya", 
+      "text": "Reserv\u00e9 para el cumple de mi novio. Quedamos muy bien con la flia. El ambiente muy c\u00e1lido y bien logrado, la comida es de las mejores en restos mejicanos, pedimos una entrada de diferentes quesadillas y dem\u00e1s y despu\u00e9s unas fajitas mixtas. Muy rico, a punto, y novedoso para alguno de los comensales. a las 12 en punto llegaron los Mariachis con la torta y le cantaron el feliz cumple. Quiero destacar la atenci\u00f3n de Pedro que hizo que la noche fuera perfecta, estaba en todos los detalles y nos asesor\u00f3 con el mejor de los criterios sobre la comida y el vino."
+    }, 
+    {
+      "date": "13 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "BudaUrbano", 
+      "text": "Muy buena variedad y calidad de platos. Muy sabroso.\r\nIdeal para ir con amigos y \"entonarse\" un poco con unos shots de tequila o margarita. Hay mariachis pero no son muy ruidosos ni molestos, asi que se aguantan... muy buen ambiente."
+    }, 
+    {
+      "date": "12 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "javerius", 
+      "text": "Si te gusta la comida mexicana este es el mejor lugar al q podes ir. El ambiente es excelente, con mariachis q van cantando de mesa en mesa. La comida es riquisima y muy variada. Lo que si no es un lugar barato, pero tampoco te arrancan la cabeza."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DaCa", 
+      "text": "La atenci\u00f3n, los platos y la ambientaci\u00f3n son realmente muy bonitos, da gusto volver... m\u00e1s all\u00e1 que el precio sea relativamente elevado. No obstante, debo comentar que si van un fin de semana a la noche...no usen el auto, les pueden causar un feo disgusto...la zona es imposible y yo termin\u00e9 con mi auto rayado. Si bien el valet parking tuvo toda la buena intenci\u00f3n, es imposible estacionar por esa zona. El lugar carece de estacionamiento por m\u00e1s que digan que tiene valet parking, cuando sal\u00ed del restaurante y vi mi coche subido en la vereda, no me caus\u00f3 gracia. \r\nEs recomendable, pero no vaya con su auto."
+    }, 
+    {
+      "date": "27 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "joleiro", 
+      "text": "Muy buena la comida y la atenci\u00f3n. El lugar est\u00e1 muy bien ambientado, de acuerdo a la tem\u00e1tica mexicana: me gust\u00f3 mucho. Muy recomendado, prueben todas las salsas y los picantes, que valen la pena."
+    }, 
+    {
+      "date": "19 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carlitos_53", 
+      "text": "Yo report\u00e9 \u00e9ste restaurante hace unos d\u00edas por que me fui re contento y volv\u00ed a ir. La chica que nos atendi\u00f3 la primera vez fue divina. Lastima que parece que ya no trabaja ah\u00ed. El mozo de hoy no fue muy l\u00facido a la hora de atender. La comida sigue igual de buena, yo dir\u00eda que cuiden un poco el personal. Igual volver\u00e9."
+    }
+  ]
+}

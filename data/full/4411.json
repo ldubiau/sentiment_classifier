@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Salemnation", 
+      "text": "La comida es MUY BUENA, los pancitos y la pasta de berenjena que sirven al comienzo son riquisimos (parecian recien horneados). La atencion es muy amable y profesional. El lugar es bastante original, con sillones bajos, luces y velas, pero lo unico malo es que algunas paredes tienen humedad y le faltaria una lavada de cara. Voy a volver muchas veces!"
+    }, 
+    {
+      "date": "27 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "misolmi", 
+      "text": "El lugar es bonito, con una ambientacion intimista de velas y sillones. la comida estaba rica, pero me sirvieron una parte congelada (literalmente congelada, la mitad de los sorrentinos tenian hielo por dentro) y tuvimos que pedir que la terminaran de calentar. El plato del d\u00eda absoluta y absurdamente caro para lo que era (y no aclaraban que sal\u00eda el doble que cualquier otro plato al momento de recomendarlo). Para volver cuando mejore (y solo si mejora)."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Bober", 
+      "text": "Hemos ido varias veces y el lugar, la atenci\u00f3n y la comida son excelentes. Es un lugar para hacerse habitu\u00e9, te sent\u00eds reconocido y muy bien atendido. Los platos son m\u00e1s estilo de autor, nada muy rebuscado, muy sabrosos y te llenan! Lo recomiendo siempre que puedo. La ambientaci\u00f3n 10 puntos. Vamos a volver siempre que podamos."
+    }
+  ]
+}

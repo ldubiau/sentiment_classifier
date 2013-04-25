@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "10 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Ingmar", 
+      "text": "Es un bodeg\u00f3n sin m\u00e1s, se nota el toque casero en todo, quiz\u00e1s demasiado, la comida es muy buena, los ingredientes son frescos, y las porciones abundantes, casi podemos ver c\u00f3mo preparan todo, la atenci\u00f3n, por parte de su due\u00f1a es muy cuidada, es una muy buena opci\u00f3n al mediod\u00eda, le falta creatividad a la carta, y bueno... el ambiente es un bodeg\u00f3n."
+    }, 
+    {
+      "date": "1 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "peladok", 
+      "text": "la atencion es exelente, se nota mucho el toque casedo y es como estar en casa, que mas decir"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Morfeo1978", 
+      "text": "excelente comida. pero la atenci\u00f3n es demasiado lenta"
+    }
+  ]
+}

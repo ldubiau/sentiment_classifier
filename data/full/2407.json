@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "24 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cyn_conexion", 
+      "text": "Fuimos el s\u00e1bado por la noche, nos atendi\u00f3 un mozo re maleducado. Un p\u00e9simo trato y al final trat\u00f3 de justificarse diciendo que estaba cansado porque estaba trabajando desde temprano.\r\nEn cuanto a la comida, pedimos pizza de jam\u00f3n y morrones y nos sirvieron \"prepizza\"."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Forly", 
+      "text": "Hice un pedido para delivery, el ambiente lo califico por lo que uno ve desde afuera; nunca entr\u00e9 al sal\u00f3n.  La comida me pareci\u00f3 realmente muy buena; hacen una cocina sencilla y con un men\u00fa que abarca casi todas las opciones. El servicio lo doy por regular, porque demoraron m\u00e1s de la cuenta. Igual d\u00e1 para seguir degust\u00e1ndole la carta a este rest\u00f3."
+    }, 
+    {
+      "date": "27 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Clauscar", 
+      "text": "Cocina sencilla y ligera, ideal para un mediodia. El servicio es normal y el ambiente agradable. Para salir del pasono esta mal."
+    }, 
+    {
+      "date": "26 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "indi01", 
+      "text": "Siempre cubre nuestras expectativas. Volveremos."
+    }, 
+    {
+      "date": "3 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Francin", 
+      "text": "Compr\u00e9 una torta y estaba como vieja! me decepcion\u00f3. siempre les compraba."
+    }, 
+    {
+      "date": "4 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida es muy rica, y el lugar es agradable, tienen una panera deliciosa con una salsa que traen para untar. Recomendable"
+    }, 
+    {
+      "date": "7 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "katto65", 
+      "text": "fui con mis hijos al mediodia y despues volvi a la noche con mi se\u00f1ora, el lugar es agradable, la comida muy buena, el menu con comida para todos los gustos. para recomendar"
+    }, 
+    {
+      "date": "2 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pabloelcuervo", 
+      "text": "Lo elegi para un brindis post civil y estuvo muy acorde con las expectativas!!! buen lunch y servicio. la due\u00f1a con la que habia arreglado estuvo muy dispuesta... lo cual hizo todo mejor"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jesicarlak", 
+      "text": "La pase muy bien cuando fui a Vivace. El mozo, un colombiano super simpatico que nos atendio perfecto en todo momento. Por lo que consumimos, el precio es acorde, y la calidad, muy buena en serio. Comparti con 2 amigas una entrada de falafel y cada una pidio luego un plato elaborado. Yo opte por los fucciles con crema de hongos, acompa\u00f1ando con una copa de vino, y la verdad que inmejorable. La panera y la crema para untar, muy tentadoras. Pienso volver pronto y recomendarlo a mis amigos."
+    }, 
+    {
+      "date": "22 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nrgc", 
+      "text": "Excelente!. El lugar es muy calido, una panera muy gustosa y una comida a la altura de la gastronom\u00eda porte\u00f1a. La carta de vinos me pareci\u00f3 floja, pero todo tiene soluci\u00f3n. Muy recomendable."
+    }, 
+    {
+      "date": "20 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "magickitty", 
+      "text": "Vivace tiene ensaladas muy ricas, el lugar es hermoso y hay siempre mucha gente. Es un restaurante y una panaderia. Es perfecto para comer rapido."
+    }, 
+    {
+      "date": "25 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Eugenia", 
+      "text": "La cheff hace una comida espectacular, la atenci\u00f3n es muy buena y el ambiente es \u00edntimo y muy agradable."
+    }
+  ]
+}

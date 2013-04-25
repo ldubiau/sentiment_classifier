@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "24 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "verodemir", 
+      "text": "Fui con mi novio a tomar algo el viernes por la noche, y la verdad es que el lugar me gust\u00f3 mucho. Es m\u00e1s tranquilo del resto de la zona, pero bastante acogedor. Los precios son bastante accesibles, y los chicos que atienden son muy amables y simpaticos. Para recomendar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "reader", 
+      "text": "me gusto mucho el ambiente que hay,y sobre todo la atencion que tienen."
+    }, 
+    {
+      "date": "23 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "regiazul", 
+      "text": "Muy rica la comida, no hay variedad de platos, sirven 3 o 4 opciones por dia. Tambien los pancitos y entradita que sirven antes de la comida."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "pulpo", 
+      "text": "Mas all\u00e1 de considerar buena o mala la comida o el ambiente, lo desagradable fue la poca predisposici\u00f3n del personal para complacer al cliente. Desde luego que no volver\u00e9."
+    }, 
+    {
+      "date": "1 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "fui muchas veces a Alameda, uno de los t\u00edpicos caf\u00e9/ rest\u00f3 multiusos del centro que viene bien como opci\u00f3n econ\u00f3mica para salir del paso con alguna minuta de su variada carta, sin demasiadas pretensiones gourmet ni en los platos ni en la ambientaci\u00f3n ni el servicio. todos los rubros cumple hasta ah\u00ed, conforma pero no deslumbra"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elimuz", 
+      "text": "Muito pouco mencionado em guias tur\u00edsticos, tive a sorte de me hospedar perto deste caf\u00e9. Maravilhoso! Para quem aprecia a bebida um dos caf\u00e9s mais bem tirados e equilibrados que j\u00e1 tomei em minha vida. E o lugar \u00e9 impec\u00e1vel"
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "patobueno", 
+      "text": "Anoche estuve cenando con amigos y realmente el lugar cambio muchisimo.\r\nCambiaron personal, la atencion al cliente, el precio accesible pero la pizza y la comida la de siempre.\r\nLos super felicito !!!"
+    }
+  ]
+}

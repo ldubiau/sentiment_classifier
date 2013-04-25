@@ -1,0 +1,138 @@
+{
+  "malos": [
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "osalan", 
+      "text": "Solo ped\u00ed asado con fritas....No creo que sea tan dif\u00edcil .ni complicada su preparaci\u00f3n.Indudablemente al cocinero no le pareci\u00f3 lo mismo.Asado DURISIMO y p\u00e9simamente cocinado (arrebatado y crudo en  interior).  Mi consejo: HUIR ! Es preferible una hamburguesa.-"
+    }, 
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Klark", 
+      "text": "La verdad el lugar es bastante precario en cuanto a dise\u00f1o, no tiene un estilo definido y no hay buena iluminacion (de noche). El asado no era de muy buena calidad, ya que era duro y estaba cortado demasiado fino y no es muy abundante que digamos la porcion.\r\nEn cuanto la atencion, el problema es que hay un solo mozo para todo el restaurante.\r\nNo me gusto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SUPERFAT", 
+      "text": "Lugar impecable, antiguo en la zona, de precios mas que accesibles, atendido exclusivamente por sus due\u00f1os (Flia. Perez).\r\nSe llena por las noches de  familias y amigos. Cocina  casera.-"
+    }, 
+    {
+      "date": "13 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Nellouche", 
+      "text": "Restaurant de barrio con muy buena atenci\u00f3n por su due\u00f1o, platos del d\u00eda muy buenos, ofrencen ping\u00fcino y sif\u00f3n."
+    }, 
+    {
+      "date": "5 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "FeliSan", 
+      "text": "El mejor sandwich de milanesa y de suprema de haya probado. Un lugar con cero ambientaci\u00f3n  y cero onda pero con gran parrilla, y muy buenos precios."
+    }, 
+    {
+      "date": "10 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Morsaus", 
+      "text": "Es lo mas cercano a sentirse en casa. Desde el men\u00fa hasta la atenci\u00f3n."
+    }, 
+    {
+      "date": "20 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Diegowsr", 
+      "text": "Es barato y si no hay mucha gente te atienden rapido y amigablemente. No se destaca en ning\u00fan aspecto, pero si se est\u00e1 en la zona, hay antojo de parrillada y no hay mucho presupuesto puede sacar del apuro."
+    }, 
+    {
+      "date": "2 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JOSEPEPE", 
+      "text": "Excelente atenci\u00f3n. Comida caser\u00edsima. Muy buena relaci\u00f3n precio/producto. Para recomendar. Una fonda de aquellas."
+    }, 
+    {
+      "date": "6 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "osquito", 
+      "text": "BOLICHITO DE BARRIO. PRECIOS SUPER ECONOMICOS CON BUENA CALIDAD CASERA Y FAMILIAR. HUMILDE Y BIEN ATENDIDO. LA CARTA ES ESCASA SIN VARIACIONES AL IGUAL QUE LOS VINOS."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Biscuit", 
+      "text": "Recomiendo el Revualto de gramajo. Espectacular como siempre."
+    }, 
+    {
+      "date": "16 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lunini", 
+      "text": "Atenci\u00f3n excelente brindado por sus due\u00f1os"
+    }, 
+    {
+      "date": "15 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "joslp", 
+      "text": "Es un boliche familiar, atendido por sus propios due\u00f1os. Muy calido. Muy buena comida y a exelente precio."
+    }, 
+    {
+      "date": "14 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Biscuit", 
+      "text": "Discreto lugar ubicado en el l\u00edmite de Belgrano y Nun\u00f1ez.\r\nAmbiente calido. Simple y limpio. \r\nAtendido por sus due\u00f1os con mucho esmero."
+    }
+  ]
+}

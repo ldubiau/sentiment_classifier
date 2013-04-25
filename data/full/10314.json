@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "13 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pochyyta", 
+      "text": "Buena comida y excelente atenci\u00f3n"
+    }, 
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebazo", 
+      "text": "Caro y no aceptaban tarjeta.\r\nLa comida es muy rica, pero no vale el precio que te cobran."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sinorad", 
+      "text": "muy buen opcion en su categoria"
+    }
+  ]
+}

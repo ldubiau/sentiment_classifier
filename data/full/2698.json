@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "25 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "carna", 
+      "text": "Un lugar para comer como en tu casa, con platos caseros y bien servidos. De cantidades abundantes. Ideal para ir con amigos y sentirte c\u00f3modo. El servicio es bueno y los precios mejores todav\u00eda... La demora de los platos se acorta con la entrada de pancitos caseros horneados,panes de pizza y encurtidos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "millllly", 
+      "text": "Un lugar con mucha onda..atendido por sus due\u00f1os , muy casero todo, desde el pan hasta los postres..excelente la atencion y la m\u00fasica. Ademas el precio es super accesible y comes muy abundante.\r\nGracias y felicitaciones.!"
+    }, 
+    {
+      "date": "8 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gotademar", 
+      "text": "El servicio es bien casero, bien de barrio, hay que ir con tiempo pero la comida vale mucho la pena, es casera, hay que esperarla como la esperar\u00edas en tu casa ya fui en varias oportunidades tanto al mediod\u00f3a como a la noche y no me defraudaron."
+    }
+  ]
+}

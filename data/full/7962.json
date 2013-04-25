@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "1 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GammaRay", 
+      "text": "Como describir la pizza de Brego, en s\u00ed es una pizza de buena calidad con ingredientes de buena calidad y sabor, pero a esto hay que sumarle el sabor y el aroma de la cocci\u00f3n a le\u00f1a de quebracho colorado, una maravilla espectacular para el deleite de cualquier amante de la pizza, es altamente recomendable al igual que los calzones. He pedido otras comidas a Brego y sin embargo no destacaron tanto como la pizza, el lugar en s\u00ed es relativamente peque\u00f1o y familiar, con una terraza que vale la pena en verano, adentro es un poco ruidoso y la atenci\u00f3n es decente, pero el sabor de la pizza justifica!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Magaluisa", 
+      "text": "La comida de Brego es fantastica. La pizza napolitana INCRE\u00cdBLE! Siempre pedimos delivery y la atencion 100% buena."
+    }, 
+    {
+      "date": "3 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "UnRichard", 
+      "text": "La calidad de la comida excelente las pizzas y empanadas son al horno de le\u00f1a de quebracho, la atencion es muy amena y familiar, el lugar es calido aunque por el mismo horno hay olor a humo en el ambiente. Pero el saldo es altamente positivo en general."
+    }
+  ]
+}

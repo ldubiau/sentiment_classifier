@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Leono04", 
+      "text": "La atencion buena. Fuimos sabado a la noche despues de las 24hs, no hab\u00eda mucha gente. El asado estaba crudo, el servicio de mesa fue correcto, pero el precio muy excesivo para la comida que consumimos."
+    }, 
+    {
+      "date": "14 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Leoelflaco", 
+      "text": "Fuimos con mi sra. a comer pastas, yo pedi sorrentinos y fueron solo 5, asi que le comi los \u00f1oquis a ella; lo que estuvo bueno fue el jerez de cortesia mientas esperabamos la  comida, salvo por eso, no vuelvo."
+    }, 
+    {
+      "date": "8 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Miguerey", 
+      "text": "Las achuras son muy buenas, pero el asado, el vac\u00edo y el pollo bastante flojos; estaban duros y pasados. Muy rica la mousse de chocolate. Buena atenci\u00f3n, lindo lugar y caro para lo que te dan."
+    }, 
+    {
+      "date": "13 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Parrilla tranquila y sin sofisticaciones. Atenci\u00f3n y ambientes correctos, pero la carne que ped\u00ed no era todo lo tierna que esperaba. Probar\u00e9 de darle otra oportunidad. Para tener en cuenta, aceptan solo efectivo y ni siquiera tarjetas de d\u00e9bito."
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "comucapo", 
+      "text": "Muy buena la decoraci\u00f3n con elementos de boxeo. Por ser el di\u00ed del amigo tuve una peque\u00f1a demora y la atenci\u00f3n fue buena!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cosagolda", 
+      "text": "Estuve una noche con mi esposo y nos encant\u00f3 el lugar y la comida."
+    }
+  ]
+}

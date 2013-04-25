@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JA", 
+      "text": "Con el cambio de due\u00f1os sigue siendo una opci\u00f3n aceptable en comida pero el servicio fue desagradablemente demorado esta vez."
+    }, 
+    {
+      "date": "11 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Cambiaron de due\u00f1os y de nombre. Muy rica comida. Muy buen servicio. Muy atenta y simpatica la camarera. Vamos a volver y a pedir por telefono porque tienen delivery de la carta completa."
+    }, 
+    {
+      "date": "19 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "EHC", 
+      "text": "Sigue siendo una muy buena opci\u00f3n. Tranquilo y buenos productos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "Muy buena experiencia. Se repetir\u00e1 la visita.\r\nPara serles util, una idea de algo para mejorar... ahi va: Ahora viene el verano, por tanto, que no falten hieleras para las cervezas, que es una peque\u00f1a inversion a hacer."
+    }, 
+    {
+      "date": "24 Sep 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sbsg", 
+      "text": "excelente lugar , muy acogedor y excelente mercaderia y confort"
+    }
+  ]
+}

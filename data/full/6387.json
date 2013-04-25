@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "11 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "elGOMIA", 
+      "text": "realmente un desastre la atencion ,son pibes que poco saben lo que es atender a los clientes .\r\nLa presentacion de la mesa pobre y las porciones muy peque\u00f1as \r\nLa carne muy grasa(comi asado)y asada vuelta y vuelta COMO A LA PLANCHA.\r\nMi hija comio pastas cuya salsa es acida\r\nNUNCA MAS VUELVO A UN LUGAR ASI MALA EXPERIENCIA"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Yam12", 
+      "text": "Un lugar muy c\u00e1lido y familiar. la atenci\u00f3n es excelente y la comida muy deliciosa.\r\nuna buena opcion en el barrio de la boca que tan atestado est\u00e1 de restos de mala muerta s\u00f3lo para turistas..."
+    }, 
+    {
+      "date": "9 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rob_pennelli", 
+      "text": "buena atenci\u00f2n carne de ternera pastas caseras ambiente tipico de la Boca agradable"
+    }, 
+    {
+      "date": "18 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "negritaval", 
+      "text": "Excelente cantina de la boca, precios super accesibles, gaseosas de litro y medio, excelnte lugar para ir con amigos, si son varios lo ideal es reservar, porque el lugar no es muy amplio. La parrilla es riquisima, las pastas tambien, y tienen un postre de la casa que hay que probarlo! Vuelvo SEGURO!"
+    }, 
+    {
+      "date": "20 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rob_pennelli", 
+      "text": "Un lugar ameno con buena atenci\u00f2n, pastas exquisitas, con parrilla, carne de ternera, muy buenos precios, sin cobro de servicio de mesa; seguro, ya que esta al lado de una empresa recaudadora de caudales con el estilo que tiene La Boca. Vimos fotos en la que fu\u00e8 a comer Francis Ford Coppola, Ibarra el jugador de Boca, ameno y econ\u00f2mico."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "alicecooper", 
+      "text": "muy bueno, ambiente familiar"
+    }, 
+    {
+      "date": "21 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GRAGRA", 
+      "text": "Lugar ameno, onda bodegon de la boca, ambiente muy familiar, tranquilo, muy buena atenci\u00f3n , seguridad .se come muy bien y rico."
+    }
+  ]
+}

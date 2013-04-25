@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "30 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mai115", 
+      "text": "La atenci\u00f3n fue p\u00e9sima. Los \u00f1oquis llegaron crudos y frios.\r\nEl personal se port\u00f3 horrible, haci\u00e9ndonos quedar como locas. Nos hicieron esperar en la caja. Finalmente nos fuimos y nunca vamos a volver, pese a que \u00e9ramos clientas habituales."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Zarabah", 
+      "text": "Recomiendo para tomar el t\u00edpico caf\u00e9 con alguien y charlar un buen rato. Rico caf\u00e9 y riqu\u00edsimas medialunas de manteca."
+    }, 
+    {
+      "date": "18 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guillytoledo", 
+      "text": "Un restaurant normal podria decirse. Pero tiene un atractivo especial que es la parrillada libre con ensaladas y papas fritas. Hay muchas parrillas libres en Baires, pero la relacion precio/calidad es excelente en este lugar. Ya fui varias veces y siempre vuelvo por lo mismo. el resto de la carta no destaca pero tampoco decepciona."
+    }, 
+    {
+      "date": "25 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cedito", 
+      "text": "Voy seguido y la verdad que la parrillada para dos personas es exelente ademas de ser muy completa pueden comer mas de dos personas, la vez que pedi parrilla libre el parrillero trataba mal a la gente cuando pedia algo. y los mozos son macanudos sacando que alguno es menos servicial que otro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "BobeKukii", 
+      "text": "Muy buena comida,platos muy abundantes,uso el Delivery"
+    }
+  ]
+}

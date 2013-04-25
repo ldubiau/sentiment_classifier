@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "vickypix", 
+      "text": "Pedi un arroz que me vino recalentado. Pasado de coccion por fuera y crudo por dentro. El \"pollo corcante\" son cuadraditos de milanesa. Los platos parecen ser prometedores pero resultan ser un fiasco. Al elevar la queja lo unico que hicieron fue ofrecernos un cafe de cortesia. No vuelvo mas!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "romif", 
+      "text": "La entrada, papa rellena, se demoro mas de 20 minutos no tenia ni rastros de panceta. EL plato de fideos de arroz estaba muy rico, pero el plato del salteado de cerdo no vino acompa\u00f1ado por papas, sino por un timbal de arroz blanco crudo y seco. AL pedir la cuenta notamos que nos estaban cobrando uno de los platos a un precio mayor que el que figuraba en la carta. Al manifestarle el hecho a la mesera nos dijo que informaria para actualizar al carta pero no modifico el valor en la cuenta. Deje mi queja en un talon de sugerencias porque no poseen libro de quejas.Muy mal cuidado del cliente."
+    }, 
+    {
+      "date": "17 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Verk", 
+      "text": "Fui una sola vez al restaurante, pero es comodo, te atienden re bien y la comida esta muy buena.\r\nDelivery pido muy seguido, tardan lo que te dicen o menos. Y la comida es muy rica."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danton00", 
+      "text": "muy bueno todo a mis hijas les encanta"
+    }, 
+    {
+      "date": "30 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "loolo", 
+      "text": "Gran restaurant de comida china y americana, muy rico todo, me recordo mi viaje a EEUU, exelente  todo"
+    }, 
+    {
+      "date": "10 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sangoni", 
+      "text": "Fuimos por recomendaci\u00f3n de amigos y fue muy buena experiencia! Los woks est\u00e1n buen\u00edsimos!"
+    }
+  ]
+}

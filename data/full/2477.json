@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "22 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Alice_85", 
+      "text": "Que puedo decir de Hipolito? En la oficina pedimos todo el d\u00eda en este rest\u00f3bar y la verdad que siempre nos atienden de 10- La comida estilo gourmet, excelente. 100% recomendable."
+    }, 
+    {
+      "date": "6 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "yeguo", 
+      "text": "Muy buena atenci\u00f3n por parte de las camareras."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jomvera", 
+      "text": "Excelente comida casera"
+    }
+  ]
+}

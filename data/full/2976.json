@@ -1,0 +1,808 @@
+{
+  "malos": [
+    {
+      "date": "10 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jacd", 
+      "text": "Muy mala calidad de la comida. Entrada fria de arroz, papas mayo y fiambre. Se notaba del dia anterior.\r\nLo peor el bife chorizo se pidio jugoso llego recocido y las papas fritas se notaban  refritas. Daban la apariencia de haberse fritas las del dia anterior.\r\n\r\nNo tenian cafe, ni ofrecen tes ni aguas. \r\n\r\nEs para no ser recomendado. Mala imagen para turismo."
+    }, 
+    {
+      "date": "11 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "adrianobalmeida", 
+      "text": "Comida e atendimento ruins, apressados. comida sem sabor!!"
+    }, 
+    {
+      "date": "7 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "florgourmet", 
+      "text": "Horrible, la carne de la milanesa estaba horrible, el pure congelado y el precio poco acorde al plato servido. MAL"
+    }, 
+    {
+      "date": "24 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "osebo", 
+      "text": "Hac\u00eda mucho tiempo que no com\u00eda tan mal. Nos quejamos, tambi\u00e9n lo hicieron los de la mesa m\u00e1s pr\u00f3xima a nosotros, que ni pidieron el postre y huyeron. El mozo nos dijo que iba a llamar al Manager para que escuche nuestros co0mentarios. Jam\u00e1s vino. Son de cuarta."
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "onlymar", 
+      "text": "El lugar es realmente hermoso. La atenci\u00f3n fue buena. Nos dieron una mesa para dos pegada a otra estando el sal\u00f3n semivac\u00edo. Pedimos el cambio y lo hicieron.  El ba\u00f1o es un desastre, el de mujeres desprolijo y el de hombres con tres mijitorios a 12cm de distancia sin separaci\u00f3n. Pedimos souffle de espinaca, rico pero muy escaso. Luego lleg\u00f3 la \"cazuela de mariscos\", lo puse entre comillas porque realmente no lo era! Eran unos mariscos con salsa de pizza. El cocinero jamas prob\u00f3 una cazuela. Y sal\u00eda $70.- siendo muy escasa. Lo \u00fanico para rescatar la sinfon\u00eda de chocolates. Exquisito. No vaya!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "darro1970", 
+      "text": "El lugar esta bien ambientado, la comida es escasa pero buena, los mozos de aduladores ya empiezan a ponerse pesados. no es malo le falta algo. a mi modo de ver"
+    }, 
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "josebicho", 
+      "text": "El plato de entrada y los postres gustosos pero muy escasos. Podr\u00edan hacerlos apenas un poco mas abundantes para que resulten buenos.\r\nPlato principal rico y abundante.\r\nLa panera abundante, pero los pocillos con crema para untar sumamente escasos. Nos dieron dos de ello para todos (ocho personas). En promedio de regular a bueno."
+    }, 
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mvt2", 
+      "text": "Fuimos a festejar con mi novia otro a\u00f1o juntos. Lindo lugar, nos atendi\u00f3 un mozo muy atento el cual nos guio con los platos y con la suegerencia de no pedir entrada. Los platos que pedimos eran realmente abundantes y muy bien preparados. El lengualdo al papillon excelente! La panera variada y muy rica! Fuimos con un descuento del 30%. Vale la pena volver. Aplausos para el mozo!"
+    }, 
+    {
+      "date": "2 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "marianoV", 
+      "text": "Fui un martes por la noche con mi novia y nos encanto el lugar, muy lindo ambientado, la comida muy buena, buen servicio y un precio aceptable $45 (entrada, p. principal y postre) + bebidas (los vinos a buen precio), este precio es fijo y durante el fin de semana es mayor (creo que es de $65). No nos cobraron servicio de mesa y gastamos $60 p/persona. Muy recomendable."
+    }, 
+    {
+      "date": "2 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "MarinaVS", 
+      "text": "Comimos el men\u00fa con precio fijo: entrada, plato principal y postre. De entrada me dieron 5 (cinco) rabas, los platos principales tambi\u00e9n eran bastante chicos y el postre era un chiste: un brownie triangular del tama\u00f1o de 2 dedos y una mini-bochita de helado acorde. Tra\u00edan todo el tiempo paneras llenas de diversos tipos de pan y galletitas reci\u00e9n horneados, con lo que nos fuimos llenando. Hay muchos lugares que incluso por un precio menor ofrecen comida de la misma calidad y m\u00e1s abundante. El sector con vista al r\u00edo es s\u00f3lo fumador."
+    }, 
+    {
+      "date": "8 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ososibarita", 
+      "text": "Lugar agradable frente al r\u00edo, muy buena comida, pero los precios son excesivos, he comido en otros lugares de la zona el mismo tipo de cocina a menor precio, adem\u00e1s domingo por la noche (solo 3 mesas ocupadas) y el mozo no se acerc\u00f3 ni una sola vez a servinos el vino que hab\u00edamos pedido, esos detalles en un restaurante de estas caracteristicas son importantes."
+    }, 
+    {
+      "date": "9 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "leoA", 
+      "text": "Muy lindo lugar, linda vista, buena atencion, valet parking. Para ir con tu pareja. Comimos una bandeja de pescados (salmon, mero, trucha, etc. con un timbal de arroz). Estuvo bastante bien. Buena panera, copa de champagne para empezar. El postre una tarta de manzanas con helado, buena. Los precios un poco elevados, pero con el desc. de Amex. est\u00e1 muy bien. Recomendable para una noche especial, no es para visitarlo reiteradamente."
+    }, 
+    {
+      "date": "17 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "garcia", 
+      "text": "muy buena comida y atencion,,muy caro la tabla de fiambres ademas deberia ser mas chica,esta un poco caro todo,deberian hacer mas descuento a clientes locales ya que los precios les da para mas del 15%,voy seguido y voy a seguir yendo"
+    }, 
+    {
+      "date": "13 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "reckord", 
+      "text": "Buen lugar, la comida con materia prima de calidad y porciones generosas, algunas hasta para compartir. Opci\u00f3n muy recomendable."
+    }, 
+    {
+      "date": "14 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ukil", 
+      "text": "la verdad que tenia dudas de ir a cenar pero es un restaurant para recomendar .,la comida es exelente y la atencion tambien !!! volveremos"
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elchef", 
+      "text": "Fuimos por la promocion de Amex con un 30% de descuento y nos encontramos con que la calidad y el servicio siguen intactos...La comida excelente como siempre, igual el servicio.Sigan asi..."
+    }, 
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Ricardo_47", 
+      "text": "Uno ingresa a un clima cordial con m\u00fasica suave y acorde al ambiente de luz dicro\u00edca que le da calidez al lugar. Espacio suficiente que permite disfrutar de una hermosa noche. La comida es muy buena y los platos bien servidos. Un servicio cordial y eficaz. \u00c1ltamente recomendable."
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "GustavoCala", 
+      "text": "Excelente la comida, la atenci\u00f3n y ni hablar de la ambientaci\u00f3n. Un lugar para recomendar. Volver\u00e9! Much\u00edsimas gracias"
+    }, 
+    {
+      "date": "9 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "maruangi07", 
+      "text": "El lugar es lindo, la comida estuvo rica y los platos eran abundantes. Una pena que el mozo no nos advirti\u00f3 de esta situaci\u00f3n y terminamos pidiendo platos que sobrepasaban nuestro apetito. Tendr\u00eda que pensarlo antes de volver."
+    }, 
+    {
+      "date": "8 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maragones", 
+      "text": "Lo pase de maravilla, lo unico de lo que me puedo quejar es que eramos una mesa de 15 personas festejando un cumplea\u00f1os y nos atendian dos mozos, pero por lo visto no era suficiente ya que no nos atendieron bien, el primer champagne estaba tibio, a la cumplea\u00f1era no le pusieron cubiertos, no ofrecien bebida cuando era escasa pero apezar de todo nos divertimos mucho."
+    }, 
+    {
+      "date": "20 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CarlosXXI", 
+      "text": "Adhiero a las poderaciones en general ya hechas; como otro usuario reservamos y fuimos por el \"regalo\" cumplea\u00f1o del Bco Santander Rio. Luego de varios intentos en varios lugares (denegados) el call center nos recomend\u00f3 este y bien! Excepto la recepcionista que le cuchiche\u00f3 al mozo, y fuimos exclu\u00eddos de la invitaci\u00f3n con copa de champagne. Que amargos! Vayan a aprender a USA el manejo de promociones, m\u00e1s cuando el lugar estaba bastante vac\u00edo. Te hacen sentir mal."
+    }, 
+    {
+      "date": "25 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "bachi", 
+      "text": "Fui con 8 amigos a Cenar el S\u00e1bado , apartado fumadores con vista hermosa, buena atenci\u00f3n del Mozo, nos di\u00f3 5 Cartas de Men\u00fa que nos pas\u00e1bamos uno a otro para elegir los Platos , las entradas demasiado caras, pedimos 3 entradas para los 8, ejemplo : Langostinos con Salsa de crema de ajo, una plato enorme con solo 6 langostinos medianos $ 63.- los platos de entrada promedio $ 40 a $ 65 Risotto de Lomo 85% Arroz - 15% Trocitos de Lomo, sin postre con Caf\u00e9 la cuenta fu\u00e9 $ 695.- con 3 Botellas de Vino de $ 40.-, los precios de la gu\u00eda no condicen con la realidad - actualizar urgente los precios"
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Astarte", 
+      "text": "Es un restaurante donde se come bien, los platos son abundantes y tienen una buena variedad de comidas. El lugar es amplio, luminoso y con muy buena vista (algo cl\u00e1sico en \u00e9sta zona). Los precios son adecuados teniendo en cuenta la calidad y la ubicaci\u00f3n."
+    }, 
+    {
+      "date": "9 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ArielC", 
+      "text": "Buen lugar, la atenci\u00f3n fue buena y la comida muy bien preparada y de buena calidad todo. Lo unico que no me gusto es el servicio de valet parking dado que nadie salio a atenderme y cuando estacione enfrente me dijeron que ese lugar no lo cubrian"
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Celush", 
+      "text": "El ambiente es muy bueno, la atencion de mozo fue genial. La comida muy rica, los langostinos apanados en senamo son exquicitos, solo critico el plato de Lomo a las 3 pimientas, me parecio que una sola posta de lomo era muy poco y muy chica. Lo que tiene de bueno es el menu pre establecido con todo incluido, hasta el cafe!!\r\nLa verdad que es recomendable para ir en ocaciones, es un poco caro, pero lo vale. Excelente la pecera gigante que tienen en el medio del salon."
+    }, 
+    {
+      "date": "7 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Miyca", 
+      "text": "Muy buen nivel de cocina, adecuada y amable atenci\u00f3n y excelente relaci\u00f3n precio / calidad, para recomendar."
+    }, 
+    {
+      "date": "1 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "adriandevries", 
+      "text": "Muy bien ambientado,categoria,espacioso y moderno. Muy buen servicio ofrecido por el camarero Adrian, quien fue muy amable, correcto y profesional.Los platos abundantes y en su justo punto. Excelente para reuniones dado el espacio entre mesas.Salon fumador un poco caluroso y ruidoso de a ratos,la excelente vista al rio compensa.Es para disfrutar del buen comer."
+    }, 
+    {
+      "date": "4 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriller", 
+      "text": "Me pareci\u00f3 un lugar excelente, por ambiente, atenci\u00f3n y calida de la comida, a\u00fan en el men\u00fa ejecutivo. nos atendieron de primera, el parking es muy conveniente en la zona, y el lugar es precioso, todo en blanco y con mesas sobre el dock."
+    }, 
+    {
+      "date": "27 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "surfer83", 
+      "text": "Me llev\u00e9 una buena impresion de Donata. La comida es muy buena y los ingredientes de calidad. La atenci\u00f3n tambi\u00e9n es buena con la excepcion de los 50 minutos que tardaron en traer el pedido. Otra cosa a destacar es el calor que hace en los salones. M\u00e1s all\u00e1 de esto, muy buena comida y en su punto justo."
+    }, 
+    {
+      "date": "16 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "giovi", 
+      "text": "Estabamos festejando un acontecimiento con compa\u00f1eros del trabajo. La comida fue muy buena y servida a tiempo porque nos dieron la oportunidad de mandar los platos elegidos por cada uno por mail. \r\nNo nos gust\u00f2 la atenci\u00f3n, sobre todo cuando quisimos pedir caf\u00e9, que no estaba dentro del men\u00fa. No entendimos porqu\u00e9 si lo ibamos a pagar aparte."
+    }, 
+    {
+      "date": "30 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nipi", 
+      "text": "No se si es por tratarse de un martes pero todo estaba en su punto justo (salvo el aire acondicionado, hacia mucho calor). Platos apetecibles y para compartir; un placer fue la Sinfonia de Chocolate. \r\nLos precios en justa relaci\u00f3n."
+    }, 
+    {
+      "date": "11 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Hipocampo", 
+      "text": "Es Puerto Madero, todo muy lindo pero le falta algo."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "florclavin", 
+      "text": "La comida es buena y la porci\u00f3n est\u00e1 muy bien. El inconveniente fue que tardaron m\u00e1s de una hora en traerla porque hubo un problema (que desconozco) en la cocina. Por suerte nos descontaron el 50 de la cuenta en compensaci\u00f3n por la demora."
+    }, 
+    {
+      "date": "19 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "marcel", 
+      "text": "La comida es muy buena, a excepci\u00f3n de las rabas que parec\u00edan recalentadas en microondas, no estaban ricas. Escasa la carta de postres."
+    }, 
+    {
+      "date": "1 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "core2duo", 
+      "text": "Muy buena la comida y la presentacion de los platos, el Chandon estaba a temp. exelente y voy a volver."
+    }, 
+    {
+      "date": "11 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "satanas", 
+      "text": "el salon fumador es muy bonito la verdad tiene una vista muy romantica"
+    }, 
+    {
+      "date": "12 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Carolinca", 
+      "text": "Muy buena la pecera, los mozos, regular, se equivoc\u00f3 el la salsa..... En general todo ok pero no es deslumbrante desde ning\u00fan aspecto. Lo mejor, la pecera gigante."
+    }, 
+    {
+      "date": "9 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "poolman", 
+      "text": "buen lugar comodo.estoy conforme vuelvo."
+    }, 
+    {
+      "date": "14 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "El lugar es muy moderno, est\u00e1 muy bien decorado. La comida es muy buena. La atenci\u00f3n del mozo fue buena, en cambio al encargado deber\u00edan darle unas cuantas clases de buenos modales y buena educaci\u00f3n. Fuimos un grupo, \u00e9ramos cinco y pagamos con tickets, dejando propina para el mozo. Hay restaurantes que no les dan el excedente en dinero al mozo como propina y este es uno de esos casos. Esto no hubiese sido el problema si nos lo hubiese dicho de buena manera. Vino el encargado con diez pesos de tickets, cuando en realidad sobraban unos pesos m\u00e1s y lo que nos dijo fue: \"No le damos en efectivo lo que sobra en tickets, los tickets s\u00f3lo le servir\u00edan al mozo para colgarlo como un cuadro\". Totalmente fuera de lugar y por ese trato es que no volver\u00eda ni recomendar\u00eda este lugar. Hay tantos buenos lugares en Puerto Madero que no vale la pena."
+    }, 
+    {
+      "date": "13 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Damian73", 
+      "text": "Muy lindo el lugar y muy buena la atenci\u00f3n, los platos bien preparados.  S\u00f3lo deber\u00edan cocinar por m\u00e1s tiempo las carnes."
+    }, 
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Mafa", 
+      "text": "El lugar es relamente muy ameno. La comida fue buena en general (excepto los \u00f1oquis de espinaca y calabaza que no aportaban nada). La atenci\u00f3n no fue muy cordial, auqnue s\u00ed lo fue la recepci\u00f3n (no quise pensar que el hecho de anunciar el uso del descuento de esta p\u00e1gina influy\u00f3 en algo). Volver\u00eda por el lugar y, principalmente, por los platos de carne y la panader\u00eda que fue realmente exquisita. Creo que s\u00f3lo deber\u00edan mejorar la cordialidad y la atenci\u00f3n de los mozos. Como siempre aclaro que con mi pareja somos menores de treinta a\u00f1os y eso, muchas veces, por desgracia, influye en el trato. Comimos en el sector externo."
+    }, 
+    {
+      "date": "1 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "patopizzio", 
+      "text": "Excelente antenci\u00f3n... el lugar est\u00e1 bueno. La comida la verdad nos desilusion\u00f3.. el bife lo pedimos a punto y estaba mas bien crudo, tuvimos que pedir que lo cocinen mas y volvi\u00f3 m\u00e1s tostado por fuera pero igual por dentro. El chop suey estaba \u00e1cido.. no se si ten\u00eda vinagre o aceto sin reducir... Una l\u00e1stima porque por la atenci\u00f3n y el precio dan ganas de volver... a probar otros platos.\r\nEn el ba\u00f1o de hombre la verdad no habia buen olor..."
+    }, 
+    {
+      "date": "31 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kalva", 
+      "text": "La panera es excelente con una gran variedad de panes caseros. por consejo del mozo dos personas pidieron un lomo para cada uno, pues nos comento que era el tama\u00f1o para uno, se le pidio a punto, despues de una hora de espera, viendo que gente que lleg\u00f3 mucho despu\u00e9s que nosotros ya hab\u00edan sido atendidos y estaban por el postre reclamamos, los trajo inmediatamente pero casi crudos,lo pedimos nuevamente a punto y lo trajeron luego de un rato, quedaron 2 le pas\u00f3 a un tercer comensal con un bife de chorizo. los panqueques vienen 2 y estaban muy buenos, un consejo: pedir para compartir. no quedamos muy conformes con la atenci\u00f3n pero como la comida era sabrosa, le daremos una nueva oportunidad."
+    }, 
+    {
+      "date": "31 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "batar", 
+      "text": "Agradable ambiente. \r\nLos platos son muy buenos pero siguiendo la modalidad francesa no son abundantes. Es recomendable pedir una entrada."
+    }, 
+    {
+      "date": "30 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "didi23", 
+      "text": "El lugar es muy lindo. La comida es est\u00e1ndar. La atenci\u00f3n de los mozos fue muy esmerada. \r\nVolver\u00eda para comer pastas."
+    }, 
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "DanyV", 
+      "text": "El ambiente es super agradable. Bien decorado, colores sobrios, un lugar muy ameno, sobre todo si uno come afuera!\r\nLa comida es buena, sin llegar a sobresalir. La atenci\u00f3n es esmerada, los mozos muy atentos a que las copas nunca est\u00e9n vac\u00edas y amables a la hora de sugerir. Recomendable."
+    }, 
+    {
+      "date": "1 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Canuto", 
+      "text": "Un ambiente muy agradable. Los ba\u00f1os, muy peque\u00f1os. La carta es muy variada con un buen servicio. Muy rico todo lo que comimos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dolores", 
+      "text": "Fuimos con la promoci\u00f3n de $35 aparte la bebida. Difiero en  lo que dice la persona anterior pues realmente la comida estuvo muy buena y en su justa cantidad.\r\nEn lo que estoy de acuerdo es en el brownie pues generalmente se sirve con helado de crema americana y aqu\u00ed lo trajeron con una bochita de helado de frutilla sin gusto,aunque la masa s\u00ed estaba gustosa.\r\nNos invitaron con una copa de champagne. lo pasamos muy bien y la vista del sal\u00f3n fumador, que da al r\u00edo es muy linda aclarando que no fumamos pero no estuvimos inc\u00f3modos pues no se notaba que hab\u00eda gente que s\u00ed lo hac\u00eda."
+    }, 
+    {
+      "date": "24 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lu6dts", 
+      "text": "La pasamos muy bien.\r\nTodo el personal muy amable y predispuesto.\r\nLa relaci\u00f3n calidad/precio est\u00e1 bien. \r\nFuimos dos personas.\r\nPollo, Centolla, postre, cafe y una botella de champa\u00f1a $ 210 -30% de AMEX. Esta bueno. Volveremos"
+    }, 
+    {
+      "date": "15 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Qu\u00e9 puedo decir de Donata!Fue una experiencia maravillosa!Estuvimos en el sector fumadores con una vista espectacular,la comida excelente.Los platos super abundantes y sabros\u00edsimos(Mollejas crocantes con vegetales grillados en su punto justo,Torre de pechuga con gruy\u00e9re jam\u00f3n y salsa de quesos imperdible,matambrito de cerdo al usso nostro y ni qu\u00e9 hablar de un tiramis\u00fa pocas veces logrado).Si a esto le sumamos la atenci\u00f3n del mozo que estuvo atento a cada pedido,la experiencia fue grat\u00edsima.Adem\u00e1s los precios no son para nada elevados y se puede aprovechar el descuento de Amex.Fue un placer!"
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Profiterol", 
+      "text": "Fuimos a la noche de un lunes aprovechando el 30% de Amex, con dudas. Result\u00f3 excelente, super\u00f3 nuestras expectativas. Soberbios los solomillos, muy bueno el pollo en torre de quesos. Normal el postre. Destacable servicio, al mozo le comentamos al ppio que festej\u00e1bamos un cumplea\u00f1os y se acord\u00f3 perfectamente al final tray\u00e9ndonos una torta con vela. Adem\u00e1s nos aclar\u00f3 que los platos son abundantes (y lo son !)Muy agradable ambiente, de primera vajilla y mobiliario. Muy recomendable. 2 platos ppales, 2 aguas y un postre $144 menos el 30%; por lo que nos dieron, buena relaci\u00f3n precio-producto."
+    }, 
+    {
+      "date": "4 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "javy", 
+      "text": "Fui a Donata con la promo de Amex del 30% de dto. Y la verdad que teniendo en cuenta que tiene valet parking gratis, un servicio excelente (champagne de cortes\u00eda, maitre y mozos muy buenos) un ambiente de lujo (vajilla Premium, vista al dique, disposici\u00f3n de las mesas) y que decir de la comida, prob\u00e9 un lomo a la pimienta espectacular!! Con un malbec Triumpeter y de postre sinfon\u00eda de chocolate, todo por $65 c/u. Alguno tiene algo mejor que ofrecer, no creo."
+    }, 
+    {
+      "date": "27 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vdep15", 
+      "text": "Excelente este restaurant, que no se desdibuja un fin de semana como pasa con otros, fuimos con mi pareja a festejar un aniversario, la comida y la atencion es de una muy alta calidad, la sinfonia de chocolate es genial y el lugar dentro del marco de puerto madero se convierte en una velada muy especial"
+    }, 
+    {
+      "date": "25 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "matrox", 
+      "text": "Pedimos dos lomos distintos y los dos estaban exquisitos, muy bien condimendato y con un gusto excelente. Lo que si es un poco caro pero lo vale. La atencion del mozo fue de 1era y eso suma muchos puntos a favor. Lo recomiendo.!"
+    }, 
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yesicaer", 
+      "text": "Fuimos varias veces y realmente todo es muy bueno, desde la recepci\u00f3n, el maitre brinda un servicio excelente, la comida de primera y la atenci\u00f3n en general nos agrada mucho. Somos una pareja de gastron\u00f3micos, vamos seguido a Quilmes en donde nos atiende Dar\u00edo y a todos los que leen esta gu\u00eda, les recomiendo no dejar de ir a cualquiera de sus sucursales. EXCELENTES."
+    }, 
+    {
+      "date": "25 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JMartin", 
+      "text": "Es un lugar excelente para recomendar, la comida deliciosa, pedimos langostinos apanados con sesamo y carpacio de lomo de entrada, la trucha rellena de camarones espectacular y destaco muy especialmente los raviolones negros de centolla, un manjar.\r\nQuiero destacar la atenci\u00f3n recibida que fue estupenda. Muy recomendable, volveremos."
+    }, 
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jasper", 
+      "text": "Fui a conocer y la verdad que es un lugar excelente para recomendar, desde la atencion hasta la comida. Pedimos dos entradas, una de langostinos apanados con sesamo y otra de langostinos con una crema suave de ajo, sin palabras, muy rico al igual que la panera con la salsa de mayonesa. Como plato principal pedi la trucha rellena con camarones y pure duquesa, me llamo la atencion la cantidad de camarones que tenia y lo grande que son los platos, se nota que se esmeran y no escatiman en nada. La verdad que todo estaba excelente. Volvere."
+    }, 
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ferniez", 
+      "text": "Un lugar de primera.  Siempre que digo de ir a comer y gastar algo de dinero, no me se ocurren opciones tentadoras, ahora que conoci este lugar, la opcion existe.  Un lugar cuya atencion es excelente y de primer nivel, uno no tiene que estar pendiente de nada, pareciera que el camarero sabe lo que uno quiere sin decirselo.  Todo el personal atento y proactivo.  El menu muy variado y a su ves muy bueno, la relacion precio - lugar - calidad, es la correcta. Lo recomiendo."
+    }, 
+    {
+      "date": "12 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dolores", 
+      "text": "Con una invitaci\u00f3n de la Tarjeta de Banco R\u00edo por el cumplea\u00f1os de mi esposo conocimos este restaurante e \u00edbamos con muchas expectativas por las cr\u00edticas que tiene en la Gu\u00eda.\r\nTodos los comentarios fueron acertados. Desde el recibimiento, la atenci\u00f3n del mozo (N\u00ba 8), la comida, el ambiente fueron estupendos.\r\nSeguro que volveremos y lo recomendaremos."
+    }, 
+    {
+      "date": "14 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Robertakb", 
+      "text": "La atenci\u00f3n de los mozos muy buena de in\u00edcio al fin. La comida, sin coment\u00e1rios, espectacular."
+    }, 
+    {
+      "date": "12 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "kirkegaard", 
+      "text": "Fuimos comer el d\u00eda mi\u00e9rcoles por la noche. Quiero destacar el servicio que nos ofreci\u00f3 el mozo: brillante y muy atento y sin invadir nuestra privacidad. La comida, paella valenciana, una maravilla, y la degustaci\u00f3n de chocolates un manjar. El precio en relaci\u00f3n con el servicio y la comida es m\u00e1s que aceptable sobre todo si pensamos que es Puerto Madero."
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hagencuervo", 
+      "text": "El ambiente muy amable y tranquilo.  Denota esmero por la atenci\u00f3n.  La comida muy rica, cantidad abundante y de buena calidad."
+    }, 
+    {
+      "date": "26 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fermusarra", 
+      "text": "Fuimos sin tener referencia del lugar, excepto por \u00f3leo y la verdad que super\u00f3 nuestras espectativas. La comida, la atenci\u00f3n y el ambiente son \u00fanicos, sin hablar de la vista y la decoraci\u00f3n. El mozo que nos toc\u00f3 fue realmente muy atento y honesto, nos aconsej\u00f3 con los platos y no se equivoc\u00f3. Tiene valet parking y todo el staff es muy amable. Altamente recomendable."
+    }, 
+    {
+      "date": "15 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "RPA", 
+      "text": "Excelente la comida y la atenci\u00f3n, calido el lugar y los mozos muy atentos y con conocimientos amplios del men\u00fa."
+    }, 
+    {
+      "date": "8 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Roqui", 
+      "text": "Realmente un lugar exquisito,de buen gusto, con buen servicio y excelente menu. Felicitaciones."
+    }, 
+    {
+      "date": "26 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elchef", 
+      "text": "Comimos canelones y risotto. La comida excelente asi como el lugar, pulcro y vanguardista. El maitre nos hizo un descuento. Lo unico critricable es que el mozo al principio fue muy atento pero despues le toco una mesa mas grande para atender y nos dejo un poquito de lado, nada grave."
+    }, 
+    {
+      "date": "15 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cristiancg", 
+      "text": "EL SERVICIO MUY BUENO, ATENCION INMEDIATA Y CON TOTAL PRIVACIDAD, ERAMOS SEIS Y NOS SENTIMOS MUY COMODOS. LO RECOMIENTO EN SU TOTALIDAD"
+    }, 
+    {
+      "date": "22 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kuntur", 
+      "text": "La verdad disfrut\u00e9. El lugar para ser nuevo es exelente, mi mujer y yo lo disfrutamos. Aparte nos comentaron que en breve van a tener un espacio para fumadores con vista al rio."
+    }, 
+    {
+      "date": "13 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "la_pasada", 
+      "text": "La comida es muy buena. El mozo que nos toc\u00f3 era un poco principiante pero el lugar no se merece mal puntaje por eso. No se pierdan la panera, es de las m\u00e1s ricas que prob\u00e9.\r\nEl ambiente es muy bueno, lo \u00fanico que no me gust\u00f3 fue que el aire acondicionado estaba muy fuerte."
+    }, 
+    {
+      "date": "11 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "torna", 
+      "text": "Altamente Recomendable."
+    }, 
+    {
+      "date": "2 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "majis", 
+      "text": "Una grata sorpresa por la calidad de los platos, la buena carta de vinos y la excelente atenci\u00f3n. Es un lugar recomendable y para volver."
+    }, 
+    {
+      "date": "16 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Guille62", 
+      "text": "La comida estaba muy buena, me sent\u00e9 afuera y me com\u00edan los mosquitos. El mozo me trajo repelentes y espirales para que me encuentre c\u00f3modo. Lo recomiendo totalmente."
+    }, 
+    {
+      "date": "11 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "osocharlie", 
+      "text": "El lugar es hermoso, soy cliente de Donata en Quilmes y me sorprendi\u00f3 gratamente esta nueva sucursal. Comimos muy bien, la mercader\u00eda es excelente y la atenci\u00f3n c\u00e1lida. La carta es variada y con buenos platos, el precio es razonable. Ojal\u00e1 les vaya muy bien, voy a volver."
+    }, 
+    {
+      "date": "11 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yesicaer", 
+      "text": "Soy cliente de Donata en \"Quilmes\" y quisimos conocer el del Puerto. Qued\u00e9 muy conforme con la atenci\u00f3n, la limpieza, excelente la ambientaci\u00f3n y muy buena la comida. Espero tengan mucho \u00e9xito. \u00a1Felicitaciones!"
+    }, 
+    {
+      "date": "4 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eldoto", 
+      "text": "Muy grata sorpresa nos llevamos mi se\u00f1ora y yo cuando fuimos ya que la \u00fanica referencia era la Gu\u00eda Oleo. Realmente un lugar muy acogedor con muy buena comida y variada carta a un precio razonable. Volveremos."
+    }, 
+    {
+      "date": "24 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ricardo_47", 
+      "text": "Uno ingresa a un clima cordial con m\u00fasica suave y acorde al ambiente de luz dicro\u00edca que le da calidez al lugar. \r\nEspacio suficiente que permite disfrutar de una hermosa noche.\r\nLa comida es excelente y los platos bien decorados. Un servicio amable y eficaz.\r\n\u00c1ltamente recomendable."
+    }, 
+    {
+      "date": "3 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "querico", 
+      "text": "Solemos salir por puerto madero y nos llam\u00f3 la atenci\u00f3n este restaurant nuevo por su ambientaci\u00f3n, est\u00e1 muy bien decorado y prolijo. Buena atenci\u00f3n de los mozos, atentos, y excelente carta! todo muy tentador, platos elaborados, daban ganas de pedir todo! probamos 3 platos y todos estaban deliciosos, pastas al dente, carne bien a punto. Lo m\u00e1s flojo de la carta, los postres (poca variedad). El \u00fanico detalle son las sillas, realmente inc\u00f3modas, y faltar\u00eda m\u00fasica funcional afuera en la galer\u00eda. Voy a volver!"
+    }, 
+    {
+      "date": "3 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "el_platense", 
+      "text": "Un lugar agradable, bien atendido y con precios aceptables."
+    }, 
+    {
+      "date": "27 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lilisol", 
+      "text": "Me pareci\u00f3 muy c\u00e1lida la atenci\u00f3n. Con respecto a la comida, los langostinos y la paella estaban realmente deliciosos. La creme brul\u00e9e para mi gusto deber\u00eda haber estado un poquito mas fr\u00eda."
+    }, 
+    {
+      "date": "27 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriancito", 
+      "text": "Excelente ambientaci\u00f3n y  muy buenas las pastas."
+    }
+  ]
+}

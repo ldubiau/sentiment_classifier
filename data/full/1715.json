@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "12 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Androide", 
+      "text": "Me quede despues a bailar y se pone buenisimo!! muy recomendable...!!"
+    }, 
+    {
+      "date": "30 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tomari", 
+      "text": "Media picada bien servida para 2, con variedad de fiambres y quesos, sin grandes pretensiones pero cumplio con las expectativas de calidad y buen precio. El lugar se hace boliche a partir de la 1am de jueves a domingos."
+    }, 
+    {
+      "date": "2 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Tukito", 
+      "text": "Un lugar agradable para beber una cerveza, con amigos y comer una comida rapida."
+    }, 
+    {
+      "date": "1 Jun 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "javerius", 
+      "text": "Lindo lugar para ir a tomar algo..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chelo17", 
+      "text": "Muy buen ambiente, y la ubicaci\u00f3n es excelente, nos quedamos en la trasnoche y se pone para bailar con la vista al rio y a la ciudad... me sorprendi\u00f3"
+    }, 
+    {
+      "date": "21 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lauraffo", 
+      "text": "Muy buen ambiente y m\u00fasica."
+    }, 
+    {
+      "date": "15 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mariano_", 
+      "text": "La comida es excelente, sumada a la buena atenci\u00f3n y el c\u00e1lido ambiente que da el interior del local, que tiene la mejor vista de la ciudad."
+    }
+  ]
+}

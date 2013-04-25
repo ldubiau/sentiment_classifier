@@ -1,0 +1,738 @@
+{
+  "malos": [
+    {
+      "date": "7 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "maceracion", 
+      "text": "Lo PEOR: mucho ruido. La comida pasable. Tardan mucho en atender. Sol\u00eda ser econ\u00f3mico, ya no. Si sos adolescente tard\u00edo y carec\u00e9s de paladar, no te va a decepcionar."
+    }, 
+    {
+      "date": "10 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "quimos", 
+      "text": "Miercoles 20 horas, solo nosotros dos en el lugar.\r\nComida simple, pero tardo 40 minutos en llegar. Porciones suficiente para una persona. Costillas de cerdo(23), dos y bien finitas, batatas fritas (7) crudas, suprema napolitana (20)regular, papas fritas (7) ok. Ambiente descuidado, mal iluminado, un poco sucio. No prendieron el aire Acond.(31 grados afuera) hasta las 9PM. Servicio bien amateur trajo las cosas en cuentagotas, el pan (de pizza (rico) llego despues de la comida. No fue muy buena experiencia, no vale la pena volver."
+    }, 
+    {
+      "date": "11 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "La atenci\u00f3n estuvo correcta, el lugar es ruidoso, oscuro, no se puede leer la carta. La comida es barata, no de buena calidad, no es un lugar para comer, es m\u00e1s bien un bar, pero para bar tiene pocas opciones de bebidas."
+    }, 
+    {
+      "date": "28 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "bella_ana", 
+      "text": "La pizza es pobre en ingredientes y bastante comun, poca provision de cervezas, tenian pocas variedades y tuvieron que salir a comprar afuera. No lo recomiendo."
+    }, 
+    {
+      "date": "17 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "grachu", 
+      "text": "La pizza me pareci\u00f3 de buen sabor pero de mala proporci\u00f3n, mucho borde y poco relleno.\r\nLas pastas tambi\u00e9n ten\u00edan buen sabor pero vi\u00e9ndolas detenidamente no me parecieron caseras como lo anuncian en su carta. Fuera de esto, el ambiente del local me pareci\u00f3 excelente."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Micenas", 
+      "text": "Las veces que he ido me han atendido muy bien, pero es cierto que nunca v\u00ed el lugar totalmente lleno de gente. El lugar es rustico y quiz\u00e1 eso lo haga algo especial. La carta es interesante ya que  a las minutas y pizzas, se suman picadas, tapas y otros platos elaborados. La calidad de los platos es intermedia. Lo recomiendo para ir a picar algo con amigos, pero no es lugar para una cita romantica o para ir con pretensiones."
+    }, 
+    {
+      "date": "31 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "walquiria", 
+      "text": "Muy buen lugar, platos para compartir, lindo ambiente y comodo para estacionar. Los vinos un poco caros, tuvimos que pedir un pinguiino que de todos modos era aceptable. Volveremos"
+    }, 
+    {
+      "date": "18 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lanchine", 
+      "text": "fuimos con unas amigas a festejar un cumplea\u00f1os. muy rica la comida y a buen precio pero tard\u00f3 demasiado en llegar. era un pedido para salir r\u00e1pido pero la persona que nos atend\u00eda estaba muy dispersa."
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar muy agradable, ambientado con infinidad de adornos antiguos, posters y mesas r\u00fasticas que lo hacen muy c\u00e1lido y descontracturado. La atenci\u00f3n,  amable  y la carta para distintos paladares, ya que adem\u00e1s de tablas, pizzas y barcos, preparan platos de cocina.  Probamos los barcos, su especialidad;  una suerte de calzone abierto, con masa de pizza muy finita rellenos de distintos tipos de ingredientes, sabrosos y abundantes.  Los precios son correctos. Algo diferente que vale la pena conocer."
+    }, 
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "VickManana", 
+      "text": "Fuimos con 5 amigas a la noche y la pasamos muy bien. No hab\u00eda mucha gente. Hay lugar afuera y adentro. El chico que nos antendi\u00f3 fue super buena onda y atento. Las pizzas muy buenas, salvo una que vino un poco blandita la base. Los postres regulares. El helado es de balde, resta puntos. Me pareci\u00f3 un poco caro para lo que es. Pero se entiende con los precios exorbitantes e inflados de hoy en d\u00eda."
+    }, 
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "axmf55", 
+      "text": "Fuimos un miercoles con unos amigos a tomar algo despues del trabajo, abre medio tarde (a eso de las 8), pero esta bueno para tomar algo y comer una picada o unas pizzas"
+    }, 
+    {
+      "date": "2 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vickylan", 
+      "text": "excelente lugar para comer rico, pasarla bien en un ambiente relajado. lo recomiendo totalmente."
+    }, 
+    {
+      "date": "1 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cybernecia", 
+      "text": "Fui a la noche, la comida est\u00e1 muy bien y la ambientaci\u00f3n es muy agradable. Fui en pareja, a tomar cerveza (est\u00e1n muy caras, 36$ la Stella) y a comer algo de picar. Volvimos por son sandwiches y la experiencia fue la misma. Porciones para compartit."
+    }, 
+    {
+      "date": "3 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "El lugar tiene onda, es descontracturado y simple pero esta bien puesto. Muchas mesas de madera en la calle y muy buena ubicacion en una esquina. La pizza en buena, los barcos (pan de pizza relleno tipo sandwich) son copados. Buen precio."
+    }, 
+    {
+      "date": "17 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "jurodri", 
+      "text": "MUYYYYYYYYYY RUIDOSOO !!!!! Eso que fui 30 minutos por qe solo tome cerveza y acompa\u00f1e con algo! No me gusto la ambientacion"
+    }, 
+    {
+      "date": "1 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "aspirineta", 
+      "text": "Fui con un amigo a comer unos lomitos. El ambiente es calido y relajado. Para la ocasi\u00f3n estuvo bien."
+    }, 
+    {
+      "date": "5 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Martin82", 
+      "text": "Excelente ambiente, logra transmitir un ambiente de relax y disfrute. La comida acompa\u00f1a muy bien, tienen un plato muy original llamado barcos que vale la pena probar. Recomiendo pasar por este reducto \u00fanico de palermo. Ideal amigos o pareja"
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ANAYJOSE", 
+      "text": "Este es un lugar donde voy a comer seguido al mediodia.. Fui una vez y me encant\u00f3 y siempre vamos, muy c\u00e1lido, el ambiente tiene muy buena onda y tiene una carta variada y con muy buenos precios. Las ensaladas son deliciosas, sobre todo la de at\u00fan.... la pido siempre. Mejorar\u00eda el caf\u00e9!!!\r\nRecomendable"
+    }, 
+    {
+      "date": "26 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "julycarlos", 
+      "text": "Pedimos quesadilla con aros de cebolla (segun carta) y trajeron solo una quesadilla con 2 hojas de lechuga, los aros brillaron por su ausencia. La explicacion fue que estaban dentro de la quesadilla (lo cual no eran aros y solo cebolla reogada). La camarera sorprendida y molesta pregunt\u00f3 que si esperabamos algo diferente. No saben que ofrecen todo el mundo como \"aros de cebolla\"?. La provoleta bien. Aunque los precios muy caros para la cantidad que sirven. El ambiente muy ruidoso, ademas nos fue molesto oler el humo a marihuana de la mesa al lado, habiendo familias cenando en sus cercanias."
+    }, 
+    {
+      "date": "12 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "melquiades", 
+      "text": "El aire que corre en las mesas de la vereda en esa esquina, la decoraci\u00f3n e lugar, todo TODO te hace sentir como si estuvieras en un bar en Punta del Diablo, Cabo Polonio o alg\u00fan otro de esos pueblos de la costa uruguaya. Imperdible en primavera/verano."
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Taibug", 
+      "text": "Pens\u00e9 que era un lugar para picar algo o comer algo r\u00e1pido, pero mi s\u00e1nguche tard\u00f3 15 minutos m\u00e1s que el wok de pollo, vegetales y arroz de mi amigo. Y me pareci\u00f3 una desatenci\u00f3n terrible que hayan tra\u00eddo un plato cuando el otro no estaba, y no estuvo hasta que el primero estuvo helado. El ambiente es muy lindo, la decoraci\u00f3n va con el lugar, pero es demasiado ruidoso. Quiz\u00e1 todos estos puntos en contra se dieron porque era s\u00e1bado a la noche, pero es una l\u00e1stima. Lo que vale la pena es pedir unas empanadas para llevar, porque son riqu\u00edsimas, aunque caras."
+    }, 
+    {
+      "date": "13 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "aaltamir", 
+      "text": "Fuimos al mediod\u00eda y a la noche. Al mediod\u00eda tranquilo, pero a la noche la cosa se pone mas movida, y las mesas est\u00e1n muy juntas, lo cual hace ruidoso e inc\u00f3modo el lugar. No recomiendo ir cuando hay mucha gente. La comida est\u00e1 buena para el precio que se paga, y las ensaladas valen realmente la pena. No es un lugar para exigentes, es para ir con amigos y estar a los gritos tomando cerveza. MUY bueno el pan reci\u00e9n horneado que te dan de entrada!."
+    }, 
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Marie__", 
+      "text": "Me pareci\u00f3 muy bueno, la decoraci\u00f3n es genial, la comida estaba buena, y la atenci\u00f3n muy atenta. Es un lugar descontracturado, hay que tener en cuenta que hay bastante ruido, cosa que a mi particularmente no me molesta, pero a otros quiz\u00e1s s\u00ed. Vale la pena observar los objetos que componen la decoraci\u00f3n del lugar. Volver\u00e9!"
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "gise27", 
+      "text": "Reservamos con amigos y nos prepararon las mesas en un sector muy reducido y hacia mucho calor.Comimos unas pizzas muy buenas y la atenci\u00f3n me gust\u00f3."
+    }, 
+    {
+      "date": "5 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "emi80", 
+      "text": "La verdad que el sal\u00f3n en si es hermoso, decorado impecablemten, es entretenido nada mas ir a mirar las cosas colgadas. La comida esta originalmente presentada y es buena, la bebida fria y el servicio atento. La verdad volveria, la pase muy bien, salvo por un detalle habia estacionado el auto sobre gascon a menos de 50 metros de rstaurante, dado que no ofrecen ni hay cerca estacionamiento y me robaron una llanta completa. Consejos ir en taxi y para el lugar mejroar la limpieza de ba\u00f1os."
+    }, 
+    {
+      "date": "10 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pauspa", 
+      "text": "Muy agradable el lugar y la decoracion"
+    }, 
+    {
+      "date": "12 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DAramis", 
+      "text": "Ambiente informal y original. Un tanto ruidoso.Los mozos que nos atendieron le pusieron mucha onda, pero no alcanza para contrarestar la desorganizaci\u00f3n general del lugar. Digo LOS mozos porque nos tomaron \u00f3rdenes 4 distintos.Tal como dicen por ah\u00ed, la cerveza es demasiado cara.Si quieren picar algo, no pidan rabas: tardaron 45 minutos y la porci\u00f3n es insultantemente peque\u00f1a."
+    }, 
+    {
+      "date": "26 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cloe", 
+      "text": "En La Peca suelo cenar o almorzar con frecuencia, al igual que el servicio del delivery. La comida es excelente, su precio razonable. Es desproporcionalmente cara la cerveza y lo \u00fanico que critico al lugar es la ac\u00fastica. En las horas pico se llena y el griter\u00edo es pesado. Esto se contrapone a la particularidad del lugar, la excelente onda de los mozos que si bien est\u00e1n a mil son atentos y amables."
+    }, 
+    {
+      "date": "12 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "pechugaslocas", 
+      "text": "Lindisimo para viernes con amigos. Buen ambiente, linda musica y las masa de las pizzas y los barcos increibles, finitas y crocantes. Todo con sabor a horno de le\u00f1a. La cerveza helada."
+    }, 
+    {
+      "date": "19 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cocoloco", 
+      "text": "Muy buen lugar, lamentablemente muy ruidoso. Tanto que hasta a los mozos se les hizo dif\u00edcil tomar el pedido. Las pizzas fueron excelentes tanto en su presentaci\u00f3n como en sus ingredientes."
+    }, 
+    {
+      "date": "23 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "DanielaNuni", 
+      "text": "Las empanadas son diminutas y cada dia mas caras. El ambiente esta buenisimo. La atencion algunos dias es muy buena y otros es p\u00e9sima. Pero es un lugar ideal p\u00e0ra estar con amigos."
+    }, 
+    {
+      "date": "26 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Buenas pizzas, servidas en un ambiente algo oscuro y ruidoso quiz\u00e1 orientado m\u00e1s a grupos j\u00f3venes que a parejas o quienes quieren algo m\u00e1s tranquilo. La atenci\u00f3n es la habitual en mozos j\u00f3venes de esta zona: algo desatentos y distra\u00eddos, pero zafa. Los precios son muy razonables."
+    }, 
+    {
+      "date": "15 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "sushi", 
+      "text": "Fuimos nuevamente porque est\u00e1 cerca y tiene opciones de comida ... a veces es complicado salir con amigos y que todos estemos de acuerdo en la 'etnia' que nos interesa.\r\n\r\nLa Peca est\u00e1 buena, pero la atenci\u00f3n deja mucho que desear, parece un bar de la costa atl\u00e1ntica para adolescentes.\r\n\r\nCon 35\u00b0 de temperatura los aires A/C no funcionan. Los nachos con queso tienen el queso en la superficie y el 3/4 que est\u00e1 abajo no tiene nada .. igual a los comprados en el supermercado.\r\n\r\nLa comida tarda ... como tarda desde que ped\u00eds la cuenta hasta que la traen.\r\n\r\nUn 'comod\u00edn' no tan atento."
+    }, 
+    {
+      "date": "16 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sensei11", 
+      "text": "Es una pizzera con mucha onda, mucha gente joven, buena musica; la comida esta buena, tiene mucha variedad para ser una pizzeria.\r\ncocinan absolutamente todo al horno de barro, recomiendo los barquitos y la pizza."
+    }, 
+    {
+      "date": "9 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Wendy", 
+      "text": "La carta ofrece muchas opciones: los barcos est\u00e1n muy bien presentados (y abundantes), las ensaladas vienen en un plato enorme y las pastas se sirven en una fuente de barro, sobre una tabla de madera, donde hay pan de pizza (calentito) y compotera con queso rallado. Como detalles, considero que la iluminaci\u00f3n no colabora con el ambiente (lo hace un tanto l\u00fagubre), m\u00e1s all\u00e1 de estar decorado con criterio. Es uno de esos lugares donde se puede comer bien y abundante, en compa\u00f1\u00eda de amigos, por treinta y algo de pesos..."
+    }, 
+    {
+      "date": "24 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "coconut", 
+      "text": "para ir con amigos a comer pizza (no la probe, pero dicen que esta bien) o, mejor, un barco pirata como el royal fortune -pollo, verduras asadas y provolone- que sale con papas. es un buen flash el de convertir un simple sanwich en un barquito. pero eso si, me parece que 30 mangos es un poco caro para el producto (se pueden compartir, pero si son dos de buen comer hay que pedir algo mas)."
+    }, 
+    {
+      "date": "8 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "TuTiTa", 
+      "text": "El lugar tiene mucha onda, la atenci\u00f3n es muy buena, le gente es re simp\u00e1tica. Comimos Barco con papas fritas imperdible!!! muy rico. Ya habia ido el a\u00f1o pasado a festejar mi cumple, es un lindo lugar."
+    }, 
+    {
+      "date": "22 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alemilci", 
+      "text": "Para ir con amigos es el lugar. Los platos son abundantes y la pizza es muy buena. Muy buena onda y ambiente relajado que acompa\u00f1a. Es un punto de reuni\u00f3n que no puede faltar."
+    }, 
+    {
+      "date": "8 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Moe", 
+      "text": "Hay de todo! Pizza, Pasta, Espectaculares Sandwiches y Parrilla.\r\nTodo de excelente Calidad y Barato. Me sorprendi!\r\nIdeal para ir con amigos. Ambiente ruidoso y reina la \"juventud\".\r\nMuy recomendable. Vuelvo."
+    }, 
+    {
+      "date": "5 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Marumilli", 
+      "text": "Suelo ir seguido, me gusta mucho el clima de la peca, tienen buena m\u00fasica y muy buena onda en la atenci\u00f3n. La comida me encanta, recomiendo absolutamente los barcos y los lomitos, tambi\u00e9n la ensalada de pollo con hongos y albahaca. Los postres mejoraron muuuucho, altamente recomendable el banana split."
+    }, 
+    {
+      "date": "28 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Javier_Chavo", 
+      "text": "El lugar me gust\u00f3, es un poco oscuro, pero tiene mucha buena onda. Est\u00e1 bien para ir a divertirse y a pasar un buen rato con amigos."
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Mukenio", 
+      "text": "El lugar no tiene aire y con tanta gente se torna sofocante. El mozo que nos toc\u00f3 era desatento y atolondrado, igual dentro de todo zaf\u00f3 en la atenci\u00f3n.\r\nLa comida lle\u00f3 45 minutos despu\u00e9s de haberla pedido. Mis papas espa\u00f1olas estaban de tibias fr\u00edas. Cuando lo coment\u00e9 en la mesa mis amigos se percataron de lo mismo con sus propias papas. Mis mollejas estaban bastante bien, aunque lo m\u00e1s sabroso era la salsa al verdeo.\r\nLa propuesta es muy buena e interesante pero hay detalles a los que deber\u00edan prestarles m\u00e1s atenci\u00f3n. Son detalles que decepcionan."
+    }, 
+    {
+      "date": "20 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "NicoP23", 
+      "text": "Venian perfectamente, pero ultimamente subieron muchisimo los precios, pero no asi el servicio ni la calidad de los platos.\r\nYo iba siempre y ahora deje de ir.\r\nEn la pagina dan precios m\u00e1s bajos para delivery, pero a la hora de cobrar, es el mismo.\r\n\r\nSale carisimo, no tenes aire, subio la cerveza, los mozos cada vez peores. Una lastima!"
+    }, 
+    {
+      "date": "14 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sole83", 
+      "text": "Comimos muy bien, pero el ambiente nos resulto un tanto ruidoso. La cerveza muy barata y la onda del lugar copada, lastima el ruido..."
+    }, 
+    {
+      "date": "19 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "J_R_", 
+      "text": "Es un lugar bonitamente amueblado (mesas r\u00fasticas, bancos en lugar de sillas, maletas y otras cosas viejas colgando), aunque el ambiente no colabora: m\u00fasica fuerte y me toc\u00f3 sufrir una actuaci\u00f3n de un tr\u00edo de viento, bombo y redoblante que interrumpi\u00f3 nuestra charla por varios minutos.\r\nLa pizza es buena,pero tambi\u00e9n muy recomendable el \"Bife de chorizo Galindez\", abundante, tierno y con unas papas espa\u00f1olas muy logradas.\r\nAlgo para mejorar: s\u00f3lo se puede pagar en efectivo..."
+    }, 
+    {
+      "date": "4 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sushi", 
+      "text": "Com\u00ed pollo con pur\u00e9 porque estaba enferma pero recomiendo los 'barcos' y no as\u00ed las picadas que de vez en cuando no tienen todos los ingredientes que prometen. Las pizzas y sandwiches son muy buenos."
+    }, 
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "viropina", 
+      "text": "Buena m\u00fasica, linda ambientaci\u00f3n, tacos abundantes. El camarero fue muy amable y tuvo muy buena onda. Fuimos temprano y no hab\u00eda mucha gente,por lo que pudimos charlar sin problemas.\u00a1Voy a volver con mis amigos!"
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Giyo", 
+      "text": "Muy lindo el lugar, el ambiente y cordial la atencion. Da para volver y seguir probando otras especialidades de la casa."
+    }, 
+    {
+      "date": "18 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "rayaenelmar", 
+      "text": "Hace a\u00f1os que soy clienta de La Peca, l\u00e1stima esta vez que fuimos, el lomito que ped\u00ed estaba fr\u00edo, y la carne no era lo mejor. Viernes a la noche, desbordando de gente. Lo malo del lugar es ese ruido ensordecedor que no permite conversar con los dem\u00e1s comensales."
+    }, 
+    {
+      "date": "4 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dieguistico", 
+      "text": "Fui un viernes a la noche con mi novia, y pese a que se hab\u00eda cortado la luz, el lugar segu\u00eda a full con velas y buena voluntad. Pese a la circunstancia adversa, la atenci\u00f3n fue muy buena y el trato agradable. La comida es rica y original, y tambi\u00e9n razonablemente abundante. El ambiente algo ca\u00f3tico, pero es coherente con el esp\u00edritu informal del lugar."
+    }, 
+    {
+      "date": "26 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jmpooh", 
+      "text": "El lugar es interesante. \r\nEl problema, aparte de que hace un calor terrible adentro del restaurante, es que los platos son de madera, cosa prohibida por bromatolog\u00eda, y peor a\u00fan, tienen terrible olor a humedad. La bebida sin alcohol la sirven casi en punto de ebullici\u00f3n de lo caliente que esta."
+    }, 
+    {
+      "date": "29 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "LaFondaDeBaco", 
+      "text": "El lugar es excelente. Tiene mesitas afuera, para compartir una cerveza con amigos y unas pizzas riqu\u00edsimas. Recomiendo altamente los \"barcos\", una especie de semi-sandwiches muy bien servidos. Tambi\u00e9n las pastas son muy buenas, yo he probado los malfatti con salsa de hongos que te los sirven en tablitas de maderas bien r\u00fasticas, muy recomendables. Puesto que el lugar no tiene acondicionador de aire y teniendo en cuenta que las cervezas no se calienten, las mismas vienen servidas en acogedores vasos t\u00e9rmicos de telgopor; un valor m\u00e1s, que agregado para estos d\u00edas de calorcito, suma."
+    }, 
+    {
+      "date": "17 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "deedee", 
+      "text": "Un lugar para ir a comer pizza con amigos en un ambiente informal.  \r\nLa especialidad son los \"barcos\": un especie de taco gigante con masa de pizza rellena acompa\u00f1ado de papas fritas. La variedad de cervezas tendr\u00eda que mejorar, sobre todo por ser un lugar de pizzas. Muy simp\u00e1ticos los camareros."
+    }, 
+    {
+      "date": "15 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "wicho", 
+      "text": "Comida excelente, trato muy agradable por parte del personal y muy sorprendido de la belleza de las mujeres aregentinas. Soy un mexicano que reci\u00e9n visit\u00e9 Buenos Aires y me qued\u00e9 gratamente seducido por su gente. Saludos afectuosos."
+    }, 
+    {
+      "date": "4 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "patocriollo", 
+      "text": "Me encanta, vamos siempre con las chicas. Es un lugar ideal para ir con amigos."
+    }, 
+    {
+      "date": "29 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lolecandy", 
+      "text": "Muy buen lugar para estar con amigos. La comida no es cara y es buena, el servicio es un poco lento pero bien. Ambiente \u00edntimo."
+    }, 
+    {
+      "date": "27 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "aim.sand", 
+      "text": "Un lugar simp\u00e1tico, pensado para ir con amigos, comer pizza o sandwiches y tomar cerveza. \r\nCon este objetivo en mente, tienen opciones creativas y se esmeran en la cocina, pero la cerveza est\u00e1 un poco cara."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tomy78", 
+      "text": "Fui al mediodia y a la noche. Siempre buenisimo! Un placer sentarse en esa hermosa esquina de Palermo. Pedimos los clasicos barcos: Muy originales y sabrosos! El ambiente muy calido, farolitos y antiguedades por todos lados, para no aburrisie!"
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CrisEcuador", 
+      "text": "El lugar es muy agradables, la atenci\u00f3n amable, los due\u00f1os son muy simp\u00e1ticos, felicitaciones sigan adelante!!!!"
+    }, 
+    {
+      "date": "11 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "plavita", 
+      "text": "El lugar es lindisimo, esta bien ambientado y tiene buena musica. La comida es muy buena y la presentaci\u00f3n acompa\u00f1a. Para ir siempre que se quiere disfrutar de una buena salida y una buena cena con onda! Yo fui un Jueves y es ideal para ir terminando la semana!"
+    }, 
+    {
+      "date": "21 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "monacos", 
+      "text": "Se\u00f1ores, sin lugar a dudas la mejor pizza de Buenos Aires. La onda del lugar es de lo mejor y la atenci\u00f3n excelente. Adem\u00e1s, tienen una gran variedad de platos muy buenos y originales. Date una vuelta, no te vas a arrepentir. Felicitaciones!!!"
+    }, 
+    {
+      "date": "29 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adraugello", 
+      "text": "EL lugar esta muy bien ambientado y las presentaciones de los platos son divinas. Deguste solo pastas pero se notaban que eran fresquisimas y artesanales. Las salsa eran un elixir para el paladar.\r\nLa entrada mexicana sumamente recomdable.\r\nvolvere al lugar a probar el resto de su carta."
+    }, 
+    {
+      "date": "15 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sraconeja", 
+      "text": "Excelente. Desde que lo conoc\u00ed no dejo de ir cada fin de semana, y ese finde pienso volver!!\r\nMuy recomendable. Si bien la onda del lugar es informal-relajada, no vendr\u00eda mal un aire acondicionado...."
+    }, 
+    {
+      "date": "29 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gaci", 
+      "text": "Excelente lugar, excelente clima, pero con la cantidad de gente que va se podr\u00eda invertir en un buen aire acondicionado. HACE MUCHO CALOR!"
+    }, 
+    {
+      "date": "30 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anayuj", 
+      "text": "Fui ayer a la noche, estaban sin luz y el ambiente estaba iluminado con velas y soles de noche. Me parecio muy agradable, muy buena la atencion y muy rica y abundante la comida (algunos platos se puden compartir). Lo recomiendo, sobre todo, para ir con amigos."
+    }, 
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "betoalonso", 
+      "text": "El lugar exelente, limpio, bien decorado, la atenci\u00f3n de 10 y de la comida ni hablar, ESPECTACULAR!, les recomiendo probar La peca II, tal vez un poco cara($22 la chica para 2)pero vale mucho la pena........No se lo pierdan!"
+    }, 
+    {
+      "date": "4 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Batalfonsinman", 
+      "text": "Excelente atenci\u00f3n, comida y lugar. Es ideal para pasar un rato tomando algo o para cenar. Tiene muy buena onda y est\u00e1 bueno que est\u00e9 un toque alejado de la multitud de Palermo."
+    }, 
+    {
+      "date": "30 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Erythrina", 
+      "text": "La atenci\u00f3n del lugar excelente.\r\nComimos una variedad de pizzas, Muy recomendable la napolitana con albahaca y la Peca 2.\r\nEl ambiente muy acogedor, pero un poco caluroso."
+    }, 
+    {
+      "date": "14 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cloe", 
+      "text": "Muy buena la ambientaci\u00f3n y la variedad de sabores dentro de las opciones de platos."
+    }, 
+    {
+      "date": "14 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dharma", 
+      "text": "La comida es muy buena y el ambiente del lugar tambi\u00e9n. \r\nPasan muy buena m\u00fasica, los camareros son atentos. Para repetir."
+    }, 
+    {
+      "date": "1 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sabi", 
+      "text": "Tienen variedad en pizzas y la que probamos estuvo muy rica. Sino pod\u00e9s elegir pastas y sandwiches. \r\nEl lugar no es muy grande pero tambi\u00e9n hay mesas afuera; ideal para el verano. \r\nTiene muy buena onda y te hace sentir muy c\u00f3modo. \r\nLos mozos/as agradables. Muy buena opci\u00f3n para ir con amigos."
+    }, 
+    {
+      "date": "1 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "villarin", 
+      "text": "Muy rico y fresco todo. \r\nLinda y agradable la gente que atiende."
+    }, 
+    {
+      "date": "1 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mariayt_", 
+      "text": "Buen\u00edsimo, voy siempre!"
+    }
+  ]
+}

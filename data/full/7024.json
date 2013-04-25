@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "23 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Macidero", 
+      "text": "Mala aptitud por parte del personal"
+    }, 
+    {
+      "date": "3 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ingmar", 
+      "text": "Biscottini es un lugar agradable. Situado en una zona tranquila, se aprecia m\u00e1s en alguna tarde calurosa sentados en la vereda. Su interior es c\u00e1lido y sobrio, sin destacar. La oferta gastron\u00f3mica es limitada y en la gama vegetariana y de comida sana. La atenci\u00f3n es \u00e1gil y atenta y sus precios adecuados a la oferta. El caf\u00e9 y su reposter\u00eda son excelentes. Tiene un gran potencial."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danielit12", 
+      "text": "el lugar muy calido.. un ambiente amable... recomendable el sandwich especial con tomates secos y rucula.. y el cuadradito de ricota limon y almendra una delicia..  buena la atencion.. volveremos..."
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "julig1", 
+      "text": "Tiene una excelente pasteleria, un lindo lugar para tomar un te!"
+    }, 
+    {
+      "date": "22 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andyboy", 
+      "text": "La verdad quede sorprendido por la calidez con la que me atendieron y me aconsejaron que pedir para degustar sus exquisitas tortas, muy pero muy recomendable.\r\nvoy a volver con amigos muy pronto!!"
+    }
+  ]
+}

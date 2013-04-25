@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "abarsellini", 
+      "text": "La carne que pedi estaba cocida por fuera y FRIOS Y CRUDOS  por dentro. UN desastre total. Ya fui tambien a la noche y me sirvieron una porcion de cordero tambien cruda. NO vuelvo nunca mas.. lo cual es una lastima ya que vivo a 50 metros y el ambiente esta lindo.. pero eso no compensa una comida mala o una carta pretenciosa y cara."
+    }, 
+    {
+      "date": "20 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Gabitana", 
+      "text": "De una carta con 8 o 9 platos principales, 3 no ten\u00edan y de uno s\u00f3lo quedaba una porci\u00f3n. \"Ayer estuvimos cerrados\" no es excusa. El servicio de mesa con servilletas de papel y una mayonesa de dudoso sabor con unos panes recalentados. El postre era sabroso, un parfait de lima lim\u00f3n. Los ravioles \"fileto\" estaban casi secos (tuve que pedir m\u00e1s salsa) y sinceramente no eran nada extraordinarios para los $ 24 que costaron. Mi amiga comi\u00f3 una pechuga rellena que estaba mejor descripta en la carta de lo que era en verdad. No vuelvo. Un lugar lindo y pretencioso, nada m\u00e1s que eso."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Monola", 
+      "text": "Platos ricos y cuidados. Me gust\u00f3 mucho el ambiente, el concepto, la musica, la prolijidad,la idea de cooperativa y la participaci\u00f3n de sus empleados, vale la pena ir."
+    }, 
+    {
+      "date": "6 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Anitus", 
+      "text": "Lindo lugar para ir. L\u00e1stima que el men\u00fa es limitado (por ejemplo, no ten\u00edan hasta cuando fui opciones para vegetarianos). Piola para desayunar o merendar. Ser\u00eda bueno que abra los domingos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alejandro Magno", 
+      "text": "Excelente lugar en caballito. Ideal para desayunar o cenar. Posee un ambiente minimalista por un lado y rustico por otro (el detalle de la heladera es genial). Si bien no hay muchas mesas, es ideal para parejas o un grupo reducido (ideal, tapeos o picadas). La comida es muy buena y est\u00e1 muy bien presentada (el salm\u00f3n estaba exquisito). El trato es muy agradable. Lo \u00fanico, la carta no es demasiado variada, solo son 5 \u00f3 6 platos ppales. Recomendable!"
+    }
+  ]
+}

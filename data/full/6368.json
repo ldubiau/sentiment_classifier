@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "9 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "aleburin", 
+      "text": "El env\u00edo a domicilio de este lugar no es malo. ES MAL\u00cdSIMO. Llamamos para pedir dos pizzas y 4 porciones de fain\u00e1. Nos trajeron el pedido 45 minutos m\u00e1s tarde y completamente helado. Adem\u00e1s nos hab\u00edan dicho que todo sal\u00eda 58, pero cuando llegaron con el pedido nos cobramos 20 pesos m\u00e1s porque hab\u00edan hecho mal la cuenta. La pizza la calentamos pero igual era bastante mala. No compro NUNCA M\u00c1S."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "a_t_v", 
+      "text": "Es la 2da vez que voy al local, y realmente me gust\u00f3 mucho m\u00e1s la nueva ambientaci\u00f3n con las luces de los laterales que con las ara\u00f1as. M\u00e1s c\u00e1lido.\r\nLa primera vez nos ofrecieron empanaditas de entrada y ahora pancitos tostados con queso y albahaca.\r\nMuy original el formato de las pizzas... Sigan asi!!!!!"
+    }
+  ]
+}

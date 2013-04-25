@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "9 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Agus99", 
+      "text": "Paco Mikel me recomend\u00f3 este guen lugar para un almuerzo de trabajo, tranquilo, ameno, para compartir y pasar un buen momento. Elegir las mesas sobre las ventanas, si te gusta el sushi no te lo pierdas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elchicolb", 
+      "text": "Fui a almorzar y la verdad es que tienen muy buen servicio, el sushi es muy rico, la verdad que muy bien preparado y presentado. Aparte el ambiente es muy calmo por lo que podes charlar tranquilo.\r\nFuimos dos personas, pedimos dos combinados de 15 piezas de salmon y de entrada pedimos un fried salmon, la verdad muy bueno! Lo recomiendo 100%"
+    }, 
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AleAKM", 
+      "text": "Realmente es un lugar excelente! La atenci\u00f3n es esmerada, el sushi uno de los mejores que he comido. El lugar es chico pero con una buena distribuci\u00f3n de mesas que permite conversar sin problemas. Tienen al mediod\u00eda un men\u00fa ejecutivo o a la carta. El primero es s\u00faper generoso y los rolls especiales de la carta son una delicia! Ojo, tienen otras opciones para los que no comen sushi con la misma calidad en la elaboraci\u00f3n. En res\u00famen un lugar al que concurro, cuando puedo, una vez por semana!"
+    }, 
+    {
+      "date": "5 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lukcs", 
+      "text": "Excelente lugar, se como super bien, muy calido y tranquilo. Sin dudas de ahora en mas uno de mis lugares favoritos"
+    }
+  ]
+}

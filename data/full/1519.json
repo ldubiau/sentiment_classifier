@@ -1,0 +1,126 @@
+{
+  "buenos": [
+    {
+      "date": "24 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "hemessut", 
+      "text": "Lugar muy agradable y buena comida."
+    }, 
+    {
+      "date": "24 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "stilcor-", 
+      "text": "Muy bueno con un show muy agradable."
+    }, 
+    {
+      "date": "22 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mamulope", 
+      "text": "Fuimos con un grupo de amigas y la pasamos muy bien. \r\nLa comida es muy buena, tanto en sabor como en presentaci\u00f3n. El lugar es muy c\u00e1lido, y lo que m\u00e1s se puede valorar es la excelente atenci\u00f3n por parte del personal."
+    }, 
+    {
+      "date": "17 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LadyWoodbridge", 
+      "text": "Original, buena comida y ambiente. El show sale de lo com\u00fan y tur\u00edstico!"
+    }, 
+    {
+      "date": "7 Ene 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "hmosto", 
+      "text": "Fuimos un grupo de compa\u00f1eros de trabajo, con un precio especial y muy buena atenci\u00f3n y show."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "paulamor", 
+      "text": "Muy buenos sabores en el marco de un clima muy c\u00e1lido."
+    }, 
+    {
+      "date": "24 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cnabraha", 
+      "text": "Una muy buena opci\u00f3n para los que les gusta dos cosas: comer bien y el tango."
+    }, 
+    {
+      "date": "22 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vcapacci", 
+      "text": "Buen clima, show y comida. Si te gusta el tango: imperdible"
+    }, 
+    {
+      "date": "21 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gafas1", 
+      "text": "Comida y ambiente excelente con un servicio de buena calidad y de regalo un muy buen show."
+    }, 
+    {
+      "date": "21 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bwob", 
+      "text": "Gran alimento y servicio excelente. Atmosphre maravillosamente \u00fanico tambi\u00e9n. Estoy solamente apesadumbrado yo descubr\u00ed este lugar en mi ayer por la noche en la Argentina. Pero ahora tengo otra buena raz\u00f3n de volver."
+    }, 
+    {
+      "date": "21 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "amorouss", 
+      "text": "Excelente atenci\u00f3n y ambiente. Realmente un lugar para volver."
+    }, 
+    {
+      "date": "17 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "josestil", 
+      "text": "Me sorprendi\u00f3 gratamente."
+    }
+  ]
+}

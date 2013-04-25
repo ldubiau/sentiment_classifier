@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "17 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "loopinga", 
+      "text": "Es al cl\u00e1sico restaurante de La Plata que van a comer los que no saben comer. Es decir, ambiente lindo, gente linda, mozos lindos pero comida mala. Ejemplo: en el arrollado de pollo con Waldorf, la ensalada va...en una tarteleta!! si, son 5 gramos de Waldorf. Una falta de respeto. Pedimos paella y era muy mala y encima lleg\u00f3 helada. En fin, si quer\u00e9s caretear, es el lugar indicado. Si quer\u00e9s comer bien, and\u00e1 a otro lugar..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cifu", 
+      "text": "Un resto de categoria, quiza muy cercanas las mesas pero la comida y la atencion hacen la diferencia, un clasico de la ciudad de la plata, pude enterarme mas tarde, si pueden pasen..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LEPIERRE", 
+      "text": "Excelente reducto de una de las mas exquisitas cocinas platenses,excelente menu,atencion formal y profesional y una cava a la altura del menu. Ambiente medieval,muy bien decorado y hemos ido,con mi mujer,varias veces a cenar y lo sigo eligiendo."
+    }, 
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Changoplatense", 
+      "text": "Fuimos con mi novia para el dia de San Valentin, la pasamos barbaro en un ambiente muy agradable. Justo esa noche habia un saxofonista tocando algunos temas entre las mesas, muy lindo. Vale la pena ir."
+    }
+  ]
+}

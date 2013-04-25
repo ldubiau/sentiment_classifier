@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "29 Abr 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "guarofeo", 
+      "text": "Es uno de los peores.  Parece que se estan burlando de uno; te tratan como si tuvieras la peste durante las dos horas que tardan en traerte un pedazo de comida realmente horrible, despues te cobran cualquier cantidad de dinero.  Ridiculo."
+    }, 
+    {
+      "date": "15 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Baskamdq", 
+      "text": "Al llegar hicimos el pedido de los sencillos platos principales, que demoraron una larga hora, con dos ni\u00f1as peque\u00f1as fue interminable. La atenci\u00f3n es mediocre. Pedimos tres veces escarbadientes y nunca llegaron. El bife de chorizo result\u00f3 dur\u00edsimo, pero el cuarto de pollo y las milanesas pasables. Al postre lo dejamos de lado, ya que hac\u00eda como dos horas que est\u00e1bamos all\u00ed sentados. Los ba\u00f1os son demasiado peque\u00f1os, est\u00e1n deteriorados y sucios. El lugar es agradable, siempre y cuando,  te ubiques al lado de la ventana y puedas observar el gent\u00edo t\u00edpico de un domingo en San Telmo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lecorbusier", 
+      "text": "Muy bien ambientado."
+    }, 
+    {
+      "date": "18 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Es caro. El mozo que nos toc\u00f3, parec\u00eda que nos atend\u00eda de favor. P\u00e9simo servicio. La comida tard\u00f3 unos cuarenta minutos en llegar y todos pedimos pasta. Incluso una ensalada, que pedimos como entrada, tard\u00f3 m\u00e1s de treinta minutos. No vamos a volver nunca m\u00e1s."
+    }, 
+    {
+      "date": "8 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "HUGOFOR", 
+      "text": "Fuimos por recomendaci\u00f3n, la comida no es muy buena. Las milanesitas que ped\u00ed, ven\u00edan sin papas. La chica que nos atendi\u00f3 parec\u00eda que no le gustaba lo que hac\u00eda y encima, cre\u00eda que nos hac\u00eda un favor. Le pedimos una salsa que nunca lleg\u00f3. P\u00e9sima atenci\u00f3n, en nuestro primer d\u00eda en su ciudad, nos hizo sentir muy mal. Gente como ella, no deber\u00eda atender, sobre todo en una zona tur\u00edstica y tan bonita como San Telmo."
+    }, 
+    {
+      "date": "12 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "gerkijel", 
+      "text": "Una vieja casona, muy bella, con buen ambiente, buena comida y buena atenci\u00f3n. Es recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Josegae", 
+      "text": "el lugar no se llama m\u00e1s as\u00ed, se llama CheZ, Est\u00e1 atendido por sus due\u00f1os unos franceses que cocinan como los dioses!\r\nTodo es riqu\u00edsimo! de excelente calidad"
+    }, 
+    {
+      "date": "6 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carlitos12345", 
+      "text": "La mejor carne que he probado, realmente fuera de serie, tanto en su calidad como en el punto de la cocci\u00f3n."
+    }, 
+    {
+      "date": "28 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maxiboch", 
+      "text": "Buen ambiente, muy buena comida y excelente atenci\u00f3n al cliente."
+    }, 
+    {
+      "date": "4 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Aggie", 
+      "text": "Com\u00ed un souffl\u00e9 de quesos muy rico, lo trajeron bien caliente. La atenci\u00f3n es buena y el lugar es pintoresco."
+    }
+  ]
+}

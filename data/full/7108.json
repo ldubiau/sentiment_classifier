@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "20 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "parbara", 
+      "text": "Fuimos hoy con mi novio, pedimos parrillada y 2 gaseosas, gastamos 212 PESOS, LA CARNE QUEMADA, LAS PAPAS FRITAS ACEITOSAS, TARDARON UNA HORA EN TRAERLA, LITERALMENTE, y eso que fuimos temprano, cuando habia re poca gente, POR 100 PESOS POR PERSONA HAY MILLONES DE LUGARES MEJORES PARA IR, NO LO RECOMIENDO PARA NADA."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ppampin", 
+      "text": "El lugar est\u00e1 muy bueno. La atenci\u00f3n es muy buena. La parrilla impecable. Los precios son caros y la carta de vinos es mediocre y cara"
+    }, 
+    {
+      "date": "28 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marsof", 
+      "text": "Muy buena la tira de asado. Sin grasa y tierna. La entra\u00f1a muy bien hecha. Las papas rejilla excelentes sin nada de grasa. Todo muy bueno. La atenci\u00f3n de la moza super correcta y amable."
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tecnical", 
+      "text": "Fui el s\u00e1bado 10/03/12 eramos 7 todos familiares, reservamos telef\u00f3nicamente muy amables. Al llegar un recibimiento atento, el lugar me resulto muy agradable tambi\u00e9n su decoraci\u00f3n. Los mozos muy atentos, la distribuci\u00f3n de las mesas permite disfrutar con tranquilidad, el aire acondicionado creaba una clima agradable en el cual uno se predispon\u00eda a pasarla bien. Gracias a gu\u00eda \u00f3leo hab\u00eda le\u00eddo que las porciones eran para compartir y as\u00ed lo hicimos buena relaci\u00f3n calidad precio. En fin la pasamos bien y recomiendo el lugar."
+    }, 
+    {
+      "date": "27 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lanchine", 
+      "text": "muy bueno, llegamos tarde y aunque eramos muchos enseguida nos acomodaron en una mesa. la comida muy rica y las porciones super abundantes. lo unico negativo fue que para las pastas cuando pedimos queso nos trajeron unos sobrecitos con \"saborizante a queso\", una lastima, empa\u00f1a todo el resto. excelente atencion."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "natymj", 
+      "text": "Este Restaurante-Parrilla es de primer nivel.El ambiente es c\u00e1lido y afectuoso, sus platos estan producidos con mercaderia de primer nivel\r\nademas de presentarlos en porciones muy generosas.\r\nLa atenci\u00f3n,especialmente la dela camarera delgadita y muy \u00e1gil es digna de grandes elogios.El lugar es sumamente recomendable y adem\u00e1s no es necesario llevar billeteras abultadas"
+    }, 
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "natymj", 
+      "text": "El lugar esta fabuloso, la comida es muy buena con platos abundantes, la parrilla es de primera, los platos la mayoria son para compartir, y si vas de lun a vieren, el plato ejecutivo comes por menos de $50 con postre y vaso de vino, En Floresta nunca hubo un lugar asi, lo mejor en 30 a\u00f1os. La ambientacion y sanitarios es de lujo para floresta."
+    }
+  ]
+}

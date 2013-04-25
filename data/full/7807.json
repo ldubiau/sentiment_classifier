@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "2 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "axxx", 
+      "text": "realmente muy bien la carne y el servicio r\u00e1pido"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "rodom", 
+      "text": "Muy buena, como en el mejor restaurante. Ideal para ir al mediod\u00eda si uno tiene poco tiempo y quiere comer bien"
+    }
+  ]
+}

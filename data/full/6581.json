@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "11 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Saborido", 
+      "text": "Fuimos a tomar en el happy hour y comimos una pizza. Estuvo bueno. Fuimos temprano, hab\u00eda poca gente, en ese horario podr\u00edan poner no tan alta la m\u00fasica para que sea m\u00e1s relajado pero igual estuvo muy bueno. Muy bien el mozo que nos atendi\u00f3."
+    }, 
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "karma", 
+      "text": "Muy buen bar! vivo cerca y voy seguido con mi marido y mis amigos. Hay dias en los que se llena y casi no se puede entrar, pero la comida y los tragos lo valen! Recomiendo la cahipiberry!"
+    }, 
+    {
+      "date": "24 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Funciona como una especia de boliche algunos dias de la semana pero se llena muy rapido ya que es bastante chico el lugar. Los tragos son normales y los precios estan bien."
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lacoqui", 
+      "text": "fui varias veces y la calidad de la comida siempre fue muy buena,la pizza de rucula es buenisima,tome un daiquiri muy rico y los postres no defraudan;la atencion es buena y no es caro,muy recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "raqp", 
+      "text": "muy buen local, la verdad te"
+    }, 
+    {
+      "date": "21 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Raulnino", 
+      "text": "Muy buen ambiente, exelene atencion pero las camareras son medias distraidas, la comida es exquisita y los cocteles son buenisimos. muy recomendable..."
+    }
+  ]
+}

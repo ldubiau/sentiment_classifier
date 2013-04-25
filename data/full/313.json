@@ -1,0 +1,288 @@
+{
+  "malos": [
+    {
+      "date": "6 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "vainilla", 
+      "text": "Fuimos a desayunar, es caro y las porciones chicas. Fuimos para parar en algun lado porque teniamos hambre pero no es lo mas copado para ir."
+    }, 
+    {
+      "date": "14 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "herallen", 
+      "text": "La relaci\u00f3n precio calidad es p\u00e9sima. Los platos de concina son horribles y carisimos. Hacia mucho que no iba y no piedno volver nunca m\u00e1s. El  ambiente p\u00e9simo. Cocina sucia. Ruidoso. Caluroso. caro. Carisimo."
+    }, 
+    {
+      "date": "14 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "fundamental", 
+      "text": "La pizza tiene mucho aceite y a veces est\u00e1 cruda."
+    }, 
+    {
+      "date": "2 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "frac", 
+      "text": "Mal\u00edsimo, la pizza muy aceitosa, la atenci\u00f3n pat\u00e9tica. Para no ir nunca."
+    }, 
+    {
+      "date": "2 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "el_bocha", 
+      "text": "Un fiasco!"
+    }, 
+    {
+      "date": "19 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Mistere", 
+      "text": "Una atenci\u00f3n horrible. Estuve esperando casi una hora, la comida lleg\u00f3 fr\u00eda, la milanesa media cruda y la gente no parec\u00eda saber tratar a los clientes."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Nuriaroitman", 
+      "text": "Fui con dos amigos. Las pizzas son muy ricas pero los precios son super altos. El ambiente es muy muy ruidoso y la atencion es normal. Muy caro."
+    }, 
+    {
+      "date": "30 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Maidenfan", 
+      "text": "Fui con mi novia y la verdad que si bien la pizza fue muy rica, los precios de este lugar son demasiados altos, por lo mismo tenes lugares mucho mejores y menos ruidosos.\r\nNos toco una mesa cerca de la caja y se escuchaba como el coordinador cagaba a pedos a los empleados, luego la due\u00f1a, o por lo menos parec\u00eda serlo, se nos sent\u00f3 al lado nuestro y les pedia cosas a los gritos."
+    }, 
+    {
+      "date": "13 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ppeeppee", 
+      "text": "Aprovechen la promoci\u00f3n de Cerveza Lager de 1 Litro   papas Fritas provenzal (chorreantes de aceite obviamente) y s\u00famenle luego algunas porciones de muzarela. \r\nEl resto decadente como siempre, La Farola s\u00f3lo vale por la pizza de muzarela, el resto de regular a p\u00e9simo."
+    }, 
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "RudoCre", 
+      "text": "Es para comer pizza, que es rica y sin ser barata est\u00e1 en precio. El resto de los platos son caros, dir\u00eda que bien caros para el lugar, aunque ricos."
+    }, 
+    {
+      "date": "10 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ward", 
+      "text": "La oferta gastron\u00f3mica de la farola es simple, prociones super abundantes (y cal\u00f3ricas), atenci\u00f3n correcta y ambiente familiar y bullicioso. Si uno va sabiendo que esperar, el lugar resulta correcto, con comida rica, porciones para compartir, y precios accesibles."
+    }, 
+    {
+      "date": "26 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "procedencia", 
+      "text": "El lugar zafa para comer algo rico por la zona. Fui m\u00e1s de una vez y qued\u00e9 conforme, salvo la \u00faltima vez. el mozo nos trajo la panera a la mesa, nos pregunt\u00f3 si ibamos a cenar, y como le dijimos que no, que solo quer\u00edamos picar algo, al toque di\u00f3 media vuelta y se la llev\u00f3. Es lamentable la pol\u00edtica \"rata\" de la casa, y desde ya que el mozo no tiene la culpa!"
+    }, 
+    {
+      "date": "20 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lean1508", 
+      "text": "excelente la pizza y un postre clasico la sopa inglesa."
+    }, 
+    {
+      "date": "25 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "darty", 
+      "text": "La pizza es muy buena. Hay que reconocerlo. El precio no est\u00e1 mal. Hay por ah\u00ed peores y m\u00e1s caras. Entre sema35 $na suele estar tranquila y los camareros se esmeran algo m\u00e1s. Es recomendable si est\u00e1s por la zona. He ido en m\u00e1s de una oportunidad y es la que m\u00e1s me gusta de Belgrano."
+    }, 
+    {
+      "date": "17 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Laurakis", 
+      "text": "Las pizzas y las milanesas muy ricas, pero la atenci\u00f3n dej\u00f3 mucho que desear- si bien estaba lleno el lugar no es muy grande. Nos dijeron que esperaramos 20 minutos para ocupar una mesa para 5, pero cada vez que se desocupaba una mesa de 2 sentaban gente con lo cual la espera fue de 45 minutos. Nos dejaron los cubiertos en la mesa adentro de una servilleta (\"rep\u00e1rtanselos ustedes\"), despu\u00e9s trajeron las bebidas, al rato trajeron los vasos (y faltaba uno) y cuando nos trajeron la comida le tuvimos que pedir los platos que todav\u00eda no los hab\u00edan tra\u00eddo. Desastre.\r\nNunca m\u00e1s vuelvo!"
+    }, 
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "rodrigoboquin", 
+      "text": "De las mejores pizzas al molde. Ideal para ir con amigos. No esperen una pizzeria fashion, es una pizzeria para ir a disfrutar muy buena pizza al molde. Abundante mercaderia (mucha muzzarella). Despues de Banchero, la mejor pizza al molde."
+    }, 
+    {
+      "date": "8 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "valito", 
+      "text": "las pizzas son muy buenas, como siempre. tipica pizzeria de barrio, ruidosa, llena de gente,....  si quieren ambiente impecable y atencion al instante no se los recomiendo. Si quieren comer una buena pizza SI!!!!!!!!"
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Charro", 
+      "text": "Porciones abundantes y muy sabosas, ambiente agradable, muy recomendable."
+    }, 
+    {
+      "date": "7 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fairyonthemoon", 
+      "text": "Platos muy abundantes."
+    }, 
+    {
+      "date": "12 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "sublime_thc", 
+      "text": "la pizza es asquerosa, desagradable, embebida en aceite y el queso chorreandose, un asco, en cambio las empanadas estaban mas buenas de lo que esperaba."
+    }, 
+    {
+      "date": "14 Abr 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fullsin", 
+      "text": "Si bien es mejor que la Farola de Belgrano (a tres cuadras) empeor\u00f3 con el tiempo y deja mucho que desear. La atenci\u00f3n es p\u00e9sima y la pizza es peor que lo que era (era buena antes), a veces la sacan casi cruda. \r\nEl delivery tambi\u00e9n deja bastante que desear. Cl\u00e1sico lugar que cree que tiene la vaca atada y se deja estar."
+    }, 
+    {
+      "date": "31 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guillerm3", 
+      "text": "Excelentes (casi imperdibles) las facturas desde las 6:30 (del domingo, por ejemplo). Y te dan 16 al precio de una docena (4 mangos y unos c\u00e9ntimos)."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Teddy", 
+      "text": "Excelente la pizza. Eramos 2 y con una pizza chica de 4 porciones fue suficiente para llenarnos. Porciones considerables. Muy buena atenci\u00f3n. La verdad que me sorprendi\u00f3 para bien."
+    }, 
+    {
+      "date": "19 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Xanceda", 
+      "text": "Suelo ir con frecuencia. Todav\u00eda no encontr\u00e9 una pizza que la supere. Las empanadas tambi\u00e9n son deliciosas, de un abundante relleno y una masa exquisita, inigualables. \r\nEl \u00faltimo plato que degust\u00e9 fue Trucha con salsa de esp\u00e1rragos y me retir\u00e9 realmente satisfecha con el almuerzo. El mozo que me atendi\u00f3 fue muy protocolar, siempre con una sonrisa, Basilio se llamaba. \r\nNo ofrece s\u00f3lo un servicio, sino una experiencia."
+    }, 
+    {
+      "date": "1 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "peca1979", 
+      "text": "Todos los platos son para compartir. Excelente la calidad de todas las milanesas, supremas y pastas."
+    }, 
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "enio", 
+      "text": "Tenes lo que esperas. Muy buena comida en generosas porciones y un ambiente bien clasico. Los precios son bajisimos. No esperes un gran servicio ni platos elaborados, obvio por $15 por persona.."
+    }, 
+    {
+      "date": "9 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Leo_38", 
+      "text": "La verdad que es muy rica toda la comida. Voy casi todos los d\u00edas, nunca falta la oportunidad para ir a comer all\u00e1."
+    }, 
+    {
+      "date": "10 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cloper", 
+      "text": "De las mejores pizzas. Ruidoso, pero aceptable."
+    }
+  ]
+}

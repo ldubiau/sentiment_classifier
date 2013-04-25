@@ -1,0 +1,818 @@
+{
+  "malos": [
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "mia_wallace83", 
+      "text": "Me hab\u00edan hablado de este restaurant hace a\u00f1os creo que cuando trabajaba, favio pop. la comida dej\u00f3 muchisimo que desear. el men\u00fa de la p\u00e1gina est\u00e1 super desactualizado. la entrada:  una ensalada con r\u00facula, brie y avellanas. la r\u00facula estaba super fresca pero el brie no ten\u00eda gusto a nada (y eso que el brie es oloroso). yo ped\u00ed un salm\u00f3n con lim\u00f3n y salsa de soja. el centro estaba crudo y era puro lim\u00f3n (pero muy limonoso). mi novio pidi\u00f3 un guiso con cordero que era pura agua y las verduras daban pena. me parec\u00ed excesivamente caro para lo mediocre de la comida. una desiluci\u00f3n."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Mmna", 
+      "text": "pedimos de entrada la ensalada de rucula, queso brie, tomates secos y avellanas. La cual no trajo dichas avellanas. La rucula era radicheta.\r\nDe plato principal pedimos una carne con pur\u00e9 de papas. Si bien era un plato abundante, tambi\u00e9n era poco elaborado : roast beef sin gusto y pur\u00e9 de papas con grumos.  El vino no estaba a la temperatura adecuada. No volver\u00e9."
+    }, 
+    {
+      "date": "11 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Noemi Sampallo", 
+      "text": "no nos gusto porque los platos no estuvieron a la altura del precio. pedimos un risotto de hongos y ni siquiera usaron el arroz correcto, estaba desabrido, cero cremoso y me lo cobraron $59.-, el cubierto lo pague $9.- y nos trajeron una rodaja de pan con 3 hojas de rucula y un cuarto de tomate cherry!...el vino mas economico Benjamin Nieto estaba a $49.-...la verdad no me hubiera molestado pagar lo que pague o mas si hubiera comido bien, si la cocina fuera honesta..pero nos defraudo..."
+    }, 
+    {
+      "date": "12 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Bichelo", 
+      "text": "P\u00e9simo. La verdad es que fuimos por una recomendaci\u00f3n...ya me las arreglar\u00e9 con mi\"ex\" amigo. Un lugar muy pretendido y realmente no llega a ser NADA. Luz, mala; ambiente, malo, Comida, regular; olores, ni hablar.El precio excesivo con respecto a lo ofrecido. Para pasar por alto."
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "LALETA", 
+      "text": "Debut y Despedida\r\nLos platos PRETENCIOSOS, ped\u00ed el Lomo con Salsa Criolla y guarnici\u00f3n de tartilla de Batatas. Me vinieron tres \u201cfetas\u201d de lomo apiladas con una \u201cguarnici\u00f3n\u201d de tortilla de  que, pens\u00e9, era un chiste. (Triangulito de 2x2, literal) por eso pagu\u00e9 m\u00e1s de $40. Lo mismo mi novio, que pidi\u00f3 el tan recomendado salm\u00f3n. CARISIMO, la calidad y preparaci\u00f3n no me fascino para nada. Como la cocina da calor te matan con el aire acondicionado y comes con fr\u00edo. \r\nPese a todo, el servicio fue  muy  bueno."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lfacundo", 
+      "text": "El lugar es muy simple con la cocina est\u00e1 a la vista, lo que da la sensaci\u00f3n de estar en la cocina de la casa de tu abuela. La carta es justa y los platos exquisitos. El d\u00eda que fuimos est\u00e1bamos solos con lo cual nos pusimos a charlar con la due\u00f1a, que adem\u00e1s es la que atiende y realmente fue un placer. En resumen un lugar para comer rico y sentirte como en casa."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Kabuki1979", 
+      "text": "El pollo estaba exquisito. La salsa era un manjar, super perfumada. El risotto estaba bien, pero no era nada del otro mundo. La atenci\u00f3n muy buena. Muy divertido el concepto del lugar con la cocina a la vista."
+    }, 
+    {
+      "date": "19 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "arielKa", 
+      "text": "Muy lindo restaurante. Ideal para ir en pareja. Podes llevar tu vino, hay descorche. La due\u00f1a cocina, te atiende. Y tambi\u00e9n da cursos de cocina!"
+    }, 
+    {
+      "date": "11 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bocius", 
+      "text": "Hab\u00eda ido varias veces y la comida es siempre muy rica. La \u00faltima vez fuimos 4 y tres pedimos el salm\u00f3n como principal. Lo que hicieron fue preparar 2 y servirlo como si fueran 3, pero encima mal proporcionado. Mi plato era un exiguo medio filet y si reun\u00edas los 3 pedazo de batatas no hac\u00edas una. \r\n\r\nLas empanaditas tailandesas riqu\u00edmas. La delicia de chocolate es un desprop\u00f3sito que la cobren $34. Me llam\u00f3 la atenci\u00f3n que fuimos los unicos comensales en toda la noche, cuando antes siempre hab\u00eda que reservar porque se ocupaban todas las mesas. Hay una clara desproporci\u00f3n entre el tama\u00f1o y el precio que evidentemente los est\u00e1 afectando. Atenci\u00f3n agradable."
+    }, 
+    {
+      "date": "16 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Chufa", 
+      "text": "Muy lindo lugar, muy buena la atenci\u00f3n y como nos fueron guiando con los platos. Lo unico que no me gusto fue la larga espera entre plato y plato, eso si cave aclarar que la espera es producto que todos los platos son elaborados en el mismo momento.\r\nSin duda lo vamos a sumar a nuestro circuito gastron\u00f3mico."
+    }, 
+    {
+      "date": "19 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "brunorosso", 
+      "text": "Peque\u00f1o, \u00edntimo y agradable restaurante. El principal atractivo es que la cocina est\u00e1 a la vista, a un costado de las mesas. Su due\u00f1a, Mariana, nos atendi\u00f3 muy amablemente y se encarg\u00f3 de preparar ella misma la ensalada de r\u00facula y queso brie que pedimos de entrada, y los tacos a la mexicana que luego le siguieron. A mi entender, los precios son un poco elevados, pero no lo suficiente como para no volver a ir."
+    }, 
+    {
+      "date": "8 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Deboechar", 
+      "text": "Es un lugar distinto, pero est\u00e1 descuidado. Buena atenci\u00f3n y buena comida, pero con precios que no est\u00e1n en relaci\u00f3n al lugar"
+    }, 
+    {
+      "date": "11 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "quijote", 
+      "text": "Sin duda un lugar diferente, lo que lo hace atractivo. A mi entender a la cocina le falta definici\u00f3n, propuesta. Desentona el precio, no tiene relaci\u00f3n con lo ofrecido. Si no fuera por eso todo encajaria mejor."
+    }, 
+    {
+      "date": "24 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mekler", 
+      "text": "Muy bueno todo, atendido como en casa, la comida increible desde el pan casero hasta el postre. Para ir en pareja, muy intimo. Muy Recomendado!"
+    }, 
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "CriticodelGhetto", 
+      "text": "Bueno.... la verdad es que fui con muchas ilusiones y no se si por ser tan detallista o un poco rompebolas en general, me desilucione bastante.\r\nEsta perfecto que quieran hacer algo novedoso y distinto, que realmente lo es, pero el vino tinto, extremadamente caliente, el lugar me parecio muy descuidado en lo que respecta a la limpieza , copas mal fajinadas o sin,paredes manchadas y despintadas x demas.\r\nServicio regular.Todas las flores marchitas,muy feo y descuidado.\r\nLa comida bien, pero nada del otro mundo. Extremadamente caro, haciendo una relacion precio/servicio/calidad.\r\nNo volvere....."
+    }, 
+    {
+      "date": "24 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "coconut", 
+      "text": "volvimos por una invitacion y mejoro la imagen de la anterior visita. excelente atencion a cargo de la due\u00f1a y chef mariana, se nota la pasion que le pone al lugar. y la comida resulto muy buena, especial mencion para el salmon marinado en soja-limon-menta-cilantro c/batatas y el gateau de chocolate. de las entradas, se lucieron las empanaditas de pollo y camaron, con salsa agridulce de pepino. no me gusto tanto el pollo tandoori, le faltaba una guarnicion y el plato no me parecio tan logrado. la carta cambia seguido. el lugar, intimo y c onda. precios promedio: 25 entradas, 45 platos."
+    }, 
+    {
+      "date": "19 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cash", 
+      "text": "me gusto tanto el lugar como su comida...\r\nes una experiencia personal y unica, ya que desde las sillas hasta los cubiertos y las copas son diferentes...lo recomiendo"
+    }, 
+    {
+      "date": "13 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Faustina", 
+      "text": "En este lugar no existe la indiferencia. La atenci\u00f3n es personalizada y te pone en contacto con la energ\u00eda positiva de la cocinera, como si te prepara un plato especial un familiar muy querido. Un sitio original, distinto a todos, de esos que s\u00f3lo se encuentran en una ciudad como la nuestra. Una experiencia interesante, para disfrutar."
+    }, 
+    {
+      "date": "27 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "theeruso", 
+      "text": "Llege por recomendaci\u00f3n de un amigo, la verdad que el lugar es original pero muy chico es como un garage de una casa o algo similar, la carta es basante escueta, la comida esta bien."
+    }, 
+    {
+      "date": "24 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "isalva", 
+      "text": "El lugar tiene la misma onda que cualquier parrillita al paso salvo por que la comida es elaborada y comes adentro apretadito y s\u00faper incomodo. Ni hablar del ba\u00f1o, el cual no se recomienda visitar. Deben ser 18  cubiertos m\u00e1ximo. La comida: con relaci\u00f3n precio calidad est\u00e1 bastante bien, no es gran cosa. La atenci\u00f3n p\u00e9sima y ni pensar de ir con chicos porque mal predispone a la atenci\u00f3n , aunque hicieron lo posible para que no se notara. Demasiado pretencioso para lo que es. No volver\u00eda."
+    }, 
+    {
+      "date": "10 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Joco", 
+      "text": "El lugar tiene una onda muy divertida y original, es como una gran cocina donde comes alrededor de la misma coicna donde preparan los platos, hasta te podes sentar enfrente a la cocinera e ir hablando con ella mientras te hace tu plato. Algo original y distinto, nada conservador. La comida muy buena, elaborada y original segun el plato. Es para ir a conocer algo distinto, mas que nada por el lugar en si."
+    }, 
+    {
+      "date": "26 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Vitoldi", 
+      "text": "supongo que en mi experiencia influyeron varias cosas: la compa\u00f1\u00eda, la (no) expectativa y etcs, pero fue y es una gran opci\u00f3n para cuando tengo que elegir el lugar yo. en conjunto es una buena experiencia. la comida me pareci\u00f3 super buena, la atenci\u00f3n tal vez medio protocolar (nada grave, tampoco) pero cuidada, el ambiente c\u00e1lido y la carta de vinos muy corta. pero en total: vuelvo."
+    }, 
+    {
+      "date": "27 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "coconut", 
+      "text": "lamento discrepar de la mayoria de los comentarios. el lugar me parece que esta un poco inflado. la carta es escueta y las propuestas, desparejas. el risotto de trigo burgol estaba bien, pero el pollo al wok con salsa de soja, chauchas y mani no es un plato para cobrar 38 pesos (ni por ingredientes, ni por abundancia, ni por originalidad, ni por complejidad de la preparacion). lindo ambiente, atencion discreta (me sacaron el plato cuando aun no habia terminado) y precios altos. deberian mantener al dia la web (o darla de baja, porque el menu desactualizado confunde al que quiere ir)."
+    }, 
+    {
+      "date": "3 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Diegowsr", 
+      "text": "La comida es muy buena y abundante, lamentablemente el ambiente y la idea se queda a mitad de camino: la cocina es abierta pero no atractiva y los olores se llevan de recuerdo en la ropa. Es para ir una vez."
+    }, 
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hugui", 
+      "text": "Simplemente un gran lugar"
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ARH", 
+      "text": "Como dice su p\u00e1gina web, Sifones & Dragones \"no es una restaurante, es una cocina con mesas\" y eso es lo que me encant\u00f3 del lugar.\r\nCon espacio para 15/20 personas aprox, el lugar es c\u00e1lido y acogedor. Nos sentamos al lado de la cocina, que en ning\u00fan momento molest\u00f3 porque tiene un excelente extractor. La comida es muy buena, sencilla pero con toques \u00fanicos que la hace diferente. El servicio fue excelente, con una cocinera atenta a los detalles (le ofreci\u00f3 a mi novio la reducci\u00f3 de Guinness en la que hab\u00eda cocinado su pollo que hab\u00eda quedado en la sart\u00e9n). Para volver pronto!"
+    }, 
+    {
+      "date": "13 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Juliet_81", 
+      "text": "Lo que distingue a este lugar es sin dudas la ambientaci\u00f3n, son unas pocas mesas en un espacio peque\u00f1o donde la cocina esta integrada al sal\u00f3n. Cocina de autor, mas bien fusi\u00f3n, para mi gusto la carta es demasiado acotada, pero los pocos platos que ofrecen estan muy bien preparados. Los precios son un poco altos, pero se justifica si lo que se prioriza es un ambiente \u00edntimo mas all\u00e1 de la cocina en s\u00ed."
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Chorlito", 
+      "text": "EXCELENTE! La idea del lugar es espectacular, uno siente que esta comiendo en un restaurant under en alguna ciudad europea...pero no...esta aca, en BA. Un diez. AH! no quedas con olor si bien comes en la cocina literalmente. Muy bueno. Recomendado."
+    }, 
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ivordonez", 
+      "text": "Como muchos lo describen es una cocina con mesas (el olor le juega muy en contra). Me pareci\u00f3 pretencioso por dem\u00e1s, la carta es de 4 platos y probamos 2; ninguno parec\u00eda sobresaliente.\r\nEl precio que cobran no se condice con la calidad que entregan.\r\nEl servicio es correcto."
+    }, 
+    {
+      "date": "21 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Monicas", 
+      "text": "Exactamente como lo describen una cocina con mesas, el lugar es muy agradable tanto como para ir en pareja como con amigos."
+    }, 
+    {
+      "date": "4 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "GRAL", 
+      "text": "Si bien el ambiente no es bueno (no entrarias por pasar por la puerta) la comida es muy buena y vale la pena visitarlo.\r\nLa \u00fanica sugerencia es mejorar la panera que no esta al nivel de la excelente comida."
+    }, 
+    {
+      "date": "22 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Caminante", 
+      "text": "Muy buena la comida los sabores y los puntos de cocci\u00f3n impecables. \r\nMuy agradable el ambiente y el servicio. Para volver varias veces sin dudarlo."
+    }, 
+    {
+      "date": "18 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nobles", 
+      "text": "Recomendable."
+    }, 
+    {
+      "date": "8 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mlanglois", 
+      "text": "La verdad que es un lugar donde me senti mimado. Me encanto ver con mis propios ojos cuando me prepararon los platos. \r\nLas porciones son generosas y el ambiente me parecio muy bueno complementado con musica jazz. Realmente no se van a arrepentir no es solo ir a un lugar a comer sino que uno vive una experiencia!!"
+    }, 
+    {
+      "date": "5 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "monogigi", 
+      "text": "Un lugar s\u00faper c\u00e1lido con muy buena comida y atenci\u00f3n muy personalizada. La clave de este lugar es que haya pocas mesas, eso crea un ambiente \u00edntimo con una atenci\u00f3n muy \u00e1gil. Ideal para comer de a dos."
+    }, 
+    {
+      "date": "11 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "turcomartin", 
+      "text": "Com\u00ed de entrada unos fideos de arroz con camarones y cilantro, que estaban muy buenos. Luego, de plato principal, ped\u00ed un roast beef a la mostaza que me gust\u00f3 bastante. Sin embargo, me pareci\u00f3 un poco caro. Si bien el lugar es diferente, no deja de ser un local de treinta metros cuadrados con una cocina, casi, encima de la mesa.\r\nEstar\u00eda bueno que la carta sea m\u00e1s grande (s\u00f3lo ofrecen cuatro platos principales)."
+    }, 
+    {
+      "date": "9 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mbaracuyita", 
+      "text": "La ubicaci\u00f3n del restaurante y las comodidades, no son buenas, como para cobrar tan altos precios. El lugar tiene apenas un poco de onda, pero eso tampoco justifica los precios excesivos por las diminutas porciones. El espacio es tan peque\u00f1o, que apenas se puede sostener una conversaci\u00f3n, sin que te escuchen todos los que trabajan ah\u00ed. No lo recomiendo."
+    }, 
+    {
+      "date": "14 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tosqui", 
+      "text": "Sin dudas un restaurante at\u00edpico por la ubicaci\u00f3n de la cocina y por las diminutas dimensiones. La comida es muy buena y la atenci\u00f3n igual. Si se busca intimidad a la hora de comer, aqu\u00ed no se encontrar\u00e1. Pero s\u00ed, una interesante alternativa gastron\u00f3mica, que bien vale la pena conocer."
+    }, 
+    {
+      "date": "22 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Guidomel", 
+      "text": "El lugar es lindo y tiene su onda aunque resulta un poco chico. \r\nLa comida estaba bien pero me pareci\u00f3 exageradamente caro. \r\nEl men\u00fa tiene s\u00f3lo cuatro platos principales, por lo que deber\u00edan agregarle dos o tres m\u00e1s."
+    }, 
+    {
+      "date": "6 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pepe", 
+      "text": "Nos gust\u00f3 el lugar por su calidez pero podr\u00eda ser m\u00e1s relajado en la atenci\u00f3n as\u00ed como en la carta, que nos dej\u00f3 con muy pocas opciones."
+    }, 
+    {
+      "date": "10 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elcomensal", 
+      "text": "Cuando llegamos hab\u00eda un corte de luz general en la zona, lo cual hizo mucho m\u00e1s interesante la visita ya que se encontraba iluminado con velas. \r\nLos platos adem\u00e1s de ser originales (terreno en el cual hay mucho verso) se sirven en porciones justas para dejarte al l\u00edmite entre \"quiero mas\" y \"hasta ac\u00e1 llego\". La atenci\u00f3n es excelente. Imperdible el helado de cardamomo con merengue de coco... Recomendable."
+    }, 
+    {
+      "date": "7 Ago 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "jgk", 
+      "text": "La \u00faltima visita fue decepcionante. La calidad de la comida baj\u00f3 notablemente y fue opacada por el maltrato y una p\u00e9sima onda del cocinero principal. La politica de descorche fue cambiada. El descorche no es por botella, sino por botella por persona, o sea que si abrir una botella en una mesa de 2 personas cuesta $ 8, la MISMA botella en una mesa de 10 personas cuesta $40 (aunque alcance para dos). El horario de cierre 01:45 AM no avisado nos parece inadecuado para un s\u00e1bado por la noche.\r\nEn resumen, ya no es recomendable."
+    }, 
+    {
+      "date": "13 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Siempre comimos muy bien, aunque la \u00faltima visita fue algo decepcionante.  Sin embargo, una sola mala noche no puede opacar una historia de m\u00e1s de 2 a\u00f1os.  Excelente opci\u00f3n para llevar el vino propio, el Lomo Machazo es para no perd\u00e9rselo."
+    }, 
+    {
+      "date": "2 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "rvalera", 
+      "text": "Interesante."
+    }, 
+    {
+      "date": "3 Dic 2004", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "megf26", 
+      "text": "El lugar tiene onda pero es muy chico. La comida est\u00e1 bastante bien, no es gran cosa. La atenci\u00f3n es PESIMA. Un lugar que PRETENDE ser..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marianne30", 
+      "text": "Sifones y Dragones es un lugar espectacular, \u00fanico en su tipo... chiquito, con una decoraci\u00f3n cuidada y sorprendente, lleno de detalles al igual que su comida. Fui muchas veces y  siempre comimos muy bien y nos fuimos felices. recomendado!"
+    }, 
+    {
+      "date": "11 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MollyRingwald", 
+      "text": "La verdad es que es un lugar at\u00edpico pero muy c\u00e1lido. Fuimos con mi novio y comimos muy rico y lo mejor del lugar fue la atenci\u00f3n de su due\u00f1a. Totalmente recomendable!"
+    }, 
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Euforia", 
+      "text": "Yo fui el viernes pasado a comer y me pareci\u00f3 muy agradable. La comida muy rica (muy) y un lindo ambiente. Me gust\u00f3 la sencillez de la due\u00f1a/ cocinera/ moza. Es literalmente una cocina con mesas!"
+    }, 
+    {
+      "date": "13 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SalvaLlo", 
+      "text": "fui con unos amigos a comer, y fue una experiencia muy agradable, todo lo contrario a los esteriotipos de restaurants, peque\u00f1o pero agradable. Lo que mas me sorprendio fue que pudiesemos ver a la due\u00f1a Mariana De Rosa cocinando nuestra comida, ya que no hay paredes que separen la cocina de los comensales. La comida fue exquisita, y a un precio moderado, carta corta pero satisfactoria y una atencion muy buena\r\nLo recomiendo muchoo!!"
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marilu69", 
+      "text": "este lugar es exquisito!,chiquito pero encantador,carta breve y muy esmerada,todo preparado en el momento por su due\u00f1a y chef espectacular,hemos ido varias veces y nunca comimos mal,todo lo que sirven es muuuy rico y fresco!me encanta!!,el precio es muy razonable"
+    }, 
+    {
+      "date": "7 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanito2000", 
+      "text": "Excelente propuesta. Es una se\u00f1ora que te atiende como si estuviera en tu casa. Lugar peque\u00f1o, rica comida, muy buena atencion."
+    }, 
+    {
+      "date": "20 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fml82", 
+      "text": "Es una cocina abierta con unas 6 a 8 mesas. Cocina de autor, excelente calidad de materias primas. Fui dos veces. La ultima vez pedi un pollo salteado con tronquitos de chauchas semicrudas, mani y una salsa oriental secreta, con guarnicion de arroz blanco. Un plato muy thai, quede enloquecida. de entrada me pedi un fiambre parecido a un basterma (armenio) con una lluvia de semillas de sesamo tostadas. Buenismimo. De cortesia nos dieron unas tostaditas untadas con un pure de arvejas. Todo sorprendente."
+    }, 
+    {
+      "date": "18 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "verito1965", 
+      "text": "Excelente !!. Es como comer en la casa de alguien. La cocina esta bien cerca de las mesas y uno ve como preparan los platos. Riquisimos y muy buena atencion. En definitiva, un lugar diferente y recomendable."
+    }, 
+    {
+      "date": "26 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AnaJuan", 
+      "text": "Fuimos a una clase de cocina y luego comimos lo que preparamos. Muy agradable la due\u00f1a/chef y una experiencia muy divertida. Se los recomiendo, aprendimos a preparar tres platos asiaticos muy f\u00e1ciles, aptos para preparar todos los d\u00edas en tu casa."
+    }, 
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pbmartinez", 
+      "text": "Se trata de un lugar chiquito, muy acogedor y realmente diferente. He ido varias veces y la atenci\u00f3n esforzada de su due\u00f1a Mariana es impecable. Ir a Sifones & Dragones es como sentarte en la cocina de tu novio o tu mejor amigo para conversar tranquilos mientras comes un platillo fresco que te cocinan pr\u00e1cticamente al lado! muy recomendable el postre G\u00e2teau de chocolate."
+    }, 
+    {
+      "date": "17 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "notebook", 
+      "text": "Es un lugar bien original porque cocinan practicamente delante tuyo. Muy buena atencion. Comimos un menu degustacion con la explicacion de la se\u00f1orea respecto a todos los platos. Salimos muy confirmes. Es para una cena super romantica."
+    }, 
+    {
+      "date": "12 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanm2003", 
+      "text": "me dejo muy bien impresionado el estilo del lugar; Para gente como yo que exigimos que un lugar para comer sea intimo y familiar, Atendido por su due\u00f1a, impecable timing en la elaboracion de los platos, altamente recomendable para personas que saben distinguir la calidad de los alimentos y la buena cocina."
+    }, 
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sabri_p", 
+      "text": "todo lo que probamos estaba riquisimo y nos atendieron de primera. me encanto el salmon con cilantro, menta y limon, ese plato solo justifica la visita. ideal para ir en pareja o en grupos chicos. pasamos una noche hermosa, el ambiente acompa\u00f1a para generar un clima intimo y agradable. sifones y dragones merece conocerse porque no se parece a ningun otro lugar, y porque su propuesta es tan genuina y sincera como cuidada en cada detalle. la cocina a la vista y lo peque\u00f1o del salon reflejan el concepto de \"una cocina con mesas\". la due\u00f1a es una anfitriona de lujo, ademas de excelente cocinera."
+    }, 
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sabrina_pupu", 
+      "text": "todo lo que probamos estaba riquisimo y nos atendieron de primera. me encanto el salmon con cilantro, menta y limon, ese plato solo justifica la visita. ideal para ir en pareja o en grupos chicos. pasamos una noche hermosa, el ambiente acompa\u00f1a para generar un clima intimo y agradable. sifones y dragones merece conocerse porque no se parece a ningun otro lugar, y porque su propuesta es tan genuina y sincera como cuidada en cada detalle. la cocina a la vista y lo peque\u00f1o del salon reflejan el concepto de \"una cocina con mesas\". la due\u00f1a es una anfitriona de lujo, ademas de excelente cocinera."
+    }, 
+    {
+      "date": "7 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fschlim", 
+      "text": "La comida es simplemente deliciosa. los platos son preparados al instante, delante de uno y llegan en su punto justo. la atencion es buena y simple. el lugar es peque\u00f1o y respeta la propuesta de comer en la cocina. realmente una experiencia gratificante. VUELVO."
+    }, 
+    {
+      "date": "30 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "tais", 
+      "text": "Fui porque me recomendaron mucho este lugar, pero sal\u00ed decepcionada y con un olor a comida impresionante impregnado en la ropa. Es cierto que la comida es de primer nivel, pero el lugar m\u00e1s que ser intimista me parece que les queda chico. En determinado momento se cocinaba algo muy condimentado y picante y el humo de la sart\u00e9n nos hac\u00eda llorar los ojos, porque el detalle es comer en la cocina...Es un concepto original, siempre y cuando pongan otro extractor."
+    }, 
+    {
+      "date": "26 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Juan_Caivano", 
+      "text": "Excelente. No hay mucho m\u00e1s para agregar, el ambiente presenta el equilibrio ideal entre intimista y acogedor. \r\nLa comida es de gran calidad y todo lo que est\u00e1 en la carta est\u00e1 en el plato con sus sabores m\u00e1s que presentes. La atenci\u00f3n es cordial y dedicada, el camarero se mostr\u00f3 siempre con la mejor disposici\u00f3n y atento a todas nuestras necesidades. Un lugar para recomendar y para seguir visitando."
+    }, 
+    {
+      "date": "26 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "unsol", 
+      "text": "Por fin un lugar que no es m\u00e1s de lo mismo, adem\u00e1s la comida me pareci\u00f3 deliciosa."
+    }, 
+    {
+      "date": "9 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luoni", 
+      "text": "Es la primera vez que visito esta \"cocina con mesas\" de la que me hablaron varias veces y me pareci\u00f3 no solamente un lugar distinto sino muy bueno. Entre los platos que comimos hab\u00eda un locro de cordero y un pollo tailand\u00e9s con especias para no olvidar.\r\nUn lugar bohemio y personal, me encant\u00f3."
+    }, 
+    {
+      "date": "6 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ally76", 
+      "text": "Excelente comida, es un lugar donde entran menos de 15 comensales. El chef esta a la vista, cocinan con productos de primera calidad. Te consultan y estan pendientes de cada comensal. Tienen licor de caramelo media hora."
+    }, 
+    {
+      "date": "30 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nirson", 
+      "text": "Es la tercera o cuarta vez que comemos en Sifones Y Dragones y nunca nos defrauda. Tienen platos completamente diferentes al resto de los lugares sin ser raros y la calidad es incre\u00edble. No estoy de acuerdo con quienes comentan que el men\u00fa deber\u00eda ser m\u00e1s largo, es admirable que en un local de esas dimensiones se sirva una cocina tan cuidada, no hace falta saber mucho para darse cuenta que no hay espacio para m\u00e1s. No se puede dejar de conocer."
+    }, 
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "molacho", 
+      "text": "Realmente interesante. Le\u00ed comentarios que dec\u00edan que el espacio era chico y no se qu\u00e9 otras cosas m\u00e1s, la verdad que esas son las reglas del restaurante y yo las acept\u00e9. Disfrut\u00e9 de un lomo machazo verdaderamente bueno. Altamente recomendable."
+    }, 
+    {
+      "date": "26 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "karinfoodie", 
+      "text": "Un lugar maravilloso y acogedor. Es un milagro de crear comida tan rica y sofisticada en una cocina tan chica y enfrente de todos los hu\u00e9spedes. Uno se siente como una persona feliz en el living de su mejor amigo, que -que suerte- es un cocinero de primer nivel."
+    }, 
+    {
+      "date": "15 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "foodjunk", 
+      "text": "La comida es muy rica, pero el lugar es reducido e inc\u00f3modo, pero me gusta el concepto."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Quix", 
+      "text": "Me parece una excelente e innovadora opcion para los amantes de la comida gourmet. Soy apasionado por la comida, y cada vez q decido por un restaurant decido por la experiencia que quiero tener. Super\u00f3 mis expectativas. Excelente comida y ambientacion, el camarero tiene excelente predisposicion, el lugar super chico y de mesas juntas (es la intencion, y me parece acertada con la idea) y de muy buena decoracion acorde. Para finalizar, increible el licor casero de caramelo 1/2 hora (no lo voy a olvidar facil). Mas q recomendarlo, es necesario conocerlo."
+    }, 
+    {
+      "date": "30 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "violetafrodita", 
+      "text": "muy agradable el lugar y la cocina a la vista. es una \"cocina con mesas\", tal como lo describen los due\u00f1os, por lo que  obligatoriamente hay reservar antes de ir ya que hay unas 8 mesas nada mas. excelente la comida y las combinaciones de ingredientes en los platos."
+    }, 
+    {
+      "date": "29 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "llamas", 
+      "text": "Debe ser el restaurante m\u00e1s particular que conoc\u00ed.\r\nCocinan entre las mesas, tienen excelente onda y la comida es tan particular como el estilo. \r\nMuy recomendable. Se llena de turistas. reserven con mucha anticipaci\u00f3n. \r\nAntes permit\u00edan llevar el vino, desgraciadamente ahora no."
+    }, 
+    {
+      "date": "24 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dickie", 
+      "text": "Muy lindo lugar. La comida es muy rica. La cocina abierta le da un toque diferente."
+    }, 
+    {
+      "date": "2 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "margulena", 
+      "text": "\u00a1Muy buena la carne al syrah, imperdible! La calidad de atenci\u00f3n tambi\u00e9n es sobresaliente."
+    }, 
+    {
+      "date": "11 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "merjones", 
+      "text": "Muy original. Con una carta acotada y propuestas audaces.\r\nAmbiente agradable con la peculiaridad que la cocina est\u00e1 a la vista, cosa que es de lo m\u00e1s atractiva."
+    }, 
+    {
+      "date": "26 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tcanetti", 
+      "text": "Original y excelente."
+    }, 
+    {
+      "date": "2 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Isolda", 
+      "text": "Un lugar muy especial. Se nota el cari\u00f1o que ponen en cada plato.\r\nVaya temprano y reserve porque es tan casero que puede quedarse con pocas opciones a la hora de pedir."
+    }, 
+    {
+      "date": "1 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "stank", 
+      "text": "Tan s\u00f3lo 19 cubiertos en un peque\u00f1\u00edsimo local de Colegiales, donde la cocina y los comensales compartimos el mismo espacio. Atenci\u00f3n informal pero respetuosa y cuidado en los platos que son poquitos, bastante originales y muy ricos. Porciones justas, para no atocigarse ni quedarse con las ganas. Ambiente muy \u00edntimo y s\u00faper simple, casi como compartir el living de una casa."
+    }, 
+    {
+      "date": "11 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "agusamuc", 
+      "text": "Excelente.\r\nHay que reservar."
+    }, 
+    {
+      "date": "7 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ignaciobelgrano", 
+      "text": "Es uno de esos lugares de los cuales hoy cuesta encontrar en la ciudad.\r\nSe trata de una cocina abierta y casual donde la gente disfruta de la comida dentro de ella!"
+    }, 
+    {
+      "date": "22 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "edailly", 
+      "text": "Un lugar privilegiado, \u00edntimo y con comida llena de creatividad. No te lo pierdas!"
+    }
+  ]
+}

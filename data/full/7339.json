@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "AmiraGoo", 
+      "text": "La atenci\u00f3n es MUY POCO cuidada. La cafeter\u00eda es mediocre. \r\nEl capuccino no estaba bueno y la galleta de frutos secos, si bien ten\u00eda muchos estaba DEMASIADO dura. El submarino estaba pasable, pero a grandes rasgos no vali\u00f3 la pena.\r\nEl ambiente esta bueno para ir a trabajar o leer."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Muy rico todo. Un poco escasas las porciones y altos los precios (teniendo en cuenta el tama\u00f1o) pero muy sabroso cada plato. Ped\u00ed una ensalada de salm\u00f3n con verdes, huevo poche, y blinis de papa (que mas bien eran unas papas al horno) y una chocotorta (esta ultima, incre\u00edble. Diferente a todas). El lugar, enclavado en esa librer\u00eda es lindisimo. La atencion, amable."
+    }, 
+    {
+      "date": "24 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "nandus", 
+      "text": "El lugar no es barato, pero la atenci\u00f3n y el ambiente valen la visita.\r\nLa m\u00fasica es sublime!\r\nIntenten sentarse en el silloncito del fondo si esta desocupado!"
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Morano", 
+      "text": "Fuimos de paso porque entramos en la librer\u00eda. Me sorprend\u00ed con un riqu\u00edsimo cheesecake marmolado y una limonada con menta y jengibre. La atenci\u00f3n muy buena, muy amable. Lindo el ambiente, pod\u00e9s agarrar libros y llevarlos a la mesa para leer en caso de que vayas solo. Recomendable!"
+    }, 
+    {
+      "date": "22 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ALMUDENA", 
+      "text": "un lugar diferente donde disfrutar de un desayuno y un librito recien comprado!!!"
+    }
+  ]
+}

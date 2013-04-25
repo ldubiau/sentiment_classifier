@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Nicoversa", 
+      "text": "Siempre  voy a almorzar o merendar y me quedo estudiando por varias horas. El ambiente es genial, amplio y tranquilo. Los sandwiches con las papas bravas son un almuerzo ideal. Especialmente el de gouda, cebollas caramelizadas y vegetales asados. El servicio siempre correcto."
+    }, 
+    {
+      "date": "15 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "koalation", 
+      "text": "Muy lindo ambiente y una atencion personalizada agradable. La verdad fuimos cuando estaba por cerrar y no tuvieron problemas en atendernos y ofrecernos su calidad bienvenida.-"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lacoqui", 
+      "text": "fui a tomar el te,la mercaderia es excelente,sabores originales y productos de muy buena calidad,muy buena relacion calidad precio y atencion rapida y amable,super recomendable"
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cechulina", 
+      "text": "Compre una torta para festejar mi cumplea\u00f1os, como cada vez que voy, prob\u00e9 una nueva opci\u00f3n y resulto, como siempre exquisita!\r\nLas galletitas, las tortas, los muffins, los cuadraditos, todo es una tentacion!\r\nLos productos son frescos y hechos con mucha dedicacion."
+    }, 
+    {
+      "date": "30 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ros\u00c3\u00a9", 
+      "text": "La experiencia en Jazm\u00edn de Buenos Aires es excelente! La exquisitez de sus manjares lo dicen todo! Se vive un momento \u00fanico, donde los aromas y sabores son protagonistas."
+    }
+  ]
+}

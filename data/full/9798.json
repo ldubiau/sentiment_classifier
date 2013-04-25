@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "17 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pbmartinez", 
+      "text": "Sinceramente espantoso. Fuimos 3 amigos a comer y pedimos: arroz con cerdo asado, pollo agridulce, cerdo agridulce, arroz con camarones, arrolladitos primaveda con verduras. El arroz con cerdo asado ten\u00eda un gusto nauseabundo, verdaderamente desagradable. Los arrolladitos primavera \"rellenos\" de verdura tienen 1 tallito perdido adentro y nada m\u00e1s! el resto de los platillos sin pena ni gloria. Comimos muy, pero muy mal. El servicio poco esmerado y la ambientaci\u00f3n regular. Conclusi\u00f3n: nada recomendable."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rinocerose", 
+      "text": "De relaci\u00f3n precio calidad incre\u00edble, este lugar es uno de esos restaurantes (o bodegones) a los que suelo ir varias veces que quiero comer bien, bien atendido, comida adaptada a nuestro paladar y realmente sabrosa. \r\n\r\nObviamente que si lo comparamos con Sipan va a salir perdiendo, siempre y cuando no tomemos en cuenta el precio de cada uno, porque comer por $40 hoy en d\u00eda es algo realmente extra\u00f1o.\r\n\r\nSi quer\u00e9s ir a comer comida pseudoperuana/china, dale una oportunidad. Me gusta m\u00e1s que Status (y eso que todo el mundo le tira flores a ese restaurante)."
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "athinoulla", 
+      "text": "el ambiente es muy agradable. Van familias, turistas, gente del barrio. El servicio no es muy r\u00e1pido pero compensa con la sincera amabilidad de la \u00fanica moza."
+    }
+  ]
+}

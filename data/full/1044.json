@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "20 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "steve", 
+      "text": "Un poco flojo el ambiente: muy pelado en t\u00e9rminos de decoraci\u00f3n y muy expuesto a la calle. \r\nLa comida est\u00e1 bien, no se si volver\u00eda, muy poco c\u00e1lida la atm\u00f3sfera."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "josemartin2006", 
+      "text": "El secreto mejor guardado de Buenos Aires: Calidad superlativa en la comida y atenci\u00f3n m\u00e1s que esmerada (\u00bfQui\u00e9n mejor para ello que su propio due\u00f1o?); si hay que criticar algo entonces quizas le falte algo de ambientaci\u00f3n al lugar."
+    }, 
+    {
+      "date": "16 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ursula", 
+      "text": "Chiquito y muy concurrido, pero la comida y lo que cobran por ella no se puede creer."
+    }, 
+    {
+      "date": "12 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ruthfaif", 
+      "text": "La comida es rica, con detalles sutiles de buen gusto, tanto en la elecci\u00f3n de los componentes principales de los platos como en las especias y todo en su justo punto. Lugar para volver."
+    }, 
+    {
+      "date": "30 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jghia", 
+      "text": "El mejor lugar de microcentro para comer en el dia a dia. Precio/calidad excelente. Se puede comer comida sana y diferente por practicamente lo que se gasta en cualquier lugar de \"mala muerte\" comiendo la tipica milanesa con pure.\r\nAdemas tienen el mejor cafe del microcentro y muy buena onda. Unico problema: lugar muy chico y poca intimidad."
+    }
+  ]
+}

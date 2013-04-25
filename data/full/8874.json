@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Lavengadora", 
+      "text": "La casona es muy bonita y hace suponer que la comida es buena, pero me llev\u00e9 una gran decepci\u00f3n. Ped\u00ed unos raviolones de salm\u00f3n. Yo cre\u00ed que eran de salmon rosado, pero supuse mal. Era blanco y dudo que sea salm\u00f3n, el sabor era muy fuerte. Dos de mis acompa\u00f1antes pidieron bondiola de cerdo (plato del d\u00eda) y tambi\u00e9n encontraron el sabor  muy fuerte. Y, por \u00faltimo, cuando quisimos pedir la tercer cerveza, no tenian, aunque lo solucionaron de alguna manera (fueron al quisco?). Y hay algunos detalles mas que voy a omitir. Lo \u00fanico bueno es el ambiente. No voy a volver ni recomendarlos"
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Lavengadora", 
+      "text": "La casona es muy bonita y hace suponer que la comida es buena, pero me llev\u00e9 una gran decepci\u00f3n. Ped\u00ed unos raviolones de salm\u00f3n. Yo cre\u00ed que eran de salmon rosado, pero supuse mal. Era blanco y dudo que sea salm\u00f3n, el sabor era muy fuerte. Dos de mis acompa\u00f1antes pidieron bondiola de cerdo (plato del d\u00eda) y tambi\u00e9n encontraron el sabor  muy fuerte. Y, por \u00faltimo, cuando quisimos pedir la tercer cerveza, no tenian, aunque lo solucionaron de alguna manera (fueron al quisco?). Y hay algunos detalles mas que voy a omitir. Lo \u00fanico bueno es el ambiente. No voy a volver ni recomendarlos"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "IJulieta", 
+      "text": "Es el \u00fanico restaurante de este estilo en la zona, lo cual ya es un atractivo. El lugar es muy lindo, tanto en el sal\u00f3n como en el parquecito debajo del gran nogal, como en la galer\u00eda. La atenci\u00f3n es buena, pero falta al menos un mozo. No hay carta de vinos. Tienen solo tres o cuatro malbecs que recitan de memoria. Sugerencia para los due\u00f1os: pizarrita tipo Caf\u00e9 San Juan para los platos del d\u00eda. No arruinen el postre con un helado de mala calidad. Acoten la carta pero tengan existencia de los platos que ofrecen. Tienen un muy lindo espacio y buenos platos, solo detalles a mejorar."
+    }, 
+    {
+      "date": "29 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Diego_hurlingham", 
+      "text": "Ser\u00e9 lo mas objetivo posible. La comida es aceptable, pero resulta desprolijo que se queden sin platos cuando poseen una carta tan limitada. Algo similar ocurre con los vinos. La atenci\u00f3n ap\u00e1tica. El mozo nos dijo que molestamos a los dem\u00e1s comenzales por haber concurrido con ni\u00f1os, cuando en realidad nos tomaron reservas en esas condiciones y poseen men\u00fa infantil en la carta. No volver\u00e9.. Lamentablemente para comer bien y sentise a gusto hay que salir de Hurlingham."
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "None20", 
+      "text": "No hay nada igual en Hurlingham!. Falta mas variedad en la carta y un mozo mas los sabados, comida sabrosa y diferente, el ambiente, la musica y el lugar, hermosos. Vamos a repetir!"
+    }, 
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Kandalf", 
+      "text": "Nos recibieron muy bien, la atenci\u00f3n de los mozos es muy atenta, cosa que se contra resta con la comida. Se demoraron mas de 1 hora en traer los platos principales, los cuales no son nada excepcionales."
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RacingClubLGI", 
+      "text": "Fuimos con mi novia a festejar nuestro aniversario. Muy lindo el lugar y muy agradable el ambiente. La gente del lugar muy atenta y bien predispuesta. La atencion fue muy buena pero por momentos se olvidaban algunas cosas. La comida muy rica y muy bien presentada. Pero los precios caros en relacion a las porciones. La carta de vinos parecia interesante. Yo no soy un gran conocedor pero tomamos un excelente vino!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "charlyjose", 
+      "text": "Excelente ambiente familiar, comida y la calidez en la atencion lo hacen sentir a uno muy comodos y con muchas ganas de seguir concurriendo."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "23 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Maica", 
+      "text": "El sal\u00f3n era chico, el servicio de mesa no val\u00eda su precio y la comida era rica pero escasa. No vovler\u00eda."
+    }, 
+    {
+      "date": "17 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "KaylaGrey", 
+      "text": "Excelente sabor pero porciones, directamente, microsc\u00f3picas.\r\n\r\nUn exceso el precio para la cantidad de las porciones, realmente te hacen sentir estafado aunque tenga la mejor de las atenciones."
+    }
+  ]
+}

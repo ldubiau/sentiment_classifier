@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Blaky", 
+      "text": "Fui varias veces porque me queda muy cerca del trabajo y la atenci\u00f3n de los mozos es muy buena, pero la cocina es un desastre!!!! Se demoran m\u00e1s de media hora en servir el plato del d\u00eda y la excusa es que lo hacen en el momento. Mentira! se nota que la comida es freezada y recalentada. La pechuga que ped\u00ed estaba dura y reseca... Incomible! No le doy m\u00e1s oportunidades. No voy nunca m\u00e1s!!!!"
+    }, 
+    {
+      "date": "12 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "bomvivant2008", 
+      "text": "Un desastre!!!!!"
+    }, 
+    {
+      "date": "5 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Blaky", 
+      "text": "La atenci\u00f3n de los mozos es muy buena. Muy rico el pancito saborizado reci\u00e9n horneado, pero un fiasco la comida. Ped\u00ed un simple sandwich de pollo... tard\u00f3 much\u00edsimo y estaba todo quemado!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "S.B.2009", 
+      "text": "recomendable para delivery. Lo traen en horario (casi siempre) cocido en el punto justo, con pancitos muy ricos. A veces viene un poco fr\u00eda. pero comparado con otros deliveries de la zona es muy bueno y tiene un precio razonable."
+    }, 
+    {
+      "date": "3 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cecidc", 
+      "text": "Pedi delivery. La verdad es q lleg\u00f3 super rapido y la ensalada (tenia de todo un poco) era muy abundante, y te traian pancitos y aderezos varios. No puedo opinar sobre comer en el lugar, pero para delivery esta bastante bien (y es mas barato que mucho de los restaurantes de la zona)"
+    }
+  ]
+}

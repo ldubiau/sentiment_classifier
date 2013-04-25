@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "16 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "En reuni\u00f3n de amigos, decidimos pedir delivery de empanadas a Scorpio. Enormes, con rellenos muy bien elaborados y buena masa. Para no perderse las de verdura y roquefort! En realidad, para no perderse ninguna! Un lugar que jam\u00e1s defrauda."
+    }, 
+    {
+      "date": "9 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "toppositivos", 
+      "text": "muy buena pizza y empanadas Buen delivery"
+    }, 
+    {
+      "date": "17 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Siempre pedimos delivery y no defraudan por la calidad de los productos y los buenos precios. Para recomendar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "roquez", 
+      "text": "Las empanadas de verdura con roquefort son sublimes!!"
+    }, 
+    {
+      "date": "4 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Tour_Gourmet", 
+      "text": "Lugar que sorprende por su calidad, calidez y buena atenci\u00f3n. Me gust\u00f3 mucho m\u00e1s la pizza de ac\u00e1 que la de \"los triunfadores\".\r\nFalta la cerveza Alemana y Holandesa.  Camarero excelente en onda.  Y ver las \"se\u00f1oras\" cocinando le pone el toque de calidez hogare\u00f1a."
+    }
+  ]
+}

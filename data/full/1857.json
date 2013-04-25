@@ -1,0 +1,76 @@
+{
+  "malos": [
+    {
+      "date": "19 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "romiro", 
+      "text": "Horrible, la lasagna tenia como piedras. Cuando le preguntamos al mozo dijo que eran \"semillas de espinaca\" que por la epoca aparecian alli. Entonces me parece que deberian dejar de ofrecer ese plato en esa epoca, casi nos rompemos un diente! La salsa acida, caro para la calidad de la comida."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mauge1980", 
+      "text": "El servicio es normal, la comida es muy rica, excelentes todas las pastas. El menu ejecutivo es sumamente accesible en su precio. Una delicia la tarta tibia de manzanas."
+    }, 
+    {
+      "date": "17 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eldoto", 
+      "text": "la copmida es buena pero la atencion deja mucho que desear.mala relacion precio-producto.si queres comer pasta hay mejores lugares"
+    }, 
+    {
+      "date": "15 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juandomingo", 
+      "text": "Son recomendables las pastas, lo dem\u00e1s de la carta (muy frondosa) no me parece que est\u00e9 muy competitivo. no tiene carta de vinos (o no me la dieron) el lugar est\u00e1 bueno, aunque el d\u00eda en que fu\u00ed se hab\u00eda roto un ba\u00f1o y el olor era bastante desagradable. es para una comilona."
+    }, 
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marat", 
+      "text": "Excelente la atenci\u00f3n de todos los empleados del lugar, siempre muy atentos. La comida es rica, aunque estar\u00eda bueno que tuvieran m\u00e1s variedad en salsas. Es interesante que lunes y martes ofrecen las pastas con un cincuenta porciento de descuento, lo que resulta m\u00e1s accesible."
+    }, 
+    {
+      "date": "1 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "NOFX", 
+      "text": "Bien ambientado y tiene lindos postres."
+    }, 
+    {
+      "date": "13 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ftraverso", 
+      "text": "La comida es entre regular y buena, con sabores demasiado \"toscos\". \r\nAlgunas salsas entre \u00e1cidas y demasiado condimentadas. Un poco caro para lo que ofrece."
+    }
+  ]
+}

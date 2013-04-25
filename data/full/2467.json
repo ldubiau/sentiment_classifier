@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "25 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "turkita", 
+      "text": "Me parece que este lugar cerr\u00f3, ya que los dos tel\u00e9fonos est\u00e1n fuera de servicio. Una l\u00e1stima."
+    }, 
+    {
+      "date": "2 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Muy rica la sopa agripicante. Excelente opci\u00f3n para pedir delivery. \r\nLlegan rapid\u00edsimo y sin enfriarse. \r\nHasta las sopan mandan por delivery."
+    }, 
+    {
+      "date": "27 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tomywald", 
+      "text": "Es muy bueno para pedir delivery, ya que llegan muy r\u00e1pido y es muy barato. La calidad de la comida, a veces es mejor que otras, pero igualmente es buena."
+    }, 
+    {
+      "date": "13 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Keyakd", 
+      "text": "Muy bueno. lastima q cierra los martes al mediodia y siempre se me ocurre comer ese dia jaja."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lalicatz", 
+      "text": "La comida es excelente. La atenci\u00f3n es r\u00e1pida y muy eficiente. Pido siempre delivery y llega en cinco minutos. Las porciones son muy abundantes. La comida es deliciosa y esta atendida por los due\u00f1os, que son muy atentos. Me olvidaba del precio: \u00a1muy bueno! No se pierdan de probar todos sus platos."
+    }, 
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gordita", 
+      "text": "Excelente la comida. Muy bueno el pollo con hongos y almendras. Muy recomendable."
+    }, 
+    {
+      "date": "23 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kitty", 
+      "text": "Excelente la comida, incomparable, todo en pefecta condici\u00f3n. \r\nMe encant\u00f3, todo muy recomendable. Tiene una divina decoraci\u00f3n, vayan a probarlo que no se van a arrepentir."
+    }
+  ]
+}

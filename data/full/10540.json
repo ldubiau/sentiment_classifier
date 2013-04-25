@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablopx", 
+      "text": "Soy del barrio y voy seguido. La verdad que realmente conforme. La pizza es muy rica, las mozas siempre me atendieron bien, si son un poco colgadas a veces, pero como cualquiera, nada del otro mundo. El ambiente es medio ruidoso por eso es m\u00e1s para ir con amigos que con una pareja."
+    }, 
+    {
+      "date": "21 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "epozo_priv", 
+      "text": "La pizza es excelente, la faina de queso azul es muy buena.  El precio es muy bueno en relacion a la pizza. Pero las mozas no tienen mucha onda , tardan en atender con el bar relativamente vacio cuando te sentas afuera. Me han traido la cerveza en botella congelada , al pedir el cambio no me miraron con muy buena cara. La maquina de cafe nunca anda bien o no saben usarla. \r\nEn resumen es buena la pizza pero todo los demas es regular o malo. Hace dos a\u00f1os el lugar era excelente en todo pero por alguna raz\u00f3n se vino abajo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kurco", 
+      "text": "A mi gusto, la mejor pizza de Buenos Aires y a precios muy razonables. Las camareras atienden con eficiencia y sonrisas (rara combinaci\u00f3n en el rubro). La carta de vinos es mejorable. Recomiendo especialmente la pizza que tiene cheddar (no recuerdo el nombre espec\u00edfico)."
+    }
+  ]
+}

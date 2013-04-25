@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "7 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "noe5427", 
+      "text": "El ambiante es calido y agradable.Me gusto atencion recibida. El precio esta dentro de los parametros normales."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "arturo", 
+      "text": "Comimos un excelente tempura de langostinos, y la atencion fue excelente. Una agradable sorpresa haber encontrado este restaurant"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "rucula", 
+      "text": "Excelente lugar tanto de d\u00eda observando los maravillosos campos de polo, como las romanticas cenas en medio del campo. Esmerado servicio, oficio y todo para disfrutar deliciosos platos muy bien elaborados; lo recomiendo ampliamente"
+    }, 
+    {
+      "date": "17 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Cena perfecta para el programa \"Viernes rom\u00e1ntico\" del resort. No har\u00eda 80 km solo para cenar, pero para unos drinks, cenar, pasar la noche y desayunar s\u00ed, muchas veces. La comida es excelente, la atenci\u00f3n tambi\u00e9n y no hablemos del paisaje, la cancha de polo, el golf ni del olor del aire, que te llena de ox\u00edgeno y de ganas de renovarse. La ruta 6 est\u00e1 bastante mal, les aconsejo llegar de d\u00eda. No se lo pierdan!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carola63", 
+      "text": "Excelente restaurante ubicado en un club de polo, ideal para almorzar mirando el verde.  Posee un salon muy bien ambientado que da a una terraza climatizada donde se puede  almorzar con una gran vista. La comida es excelente, los platos muy bien presentados y los postres deliciosos. El semifredo de almendras con naranjas confitadas imperdible. El servicio cordial y atento y lo mas destacado es que uno almuerza en la paz del campo."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "23 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "silos", 
+      "text": "falta ventilacion en el lugar... atencion buena. Comida buena, las mesas muy chicas....los platos abundantes y ricos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "daniherr", 
+      "text": "La comida muy rica, con buen sabor. Por otro lado las camareras me atendieron de maravillas."
+    }
+  ]
+}

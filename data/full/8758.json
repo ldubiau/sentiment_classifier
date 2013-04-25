@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "8 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pmdr", 
+      "text": "El pollo estaba totalmente seco. Muy feo.\r\nEl sushi estaba blando y a temperatura ambiente, y a la vez muy flojo de sabor.\r\nLa atencion bastante lenta."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Richard_", 
+      "text": "Fuimos a comer al mediodia y optamos por el menu ejecutivo que cuesta 45 pesos y consta de dos pasos.  De entradas empanadas chinas (estaban bien) y de principal 12 piezas de sushi.  Buen almuerzo liviano para el mediodia."
+    }
+  ]
+}

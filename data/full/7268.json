@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "14 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "elmejorcheff", 
+      "text": "En un ambiente campestre alejado del centro de Carlos Keen. El servicio no es malo, pero no condice con las publicaciones espectaculares de su pagina de internet, Pedimos pastas  para mi hija de 3 a\u00f1os, y nos dijeron que hab\u00eda que reservarlas  con anterioridad. Los pocos cortes de carne que ten\u00edan, los serv\u00edan en porciones muy peque\u00f1as que parec\u00edan los restos que no le pueden encajar a nadie. La atenci\u00f3n de la gente es muy calida generando un ambiente familiar sin compensar la baja calidad gastronomica."
+    }, 
+    {
+      "date": "6 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MarcosT", 
+      "text": "Pagamos m\u00e1s de $100 por persona con un vino tipo patero y el asado/achuras dejaron que desear en cuanto al sabor y cortes. Me pareci\u00f3 demasiado caro para un almuerzo. El precio no est\u00e1 acorde con el servicio. Con seguridad no volver\u00e9."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "byc2002", 
+      "text": "Muy bueno. El servicio deja un poco que desear ya que con poca gente se notaba la falta de personal. Por lo demas excelente, el ambiente es totalmente campestre, con caba\u00f1as reconfortantes muy bien ambientadas. Excelente tambien la comida, no es lo mejor que he probado pero no desentona.\r\nLo mejor: si bien el cubierto no es barato ($90 x pers), solo cobran cubierto a los adultos, menores de 6 no pagan y luego pueden cobrarte medio cubierto, a mi no me lo cobraron! Recomendable, obvio que vuelvo"
+    }, 
+    {
+      "date": "24 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rhr955", 
+      "text": "Apto para un d\u00eda de campo a puro descanso bajo una a\u00f1osa arboleda, y disfrutando de una peque\u00f1a pileta de nataci\u00f3n. No hay mucho mas que hacer, pero si se busca descansar est\u00e1 bien. Cobran $90 por persona, sin bebida, lo que incluye desayuno y merienda. Se puede optar por comer en un sal\u00f3n r\u00fastico de madera o al aire libre. Nada es superlativo ni lujoso, tanto la comida como el ambiente y el precio. Atenci\u00f3n familiar y simp\u00e1tica."
+    }
+  ]
+}

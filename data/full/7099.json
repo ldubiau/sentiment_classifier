@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "21 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lorena_08", 
+      "text": "Pedimos delivery, cumplieron perfectamente con el tiempo de entrega.  El arroz estaba pasad\u00edsimo y demasiado dulce, poco sabor de los resto de los ingredientes. La presentaci\u00f3n dejaba mucho que desear, todo vino en un envase pl\u00e1stico transparente.  Lo pasado del arroz no permit\u00eda tomar las piezas con los palitos, hab\u00eda invitado gente a cenar por lo que result\u00f3 una situaci\u00f3n espantosa.  No lo recomiendo salvo que quieran comer sushi con la mano."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bender", 
+      "text": "Me gusta el buen sushi, pero soy de los que cree que en Bs.As. todav\u00eda no hay un MUY BUEN SUSHI, como si en Lima, San Pablo o otras ciudades de Sudam\u00e9rica. En particular Nikko, es un aceptable sushi para pedir a domicilio, pero en una evaluaci\u00f3n general, es regular o un poco m\u00e1s. El precio esta dentro de los precios del mercado( que son muy por encima de la media en cualquier lugar del mundo). En s\u00edntesis: delivery si; un sit\u00fa: No."
+    }, 
+    {
+      "date": "18 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ILE", 
+      "text": "El servicio de delivery es PESIMO. No solo es caro, sino que no pueden tener unapero atencion. Informan que tardan 45 minutos y esperamos mas de 2 horas, para un pedido que vino mal (faltaron prodictos solicitados, que obviamente los cobraros y no quisieron devolver el dinero)."
+    }, 
+    {
+      "date": "11 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "changa", 
+      "text": "me encanta, vivo cerca y lo recomiendo a full porque el sabor del sushi es muy fresco y delicioso."
+    }, 
+    {
+      "date": "23 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ApoloPaolo", 
+      "text": "Ped\u00ed delivery de Sashimi de salm\u00f3n rosado de 16un. y un combinado cl\u00e1sico de sushi de 20un.; justo ese d\u00eda tenian un promoci\u00f3n especial. La calidad de los ingredientes, la preparaci\u00f3n y la buena presentaci\u00f3n han conjugado en un momento muy agradable al paladar, realmente con un precio casi muy bueno y un sabor excelente. Realmente para recomendar y seguir como cliente, espero que siga as\u00ed!!!"
+    }, 
+    {
+      "date": "7 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vane8020", 
+      "text": "Pedimos delivery para cuatro personas, el resultado fue muy bueno porque el menu era muy variado. Tardaron menos de lo anticipado, y las piezas de sushi como la presentacion del wok (en una caja blanca) fue muy buena. Para un combinado clasico de 20 piezas, mas otro de 16 piezas premium (roll de lomo, langostino y pollo) mas el wok (para compartir) el total fue economico $120, comparando calidad y precio. Lo recomiendo."
+    }, 
+    {
+      "date": "18 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "leoA", 
+      "text": "Fui al mediodia, habia 4 o 5 buenas opciones de menu ejecutivo. Las croquetas de salmon de entrada muy malas. El yakimeshi estaba bastante bien, pero lo mejor fue el sushi. El menu de 16 piezas, con bebida, postre y entrada (fea) sale $46. Para finalizar mouse de chocolate, con muucha manteca. Y un \\\"tiramisu\\\" de mango que estaba mucho mejor que la mouse. No se si vuelvo, creo que no."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gmelisa", 
+      "text": "Hasta hace unos meses viv\u00eda en Villa Urquiza, que es un barrio lleno de deliverys de sushi, y los prob\u00e9 casi todos. Bueno, Nikko es por lejos el mejor. Podr\u00eda decir que es uno de los mejores que hay en la ciudad, sin exagerar. No es barato pero tampoco car\u00edsimo, y la verdad que lo vale, adem\u00e1s tienen muchas promos los d\u00edas de semana y, si te anim\u00e1s, comprando rolls enteros sin cortar te ahorr\u00e1s bastante dinero (ellos te dan las instrucciones). Es verdad que a veces tardan mucho y una vez me dejaron 2 hs esperando, pero la calidad realmente lo vale! C\u00f3mo los extra\u00f1o!"
+    }
+  ]
+}

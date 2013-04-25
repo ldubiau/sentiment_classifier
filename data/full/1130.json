@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "BuenApetito", 
+      "text": "La comida no tiene mucho sabor y no se renuevan con los platos. La pizza estaba realmente mala, a uno lo hacia recordar a la prepizza preparada en casa. El ambiente es muy ruidoso y la atencion es amable, pero lenta."
+    }, 
+    {
+      "date": "3 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Nicolazz", 
+      "text": "Cada vez esta mas caro, los platos, son casi siempre los mismos, y los mismos son bastante malos. Por mas que sean plato del dia, tardan mucho en traerte el plato, y mas, si son varios comensales."
+    }, 
+    {
+      "date": "21 Ene 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "oscarros", 
+      "text": "La comida estaba fr\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Corin", 
+      "text": "Fuimos el sabado con mi familia a una despedida de solteros...La verdad fue de terror reservamos para 43 personas y armaron la mesa para 30 no se podia ni pasar de la cantidad de gente que habia...Nos atendia solo una camarera que ademas atendia otras mesas...La pizza demoraba horas y cuando la traian era una pizza chica cada 10 personas..y de cuatro que sirvieron tres eran de cebolla...Eviten ir!!!"
+    }, 
+    {
+      "date": "29 Mar 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lanonasalley", 
+      "text": "Realmente la pasamos muy mal, una verg\u00fcenza, la atenci\u00f3n muy mala y la comida... creo que se puede comer mejor en un bodeg\u00f3n, todo fr\u00edo y cuando hay mucha gente no te dan bola, la m\u00fasica es de cuarta el dj estaba en otro boliche."
+    }, 
+    {
+      "date": "30 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Oxley", 
+      "text": "Se puede comer bien, pero no tienen sector para no-fumadores y es muy plomo el que habla por micr\u00f3fono todos los d\u00edas."
+    }, 
+    {
+      "date": "7 Nov 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "drno", 
+      "text": "La comida es de normal para abajo, exceptuando el mousse de chocolate. Da m\u00e1s sensaci\u00f3n de bar que de restaurant."
+    }, 
+    {
+      "date": "8 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "luisalbe", 
+      "text": "Me gust\u00f3 mucho el ambiente, participe el domingo de una reuni\u00f3n de Salsa."
+    }, 
+    {
+      "date": "27 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "imprenta", 
+      "text": "La pase muy bien, divertido y muy buen trato"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nieves", 
+      "text": "La pasta es excelente, les recomiendo los sorrentinos y de postre la mousse de chocolate.\r\nMuy buena atenci\u00f3n. Los shows imperdibles."
+    }, 
+    {
+      "date": "29 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lucianad", 
+      "text": "La pas\u00e9 genial y les recomiendo a los que no fueron todav\u00eda que no se lo pierdan."
+    }, 
+    {
+      "date": "6 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ramiromu", 
+      "text": "Exelente la onda , la atenci\u00f3n, los shows, la musica y el grupo humano."
+    }
+  ]
+}

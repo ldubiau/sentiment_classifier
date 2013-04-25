@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "DuroDeCallar", 
+      "text": "La media picada traia 2 fetas de cada fiambre, las provoletas estaban frias, la parrillada estaba pasada y no se notaban con claridad los cortes de carne. Las papas tenian mal sabor y al vino blanco le faltaba frio. En la mesa de al lado la familia se fue enojada porque la tuvieron un monton de tiempo y a los  comensales que vineieron despues de ellos ya les habian servido y ellos todavia estaban en veremos. Cabe aclarar que no habia mas de 15 mesas servidas lo que habla del grado de improvisacion y desconociemiento acerca del rubro."
+    }, 
+    {
+      "date": "19 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "contractura", 
+      "text": "Esperamos 50 minutos entre 1\u00ba plato y 2\u00ba no comimos m\u00e1s porque nos quedamos dormidos esperando fue lo peor que nos pas\u00f3 en un Restaurante. El encargado jugaba a las cartas en la compu. Un desastre todo no se lo deseo a nadie!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "abril75", 
+      "text": "Fuimos 4 nos gusto el ambiente, se puede hablar las mesas no estan demasiada juntas,  nos gusto la comida, ( optamos por menu fijo), la musica, la atencion, el tiempo en que traian las cosas era el correcto , y los mozas no son invasivas.\r\nvolveria seguro."
+    }, 
+    {
+      "date": "18 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "boinga", 
+      "text": "Muy mala la atenci\u00f3n, muy deprimente el hambiente, muy mala la m\u00fasica."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "unpardepanditas", 
+      "text": "La comida excelente (raviolon verde con ricota y calabaza muy recomendable!!!), bien casera! La atencion muy buena, cordialidad no invasiva, muy buen ambiente, mantiene privacidad."
+    }
+  ]
+}

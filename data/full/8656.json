@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "9 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "kenwood", 
+      "text": "No dice nada, un restaurant de pasada para alguien que vive cerca o una salida a comer en horario laboral."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cevichero", 
+      "text": "Una de esas pizzer\u00edas de barrio que no deber\u00edan morir nunca. La ant\u00edtesis de las pizzer\u00edas \"fashion\" de Palermo, pero con una de las mejores pizzas a la piedra que vayan a probar jam\u00e1s. La Napolitana es un 10."
+    }
+  ]
+}

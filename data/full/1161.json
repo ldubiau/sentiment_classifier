@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "2 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Fripp", 
+      "text": "Esto era el viejo Bar Su\u00e1rez. Fue uno de aquellos bares tradicionales a los que agarr\u00f3 el frenes\u00ed de modernizaci\u00f3n de los 90 y que quedaron convertidos en mamarrachos. He pedido comida al delivery de este lugar, y no he logrado nunca que me traigan lo que pido. Cuando no falta el pan se equivocan en el acompa\u00f1amiento, y cuando no, la comida est\u00e1 horrible. Pasen lejos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CuentoChino", 
+      "text": "Excelente comida muy rica, rapido servicio y bueno, se puede ir con apuro y te sobra tiempo.- Recomendable.-"
+    }
+  ]
+}

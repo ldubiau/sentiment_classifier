@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "10 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "gabrielw", 
+      "text": "P\u00e9simo servicio. No tienen plato del d\u00eda y te avisan veinte minutos despu\u00e9s de servir las bebidas. \r\nPed\u00eds otro plato y se olvidan de traerlo. Una estafa."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "buena parrilla, al asador cruz a la vista, buena atencion, clasico lugar y abundantes porciones parrilleras con buena opcion de delivery.tranqui, no mucho alboroto, cumple."
+    }, 
+    {
+      "date": "15 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Friedrich", 
+      "text": "Nada destaca, el mozo es lo mejor del lugar."
+    }, 
+    {
+      "date": "14 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Es una parrilla sin demasiadas pretenciones en la que se come bien y con una excelente atenci\u00f3n. Algo caro para el tipo de lugar sin lujos ni agregados que lo justifiquen."
+    }, 
+    {
+      "date": "26 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "La comida estuvo muy buena al igual que el servicio, pero la verdad que no es un lugar barato. Se puede ir a un restaurante de Puerto Madero o Las Ca\u00f1itas por el mismo precio. Una ensalada de lechuga, tomate y huevo cuesta $12!\r\nAdem\u00e1s NO aceptan tickets restaurante a la noche."
+    }, 
+    {
+      "date": "5 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Merengada", 
+      "text": "Fuimos de noche un d\u00eca de semana. Nos atendieron super bien. La comida es muy rica y fresca. No tienen descuento para socios Oleo, pero bue... yo los recomiendo igual. Si cumpl\u00ecs a\u00f1os el mozo te canta las ma\u00f1anitas a lo Pavarotti, un poco exagerado pero la intenci\u00f2n es buena! jajaja"
+    }, 
+    {
+      "date": "3 Jun 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gene", 
+      "text": "El lugar es lindo y la comida de muy buena calidad pero tardaron m\u00e1s de 45 minutos en servirnos los platos. Y luego lleg\u00f3 todo a destiempo. Notamos que no pasaba lo mismo en todas las mesas y en realidad, a pesar de la amabilidad, nunca nos dieron una explicaci\u00f3n muy clara de la tardanza. Me parece que puede funcionar bien los d\u00edas de semana pero los domingos al mediod\u00eda, por lo menos, est\u00e1n totalmente desbordados."
+    }, 
+    {
+      "date": "31 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "claudio318", 
+      "text": "Lindo asador para ir con amigos. Los precios te dejan comer libremente. Buena la atenci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "javiert28", 
+      "text": "Excelente calidad, atenci\u00f3n y ambientaci\u00f3n. Ideal para concurrir con amigos y festejar cumplea\u00f1os. Te hacen hasta una serenata para la agasajada."
+    }, 
+    {
+      "date": "13 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jmgabriele", 
+      "text": "Excelente relaci\u00f3n costo beneficio. La parrillada, que siempre esquivo porque se presta para incluir algunas piezas que nadie come, ac\u00e1 es muy abundante y variada, y todo de excelente calidad. Incluye provoleta y mollejas. No se desaprovecha nada. \r\nEs un lugar ideal para reuniones de amigos con presupuesto dispar.\r\nLa carta de vinos es escueta, pero tiene muy buenos precios."
+    }, 
+    {
+      "date": "25 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carles", 
+      "text": "Muy buena parrila. El ambiente es bueno, tiene mesas c\u00f3modas y poco ruido. Los ba\u00f1os son buenos y la ubicaci\u00f3n es muy buena en relaci\u00f3n a otras parrillas de la zona."
+    }
+  ]
+}

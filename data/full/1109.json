@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "11 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Para tomar un cafe y comer torta. Punto. La variedad de tortas no se si existe, pero tanto no se le puede pedir a un lugar que esta en un Patio de comidas. Me gusta el espresso del lugar por eso suelo ir. Esta sobre un lugar muy transitado."
+    }, 
+    {
+      "date": "17 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "JA", 
+      "text": "La atenci\u00f3n es buena, as\u00ed como los sandwichs, pero el ambiente es desagradable, en el pasillo del centro comercial."
+    }, 
+    {
+      "date": "9 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "omi_57", 
+      "text": "para tomar un buen cafe con ricas tortas\r\nambiente bullicioso ya que se encuentra en un patio de comidas."
+    }
+  ]
+}

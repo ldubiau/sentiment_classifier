@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "20 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "coco9234", 
+      "text": "Es una simple y decadente parrilla de barrio. 1)No aceptan tarjetas de cr\u00e9dito 2)Ambiente muy pobre, decoraci\u00f3n idem y atenci\u00f3n precaria. Lo mas importante, la comida: una entra\u00f1a insulza que parec\u00eda hervida, una provoleta gomosa y ensalada de r\u00faclula con aceite de oliva con feo aroma. Pedimos 2 vinos y no los ten\u00edan. No le veo mucha vida..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Cyngui", 
+      "text": "Llegamos y tuvimos que esperar 20 minutos para que nos tomaran el pedido, 15 minutos m\u00e1s para que nos trajeran las bebidas y media hora para que nos sirvan los platos; o sea que esperamos1 hora para comer...lo m\u00e1s triste es que el restaurant ten\u00eda ocupadas menos de la mitad de las mesas. Pedimos asado, matambrito de cerdo (pero me trajeron de ternera, igual me lo com\u00ed xq no quer\u00eda esperar m\u00e1s), una porci\u00f3n de fritas que estaban feas y una ensalada que ya estaba condimentada con aceto. No lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gborau", 
+      "text": "Excelente! La verdad no le ten\u00eda mucha f\u00e9, pero una vez que probamos la parrilada para 2, quedamos felices! Excelente la comida la verdad! No es poco, incluye cerdo y mollejas =) Volveremos!"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "17 Dic 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "albornoznj", 
+      "text": "Por el servicio que brindan y la atenci\u00f3n que nos dieron es car\u00edsimo.\r\nLlegamos temprano y comimos \u00faltimos. \r\nLa verdad que la atenci\u00f3n deja mucho que desear. Es la \u00faltima vez que voy. \r\nNos atendieron cinco mozas distintas: una porquer\u00eda. \r\nNo andaban los ventiladores y al bailar nos morimos de calor."
+    }, 
+    {
+      "date": "25 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "noralyja", 
+      "text": "Buen lugar para pasar un cumplea\u00f1os."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pluma68", 
+      "text": "Este plato est\u00e1 fuera de los men\u00fa ejecutivos que se renuevan todas las semanas. Tienen 10 opciones para elegir y todas entre los 10 y 15 pesos, incluyendo bebida y postre. Lo adoptamos para el almuerzo de todos los d\u00edas."
+    }, 
+    {
+      "date": "4 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "FRAMACALU", 
+      "text": "Muy buen lugar para comer, disfrutar de un buen show y del baile. \r\nCon nuestros amigotes nos hemos divertido, la pasamos muy bien. Queremos volver."
+    }
+  ]
+}

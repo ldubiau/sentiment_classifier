@@ -1,0 +1,168 @@
+{
+  "malos": [
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Perlaz1965", 
+      "text": "la pizza de palmitos mala ,la de jamon pasable y la napolitana sin gusto .las empanadas pasables . todo muy caro para la calidad que tiene."
+    }, 
+    {
+      "date": "21 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "hola1979", 
+      "text": "Terrible. En realidad, Pizza con pollo, mayonaise y ketchup. Blurgh."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Ally76", 
+      "text": "Excelentes empanadas sobre todo las de carne y la gallega. la fugazzeta es riquisima. Muy bueno para tenerlo en cuenta como delivery."
+    }, 
+    {
+      "date": "2 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "acade29", 
+      "text": "Hay mejores Pizzerias, pero si viv\u00eds por el barrio: Fugazzeta rellena insuperable, Napolitana muy buena, buena fain\u00e1. Servicio en la barra (no hay mesas) y delivery r\u00e1pido y correcto."
+    }, 
+    {
+      "date": "22 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ianara", 
+      "text": "flojo, me la habian recomendado y me lleve una gran decepcion la pizza no dice nada la muzarella no tiene gusto y las empanadas son discretas."
+    }, 
+    {
+      "date": "24 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "carlos104k", 
+      "text": "Las pizzas son muy ricas. La barra es ideal para comer, si se est\u00e1 de paso por la zona."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Maclaire", 
+      "text": "Solo para delivery. Los calzzones y la fugazzeta rellena son de lo mejor. Delivery, bastante r\u00e1pido. Precios coherentes."
+    }, 
+    {
+      "date": "2 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pizamaniaco", 
+      "text": "la mejor pizeria de buenos aires, toda mercaderia de primera calidad"
+    }, 
+    {
+      "date": "3 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "gourdanito", 
+      "text": "No comimos en el restaurante. Tentados por la guia, decidimos ir para comprar empanadas para degustar en casa. Son riquisimas, super recomendadables. Asi como las empanadas fritas  santiag\u00fce\u00f1as de \"Martita\" son lo maximo; en empanadas al horno; estas son las mas ricas que he probado. Son jugosas y muy gustosas. El ambiente, del lugar: practicamente no existe; y se come parado. Volveremos para probar las pizzas, que seguramente seran de la misma calidad de las empanadas"
+    }, 
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "leioleo", 
+      "text": "Pedimos delivery. \r\nLa fugazzetta rellena es muy recomendable. De esas tipicas de Buenos Aires que se encuentran en aquellas pizzerias de anta\u00f1o."
+    }, 
+    {
+      "date": "5 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maius", 
+      "text": "Buenis\u00edmas las pizzas, muy rica la masa y la calidad de los ingrendientes.\r\nPrecios acordes, deliverys dentro de los tiempos esperados.\r\nLo unico, traigan las pizzas cortadas!"
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "andygol_03", 
+      "text": "Las mejores empanadas de la ciudad."
+    }, 
+    {
+      "date": "27 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "figment", 
+      "text": "Siempre pedimos en casa y las empanadas son buen\u00ecsimas (si te gustan medio aceitosas). Est\u00e0 en precio. Probalo!"
+    }, 
+    {
+      "date": "3 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mar", 
+      "text": "Espectaculares pizzas y mejores empanadas."
+    }, 
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sabi", 
+      "text": "Pedimos delivery. R\u00e1pidos. Las pizzas y empanadas exquisitas. En precio."
+    }, 
+    {
+      "date": "12 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "luditas", 
+      "text": "Excelente pizza y uno de las mejores fain\u00e1 de Buenos Aires. No es restaurante, pero se puede comer en la barra."
+    }
+  ]
+}

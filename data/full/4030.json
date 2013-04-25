@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Estefy89", 
+      "text": "Comi mucho y muy bien. Me gusta el metodo de un buffet frio antes del plato caliente, incluye una buena variedad. La atencion es buena... La relacion calidad/precio es justa. Volveremos!"
+    }, 
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Vivi-11", 
+      "text": "Lo mas destacado del lugar son los sabores caseros y el clima cordial, que lo vuelve diferente. Recuerda a la cocina y la atenci\u00f3n de una abuela de anta\u00f1o. \r\nUn clasico en la zona. No aburre por la variedad, siempre se puede volver y es apto para toda la familia. Imperdible el postre de la casa tipo Balcarce."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mimejorversion", 
+      "text": "Excelente todo. Para aquellos que buscan lugares escondidos donde comer muy bien. Comida gourmet  de primera calidad, servicio c\u00e1lido y profesional."
+    }, 
+    {
+      "date": "20 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ajg044", 
+      "text": "Fuimos con mi familia , siempre excelente, tanto las entradas como los platos calientes , parrilla y postres son de excelente calidad !!!Tengo un hijo celiaco y de este restaurant puede comer casi todo. Nos atienden de maravilla , siempre.Volveremos ...."
+    }, 
+    {
+      "date": "31 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ideafix", 
+      "text": "Excelente lugar, un clasico de Monte Grande al que siempre vale la pena volver. La atencion es muy buena y tanto la mesa de entradas como los platos calientes que van acercando las mozas son riquisimos. Hay que ir preparado para comer mucho y todo de gran calidad. Absolutamente recomendable."
+    }, 
+    {
+      "date": "5 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elasador", 
+      "text": "muy buen lugar. te miman desde que entras hasta los postres. las tapas son excelentes, como tambien los platos frios. la parrilla fue muy buena y tambi\u00e9n las pastas. como postre com\u00ed helado de pan dulce con crema, una delicia. si este lugar estar\u00eda emplazado en capital ser\u00eda mucho mas famoso. trabaja con los countrys de la zona. volver\u00e9."
+    }, 
+    {
+      "date": "21 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aliciamis", 
+      "text": "Excelente! Muy recomendable. Eso s\u00ed: para comer mucho! Hay de todo, fresco y de buena calidad, para todos los gustos.. Atenci\u00f3n muy atenta.\r\nLugar super agradable."
+    }
+  ]
+}

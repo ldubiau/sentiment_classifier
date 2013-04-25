@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "17 Sep 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "eugegonz", 
+      "text": "muy buena presentaci\u00f3n de platos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eugegonz", 
+      "text": "muy buena atencion y la comida casera, excelente"
+    }, 
+    {
+      "date": "17 Sep 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "palmieri", 
+      "text": "un c\u00e1lido lugar en una lind\u00edsima zona. Muy bien atendido"
+    }
+  ]
+}

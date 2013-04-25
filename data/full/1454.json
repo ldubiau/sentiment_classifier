@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "12 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "NicoMansilla", 
+      "text": "Pedimos comida en El Caser\u00edo por recomendaci\u00f3n de compa\u00f1eros de trabajo y nos enviaron una milanesa de vaca nerviosa y  el pollo grille que es del tama\u00f1o de un canario con pur\u00e9 agrio.. No lo recomiendo para nada.. Saludos"
+    }, 
+    {
+      "date": "16 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "oarango", 
+      "text": "la rejilla aceitos con gusto a mariscos, dura, no se podain pinchar, la carne hecha de recortes de matambrito, los ravioles bien,solo eso.\r\nNo vuelvo."
+    }, 
+    {
+      "date": "7 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lolylolo", 
+      "text": "Comi Brochette de pollo (q parecia de paloma) con papas rejilla con demasiado gusto a aceite y de postre panqueque de manzana q realmente no tenia gusto a nada. Me pareci\u00f3 caro para un almuerzo, aprox $50 x pers. Sinceramente, no lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guille111", 
+      "text": "se come bien y punto"
+    }, 
+    {
+      "date": "20 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rferrari", 
+      "text": "Atendido por mozos de los de antes, El Caser\u00edo se merece una visita de los que trabajan en el centro. Ninguno de los platos descolla o desentona, siendo buenas propuestas los pescados, los platos elaborados y las pastas caseras. De vez en cuando, un disgusto: las papas noisette parecen de paquete o se encuentra uno con una porci\u00f3n rid\u00edculamente chica. El ambiente es correcto y el precio general a veces roza el \"arriba las manos\", pero entre los caf\u00e9s, el champagne de invitaci\u00f3n y los caramelos a uno se le va pasando. Denle una chance: capaz que, como yo, se terminan encari\u00f1ando."
+    }, 
+    {
+      "date": "30 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "barrigudito", 
+      "text": "buena cocina, precio correcto por la ubicaci\u00f3n del local. Nada me llam\u00f3 la atenci\u00f3n, todo fue sencillamente correcto."
+    }, 
+    {
+      "date": "26 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leoA", 
+      "text": "Muy buenas rabas, reci\u00e9n hechas como corresponde. El arroz con mariscos un manjar. Sin dudas, para ir seguido."
+    }, 
+    {
+      "date": "2 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "emirapa", 
+      "text": "Atenci\u00f3n muy esmerada, El ambiente del local un poco ruidoso para mi gusto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pirilo74", 
+      "text": "Pescado exepcional y pastas gustosas en un ambiente correcto y una ubicacion privilegiada. La atencion debe ser mejorada con urgencia"
+    }, 
+    {
+      "date": "16 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pacm01ar", 
+      "text": "Un verdadero manjar. Los sorrentinos son inigualables. El resto no desentona. Un poco lento el servicio, pero muy cordial."
+    }, 
+    {
+      "date": "5 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rhpelleg", 
+      "text": "La comida siempre es muy buena, las ensaladas especiales, el arroz con langostinos siempre a punto. Sobre postres no opino porque no suelo comerlos."
+    }, 
+    {
+      "date": "15 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "suarezgn", 
+      "text": "Cocina r\u00e1pida, buena y a precio de regalo.\r\nAtenci\u00f3n muy profesional\r\nLugar muy pintoresco, con cuadros que remiten al pais Vasco."
+    }
+  ]
+}

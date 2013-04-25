@@ -1,0 +1,126 @@
+{
+  "buenos": [
+    {
+      "date": "16 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LAC_", 
+      "text": "Excelente la atenci\u00f3n del due\u00f1o Pedro y del resto del personal. Comida casera y deliciosa, siendo lo m\u00e1s destacado las alb\u00f3ndigas con arroz, el arroz con calamares, las pastas y la milanesa napolitana. Prestar mucha atenci\u00f3n a los platos del d\u00eda recomendados por el mozo, nunca fallan. De postre, recomiendo la manzana asada. Un lugar tradicional, con mucha calidad y calidez. 100% recomendable."
+    }, 
+    {
+      "date": "8 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "doschanchitos", 
+      "text": "Excelente para ir al mediodia con compa\u00f1eros del trabajo. Los platos y el postre son para compartir. La comida es muy casera. El ambiente esta decorado con antiguedades, cuadros y recortes de diarios y revistas antiguas. El servicio es rapido y muy amable."
+    }, 
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sebacesario", 
+      "text": "Ambiente t\u00edpico, pero deja un poco que desear en algunas cosas, de todos modos la ocmida y el servicio son buenos."
+    }, 
+    {
+      "date": "8 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Pituxinha", 
+      "text": "Excelente la atenci\u00f3n familiar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "zeeker", 
+      "text": "Muy bien todo, rico, abundante y a buen precio. Recomendado para ir (si es en grupo o flia, mejor)"
+    }, 
+    {
+      "date": "28 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nikesacco", 
+      "text": "El lugar es el mejor de la zona de la calle piedras un espacio exclusivo donde se pueden disfrutar de un lindo almuerzo una reunion de negocios una charla entre amigos , un lugar con su estilo propio atendido por su due\u00f1o Pedro con un personal capacitado para acada nesecidad que uno pueda tener .una sensacion unica si no conoces el lugar no te pierdas conocerlo"
+    }, 
+    {
+      "date": "26 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Octasaman", 
+      "text": "Excelente todo, el servicio a cargo del mozo Daniel, los platos, los postres, los precios, las cantidades por porci\u00f3n, todo realmente incre\u00edble, Ultra super recomendable.\r\nEs mas, pedimos para traernos a casa, para la cena: albondigas con pure y guiso de lentejas, todo delicioso!!"
+    }, 
+    {
+      "date": "1 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jurujujaja", 
+      "text": "Excelente el matambre a la parrilla... para platos tipicos lo mejor de buenos aires. La atencion inmejorable, por parte de los mozos y de su due\u00f1o Pedro que esta en todos los detalles!!!"
+    }, 
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucho666", 
+      "text": "Excelente !!!!!! t\u00edpico bodeg\u00f3n de barrio de San Telmo. \r\nComida Casera, abundante y barata, bebida se puede pedir en botellas grandes ideal para ir de a varios, los postres no aptos para diab\u00e9ticos.\r\nSe destaca especialmente en invierno, muy buenos platos en especial el sublime Matambre de Cerdo a la Parrilla,todo de Parrilla, todas las pastas, arroz con pollo/alb\u00f3ndigas, Locros, Lentejas, Mondongo, Pastel de papa o batata etc,postres ... el flan con dulce de leche solo para compartir.\r\nLa atenci\u00f3n del due\u00f1o y de los mozos es excelente, reconocen a los clientes de siempre y atienden aun mejor."
+    }, 
+    {
+      "date": "14 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Jardo", 
+      "text": "Comida muy casera y sabrosa.... muy recomendable!!!!"
+    }, 
+    {
+      "date": "27 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "EliEli", 
+      "text": "Es un encanto. Es barato, se come muy bien y a uno lo hacen sentir como en su casa. Muy recomendable."
+    }, 
+    {
+      "date": "13 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "patamv", 
+      "text": "Excelente lugar, comida casera, fresca y con una atenci\u00f3n espectacular."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "16 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Rosebud2", 
+      "text": "Fui varias veces, como dijo otro usuario mientras uno cena, los empleados limpian con lavandina, espantosa experiencia. Ayer compre un kilo de mejillones frescos, la mitad estaban rotos. Ademas compre un kilo de merluza, hoy fuia a cocinarla y tenia un olor hediondo, o sea que el pescado nada fresco. No lo recomiendo para nada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "osalan", 
+      "text": "Excelente lugar para  COMER pescados y mariscos.Digo  COMER con may\u00fasculas porque  si  se busca algo m\u00e1s sofisticado, debe irse a otro lado. Muy buena atenci\u00f3n, pero, sobre todo, exquisiteces marinas a precios  razonables.Lo recomiendo!!!!"
+    }, 
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "NicoReco", 
+      "text": "Fui con mi novia a comer unas rabas con cerveza. La verdad que la comida es buena, pero la atenc\u00f3n es tan desastroza que no volvemos ni regalado. Mientras cenabamos, en el piso de abajo que funciona como rotiseria/pescaderia, los empleados estaban a los gritos y limpiando el lugar MUY ruidosamente!. Para no volver nunca mas. Pagamos precio de un lugar bueno y recibimos una atenci\u00f3n de cuarta"
+    }, 
+    {
+      "date": "18 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "petisui", 
+      "text": "Se trata de una excelente pescader\u00eda con comedor en entrepiso. Muy agradable ambiente con buena atenci\u00f3n. Es de resaltar los bajos precios, el L\u00f3pez Malbec de 750cc a $17,- lo dice todo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "damianvilli", 
+      "text": "pescados y mariscos frescos hechos en el momento a la vista. se come muy bien."
+    }, 
+    {
+      "date": "13 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "briyuri", 
+      "text": "excelente lugar , tranquilo , sin los ruidos de los grandes salones. frutos de mar muy frescos y variados. es para recomendar sus precios : muy accesible.   el mapa marca la ubicacion de la calle las heras en MAR DEL PLATA  !!!"
+    }
+  ]
+}

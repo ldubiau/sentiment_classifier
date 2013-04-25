@@ -1,0 +1,848 @@
+{
+  "malos": [
+    {
+      "date": "12 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Betoben", 
+      "text": "Nos parecio un tanto caro!!!! la pizza estaba fria y el risotto pasado, parecio que lo tenian echo y lo calentaron, no fue una buena eleccion, tal vez porque habia mucha gente...bien el postre.\r\nlos platos volvieron casi intactos a la cocina y nadie se acerco para preguntar si habia pasado algo."
+    }, 
+    {
+      "date": "22 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "bomvivant2008", 
+      "text": "Realmente me parecio un ROBO a mano armada que me cobraran casi $ 50 por 3 hojas de rucula y un pedazo de queso azul. Y no es que me moleste pagar por algo bueno, El cubierto y el agua tampoco desentonaban. Tendria que haberme levantado al ver los precios, lo admito, ese fue mi error."
+    }, 
+    {
+      "date": "7 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "vlcofano", 
+      "text": "Fue lamentable, ya habia comido en otras ocasiones en este lugar y me fue muy bien con la comida, fresca y bien preparada. El s\u00e1bado cn una reuni\u00f3n de amigos que celebramos dos cumplea\u00f1os, nadie salio conforme.\r\nPed\u00ed cordero y vino reseco, incomible con gusto y olor a \"chivo viejo\", los devolv\u00edu y ped\u00ed pene a la arrabiata: Los penes duros no al dente, la salsa agria y sin gusto.\r\nDeben haber cambiado el Cheff y tiene mala calidad de productos.\r\nLamentable, para no ir mas aunque el lugar es muy simp\u00e1tico.\r\nVictor"
+    }, 
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "oany", 
+      "text": "la ensalada muy rica, lo q estaba incomible era la lasagna que tenia una salsa super agria lo mas viejo que tenian le pusieron y como si fuera poco termin\u00e9 comiendo sola porque al cambiarme el plato tardaron media hora en traerlo, de TERRORRRRRRRRRR!!!\r\nel lugar es lindo buen ambiente pero no volveria me trataton muy mal."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Incre\u00edble la cantidad de rest\u00f3s cerrados los domingos as\u00ed que terminamos en Primafila y con suerte. El lugar es lindo, la atenci\u00f3n es buena y la comida es rica. No es barato pero la cara de los que piden ossobucco con polenta creo que lo vale."
+    }, 
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "plegamina", 
+      "text": "Buen lugar, lo unico que queda en el design. Fui dos veces, la primera comi el curry y la segunda el osobuco. Porciones abundantes y precios razonables. La atenci\u00f3n y la ambientaci\u00f3n muy buenas"
+    }, 
+    {
+      "date": "21 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "una de las pocas opciones sobrevivientes en las terrazas del Design. el lugar es agradable, el servicio correcto y la comida me gust\u00f3 mucho: ped\u00ed osobuco en reducci\u00f3n de malbec con carac\u00fa y polenta grillada, un plato s\u00faper abundante, muy sabroso y bien polentoso, ideal para invierno"
+    }, 
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "thebossone", 
+      "text": "Por ahi lei que es el unico resto que le queda al Bs.As. design y la verdad, es asi, calido lugar, bien atendido, precios logicos, digamos que es un lugar que va bien con el entorno, incluso destaco la carta especial que propusieron para el dia de los enamorados."
+    }, 
+    {
+      "date": "15 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AgeValed", 
+      "text": "Lindo lugar, un poco caro, pero rico nada extraordinario, aproximadamente 110 por persona contando (cubiertos, plato principal, postre y una bebida sin alcohol)!. El servicio normal, no es nada extraordinario. El ambiente es tranquilo y con m\u00fasica suave de fondo."
+    }, 
+    {
+      "date": "14 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "911C2", 
+      "text": "Me pareci\u00f3 caro para lo que comimos.  solo  un plato de pastas,   una gaseosa y un caf\u00e9 por 100 pesos cada uno, la comida es rica pero los precios som excesivos, la atenci\u00f3n es buena sin m\u00e1s"
+    }, 
+    {
+      "date": "7 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Castelabre", 
+      "text": "Excesivamente caro. La carta es interesante, pero muchos restaurantes de Bs. As. tienen men\u00faes similares a precios m\u00e1s razonables. La pesca del d\u00eda era corvina con verduras al vapor. Estaba muy rica y el plato era razonable, no para compartir. El precio de los postres promedia los $ 45. Un desprop\u00f3sito. Solamente hab\u00eda 3 mesas ocupadas con la nuestra. Era mi\u00e9rcoles a la noche. No s\u00e9 si los fines de semana atraer\u00e1 p\u00fablico que concurre a Plaza Francia, pero con esos precios s\u00f3lo para turistas lo veo bastante improbable."
+    }, 
+    {
+      "date": "6 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Chapin", 
+      "text": "Me pareci\u00f3 excesivamente caro. Las pastas est\u00e1n en promerdio $55 el plato, carnes o pollo de $80 para arriba. El vino m\u00e1s econ\u00f3mico sal\u00eda $70 y los postres entre $40 y $50. La atenci\u00f3n es buena y el ambiente regular. La comida es buena, pero no compensa los excesivos precios, incluso con el descuento de la Naci\u00f3n. Muchas otras opciones m\u00e1s recomendables para restaurantes del estilo."
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "oany", 
+      "text": "un desastre si te sentas afuera sos casi invisible y eso q tienen un metre q x cierto es un horror, p\u00e9sima atendiendo no lleva el control de quienes llegan y a quien darle la carta primero. La comida bien pero bastante inflada en precio pedi una lasagna y estaba agria, y luego cuando me trajeron el plato mi acompa\u00f1ante ya hab\u00eda terminado el suyo. Las meriendas estan bien muy ricas pero la atenci\u00f3n es mal\u00edsima, tardan en traer las cosas, tardan en verte tardan en traer la cuenta."
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "alesmo", 
+      "text": "fui con mi novia anoche y nos parecio demasiado caro, ella pidio unos crepes con postre \"tres chocolates\" y yo unos ravioles y de postre, un volcan de chocolate, entre los dos pagamos $275 (sin pedirnos la entrada). La comida es muy buena pero no como para justificar el precio. La atencion fue cordial"
+    }, 
+    {
+      "date": "13 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tacazo", 
+      "text": "La hambientaci\u00f3n es buena, el servicio lo realiza personal muy joven, muy educados, pero con falta de profesionalidad. La comida muy buena, muy caro los vinos. una copa de vino pesos 25.-, un shop pesos 25, la botella mas barata pesos 75.- y de alli para arriba."
+    }, 
+    {
+      "date": "7 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Rest\u00f3 enorme y muy lindo con comida muy buena y servicio atento pero no cargoso. Muy buenos tragos tambi\u00e9n. Precios promedio. Panera rica. Ba\u00f1os perfectos, como deber\u00eda ser en todos lados. Terraza muy linda y sal\u00f3n tambi\u00e9n. Para volver."
+    }, 
+    {
+      "date": "11 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Diferentes opciones de fumadores, no fumadores y terrazas. Muy buena la comida y apetecible panera. Muy linda ambientaci\u00f3n. Precios razonebles por la calidad. Recomendable"
+    }, 
+    {
+      "date": "26 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Fredbr", 
+      "text": "Sou brasileiro, h\u00e1 5 anos que vou a Buenos Aires e sempro janto no Primafila, este ano por\u00e9m, o servi\u00e7o estava muito fraco e a ambienta\u00e7\u00e3o necessitando de reaparos. Um pouco decadente. A comida, por\u00e9m, continua \u00f3tima."
+    }, 
+    {
+      "date": "21 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Vadarkablar", 
+      "text": "Hacia 2 a\u00f1os que no iba y me encontr\u00e9 con un restaurant en plena decadencia. Han bajado la calidad de la comida, la ambientacion y la atencion (mala). Lo unico que se mantiene alto son los precios. No pienso volver."
+    }, 
+    {
+      "date": "30 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Littlejuli", 
+      "text": "Muy rica la comida y muy buena atenci\u00f3n. La ambientaci\u00f3n est\u00e1 bonita, un poco caro los precios ya que gastamos aproximadamente $100 por persona sin tomar vino y compartiendo entrada y postre, pero la calidad de la comida es muy buena como as\u00ed tambi\u00e9n la presentaci\u00f3n de los platos. Volver\u00eda otra vez."
+    }, 
+    {
+      "date": "5 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Martiniaddict", 
+      "text": "Es sabido que comer en este tipo de lugares es caro no siempre por la calidad de la comida y la excelencia en detalles. Prima Fila es uno de estos casos. Habitualmente acompa\u00f1o mis comidas con vinos, pero aqui ninguno de la carta bajaba de los 50$. La comida estaba bien, pero excesivamente cara para lo que era. Comimos un par de ensaladas con atun blanco y salmon, que estaban ricas, idem los tragos. Los mozos le ponian onda, pero las mesas vecinas se la sacaban. Tipico lugar para figurar. Pagu\u00e9 la ambientaci\u00f3n."
+    }, 
+    {
+      "date": "1 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "italiancook", 
+      "text": "todo muy bien es un resto bien organizado se nota que la cocina esta muy bien organizada.atencion atenta de los mozos.Buen menu el mediodia tambien por almuerzos de trabajo el ambiente es el ideal."
+    }, 
+    {
+      "date": "21 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rudel88", 
+      "text": "buena comida,buen lugar buen ambiente. recomendable"
+    }, 
+    {
+      "date": "10 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bomvivant2008", 
+      "text": "Me sorprendio, hacia mucho que no ibamos. Todo muy bien!!!, tal vez caro el postre."
+    }, 
+    {
+      "date": "29 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "amaral", 
+      "text": "Lo descubrimos hace mucho tiempo, cuando reci\u00e9n comenzaba, sigue siendo un lugar tranquilo con muy buena comida, las pastas espectaculares y los panes una delicia. vamos a volver"
+    }, 
+    {
+      "date": "9 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "PenelopeGlamour", 
+      "text": "Son varios los mediodias que almorzamos all\u00ed. Lugar bonito y amiente tranquilo. Quisimos probar el ceviche, muy distinto a la cocci\u00f3n peruana. Las ensaladas son riqu\u00edsimas y abundantes para un mediod\u00eda liviano. la calidad de los productos es excelente siempre."
+    }, 
+    {
+      "date": "29 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elgrankoko", 
+      "text": "Este lugar mantiene un nivel parejo. Uno sabe lo que va a encontrar. Pastas buenas, las pizzas son muy buenas  y hay variedad de pastas y carnes. Fuimos varias veces en los ultimos a\u00f1os y mantiene un nivel muy bueno. El ambiente muy agradable. La carta de vinos es un poco exigua.Precios razonables, no es caro."
+    }, 
+    {
+      "date": "26 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cynthiarenault", 
+      "text": "El lugar es divino, grande, comodo. La comida super rica y la atencion muy esmerada. La verdad lo recomiendo si estan de paso por el Bs As Design. Hay un menu de mediodia que sale $55 e incluye entrada, plato principal y postre."
+    }, 
+    {
+      "date": "15 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bonpen", 
+      "text": "El ambiente es excelente. Divina la terraza, c\u00f3moda. El brunch, incluy\u00f3 bagels de salm\u00f3n y un sandwich de lomo. Muy bien presentado, y con una buena calidad en los ingredientes. El servicio impecable, lo mismo que los ba\u00f1os. Uno se siente como en casa."
+    }, 
+    {
+      "date": "12 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "El restaurante est\u00e1 muy bien puesto, cuenta con un servicio amable pero muy lento Estabamos en una mesa de 16 personas, algunos quedaron muy contentos, otros no tanto, Si se encuetra por el Buenos Aires Design Center o por el Centro Cultural Recoleta es una buena opci\u00f3n para alomorzar o cenar."
+    }, 
+    {
+      "date": "6 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "SABRY77", 
+      "text": "un sabado al medio dia fuimos con mi novio, en primer lugar me trajeron comida y eso que nisiquiera habia visto la carta, se confundieon de mesa, pedimos ojo de bife y lomo a punto, las carnes chorreaba sangre, el pure de batata que acompaniaba la carne muy muy rico, pedimos una porcion mas que salia bastante, una porcion era tamanio una bocha de helado... atencion esmerada."
+    }, 
+    {
+      "date": "9 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "havi", 
+      "text": "Muy buenas tanto la pizza como la ensalada de salm\u00f3n con verdes, queso y frutas. Tanto el ambiente como el servicio, correctos. Buena opci\u00f3n por la relaci\u00f3n calidad/precio."
+    }, 
+    {
+      "date": "1 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Excelente lugar para disfrutar de las terrazas del Design y del refresco de la brisa en las noches veraniegas de Recoleta. Muy buenas pastas y atenci\u00f3n eficiente y cort\u00e9s."
+    }, 
+    {
+      "date": "3 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "facr", 
+      "text": "Buena ambientacion, especialmente nos encanto la terraza. La comida se demoro algo, aunque se disculpa porque habia mucha gente ese dia. Los platos riquisimos, mis amigos se fueron encantados de haberlos invitado"
+    }, 
+    {
+      "date": "17 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sathia", 
+      "text": "FUIMOS POR LOS COMENTARIOS, REALMENTE EL LUGAR ES COMUN ,LA ATENCION ES CORDIAL ,LA COMIDA ES BUENA ,LA PANERA ES SIMPLE ,PEQUE\u00d1A ,NADA DEL OTRO MUNDO (NORMAL) ,MUY POCA GENTE ,LA MAYORIA DE LAS MESAS NO TIENE MANTEL ,ALGO MUY IMPORTANTE PARA UN BUEN LUGAR ,NO TE SIRVEN NINGUNA COPA CUANDO TE RETIRAS ,ES RECOMENDABLE SI ESTAS POR LA ZONA"
+    }, 
+    {
+      "date": "12 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Canuto", 
+      "text": "El ambiente es sumamente agradable , amplio tiene lugar para fumadores y otros  m\u00e1s privados para organizar una comida m\u00e1s \u00edntima, los ba\u00f1os est\u00e1n muy bien pero el acceso es por una escalera y no se como manejan el tema con discapacitados,quien dise\u00f1\u00f3 el lugar utiliz\u00f3 muy bien los espacios,la atenci\u00f3n es cordial y eficiente, los platos salieron en tiempo y forma, la pieza de salm\u00f3n acompa\u00f1ada con una guarnici\u00f3n de verduras era excelente y las pastas inmejorables todo acompa\u00f1ado por unas paneras variadas y riqu\u00edsimas que repon\u00edan constantemente, al final invitan con una copa, un lugar realmente recomendable"
+    }, 
+    {
+      "date": "5 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bonita", 
+      "text": "Las pastas son muy buenas, sobre todo las salsas. Recomiendo los fettucini del pac\u00edfico y los \u00f1oquis con salsa de hongos. Los postres no son el fuerte del lugar pero son aceptables. El servicio es muy atento, la ambientaci\u00f3n muy c\u00e1lida. Los precios, por las nubes."
+    }, 
+    {
+      "date": "29 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Hugo", 
+      "text": "Muy bueno el salmon ahumado y el pollo al curry verde\r\nLa atencion tambien resulto buena y a pesar que el ambiente no es bastante ruidoso , creo que es una buena opcion si se esta en el Bs As Design.\r\nRecomendable"
+    }, 
+    {
+      "date": "3 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "daci1536", 
+      "text": "Una experiencia superior, no por la comida, que es muy buena, pero no excelente, ni por la atenci\u00f3n, que por momentos es un poco distra\u00edda. \r\nPero es imperdible el pan multiproteico de la variada panera, el ceviche espectacular. Los platos principales (por esta y otras veces) no son una genialidad, pero son muy buenos. Invariablemente hay que pedirse de postre el volc\u00e1n de chocolate. El lugar es realmente hermoso, muy cuidado y c\u00e1lido."
+    }, 
+    {
+      "date": "13 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Excelente mediod\u00eda para disfrutar en las terrazas. Comida muy bien servida con buena atenci\u00f3n"
+    }, 
+    {
+      "date": "2 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "valeria1", 
+      "text": "La comida es buena, aunque por el precio podr\u00eda ser mejor."
+    }, 
+    {
+      "date": "14 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gene", 
+      "text": "Es posible que comparado con mi anterior visita, hace dos a\u00f1os, haya deca\u00eddo un poco la calidad de la comida, pero igual sigue siendo un restaurante agradable."
+    }, 
+    {
+      "date": "2 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gogo", 
+      "text": "Impecable pizza de muzarella y hongos.\r\nDebe agregarse un toque de oliva sobre la misma. El sevicio adecuado, amable.\r\nEl ambiente muy bueno -por la tardecita- en la zona de la terraza."
+    }, 
+    {
+      "date": "15 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Evy1982", 
+      "text": "Fuimos tanto al mediodia como a la noche. El servicio excelente, de primer nivel, la comida buenisima, probe unos crepes riquisimos, y la panera es tentadora."
+    }, 
+    {
+      "date": "15 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "exepor", 
+      "text": "La comida bien, la terraza muy buena."
+    }, 
+    {
+      "date": "23 Dic 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juampycure", 
+      "text": "Una buena experiencia tuvimos con mi familia al ir a Prima Fila a despedir el a\u00f1o. \r\nLa comida es buena aunque considero que los precios son un poco excesivos para la misma; la \"tabla de fiambres\" que pedimos como entrada era de buena calidad y de ingredientes interesantes, pero, obviamente, la cantidad era \"moderada\". El lugar es \"c\u00e1lido\", aunque podr\u00eda ser un poco m\u00e1s distinguido en su ambientaci\u00f3n, teniendo en cuenta su estilo y su ubicaci\u00f3n; sin embargo es grato cenar o almorzar all\u00ed. Igualmente, a pesar de ser un lugar interesante y gastron\u00f3micamente respetable, personalmente no estoy seguro de que vuelva, pues conozco otras opciones similares que considero m\u00e1s \"aptas\" que Prima Fila."
+    }, 
+    {
+      "date": "11 Nov 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "tomeu", 
+      "text": "Tardaron mucho y ha empeorado la calidad. Agradable."
+    }, 
+    {
+      "date": "12 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "negrito1", 
+      "text": "La comida bastante mediocre, el Risoto malo.\r\nUn punto a favor - te permiten dejar la propina con la tarjeta de credito."
+    }, 
+    {
+      "date": "28 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "robertal", 
+      "text": "El ceviche era con pescado secado en sal. \u00bfEso es ceviche de donde?"
+    }, 
+    {
+      "date": "25 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Verin", 
+      "text": "Al principio supo ser mejor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Bulots", 
+      "text": "Muy recomendable, los platos son deliciosos, con excelente presentaci\u00f3n. La ambientaci\u00f3n extrovertida es muy distinta de d\u00eda que de noche. Por la ma\u00f1ana un bonito lugar para cenar con familia y/o amigos, caida la noche un excelente lugar para estar acompa\u00f1ado. La extensa carta de vinos acompa\u00f1a al plato seg\u00fan las nesecidades del comensal. Muy recomendable."
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bbgourmet", 
+      "text": "Creo que es el \u00fanico restaurante que queda en Bs As Design. La comida es muy buena platos abundantes pero no para compartir (buena panera y lemoncello al terminar la comida), atenci\u00f3n correcta y ambiente tranquilo para poder conversar. Los precios son como en Pto Madero. Para recomendar"
+    }, 
+    {
+      "date": "29 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tresillo", 
+      "text": "Estuvo todo muy bueno, muy tranquilo(aclaraci\u00f3n que fue miercoles)la comida muy muy rica, el servicio bien y la cuenta cara. Pero bueno, el plato para mi lo vali\u00f3."
+    }, 
+    {
+      "date": "29 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Agusd2003", 
+      "text": "Excelente lugar, muy buena atenci\u00f3n y comida. L\u00e1stima que en la mesa de al lado hab\u00eda gente con un beb\u00e9 que nos arruin\u00f3 la cena, no entiendo como dejan que un nene perturbe as\u00ed el ambiente logrado. El resto, 10 puntos."
+    }, 
+    {
+      "date": "21 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "josemartin2006", 
+      "text": "Solo para indicar que esta promocionado como \"con juegos para chicos\", y es absolutamente falso. Solo trajeron unos cuadraditos de madera con colores que pusieron encima de la mesa y permitio mantenerlos entretenidos un rato. Pero carece de pelotero o sector especial para ni\u00f1os, como parece inferirse del anuncio. Por lo demas, todo muy bien."
+    }, 
+    {
+      "date": "13 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fabs", 
+      "text": "One of the top five in BA. I found it in Guia Oleo and it was exactly what people here describe it. Great wine and food."
+    }, 
+    {
+      "date": "15 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fery", 
+      "text": "El lugar es muy bonito, la atencion fue excelente y la comida muy buena, las ensaladas y las pastas, la panera con panes artesanales fue exquisita y una mencion especial al postre tres chocolates, una delicia. RECOMENDABLE"
+    }, 
+    {
+      "date": "27 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "faei1983", 
+      "text": "Fuimos dos y comimos como naufragos: entrada de perlas de muzzarella, lasagna, ravioles y postre. Ademas, tomamos cuatro vinos. Con todo eso, total: $290.- Valio la pena. Hay que volver cada vez que se pueda."
+    }, 
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Patolandia", 
+      "text": "El lugar es muy agradable, muy linda decoraci\u00f3n, iluminaci\u00f3n justa. La comida, exquisita. Los creps de espinaca son realmente deliciosos, se puede degustar la textura del pollo y los champignones q acompa\u00f1an la verdura. El postre tmb estuvo muy bien, tarta c\u00e1lida de manzana. Muy bueno!"
+    }, 
+    {
+      "date": "18 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "acachechi", 
+      "text": "Muy agusto con las comidas, variadas, de excelente calidad, el servicio muy personal, pendientes de todos los detalles. S\u00f3lo al ba\u00f1o de mujeres le faltar\u00edan unos retoques pero son m\u00ednimos."
+    }, 
+    {
+      "date": "14 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Romidix", 
+      "text": "Ambiente no muy  distinguido ,se escucha el ruido de la cocina. La mejor vista lamentablemente esta en el sector de fumadores. La comida es lo mejor del lugar, ya que es exelente."
+    }, 
+    {
+      "date": "12 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "vpdeangelis", 
+      "text": "La comida me pareci\u00f3 muy buena.\r\nLa atenci\u00f3n podr\u00eda ser mejor, no obstante no es mala.\r\nPodr\u00edan esmerarse mas con la panera y tambi\u00e9n podr\u00edan recibirte con una copa.\r\nSon detalles que por el lugar y el precio, deber\u00edan estar!!!\r\nEl ambiente no me gust\u00f3 porque hab\u00eda olor a comida en el sal\u00f3n (la cocina no ventilaba bien)."
+    }, 
+    {
+      "date": "30 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "edy1", 
+      "text": "Excelente todo, muy buen lugar, terraza hermosa,vuelvo otro medidia con sol,un poquito caro pero lo merece sin dudas"
+    }, 
+    {
+      "date": "6 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "colini", 
+      "text": "El lugar es increible. Con esa inmensa terraza tan bien aprovechada. \r\nEl salm\u00f3n affumicatto es uno de los mejores de B.A. Es un placer ir a comer ese plato. Los camareros son re atentos y el servicio impecable. Sigan brind\u00e1ndonos tan buenos momentos."
+    }, 
+    {
+      "date": "25 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Arqchachi", 
+      "text": "era hoarario de cena y no habia nadie!!, la comida es muy buena, bien tana, los mozos no son acordes, muy jovenes parecen sin experiencia. el lugar me parecio muy impersonal y frio. con gran potencial desaprovechado, mucha luz mal iluminado, sin musica funcional, no comimos postre porque quisimos irnos. es una pena, solo la comida lo vale."
+    }, 
+    {
+      "date": "15 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Dada", 
+      "text": "Excelente! Todo excelente desde la atenci\u00f3n hasta la ambientaci\u00f3n. Y lo mejor:la comida."
+    }, 
+    {
+      "date": "8 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gabito", 
+      "text": "El ambiente es muy bueno y la atenci\u00f3n de buena calidad. Hay lugar para fumadores. La comida es excelente. Los precios son dificiles de digerir. \r\nCobran el servicio de cubierto $ 5,50 por persona."
+    }, 
+    {
+      "date": "23 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Agustin73", 
+      "text": "Excelente la atenci\u00f3n del personal, muy servicial; la comida es excelente y prestar atenci\u00f3n a los pancitos que sirven antes de comenzar la comida, buen\u00edsimos !!!!!"
+    }, 
+    {
+      "date": "5 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Eddy_Best", 
+      "text": "Excelente en todos los aspectos. Brillante todos los platos degustados; me asombr\u00f3 la cantidad de mozos que hab\u00eda atendiendo y un detalle que en estos tiempos no se ve muy a menudo: nos repusieron tres veces la canasta de panes saborizados. Sin duda, un placer."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Guidogui", 
+      "text": "El risotto en su punto justo. Hace mucho que no com\u00eda un risotto as\u00ed. El postre es algo superior. Lo recomiendo."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tanno", 
+      "text": "Felicito a los due\u00f1os de este restaurante, la comida es realmente excelente con todas las letras, sigan as\u00ed.\r\nTal vez hay que mirar un poco m\u00e1s el servicio, pero no es malo."
+    }, 
+    {
+      "date": "23 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Varels", 
+      "text": "Pasamos una noche b\u00e1rbara, nos sentamos en la terraza, todo estuvo excelente. Era nuestro aniversario de casados. Muy bueno. Muy recomendable."
+    }, 
+    {
+      "date": "18 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tanquetus", 
+      "text": "Lugar muy lindo. La comida es excelente, pero es caro y los vinos adem\u00e1s de muy remarcados, est\u00e1n muy mal servidos."
+    }, 
+    {
+      "date": "9 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "paprini", 
+      "text": "Si s\u00f3lo bajaran un poco el precio, ser\u00eda un lugar so\u00f1ado. \r\nMuy buena comida italiana, risotos y pescados. \r\nLa carta no es muy variada pero le cambian algunos platos cada tanto. Los vinos son algo caros. El ambiente es muy bueno y hay mucho lugar entre las mesas (a excepci\u00f3n de las mesas contra la ventana). \r\nMuy recomendable."
+    }, 
+    {
+      "date": "1 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chani", 
+      "text": "Muy buena cocina italiana. Excelente atenci\u00f3n y un muy lindo lugar. Recomendable."
+    }, 
+    {
+      "date": "27 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Dada", 
+      "text": "Excelente. De los mejores lugares que hay. Tanto la comida, la decoraci\u00f3n, la comodidad y la atenci\u00f3n son de primera. Quiz\u00e1s un poco escasos los platos. Te dejan con las ganas de volver a seguir comiendo y disfrutar de las distintas ambientaciones que tiene."
+    }, 
+    {
+      "date": "18 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "melissapalao", 
+      "text": "Todo s\u00faper rico y muy lindo ambientado. Muy recomendable."
+    }, 
+    {
+      "date": "12 Abr 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "IAM", 
+      "text": "La comida excelente, pero la atenci\u00f3n muy poco profesional."
+    }, 
+    {
+      "date": "12 Mar 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pandereta", 
+      "text": "Los platos muy ricos, pero la atenci\u00f3n mal\u00edsima. Es muy agradable almorzar en la terraza un d\u00eda lindo, pero cuando a uno no lo atienden bien, no es lo mismo."
+    }, 
+    {
+      "date": "11 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "friveros", 
+      "text": "Muy buen lugar, la comida excelente. L\u00e1stima que la maitre te atienda con mala cara."
+    }, 
+    {
+      "date": "3 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tinonline", 
+      "text": "La comida es exquisita y abundante. Comer en verano en las terrazas del design, lo mejor."
+    }, 
+    {
+      "date": "5 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "frizero", 
+      "text": "Excelente. Soy brasile\u00f1o y fui a Prima Fila por indicaci\u00f3n de un amigo. Muy barato, comida deliciosa y servicio excelente."
+    }, 
+    {
+      "date": "10 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "infoplie", 
+      "text": "Muy lindo el lugar, excelente comida italiana, recomendable las pastas y las entradas."
+    }, 
+    {
+      "date": "24 Jul 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sitof200", 
+      "text": "S\u00f3lo una cosa... me encant\u00f3."
+    }
+  ]
+}

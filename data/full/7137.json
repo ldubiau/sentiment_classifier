@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "tanex", 
+      "text": "Es una parrilita de barrio, y desde que se fue el fundador (miguel) bajo muchisimo en todo, \r\nespecialmente la calidad de las carnes, tanto el asado como el vacio son incomibles, \r\nla bondiola que antes era un poema, ahora es cualquier cosa, resumiendo, no vayan"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gor_dita", 
+      "text": "Muy buena comida, los fines de semana se puede comer parrilla libre por un precio muy accesible o por porciones, muy familiar y austero"
+    }
+  ]
+}

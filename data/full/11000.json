@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Canuto", 
+      "text": "lugar agradable atencion muy buena platos simples caseros y ricos buenos precios, los panes exquisitos tambien muy recomendable para tomar el te , lo recomiendo vamos a volver.-"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pipilo2012", 
+      "text": "Fuimos a almorzar por primera vez, junto a andy y mi hermana, la comida es bien casera, los platos son abundantes y no tardo nada en traer la comida, el mozo muy amable y el ambiente c\u00e1lido, volveremos a ir!"
+    }
+  ]
+}

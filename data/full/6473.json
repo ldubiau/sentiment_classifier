@@ -1,0 +1,498 @@
+{
+  "malos": [
+    {
+      "date": "16 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "prieto.val", 
+      "text": "Pedimos una marisqueada con mi novio, los mariscos estaban frescos pero parecian hervidos y no tenian gusto a nada. El lugar es agradable, pero la comida no me gusto"
+    }, 
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "flopita124", 
+      "text": "Mi marido estaba mal del estomago y pidio algo muy simple..arroz al asafran y pesacdo..la verdad mas alla de la simpleza no tenia gusto,era muy desabrido..., yo pedi un plato que estaba tan cargado que no se distinguia los gustos..los postred si muy muy buenos !el tiramisu excelente !, el precio no es barato,es caro y la decoracion muy tradicional.."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "CaroyDiego", 
+      "text": "Fuimos el s\u00e1bado a la noche, mi marido pidio chivito y se lo trajeron recalentado. Yo ped\u00ed lenguado con mascarpone y espinacas y me trajeron lenguado con una salsa de mostaza y no ten\u00eda nada de lo que dec\u00eda en la carta, venia acompa\u00f1ado con espinacas a la crema y en realidad era acelga... pregunte si se habian equivocado de plato, y me dijeron que no, que ese era el plato. la atenci\u00f3n mediocre. No volvemos m\u00e1s."
+    }, 
+    {
+      "date": "1 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Solese", 
+      "text": "Solo voy a decir lo que te ofrecen y es suficiente para darse cuenta de la mediocridad de los platos, no asi del precio. El pan acido, viejo, con una manteca de fabrica. La carne la tienen hecha, seca y luego le agregran la salsa que pediste. el dijon no tenia ni una semilla de mostaza ni restos de ella, \u00bfsera dijon? pero lo peor fue la salsa de las pastas, agua pura, gusto a pizza, le agregaron unos camarones y unos hongos DE LATA!!!, ni siquiera la cocinaron junta. Pretende ser algo que no es. Pero cobra por mucho mas."
+    }, 
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mafaldaxyz", 
+      "text": "Intenta ser una cantina-marisquer\u00eca-\"lo que venga\". Pedimos unos \"medallones de salm\u00f2n\", que terminaron siendo los que venden en bandejitas congeladas en los hipermercados. Terror\u00ecfico!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "apolonline", 
+      "text": "Hasta ahora fu\u00ed en tres ocasiones y qued\u00e9 conforme. Las porciones son muy abundantes, mayormente se pueden compartir. No he probado platos de cocina, pero quienes me han acompa\u00f1ado han comido pastas y quedaron conformes. La parrilla muy bien. La atenci\u00f3n muy buena tambi\u00e9n gracias a aut\u00e9nticos mozos de oficio. El precio de la comida es razonable, y tienen varios vinos con \"bonificaci\u00f3n\", lo que permite tomar un buen vino sin que crezca demasiado la cuenta. Lo \u00fanico criticable es la m\u00fasica, ya que es siempre la misma, a no ser que yo tenga demasiada punter\u00eda! Volver\u00e9 para averiguarlo. ;-)"
+    }, 
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "izzy", 
+      "text": "muy buena la atencion, los mozoas son agradables y cordiales. La comida llega bien caliente y condimentada justo  a punto. Las porciones son abundantes, menos mal que no pedimos entrada!!!"
+    }, 
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Monyhol", 
+      "text": "Estuve en el de  Boulogne  , pedimos de entrada jam\u00f3n crudo con palmitos y tardaron en servirnos esa entrada m\u00e1s de 45 minutos y el plato principal lleg\u00f3 1 hora m\u00e1s tarde que la entrada. Las porciones son chicas, nos quedamos con hambre y no pedimos postre ni caf\u00e9 porque sino nos \u00edbamos entrada la madrugada. El mozo se esforz\u00f3 mucho pero no hab\u00eda personal suficiente."
+    }, 
+    {
+      "date": "15 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Excelente opci\u00f3n para una comida multitudinaria. Buena calidad de comida. Atenci\u00f3n con mozos de los de antes."
+    }, 
+    {
+      "date": "4 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "albornoz", 
+      "text": "En primer lugar hay gran variedad y calidad en los platos.  Al ir con amigos est\u00e1 muy bueno probar distintas opciones de entradas y platos principales.  La carta de vino es correcta y los precios razonables.  Los postres excelentes.  A veces se llena mucho, pero la atenci\u00f3n es muy buena a\u00fan en esa circunstancia."
+    }, 
+    {
+      "date": "25 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cuchilloytenedor", 
+      "text": "Nunca falla. La carta es muyyy amplia. la atenci\u00f3n es muy buena y cordial. Los due\u00f1os estan siempre presentes y eso se nota.\r\n\r\nCon el abc de la comida cubre muy bien todas las opciones en cuanto a pescados, parrilla y pastas.  Hay para todos los gustos y eso es lindo sobre todo para uno grupo numeroso.\r\n\r\nSiempre da para volver sin dudarlo!"
+    }, 
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Martincho Alaniz", 
+      "text": "Me prepararon a mi pedido una degustacion de mariscos, la verdad muy bueno pero le falta cari\u00f1o a la comida de mariscos, es como que esta todo semi preparado y a ultimo momento le dan una salteadita y lo largan, pero en el mal sentido... Ojo, la comida me parecio muy buena pero la relacion precio calidad podria ser mejor. Es abstante carito..."
+    }, 
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Best2007", 
+      "text": "Todo muy bien. Los precios Saladitos.\nIgual volver\u00eda"
+    }, 
+    {
+      "date": "5 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "peladopepe", 
+      "text": "S\u00e1bado al mediod\u00eda, fui de rebote ya que al que ten\u00eda decidido ir hab\u00eda m\u00e1s de una hora de espera. Fui a otro, idem. En este hab\u00eda tan solo media. Ya estaba y me qued\u00e9. El lugar es agradable y familiar, por lo que hay muuuucho barullo. Pedimos pastas con estofado para compartir entre dos, pescado con salsa y tres postres. Las pastas ricas, pero comunes. El pescado bien preparado y los postres nada del otros mundo. La atenci\u00f3n correcta. Para lo que es el lugar y la comida resulta caro. Solo si estoy de pasada por la zona y no hay otra pero no volver\u00eda a esperar ni cinco minutos."
+    }, 
+    {
+      "date": "18 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "m_chihiro", 
+      "text": "Me pareci\u00f3 muy caro este restaurante por lo que ofrece. Si bien hay much\u00edsima variedad de platos y en general est\u00e1n bien preparados, tampoco son nada del otro mundo. He comido mucho mejor en lugares m\u00e1s lindos, mejor ambientados, con platos bien elaborados, con ingredientes frescos y por menos plata.\r\nLo que s\u00ed me gust\u00f3 much\u00edsimo de este lugar fueron las rabas, super tiernas, riqu\u00edsimas. Lo que odi\u00e9 fue el tiramis\u00fa, que de tiramis\u00fa no ten\u00eda nada: un bizcochuelo remojado con caf\u00e9 y relleno con crema chantilly y una frutilla arriba no es digno de llamarse tiramis\u00fa."
+    }, 
+    {
+      "date": "31 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CHEMY", 
+      "text": "Un lugar donde abunda la variedad, el trato es muy familiar, muy atentos, muy buena cantidad y variedad de vinos y tambien de postres, muy satisfecha con todo."
+    }, 
+    {
+      "date": "22 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jomava", 
+      "text": "Soy cliente del lugar ya que la comida es buena y la atencion tambien (no fue muy buena esta vez) pero realmente me senti muy mal cuando en varias mesas ofrecian una copa de champagne o lemonchelo y nosotros se lo tuvimos que pedir y preguntar por que a nosotros no y la respuesta fue que es politica de la casa no lo decide el mozo y que hay que consumir mas de $80 por persona es decir fuimos descriminados.   voy a volver a ir por ultima vez para hacercelo saber al due\u00f1o  que recorre las mesas jactandose de ser el mejor pero para ello de debe tratar por igual a todos sus clientes"
+    }, 
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SoySibarita", 
+      "text": "La comida muy buena y la relaci\u00f3n costo - calidad y porci\u00f3n muy buena, una de las cartas m\u00e1s amplias que vi, pretendo volver pronto ya que hay infinidad de platos que quiero probar."
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CArlaB", 
+      "text": "La carta es muy variada e ilustrada, o entend\u00e9s de qu\u00e9 se trata o te fij\u00e1s en la foto. Destaco que tienen Mousse de Maracuy\u00e1, aunque me gusta m\u00e1s sin las semillas. No me convenci\u00f3 el precio... Es un lugar que re\u00fane muchos comensales, pero yo no volver\u00eda (aunque me hace dudar lo del mousse)"
+    }, 
+    {
+      "date": "24 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "edumen", 
+      "text": "Es la segunda vez que vamos y mantiene el buen nivel, tanto en la comida como en la atenci\u00f3n. Un buen lugar para comer."
+    }, 
+    {
+      "date": "16 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "severinablue", 
+      "text": "Es una buena opcion, para ir en pareja o en familia, la distribucion de las mesas esta de tal manera que no se pierde la privacidad, la atencion desde la entrada muy amable y discreta, la comida excelente, porciones generosas, y a tiempo. Lo recomendariamos!!!!"
+    }, 
+    {
+      "date": "13 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gourdanito", 
+      "text": "Muy buena comida, y muy sabrosa. Recomiendo los pescad\u00f2s y mariscos. Los precios, son bastante altos. Muy destacada la atencion"
+    }, 
+    {
+      "date": "25 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "SKLAN", 
+      "text": "Muy c\u00e1lido el ambiente, a las rabas le faltaban estar m\u00e1s crocantes, si bien eran ricas no me mataron, la salsa de los ravioles muy pesada, y lo que si me mato fue el mousse, porque ten\u00eda pedazos de chocolate amargo, lejos el mejor que prob\u00e9.\r\nLa atenci\u00f3n de los mozos muy buena.\r\nEs un lugar recomendable."
+    }, 
+    {
+      "date": "2 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "CHICHE0704", 
+      "text": "Llegamos a las 21 hs. y nos retiramos a las 24 hs. La atenci\u00f3n fue inexistente tardaron 45 minutos en alcanzarnos la carta para elegir el postre,  hicimos un pedido de bebidas que nunca lleg\u00f3.  Para pagar tuvimos que acercarnos a la Caja porque nunca el mozo ni los supuestos \\\"ayudantes\\\" que estan en el sal\u00f3n se dignaron a prestar atenci\u00f3n a nuestro llamado.  El sal\u00f3n de fumadores no esta se\u00f1alizado ni nadie indica al llegar cual es por lo que tuvimos que convivir durante 3 horas con una mesa que no paro de fumar.Es decir que este lugar hizo lo imposible para arruinar una reuni\u00f3n de amigos."
+    }, 
+    {
+      "date": "22 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "el_ariel", 
+      "text": "un lugar tradicional, una carta muy extensa que hace dificil elegir, los platos estan bien hechos. nada del otro mundo pero terminamos muy satisfechos. Hay mesas redondas para 6 personas, para compartir mejor el almuerzo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "supertorpiandy", 
+      "text": "rabas excelentes!!!! Cazuela de mariscos..expectacular; hasta nuestra hija comi\u00f3 y repiti\u00f3 y odia el pescado. Delicioso, la atenci\u00f3n excelente, mozo atento, amable, predispuesto a resolver inquietudes y a sugerir. Fuimos temprano, antes de las 13 hs un domingo. Altamente recomendable, si es elevado comparado con otros lugares pero para ir de vez en cuando o vale."
+    }, 
+    {
+      "date": "1 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pintu", 
+      "text": "su casa del viso lo recomiendo, desde los chicos que se ocupan de estacionar lo vehiculos como todo el personal son por demas amables, la comida excelente sobretodo los mariscos hace mucho voy todos los domingos y no lo cambio"
+    }, 
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "evangymorena", 
+      "text": "Hace mucho tiempo que no iba a restaurant con una carta super abundante.  Tiene pastas, carnes rojas, carnes blancas y mariscos muy recomendables.  Platos abundantes para compartir. Atenci\u00f3n con mozos de los de antes (con larga experiencia). El lugar muy c\u00e1lido, hasta los ba\u00f1os, limpieza impecable. Sin duda, hay que volver para seguir probando sus platos."
+    }, 
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "djseba", 
+      "text": "Fui varias veces. Si bien es un poco lejos de donde vivo, vale la pena el viaje y lo que uno paga. No es barato, pero el precio es mas que acorde a lo que te sirven. Tienen LA VARIEDAD DE PLATOS ELABORADOS MAS GRANDE QUE HAYA VISTO. Uno mas rico que el otro. Imposible repetir plato en sucesivas visitas, siempre te tentas con uno nuevo. No terminas nunca de probar cosas riquisimas. El servicio es muy bueno, y el ambiente muy calido, aunque tal vez un poco concurrido y ruidoso, pero si eso no te molesta mucho, vale muchisimo la pena. Lo recomiendo a rabiar, es mi resturant de cabecera!!!"
+    }, 
+    {
+      "date": "6 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tortutom", 
+      "text": "Muy bueno todo, la comida, ambiente, atenci\u00f3n, estacionamiento, etc...muy bueno 10 puntos en todo!\r\nfui un domingo por la noche con la flia (5) . repetiremos la visita! manejo; no tomo alcohol. mi flia casi nada, no puedo opinar."
+    }, 
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Andres_d", 
+      "text": "El gallego no defrauda. Fuimos a cenar con mi mujer y pedimos media porcion de rabas y media de calamaretti con papas a la espa\u00f1ola, plato ppal arroz con langostinos (que compartimos) y de postre unas frutillas parissienne tambien compartidas. La comida es de primera, los mariscos excelentes, y condimentados como se debe. Un lugar para volver siempre. MUY recomendable.\r\nEntre los dos, sin vino, 250$"
+    }, 
+    {
+      "date": "23 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "VANIGRIJNI", 
+      "text": "Excelente lugar! nos encanta la atencion, la comida y el ambiente familiero.. Recomiendo las rabas y las pastas.. Los platos son abundantes.."
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "amigodebenito", 
+      "text": "el mejor de la zona norte por precio y calidad de sus platos para ir en pareja el mejor no lo duden"
+    }, 
+    {
+      "date": "3 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Penelope pilar", 
+      "text": "Excelentes todos los platos, nunca comi mal. Lo recomiendo para ir a toda hora. Mozos de oficio muy amables y muy buena atencion."
+    }, 
+    {
+      "date": "23 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hernanc", 
+      "text": "El mejor restoran que he ido en los \u00f9ltimos tiempos. La carta es enorme, los mariscos buenisimos y lo demas tambi\u00e9n. Nunca me defraudaron y estoy yendo mucho desde hace unos meses. El unico peque\u00f1o detalle es que el ambiente es un poco antiguo aunque super prolijo y muy cuidado y familiar, sin embargo no es recomendable para el que le gusta lo moderno. Todo lo demas impecable y muy RECOMENDABLE."
+    }, 
+    {
+      "date": "25 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "emijuan", 
+      "text": "Todo excelente como de costumbre, todas las veces que fu\u00ed fu\u00e9 as\u00ed, para recomendar, el ambiente, la comida en fin todo. volver\u00e9 las veces que pueda."
+    }, 
+    {
+      "date": "11 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lolita2010", 
+      "text": "Excelente como siempre, hac\u00eda mucho tiempo que no iba y al volver sent\u00ed como si no hubiese pasao el tiempo.. el gallego siempre atento y al servicio del comensal. La comida exquisita y abundante. MUY RECOMENDABLE"
+    }, 
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "datchund", 
+      "text": "Soy clienta del restaurante hace m\u00e1s de 30 a\u00f1os, siempre fu\u00ed atendida maravillosamente bi\u00e9n, por sus due\u00f1os y personal del mismo, nada que decir. tambi\u00e9n hemos pasado y lo seguimos haciendo festejar fiestas de fin de a\u00f1o, con la misma simpat\u00eda de todos ellos, c\u00f3mo todo el a\u00f1o sucede.gracias, c\u00f3mo dice benito ( gracias por venir!!! y yo les contesto gracias por recibirnos!!! siempre amablemente)"
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Digi_cai", 
+      "text": "Excelente nivel de cocina, recomendados los platos mar\u00edtimos! Gloriosas rabas, el mejor pulpo que com\u00ed en mi vida, tierno, sabroso! Una carta abundante, con parrilla para los que no gustan de los mariscos, muy amplia! Varias p\u00e1ginas de vinos en la carta, impecable. Postres ricos y abundantes.\r\nObviamente vemos todo esto reflejado en el precio, que atraganta un poco, pero con las comidas compartidas se puede hacer algo m\u00e1s ameno el pago. Realmente para recomendar en una noche especial!"
+    }, 
+    {
+      "date": "27 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "emijuan", 
+      "text": "Muy buena atenci\u00f3n, muy bueno el lugar, la comida de diez y preparada como debe ser, en fin para recomendar si se quiere pasar un rato amable y bien atendido."
+    }, 
+    {
+      "date": "19 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PATO2010", 
+      "text": "Excelente lugar, muy buena atencion, la comida 10 puntos.inmejorable"
+    }, 
+    {
+      "date": "28 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MejorCritico", 
+      "text": "Es como viajar a espa\u00f1a por zona NORTE.- Es un tipico Bodeg\u00f3n, lo atiende un Gallego que realmente sabe lo que hace.- No pretende ser algo que no es.- Es tal cual como las afueras de madrid, manteles a cuadros de color blanco/rojo, y platos extremamente abundantes, no escatiman en las porciones.- El problema lo tenes cuando te queres ir, porque es tan rico que no se puede parar.- Imperdible TODO!! Volver\u00e9"
+    }, 
+    {
+      "date": "2 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dmtati", 
+      "text": "El men\u00fa marea un poco..\r\nmencionando los medallones de merluza, considero q estaban ba\u00f1ados de una salsa d verdura q hacia dif\u00edcil de percibir el sabor q ten\u00edan; la misma era muy rica aunq bastant pesada..\r\nLas RABAS sin lugar a duda LAS MEJORES q prob\u00e9 en toda mi vidaaaaaaaaaaa: tiernaaaaaaaas, grandes y con un sabor q las hacen exquisitaaaaaaaaas!!!!!!! m\u00e1s q recomendadas!!!!!!!!!!!! una porci\u00f3n es m\u00e1s q suficient como entrada para dos personas.\r\nEl ambient tiene demasiada luz, molestando un poco en el horario d la cena ..."
+    }, 
+    {
+      "date": "18 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tommyoleo", 
+      "text": "Excelente, nada igual supera todo lo que uno espera, platos muy bien preparados."
+    }, 
+    {
+      "date": "30 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Hu_Gui_To", 
+      "text": "Es un lugar al que voy desde hace a\u00f1os, jam\u00e1s me defraud\u00f3, siempre me atendieron perfecto, siempre tenian lo que sea que ped\u00eda de la carta y la gran mayor\u00eda de las veces, era rico y abundante. El due\u00f1o, un gallego para no perderse. Son recomendables los mariscos y las carnes, el cochinillo y el chivito (que no hacen siempre). No hay vuelta que darle, por m\u00e1s resstaurantes que pruebe, siempre vuelvo a este."
+    }, 
+    {
+      "date": "22 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "emijuan", 
+      "text": "Un lugar para recomendar, la atenci\u00f3n muy buena, la edificaci\u00f3n del lugar de lujo y el silencio hacen de este restaurante un descanso para el espiritu y la comida excelente en todos los sentidos."
+    }, 
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "IABF", 
+      "text": "Hay una gran cantidad que mozos, y estan muy atentos a los pedidos, son muy serviciales y simp\u00e1ticos a la hora de recomendar los platos de la casa. La comida es exquisita, y los platos abundantes, ademas poseen muy buena presentaci\u00f3n. El postre estaba muy bien presentado, ten\u00eda helado de frutilla con trozos de frutillas, y crema. Lo que m\u00e1s me gust\u00f3 adem\u00e1s de la atenci\u00f3n fue que no escatiman en ingredientes a la hora de presentar los platos, todos fueron abundantes y de muy buena calidad."
+    }, 
+    {
+      "date": "30 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "piojoso87dss", 
+      "text": "lo mejor de lo mejor"
+    }, 
+    {
+      "date": "28 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "piojoso87dss", 
+      "text": "El mejor Restaurante en el que comi,el servicio exelente, la atencion mejor aun, y la comida impecable. lo recomiendo"
+    }
+  ]
+}

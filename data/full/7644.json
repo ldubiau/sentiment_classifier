@@ -1,0 +1,116 @@
+{
+  "buenos": [
+    {
+      "date": "8 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ndolores", 
+      "text": "Los muy poca cantidad de mozos, lo que hacia el servicio muy pero muy lento. La calidad de la comida excelente. Las porciones todas para compartir."
+    }, 
+    {
+      "date": "9 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "areco85", 
+      "text": "La comida es muy abundante. Las rabas son tiernas. Los mozos estaban desbordados (entiendo que muchos se feron de vacaciones). Los aires acondicionados no llegaban a refrigerar el local por lo que hacia mucho calor."
+    }, 
+    {
+      "date": "16 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "SrCaminante", 
+      "text": "Lugar recomendable. Las porciones son extremadamente grandes por lo cual es mandatorio compartir ( el precio por plato parece caro pero hay que considerar que comen dos personas c\u00f3modamente . Buena opci\u00f3n para una comida entre amigos. NO COBRAN CUBIERTO O \"SERVICIO DE MESA\""
+    }, 
+    {
+      "date": "13 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "oktubrerojo", 
+      "text": "Gastronom\u00eda bien profesional, los mozos son del oficio. Ojo !!! las porciones son exageradamente grandes."
+    }, 
+    {
+      "date": "9 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Pablo88", 
+      "text": "Las pizzas, aunque bien logradas carecen de contundencia, Las pastas tiene puntos de coccion erroneos aunque la porci\u00f3n es abundante, en cuanto al pescado, el punto es bueno, pero las guarniciones parecen no tener la importancia que deberian. La vajilla y cubiertos no est\u00e1n lavados ni faginados correctamente y algunos vasos presentan olores extra\u00f1os. Solo recomendable para la hora del T\u00e9"
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Es un lugar sumamente espacioso con mesas que guardan una amplia separaci\u00f3n entre s\u00ed, tanto en el sal\u00f3n como en la calle. La esquina tiene una hermosa vista a la Plaza Guadalupe y permite disfrutar de un momento distendido. La atenci\u00f3n es la correcta y la comida no es lo m\u00e1s destacable del lugar. Volver\u00eda s\u00f3lo para disfrutar de un momento placentero en esa esquina privilegiada."
+    }, 
+    {
+      "date": "15 Jun 0012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "daniel_b18", 
+      "text": "las porcines son super grandes,compartimos una milanesa a la riojana y no pudimos terminarla. muy bueno el pan de pizza. El ambiente esta bien, pero le vendria bien modernizarlo un poco."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "maet", 
+      "text": "Siempre vamos y siempre comemos bien ... solo una recomendaci\u00f3n, los platos son enooormes, por lo tanto hay que ponerse de acuerdo para pedir ....  igual podes llevarte lo que no com\u00e9s. Los mozos como los de antes !!!!"
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Dipti", 
+      "text": "El Mejor Crepe de Jam\u00f3n y queso que he probado en la vida!... y lo sigo pidiendo cada vez que puedo!"
+    }, 
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vic77", 
+      "text": "las porciones son todas para compartir, es muy abundante y de buena calidad. pedir una entrada y un plato principal aveces es mucho pero se puede llevar lo que sobra, el revuelto gramajo muy bueno, tambien para 2, suprema patagonica espectacular y rabas tiernisimas. con el cafe vienen 2 masitas muy ricas. excelente ubicacion, frente a plaza guemes"
+    }, 
+    {
+      "date": "12 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fer28", 
+      "text": "La comida estubo deliciosa y las porciones son como para 2 comensales. Me gusto mucho porque ademas da a la plaza y es super agradable el ambiente."
+    }
+  ]
+}

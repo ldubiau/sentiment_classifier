@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cawa", 
+      "text": "algo quemada la carne...."
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "silviast", 
+      "text": "Soy habitue a la hora de la merienda y me encanta porque es tranquilo y con buena atenci\u00f3n.\r\nIr a cenar all\u00ed es algo muuy distinto, tal vez hay pocos mozos y la atenci\u00f3n es mala, a las disparadas. La comida baj\u00f3 el nivel considerablemente. La carne que com\u00ed se notaba que estaba marcada. La ensalada escasa. Los ravioles que comi\u00f3 mi marido regulares y la salsa no era rica. En fin, el lugar estaba lleno y no entiendo por qu\u00e9. Yo no vuelvo."
+    }, 
+    {
+      "date": "11 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "aquaman", 
+      "text": "El due\u00f1o de Zukero se enfoc\u00f3 en la decoraci\u00f3n solamente.Se olvidaron del servicio, y de no pasar la comanda de nuestra comida,la cual hab\u00edamos esperado por mas de una hora. La moza prepotente y altanera le deslindaba la responsabilidad a la cocina,en vez de solucionar el inconveniente. Obviamente nos fuimos, para no regresar mas.No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Oscarito", 
+      "text": "El lugar es agradable pero muy ruidoso, los platos est\u00e1n bien presentados pero atr\u00e1s de la barra no se manejan bien, cosa que el mozo muy cort\u00e9s trat\u00f3 de disimular"
+    }, 
+    {
+      "date": "23 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "luciam", 
+      "text": "muy lindo lugar en villa urquiza. es amplio y tiene una excelente decoracion. vas a la hora que quieras y tenes siempre cosas ricas para elegir. es moderno y la atencion de los mozos/mozas es muy buena tambien. el lugar que tiene afuera es para disfrutar tanto en invierno como en verano. siempre voy a volver."
+    }, 
+    {
+      "date": "6 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ttjor", 
+      "text": "La calidad de la comida es muy buena, la atenci\u00f3n esmerada. El lugar est\u00e1 muy bien ambientado. Vale la pena ir aunque el valor de los platos y de los vinos es algo elevado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rusbel", 
+      "text": "Mucha traquilidad, buen uso del espacio, nos prepararon  un postre a pedido. Volvimos con amigos.\r\nMuy lindo el espacio descubierto."
+    }, 
+    {
+      "date": "12 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "camg", 
+      "text": "Muy rica comida y presentaci\u00f3n. buena atenci\u00f3n. un lugar muy tranquilo para disfrutar. tambi\u00e9n sirven buenos desayunos. buena relaci\u00f3n precio/calidad"
+    }
+  ]
+}

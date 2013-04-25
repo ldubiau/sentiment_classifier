@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "LUJO", 
+      "text": "Excelente lugar muy bien atendido por sus due\u00f1os, cuatro muchachos\r\ncon muchas ganas y empuje\r\nCarnes muy buenas y platos abundantes. Recomendable la provoleta\r\nde la casa, un manjar.\r\nMuy bueno el flan casero.\r\nRepetiremos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AnaMariaPereyra", 
+      "text": "Muy lindo lugar, muy comodo y calido, me lo recomendo una amiga y la verdad que no se equivoco. Las carnes muy ricas y en su punto justo de coccion, no suelo hacer comentarios pero me senti muy bien atendida asi que me tomo algunos minutos para dejar mi opinion positiva.\r\nOtra cosa muy buena son los precios de los vinos.\r\n\r\nSaludos,"
+    }
+  ]
+}

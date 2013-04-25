@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "18 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Jbertellotti", 
+      "text": "la comida es muy sabrosa y sana, ya com\u00ed unas 4 veces y nunca tuve problemas,la muy  amable,el lugar feo\nideal pedir en casa y comer con un buen vino"
+    }, 
+    {
+      "date": "11 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "marianojaja", 
+      "text": "La experiencia fue bastante regular, aunque quiz\u00e1s la hora tard\u00eda haya influido. Varios platos de la carta, que no es muy extensa, no estaban disponibles, as\u00ed como tampoco vinos. Los platos salieron r\u00e1pido, pero en ambos (seco de carne y lomo saltado) hab\u00eda una hiperabundancia de arroz, que estaba pasado. No me preocupa el ambiente porque esperaba que la calidad gastron\u00f3mica lo supliera. No ser\u00e1 prioridad para volver con tantas opciones peruanas."
+    }, 
+    {
+      "date": "13 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "nereida", 
+      "text": "la comida est\u00e0 muy buena, y los precios accesibles, si bien el ambiente no es lo mejor est\u00e0 muy limpito y no deja de ser un clasico restaurant peruano, lo realmente malo es la gente que trabaja ah\u00ec y pone a todo volumen telenovelas mexicanas..."
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "odino", 
+      "text": "El mejor ceviche de los peruanos que conozco. Muy bueno el arroz chaufa. Muy abundante. El ambiente regular, no dice nada y es chiquito, no siempre tienen cerveza, nunca tienen pan, pero la comida compensa todo lo dem\u00e1s. Buena la atenci\u00f3n de los mozos"
+    }, 
+    {
+      "date": "5 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "delfinitus", 
+      "text": "Es un lugar que se caracteriza por el buen ceviche. Para los que le gusta comer bien, es un lugar que se concentra en la buena cocina y presentacion y abundancia en las porciones.Si no son muy exquisitos con el tema del ambiente y decoracion es un lugar parecido al paraiso.Cosa que no me gusto, fue que en la mesa en donde me sente el mantel estaba sucio. La atencion es buena,y la decoracion del lugar bien autoctona sin lujos."
+    }, 
+    {
+      "date": "12 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lacoqui", 
+      "text": "la comida es muy rica,porciones abundantes y a muy buen precio;la ambientaci\u00f3n es sencilla,este es un restaurante donde lo que importa es la comida"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "KONIG", 
+      "text": "Muy buen lugar para hacer una recorrida por toda la comida peruana, bien asesorado por el mozo o la sra. que atiende. muy recomendable"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jenny_d", 
+      "text": "La comida tard\u00f3 a\u00f1os en venir, y no nos gust\u00f3 la atenci\u00f3n. Se nota que falta personal. No recomendado."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leticiaquirque", 
+      "text": "Buena atenci\u00f3n, muy esmerada. Platos copados y lindo ambiente, para comer algo tranqui en las mesitas de la vereda alg\u00fan mediodia."
+    }, 
+    {
+      "date": "12 Jul 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Andrelo", 
+      "text": "Fui a tomar un caf\u00e9, ya que originalmente es la especialidad de la casa. Los tragos con caf\u00e9 son muy buenos, pero el servicio deja mucho que desear; muy lenta la atencion y la camarera ni el bartender supieron explicar algunos ingredientes de los tragos. El lugar, muy chiquito pero comodo y bastante calido. Lo que me disgust\u00f3 muchisimo fue el ba\u00f1o de hombres (la pileta esta en el pasillo, fuera del ba\u00f1o)"
+    }, 
+    {
+      "date": "10 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gaita1971", 
+      "text": "Un lugar muy calido,donde podes disfrutar de buena comida y tragos excelentes."
+    }, 
+    {
+      "date": "4 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Florpy", 
+      "text": "Es muy rica la comida"
+    }, 
+    {
+      "date": "21 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GoodTaste", 
+      "text": "El lugar es chiquito pero muy c\u00e1lido. \r\nExcelente el jugo de manzana y canela."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nicoarg81", 
+      "text": "Hacen excelentes tragos con caf\u00e9, uno de los mejores que he probado.\r\nLo unico es que el servicio es un poco lento, pero tampoco es algo como para quejarse.\r\nBuen lugar."
+    }
+  ]
+}

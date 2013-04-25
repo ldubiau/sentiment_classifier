@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "10 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Natugourmet", 
+      "text": "La atenci\u00f3n es muy buena, pero lamentablemente la comida deja mucho que desear. Pedimos una lasagna y la salsa estaba \u00e1cida, y la carne no ten\u00eda mucho sabor. Una pena que en un restaurant donde se especializan en las pastas no sean ricas. Los platos no son abundantes. No vuelvo = ("
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "jujulita", 
+      "text": "No s\u00e9 si habr\u00e1 sido un mal d\u00eda pero la comida no me pareci\u00f3 muy buena y, sobre todo, estaba todo demasiado salado. Horrible para quienes sufren de presi\u00f3n alta y para quienes, como yo, que le pone poca sal a la comida."
+    }, 
+    {
+      "date": "3 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Castelani", 
+      "text": "He ido con mi pareja en varias oportunidades y es un de nuestros restaurantes favoritos, es tranquilo, se come bien, la atencion es buena, los platos estan bien no son ni abudantes ni chicos. Por lo general solemos comer sorrentinos de panna y pomodoro y en una oportunidad comimos pizza tambien, ambos platos muy buenos y muy ricos. En otra oportunidad pedimos lasagna que la verdad no estuvo del todo bien. En general con plato principal y bebida (gaseosa) se gasta aprox $150 y si pedis una entrada $200 entre los 2."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sonykid", 
+      "text": "Excelentes pastas. Volveremos pronto."
+    }
+  ]
+}

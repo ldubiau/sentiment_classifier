@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Marce_Gab", 
+      "text": "Muy buena la comida y la atencion, pedimos una picada de entrada (recomendable) y como platos\r\ncerdo a la barbacoa y otro a la cerveza negra, los platos eran de tama\u00f1o normal y de muy buena calidad."
+    }, 
+    {
+      "date": "6 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "veron_237", 
+      "text": "Fu\u00e9 la segunda vez que frecuento ese lugar. Ped\u00ed un lomo a la pimienta. Me lo trajeron en el punto justo y estaba muy bien condimentado. \r\nTanto la comida como la atenci\u00f3n son buenas aunque es algo ruidoso cuando est\u00e1 lleno y cuando hay ni\u00f1os ocupando su espacio."
+    }, 
+    {
+      "date": "2 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "stella78ar", 
+      "text": "El lugar es increible, la ambientacin es de 10. La panera acompa\u00f1ada por el escabeche de pulpo impresionante, la comida es muy buena, lomo a la pimienta con papas a la espa\u00f1ola buenisimo. No es la primera vez q voy a este lugar y siempre me dan ganas de volver. Una gran opcion en la zona."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Matuchi", 
+      "text": "Se come muy bien y tienen una excelente atenci\u00f3n, totalmente recomendable."
+    }, 
+    {
+      "date": "6 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Laurakis", 
+      "text": "muy buena opcion en ballester! fui con mi esposo y la verdad que la comida fue deliciosa y la atenci\u00f3n inmejorable, incluyendo unos riqu\u00edsimos snacks de cortes\u00eda. con respecto a una visita anterior, com\u00ed todav\u00eda mejor, y eso que estaba lleno."
+    }, 
+    {
+      "date": "13 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Laurakis", 
+      "text": "comimos unas pastas y un salm\u00f3n y ambos estaban deliciosos. el ambiente es muy agradable y bien decorado, no muy ruidoso, a pesar de que se fue llenando. la moza (carolina) nos atendi\u00f3 de primera. una muy buena experiencia en ballester, volveremos!"
+    }
+  ]
+}

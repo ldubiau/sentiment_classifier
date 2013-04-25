@@ -1,0 +1,24 @@
+{
+  "excelentes": [
+    {
+      "date": "21 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carolucha", 
+      "text": "Un lugar tranquilo, para relajarse, con muy buena comida y excelente servicio."
+    }, 
+    {
+      "date": "14 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "susana1", 
+      "text": "Buen ambiente, buen servicio y muy buena comida."
+    }
+  ]
+}

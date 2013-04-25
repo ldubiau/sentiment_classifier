@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "21 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "rteli", 
+      "text": "salsa sin sabor, el servicio fue lento, ba\u00f1os malos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carito10", 
+      "text": "Incre\u00edbles las pizzas y muy buena atencion! super recomendable!"
+    }, 
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "David76", 
+      "text": "Une exp\u00e9rience unica,  \u00e0 condition que voyage \u00e0 des buenos aires, je vais \u00e0 ce lieu, je le recommande \u00e0 tous"
+    }, 
+    {
+      "date": "2 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AlejandroPablo", 
+      "text": "Excelente pizza. Soy fanatico de las pizzas y definitivamente comi y volvi aca porque me encanto. Definitivamente la muzza es mejor que en otros lugares de ahi (laburo cerca..). Muy buena onda la atencion!"
+    }, 
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jenifelipe", 
+      "text": "soy de Colombia, fui con mi familia, la comida estuvo muy rica aunque se demoraron pero fue entendible ya que estaba con muchos pedidos, espero volver a mi regreso."
+    }
+  ]
+}

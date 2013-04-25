@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "17 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "aquaman", 
+      "text": "Regular pizza con precios altos no justificables.No volver\u00eda.Y tampoco har\u00eda un delivery"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "barrigudito", 
+      "text": "bien,comida sin mayores pretensiones \"standarizada\" en todas las sucursales muy caro por el servicio y comida que dan"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Andie", 
+      "text": "Buenas ensaladas, buenas opciones light, pizzas, minutas, todo rico. No es barato y podr\u00edan darle mas fuerza al aire acondicionado en un dia de 42\u00b0 de termica. Pelotero para los ni\u00f1os. Buena opci\u00f3n en la zona sin tener que llegar hasta el bajo."
+    }
+  ]
+}

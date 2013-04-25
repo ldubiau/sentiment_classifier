@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "17 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "tamy_rr", 
+      "text": "pedimos parrillada y pastas: las pastas insulsas, la parrillada, cruda, pese a que pedimos reiteradas veces que lo queriamos cocido. el sector de juegos para chicos funciona solo con fichas. no vale lo que cuesta. no lo recomiendo"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guillorosales", 
+      "text": "Como el vino, pasa el tiempo y se pone mejor. Excelente atenci\u00f3n, ambiente ideal ya sea para una cena en pareja o una reuni\u00f3n familiar y la parrilla no tiene comparaci\u00f3n. 100% recomendable."
+    }, 
+    {
+      "date": "21 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "joegloton", 
+      "text": "El se\u00f1or Ramon (el metre o encargado ) nos trato muy irrespetuosamente , hasta que pudimos ingresar para cenar por ser socios de la guia oleo.\r\nLa comida no era mala y la atencion regular , no entiendo como semejante salon tiene 2 ba\u00f1os (individuales ) uno para hombre y otro para mujeres NO LO RECOMIENDO HAY PARRILLAS MEJORES Y MAS BARATAS POR LA ZONA"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "guillorosales", 
+      "text": "Excelente comida, exclente ambiente, muy buena atenci\u00f3n y las recomendaciones de Tom\u00e1s, l\u00e1stima que no se pueden disfrutar vinos de Luigi Bosca"
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "VeroLS", 
+      "text": "Las carnes son excelentes y se destaca la atenci\u00f3n y la calidez del lugar. Gran variedad de vinos (tienen cavas). El men\u00fa ofrece muchas posibilidades adem\u00e1s de parrilla y son opciones muy tentadoras. Un lugar supoer recomendable."
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "15 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Rauldi", 
+      "text": "La carta era limitada, no habia mucho para elegir, luego nos enteramos que tienen otra carta mas completa que no nos mostraron porque dijeron que era para la noche, por lo tanto, me quede con ganas de probar el cordero que recomiendan en este sitio. Nada del otro mundo"
+    }, 
+    {
+      "date": "5 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "simone_campbell", 
+      "text": "Todo p\u00e9simo, el atendimiento, la comida, y lo peor fue la mala educacion del gerente.\r\nNo recomiendo!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mile_udp", 
+      "text": "muy rica la comida, sin embargo la carta es un poco limitada y la atencion no es de lo mejor"
+    }, 
+    {
+      "date": "10 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Muy lindo lugar, los platos fusi\u00f3n, lindos presentados, vale la pena conocerlo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Leandro1423", 
+      "text": "Un excelente lugar con una calidad de comida constante. He ido varias veces y la calidad de los platos se mantiene. La carta se renueva seguido y si bien es caro, la relacion calidad de los platos / precio es excelente. Muy recomendable."
+    }
+  ]
+}

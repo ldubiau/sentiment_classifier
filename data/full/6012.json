@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "valeopi", 
+      "text": "Muy rica la comida, todo casero ! Habr\u00eda que mejorar un poco la decoraci\u00f3n del lugar."
+    }, 
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maniemand", 
+      "text": "Muy buena atencion. La comids muy variada. Probar los ravioles de calabaza."
+    }, 
+    {
+      "date": "1 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Chorchv", 
+      "text": "Es una excelente opci\u00f3n para un mediod\u00eda de trabajo. Buena comida (abundante), un buen servicio y un lugar ameno. Si est\u00e1s por la zona, hay que darle una oportunidad."
+    }, 
+    {
+      "date": "26 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cechu020", 
+      "text": "Lindo ambiente, familiar, nada lujoso pero ok."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "julioguzman", 
+      "text": "Lamentablemente cerr\u00f3!!! Hac\u00edan una musaka tan rica que ni en grecia com\u00ed al igual.\r\nOjal\u00e1 que vuelvan en otro local si es necesario."
+    }, 
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "moniu", 
+      "text": "ambiente informal buena honda limpio rica la comidanos sentimos muy bien atendidos"
+    }, 
+    {
+      "date": "18 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Flora2012", 
+      "text": "Muy lindo lugar, calido, amable y amigable. \r\nLa comida riquisima, fui para un cumplea\u00f1os y comimos entrada de berenjenas, porotos, queso, aceitunas negras y de plato principal musaka griega y de postre peras al malbec, con canela y crema. Muy, muy rico todo y a buen precio."
+    }, 
+    {
+      "date": "10 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jdweb", 
+      "text": "Muy rica comida bien casera, comomla hacia la Nonna. Un opcion de barrio economica y deliciosa"
+    }, 
+    {
+      "date": "27 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "euguenia", 
+      "text": "la comida es muy buena y satisface, el ambiente es familiar. Muy recomendable"
+    }
+  ]
+}

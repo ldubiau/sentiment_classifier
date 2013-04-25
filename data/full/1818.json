@@ -1,0 +1,24 @@
+{
+  "excelentes": [
+    {
+      "date": "3 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lacami", 
+      "text": "Comida muy sabrosa y abundante, el plato se puede compartir. El mozo muy servicial sin ser molesto. El lugar es tranqui, se come c\u00f3modo."
+    }, 
+    {
+      "date": "3 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "galleguita", 
+      "text": "Comida de estilo casero, supersabrosa."
+    }
+  ]
+}

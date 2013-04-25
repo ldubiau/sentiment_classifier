@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "3 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "querico", 
+      "text": "Fuimos el 3 de enero a tomar algo a la tardecita, pensando en una rica torta...pero era todo del a\u00f1o anterior. De pinta nomas todo palido y reseco. solo nos animamos a una medialuna, que tampoco rebozaba frescura. Menos mal, porque en las demas mesas vimos que quedaban las porciones de torta sin tocar! Un desastre, ambiente de 50 para arriba, una sola moza. No vuelvo nunca."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aratar", 
+      "text": "la atencion exelente y la comida tambien la verdad que yo lo recomiendo"
+    }, 
+    {
+      "date": "6 Nov 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "marianop78", 
+      "text": "La comida no es mala, pero la atencion es pesima, hay una moza que es una maleducada no deberia trabajar en el ambiente gastronomico."
+    }, 
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Zeus", 
+      "text": "Muy caro los platos elaborados y mala la atencion. He ido antes, cuando no era tan masivo y era mucho mejor. Recatable el ambiente exclusivo para fumadores."
+    }, 
+    {
+      "date": "19 May 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marianoso", 
+      "text": "Muy caro para lo que ofrecen y los mozos (perdon, las chicas que atienden las mesas) son muy desatentas.\r\nA pesar que hay pocos comensales tardan mucho en atender.\r\nEl ambiente es cool, no grasa, aunque lo de sector no fumadores es un verso, est\u00e1 p\u00e9simamente aislado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Jun 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "drizzt", 
+      "text": "El mediodia es barato, la comida es buena, las camareras hacen lo q pueden ya que vi como la misma chica q atendia salia a hacer delivery y el ambiente igual a todo los piacere como debe ser pero este es mas amplio y calido."
+    }
+  ]
+}

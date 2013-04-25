@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "8 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "evangeli", 
+      "text": "El servicio y la ambientaci\u00f3n son muy buenos. La comida est\u00e1 muy bien preparada  y es muy fresca. Hay gran variedad de entradas y muchas opciones de parrilla. \r\nMuy buena relaci\u00f3n entre precio y servicio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yuyotorn", 
+      "text": "Excelente atenci\u00f3n y servicio, al igual que la comida."
+    }
+  ]
+}

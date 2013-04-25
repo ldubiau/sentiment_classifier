@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "3 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "calavizz", 
+      "text": "Buen ambiente, buena atenci\u00f3n, buena comida, pero resulta exasperante la lentitud de la cocina."
+    }, 
+    {
+      "date": "11 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mcr15952", 
+      "text": "La mousse de lim\u00f3n riqu\u00edsima, pero la de chocolate... \u00a1Sublime!"
+    }, 
+    {
+      "date": "12 Oct 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ffh", 
+      "text": "muy buen lugar para una noche romantica, pocas mesas, y una atencion esmerada y cuidadosa"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MrBono", 
+      "text": "Lugar muy confortable e \u00edntimo.\r\nEsmerada atenci\u00f3n, hasta se nos permiti\u00f3 conocer la cava.\r\nGran pasi\u00f3n en el cuidado y servicio de los vinos, con precios m\u00e1s que apropiados en la carta y excelentes sugerencias. \r\nTienen un encantador Patio Andaluz."
+    }, 
+    {
+      "date": "5 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marasteg", 
+      "text": "Me encant\u00f3 el lugar. Muy original. La comida, muy buena y la atenci\u00f3n excelente. Vi el men\u00fa en la revista Men\u00fa (no lo conoc\u00eda). Me dio curiosidad ir y me alegro haberlo hecho. Buen\u00edsima la bodega que tienen."
+    }, 
+    {
+      "date": "5 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "aleferna", 
+      "text": "Imperdible vinoteca."
+    }
+  ]
+}

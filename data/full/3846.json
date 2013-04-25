@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "kayshinha", 
+      "text": "No me gusta este lugar.... y como en muchos lugares, no tienen idea de como son los sabores de Jap\u00f3n. La atenci\u00f3n regular...no pueden servir sushi en platos de pl\u00e1stico.. la camarera com\u00eda chicle con la boca abierta mientras nos dec\u00eda que no pidamos postre porque la cocina estaba por cerrar. No vuelvo mas! No me sacan mas la plata!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ILNONO", 
+      "text": "Un sushi equilibrado y de buena calidad. Los platos calientes no son su gran fuerte"
+    }, 
+    {
+      "date": "19 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Muy buen sushi aunque, un poco caro. El lugar es chico pero igualmente agradable. Es un rincon un poco mas silencioso del shopping. El servicio correcto. Lo recomiendo, sobre todo por los platos que tambien estan buenos."
+    }, 
+    {
+      "date": "18 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Golosita", 
+      "text": "Buen sushi, fresco, en lugar bien atendido. Es c\u00f3modo para quien vive cerca y no tiene ganas de ir muy lejos."
+    }, 
+    {
+      "date": "2 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Alicita", 
+      "text": "Me gust\u00f2...volver\u00eca y sobre todo porque es uno de los pocos de la zona incluyendi Nordelta"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "TimiReina", 
+      "text": "Muy buen lugar, te ayudan a elegir en caso vayas por primera vez. Los precios son accesibles (se sabe que el sushi de por s\u00ed es caro). Las porciones son abundantes. Con 6 piezas cada uno qued\u00e1s m\u00e1s que satisfecho. La calidad de la comida es muy buena. Aclaraci\u00f3n: Est\u00e1 abierto todos los d\u00edas, no de martes a domingo. Ma\u00f1ana (San Velentin) est\u00e1 abierto."
+    }
+  ]
+}

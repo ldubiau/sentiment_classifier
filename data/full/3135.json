@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "8 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "E_Nano", 
+      "text": "Me pareci\u00f3 totalemente excesivo el precio en relaci\u00f3n a lo que tienen para ofrecer. El servicio no fue malo, pero tampoco algo para destacar. Por otra parte lo que me gust\u00f3 mucho fue el ambiente, muy lindo. No lo recomiendo para el que busque una buena relaci\u00f3n precio-calidad, pero si para pasar un rato de relax."
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "bigboy", 
+      "text": "el lugar increible, el spa, muy bien atendido, pero la comida terrible, recalentada y mal hecha, y sobre todo caro"
+    }, 
+    {
+      "date": "23 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "juancardenas", 
+      "text": "Comimos muy mal, los platos estaban frios, crudos o recocidos. El gerente no supo que decirnos...un desastre para un restaurant que cobra mas de $100 el cubierto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Comer en el deck sobre el rio es impagable.LA atencion es correcta, aunque tuvo un par de errores.El dorado es excelente, ademas de ser uno d elos poco lugares que lo preparan. Lo demas es normal.Muy caro para lo que son los platos. PEro hay que ir porque estar rodeado de verde y rio bin lo vale."
+    }, 
+    {
+      "date": "25 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Natiwa", 
+      "text": "El lugar y el servicio son excelentes. La comida nos parecio muy buena. La relacon precio calidad si es u posco dispar. Los precios son alt\u00edsimos. Pero a pesar de eso el ambiente lo amerita. Volver\u00eda"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nicosanchez", 
+      "text": "Fui con mi mujer 2 dias a festejar nuestro aniversario y no me queria volver. La atencion es de primera, el lugar esta barbaro,nos mimaron y nos malcriaron todo el tiempo,estar tirado en una hamaca paraguaya que pase el mozo me ofrezca un trago fue lo mejor,comi las mejores mollejas de mi vida a la orilla del rio rodeado de pavos reales hermosisimos,toda la comida es riquisima,la verdad lo recomiendo con todo gusto,es caro,pero lo vale. Voy a volver espero que muy pronto. 100% recomendado."
+    }, 
+    {
+      "date": "28 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Elverde", 
+      "text": "La comida excelente, una carta que sin ser excesiva abarca todos los gustos (carnes, pescados, pollo, pastas), muy buenos postres. El ambiente como se resalta en mensajes anteriores es excelente y la atenci\u00f3n buena. El punto flojo la carta de vinos que no tiene variedad, sobre todo en blancos."
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "iguest", 
+      "text": "Un lugar ideal para descansar. Atenci\u00f3n de primera! Vale la pena conocer siempre y cuando sea un d\u00eda soleado!"
+    }, 
+    {
+      "date": "30 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Alimendio", 
+      "text": "Lugar hermoso y si te toca un d\u00eda soleado y c\u00e1lido mejor, comida excelente, atenci\u00f3n seg\u00fan quien te atienda es muy buena, es caro pero vale la pena. Prob\u00e9 la gran mayor\u00eda de los platos ya que estuve hospedada; excelente calidad."
+    }, 
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dogo_31", 
+      "text": "Es un lugar hermoso, excelente atencion y con una gran variedad de exquisiteces!!!"
+    }
+  ]
+}

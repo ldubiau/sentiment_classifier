@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "12 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Zeus", 
+      "text": "Desastrozo: el mozo desalineado, la mesa, para cuatro, ten\u00eda 3 platos, 8 cubiertos y 2 vasos. \u00bfQu\u00e9 mas se puede decir? No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Maxemm", 
+      "text": "tengo entendido que el bar cerro"
+    }, 
+    {
+      "date": "15 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gerkijel", 
+      "text": "Una carta min\u00fascula, la televisi\u00f3n a todo lo que da, pero buena la comida y un ambiente c\u00f3modo."
+    }, 
+    {
+      "date": "11 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MaGaSUR", 
+      "text": "Muy lindo lugar en una zona demasiado poblada, cercana a la estaci\u00f3n de tren (la \u00fanica desventaja). Volver\u00eda a visitarlo en un horario donde haya menos gente por la calle y cuando se pueda estacionar m\u00e1s c\u00f3modamente."
+    }
+  ]
+}

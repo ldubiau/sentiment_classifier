@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pancho08", 
+      "text": "La atencion no fue buena,  tardaron mucho tiempo en atendernos, tambien en el pedido y cuando llego estaba tibio, tirando a frio. Aunque la comida no estaba tan mal, moficaron la guarnicion de un plato sin consultarnos y tampoco preguntaron el punto que queria la carne. No cualquiera come un lomo casi blue, al menos deberia haber estado a punto. Los ba\u00f1os son un tema a corregir  ya que estan en un primer piso subiendo por una escalera no muy comodo y las puertas quedan semiabiertas. Si sos muy grande no entras. Demasiado pretencioso para el servicio y la comido que brindan. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rauldi", 
+      "text": "La atenci\u00f3n muy amable (casi demasiado), la comida de buena calidad y variada, carta de vinos muy completa (aunque no tenian  el que ped\u00ed), precios acorde. Extra\u00f1a zona que se est\u00e1 convirtiendo."
+    }, 
+    {
+      "date": "28 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "susanel", 
+      "text": "No es facil abrir un nuevo restaurant.Anoche, fuimos a conocer Valentino. El restaurant esta en una zona oscura y no muy agradablel lugar es lindo, no muy grande.\r\nLa comida mas o menos. Uno de los platos que pedimos fueron gambas al ajillo.\r\nNos sirvieron una version propia de la receta que eran gambas medianas, en salsa de tomate, amargas por la gran cantidad de ajo crudo que tenian.Faltaban cartas de menues y mozos. La espera entre plato y plato era demasiado larga.Hay muchos lugares donde se come mejor por el mismo precio.La atencion regular. No pienso volver."
+    }, 
+    {
+      "date": "5 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tuchito", 
+      "text": "El lugar est\u00e1 muy bien puesto, la atenci\u00f3n estilo tradicional, con mozos que te recomiendan en cuanto a las porciones y saben de memoria la carta. La comida muy rica, probamos la cazuela de mariscos y estaba muy bien. Por la zona una gran opci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jmiglesias2002", 
+      "text": "Excelente atencion y precios razonables, muy buena calidad en la comida, recomiendo bife de chorizo 40 pesos ( mini 250grs- generoso) y las rabas ( 48 pesos)\r\nsaludos juan martin."
+    }, 
+    {
+      "date": "8 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cecisanchez", 
+      "text": "Excelente ambiente y comida, los mariscos excelentes, muy frescos, lugar digno de recomendar"
+    }, 
+    {
+      "date": "4 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fabianpineiro", 
+      "text": "Fuimos con mi novia dos veces, las porciones son grandisimas, la atenci\u00f3n es excelente y muy buena onda de los mozos.  Recomiendo 100 %"
+    }, 
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Escarcha", 
+      "text": "Excelente, todo bueno, la comida, la atenci\u00f3n, el lugar est\u00e1 bueno, comodo, la relaci\u00f3n precio calidad es de primera, fu\u00ed  en dos oportunidades y seguramente volver\u00e9."
+    }
+  ]
+}

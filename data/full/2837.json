@@ -1,0 +1,158 @@
+{
+  "malos": [
+    {
+      "date": "8 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "hilman", 
+      "text": "pedimos napolitana,la masa bien cocida pero sin gusto ,poca muzzarella ,en sintesis una pizza standard,fui mas que nada por los comentarios y me decepcione"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MTX", 
+      "text": "La verdad que nos fuimos bastantes conformes. Eramos 2 adultos y 1 menor. Pedidos 2 porciones de Muzza, 1 de Faina, 1 de Faina con Muzza, 2 Canastitas, 2 Empandas de Carne, 2 Bebidas y 1 Cerveza de Litro... Gastamos poquito m\u00e1s de $80!!!! El ambiente estaba bien y tranqui, era un jueves por la noche. Lo recomendamos..."
+    }, 
+    {
+      "date": "2 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "REZONGON", 
+      "text": "Un lugar muy comodo y tranquilo. La atencion fue amable y r\u00e1pida. Comimos empanadas y pizza, napolitana exquisita, tomamos cerveza y no pudimos comer postre."
+    }, 
+    {
+      "date": "16 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "hsperoni", 
+      "text": "En general pedimos a domicilio. La pizza es muy rica."
+    }, 
+    {
+      "date": "28 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Topi71", 
+      "text": "Ampliamente recomendable, un lugar donde hacen buena pizza sin mayores pretensiones.Excelentes empanadas.\r\nSeguire yendo aunque me haya mudado de barrio."
+    }, 
+    {
+      "date": "17 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Juanpa1979", 
+      "text": "Una buena opci\u00f3n si est\u00e1s por flores para probar distintas variedades de pizzas. No es de las m\u00e1s tradicionales pizzer\u00edas porte\u00f1as pero se come rica pizza a la piedra y la atenci\u00f3n es muy amable."
+    }, 
+    {
+      "date": "28 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Piazzolla1983", 
+      "text": "La pizza no es muy buena, por lo menos la de muzzarella. La de roquefort es interesante.\r\nLas empanadas son muy ricas y el resto tranqui."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "buenosairesquerido", 
+      "text": "La comida es muy rica y la atenci\u00f3n es buena.\r\nLo que no me gust\u00f3 mucho, es que ten\u00edan puesto Reggaeton a todo volumen durante todo el tiempo que estuvimos cenando ah\u00ed. Decay\u00f3 un poco ese lugar desde que lo conozco; sol\u00eda ser un lugar un poco m\u00e1s elegante.\r\nPero la comida sigue siendo rica."
+    }, 
+    {
+      "date": "17 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MicaBlues", 
+      "text": "Fuimos con mi pareja un domingo a cenar, y la verdad comimos b\u00e1rbaro. Desde la moza que nos atendi\u00f3 genial, hasta el ambiente re tranquilo. Lo importante: LA COMIDA. Pedimos variado, algunas porc. de fugazzetta rellena, empanadas y canastitas. Todo excelente!!! No hubo una sola cosa (comimos 10 cosas diferentes en total) q estuviese mal hecha o fea. IMPORTANTE: El precio, tal cual dice ac\u00e1. Todo eso, 1 cerveza stella grande y bananas con dulce de leche y crema de postre (super abundante) $76 total. Super recomendable!! Volveremos"
+    }, 
+    {
+      "date": "28 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mani2009", 
+      "text": "La atenci\u00f3n fue muy buena y la comida 10 puntos, tanto la pizza como las empanadas (las de verdura y de at\u00fan RIQUISIMAS!). Para recomendar!!! Volveremos y pediremos delivery!"
+    }, 
+    {
+      "date": "21 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Helen_88", 
+      "text": "Cl\u00e1sica pizzer\u00eda de barrio, las pizzas son exquisitas, mi favorita NAPOLITANA CON ALBAHACA,imperdible!!! Ambiente familiar, ideal tambi\u00e9n para ir con amigos y acompa\u00f1ar con una buena cerveza.El delivery siempre es bienvenido en casa.Recomendable."
+    }, 
+    {
+      "date": "30 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mabybsas", 
+      "text": "Casi todos los domingos pedimos pizza y si bien a veces variamos de lugares, siempre siempre volvemos a pizza show!!! es riquisima!! al igual que sus empanadas de palmitos y salsa golf!! muy recomendable!! en cuanto al local, conozco el de yerbal y no es muy agradable, pero el delivery es insuperable!!!rapido y todo rico!!"
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "emcoria", 
+      "text": "Excelente opci\u00f3n para comer rica pizza a precios m\u00e1s que razonables!!"
+    }, 
+    {
+      "date": "3 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "zzzzzzz", 
+      "text": "Lugar bien agradable, onda familiar y comodo, amplio si esta lleno un poquito ruidoso pero bien, las  pizzas y las empanadas son buenisimas todas cualquiera sea el gusto que elijas, carta de vinos tirando a corta y los postres tradicionales muy ricos da para ir."
+    }, 
+    {
+      "date": "21 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nellyynoe", 
+      "text": "Comimos de todo. Riqu\u00edsimo. Tanto las empanadas como las pizzas me parecieron buen\u00edsimas. El lugar es agradable, la atenci\u00f3n es buena y los precios accesibles."
+    }
+  ]
+}

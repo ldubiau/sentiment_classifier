@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "10 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Foier", 
+      "text": "muy buena pizza"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ALEzcurra", 
+      "text": "Muy buenas sus pizzas, canastitas y empanadas, en todas sus variedades el relleno es abundante. \r\nSi van a solicitar delivery hacerlo al menos con 40 minutos de anticipaci\u00f3n."
+    }, 
+    {
+      "date": "3 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vka75", 
+      "text": "Muy recomendable sus canastitas, exquisitos sabores."
+    }, 
+    {
+      "date": "1 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "r_goldma", 
+      "text": "Las canastitas me encantaron, las empanadas no tanto, demasiado condimentadas. \r\nY las fatay son enormes, asi que las recomiendo."
+    }
+  ]
+}

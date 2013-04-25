@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "LADN", 
+      "text": "Fuimos con un cupon de descuento. habiendo pagado muy poco comimos muy bien, pedimos una pizza de salmon, con dos gasesosas y dos postres. Es salon es chico pero es muy moderno y nos atendieron muy bien, algo que en muchos lugares no es comun cuando vas con un cupon. Los postres sencillos pero abundantes y sabrosos, en especial la ensalada de fruta. Muy recomendable para ir a comer pizza a buen precio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pardodani", 
+      "text": "No conozco el sitio, he pedido delivery de pizzas y son buen\u00edsimas, adem\u00e1s atienden muy amablemente y todo el servicio es de primera. Mejor relaci\u00f3n precio-valor en pizzas. Muy recomendado!"
+    }
+  ]
+}

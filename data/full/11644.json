@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Valencia", 
+      "text": "Buena atenci\u00f3n,  ambiente bueno.  En la comida se nota la falta de experiencia, y lo nuevo del restaurante.\r\nFalta tiempo."
+    }, 
+    {
+      "date": "20 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "IR12", 
+      "text": "La carta es muy pobre, tardan mucho en atenderte y pesimo lugar para ir con nenes, solo aceptan efectivo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lfacundo", 
+      "text": "Es un rest\u00f3 que abri\u00f3 hace poco y se nota. Est\u00e1 ambientado de forma muy simple y c\u00e1lida. La atenci\u00f3n es buena, pero creo que al ser nuevo muchas cosas se est\u00e1n acomodando. El precio no m\u00e1s acorde a la zona que a la calidad de la comida. Creo que da para volver en un tiempo y ver si mejoraron."
+    }, 
+    {
+      "date": "15 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "vbrizuela", 
+      "text": "Fuimos un viernes a la noche.  El lugar es MUY lindo, est\u00e1 bien puesto.  La atenci\u00f3n era esmerada, aunque un poco forzada.  Hab\u00eda un s\u00f3lo mozo --terminaron atendiendo tambi\u00e9n el \"maitre\" y una asistente (que no parec\u00eda ser mesera).  Los platos son pocos, pero interesantes.  Yo comi un plato de vegetales muy sabroso y mi pareja comi\u00f3 dos tapas: mollejas (medio tibias) y papas bravas.  De postre compartimos un volc\u00e1n de dulce de leche, MUY rico.  La carta de vinos es muy cara y limitada.\r\nPara volver, pero probablemente durante el d\u00eda --para aprovechar los ventanales y abaratar costos."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "arq.sanzcandelaria", 
+      "text": "Es un lugar nuevo, muy bien puesto. Es como extraido de Palermo, lo cual estaba faltando por esta zona. Recurren al uso de la pizarra para la carta y los vinos (de los cuales no hay mucha variedad).\r\nMuy lindo para el desayuno o la merienda, un poco caro para almorzar o cenar."
+    }, 
+    {
+      "date": "22 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ximelamiz", 
+      "text": "Precioso Lugar cerca del rio y la comida es muy rica!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sagan", 
+      "text": "Muy lindo lugar, bien puesto con siilas y mesas de madera. Ricas opciones para almorzar, dan ganas de probar todo. Prob\u00e9 el bagel de hongos. Recomendable"
+    }, 
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "palipuli", 
+      "text": "Excelente ambien, atenci\u00f3n y la comida incre\u00edble!!!! Las entradas son variadas y los platos un manjar, Fuimos con 3 amigos y pudimos saborear varios platos, por \u00faltimo lo mejor el postre!!!! Volcan de Dulce de Leche!!!! y el Cremoso de Chocolate!!!!!!!!"
+    }, 
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Viollet-Le-Duc", 
+      "text": "Excelente alternativa en la zona. Muy buena concepcion. El volcan de dulce de leche es ESPECTACULAR.  Al nivel de de La Huella en Jose Ignacio. Vale la visita solo para probarlo."
+    }, 
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Facundo020", 
+      "text": "Nueva opci\u00f3n en Vte. L\u00f3pez. Excelente restaurante. Para recomendar el choclo, cualquiera de los shots de sopas, las costillas y el flat de verduras grilladas. Para mejorar podr\u00edan ampliar la carta de vinos que es buena pero corta. Seguro vuelvo!"
+    }, 
+    {
+      "date": "15 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "TuchoP", 
+      "text": "Una alternativa distinta en la zona! Es lo mas parecido a un restaurant de Palermo que se puede encontrar en Vicente L\u00f3pez/Olivos. Los platos son muy ricos, sobre todo los \"small-plates\" (hay que pedirse 3 por lo menos porque no son abundantes). La calidad de los alimentos es de primera. Nos encant\u00f3, a mi mujer y a m\u00ed. Volveremos!"
+    }, 
+    {
+      "date": "25 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bienquebien", 
+      "text": "Muy agradable, el servicio excelente. Una sorpresa positiva ya que en la zona norte, en especial en olivos -vte lopez no hay tantas alternativas.\r\nLa comida con buen nivel y con propuestas distintas. La carta de vino es reducida pero las opciones son buenas y con buen precio"
+    }
+  ]
+}

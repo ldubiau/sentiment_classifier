@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "13 Jul 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "germanvl", 
+      "text": "la atenci\u00f3n deja mucho que desear, la pizza no estaba muy buena, bajo mucho la calidad."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Paniaflor", 
+      "text": "L a ambientacion y decoracion del lugar es modesta y sencilla, sin lujos ni aspectos en cuanto a este que se puedan resaltar. El servicio al cliente no es muy bueno; pero se destacan las pizzas que comimos que si estaban buenas; a pesar de que no tenga mucha variedad en cuanto a comidas, bebidas y postres."
+    }
+  ]
+}

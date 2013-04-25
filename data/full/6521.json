@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "6 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jozara", 
+      "text": "la milanesa pasada en aceite, la chica que atendia hacia lo que podia pues estaba sola tardo con todo"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "clasan", 
+      "text": "Estudio en la UTN, la otra vez fuimos con unos compa\u00f1eros y se tardaron bocha en traernos una pizza y birra. Mejorar\u00eda la iluminaci\u00f3n del lugar...onda que  parece un lugar de trampa."
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "LauraLuna", 
+      "text": "Lo encontramos de casualidad caminando por ah\u00ed y entramos. Es un lugar con muy buena onda, c\u00e1lido y lindo. Tiene pizzas, empanadas y muchas minutas y esas cosas de buen precio y porciones grandes. Te atienden m\u00e1s que bien. Para ir con grupos de amigos est\u00e1 b\u00e1rbaro. Por suerte no tiene TV y hay m\u00fasica de fondo agradable, se puede charlar muy bien en un buen ambiente. Lo recomendamos!!"
+    }, 
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Julibert", 
+      "text": "Un lugar tranquilo en el cual se puede charlar , con patio incluido,techos altos, mesas y sillas de bar. La chica de muzza no nos defraudo: muy rica, la cerveza vino fria y con mani! (bravo!) la atenci\u00f3n del mozo fue correcta y no tardo casi nada.! el tiempo se paso volando porque se esta muy a gusto, para recomendar, para picar algo antes o despu\u00e9s de una salida.Vuelvo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Helen_88", 
+      "text": "Fui invitada por un grupo de amigas y fue excelente. La pizza es una delicia, tanto la clasica como la de muzzarella y las de napolitana y jamon con morrones no fallaron. Bien crocante ideal para una cerveza. Atencion de 10. Lo unico que corregiria seria la higiene de los sanitarios, ya llego un punto de la noche en la que ninguna queria ir por lo sucio que estaba. Por lo demas vuelvo segurisimo"
+    }, 
+    {
+      "date": "4 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bosca", 
+      "text": "Excelente lugar! Muy buena calidad de comida.\r\n100% Recomendable"
+    }
+  ]
+}

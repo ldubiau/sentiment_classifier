@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "11 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Pablitoo", 
+      "text": "La verdad que fuimos 3 personas, nos pedimos la picada para 4 (160$) y vino una picada apenas para dos personas. Nos quedamos sorprendidos, hicimos la observaci\u00f3n a la moza, la traslado al encargado, no paso nada. Parece que cambiaron los due\u00f1os. No volvemos m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Critico09", 
+      "text": "La comida es rica, y la variedad de cervezas es muy amplia. Medio salado ultimamente, pero vale la pena."
+    }, 
+    {
+      "date": "11 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "guill0", 
+      "text": "Fui a tomar una \"pinta\" que estaba riqu\u00ecsima, el lugar es muy agradable. Tiene al mediodia un menu ejecutivo muy accesible y de buena calidad.  A la  noche un happy hour que explota.Muy recomendable."
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "procedencia", 
+      "text": "Un lugar con mucha onda y buena m\u00fasica. est\u00e1 bueno para juntarse a charlar y tomar algo, hay happy hour y las mozas son re copadas! para volver siempre."
+    }, 
+    {
+      "date": "6 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "HoracH", 
+      "text": "Muy buen hambiente, para ir con amigos a picar algo y pasar un muy buen rato, la carta de bebidas y tragos es super completa, la caipirinha y el fernet son exelentes, altamente recomndable para un encuentro entra amigos o una exelente previa."
+    }, 
+    {
+      "date": "28 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alfred75", 
+      "text": "cene en la muy linda barra de este lugar,recomendable y la atencion del barman me parecio muy comprometida con su trabajo y la gente. Excelente variedad de cervezas y tragos."
+    }, 
+    {
+      "date": "12 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fedecuco", 
+      "text": "Un lugar digno de conocer muy acojedor y comodo.\r\nIdeal para una charla tranquila con amigos buenos sandwiches y picadas, y unico lugar por la zona con cerveza engra tirada."
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ilcomodinno", 
+      "text": "Un gran lugar para terminar la noche. \u00cdntimo y acogedor. Para ir solo o acompa\u00f1ado.\r\nGran variedad de cervezas, vinos y whiskies."
+    }, 
+    {
+      "date": "25 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Lulifastidiosa", 
+      "text": "buenisima la ensalada del cesar!!!! muy malo el filet con pure... regulares las hamburguesas de pollo, muy buenas las papas fritas!!!!, excelentes las pastas! picadas requetebuenas!!!! y las cerves muy ricas tambien! nada caro... voy seguido con amigas y es un lugarcito muy ameno... siempre la psamos bien en nuestra mesa redonda abajo de la escalera!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "calamarcapo", 
+      "text": "muy lindo lugar, mucha variedad de cervezas."
+    }, 
+    {
+      "date": "27 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elirlandes", 
+      "text": "El lugar se encuentra ambientado muy bien y lo mejor es la atencion!!! ademas de tener una amplia variedad de cervezas nacionales e importadas, como asi tambien whiskeys. el lugar invita a quedarse!!!!"
+    }, 
+    {
+      "date": "26 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mzzr", 
+      "text": "Muy buena atencion, cervezas guinness tirada muy rica, gran variedad de cervezas. 100% recomendable"
+    }
+  ]
+}

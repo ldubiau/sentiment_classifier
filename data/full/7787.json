@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "avetts", 
+      "text": "Muy buena la atencion. Eran platos elaborados y bien presentados. Gracias."
+    }, 
+    {
+      "date": "19 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "charly07", 
+      "text": "el ambiente es muy calido, muy buena la comida y la atencion es excelente"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Voy frecuentemente los domingos al mediod\u00eda. Hemos probado casi todos sus platos, de muy buena calidad,tanto los mariscos como los arroces y tambi\u00e9n las carnes. Lo recomiendo. Lugar tranquilo y gente amable."
+    }
+  ]
+}

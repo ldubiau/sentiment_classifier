@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cngongora", 
+      "text": "La atenci\u00f3n es pesima, la mesera ni siquiera salud\u00f3 para atendernos. Ped\u00ed papas fritas con un panini de berenjena y me dieron las papas heladas. Le ped\u00ed que por favor me las calentara y se las llev\u00f3 con su peor cara. Me las trajo al terminar el almuerzo y ni siquiera pid\u00f3 disculpas. Abon\u00e9 en la barra y el cajero tampoco pregunt\u00f3 que fue lo que pas\u00f3.\r\nNo lo recomiendo para nada. Hay muchos lugares en Buenos Aires en los cuales se come bien y barato."
+    }, 
+    {
+      "date": "25 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "aquaman", 
+      "text": "El servicio inexistente.Las pastas las trajeton fr\u00edas despues de 50 minutos.\r\nEl aire acondicionado no funcionaba correctamente.\r\nCon la amplia oferta de restoranes en el microcentro, no volver\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "peca1979", 
+      "text": "La ensalada ceasar altamente recomendable, y la porci\u00f3n es casi para compartir de lo abundante que es. El unico tema es que NO ACEPTAN TICKETs y est\u00e1 en una zona de oficina: PUNTO EN CONTRA.\r\nIgual, una buena opci\u00f3n para almorzar cada tanto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "clauuu", 
+      "text": "La comida muy buena. Buena relaci\u00f3n precio/calidad. Una buena opci\u00f3n en el microcentro"
+    }
+  ]
+}

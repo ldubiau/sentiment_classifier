@@ -1,0 +1,588 @@
+{
+  "malos": [
+    {
+      "date": "21 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "chechomumo", 
+      "text": "La atenci\u00f3n p\u00e9sima, muy descort\u00e9s el cajero inclu\u00edda su total desconocimiento de los productos que ofrecen. Aparte de que se debe elegir lo que se va consumir por caja y llevarlo en bandejas a alguna mesa, nos quisieron levantar de la que elegimos, con la excusa de que no est\u00e1bamos en zona de caf\u00e9 sino en el rest\u00f3... Una constante amenaza de un se\u00f1or que ni sab\u00edamos si era empleado o no, pues no ten\u00eda un uniforme que lo distinguiera.\r\n\u00a1No lo recomiendo!... mejor atenci\u00f3n hay en las cadenas de comida r\u00e1pida."
+    }, 
+    {
+      "date": "5 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Floreta", 
+      "text": "la verdad el lugar entra por los ojos. para desayunar y merendar (jugos caf\u00e9s, tes y medialunas: excelente) pero para cenar: deja mucho que desear.com\u00ed una Cesar y la lechugitas se perd\u00edan en el plato.(si quer\u00e9s esta ensalada tiene mas onda en Mc Donald)"
+    }, 
+    {
+      "date": "28 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "bastien", 
+      "text": "fui a comer con 3 amigos, y nos sentamos fuera. la ubicacion y la vista que tiene este lugar es lo mejor y unico destacable. pesimo el servicio de los mozos. no tenian mas cartas por lo que nos trajeron dos en espa\u00f1ol y dos en ingles.  todos pedimos sandwiches, todos eran desabridos. cero sabor. el peor pisco sour ever!!  caro, los vinos, y los platos en relacion a la calidad. en dos palabras: pretentious & overpriced. no se puede tener un lugar en pleno puerto madero, con una ubicacion privilegiadissima y escatimar en materia prima y formacion del personal. una grasada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elgabo5002", 
+      "text": "El lugar est\u00e1 muy bien ubicado, con una excelente vista de Pto. Madero, desde \"el otro lado\". Bueno, eso es lo mejor del restaurante, ya que los platos no salen de lo com\u00fan (el gigot no lo recomiendo, ya que el corte seleccionado ten\u00eda bastante grasa) y la carta, corta-buena-cara. l postre, bien, un mil hojas de pera bien rico !"
+    }, 
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Uno de los pocos lugares que sigue estando y que mantiene la carta y la calidad de lo que brinda.\r\nMuy bien ambientado, bien atendido y muy buenas opciones para almorzar y cenar. Precios promedio. Ideal para despu\u00e9s del teatro o del Luna. Volveremos siempre que estemos cerca."
+    }, 
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ing_santillan", 
+      "text": "Muy buen lugar para ir en pareja con comida de buena calidad a un precio muy acomodado."
+    }, 
+    {
+      "date": "9 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Moniceci", 
+      "text": "fuimos con mi pareja y mi bebe en cochecito ...llegamos y estuvimos media hora para que nos dieran una mesa, si bien habia mesas vacias no tenian vajillas . La  atencion no fue muy buena porque estaban desbordados y habian faltado dos mozos. La comida pedimos de entrada rabas muy ricas y frescas pero el plato era pobre si tenia 15 rabas era  mucho. De plato principal pedimos arroz con cordero muy sabroso de sabor pero solo tenia 2 pedazos y ademas \u00f1oqis de calabaza con salsa de salvia y queso brie, eso estaba muy rico. en  total gastamos sin postre 253."
+    }, 
+    {
+      "date": "17 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "juabid", 
+      "text": "Fuimos en pareja a almorzar, el dia del Padre, el menu $180 no resulto muy variado, la comida sofisticada adaptada a cultores de la comida de autor, mucho mascarpone y pistachio, porciones dieteticas, pate en una cucharita de cafe ! ! y precios para turistas. Bien el entorno, correcta la atencion, no volveria. Muy para la farandula politica"
+    }, 
+    {
+      "date": "12 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Boopy", 
+      "text": "Excelente ambientaci\u00f3n!! Tiene una est\u00e9tica moderna e internacional!! La comida fue muy rica y la atenci\u00f3n fue muy buena! Los precios un poco caros, se  paga m\u00e1s por la ubicaci\u00f3n que por la comida en s\u00ed."
+    }, 
+    {
+      "date": "30 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "gborau", 
+      "text": "volvimos! porque la verdad el lugar es agradable, tiene una vista genial... y para los fines de semana, es ideal! =)\r\nSiempre hay mucha gente, por lo que hay demora, pero la verdad se esmeran por atender a todos lo mas r\u00e1pido posible.\r\nLa \u00fanica cr\u00edtica es que no es muy sabrosa la comida... :S"
+    }, 
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maryflower", 
+      "text": "fui a la tardecita y el lugar esta muy bueno. bien moderno, genial la ubicacion. lastima que ese dia hacia calor para estar afuera ahi al lado del agua, pero el lugar esta bueno. l apasteleria es rica. eso si, es un poco caro para lo que son las porciones, pero bueno,la zona lo amerita.\r\ntiene muchos licuaods"
+    }, 
+    {
+      "date": "18 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "mariadebarracas", 
+      "text": "Estuvimos 4 personas un domingo 7.30 pm.  No fuimos bien atendidos, tampoco bien asesorados"
+    }, 
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "gborau", 
+      "text": "La verdad es un lindo lugar, grato para estar. La comida no es compleja ni tampoco destacable, pero es econ\u00f3mico y pr\u00e1ctico. La gente es muy amable para antender. Recomendable sin grandes pretenciones."
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "deborani", 
+      "text": "Le puse muy bueno de calificaci\u00f3n a la comida porque el men\u00fa viene con DOS BOCHAS de helado que son riqu\u00edsimas. Creo que eso hace que valga la pena. Sale 55 el men\u00fa que viene con un plato (si es sandwich o ensalada, sale 50), bebida y postre. La atenci\u00f3n es muy mala. Las chicas son descorteses y parecen siempre en apuro como en un McDonald's. Los ravioles de calabaza con salsa parisienne estaban ricos."
+    }, 
+    {
+      "date": "9 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El lugar me encanta y para el mediod\u00eda ofrece dos opciones: un servicio r\u00e1pido para pasar con caja con la bandejita o el sal\u00f3n para comer a la carta atendido por mozos. El sandwich de salm\u00f3n y queso blanco es buen\u00edsimo y aunque no com\u00ed postre nos dieron como cortes\u00eda una minicopita de mouse de dulce de leche y brownie que me pareci\u00f3 espectacular. Muy bien"
+    }, 
+    {
+      "date": "9 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "VOLTA", 
+      "text": "Fuimos a tomar un cafe y a comer una especie de vainilla con chocolate o que se yo, ellos lo llaman opera conclucion 2 cafes  y eso $ 46, ni pase por el bazar de ellos adelante del salon para que !!!!! Si no tenia las balas encima"
+    }, 
+    {
+      "date": "17 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ezefe", 
+      "text": "Un mediod\u00eda de sol en cualquier lugar de Puerto Madero hay que tener mucha mala suerte para pasarla mal. Dicho esto, el valor agregado de este restaurante reside en una excelente propuesta gastron\u00f3mica para un domingo primaveral. Esas mollejas? P\u00eddanlas. Despu\u00e9s me cuentan. Por lo dem\u00e1s, bien, con lo justo. Eso s\u00ed, al mercado de bazar ni se asomen si no quieren experimentar la sensaci\u00f3n de asalto cool & chic a mano desarmada? gordo!"
+    }, 
+    {
+      "date": "28 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fer4470", 
+      "text": "Voy muy seguido al mediodia y la verdad me parece muy bueno todo. El lugar, la ambientacion y los productos que venden son todos de buen nivel. La verdad es un lugar que est\u00e1 bien mantenido y tiene detalles de calidad hasta en los ba\u00f1os. La carta es corta y despues de algunas visitas te cansa. Buenas tartas y ensaladas para el mediodia mirando los yatches. Altamente recomendado el lugar."
+    }, 
+    {
+      "date": "26 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Un lugar muy original, con una vista increible. Por un lado esta el rest\u00f3 y tambi\u00e9n tiene un mercado, venden art de decoraci\u00f3n, flores, y hay un bar o rest\u00f3 informal."
+    }, 
+    {
+      "date": "22 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Nos encanta volver a Central Market, almorzar junto al canal tiene valor agregado, el servicio es atento, la comida es rica aunque cambiaron el men\u00fa y mi impresi\u00f3n es que hay menos opciones, por ejemplo no encuentro ning\u00fan postre que me atraiga pero en conjunto es una experiencia grata. No es barato, es promedio para este tipo de restaurantes. Las cosas que venden, comestibles y de bazar son un placer adicional."
+    }, 
+    {
+      "date": "4 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "leokohan", 
+      "text": "El lugar es lindo aunque las mesas son m\u00e1s bonitas que c\u00f3modas y la comida cumple las expectativas. Sin embargo la p\u00e9sima atenci\u00f3n hace de la experiencia un momento poco grato. Los mozos se pelean entre ellos y con los clientes a los gritos"
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "BeluC", 
+      "text": "El lugar es muy agradable y la comida con buenos ingredientes y muy buena elaboraci\u00f3n. Lamentablemente la p\u00e9sima atenci\u00f3n tira todo lo bueno por la borda. Tuve que pedir 3 veces cambio de vajilla, las tes veces parec\u00eda sucia, sin pedir disculpas y con muy mala predisposici\u00f3n. La situaci\u00f3n nos arrui\u00f3 el momento, ni los camareros ni los encargados entienden nada de \"buen servicio\"...es una l\u00e1stima, no vuelvo m\u00e1s y no recomiendo."
+    }, 
+    {
+      "date": "5 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Nykyta", 
+      "text": "La atenci\u00f3n es muy buena, el lugar exelente y la comida llena de sabores.... abundan las  combinaciones de especias y el buen gusto por el detalle.... ideal para disfrutar un d\u00eda de semana o una tarde de domingo...Recoemdable 100%"
+    }, 
+    {
+      "date": "18 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Muy buena cena en un lugar con una ambiente maravilloso y vista al r\u00edo como ingredientes fundamentales para disfrutar una noche fant\u00e1stica con amigos o en pareja."
+    }, 
+    {
+      "date": "16 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mili1416", 
+      "text": "Hemos ido con mi pareja y la comida nos parecio buena aunque peque\u00f1as porciones, el concepto de elite se echa por tierra en ese lugar ambicio y frio ya que los encargados no corresponden a lo que seria un lugar de esa talla ya que los hemos visto maltratando a los mozos adelante de los clientes y no tienen tacto, no lo recomiendo aunque el mozo nos atendio bien y simpatico"
+    }, 
+    {
+      "date": "30 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ac2012", 
+      "text": "Lo mejor de este restaurante es la ubicacion y su ambientacion, la limpieza y la composicion de la carta es muy buena. Lamentablemente el servicio es malo, rudo en ocaciones. Quisimos sacar una foto de la presentacion de la manteca que nos trajeron y cdo  vieron nuestra intencion la retiraron inmediatamente. Tampoco nos permitiron tomar fotos de la sala.Increible. Deberian cpomprendeer que si abren un restaurante este sera un lugar publico para admirar, sin restricciones. Nos hicieron sentir incomodos. Nunca nos paso eso en los muchos restaurantes del mundo que hemos visitado. No lo recomend."
+    }, 
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Clauscar", 
+      "text": "El ambiente es excelente, por la decoracion, la vista de la ciudad y la combinacion de restaurant y mercado. La comida es muy buena como asi tambien la atencion. Muy buenas caipirinhas. Una buena opocion."
+    }, 
+    {
+      "date": "12 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "natig", 
+      "text": "La ambientaci\u00f3n del lugar es muy buena, combinaci\u00f3n de restaurante y mercado (muy neoyorquino). Sin embargo tuve la oportunidad de ir en dos ocasiones, y puedo confirmar que el servicio es de lo peor que vi en mi vida.\r\nLos mozos \"modelos\" son p\u00e9simos, realmente infradotados.\r\nUna pena ya que mejorando este aspecto el lugar ser\u00eda super recomendable."
+    }, 
+    {
+      "date": "12 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Rafinhaaa", 
+      "text": "Excelente ambiente y ubicaci\u00f3n, por las mesas a la vista del \"r\u00edo\" y el interior que es una fusion de bazar y resto. La comida normal, no se destaca por la cocina en especifico, el ambiente ayuda a que la comida sea mas gustosa. En cuanto al servicio, los mozos muy amables explicando cada plato, pero me ofrecieron una mesa con migas de pan en la silla, eso resto puntos."
+    }, 
+    {
+      "date": "15 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Verin", 
+      "text": "Excelente ubicaci\u00f3n y ambientaci\u00f3n.\r\nLa comida es muy buena, las porciones en su tama\u00f1o justo.\r\nLa vajilla muy original, as\u00ed como tambi\u00e8n la forma en la que sirven algunos platos.\r\nEn mi caso particular ped\u00ed de entrada una tortilla de papas y cuando vi c\u00f3mo la hab\u00ecan dispuesto en el plato me caus\u00f2 una agradable sorpresa.\r\nUn lugar para comer de forma diferente.\r\nLa atenci\u00f2n fue buena."
+    }, 
+    {
+      "date": "16 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JuanML", 
+      "text": "Es la primera vez que vamos a comer y fuimos por recomendaci\u00f3n. El lugar tiene una vista privilegiada y el ambiente es muy c\u00f3modo. La comida es muy buena, las entradas tanto como los principales son abundantes. Tiene una carta de vinos no muy extensa y est\u00e1 la opci\u00f3n de vinos por copa. Fuimos un lunes por la noche y hab\u00edan en total cinco mesas ocupadas y el tiempo de demora fue excesivo para el postre esperamos 45 minutos exactos, el tiempo valio la pena estaba muy rico. Creo que quizas los tiempos son cosas a corregir y no se como ser\u00e1 el servicio cuando hayan muchos comensales."
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "rudolf", 
+      "text": "Hace un a\u00f1o, cuando recien inauguraban, fui a cenar y el servicio fue un desastre. Recientemente volvi a intentar al mediodia, con una simple ensalada, un postre y un caf\u00e9. Los mozos se siguen enredando entre ellos y no son capaces de manejar el flujo de un simple almuerzo. Es una pena porque el lugar y el ambiente  es sencillamente espectacular."
+    }, 
+    {
+      "date": "6 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "muy buena opcion igual que su hermano i fresh market, excelente ambiente con variadas opciones de comodidad, carta acorde un poco reducida pero de platos muy bien calificados y armados. servicio atento, lugar calido y buenas ensaladas. para ir no mas de 4 y comer platos livianos, con opcion de cafe y ubicacion inmejorables."
+    }, 
+    {
+      "date": "4 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Un lugar para el recreo visual,tanto su arquitectura como su vista al r\u00edo,  con  objetos para vender del mas esmerado dise\u00f1o, la comida exquisita con productos de primera calidad, la presentaci\u00f3n sumamente cuidada, muy buen servicio, la tarteleta abundante en frambuesas en su justa acidez, un manjar. Para seguir visit\u00e1ndolo y recomendarlo."
+    }, 
+    {
+      "date": "27 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Lugar super lindo, con cosas lindas para comprar o mirar, linda vista, lindo el sector caf\u00e9, pasarela de v\u00e9rtigo, transparente no apta para despues de tragos, muy lindo el sector restaurante, todo muy bien puesto. Servicio eficiente, comida rica, precios no baratos pero si pueden vale para darse el gusto. Cosas ricas para comprar y llevar. Volver\u00e9 para un brunch."
+    }, 
+    {
+      "date": "27 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "meibe", 
+      "text": "Lugar muy agradable, entretenido, tiene un bazar que exhibe productos de muy buena calidad y dise\u00f1o que aporta al ambiente un aire descontracturado. La decoraci\u00f3n interior es acorde al dise\u00f1o vanguardista y tiene una hermosa explanada al rio que invita a sentarse en las noches calurosas. La comida es muy rica,variada, bien presentada, los platos son abundantes y aunque no soy amante de los postres se los veia exquisitos, muy tentadores. Solo una  critica: la margarita era solo hielo escarchado, mas para comer que para tomar. De cualquier manera el lugar es altamente recomendable"
+    }, 
+    {
+      "date": "27 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "@guynevo", 
+      "text": "El ambiente es muy bueno, la comida esta bien pero nunca tuve que esperar tanto para comer.\r\nCreo que la panera llego despu\u00e9s de media hora. Los mozos \"fashion\" sin experiencia no logran atender bien y el lugar no estaba lleno, se trata de pura ineficiencia."
+    }, 
+    {
+      "date": "22 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Astarte", 
+      "text": "Lindo el mercado, lindos los espacios para almorzar, cenar, merendar y desayunar (son 3: el comedor propiamente, un peque\u00f1o espacio tipo living y un sector de banquitos). Lindo el ba\u00f1o. Un lugar placentero para ir y quedarse un buen rato. Adem\u00e1s la calidad de los productos es de primera. Los precios son algo altos, pero vale la pena, teniendo en cuenta no solo el lugar sino el barrio. Muy recomendable. Para mi ya es un cl\u00e1sico."
+    }, 
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "AMESA", 
+      "text": "Este restaurante, panadaer\u00eda, fiambrer\u00eda, almacen, tienda de regalos, salon de t\u00e9 y cafeter\u00eda, todo en un solo local y con una puesta impecable, est\u00e1 localizado en el medio de un oasis de Puerto Madero, vale la pena ser visitado y revisitado. Ofrece muy buena comida y atenci\u00f3n. Para m\u00ed gusto un sitio muy recomendable!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Maruberman", 
+      "text": "Super super super!!!!!!!! excelentee!!!"
+    }, 
+    {
+      "date": "12 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MarcosBengochea", 
+      "text": "Ir a I Central Market es como estar de vacaciones sin salir de casa, me encanta!"
+    }, 
+    {
+      "date": "6 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "danirri", 
+      "text": "Suelo ir a almorzar, ya que trabajo muy cerca. La atencion es muy buena, la comida es variada y de calidad, buenisima!!! y los precios algo elevados. Pero la relacion precio/calidad da perfectamente. Recomiendo la entrada de burrata."
+    }, 
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "flaneurgolosa", 
+      "text": "es tan lindo como el otro, y tiene de todo!!! para sentirse de fiesta y muy agasajada!!"
+    }, 
+    {
+      "date": "24 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Meibel19", 
+      "text": "es el restaurant preferido tanto mio como de mi familia. Es el lugar que elegimos para celebrar acontecimientos \u00edntimos e importantes y para llevar a la gente que viene del exterior a visitarnos sabiendo que siempre quedamos bien con ellos. La comida riqu\u00edsima y la atenci\u00f3n excelente en una ubicaci\u00f3n de preferencia."
+    }, 
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "clushi", 
+      "text": "es como estar de vacaciones...... comiendo o tomando un vaso de vino frente al agua...."
+    }, 
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "noarro", 
+      "text": "es un lugar ameno, espectacular para comer con amigos, disfrutando de un ambiente barbaro al lado del rio. para mi si vas a Puerto madero, es un lugar imprescindible para comer, merendar o tomar un cafe"
+    }, 
+    {
+      "date": "16 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Morano", 
+      "text": "Es mi restaurante favorito de Buenos Aires. Lo descubr\u00ed hace tres a\u00f1os y no paramos de ir. Est\u00e1 en el barrio Puerto Madero el \u00fanico lugar de Argentina donde pod\u00e9s caminar sin tener miedo de q te afanen. En Central Market SIEMPRE comemos de maravillas, como en ning\u00fan lado. Y SIEMPRE nos atienden fabulosamente. De verdad lo recomiendo porque todo es impresionante, las pastas, el salm\u00f3n, los jugos con menta, con jengibre. No tiene una sola cosa en contra. Es caro, pero vale cada uno de los centavos."
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tdavison", 
+      "text": "Muy rica la comda, pero floja la atencion. Una lastima"
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Teresa de Palermo", 
+      "text": "la verdad que me encanta el lugar.. siempre voy a cenar aunque desafortunadamente la ultima vez fu\u00ed a tomar el t\u00e9 con amigas y la atenci\u00f3n fu\u00e9 desagradable ya que un camarero llamado Gonzalo nos atendi\u00f3 a mi y a mis amigas de forma altanera y descort\u00e9z . una l\u00e1stima que no cuiden el detalle de la atenci\u00f3n a los clientes ya que nunca me pas\u00f3 en ningun lugar. inclusive durante la noche sol\u00edamos ir a cenar con mi marido y la atenci\u00f3n siempre fue \u00f3ptima, gracias por dejarme contar mi experiencia. y los felicito porque esta gu\u00eda que es excepcional!!"
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lulanza", 
+      "text": "El lugar es muy lindo y bien atendido. El carpaccio de langostino de entrada, imperdible. Despus comimos trucha y salmon, muy ricos."
+    }, 
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "misolmi", 
+      "text": "Un lugar precioso, para pasar un momento tranquilo y agradable. La comida es muy buena y bastante elaborada, en especial los postres, cuya presentaci\u00f3n es casi art\u00edstica. La ambientaci\u00f3n est\u00e1 muy bien pensada, c\u00f3moda e intimista, y la atenci\u00f3n es buena. Lo recomiendo para compartir un momento especial con una pareja o en familia."
+    }, 
+    {
+      "date": "2 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "noexijomucho", 
+      "text": "Almorc\u00e9 con mi familia, nos sentamos en una de las mesas de la vereda. La atenci\u00f3n fue buena y muy presente. La comida tan buena como bien presentada y para nada escasa. Lo recomiendo para ir en familia."
+    }, 
+    {
+      "date": "6 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GoodTaste", 
+      "text": "El rest\u00f3 congraciado con el ambiente exterior. Excelente la propuesta de combinar almac\u00e9n y restaurante. Los platos muy bien preparados. Todo bien presentado, hasta sus mini toallitas."
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ooLuzzoo", 
+      "text": "La comida es excelente, realmente se puede disfrutar de un buen momento."
+    }, 
+    {
+      "date": "18 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Morano", 
+      "text": "Les recomiendo este restaurante. Mi marido y yo vamos siempre, casi todos los s\u00e1bados y siempre que podemos. Vale la pena cada peso de este lugar: es agradable el clima, la decoraci\u00f3n exquisita y se prueban sabores gourmet que nunca probaste en tu vida. Los platos son delicad\u00edsimos, la atenci\u00f3n destacable, excelente; siempre cambian los platos: no aburren jam\u00e1s. Nosotros hace tiempo que vamos y jam\u00e1s la pasamos mal, jamas estuvimos en desacerdo con nada. Excelente para gente en plena etapa de enamoramiento. Si van, no se pierdan los ba\u00f1os!"
+    }, 
+    {
+      "date": "4 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Un lugar excelente, para ir a toda hora y disfrutar de un ambiente fant\u00e1stico, decorado a la perfecci\u00f3n con sumo cuidado hasta el m\u00e1s m\u00ednimo detalle y con una vista del r\u00edo privilegiada en el verano porte\u00f1o. El sandwich de salm\u00f3n para un almuerzo distendido es sublime por lo fresco y exquisito, y ni hablar del caf\u00e9 con las maravillosas tarteletas de choco para darse el gustito de algo dulce como fin de fiesta. Me encant\u00f3 como para volver y repetir!"
+    }, 
+    {
+      "date": "26 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marianita78", 
+      "text": "La comida es exquisita y el lugar, una propuesta muy original. El bazar y el almacen estan a la altura del restaurante. Muy recomendable."
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juliape", 
+      "text": "muy buena carta muy buenos productos frescos muy buena atencion,con sopa de regalo\r\nel ba\u00f1o impecable\r\ny hay mantitas para taparse. \r\nlindo para un almuerzo a la orilla"
+    }
+  ]
+}

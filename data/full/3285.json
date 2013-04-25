@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "28 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "nuchi", 
+      "text": "Un lugar agradable, buena la carne, atento el camarero. Sin pretensiones pero recomendable"
+    }, 
+    {
+      "date": "27 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Buena opci\u00f3n de parrillita econ\u00f3mica pero cumplidora, con servicio r\u00e1pido y eficiente. Nada extraordinario pero agradable"
+    }, 
+    {
+      "date": "3 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "TeteYsuGrupo", 
+      "text": "Las carnes y las achuras estuvieron muy bien. El lugar es peque\u00f1o pero afuera se puede comer tambien ya que esta calefaccionado. La carta de postres es muy corta. El lugar esta bueno pero no volveria."
+    }, 
+    {
+      "date": "4 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fedepera", 
+      "text": "Excelente provoleta, matambrito, y bondiola. Muy buenas ensaladas y pastas ricas con salsas originales. Excelente atenci\u00f3n y por sus due\u00f1os que se acercan cada tanto a la mesa. \r\nMuy rica la copa 3 chocolates y muy buen caf\u00e9. Mucha gente pero se encargan de acomodarte r\u00e1pido. Porciones muy abundantes! Excelente. Vuelvo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pekerman2", 
+      "text": "Muy buen lugar, exelente comida y atencion. para recomendar"
+    }, 
+    {
+      "date": "15 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "evaristosalinas", 
+      "text": "Comida muy buena, parrilla exelente, atenci\u00f3n exelente. Trato amigable. Buena relaci\u00f3n precio-calidad. Un lugar con mucha onda!"
+    }, 
+    {
+      "date": "3 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "julyn", 
+      "text": "Muy c\u00e1lido, muy agradable todo el personal, un poco chico el lugar pero muy bien decorado, con gusto y acojedor, mesas afuera para fumadores y d\u00edas de calor o frio (hay tubos de calor afuera). Linda barra de tragos, excelente musica ambient. Muy recomendable sobre todo la parrilla con carne de reconocida marca y calidad. Tambi\u00e9n las papas bravas y la provoleta \"el bompland\"."
+    }, 
+    {
+      "date": "16 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "daiken", 
+      "text": "La comida es excelente, al igual que la atencion. El lugar es peque\u00f1o por lo que puede resultar molesto el paso constante de otros comensales asi como de los mozos."
+    }
+  ]
+}

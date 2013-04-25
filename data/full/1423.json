@@ -1,0 +1,34 @@
+{
+  "excelentes": [
+    {
+      "date": "28 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "salamema", 
+      "text": "Muy familiar, c\u00e1lido, recomendado."
+    }, 
+    {
+      "date": "12 Feb 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "acapella", 
+      "text": "Muy bueno todo en general"
+    }, 
+    {
+      "date": "3 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "zatara", 
+      "text": "muy buena atencion y carne"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cacho1946", 
+      "text": "Ya concurri varias veces, excelente comida y servicio, buen precio y calidad, es para pasar un buen momento con amigos y o familia."
+    }, 
+    {
+      "date": "15 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mendizabal", 
+      "text": "Un lugar que he redescubierto en la ciudad de La Plata.Un club, ambiente familiar, buena atenci\u00f3n, y una carta muy extensa.Carnes, pollos, pescados y mariscos.Buena relaci\u00f3n precio-calidad.Interesante opci\u00f3n, ante la alica\u00edda gastronom\u00eda platense."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cesarcampos", 
+      "text": "Realmente excelente comida. Fuimos en pareja a conocer el lugar y quedamos muy satisfechos. La comida de diez. R\u00e1pido, a punto y de buena calidad. Tanto de materia prima como de cocina. Pedimos una milanesa con papas fritas (ENORME LA PORCI\u00d3N) y una bondiola a la crema de verdeo con papas noisette que era una delicia. La bondiola hecha a la parrilla y la crema (con manteca)  era suave pero muy sabrosa. El ambiente no es de lo mejor. Simple, sin nada elaborado pero todo limpio. Mesas y sillas de madera sencilla. La atenci\u00f3n fue cordial, el mozo ven\u00eda r\u00e1pido y con buena predisposici\u00f3n."
+    }, 
+    {
+      "date": "15 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lucila_ph", 
+      "text": "Los platos estaban impecables, muy abundantes y con guarnicion. El pacu con salsa de puerros(de las mas ricas que he probado) traia la salsa en una salsera, cosa que me parecio interesante, no venia el pacu nadando en crema, sino que se podia apreciar la calidad del pescado y/o la salsa. El pulpo era muy abundante, bien preparado. Los postres son como para compartir. La atencion muy buena. Los precios son muy acomodados. La carta es muy variada. Un hallazgo en La Plata!"
+    }
+  ]
+}

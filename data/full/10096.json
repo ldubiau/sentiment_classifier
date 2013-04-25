@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "2 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sonrisadigital", 
+      "text": "Un desastre. la comida lleg\u00f3 helada, las porciones muy chicas, la atenci\u00f3n p\u00e9sima. hab\u00eda 1 s\u00f3lo mozo para todo el lugar, la mesa estaba sucia. tardaron 20' en atendernos, 15' en traer la cuenta y por lo menos 10' en traernos el vuelto. t\u00edpico lugar para turistas donde se come mal y se cobra caro. no s\u00f3lo no vuelvo, sino que desaliento a que otras personas vayan."
+    }, 
+    {
+      "date": "4 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ccaire", 
+      "text": "muy mala atenci\u00f3n (pedimos 4 veces una gaseosa y nadie la trajo).\r\nla comida llego fria a la mesa, nos siervieron a 3 de los 4 que fuimos, y al ultimo con una diferencia de 15 minutos, las porciones muy peque\u00f1as, y los precios nada acordes a todo esto que mencione. era tal el maltrato que recibimos que estabamos apurados para irnos. eso si, que te traigan la cuenta demora mas o menos 20 minutos,"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "justiciero75", 
+      "text": "fuimos 6 personas, fui con un desc del 40% de club la nacion. Puntos a favor: El lugar es lindo, la atencion esta bien, el precio (pensando q me aplicaron el 40%). Nos regalaron un vino y 2 cafes. En contra: Las porciones de la comida son chicas. Tardaron 1 hora entre que pedimos la comida y la trajeron.\r\nIgualmente le voy a dar otra oportunidad porque a pesar de que tardaron mucho, nos regalaron el vino y cafe por eso asi que creo que merecen una segunda oportunidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lau2ra", 
+      "text": "Me encant\u00f3 el lugar, la comida es riqu\u00edsima y la atenci\u00f3n es MUY buena"
+    }
+  ]
+}

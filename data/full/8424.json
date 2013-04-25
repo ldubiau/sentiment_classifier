@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Es un lugar muy agradable, especialmente para disfrutar de los shows en una atm\u00f3sfera c\u00e1lida y divertida en donde la comida es un acompa\u00f1amiento que complementa bien la propouesta art\u00edstica sin ser la atracci\u00f3n central"
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alonso26", 
+      "text": "Muy buena opci\u00f3n en la zona para pasar un rato muy agradable en un ambiente muy c\u00e1lido. La comida es casera, est\u00e1 reci\u00e9n hecha con materia prima de muy buena calidad. El servicio es muy c\u00e1lido y atento sin estridencias. Ped\u00ed la bondiola tal cual la ped\u00ed, perfecta. El pan casero, riqu\u00edsimo. La pasta, tambi\u00e9n casera, muy fresca y sabrosa.\r\nVolver\u00e9, la pas\u00e9 muy bien."
+    }, 
+    {
+      "date": "25 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jjjjjjjj", 
+      "text": "Un lugar muy agradable, para pasar un buen rato y despu\u00e9s ver alguna buena obra de teatro o escuchar buena m\u00fasica. Altamente recomendable"
+    }, 
+    {
+      "date": "8 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "carovittor", 
+      "text": "La comida es s\u00faper casera y muy fresca. Se nota que la preparan en el momento (mi esposo pidi\u00f3 la bondiola jugosa y se la trajeron tal cual la pidi\u00f3). El ambiente es c\u00e1lido y la iluminaci\u00f3n est\u00e1 buena. Tiene buena relaci\u00f3n precio/calidad especialmente para los est\u00e1ndares del barrio. El mozo que nos atendi\u00f3 es muy copado y muy atento."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Wenn", 
+      "text": "Comida reci\u00e9n hecha, sabores originales y buena m\u00fasica. Para no perd\u00e9rselo."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "13 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Mariansolcito", 
+      "text": "Realmente una p\u00e9sima atenci\u00f3n. No hab\u00eda nadie en el lugar y tardaron 50 minutos por reloj para traernos la comida. Cuando por fin lleg\u00f3 la sorpresa fue terrible, a los dos Arrollados de Filet acompa\u00f1ados con papas les faltaba cocci\u00f3n. Las papas estaban duras y parec\u00edan recalentadas. \r\nCuando planteamos el problema fueron solo excusas y ni siquiera nos dieron una disculpa. Realmente muy muy malo. Sin duda no volveremos m\u00e1s y sugiero que tampoco lo hagan."
+    }, 
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ramonita", 
+      "text": "Un verdadero desastre: mala calidad de las carnes y achuras, mala cocci\u00f3n (dudo que sea al carb\u00f3n). ni adrede se puede preparar tan mal.no tienen ni idea o no les importa servir un plato decente. es buen lugar para los que estan a dieta, no com\u00e9s nada porque todo es incomible."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Restaurant tradicional sin lujos no nada especial para destacar en una carta extensa. Buena atenci\u00f3n de parte de los mozos pero algo lenta en la preparaci\u00f3n. Ambiente sencillo y tranquilo."
+    }
+  ]
+}

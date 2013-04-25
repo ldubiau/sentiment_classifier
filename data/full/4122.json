@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "24 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pase", 
+      "text": "He tenido la posibilidad de ir en varias oportunidades y realmente tuve una excelente antenci\u00f3n en todas ellas. Quiz\u00e1s mejorar\u00eda la ambientaci\u00f3n porque me parece demasiado luminoso.\r\nRespecto a la comida mejor\u00f3 much\u00edsimo desde que el nuevo cheff se hizo cargo sobre todo en los platos de pescados y mariscos.\r\nLos precios son acordes y hasta dir\u00eda por debajo de la media de los restaurantes de la zona."
+    }, 
+    {
+      "date": "22 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Madbit", 
+      "text": "Muy pobre ambiente, de mal gusto. El menu est\u00e1 muy bien, pero los precios me parecen un poco elevados por lo que ofrecen."
+    }, 
+    {
+      "date": "22 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Eva_M", 
+      "text": "sinceramente feo. sillas de ca\u00f1o, el arte parece de infantes (el poco arte que hay) y los precios por el techo. no lo recomiendo en lo absoluto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lcj1977", 
+      "text": "el lugar bien tranquilo con una musica de fondo agradable, el mozo muy gentil y atento, y la comida rica por demas, sobretodo con un precio muy acorde. recomiendo y volvere."
+    }, 
+    {
+      "date": "23 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "luchi5", 
+      "text": "me parece excelente la comida y muy acorde con los precios, la atencion me parecio dedicada y el ambiente deberia ser con menos luz, para crear un ambiente mas tranquilo y calido. La higiene es excelente, los tragos y las tapas son execelentes tambien"
+    }, 
+    {
+      "date": "23 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "flopy21", 
+      "text": "Yo fu\u00ed al resto ayer y no concuerdo con muchos de los comentarios maliciosos y malintencionados anteriores, la comida es riqu\u00edsima y de buena calidad, el servicio lleg\u00f3 a la mesa r\u00e1pido con una atenci\u00f3n de los mozos muy amable y simp\u00e1tica, respecto del ambiente me pareci\u00f3 lindo, fino y la limpieza extraordinaria, si le podr\u00edan agregar algunos cuadros, los precios acorde a la calidad recibida. Lo recomiendo. Volver\u00e9."
+    }
+  ]
+}

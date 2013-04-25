@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Guybrush", 
+      "text": "La comida no se parece en nada a la mexicana. Las tortillas son las \"Rapiditas\" de Bimbo. La m\u00fasica que pasan en el lugar no favorece a la atm\u00f3sfera. No lo recomiendo ni volver\u00e9 a ir."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "izzy", 
+      "text": "Era un dia fr\u00eco y dentro estaba mas frio que afuera, igual que la comida....el sabor rico."
+    }, 
+    {
+      "date": "13 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "tnh74", 
+      "text": "La comida esta bien, no es el mejor restaurante mexicano, pero es rica y tipica del pais.\r\nLos mozos le pusieron mucha onda y no fue caro.\r\nEs poco reducida la carta de platos a mi gusto.\r\nPara ir y conocer esta bien."
+    }, 
+    {
+      "date": "1 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gianellita", 
+      "text": "Una muy buena opcion por esta zona, altamente recomendable!\r\nBuena atencion, comida sabrosa, buena musica, ambiente mas que agradable."
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Kepi", 
+      "text": "muy rico el postre del d\u00eda! el ambiente c\u00e1lido y agradable. buena opci\u00f3n para comer algo distinto."
+    }, 
+    {
+      "date": "29 Abr 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "vamosaver", 
+      "text": "si perdura en el tiempo tendra que mejorar la comida"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Caluguis", 
+      "text": "Aut\u00e9ntica comida mexicana! Una muy buena opci\u00f3n para salir a cenar en San Fernando y probar sabores distintos. Muy ricos los tacos dorados!"
+    }, 
+    {
+      "date": "23 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Seba1212", 
+      "text": "Muy buena la atenci\u00f3n, la calidad de comida, la m\u00fasica mexicana y la onda del lugar y los mozos"
+    }, 
+    {
+      "date": "20 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "matiasn", 
+      "text": "Pasmos una velada agradable.\r\nEs un lugar at\u00edpico para la zona de san fernando.\r\nLo recomiendo altamente"
+    }, 
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Debet", 
+      "text": "Muy buena la comida, bien servida, la atenci\u00f3n cordial y el lugar bien ambientado y tranquilo. Un buen lugar para comer platos mexicanos en Buenos Aires."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "PechiyDipa", 
+      "text": "Un recomendado quilme\u00f1o del que me esperaba mas. Ojo, es rico, fuimos un mi\u00e9rcoles y el lugar se llen\u00f3, as\u00ed que la aceptaci\u00f3n general es obvia. Comimos una entrada rica, una ensalada con r\u00facula y peras. Ambos pedimos carnes agridulces, dos platos diferentes pero que al verlos parec\u00edan iguales. La carne era buena, pero las salsas no estaban sabrosas, una ya pasaba al l\u00edmite de empalagosa. La moza evidentemente no disfrutaba de su trabajo, pero el ambiente es interesante. Precios normales. Para pasar una noche mas, podr\u00edamos darle otra oportunidad."
+    }, 
+    {
+      "date": "10 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "patricio_rey", 
+      "text": "las mesas muy encimadas, es mala la ac\u00fastica (mucho ruido) y la comida es bastante b\u00e1sica."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "petycienta", 
+      "text": "No me deslumbro, pero tanto la atencion como la comida es buena. Lo queme paece si, fastidioso para el comensal es que las mesas que estan en la entrada tienen que tener encima la gente que espera su mesa."
+    }, 
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pvernocchi", 
+      "text": "Es un restaurant donde se puede ir seguido, precios accesibles con platos abundantes y ricos.\r\n\r\nLa ambientaci\u00f3n es buena, aunque las mesas est\u00e1n muy pegadas unas con otras."
+    }, 
+    {
+      "date": "30 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maruchaf", 
+      "text": "Vamos siempre, muy buena la variedad de platos y siempre est\u00e1n riqu\u00edsimos. Muy recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MauroVega", 
+      "text": "Voy siempre a este rest\u00f3. Es un lugar chiquito, muy acogedor y muy lindo. Atienden muy bien, la comida es EXCELENTE. Ideal para ir en pareja o con familia. Es uno de mis restaurantes preferidos de Quilmes."
+    }, 
+    {
+      "date": "12 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fabricioph", 
+      "text": "Fuimos a celebrar un cumplea\u00f1os, la comida se sirvio bien caliente, no demoro mucho, precio muy accesible. Muy rico el lomo al champignon que comi. Aplica descuentos de la nacion sin problemas\r\n\r\nAdemas, cuando trabajaba en quilems iba  recularmente a comer aqui, los menues ejecutivos son de la mejor calidad a un buen precio"
+    }, 
+    {
+      "date": "10 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "DANILE2012", 
+      "text": "Fuimos varias veces y siempre da ganas de volver. Los platos son muy ricos, los precios son razonables y la atenci\u00f2n personalizada y esmerada del due\u00f1o es para destacar. Volvemos siempre que podemos, son esos lugarcitos que uno no dejar\u00eca nunca. Lo recomiendo."
+    }
+  ]
+}

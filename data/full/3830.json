@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Carol10", 
+      "text": "No comparto la opinion de los lectores anteriores.\r\nPedi a un Mozo descortes que me diga cual era la especialidad de la casa y como respuesta obtuve \" El sandwcih de Jamon y Queso \", obviamente tomandolo como broma pedi un Plato de Pasta que despues de 50 Minutos me trajeron. \"Me quedo con el Sandwich\". Conclusion me Fui a la esquina a Comer una Muy Buena Ensalada con un Atencion de unas Muy lindas Srtas y a un Precio Excelente"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Deniro", 
+      "text": "siempre tienen ingrediente frescos, eso hace que las comidas que se sirven sean ricos,  si bien no son platos elaborados y sofisticados, se come bien, saludable, en un ambiente, calido, y sobre todo un buen servicio, con una buena relacion precio/calidad."
+    }, 
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "jorgelina79", 
+      "text": "Pedimos el desayuno \"cl\u00e1sico\". En 1\u00ba lugar el mozo nunca nos pregunt\u00f3 si prefer\u00edamos medias lunas o tostadas, y el decidi\u00f3 que com\u00edamos tostadas. Cuando las trajo y preguntamos por las medias lunas dijo \"era una o la otra\". Trajo una mantequita chiquita por persona y dulce (y como 8 tostadas para c/u). Falt\u00f3 manteca y pedimos m\u00e1s. Pueden creer que nos cobraron la manteca de m\u00e1s?? El desayuno salia ya $18, y tuvimos q sumar $1.50 por una mantequita m\u00e1s cada uno. Nunca m\u00e1s! A 1 cuadra, un bar ofrecia un super desayuno con $8.50 y seguramente con mejor atenci\u00f3n."
+    }, 
+    {
+      "date": "28 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marvisan", 
+      "text": "Muy buena relaci\u00f3n precio-calidad-servicio. Muy recomendable!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "mariagatan", 
+      "text": "La comida es muy buena, el precio es alto pero esta acorde a la calidad de la comida. El lugar no tiene onda, es un cafe del barrio muy lindo pero con luz de tubo.Puede funcionar al medio d\u00eda y el delivery, pero no es plan para sabado a la noche."
+    }, 
+    {
+      "date": "22 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "VeroKorob", 
+      "text": "Muy rica la comida y muy buena la atencion, altamente recomendable!!"
+    }
+  ]
+}

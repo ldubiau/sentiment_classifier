@@ -1,0 +1,486 @@
+{
+  "buenos": [
+    {
+      "date": "25 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Teddy", 
+      "text": "El lugar es muy chiquito, bastante ruidoso por eso mismo. La decoraci\u00f3n es simple pero agradable. Muy buena la atenci\u00f3n.\r\nLa corvina que ped\u00ed no me gust\u00f3 mucho pero s\u00ed la ensalada que la acompa\u00f1aba que ten\u00eda zanahoria, tomates cherry, quinoa, choclo y r\u00facula. Despu\u00e9s tom\u00e9 un cortado que no estaba bien hecho. El men\u00fa con caf\u00e9 est\u00e1 58 pesos. Aceptan tarjeta.\r\nNo est\u00e1 mal pero por las sugerencias de GO esperaba toparme con algo mejor."
+    }, 
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Aussen", 
+      "text": "Los platos son muy buenos. La atenci\u00f3n es amable y correcta. El ambiente es peque\u00f1o, pero c\u00f3modo. El restaurante es muy recomendable. Es conveniente tener en cuenta que los precios son algo m\u00e1s altos de lo que aqu\u00ed se indica."
+    }, 
+    {
+      "date": "17 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "owl61", 
+      "text": "Despues de una charla agradable con el dueno-chef para hacer la reservae ( y a preguntar como puede ser el lugar tiene 28 y 40 votos)  el servicio era mala. La mosa no tiene idea como ser moza. El pan era buena. La pastas eran mas o menos."
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AA42", 
+      "text": "Es un lugar donde la comida y la atenci\u00f3n son muy buenas. El ambiente es un poco ruidoso, supongo que depender\u00e1 de los comensales que justo coincidan con vos. El lugar tiene 8 mesas.\r\nLa bondiola y los fettuccini con tomates secos y panceta son recomendables."
+    }, 
+    {
+      "date": "7 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "paigedavis", 
+      "text": "Suelo ir a almorzar. Se recomienda llegar temprano para conseguir mesa. Carta corta pero buen\u00edsima - todo casero, fresco y creativo. Muy buen men\u00fa ejecutivo. Una queja: los due\u00f1os necesitan buscar un lugar para su hijo, que anda de mesa en mesa molestando a los clientes. Vengo a comer tranquilo, no a entretener a un nene. Realmente molesta que ocupe una mesa con sus juguetes como si fuera su casa. Eso resta bastante. Sin embargo la comida y la propuesta son buenas."
+    }, 
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tufacu", 
+      "text": "Un lugar chico, sencillo, pero con muy buena cocina y atenci\u00f3n. Lo recomiendo."
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rubiadivina", 
+      "text": "Me gusto mucho el desayuno. Pan bien fresco, licuados, jugos, fue muy abundante y a muy buen precio."
+    }, 
+    {
+      "date": "12 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "GiGi_", 
+      "text": "Un lugar chiquito y sencillo. \r\nComida buena y platos abundantes. \r\nBuena relaci\u00f3n calidad/precio."
+    }, 
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "30cortinas", 
+      "text": "Lindo resto, con excelente atenci\u00f3n y platos muy ricos"
+    }, 
+    {
+      "date": "20 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchape", 
+      "text": "Realmente es un lugar peque\u00f1o y sencillo. Al entrar queda esa impresi\u00f3n de que \"no tiene pinta de nada\". Realmente fui a probarlo y me gusto, buena comida, platos bien servidos y abundantes. Por lo que se paga realmente es demasiado. De los mejores relaci\u00f3n calidad/precio que hay..."
+    }, 
+    {
+      "date": "3 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "PabloTKD", 
+      "text": "Un excelente lugar, muy c\u00e1lido"
+    }, 
+    {
+      "date": "30 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "amargo", 
+      "text": "El unico problema es la falta de estacionamiento.\r\nEl m\u00e1s cercano est\u00e1 a $ 11 la hora."
+    }, 
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "faei1983", 
+      "text": "Fuimos a la ma\u00f1ana con mi novia y desayunamos como si fueramos naufragos. Todo estuve barbaro; desde la comida hasta la atencion. Volvere cuando hagan cenas."
+    }, 
+    {
+      "date": "12 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "IAM", 
+      "text": "Me parecio un lugar muy c\u00e1lido y armonioso.\r\nLa atenci\u00f3n fue buena, la comida fue excelente. Me encantaron los panes y el crocante de manzanas y peras fue maravilloso.\r\nIdeal para ir en pareja, dado que el lugar es muy peque\u00f1o."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "hedon", 
+      "text": "Hace tiempo que voy y la calidad de la cocina y el servicio no se resiente \r\nMejoraron su aspecto general con pintura, cuadros nuevos y almohadones en las sillas. Excelente el abadejo a la vasca y el salm\u00f3n rosado, as\u00ed como los postres. Lo atiende un matrimonio; \u00e9l es el chef y les aseguro que se come tan bien como en rest\u00f3s m\u00e1s lujosos. No le ayuda el lugar chico que puede ser ruidoso cuando est\u00e1 lleno pero la calidad de la comida es superior"
+    }, 
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "janacek", 
+      "text": "Hace mucho tiempo que vamos a Due, y cada semana  nos sorprenden con una carta renovada de exquisiteces, desde ternera braseada con chocolate hasta ravioles rellenos de pollo, ricota y membrillos. Sin duda, el mejor restaurante en la zona, en un ambiente amable sin pretensiones."
+    }, 
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "IAM", 
+      "text": "Hace meses no volviamos a due.fuimos con una pareja a festejar el dia del amigo y nos encontramos con la grata sorpresa de su renovaci\u00f3n con un toque de estilo y calidez.a cena fue de lo mas exisito, comi un salm\u00f3n rosado marinado en aceto y miel y de postre un souffle de chocolate relleno de crema marroc. todo supremo"
+    }, 
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marujae", 
+      "text": "Hace m\u00e1s de 3 a\u00f1os que vamos a Due en forma frecuente. El mejor lugar. Excelentes sugerencias que cambian d\u00eda a d\u00eda seg\u00fan la oferta del mercado y la inspiraci\u00f3n del chef. Para todos los gustos, siempre hay carne, pescado, pollo, pastas. Postres deliciosos. Atienden una mesa por vez, quiz\u00e1s haya que esperar un poco pero mientras se puede disfrutar de una exquisita panera. Muy buena atenci\u00f3n y no cobran cubierto. Este a\u00f1o lo han remodelado y qued\u00f3 muy lindo."
+    }, 
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vivisiesta", 
+      "text": "Fuimos a cenar, en pareja un sabado a la noche. Pedimos una entrada para compartir y tuvieron la delicadeza de traerlo en platos individuales. \r\nLo que pedimos, por los lejos la mejor cena gourmet que prob\u00e9, sabores deliciosos y bien definidos, productos frescos. No es nada caro, muy buenos precios y las porciones, a pesar de ser platos de autor, son abundantes. Altamente recomendable, espero volver pronto. El clima muy ameno.\r\nOjo: hay que reservar antes y el men\u00fa, lamentablemente porque es todo rico, no es muy amplio."
+    }, 
+    {
+      "date": "16 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eugebe", 
+      "text": "fui con mi marido y nos gust\u00f3 mucho, los platos bien elaborados, muy sabrosos y algo muy bueno, livianos, se nota que usan muy buenos productos y no se les va la mano con los aceites. Los platos son bien gourmet, y la carta no es muy extensa, bastante combinaciones con verduras, tipo pure de batatas con brocoli. Los precios son elevados, pero se disfruta asi que no me molesta pagarlo.  Una carne 80 pesos. Hay que reservar antes porque es muy chiquito y siempre se llena. Ped\u00ed el pollo a la sidra y mostaza real que venia con ese pure, y mi marido los raviones (bien grandes) de osobuco, exelente!"
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pluvium", 
+      "text": "Due nunca nos decepciona. Los precios son buenos, la comida es riqu\u00edsima, la carta de vinos muy buena, la atenci\u00f3n esmerada. El hecho de que la carta cambie todos los d\u00edas lo vuelve mucho m\u00e1s interesante,  nunca nos aburrimos de la comida. Todo es riqu\u00edsimo, pero recomiendo las pastas sobre todo lo dem\u00e1s."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jorgetomas", 
+      "text": "Excelente lugar, muy buena atenci\u00f3n y una cocina excelente. Recomiedo Pez lim\u00f3n y de postre  Due de chocolate, volveremos."
+    }, 
+    {
+      "date": "25 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "silb", 
+      "text": "excelenteeeeeeeeee gastronomia! y super tentadora la canasta de panes.  Un placer llegar a lugares como este."
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "LeandroSp", 
+      "text": "Me sorprendi\u00f3 su cocina gourmet as\u00ed como la frescura y calidad de todos los ingredientes. Opte por la pesca del d\u00eda descubriendo un exquisito Mero a la grilla con una acompa\u00f1amiento muy esmerado. La panera excelente. Recomiendo mucho"
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "malegria", 
+      "text": "Excelente siempre!"
+    }, 
+    {
+      "date": "14 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rovmia", 
+      "text": "Excelente lugar!!! Desde el pan super esponjoso y de distintos sabores hasta la atencion...nada se les escapa. Eramos 8 y pedimos distintos platos. Uno mas rico que el otro. Y todavia me acuerdo de la degustacion de postres. Unas trufas que jamas prob\u00e9 en mi vida. Lo recomiendo a toda persona que conozco desde que fui."
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fernandainunciaga", 
+      "text": "Excelente la comida! Yo me ped\u00ed el besugo a la vasca, y estaba exquisito. Y m"
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Martin91", 
+      "text": "La comida simplemente genial. El dorado estaba perfecto aunque me parece que los spaghettis con frutos de mar estaban mejor todav\u00eda. El lugar no es chico, es \u00ednfimo, por lo que al entrar te sentis un poco inc\u00f3modo, sensaci\u00f3n que se va cuando traen la panera. Excelente lugar!"
+    }, 
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yulen", 
+      "text": "Me encant\u00f3 la comida de due resto, es de esos lugares que te enga\u00f1an por la apariencia pero desde el que te entregan la panera empiezas a disfrutar de sabores deliosos, la comida es hecha en el momento, y los postres son para morir!!"
+    }, 
+    {
+      "date": "7 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nikad", 
+      "text": "Excelente ambiente, distendido, musica agradable a un volumen agradable. Ser atendidos sin apuros por suns Camarera con mayusculas que esta en todos los detalles. Excelente la comida, ingredientes, panera, todo en su punto justo y sabroso. El lugar es tan discreto que a pesar de vivir a menos de tres cuadras, recien lo veo! Una perla en el barrio y un lugar para volver y volver."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "DJC", 
+      "text": "I had a very decent meal at Due last night.  If you are looking for FRESH mozzarella, which can be very hard to find in this city, Due is the place for you. We had a delicious entrada of burrata mozzarella, arugula, prosciutto parma and tostadas. For those of you who are not familiar w burrata, it has the exterior of fresh mozzarella and a very creamy interior. Our main courses were fettucini in a creamy blue cheese sauce and sword fish on a bed of roasted carrots and squash. For dessert we had a strawberry and passion fruit parfait that was absolutely incredible.The wine list needs work."
+    }, 
+    {
+      "date": "2 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "IAM", 
+      "text": "Volver a Due cada vez me sorprende, el lunes fuimos almorzar con amigas y habia mucha gente, pero como conocemos la cocina espere y verdaderamente todo es tan rico como a la noche desde la panera hasta el postre, con la diferencia que hay un menu ejecutivo de $ 57 p/persona c/bebida s/alcohol y caf\u00e9 -postre. Maravilloso!!!"
+    }, 
+    {
+      "date": "30 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sadakina", 
+      "text": "Fuimos a celebrar el aniversario con mi pareja. La panera riquisima! TODO CASERITO y delicioso. Te entregan la carta completa y otra con platos recomendados, asi como postres y vinos. Pedimos pastas, bien caseras y con condimentos de 10. Luego un postre que nos recomendaron para compartir (era abundante) de sambayon al champagne con frutos rojos, delicioso. Terminamos gastando $ 156. \r\nNota: hay que reservar, el lugar es muy chico, de afuera parece comun y corriente, pero se llena y se nota que hay gente asidua del lugar porque hasta saludan con un beso a la camarera. Para volver"
+    }, 
+    {
+      "date": "14 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "malegria", 
+      "text": "Apenas entramos en contacto con la panera nos dimos cuenta que seguramente ibamos a comer muy bien. Y realmente fue sobresaliente. La carta (que cambia cada noche) es una invitaci\u00f3n a no poder elegir solamente un plato. La comida es excelente, integrando sabores elegantes y de buena calidad, todo notoriamente preparado en el momento. \r\nDue es una maravillosa opci\u00f3n gourmet (cocina de autor) que por su tama\u00f1o y apariencia desde afuera pasa un poco desapercibida.\r\nAltamente recomendado para quienes quieren y saben comer muy bien."
+    }, 
+    {
+      "date": "16 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Betoben", 
+      "text": "Fuimos con mi esposa, recomendado por unos amigos y quedamos maravillados, por la EXCELENCIA en sus platos; comenzando por la panera y fnalizando, con el postre.Los Spaghetti verde con pulpo un manjar ( pasta casera ). Yo comi la bondiola. EXCELENTE combinaci\u00f3n de sabores. Finalizamos compartiendo unas cerezas impresionantes en sabor y tama\u00f1o, gratinadas con sambay\u00f3n.Lo unico molesto fue el ruido ya que es peque\u00f1o y estaba completo."
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pettis2010", 
+      "text": "la relacion precio y calidad de comida es exelente, la atencion es muy buena. voy tadas las veces que puedo al desayuno almuerzo y cena, es un placer, son muy simpaticos y la atencion es personalizada"
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Emerald", 
+      "text": "Excelente cocina y esmerada atenci\u00f3n, Muy chiquito y se escucha todo lo que se conversa pero la comida es excelente. Eramos 4 y tres comimos pescado, maravillosamente preparados y exquisito acompa\u00f1amiento. El postre otra delicia. Regresaremos sin dudar."
+    }, 
+    {
+      "date": "26 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DIESUS", 
+      "text": "un lugar simple con comida de lujo!!! \r\nlo super recomiendo EL CHEF DE LO MEJOR QUE CONOCI !!!"
+    }, 
+    {
+      "date": "19 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "IAM", 
+      "text": "Verdaderamente comi algo tan simple como un pescado ( lisa de mar)a la grilla excelente. muy sabroso. Los panes artesanales y el postre una mousse de maracuya con chocolate blanco exquisita. volver\u00e9 ."
+    }, 
+    {
+      "date": "17 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juanitua", 
+      "text": "Excelente!!! La comida -empezando por una deliciosa panera de elaboraci\u00f3n artesanal, continuando por una ensalada riqu\u00edsima, unas pastas caseras supremas y un cheese cake con frutos rojos muy suave y sabroso a la vez.- Esmerada atenci\u00f3n, lugar peque\u00f1o pero tranquilo. Uno de los mejores lugares a los que hemos ido; sin dudas, el mejor para comer pastas."
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lulialda", 
+      "text": "La comida es excelente, los fideos los hubiese comido con manteca y nada mas de lo rica que estaba. El goulash estaba muy rico, pero no lo volveria a pedir xq si van a comer aca lo mejor que pueden hacer es pedir pasta. Muy buena relacion preco calidad. Muy buenos los panes, tan ricos que hasta compre un pan multigran xa llevar a casa. Volvere"
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mursig", 
+      "text": "Tanto la atenci\u00f3n como la comida son excelentes.  Leandro se luce con una carta chica pero variada que cambia cada noche. No hay un plato vedette, todos son deliciosos.  Solemos ir una vez por semana y siempre salimos m\u00e1s que satisfechos."
+    }, 
+    {
+      "date": "26 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "felicitas1", 
+      "text": "Almuerzo a diario y realmente es un placer poder comer en Due, ya que los platos son gourmet, la atenci\u00f3n es muy amorosa y sugieren muy bien. La calidad de los productos es excelente y lo mas importante para m\u00ed, es que hacen todo ellos, desde los panes que son un manjar hasta las pastas!! siempre es rico, sano y amigable ir a DUE !! vayan ! sus due\u00f1os Giselle y Leandro son un amor de gente y les deseo lo mejor!!!"
+    }, 
+    {
+      "date": "16 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "wolleke7", 
+      "text": "Vivimos muy cerca del DUE y comimos siempre muy bueno. El chefe tiene platos original, rico y bueno por la salud. La atencion esta muy buena tambi\u00e9n. Tienen el pan m\u00e1s rico del bario. Los mejillones con safr\u00e1n, ricisimo asi que los pinchos de langostinos y otra cosas. Una sorpresa. Cuidado de no pasar sin verlo porque esta peque\u00f1o."
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Maddie", 
+      "text": "Ir a Due es un placer; la atenci\u00f3n, sobre todo a la noche, es excelente, conocen los platos, saben recomendar y tienen muy buenas sugerencias. La panificaci\u00f3n es de ah\u00ed y es exquisita. Le faltar\u00eda un poco de mantenimiento al lugar, peque\u00f1o y lleno de habitu\u00e9s. La pasta del d\u00eda es siempre una opci\u00f3n super segura para probar algo delicioso!"
+    }, 
+    {
+      "date": "21 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Marujae", 
+      "text": "Excelente comida a muy buen precio. El chef Lisandro Varela prepara diariamente, adem\u00e1s del men\u00fa variado, sugerencias gourmet. Exquisitos panes, scons, medialunas y muffins para el desayuno y merienda. Hace un a\u00f1o que mantiene la buena calidad de los platos y bajos precios. El lugar es peque\u00f1o y a la noche del fin de semana est\u00e1 lleno de comensales habituales."
+    }, 
+    {
+      "date": "1 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FFernando", 
+      "text": "Comemos casi a diario con mi mujer en Due. Comida gourmet con productos de primera, que denotan la calidad de su chef. Al mediod\u00eda hay men\u00faes y a la noche platos especiales. La relaci\u00f3n precio-calidad es inigualable. El lugar es peque\u00f1o pero c\u00e1lido y muy bien atendido por sus due\u00f1os. Lo mejor de la zona.-"
+    }, 
+    {
+      "date": "9 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Luleija", 
+      "text": "El lugar es chiquito, cero pretencioso. Los precios est\u00e1n perfectos. Tom\u00e9 un t\u00e9 riqu\u00edsimo, voy a volver!!!"
+    }
+  ]
+}

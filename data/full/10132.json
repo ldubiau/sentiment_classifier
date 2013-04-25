@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "11 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ElCharrua", 
+      "text": "Muy buena comida griega! Buenos precios. Atenci\u00f3n normal.\r\nDa para volver."
+    }, 
+    {
+      "date": "0 0000", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "null", 
+      "text": "para comer comida griega t\u00e9nes que ir un martes, no lo sab\u00edamos. El lugar esta muy bien ambientado, le falta m\u00fasica de fondo para poder hablar tranquilo con amigos ya que es muy silencioso. Los platos geniales, l\u00e1stima que son muy chicos y medio caros. Pedimos una isla flotante que tardo 20 minutos. De todas maneras es una buena opci\u00f3n para conocer."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AnaFrancisca", 
+      "text": "Fui con una amiga que n\u00fanca hab\u00eda probado comida griega y le gust\u00f3 mucho. El vino blanco que tienen se parece al griego retsina."
+    }, 
+    {
+      "date": "14 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Diegolamas", 
+      "text": "Muy buena opcion para hacer algo completamente distinto, el lugar es super agradable y distinto, la atencion de 10! muy buena opcion para ir con amigos o en pareja.\r\nLos sabores son geniales!!!"
+    }
+  ]
+}

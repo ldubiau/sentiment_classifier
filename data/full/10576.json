@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "19 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Marieazutel", 
+      "text": "La atenci\u00f3n fue p\u00e9sima. Hab\u00eda un mont\u00f3n de empleados pero no te atendian. El mozo te cuestionaba tu desici\u00f3n sobre el vino que  pedias. Con respepecto a la comida, no me dieron lo que correspondia al boucher comprado. Prometian un show que  no hubo."
+    }, 
+    {
+      "date": "19 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Marieazutel", 
+      "text": "Los mozos son un desastre, no cumplen con los que compraste, tardan much\u00edsimo, pedis un vino y el mozo te dice que tenes que tomar otro. Promet\u00edan show y no hubo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "psp23", 
+      "text": "La tanecion fue buena, el lugar esta bueno dentro del local los lugares son bastante comodos, los ba\u00f1os son buenos, lo unico malo es que tiene algunas mesas justo enfrente de la parrilla al lado del la puerta de entrada..no recomiendo que se sienten ahi. tambien tienen mesas afuera, lo unico que demasiado juntas. La comida estuvo muy bien, lo unico que como todo resto de la zona los precios son un poco elevados. Igualmente hay opciones de menu mas economicos pero solamente pagando en efectivo. Conclusion: El lugar es recomendable, pero no es lo mejor precio/calidad en la zona."
+    }, 
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vdisante", 
+      "text": "excelente el show de s\u00e1bado por la noche. Una se\u00f1orita cantando temas rom\u00e1nticos del 70. Adem\u00e1s comimos rico y bien atendidos."
+    }, 
+    {
+      "date": "3 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "alejg32", 
+      "text": "la atenci\u00f3n bien, la mercader\u00eda de buena calidad.  Lo que me parece es que los precios de la carta son exorbitantes, por ejemplo una porci\u00f3n de arroz como guarnici\u00f3n a 20$ me parece una barbaridad."
+    }, 
+    {
+      "date": "8 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dario46", 
+      "text": "Muy buena carne y atenci\u00f3n, el ambiente tranquilo y ambientacion buena."
+    }, 
+    {
+      "date": "25 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MARISALUZ", 
+      "text": "Lo mejor es la recepcionista (de cabello corto, rubia, q suele estar en la puerta) que le pone toda la onda!"
+    }, 
+    {
+      "date": "29 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "LAPACHA", 
+      "text": "La comida, parrillada, estuvo excelente y en gran cantidad. Pedimos parrillada para 4, eramos 5 y sobr\u00f3 como para 2. La atenci\u00f3n no es de los mejor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "intervox", 
+      "text": "Excelente atenci\u00f3n. Afuera. El mozo se llamaba Juan."
+    }
+  ]
+}

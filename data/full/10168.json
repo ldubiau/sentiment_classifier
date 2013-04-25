@@ -1,0 +1,558 @@
+{
+  "malos": [
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "sarahgalvao", 
+      "text": "LA comida es terrible, sin gusto. Pedimos una tortilla y una berenjena milanesa y nada estaba bueno. El servicio tampoco. No lo recomendo para nada"
+    }, 
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "DavidGilmour", 
+      "text": "A la comida le falta sabor, a la atenci\u00f3n le falta rapidez, al local le falta aseo (con esto de la onda r\u00fastica los manteles de tela pl\u00e1stica de toldo deja un poco que desear).\r\n\r\nEso si, todas faltas no pueden ser. Hay algo que sobra. Sobreprecio."
+    }, 
+    {
+      "date": "29 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ricoterere", 
+      "text": "Es molesto que te vendan en la carta algo que no ofrecen o que vengan 3 veces a decirte que no hay de algo: comi un sandwich de rucula, tomate y queso brie. el queso no era brie sino cremoso com\u00fan. mi acompa\u00f1ante pidi\u00f3 pastel de papas. la sorpresa? no dec\u00eda que era vegetariano! y en ning\u00fan lugar dicen que son un restor\u00e1n vegetariano... lastimoso."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "freddiem45", 
+      "text": "Quer\u00edamos picar algo, pasamos y vimos que ten\u00edan un \"tapeo purista\" y 2 vermouths a 70$. Los tragos estuvieron los 2 muy bien, y el tapeo es rico, sin ser nada del otro mundo, pero la propuesta nos pareci\u00f3 simp\u00e1tica. Tambi\u00e9n pedimos unas batatas r\u00fasticas, que estaban buenas. Probablemente no volver\u00eda a ir para comer ninguna de estas cosas, pero s\u00ed tal vez a probar las pastas, que ten\u00edan buen aspecto. No cobran cubierto."
+    }, 
+    {
+      "date": "26 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "mariabelen", 
+      "text": "Muy rica comida, sana y sabrosa!. Destacada relaci\u00f3n precio-calidad. Muy amable atenci\u00f3n. El \u00fanico punto en contra es el bullicio, el lugar no tiene ning\u00fan tipo de insonorizaci\u00f3n y es inevitable terminar alzando la voz para poder mantener una conversaci\u00f3n. Fuera de eso es altamente recomendable!"
+    }, 
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Bleurouge", 
+      "text": "Fuimos a almorzar al mediod\u00eda, unos \u00f1oquis de zanahoria con salsa \"Huguito\" (hierbas, albahaca y cherrys) y unos canelones de verdura y ricotta con salsa 4 quesos. Riqu\u00edsimo y fresco. La panera era pan blanco y negro caseros, muy ricos, y queso crema con ciboulette. \r\nLa atenci\u00f3n fue muy lenta, pero la camarera era simp\u00e1tica. El precio nos pareci\u00f3 elevado."
+    }, 
+    {
+      "date": "14 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "malen_na", 
+      "text": "La comida bien, pero todo tarda demasiado y te pone de mal humor: media hora para que te traigan un poco de pan y un dip, m\u00e1s de 1 hora para la comida... Es verdad que hay una sola moza, y debe haber una sola persona en la cocina tambi\u00e9n, pero siendo que todas las mesas se ocupan un jueves a la noche, deber\u00edan prever tener m\u00e1s personal.\r\nPedimos un risotto y unas pastas, m\u00e1s dos gaseosas $114. Buenos ambos platos. No volveremos, los platos no justifican la espera."
+    }, 
+    {
+      "date": "6 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MoraLautaro", 
+      "text": "La comida es exacto lo que busca una vegetariana: opciones sabrosas. Y encima buen precio y muy buena onda de las personas que trabajan. Lo recomiendo amplimente."
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marianojaja", 
+      "text": "Un lindo hallazgo, que combina muy bien cocina sana, atenci\u00f3n y ambientaci\u00f3n. Salvo por un detalle en la recepci\u00f3n, el servicio genera muy buen clima y tambi\u00e9n suma que se puede ver la cocina. La panera y la picada casera son apetitosas. En las pastas hay combinaciones que salsas que funcionan y otras que no, convendr\u00eda que te asesoren (p.e. \u00f1oquis de remolacha con pesto de r\u00facula), pero igual vale probar. Los tapeos con vermouth y las pizzas quedaron para la vuelta. Los precios son correctos."
+    }, 
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FELISA", 
+      "text": "La comida sin carne es excelente, no perder de probar los bu\u00f1uelos con salsa de queso y la picada Purista!!!!!"
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "justona", 
+      "text": "Pedimos la picada purista, una ensalada y unos ricos campari. \r\nPorciones normales, buena calidad y muy sabrosas. \r\nEl pan casero que te dan de entrada, exquisito!!\r\nEl \u00fanico detalle, si comes adentro salis con bastante olor a comida. Es un lindo lugar para almorzar"
+    }, 
+    {
+      "date": "5 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mariup88", 
+      "text": "Con mi novio habiamos escuchado muy buenas cosas de este lugar y\r\nla verdad que no decepciono! pedimos la picada purista como entrada. La polenta frita, los bu\u00f1uelos de espinaca y las croquetas de arroz eran increibles.\r\n pero por sobre todo,cabe destacar que habia una sola moza atendiendo y la atencion fue de primera en todo momento! \r\nvolveremos seguramente para probar las pizzas que se nos hacia agua la boca cada vez que pasaba una al lado nuestro.\r\nMUY RECOMENDABLE!!!"
+    }, 
+    {
+      "date": "2 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guadalupea", 
+      "text": "fuimos tres personas, pedimos pastas, estaban frescas y con unas salsas muy ricas. Precio acorde. Buena atenci\u00f3n (un poco confianzuda pero buena onda). Recomendable para comer correctamente."
+    }, 
+    {
+      "date": "1 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "josefina5", 
+      "text": "BUENISIMO! La comida muy rica, la atencion rapida y amable. Los platos muy abundantes. Pedimos una entrada para compartir, y no pudimos terminar el plato principal. Lo recomiendo!"
+    }, 
+    {
+      "date": "29 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ROSAMEL", 
+      "text": "Fuimos recomendados por una pareja amiga: ?es vegetariano y se come muy bien?. No se equivocaron! Reservamos y ten\u00edamos una mesa con las caracter\u00edsticas de ubicaci\u00f3n solicitada: punto para el servicio! La moza (o due\u00f1a) nos recomend\u00f3 perfecto: bu\u00f1uelos con salsa de queso, polenta frita, bastones de muzzarela y papas brava. Luego los \u00f1oquis de remolacha con salsa primavera: supersabrosos( imperdibles) y papardelle con pesto de albahaca igualmente buenos. La carta de vinos muy corta pero bien equilibrada a precios acertados. Buen servicio, buena onda. Relaci\u00f3n precio ? calidad excelente. Volver"
+    }, 
+    {
+      "date": "18 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "romarciana", 
+      "text": "Fuimos a cenar con amigas. Cenamos muy rico y econ\u00f3mico. El \u00fanico problema fue q adentro del lugar hac\u00eda mucho calor"
+    }, 
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "comocomo", 
+      "text": "muy ricas las medialunas caserisimas"
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "danr19", 
+      "text": "Parece que ese d\u00eda estaban abrumados con la atenci\u00f3n.\r\nPrimero ped\u00ed abrir la ventana ya que hac\u00eda calor adentro y la moza que nos atendi\u00f3 nos dijo que estaba trabada.\r\nPedimos caf\u00e9 y despu\u00e9s de reclamar tres veces a la moza, argument\u00f3 \"un problema de jurisdici\u00f3n con otra moza\".\r\nSuspend\u00ed los caf\u00e9s, pagu\u00e9 y me fui para nunca m\u00e1s volver."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Morano", 
+      "text": "Entramos porque el nombre nos pareci\u00f3 de restaurante vegetariano, y as\u00ed fue. Yo siendo vegetariana no suelo encontrar buenos lugares. Este es nuevo (abri\u00f3 hace 5 meses) y me sorprendi\u00f3. Com\u00ed una ensalada de verdes con mostaza y semillas (pero no hab\u00eda semillas, se les hab\u00edan acabado) un poco sosa. Pero despu\u00e9s me sorprend\u00ed con el sandwich de pan integral casero (riquiiiiiiiisimo) caprese. Lo recomiendo. El lugar se nota que todav\u00eda no tiene mucha cancha porque faltan cosas (aire acondicionado por ej). La atenci\u00f3n EXCELENTE."
+    }, 
+    {
+      "date": "12 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "valeria1", 
+      "text": "La comida es buena, el lugar es tranquilo y la atenci\u00f3n es correcta. Nade me llam\u00f3 demasiado la atenci\u00f3n, pero se come bien a buen precio. Lo mejor fue el pan de banana."
+    }, 
+    {
+      "date": "10 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Napia", 
+      "text": "Los platos son sabrosos y bien servidos, el precio acompa\u00f1a, la carta es buena y la atencion mejor. Gran hallazgo este lugar, volveremos sin duda."
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "wengue2000", 
+      "text": "Atenci\u00f3n informal, cuidada, carta reducida por su especialidad, pero cada plato est\u00e1 muy bien logrado mas aun para alguien no vegetariano, no se sufre ! el precio no es de los mas baratos ... fui varias veces y volvere."
+    }, 
+    {
+      "date": "24 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "makys", 
+      "text": "Fui a cenar, me gust\u00f3 mucho la comida, aunque la polenta frita estaba congelada en el medio, lo dem\u00e1s fue todo muy rico. \r\n\r\nBuena atenci\u00f3n. Un poco ruidoso para mi gusto, pero volver\u00eda."
+    }, 
+    {
+      "date": "17 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MPKMPK", 
+      "text": "La comida esta muy bien preparada, los platos son abundantes y economicos, y si bien, yo no soy vegetariana, he probado varios de los platos y me gustaron mucho. Saben suplir la carne muy bien. Recomiendo las milanesas de berenjena con papas rusticas y los panqueques de dulce de leche. Sirven una cerveza artesanal muy rica. El pan es casero. La atencion es excelente. El lugar es ideal para ir con amigos o tu pareja. Volvere!"
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "waltehb", 
+      "text": "Fui en pareja y con tres chicos. La comida es muy buena, con amplia variedad y porciones generosas. Buenos precios y una c\u00e1lida atenci\u00f3n. Muy recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marcerpina", 
+      "text": "Excelente la comida,prob\u00e9 los ravioles de espinaca y salsa fileto expectacular,la masa el relleno suave y la salsa barbara,como en casa,nada de acidez,hay pocos lugares donde la pasta y la salsa son verdaderamente caderas,y el \"placer de los dioses\",la torta de manzana invertida con helado,incre\u00edble, la manzana acaramelada y casi en compota,tibia,un manjar,es para volver sin ninguna duda"
+    }, 
+    {
+      "date": "30 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "marianne30", 
+      "text": "Un lindo descubrimiento! el plato de quesos y frutas es espectacular y la tortilla bab\u00e9 genial. Volver\u00e9 a probar m\u00e1s cosas"
+    }, 
+    {
+      "date": "25 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Chopilandia", 
+      "text": "Somos clientes frecuentes!! Hemos probado much\u00edsimas cosas de la carta, pero rescato las pastas (en especial la salsa de manteca con miel y pimienta negra). El pan riqu\u00edsimo y la atenci\u00f3n siempre buena. Mi \u00fanica recomendaci\u00f3n ser\u00eda tener una mesera m\u00e1s en horarios pico  (como viernes a la noche)."
+    }, 
+    {
+      "date": "4 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "diffi", 
+      "text": "Volvemos bastante seguido con mi pap\u00e1 porque la calidad no cambia, todo muy rico, lindos panes para acompa\u00f1ar. Prob\u00e9 los \u00f1oquis de calabaza que estaban buen\u00edsimos. Como siempre, la gente que te atiende es muy agradable. Todo viene a tiempo, pero claro...vamos en la semana y al mediod\u00eda y no tenemos apuro por comer sabiendo que tenemos garantizado comer algo fresco y rico."
+    }, 
+    {
+      "date": "17 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lilith", 
+      "text": "Excelente! !! pedimos unos \u00f1oquis maravillosos y un risotto de ensue\u00f1o . Precios totalmente razonables. Buena onda en la atenci\u00f3n. Un pan casero inolvidable. Vinos muy buenos y de todos los precios"
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Itzays", 
+      "text": "Buenisimo! Comida vegetariana excelente. Todo muy rico y bien casero. La atenci\u00f3n muy buena. Los precios razonables. Excelente calidad. las cintas riquisimas! la picada purista imperdible!"
+    }, 
+    {
+      "date": "2 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "duddus", 
+      "text": "Muy rica comida! Luego de pasar muchas veces por la puerta y ver como preparan todo caser\u00edsimo me decid\u00ed a entrar y probar y no defrauda. La polenta frita y las berenjenas espectaculares. El \u00fanico problema es que adentro es un poco ruidoso y sal\u00eds con olor a comida. La atenci\u00f3n buena. Volver\u00e9."
+    }, 
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "stefanos", 
+      "text": "una excelente opci\u00f3n para los que quieren un lugar de rescata el valor de la comida sencilla pero con sofisticaci\u00f3n de la pureza de los ingredientes. Muy recomendable."
+    }, 
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marieguti", 
+      "text": "Muy buena la comida. Fui con mi mama y comimos una tarta del dia (pascualina, que viene acompa\u00f1ado por una ensalada ) y una ensalada de rucula. Muy lindo ambiente y la atencion barbara!"
+    }, 
+    {
+      "date": "8 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "folavril", 
+      "text": "absolutamente delicioso todo, la picada purista con croquetas de verdura, mozzarela, polenta, pickles y tomatitos y huevo rellenos muy buena, es un plato gigante para compartir.  despu\u00e9s pedimos un risotto incre\u00edble tambi\u00e9n para compartir.  no nos qued\u00f3 lugar para el postre pero nos trajeron un budincito de la casa por el d\u00eda de la mujer.  divinos.  volver\u00e9 para probar las pastas caseras."
+    }, 
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "flr3008", 
+      "text": "Ca\u00edmos amigos de casualidad, y quedamos todos super sorprendidos con este lugar.  El risotto de hongos es espectacular, de lo mejor que prob\u00e9.  El panqueque de manzana quemado al rhum estaba riqu\u00edsimo.  La relaci\u00f3n precio-calidad, muy buena.  Muy agradable la atenci\u00f3n.  Pasamos un muy buen momento. Volveremos seguro."
+    }, 
+    {
+      "date": "28 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "afalkear", 
+      "text": "Excelentes la atenci\u00f3n y las opciones de comida. Platos muy bien condimentados, con mucho sabor. Imperdibles tanto la entrada, plato principal y postres. Recomendad\u00edsimo."
+    }, 
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LauraLuna", 
+      "text": "Fuimos sin saber que era vegetariano (pasamos y entramos porque nos gust\u00f3 de afuera), mi novio casi muere y al final termin\u00f3 encantado! La comida es riqu\u00edsima y la notamos muy casera, posta! La atenci\u00f3n es muy buena y el lugar es chiquito pero re lindo (s\u00f3lo que hac\u00eda calor adentro y eso que la noche era fresca). Es una esquinita muy recomendable para pasar un buen momento! Sirven el vermouth con tablita de quesos o tapeo, volver\u00e9 a probarlo!! =) Buena onda para esta gente y no es nada caro, buena relaci\u00f3n precio - calidad."
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "zeeker", 
+      "text": "Fui con mi novia, la comida estaba muy bien, asi como la atencion. El unico problema que tuvimos fue que hacia mucho calor y el aire estaba apagado."
+    }, 
+    {
+      "date": "30 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ludmivar", 
+      "text": "Comimos pastas bien caseras y frescas. Recomiendo los papardelle con salsa primavera. Una delicia! Vamos a volver."
+    }, 
+    {
+      "date": "28 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "loli4277", 
+      "text": "Estuvimos con mi novio el fin de semana. La pizza de este restaurant es riquisimamente casera!! La atencion es excelente, el precio justo y el lugar muyy agradable."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jessimarantz", 
+      "text": "Muy buena toda la comida! y la atencion es excelente!!!!!!"
+    }, 
+    {
+      "date": "24 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pauleste", 
+      "text": "Comimos la picada purista! excelente! justa y a buen precio! con dos porrones de cerveza!"
+    }, 
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "akedia", 
+      "text": "Pedimos una picada muy rica con bu\u00f1uelos con salsa de queso, croquetas de polenta y bastones de muzzarela. Nos atendieron muy bien, muy atentos y amables. Buen\u00edsima opci\u00f3n vegetariana."
+    }, 
+    {
+      "date": "29 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "asffwqg", 
+      "text": "La mermelada de ciruela y las tostadas de pan casero me hicieron sentir en casa, el lugar tiene ese aire hogare\u00f1o e intimo q me gusta y la atenci\u00f3n queda en manos de gente muy agradable! Prometo recomendarlos..."
+    }, 
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "CatadorHonesto", 
+      "text": "Comimos una pizza excelente, la devoramos en 5 segundos con mi amiga! elementos frescos y de sorprendente calidad! nos atendi\u00f3 una mesera super agradable que te explica con detalle. comimos en la calle y la zona no est\u00e1 tan linda as\u00ed que tambi\u00e9n recomendar\u00eda ambientarlo un poco m\u00e1s pero no es importante. vinos vi 4 o 5 marcas  (fin del mundo, ventus, alamos que recuerde)"
+    }, 
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "natalia.difilippo", 
+      "text": "Coincido que le faltar\u00eda aire acondicionado pero es tan buena y sabrosa la comida que me sigue sorprendiendo. Los bu\u00f1eilitos ten\u00edan una salsa riquisima, los penne rigatti con una salsita fresqu\u00edsima con berenjenas, albahaca, tomates, ajito y muzarella. El flan 11 puntos y la atenci\u00f3n de la chica amoros\u00edsima y que paciencia!!! Al local le pondr\u00eda un poco m\u00e1s de onda porque es muy cuadrado y despojado."
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "nikosim", 
+      "text": "Desde que fui no dejo de volver, la verdad que la comida adem\u00e1s de ser exquisita y casera, es sana y sal\u00eds con la mejor sensaci\u00f3n. La atenci\u00f3n es buena porque las mozas son super amigables.\r\nRecomiendo pedir de entrada los bu\u00f1uelos de espinaca y los bastones de muzzarela.\r\nLas pastas rellenas de berenjena -  con pesto de r\u00facula o salsa de tomates secos -  y las cazuelas son lo mejor que hay por un precio m\u00e1s que accesible. Cada plato tiene un sabor especial que dificilmente se coma en otro lado.\r\nMe encanta ir y volver."
+    }, 
+    {
+      "date": "20 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "diffi", 
+      "text": "Fui 2 veces ya... sabores exquisitos, sutiles y creativos."
+    }, 
+    {
+      "date": "25 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gf", 
+      "text": "Excelente la comida y la atenci\u00f3n de las chicas.  Muy c\u00e1lido el lugar.  Pasamos un muy buen momento. Volveremos!"
+    }, 
+    {
+      "date": "16 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ailigl", 
+      "text": "Hace mucho esperaba un lugar con un buena carta,\r\ncon una atenci\u00f3n y un cuidado de los detalles!"
+    }, 
+    {
+      "date": "14 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danajade", 
+      "text": "Nos resulto un lugar muy agradable, con rapida atencion y comida muy rica y bien presentada.  Muy recomendable."
+    }, 
+    {
+      "date": "9 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juan ali", 
+      "text": "la verdad muy calido el lugar la atencion excelente y la comida me parecio un manjar ya e ido 2 veses prove terrina de calabaza increible de rica y tambien bu\u00f1uelos de verdura consalasa de quesos para chuparce los dedos"
+    }, 
+    {
+      "date": "10 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "danirri", 
+      "text": "La carta es buenisima, pedimos platos dieferentes y todos muy ricos y a precio razonable. Volveremos y recomendamos!"
+    }, 
+    {
+      "date": "16 Sep 0012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "eugekinesis", 
+      "text": "Fui con una amiga el domingo x primera vez. Nos sorprendio gratamente. Lo que pedimos todo muy rico. A destacar la torta de manzanas invertida y las pastas. La atencion EXCELENTE. Volvere."
+    }
+  ]
+}

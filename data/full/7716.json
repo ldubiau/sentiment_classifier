@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Anquises", 
+      "text": "No lo recomiendo por la mala relaci\u00f3n precio-calidad. Si bien el conejo al champignon estuvo rico, la tabla de quesos era demasiado simple, el crepe de manzana quemado al rhum ten\u00eda demasiada az\u00facar (bah, incomible), no ten\u00edan muchas de las cosas que figuraban en la carta y, para rematar,  no ten\u00edan  cambio de 100. \r\n\r\nNo vale la pena. Hay lugares mejores por el mismo precio o m\u00e1s baratos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "rucula", 
+      "text": "Hace tiempo que vzmos, ahora agrandaron la carta pero el coc au vin es un simple trozo de pollo en una salsa a reducci\u00f3n de vino REGULAR, carta de vinos buena, tanquilo y con la vista a la pileta que es lo que lo hace atractivo"
+    }, 
+    {
+      "date": "2 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "bocuse", 
+      "text": "Una muy buena opci\u00f3n en el oeste,el ambisnte es excelente y la comida y atenci\u00f3n muy buena"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gabor61", 
+      "text": "Muy buena cocina, el servicio es correcto. El lugar agradable y tranquilo. No hay bullicio."
+    }
+  ]
+}

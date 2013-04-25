@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lu_2010", 
+      "text": "El lugar es lindo, peque\u00f1o pero bien ambientado. La pasteler\u00eda es muy buena pero la atenci\u00f3n bastante descuidada y lenta. Est\u00e1 bueno para merendar."
+    }, 
+    {
+      "date": "13 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "PenelopeGlamour", 
+      "text": "Estupendo lugar en zona de outlets para disfrutar de riqu\u00edsimas opciones en panader\u00eda y pasteler\u00eda junto con un buen caf\u00e9 o almorzar una amplia variedad de sandwiches calientes similares a los que podr\u00edas comer en una estaci\u00f3n de servicio, cadenas habana, caf\u00e9 Mart\u00ednez y dem\u00e1s ofertas similares. La diferencia esta en la atenci\u00f3n y calidez del lugar."
+    }, 
+    {
+      "date": "26 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Teddy", 
+      "text": "Lugar tranquilo, muy bien ubicado en la zona de outlets en pleno crecimiento. No lo calificar\u00eda como restaurant sino como un caf\u00e9 para desayunar o merendar. Nada sofisticado."
+    }, 
+    {
+      "date": "17 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "diffi", 
+      "text": "La ensalada cesar estaba sabrosa pero poco abundante falt\u00f3 pollo, empanadas con masa casera rica pero la de carne muy l\u00edquida y poco rellena"
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "laina", 
+      "text": "La verdad que un lindo lugar para una merienda, trabajar un poco a la tarde en su patiecito, y compartir con amigos. Muy recomendable!."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Shymmy", 
+      "text": "Es excelente!!! Voy todos los sabados y se come genial y baratisimo!"
+    }, 
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "abreimel", 
+      "text": "estuvo todo excelente. fui con unos turistas americanos y quedaron sorprendidos. muy buena la atencion y los precios"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "querzo", 
+      "text": "Fuimos dos veces con mi pareja, la primera todo muy bien ahora la segunda dejo mucho que desear, pedimos un capuchino y un submarino con dos porciones de postre Balcarse, el cual era viejo, directamente un pedazo de piedra y cuando se lo dijimos al mozo, solo atino ah decir, \"le dire al responsable\", y volvio con al cuenta. Deberia darles verguenza llevar eso a la mesa."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "soygolosa", 
+      "text": "la verdad me sorprendio, esperaba solo una heladeria, comi algo rapido pero bien servido y el lugar es muy acogedor"
+    }, 
+    {
+      "date": "15 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "Es una helader\u00eda!!!!!!!!!!!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Patroclo", 
+      "text": "Son los mejores helados de San Telmo con una excelente atencion de sus due\u00f1os y empleados. Un lugar tranquilo para poder tomar helado, cafe con tortas o licuados con charla con amigos de por medio."
+    }
+  ]
+}

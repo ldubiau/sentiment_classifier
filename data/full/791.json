@@ -1,0 +1,408 @@
+{
+  "malos": [
+    {
+      "date": "13 Jul 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Chucho", 
+      "text": "caro y malo no volveria nunca mas"
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cfederico", 
+      "text": "Un precio exorbitante para lo que dan. Yo comi una ensalada Cesar, que no tenia gracia alguna, era un poco de lechuga con pollo hervido sobre ella."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "madame", 
+      "text": "Interesante lugar, con un buen espacio afuera para tomar cafecito. En la carta hay cafe Lavazza. Este cafe tiene un sabor particular que no se encuentra disponible en otros lugares.\r\n\r\nLa carta de comidas es tentadora. \r\n\r\nHay cerveza tirada y otras. Amplio espectro para probar.\r\n\r\nHay tambien happy hour de dos por uno, para aprovechar."
+    }, 
+    {
+      "date": "10 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "chiquitalinda", 
+      "text": "No es el lugar que elegir\u00eda, pero fui con alguien del barrio que siempre come bien. La panera no es del otro mundo (panes que se compran congelados) y un quesito de dip. Ricas las rabas, apanadas en pan rallado (??) pero devolv\u00edmos la tortilla, apenas pasada del punto pedido, porque ten\u00eda un gusto que no puedo terminar de definir, como si algo hubiera estado con vinagre (al que soy extremadamente sensible), as\u00ed que algo sali\u00f3 mal. Nos la descontaron de la cuenta, en correcta actitud. Me pareci\u00f3 caro,  tampoco es de mi estilo, y no s\u00e9 si volver\u00eda."
+    }, 
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "alibea", 
+      "text": "El ambiente muy lindo,el servicio r\u00e1pido, la pizza muy finita para mi gusto, los postres ricos y el caf\u00e9 fr\u00edo. Las porciones parecen escasas y los  precios un poco elevados. No volver\u00eda."
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sathia", 
+      "text": "Ambiente moderno, mesas sin mantel,muy floja la carta de vinos,panera pobre, atendido por mozas y mozos sin experiencia, pero ponen voluntad, muy buena la comida y su presentaci\u00f3n, ideal para ir si no queres moverte de la zona de Devoto."
+    }, 
+    {
+      "date": "24 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jomalen", 
+      "text": "Es ruidoso, con atencion poco profesional, ricos platos pero algo caros. para gente estirada. no es de mi preferencia"
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sefeca", 
+      "text": "Como siempre excelente. No por ser tradicional dejo la excelencia de lado. La comida esta muy bien presentada y es de muy buena calidad. No se escatima nada. Para recomendar, no defrauda.-"
+    }, 
+    {
+      "date": "22 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "solilu", 
+      "text": "Y fuimos por la pizza !! No sin antes degustar las delicias del alcahucil, berenjenas, las carnosas olivas negras,acompa\u00f1adas por buffala y los incomparables ajos blancos espa\u00f1oles de AMANIDA. La pizza de rucula con parmesano ... excelente !! La atencion esmerada de siempre lo convierte en sitio para recomendar."
+    }, 
+    {
+      "date": "12 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fer4470", 
+      "text": "He concurrido varias veces y siempre he disfrutado. Debemos ubicarnos en un restaurante agradable y tradicional de Devoto, donde va mucha gente del barrio y es una de las mejores alternativas de la zona. Excelente burrata, buena comida armenia, buenas ensaladas. Debe mejorar un poco la carta de vinos. La presencia permanente de los due\u00f1os soluciona muchos inconvenientes del joven servicio."
+    }, 
+    {
+      "date": "27 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "qwerty2010", 
+      "text": "El dueno es un fanatico de alta tecnologia. Tiene LCD & LED T/V de 40 - 60 pulgadas por todos los rincones. Un lugar de barrio que no esta nada mal. Seleccion de comida armenia interesante y muy buenas ensaladas. Prueben langostino a la miel. Paleta de pintor, ensalada mediterranea, ravioles de verdura, etc...\r\nUn lugar de Devoto en donde los vecinos van para ser vistos y para ver. Precio de Puerto Madero."
+    }, 
+    {
+      "date": "25 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "yarbik", 
+      "text": "Es la primera vez que vamos con mi mujer ya que no somos de la zona.La verdad es que comimos muy bien.Para volver."
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "solilu", 
+      "text": "Con la opcion de cenar al aire libre, con una buena atencion, se presentan variadas opciones ,incluyendo algunas de la comida armenia.\r\nSabores muy logrados. Para volver."
+    }, 
+    {
+      "date": "19 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "El_Tano", 
+      "text": "La comida, muy buena y bien presentada, postre, excelente, atenci\u00f3n, excelente, est\u00e1 para volver, no muy seguido, ya que es un poco caro"
+    }, 
+    {
+      "date": "2 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "silo", 
+      "text": "Nos parecio muy caro por lo que comimos. Tardaron un monton en atendernos y muchisimo mas en traernos un lomito al plato. No volveria."
+    }, 
+    {
+      "date": "30 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Baloon", 
+      "text": "Es un amibiente familiar atendido por sus due\u00f1os que estan en cada detalle. La comida es muy buena , mucha variedad y de muy buena calidad. Recomiendo la comida armenia y el langostino a la miel."
+    }, 
+    {
+      "date": "5 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "lailalaila", 
+      "text": "Demasiado caro para lo que se ofrece. La comida es muy buena, pero no sobresaliente. La atenci\u00f3n deja mucho que desear. Si no fuera por los due\u00f1os,que est\u00e1n presentes, las mozas no saben hacer su trabajo. Adem\u00e1s, el ambiente es muy ruidoso y las mesas est\u00e1n muy juntas. Por ese precio hay mejores ofertas, incluso en la zona."
+    }, 
+    {
+      "date": "5 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "jomalen", 
+      "text": "La comida es muy buena , el ambiente es muy ruidoso y el servicio es deficiente. mozas no preparadas para la tarea. quizas un poco caro para lo que se ofrece. va lo mas chic de devoto, prefiero lugares mas tranquilos."
+    }, 
+    {
+      "date": "29 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "laotramusica", 
+      "text": "La calidad de lo pedido, para ser una merienda, estuvo correcta. La atenci\u00f3n fue muy lenta y con un detalle imperdonable: que te pongan (con el cliente a\u00fan en la mesa) el cartel de \"mesa reservada a partir de las 20.45\" a las 18.15 es no s\u00f3lo una muestra de amateurismo sino de lisa y llana mala educaci\u00f3n. No s\u00f3lo motiv\u00f3 que nos levant\u00e1semos lo antes posible para irnos, sino que decida no volver."
+    }, 
+    {
+      "date": "4 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Habia escuchado q el lugar era excelente para tapear con una cerveza antes de comer... asi q me dispuse a ver si era asi.. en resumen, la atencion regular, tardaron a\u00f1os en venir a tomar el pedido, pedi una cerveza con una porcion de jamon crudo y queso, porq su famoso tapeo no estaba disponible, la cerveza casi caliente y el jamon crudo no se diferenciaba mucho del q como en un tenedor libre, me cobraron $40 x 5 fetas de jamon y unos pedacitos de queso y la cerveza, no se justifica... el ambiente es agradable, volveria para tomar un cafe por la tarde"
+    }, 
+    {
+      "date": "17 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Upau88", 
+      "text": "La comida buena, pero no justifico el precio, mas alla de la inflacion, el lugar y el servicio, muy bien."
+    }, 
+    {
+      "date": "9 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "BAGUET", 
+      "text": "Lo mejor del caf\u00e9 de la plaza es que no importa a la hora que llegues siempre tienen la cocina abierta y es muy buena."
+    }, 
+    {
+      "date": "7 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "olsen", 
+      "text": "Teniendo en cuenta el estilo, modernoso y algo fr\u00edo para mi gusto, el lugar y la comida son correctos. Precio a tono con el lugar. Prefiero ir a tomar un caf\u00e9 un domingo por la tarde."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mbarbatelli", 
+      "text": "La verdad que se encuentra en unos de los lugares mas maravillosos de Buenos Aires, luminoso, comodo, la atenci\u00f3n impecable y la comida excelente."
+    }, 
+    {
+      "date": "7 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Criss74", 
+      "text": "Ambiente moderno pero acogedor, excelente comida y buena atenci\u00f3n. Pedimos un pollo agridulce con risoto, 10 puntos! y bondiola con batatas fritas y ensalada verde, impecable tambi\u00e9n! \r\nCombina muy bien ser \"de barrio\" con tener platos de alto nivel. Es un lugar recomendable para ir en cualquier momento porque la carta de caf\u00e9s y tortas es muy buena, para ir a desayunar o merendar y si se busca comida tambi\u00e9n se encuentran excelentes opciones."
+    }, 
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Crispino", 
+      "text": "Siempre vamos al mediod\u00eda. Si bien el ambiente no es el que m\u00e1s me agrada, la comida ES GENIAL. Todo es rico, las pastas, las carnes, hasta la comida armenia y las `pizzas. 100% recomentable. La tarta de salm\u00f3n que preparan all\u00ed es sin lugar a dudas la m\u00e1s rica que com\u00ed en mi vida. Adem\u00e1s de tener una buena carta de postres, tienen buenas alternativas de vino en copas y con el dosificador est\u00e1n siempre bien conservados. Las mozas son las mismas de hace muchos a\u00f1os (la mayor\u00eda) y son super atentas."
+    }, 
+    {
+      "date": "22 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danielsky", 
+      "text": "fuimos a la noche comimos rabas y luego una piza como principal, la piza es buenisima es finita pareceria a la piedra. y de postre comimos la creme brulee. todo muy rico. pedimos cerveza en chopp."
+    }, 
+    {
+      "date": "13 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MEIGA", 
+      "text": "Tiene buenos platos como los langostinos a la miel, tambi\u00e9n es rica la pizza en opci\u00f3n m\u00e1s econ\u00f3mica, las tortas para acompa\u00f1ar un te o caf\u00e9. No se mezquina calidad de los alimentos y eso hay que pagarlo. Lo mejor y m\u00e1s confiable de la zona."
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mceitlin", 
+      "text": "En mi opini\u00f3n, el mejor restaurant de Villa de Devoto. Comida de la mejor calidad, el ambiente muy agradable. Vale lo que se paga!"
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Stiej", 
+      "text": "Es un lugar muy agradable para comer. La comida esta muy bien preparada, con gusto y con materias primas muy buenas. El precio puede ser un poco elevado a veces, considerando que se trata de un cafe con individuales de papel y mesitas pequenias."
+    }, 
+    {
+      "date": "10 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lmpe", 
+      "text": "Nos gusta much\u00edsimo ir al cafe de la plaza. fuimos varias veces y nunca me defraudaron. la comida es excelente. la carta no es muy amplia pero los fines de semana la incrementan con algunos platos especiales. la atencion de las mozas es muy buena, al igual que la de  los due\u00f1os que estan permanentemente en el sal\u00f3n. un lugar para mi especial, para concurrir solo o en familia. durante la ma\u00f1ana con un rico cafe y el diario o a la tarde con una rica porcion de torta. al mediodia y a la noche para deleitarse con los riquisimos platos.   un lugar para recomendar."
+    }, 
+    {
+      "date": "30 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "el_lider", 
+      "text": "No porque sea del barrio digo que este lugar es uno de los mejores restaurants de Buenos Aires. El ambiente es exelente, la comida en las 20 veces que concurri, no me defraudo nunca,solo puedo criticar cierta baja en la atencion, ya que nos tenian acostumbrados a estar como en casa. Lugar como pocos y para ir seguido."
+    }, 
+    {
+      "date": "16 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sancci", 
+      "text": "Suena caro una milanesa y una ensalada de Rucula,radicheta y berro,son articulos caros.La zona es espectacular,la comida es muy buena,se nota de lejos que es calidad premium,como la presentacion de los platos,la atencion,el ambiente es premium tambien,la carta de vinos,vasta y extensa,mas que buena.\r\nEl precio,no me importo por que lo vale.\r\nVOLVERE EN FAMILIA CUANDO PUEDA."
+    }, 
+    {
+      "date": "2 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Agui", 
+      "text": "La verdad que el ambiente es muy bueno, pero este lugar se destaca por sus comidas. No tiene nada que envidiarle a los restaurantes de alta gama.(los precios tampoco) Si queres salir en familia y comer bien, lo recomiendo. Eso si, lleva la tarjeta de credito (por si no te alcanza el efectivo)"
+    }, 
+    {
+      "date": "19 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "boleros", 
+      "text": "es un lujo para zona, muy practicos , amables y las comidas muy bien preparadas . Se nota que esta en manos de profesionales de la gastronomia moderna."
+    }, 
+    {
+      "date": "11 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "santi220", 
+      "text": "excelente realmente vamos muy seguido y comemos siempre muy bien, un clasico del barrio. Para recomendar la fugazzeta rellena, strudel de verdura, y las milanesas de peceto. la atencion es excelente siempre muy atentos y la comida es sabrosisima."
+    }, 
+    {
+      "date": "13 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mapalaci", 
+      "text": "Cada vez se come mejor. Todos los platos son buenos.\r\nLa cocina es comparable con los mejores sitios de Buenos Aires."
+    }, 
+    {
+      "date": "25 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mozamb", 
+      "text": "La comida es de lo mejor de Buenos Aires aunque cueste creerlo."
+    }, 
+    {
+      "date": "22 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Anitus", 
+      "text": "El ambiente muy c\u00f3modo, se destaca por la presencia y amabilidad de sus due\u00f1os.\r\nEl volc\u00e1n de chocolate, imperdible."
+    }, 
+    {
+      "date": "8 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "phillis", 
+      "text": "Riquisima comida, muy bien pereparada y presentada."
+    }
+  ]
+}

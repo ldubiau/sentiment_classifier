@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "elalber10", 
+      "text": "P\u00e9sima atenci\u00f3n (el moso se equivoc\u00f3 con el pedido y tard\u00f3 mucho), pechuga de pollo calcinada, la verdad no vuelvo m\u00e1s. Ni a \u00e9ste ni el local de Flores"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AleGrisoni", 
+      "text": "Fui el s\u00e1bado al mediod\u00eda, mitad del sal\u00f3n vac\u00edo. Mozos por doquier, pero m\u00e1s preocupados por la Euro que pasaban en los LCDs que por atender. \r\nPedimos una milanesa napolitana con ensalada mixta, la trajeron con papas fritas. Pedimos Aquarius de manzana, trajeron Ser Citrus. \r\nLa comida normal, nada para destacar."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PizzaHut", 
+      "text": "La pizza no es de 10 porciones como en el otro local de Flores pero igual esta buena al ser de 8, la atenci\u00f3n es con ganas de sacarte r\u00e1pido de la mesa y desocuparla, el local est\u00e1 lindo porque es nuevo, las pizzas especiales son algo caras, los ingredientes de las mismas muy buenos"
+    }
+  ]
+}

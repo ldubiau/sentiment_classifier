@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "olsen", 
+      "text": "Es un bodeg\u00f3n de barrio sin atractivo alguno que ha sufrido cambios de  personal. Le han lavado un poco la cara al local pero no alcanza: ha bajado sustancialmente la calidad de los platos y en forma proporcional la cantidad de parroquianos. Para el que le guste probar, una buena : es barato."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "gabrielmosca", 
+      "text": "un afano. bondiola quemada 3 horas para que te sirvan . nunca mas"
+    }, 
+    {
+      "date": "10 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Laurakis", 
+      "text": "Fui para probar el jabal\u00ed y me pareci\u00f3 riqu\u00edsimo!!! Voy a volver a probar otras especialidades. El lugar no es muy grande; tiene promociones y a veces hay platos especiales para alguna fecha determinada."
+    }, 
+    {
+      "date": "12 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ezanardi", 
+      "text": "Vale la pena ir a Ballester..Un lugar austero, pero super calido y familiar, con excelente atenci\u00f3n y platos tipicos alemanes realmente increibles."
+    }, 
+    {
+      "date": "24 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pablo1969", 
+      "text": "una gran alegria que abran a la noche, una exquisites el Eisbein y ademas sumado a la gran cantidad de amigos que me encontre un gusto y volvere muy pronto"
+    }, 
+    {
+      "date": "25 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alexander", 
+      "text": "Un lugar muy recomendable para disfrutar de la tipica cocina alemana"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "RudyF", 
+      "text": "Una esquina maravillosa (Deutsche Ecke significa esquina Alemana), prob\u00e9 el Jabal\u00ed, es exquisito !! el cheese cake es el mejor. Por ahora abren solo mediod\u00eda, prometen abrir los s\u00e1bados a la noche, trato familiar y como pude ver, un lugar de encuentro de vecinos y amigos.\r\nLa relaci\u00f3n calidad + cantidad + precio, insuperable, conviene ir temprano porque despu\u00e9s hay espera. (Reservan solo para casos puntuales)."
+    }
+  ]
+}

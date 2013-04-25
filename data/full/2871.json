@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "6 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "dll_ar", 
+      "text": "Comimos pizzas bien caseras, y la entrada fueron unos nachos, muy ricos tambien. Solo le critico q tardaron muchisimo en servirnos y q el lugar era extremadamente oscuro."
+    }, 
+    {
+      "date": "2 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "espiral", 
+      "text": "Muy buen ambiente para ir en pareja o con un grupo de amigos. La comida es buena y la bebida es economica, muy buenos los tragos. La atencion es buena aunque se nota un poco desordenada."
+    }, 
+    {
+      "date": "1 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mariaagustina", 
+      "text": "lo recomiendo, un lugar con un ambiente muy bueno"
+    }, 
+    {
+      "date": "6 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Remo", 
+      "text": "Muy buen lugar. La comida excelente y bien emplatada. Yo comi un lomo al malbec que estaba delicioso y mi mujer unas pastas muy buenas. La atenci\u00f3n es muy correcta. Buena variedad de tragos. Super recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carlosmagno", 
+      "text": "la verdad muy buen lugar, un pub con todas las letras.. saludos y gracias!!"
+    }, 
+    {
+      "date": "16 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lharillo", 
+      "text": "La comida es muy sabrosa, te la sirven r\u00e1pido y en el punto exacto. El lugar est\u00e1 muy bien aclimatado, le pusieron onda por todos lados. La atenci\u00f3n es buena, no fue de lo mejor pero estuvo bastante aceptable. Algo raro fue que antes de irme, me hicieron algunas preguntas tipo de testeo de calidad y servicio. Es un buen lugar, tambi\u00e9n para ir de joda con amigos y amigas. Totalmente recomendable."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Diego_", 
+      "text": "Me gust\u00f3 mucho el lugar, tiene un ambiente con mucha onda, la atenci\u00f3n durante la cena fue muy buena y durante la noche no es excelente pero es un poco la onda del lugar. Es mas un pub donde te podes acercar a la barra y deambular por todos lados. La verdad me gust\u00f3 mucho.\r\n\r\notra cosa que es raro ver, los ba\u00f1os estaban muy buenos y limpios."
+    }
+  ]
+}

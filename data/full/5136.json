@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "26 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Gourmetadicta", 
+      "text": "Fui este sabado a las 13.30 y no tenian chinchulines, porque todavia los estaba hirviendo!!!! El mozo, una mala onda terrible, nos recomendo el vacio...el cual era recalentado! Las papas fritas, que salieron en una nota como las mejores de la ciudad, estaban horribles. No voy mas...La verdad no se que les pudo pasar, las veces anteriores, la relacion precio-calidad, era impecable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "torrente", 
+      "text": "Las carnes excelentes, tiern\u00ecsimas. Ya fui dos veces en una semana. Pedi asado y otra vez matambre a la pizza. Los precios muy accesibles. Todo de diez en este lugar del cual me quiero hacer conocido. Que carne!!!!!!!Lo que dice para dos personas, imposible terminar, fue descubrir un tesoro para comer bien en cantina, carne de la mejor. Una Sra. moza capa total, muy piola."
+    }, 
+    {
+      "date": "11 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marianaca", 
+      "text": "T\u00edpica parrilla porte\u00f1a, de ambiente confortable sin pretenciones.Es el lugar indicado para comer muy buenas carnes a un precio realmente accecible. Las porciones son grandes y la atenci\u00f3n correcta. En las mesas de afuera se juntan gente joven y turistas. S\u00faper recomendable."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "lgamuffin", 
+      "text": "Muy buenas pizzas, amasadas a la vista, excelente variedad de empanadas. Atenci\u00f3n r\u00e1pida, no muy cuidada. Ambiente ruidoso."
+    }, 
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Caleb", 
+      "text": "Se puede pedir. La pizza es de un tama\u00f1o y sabor razonable. Entregan r\u00e1pido y caliente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Mistered", 
+      "text": "Hacen una pizza realmente deliciosa, cuya relacion costo/calidad es aceptable. Habria que mejorarle un poco la atencion."
+    }, 
+    {
+      "date": "5 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Puruccis", 
+      "text": "Las empanadas son sencillamente ESPECTACULARES! \r\n\r\nRecomiendo:\r\n- capresse\r\n- roquefort\r\n- carne cortada a cuchillo\r\n\r\nlas pizzas son muy buenas\r\nlas tortillas de papa son incre\u00edbles y el pan de pizza tambi\u00e9n,\r\n\r\npedido a domicilio en tiempo!"
+    }, 
+    {
+      "date": "27 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JuanFantasia", 
+      "text": "La pizza es simplemente exquisita, recomiendo las empanadas de carne cortadas a cuchillo."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "17 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mcgomes", 
+      "text": "comida boa-f\u00e9 s\u00f3 o bife estava um pouco duro. Bom pre\u00e7o e bom atendimento."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Sudakatux", 
+      "text": "Malisimo lugar, te llama la facha de barato y cuando entras te cobran hasta el pan. Como lugar mal pintado, con un router wifi pegado con cinta a la pared, a una cuadra se come en tonno por 24 pesos y te dan un cafe."
+    }, 
+    {
+      "date": "2 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lurodera", 
+      "text": "El ambiente es familiar,la atencion es muy amena y la comida es muy buena,muy recomendable."
+    }, 
+    {
+      "date": "29 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "agusw", 
+      "text": "muy buena la atenci\u00f3n"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Miguel", 
+      "text": "Me pareci\u00f3 un lugar familiar y agradable."
+    }
+  ]
+}

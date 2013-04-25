@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "NATTALINNA", 
+      "text": "Malo. A mi comida le faltaba gusto y se olvidaron el plato de un amigo. No nos pidieron disculpas,  la verdad, no vuelvo."
+    }, 
+    {
+      "date": "14 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "PETERBOLI", 
+      "text": "LA COMIDA NO ES RICA Y MENOS ABUNDANTE . EL PERSONAL TE DESTRATA ."
+    }, 
+    {
+      "date": "16 Dic 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lililedesma", 
+      "text": "Tuvimos que retirarnos sin terminar el men\u00fa ya que estuvimos una hora esperando que nos completaran la carne, despu\u00e9s de las achuras. \r\nLas achuras las esperamos una hora y trajeron porciones recalentadas.\r\nEl pago era s\u00f3lo efectivo. No ten\u00eda cambio de $100 para pagar $53. Noche desastrosa."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "La cena estuvo buena. Sin descollar a pesar de algunos errores (se equivocaron en el pedido pero subsanaron el error) y una limitada selecci\u00f3n de vinos. \r\nEl lugar es agradable y la relaci\u00f3n precio/calidad resulta atractiva."
+    }, 
+    {
+      "date": "15 Oct 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ftraverso", 
+      "text": "Los ba\u00f1os son sucios (\u00a1Adem\u00e1s hay que pasar por la cocina para llegar!). \r\nLa atenci\u00f3n es bastante deficiente, no ten\u00edan los 3 primeros vinos que pedimos (y figuraban en la carta) y te ofrecen otros m\u00e1s caros o de bodegas no muy conocidas. \r\nLas mozas no saben darte ninguna orientaci\u00f3n sobre lo que te ofrecen. El vino tinto lo sirvieron casi tibio. El show de jazz es muy bueno, pero las mesas m\u00e1s cercanas al escenario deber\u00edan ser para tomar algo nada m\u00e1s, y reservar para cenar las de m\u00e1s atr\u00e1s, est\u00e1bamos conversando en la mesa y la moza nos pidi\u00f3 que no lo hagamos. \r\nLa comida normal, aunque nos cay\u00f3 mal a algunos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sebash", 
+      "text": "Los platos realmente exquisitos y tambi\u00e9n el show de jazz que hay viernes y s\u00e1bados. \r\n\u00a1Muy recomendable!"
+    }, 
+    {
+      "date": "20 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ValeryRoth", 
+      "text": "El lugar es espectacular. La comida excelente. Nos fuimos tan encantados que decidimos festejar nuestro casamiento ah\u00ed. Muy recomendable."
+    }, 
+    {
+      "date": "13 Nov 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carmaiz", 
+      "text": "Muy buenos los shows de los  viernes y sabados."
+    }, 
+    {
+      "date": "17 Feb 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "matiasfi", 
+      "text": "Muy buen ambiente, ideal para parejas. Descuento por pagar en efectivo."
+    }
+  ]
+}

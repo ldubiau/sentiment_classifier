@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "novygourmet", 
+      "text": "Fuimos con muchas ganas de saborear platos fusionados de nuestra comida con algunas latinoamericanas y de otros lares, pero.....sabado de enero, 2130 hs, y el lugar estaba CERRADO!!! Una falta de respeto no advertir, aunque sea en su propia pagina...."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Oliveira", 
+      "text": "La propuesta es muy interesante, con platos de distintos pa\u00ecses latinoamericanas. Es excelente la panera: pan caliente, cancha peruana y hasta pochoclo!, acompa\u00f1ada de pur\u00e9 de berenjenas. No cobran cubierto ni servicio de mesa. Las porciones son grandes y los platos muy bien preparados."
+    }, 
+    {
+      "date": "24 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "anitadi", 
+      "text": "fue una experiencia diferente, la comida muy sabrosa y la atencion como debe ser, atenta y calida. lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nanas", 
+      "text": "Excelente la idea de un lugar de comida latinoamericana fusi\u00f3n.\r\nUn lugar agradable, con una muy buena atenci\u00f3n y excelente la comida. Para ir conocer las distintas propuestas."
+    }, 
+    {
+      "date": "18 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "_Dario_", 
+      "text": "Excelente, la comida fue buenisima y la atenci\u00f3n impecable.\r\nLa ambientaci\u00f3n del local esta muy buena. Lo recomiendo!"
+    }, 
+    {
+      "date": "24 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ce_28", 
+      "text": "Muy recomendable! ideal para ir con amigos a relajarse! La atencion y la comida son excelentes!"
+    }, 
+    {
+      "date": "27 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vic7", 
+      "text": "Rl restaurante es maravilloso, la comida es super rica y muy abundante y nos atendieron muy bien. La entrada (brochete) es muy muy rica tambien y las bebidas son muy accesibles."
+    }
+  ]
+}

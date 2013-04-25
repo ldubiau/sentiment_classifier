@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "15 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alesasin", 
+      "text": "Muy buena comida, muy buenos platos. Una carta no muy extensa pero surtida y apetecible. \r\nPara recomendar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "Muy buena propuesta, c\u00e1lido ambiente y atento servicio. Buenas promociones."
+    }
+  ]
+}

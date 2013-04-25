@@ -1,0 +1,688 @@
+{
+  "malos": [
+    {
+      "date": "24 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nino", 
+      "text": "Fuimos por comentarios de amigos, y la verdad que no lo recomiendo el ambiente deprimente, el servicio malo(demoraron casi 1 hora en servirnos y estabamos  solos literalmente).La comida no pasa de discreta no vuelvo."
+    }, 
+    {
+      "date": "4 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "tintincho", 
+      "text": "la carne salio mala, dura y parecia recalentda y la persona que me etendio la queja nos trato muy mal , como si la culpa de haber comprado ahi era mia.que pena"
+    }, 
+    {
+      "date": "15 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "mercho", 
+      "text": "la tira de asado estaba seca y un poco dura, quiz\u00e1 por ser s\u00e1bado estaban desbordados, voy a probar un d\u00eda com\u00fan.."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Hac\u00eda bastante que no \u00edbamos a este restaurante y nada cambi\u00f3 en cuanto a la calidad de la comida, la atenci\u00f3n y la pulcritud del lugar, (todo correcto).  S\u00f3lo encontr\u00e9 cambiado ( y para bien) el frente, m\u00e1s iluminado, que le dio m\u00e1s vida a esa esquina algo escondida de Boedo. Buena parrilla, buenos postres y buenos precios, hacen que siga siendo muy recomendable."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DreamAttack", 
+      "text": "Buena experiencia. El lugar no es grande pero las mesas no estan pegadas, no es demasiado ruidoso.\r\nLa comida es buena, bien preparada.\r\nBuena atenci\u00f3n, tanto a nosotros como a los chicos en la zona infantil.\r\nLos ba\u00f1os, limpios (aunque no andaba el agua caliente)."
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "MrDomyn", 
+      "text": "Es la cuarta vez que voy y mi \u00faltima experiencia fue completamente diferente a todas las anteriores. En primer lugar teniamos reserva hasta las 21.30, llegamos a las 21.22 y de bienvenida nos dijeron q estabamos \"tarde\". La atenci\u00f3n de la moza fue mal\u00edsima: confundi\u00f3 los pedidos, muy mal trato y muy malos modos La comida en general fue buena, salvo el vac\u00edo y las achuras que parec\u00edan de utiler\u00eda. Por \u00faltimo, el descuento que sol\u00edan hacer por pago en efectivo (hace 2 semanas atr\u00e1s me lo hicieron) ya no corre m\u00e1s, o al menos no para  esta oportunidad. No vuelvo m\u00e1s..."
+    }, 
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "arnaldhugo", 
+      "text": "Buena carta, variada. Principalmente parrilla. Comi muy bien, y es buena la atencion."
+    }, 
+    {
+      "date": "21 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MrDomyn", 
+      "text": "Pedimos la picada mixta de carne: matambre relleno, bondiola, matambre de cerdo y entra\u00f1a, mas un mix de achuras. Todo estaba en su punto justo. Lo acompa\u00f1amos con unas batatas fritas deliciosas. Muy buena la bandeja de pan. Es para volver. La atenci\u00f3n, p\u00e1rrafo aparte, fue excelente."
+    }, 
+    {
+      "date": "24 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "marum73", 
+      "text": "Panera pobre. Porciones generosas. Buen tratamiento acustico (podes mantener una conversacion). El bife de chorizo servido sobre las papas fritas es casi una tortilla. La marquisse estaba helada y el helado con sabor a aceite hidrogenado, el tiramisu poco tenia de la version original, apoyo la idea de quien no recomienda los postres. Los chicos bien atendidos y las mozas muy serviciales."
+    }, 
+    {
+      "date": "7 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "galante", 
+      "text": "Nosotros fuimos d\u00eda de semana, el lugar ameno pedimos una parrilla que era variada, abundante, el vacio estaba muy tierno no as\u00ed el asado, el resto muy bien. Lo acompa\u00f1amos con una porci\u00f3n de papas fritas que estaban muy saturadas de aceite, la atenci\u00f3n de la camarera muy bien. Los ba\u00f1os muy limpios."
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Anibal1982", 
+      "text": "La comida muy buena, el lugar podria mejorarce aunque esta bien puesto y con lugar para que los chicos jueguen despues de comer. La unica critica es la excesiva demora en la atencion . . ."
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tanatanita", 
+      "text": "Nos encant\u00f3 el lugar para ir con chicos, la persona que los cuida muy dulce y dedicada a ellos. El servicio un poco lento cuando el sal\u00f3n esta completo. Las carnes y pastas EXCELENTES, muy sabroso y en su punto justo, abundante y materias de primera calidad. Los postres dejan mucho, pero mucho que desear, la marquise dista de la verdadera marquise (ten\u00eda m\u00e1s gusto a nesquik que a chocolate de reposter\u00eda), el cheescake incomible, el panqueque fue el mejor (pero no destacable de los 3 postres que pedimos). Hacen descuento por pago en efectivo. RECOMIENDO Y VOLVEREMOS!!!"
+    }, 
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar tranquilo donde se come bien, a muy buenos precios. Con una correcta atenci\u00f3n y en un ambiente familiar, ofrecen un peque\u00f1o espacio para ni\u00f1os que se entretienen jugando bajo el cuidado de una persona encargada del mismo. En relaci\u00f3n a los precios, las porciones son abundantes. Muy bueno."
+    }, 
+    {
+      "date": "11 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "debaires", 
+      "text": "Excelente lugar. Los platos no est\u00e1n marcados, un pollo con pur\u00e9 y br\u00f3coli muy rico. Los mozos muy amables y clima familiar. LA chica que cuida a los ni\u00f1os muy atenta. Para volver y econ\u00f3mico."
+    }, 
+    {
+      "date": "11 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ari66", 
+      "text": "La atencion excelente, la comida ahi, el ojo de bife estaba maso, seco, las mollejas era un plato muy pretencioso, igual vuelvo a darle otra oprtunidad ya q creo q en este caso nos equivocamos nosotros en la eleccion de los platos.\r\nLa atencion destacadisima."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nico80", 
+      "text": "Excelente atenci\u00f3n. Eramos 4 personas y pedimos parrillada ESPECIAL para 2 y comimos bien. Con bebida y dos cafe gastamos $ 191 y obtuvimos una devoluci\u00f3n del 10 % por abonar en efectivo. Lo recomiendo ampliamente."
+    }, 
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nano00", 
+      "text": "Para poder merituar este lugar no se puede ignorar lo que es: un restaurant de barrio, sin mayores pretensiones, donde se puede comer bien a precios razonables.\r\nCon el tema del precio ayuda que algunas porciones se pueden compartir. La atenci\u00f3n es atenta; la moza segu\u00eda de buen humor a pesar de ser \u00faltima hora.\r\nAdem\u00e1s tiene un peque\u00f1o espacio para los nenes, con una chica que pacientemetne los cuida."
+    }, 
+    {
+      "date": "26 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mercury", 
+      "text": "El lugar me parecio agradable aunque mal mantenido con manchas de humedad y algunos detalles de pintura. El ba\u00f1o deja mucho que desear.\r\nLa atencion correcta, buen asesoramiento aunque lenta y la camarera desaparacia frecuentemente.\r\nLos chorizos y el asado regular, La provoleta y el matambre relleno excelentes. De postre flan muy rico.\r\nEn general se come bien, aunque me parecio un poco caro."
+    }, 
+    {
+      "date": "22 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MCibils", 
+      "text": "RECOMENDABLE.\r\nDia del padre, lleno:\r\nContras: Con reserva y todo las ubicaciones eran mas o menos por orden de llegada. El ambiente bastante ruidoso y las mesas muy pegadas.\r\n\r\nPros: El servicio, impecable y con muy buena onda, raro en estas fechas. La comida buena, las porciones bien calculadas. Muy bien preparada la carbonara (raro hoy en d\u00eda). \r\nRicos los postres, las copas heladas para compartir, aunque se dificulta por el tipo de copa en que sirve, pero de verlos pasar dan ganas de probar todos los postres.\r\nIrregular la oferta de vinos, pero en precio."
+    }, 
+    {
+      "date": "9 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fedevan", 
+      "text": "Ambiente muy agradable, esta vez no me pareci\u00f3 tan ruidoso. Fuimos atendidos bien, algunas cosas demoraban en traerlas. EMpanadas fritas y luego al horno,bien hechas, con huevo duro, chorizo bombon bueno, la picada de carne que trae matambre (no muy rico), entra\u00f1a buena, vacio medio duro y ojo de bife bueno!. Las papas y batatas fritas sin sabor, recalentadas. Promo de Vinos tomando uno, te regalan otro. Buen pan. Recomendable y volver\u00e9."
+    }, 
+    {
+      "date": "12 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "darro1970", 
+      "text": "Buen lugar familiero, no le sobra nada, pero uno se siente muy a gusto"
+    }, 
+    {
+      "date": "8 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Brisi", 
+      "text": "Un lugar recomendado para ir en familia, con detalles tradicionales pero adaptado a los tiempos modernos. Los platos se pueden compartir, los tres paltos que pedimos estaban perfectos, si bien demoraron la moza tuvo la precaucion de avisarnos que eran platos elaborados e iban a demorar. El flan casero, mejor que el de la abuela!"
+    }, 
+    {
+      "date": "7 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "OGLI", 
+      "text": "Excelente la atenci\u00f3n, la comida muy rica y el lugar es super tranquilo para ir con chicos. Volvor\u00e9 seguro"
+    }, 
+    {
+      "date": "27 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "verys", 
+      "text": "Excelente lugar para ir en familia...la comida es muy buena, asi como la atencion ....recomendable!!"
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "silvia", 
+      "text": "fuimos en busca de un lugar que tenga lugar para chicos,es peque\u00f1o pero la chica los entretiene muy bien.La comida rica y abundante,la atencion muy buena.El ambiente es familiar y ruidoso,pero ya se sabe que en ese tipo de lugares es asi.Muy juntas las mesas,habria q invertir un poco en redecorar el lugar,puede ser un bodegon pero con mejor aspecto. no?"
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sergio43bsas", 
+      "text": "Fuimos luego de ver los comentarios de otros usuarios del sitio, y quedamos mas que conformes tanto por la atenci\u00f3n como por la comida en si.\r\nLa moza que nos atendi\u00f3, honestamente es un amor, muy educada, y a cada momento nos preguntaba si necesitabamos algo. La chica que cuida a los chicos, tambien, muy atenta y muy paciente."
+    }, 
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Juli", 
+      "text": "El lugar es un antiguo restaurant de ambiente Espa\u00f1ol y familiar que rememora viejas epocas de gloria de la clase media Argentina. Bien servido y atendido, la comida est\u00e1 a la altura, hay de todo para comer. Los chicos tiene un espacio de juegos que los mantiene entretenidos. Ideal para mesa familiar con chicos."
+    }, 
+    {
+      "date": "24 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "acade29", 
+      "text": "PARA IR CON CHICOS (hasta 6 - 7 a\u00f1os). Volv\u00e9s a un Restaurante de 20 a\u00f1os atras. Si te olvidas de la decoraci\u00f3n a los chicos los entretienen b\u00e1rbaro, la comida es buena y abundante(Parrillada especial para dos comen 4 y trae de todo, hasta 1 provoleta)Vinos so so pero baratos, la atenci\u00f3n de las camareras es muy buena, es muy barato, excelente relaci\u00f3n Precio - Calidad."
+    }, 
+    {
+      "date": "14 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "alizarin", 
+      "text": "el pan es gomoso, con un pate aumentado con agua, la comida llego a destiempo, primero el bife, a los 15 minutos las pastas para el otro comensal, luego la ensalada y despues de 30! unas batatas fritas incomibles, el postre flan con dulce de leche muy bueno"
+    }, 
+    {
+      "date": "1 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "NOFX", 
+      "text": "Es un restaurant que conviene mucho por su relaci\u00f3n precio/calidad. Muy bueno para ir con chicos, con amigos o en familia. No tiene un ambiente rom\u00e1ntico,  sino que es un lugar para pasarlo bien y charlar distendido. Es mas bien como un bodegon familiar del interior. Es muy largo: si van sin chicos, tienen opciones para ni escucharlos ni verlos.\r\nYo no tengo hijos y fui como 8 veces y la verdad que jamas los escuche.\r\nLa atenci\u00f3n suele ser muy buena. Le ponen onda.\r\nLa comida es muy rica y tiene mucha variedad. En todo aspecto cumplen.\r\nLo unico que a veces se llena mucho y terminan sobrepasados."
+    }, 
+    {
+      "date": "18 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "turu_flowers", 
+      "text": "recomiendo este lugar para gente con ni\u00f1os  menores de 7 a\u00f1os tienen una chica muy calida que los cuida  y juega con ellos mientras uno cena sin preocupaciones  la comida es muy buena pedimos entrada 2 platos 2 gaseosas  1 agua y un postre 82 pesos  la panera  es deliciosa   las pastas muy buenas la carne exelente  bodegon para recomendar"
+    }, 
+    {
+      "date": "10 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "argentina", 
+      "text": "Es un restaurante para conocer y luego volver. Ambientado como un mes\u00f3n espa\u00f1ol donde las porciones son abundantes y la comida de excelente calidad, con muy buenas materias primas. Para destacar la atenci\u00f3n esmerada que se le brinda a los chicos. Tienen un rinc\u00f3n ambientado con una placita blanda donde una monitora los gu\u00eda, dibuja con ellos, recorta figuritas etc. Si va con chicos..OLV\u00cdDESE DE ELLOS...es como si no los llevara...y quedan super-contentos. El servicio de mesa es correcto y los precios super-razonables ( promedio plato: $20) y gaseosas  menos de $5. PARA CONOCER Y RECOMENDAR."
+    }, 
+    {
+      "date": "19 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lavengadora4", 
+      "text": "un lugar agradable, la carne un poco dura, pero asi y todo le daria otra oportunidad. PAra estar en una esquina perdida del barrio de boedo, no esta tan mal."
+    }, 
+    {
+      "date": "12 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sgrossmuller", 
+      "text": "un lugar ideal para ir en familia y con chicos, muy buena la calidad de los productos; la comida es sabrosa y hay una gran variedad para elegir. Es recomendable"
+    }, 
+    {
+      "date": "14 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GabGrins", 
+      "text": "Muy buena la atenci\u00f3n. Ideal para ir con chicos ya que hay una sala blanda al lado de las mesas. Nada de olor a comida. La comida estaba muy bien."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rolin", 
+      "text": "Se come muy bien"
+    }, 
+    {
+      "date": "27 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Caleb", 
+      "text": "Un lugar al que sin dudas voy a volver seguido. El ambiente sin pretensiones, pero cuidado. Las porciones correctamente abundantes. Todo MUY sabroso, y la atencion excelente. Lo recomiendo para ir en familia."
+    }, 
+    {
+      "date": "27 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LuigiTrastorno", 
+      "text": "Utilic\u00e9 la guia Oleo para ver que restaurantes habia en una walking distance y encontr\u00e9 este. Estoy mas que sorprendido por el ambiente (me hace recordar a algunos restaurantes del interior a los que voy) y por la comida. Excelente la camarera como el ambiente, Muy recomendable!!!. Encima est\u00e1 en una esquina medio escondida de Boedo, nos sentimos como lejos de casa (una linda sensacion)."
+    }, 
+    {
+      "date": "16 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "juliat", 
+      "text": "Muy buena atencion y prefios razonables. Recomendable."
+    }, 
+    {
+      "date": "31 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vichenzo", 
+      "text": "A trav\u00e9s de un costo accesible se disfruta de una muy buena comida y atenci\u00f3n. \r\nBuena presentaci\u00f3n de los platos y buenos vinos para acompa\u00f1arlos."
+    }, 
+    {
+      "date": "13 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "b0nv1v4n7", 
+      "text": "Buen lugar. La carta es bastante completa, los platos elaborados son muy buenos, como los raviolones de salm\u00f3n con salsa de camarones. La carta de vinos es aceptable. Muy buena atenci\u00f3n y precios moderados..."
+    }, 
+    {
+      "date": "15 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "latidos", 
+      "text": "Un lugar muy familiar, la comida es buena y sobre todo los platos elaborados. \r\nEl servicio tambien es muy atento. No me gusta la iluminaci\u00f3n del lugar y la sensacion de una ambientaci\u00f3n un poco dejada o demodee. Buena carta de vinos."
+    }, 
+    {
+      "date": "12 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Milhouse", 
+      "text": "Muy bueno el ambiente, la carne muy tierna, con una parrillada especial comen 4 bien. C\u00e1lido lugar, bueno para ir con chicos, la atenci\u00f3n es muy buena y la comida te la traen r\u00e1pido. Recomendable a full."
+    }, 
+    {
+      "date": "14 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Leah", 
+      "text": "Ideal para ir con chicos. La comida es muy sabrosa y variada. El lugar es bastante grande por lo que se puede hablar tranquilo sin que el otro te escuche. Lo \u00fanico que faltar\u00eda es una persona para que cuide a los chicos."
+    }, 
+    {
+      "date": "25 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sailormoon", 
+      "text": "Lindo lugar y bien atendido.  \r\nLa parrilla es mediocre."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pinkprinces", 
+      "text": "Muy buen lugar...muy lindo ambiente.Excelente atencion y parrilla buenisima,la carta es muy variada te da ganas de comer todo y sobresaliente las chicas que atienden.Volveremos"
+    }, 
+    {
+      "date": "29 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fmarques", 
+      "text": "Fui el domingo al mediodia con la familia y la verdad que la comidad MUY buena!!, recomiendo la PICADA de Carne para dos con entra\u00f1a, vacio, ojo de bife y matambre y de postre el FLAN CASERO para compartir (IMPERDIBLE)\r\nBuen precio, tiene un peque\u00f1o salon para chicos, no es muy grande pero cumple su funcion, con una chica que los cuida.\r\nVuelvo seguro"
+    }, 
+    {
+      "date": "28 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elalber10", 
+      "text": "Excelente lugar, para reincidir indefinidamente. La camarera muy atenta y cordial. Si bien el ruido ambiente es importante, es lo l\u00f3gico para un lugar chico, no se puede pretender otra cosa."
+    }, 
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianotue", 
+      "text": "Soy de boedo pero desonocia este lugar. Realmente excelente en todos los sentidos. Si tuviera que buscar algo haciendo un esfuerzo dir\u00eca que hay pocos mozos por la cantidad de mesas. La parrillada especial vino con provoleta, pollo y toda clase de achuras. Exquisita.\r\nUna pereja tipo comiendo una parrillada con bebida s/postre no gasta mas de $140"
+    }, 
+    {
+      "date": "11 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "baltasound", 
+      "text": "Muy buena comida, porciones abundantes, una persona que juega con los chiquitos, buenos precios, buena variedad y precios en los vinos, carta muy variada y tentadora. El lugar no es muy lindo...pero si te impporta comer bien es...Muy recomendable!"
+    }, 
+    {
+      "date": "8 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Anibal1982", 
+      "text": "Una grata sorpresa, no lo conocia. Fuimos con mi se\u00f1ora y los dos nenes sobro comida y pagamos poco. Podrian mejorar un poco el lugar pero la comida es muy buena y abundante. Muy recomendable para quien busca buena comida sin demasiadas pretenciones \"esteticas\" .-"
+    }, 
+    {
+      "date": "2 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mailus", 
+      "text": "muy buena parrilada especial !! trae de todo hasta provoleta y molleja y la carne estaba en su punto justo....recomendable volveremos!!!!!!"
+    }, 
+    {
+      "date": "30 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lalalamukenio", 
+      "text": "fui porque me lo recomendo un amigo,que habia ido hace poco... la verdad es que me fui muy conforme, la comida muy sabrosa, la atencion muy cordial, y atenta, y tienen promociones que hace que uno vuelva! lo cual es una buena combinacion de calidad precio..."
+    }, 
+    {
+      "date": "15 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Javiero", 
+      "text": "Excelente, es la cuarta vez que voy y siempre igual. Uno vuelve y sabe que no hay sorpresas, eso es bueno. Llev\u00e9 unos amigos de buen comer y quedaron encantados con el lomo a la moztaza y un pollo en fondue de parmesano y hierbas  muy bueno. Muy bien los postres caseros tambien. Est\u00e1 gente est\u00e1 para las grandes ligas. Ja."
+    }, 
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adberretta", 
+      "text": "Excelente lugar para pasar un buen rato, podes ir con los chicos que hay una chica que los cuida, la relacion precio/calidad es optima. No es un lugar caro por la comida que sirven.\r\nA mi nunca me gustaron las rabas que probe en otros lados pero las de este restaurante estan barbaras, y no tengo palabras para describir la parrillada especial para dos, con provoleta incluida. Voy a volver las veces que pueda."
+    }, 
+    {
+      "date": "29 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mailus", 
+      "text": "La verdad que siguen siendo unos mi mis preferidos restaurantes el mejor de la zona de boedo"
+    }, 
+    {
+      "date": "16 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "heyflora", 
+      "text": "Nos llevamos una sorpresa con este restaurante de barrio que casi se encuentra perdido en una esquina de boedo.\r\nUn lugar excelente para comer parrilla. Ademas siempre tienen propuestas nuevas de platos groumet. Las pastas muy buenas especialmente los sorrentinos con laminas de parmesano y pomodoro italiano. Buena variedad de postres. Para recomendar el budin de pan y el brownie con helado."
+    }, 
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "krusty", 
+      "text": "La verdad que es un restaurante muy recomendable en cuanto a la comida, lo que comimos con mi novia estuvo muy rico, los platos generosos, digamos que lo justo, ni mucho ni poco. LA atencion estuvo muy cuidada, muy atentas las mozas. Hay de todo, desde pastas, pasando por comida gourmet hasta parrila, que parece ser muy buena ya que todos la pedian. Algo para destacar, no salis con olor a comida, esta bien separadas las mesas entre si.\r\nLo unico malo, es que el ambiente es bastante ruidoso."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Danette", 
+      "text": "Somos asiduos visitantes de T\u00edo Araldo, nos sentimos muy c\u00f3modas con su c\u00e1lida atenci\u00f3n siempre nos sorprenden con alg\u00fan plato. 100 recomendable."
+    }, 
+    {
+      "date": "28 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "El lugar esta ambientado con muy buen gusto. La comida es excelente siempre a punto y el servicio de camareras es digno de destacar por la amabilidad y la idoneidad con que atienden. Tiene un sector para ni\u00f1os que aunque sencillo, esta controlado por una se\u00f1orita que se dedica a ellos con mucha calidez. En pocas palabras: es un lujo tener en el barrio un lugar con tal nivel de excelencia digno de renombrados restaurantes. Para recomendar! 10 puntos!"
+    }, 
+    {
+      "date": "22 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "juandy", 
+      "text": "Concurri una noche de sabado con mi pareja, el lugar ya lo conociamos por otro nombre y nos sorprendio su cambio, ya que de la nada encontre una cocina bien armada y una parrilla por  igual.\r\nLos platos por nombre parecen todos ricos pero opte por la bondiola del abuelo, (por preferencia de agridulce).\r\nVer la parrillada de mi vecino de mesa me llamo la atencion, es mi proxima opcion.\r\nUn lugar para ir con pareja o bien con amigos."
+    }, 
+    {
+      "date": "31 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "colo", 
+      "text": "Es un lugar para recomendar con buena relacion precio/calidad. Te atienden bien y se come muy rico."
+    }, 
+    {
+      "date": "19 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dolores", 
+      "text": "Pasamos  por la esquina yendo a otro restaurante y lo vimos, nos pareci\u00f3 bueno y paramos. Realmente excelente. Atenci\u00f3n, ambientaci\u00f3n, precio. Es un lugar para regresar pues todo hace que se pase un momento muy lindo. Sigan as\u00ed."
+    }, 
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "DommyGourmet", 
+      "text": "Muy buena la parrillada especial,todo en su punto justo, la atenci\u00f3n de la maite, y la moza,excelente, siempre atentas sin molestar, buena separaci\u00f3n entre las mesas ideal para para charlar con intimidad. Muy buena la relaci\u00f3n calidad precio.Realmente una de las mejores opciones. Lo recomiendo."
+    }, 
+    {
+      "date": "20 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elgrosso", 
+      "text": "Tiene lugar para que jueguen los chicos pero no hay nadie que los cuide.\r\nLos postres son abundantes, ricos y muy baratos. Lo \u00fanico que no me gust\u00f3 fue el caf\u00e9. Y eso que lo intent\u00e9 en m\u00e1s de una vez por las dudas. Muy recomendable."
+    }, 
+    {
+      "date": "14 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "natibenavidez", 
+      "text": "Es un lugar muy c\u00e1lido, la atenci\u00f3n es excelente y eso que estaba lleno. La parrillada es complet\u00edsima. Lo recomiendo y voy a volver a ir."
+    }, 
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mailus", 
+      "text": "Me gust\u00f3 mucho, la atenci\u00f3n es super, son muy c\u00e1lidas las chicas. Me sorprendi\u00f3 por que de afuera parece caro y no lo es."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jgrossmuller", 
+      "text": "Muy buena comida, buen ambiente y esmerada atenci\u00f3n, falta un poco de coordinaci\u00f3n...poquito."
+    }
+  ]
+}

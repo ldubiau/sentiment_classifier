@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "27 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pampeanito", 
+      "text": "Excelente atenci\u00f3n por parte de la moza, muy buen ambiente, precios razonables, linda ubicaci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "granmili", 
+      "text": "Muy buen ambiente para distenderse y excelente servicio y precios."
+    }
+  ]
+}

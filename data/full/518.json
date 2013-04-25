@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "18 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "JBos", 
+      "text": "Me cambiaron dos veces la opci\u00f3n de pastas, porque no ten\u00edan y no se cocinaban bien. La carne parecia suela, la tuvimos que cambiar por la ensalada que no ten\u00eda los ingredientes que dec\u00eda la carta. No lo recomiendo para nada, y eso que no somos muy exigentes."
+    }, 
+    {
+      "date": "27 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mr_P", 
+      "text": "Sabado por la noche, salon completamente vacio, las rabas tenian un rebozado muy extra\u00f1o, ademas no eran frescas.El carpaccio tenia una vinagreta de mostaza incomible, los verdes estaban mal presentados.\r\nLas pastas fuera de punto (semi crudas y algunas pegadas).\r\nVajilla de mala calidad, copas pesimas.\r\nLa camarera atenta y educada.\r\nno volveria."
+    }, 
+    {
+      "date": "11 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "susa77", 
+      "text": "El ambiente es muy agradable, pero los mozos desatentos y desprolijos. Por otro lado, el men\u00fa es pobre y la comida mala. \r\nEs una l\u00e1stima que un lugar tan lindo no est\u00e9 aprovechado.\r\nNo vuelvo m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "emisosa", 
+      "text": "La comida muy buena, aunque el servicio fue p\u00e9simo. Repetimos la orden al mozo 4 veces y asi y todo nos han traido la mitad de las cosas.  Desatentos y muy muy informal la atenci\u00f3n, aunque el lugar tiene un ambiente unico y una vista al rio unicas. Es recomendable solo para gente paciente."
+    }, 
+    {
+      "date": "15 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "pepe_timoteo", 
+      "text": "Un lugar excepcional sobre el rio pero bastante desaprovechado en servicio y limitacion excesiva de la carta."
+    }, 
+    {
+      "date": "19 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "diecasale", 
+      "text": "La comida es buena aunque excesivamente caro para lo que es la categor\u00eda del restaurante. \r\nEl ambiente es demasiado tranquilo, sin m\u00fasica, con muy poca gente. \r\nBuena vista al r\u00edo. No recomiendo en invierno."
+    }, 
+    {
+      "date": "15 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Falucho", 
+      "text": "El lugar es muy lindo, pero le falta un poco de onda, es decir, la m\u00fasica funcional en vez de jazz o cl\u00e1sica ponen los Rolling Stones y The Police que no tienen nada que ver con el lugar. \r\nA la paella le faltaban langostinos y el acompa\u00f1amiento del salm\u00f3n eran unas \"papas muelle\" que eran unas papas fritas sancochadas con queso de rallar de sobre, panceta frita y cebolla de verdeo.\r\nUna bomba. \r\nLos mozos estaban bastante distra\u00eddos a pesar de que no hab\u00eda mucha gente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "zztoparg", 
+      "text": "Es un lugar espectacular, asi muchos a\u00f1os que no iba y est\u00e1 hermoso, un s\u00edmbolo para la Ciudad de Buenos Aires, la terraza es muy linda, es muy c\u00f3modo el acceso, la comida muy rica !"
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Montecristoac", 
+      "text": "Tanto la comida como la atenci\u00f3n han sido excelentes, en cuanto a los vinos faltan etiquetas m\u00e1s acordes a la gastronom\u00eda ofrecida, el lugar es maravilloso."
+    }, 
+    {
+      "date": "28 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "anto_19_", 
+      "text": "Un muy lindo lugar, con buena comida y bien atendidos."
+    }
+  ]
+}

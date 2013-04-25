@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "15 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "iperrone", 
+      "text": "Un \"pizza-caf\u00e9\" m\u00e1s, aunque es una opci\u00f3n si se est\u00e1 en la zona."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gustave", 
+      "text": "La mejor milanesa de pesceto a la florentina (salsa bechamel y espinaca) que com\u00ed en mi vida. Realmente para chuparse los dedos. Quienes probaron el filet de merluza opinaron igual que yo. Porciones abundantes y a precios razonables. Extraordinario el servicio que nos brind\u00f3 el mozo N\u00e9stor, sumamente experimentado y gentil, un fuera de serie en profesionalismo y calidez humana. Todo anduvo de mil maravillas. Muy recomendable. Seguramente volveremos y probaremos otros platos."
+    }
+  ]
+}

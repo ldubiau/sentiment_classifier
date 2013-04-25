@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "10 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "maruvenegas1987", 
+      "text": "Atenci\u00f3n muy buena, el ambiente pasable aunque el encargado tard\u00f3 media hora en darme un ticket y encima no ten\u00eda cambio de cien. Les dej\u00e9 el dinero porque me conoc\u00eda y yo soy de la zona, pas\u00e9 tres veces en el d\u00eda para que me dieran el vuelto y estaba cerrado, la verdad que un desastre total, no lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pabloalm", 
+      "text": "Com\u00ed de manera espectacular."
+    }, 
+    {
+      "date": "4 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sweet_me", 
+      "text": "comida muy natural y casera, como en casa!"
+    }, 
+    {
+      "date": "27 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rmilazzo", 
+      "text": "El ambiente agradable permite alargar la sobremesa con amigos."
+    }
+  ]
+}

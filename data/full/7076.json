@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "24 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "SilWal", 
+      "text": "Muy buen lugar,ambiente intimo y tranquilo, para ir en pareja. Las empanadas estan muy buenas. Bien rellenas, la masa es muy buena tambien. Excelente atencion"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gabipado", 
+      "text": "Un lugar muy lindo para cenar o almorzar,la comida regional es muy rica y los show son espectaculares.El mail de tatu la pe\u00f1a es tatuempanadas#gmail.com."
+    }
+  ]
+}

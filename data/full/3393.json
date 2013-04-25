@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "5 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pelado2008", 
+      "text": "El ambiente es muy calido, la musica nos encanto y lo mejor fueron los platos, sencillos bien prresentados y muy ricos. Todo era fresco. Lo mejor de todo los postres, por desgracia solo pudimos comer dos, tendre que volver por el resto."
+    }, 
+    {
+      "date": "24 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "LaNanis", 
+      "text": "Un cafe para desayunar, almorzar, tomar el te y cenar. La atencion es excelente y la calidad de los productos se mantiene intacta. Un calido lugar para ir solo o en flia. Tienen conexion wi-fi a muy buena velocidad."
+    }, 
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ValeMax", 
+      "text": "La comida y la atencion es excelente hace tres a\u00f1os que vamos a o tomar un cafe o a almorzar las opciones de menu del d\u00edas son para recomendar....se los recomiendo si estan de paso por Martinez."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mayelens", 
+      "text": "Fui a merendar en pareja. Tienen gran variedad de tortas y son muy ricas. 2 caf\u00e9s y 2 porciones de torta nos salieron 89. El lugar es chiquito asique se llena. Recomendable, volver\u00eda. Aceptan tarjetas y tienen buenos men\u00fa ejecutivos para el mediod\u00eda."
+    }, 
+    {
+      "date": "10 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ValeMax", 
+      "text": "Hace 6 a\u00f1os que voy casi semanalmente s este peque\u00f1o pero c\u00e1lido Resto de Martinez...es una excelente opcion porque tanto los platos de cocina como la reposter\u00eda son exquisitos...nunca falla...adem\u00e1s la atencion es muy buena...vayan...se los recomiendo"
+    }, 
+    {
+      "date": "27 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nanmohi", 
+      "text": "Me encant\u00f3 esta peque\u00f1a confiteria-restaurant por la frescura de sus platos, la atenci\u00f3n excelente y los buenos precios y la posibilidad de almorzar en la vereda en esa cuadra llena de \u00e1rboles y viento fresco proveniente del r\u00edo. Lo recomiendo!"
+    }, 
+    {
+      "date": "27 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marycc", 
+      "text": "Uno de los mejores cheesecakes que he comido. Dificil fuera de NY!"
+    }
+  ]
+}

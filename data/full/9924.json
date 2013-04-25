@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "12 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "AndresM", 
+      "text": "Una lastima que hayan cambiado de due\u00f1os. La carta cambi\u00f3 notoriamente, ya no ofrecen aquellos sandwich suculentos que sol\u00edan vender. el servicio igual de flojo como en la versi\u00f3n 1.0. lo mas rico fue la limonada con maracuy\u00e1. la porci\u00f3n de carne s\u00faper limitada."
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "MISTIKA", 
+      "text": "Otra copia mas y van miles... me dafraudo, tardaron mucho en atenderme, se notaba la improvisacion, y los nervios, no me gusto definitivamente no vuelvo, demasiado caro para lo q era el lugar. no copien mas"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Merienda s\u00e1bado a la tarde. Lindo lugar, acogedor, bien ambientado. Los tazones de caf\u00e9 son super abundantes. Los scons muy ricos y frescos. La Cookie no me gust\u00f3 tanto como su aspecto. La atenci\u00f3n amable, pero eran solo dos chicas para atender y preparar todo, por lo que estaban apenas sobrepasadas a pesar de su esfuezo. Precio aceptable y buena carta que invita a volver a probar otros productos."
+    }, 
+    {
+      "date": "10 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Quijo", 
+      "text": "Hoy martes, fui a almorzar, elegi el menu del mediodia: Ensalada de legumbres y pollo, DELICIOSA, muy buena mezcla de sabores!!, recomiendo ademas el lugar, voy a volver para desayuno o merienda que pintan tambien deliciosos, ya les dir\u00e8"
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "TeaFan", 
+      "text": "Fuimos a merendar y nos trajeron las tostadas y un rato despues la bebida. La atencion era mala, la comida buena y la ambientacion esta buena. Le daria una oportunidad mas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fahren", 
+      "text": "La verdad que caimos con mi pareja, sin saber que esperarnos y salimos encantados. No solo desayunamos, sino que nos quedamos un par de horas haciendo sobremesa, hasta el mediod\u00eda, para almorzar. R\u00edquisimo todo, los scons enormes y tiernos y los huevos revueltos geniales. Lo mejor, sin duda, fue el almuerzo. El lomo Amenabar muy tierno y rico, y el sandwich de salmon ahumado con pan de bagel y queso brie, una verdadera exquisites. Sin olvidar las bebidas, limonada con menta y limonada con maracuy\u00e1.. UNA DELICIA!! El ambiente encantador, y la atencion muy pero muy buena."
+    }, 
+    {
+      "date": "8 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chufina", 
+      "text": "Nunca hago comentarios, pero nuevo amenabar me encanto. El lugar, la atencion y la comida. Todo muy bueno y riquisimo. Fui sola a almorzar .Volvere a tomar el te con amigas."
+    }, 
+    {
+      "date": "11 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecilNY", 
+      "text": "me encanta!! fui varias veces y cada d\u00eca mejor... lo s\u00faper recomiendo!!! adem\u00e0s, siempre hay lugar f\u00e0cil para estacionar!!!"
+    }, 
+    {
+      "date": "24 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "romlinco", 
+      "text": "Me encant\u00f3..La comida, la buena onda, la m\u00fasica.\r\nEl lugar no cambi\u00f3 su estilo..lo mejor\u00f3.\r\nAunque hab\u00eda bastante gente el servicio fue bueno.\r\nEs muy recomendable.\r\nSugerencia: Prueben el sandwich de salm\u00f3n... Es inolvidable!"
+    }
+  ]
+}

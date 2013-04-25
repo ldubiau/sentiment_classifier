@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "26 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "dangeliana", 
+      "text": "no lo recomiendo por una experiencia muy desagradable con el plato solicitado, debimos retirarnos sin pagar como producto de ello.-"
+    }, 
+    {
+      "date": "10 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "javiercongreso", 
+      "text": "lo sigo recomendando a pesar de la ultima visita, que fue bastante desastrosa tanto por el mozo como por la cocina. el mozo con solo tres mesas estaba perdidisimo y la cocina tardo 25 min por unos fetuccinis a la carbonara y el pollo relleno que pidio mi mujer estaba totalmente crudo"
+    }, 
+    {
+      "date": "4 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Criss74", 
+      "text": "No me gust\u00f3 mucho el lugar, tipo confiter\u00eda. La comida bastante mala y cara (pedimos platos elaborados y no pizza). Por lo mismo no pedimos postre. La atenci\u00f3n del mozo fue correcta aunque un poco desinteresada. Los ba\u00f1os son impecables y tienen una decoraci\u00f3n impresionante! El lugar podr\u00eda ser mejor pero para mi la calidad de la comida prima sobre el resto, as\u00ed que seguramente no volver\u00e9."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jorgeasaf", 
+      "text": "La verdad, no me puedo quejar por el precio. Fuimos de apuro antes del concierto de Raphael a comer, y en menos de una hora cenamos. Uno obtiene lo que paga. La especialidad de ellos son las pastas, nada de otro mundo. Estuvo todo bien y rico. El sal\u00f3n es ruidoso. Es depende lo que uno busca, comida r\u00e1pida, buena, bonita y barata, este es el lugar. Los mozos atienden relativamente bien, no es fine dining ni tampoco un Mc Donalds."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rociobelfiore", 
+      "text": "La ambientaci\u00f3n es excelente, un lugar muy amplio y decorado con un estilo distinguido. El ba\u00f1o m\u00e1s limpio y original que vi en mi vida. Yo ped\u00ed una ensalada, nos dieron una entrada con panes de pizza y tardaron entre 5 y 10 minutos en traer los platos, rapid\u00edsimo. Ped\u00ed si pod\u00edan prepararme la ensalada sin pollo y no tuvieron problema. La tarta de manzana con helado de postre una delicia, la recomiendo.\r\nEl mozo muy educado, y aunque no era simp\u00e1tico hac\u00eda un esfuerzo. En mi opini\u00f3n, lo \u00fanico que les falta es m\u00e1s variedad en espumantes, un detalle. De 10, volver\u00e9 y lo recomiendo ampliamente."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "9 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "comodetodo", 
+      "text": "fuimos siete amigos. muy agradable el ambiente y cocina tipo casera con elementos genuinos. el tema vinos es excelente. se abona 10 pesos de descorche por cualquier botella sobre el precio normal de venta. de lo mejor en lomas de zamora."
+    }, 
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "geloprimero", 
+      "text": "la atencion es muy mala sabado a la 1 de la ma\u00f1ana empezaron a guardar mientras comiamos"
+    }, 
+    {
+      "date": "1 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mechula", 
+      "text": "En principio una correcci\u00f3n porque el restaurant figura como de la zona oeste cuando en realidad es de la zona sur. \r\nMuy buena comida y atenci\u00f3n. Lo mejor: la posibilidad de elegir el vino que quieras de los estantes de la vineria y pagarlo a un precio inigualable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Boopy", 
+      "text": "Muy buena atenci\ufffdn, la comida excelente! y lo mejor de todo, los vinos q pod\u00e8s elegir de las estanter\u00cdas!! super recomendable!"
+    }, 
+    {
+      "date": "3 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "AleyEly", 
+      "text": "Un hallazgo en zona sur, excelente cocina con platos abundantes preparados en el momento. El detalle curioso: no hay carta de vinos uno puede elegirlos entre los anaqueles de la viner\ufffda, y se cobra el precio de lista m\ufffds $7 el descorche en el caso de que el elegido no supere los $60. Evidentemente la vedette es el vino. La atenci\ufffdn muy c\ufffdlida y esmerada."
+    }
+  ]
+}

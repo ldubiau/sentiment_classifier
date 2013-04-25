@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Avatar777", 
+      "text": "Fuimos a conocer con mi esposa y me gusto mucho el ambiente. Una casa vieja remodelada. El servicio muy bueno, las mozas atienden r\u00e1pido y son muy atentas. La poza estaba bien, rica pero nada de otro mundo. Lo recomiendo."
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Laura_J", 
+      "text": "El ambiente es muy agradable, tanto en el jard\u00edn como en el interior. La atenci\u00f3n de las camareras es sumamente cordial. A pesar de que hab\u00eda mucha gente, nos atendieron super r\u00e1pido. Algo para solucionar: el sal\u00f3n interior, con mucha gente es un poco ruidoso. Es un buen lugar para juntarse con los amigos. Lo voy a recomendar!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tutederamos", 
+      "text": "El ambiente es excelente, la pizza es muy rica... Finita (te com\u00e9s el doble) Buena atenci\u00f3n, buena m\u00fasica... Vale la pena"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "maxonio", 
+      "text": "Excelente lugar. Muy bueno para ir a tomarse unos mates en las horas libres de la facu. \u00a1Muy recomendable!.\r\nEl ambiente es muy interesante con las fotos de todos los perros, tambi\u00e9n est\u00e1 bueno comer en el subsuelo del establecimiento."
+    }, 
+    {
+      "date": "15 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "majolili", 
+      "text": "Me encanta el bar, es el lugar preferido de los que estudiamos en la facu de medicina.  Lo mejor es el mate y las fotos de perros que hay colgadas, lo recomiendo."
+    }, 
+    {
+      "date": "21 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mariasca", 
+      "text": "Me gust\u00f3 la variedad que brindan para poder tomar mate."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "stiolive", 
+      "text": "Soy estudiante universitario y me paso horas en el bar tomando mate sin que tengan mala onda por ocupar mucho tiempo la mesa, de hecho pasa todo lo contrario."
+    }
+  ]
+}

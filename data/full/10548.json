@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "18 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "francomac", 
+      "text": "pesima atencion"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "biglegemma", 
+      "text": "El \u00fanico de su tipo en Floresta. Comida original y bien hecha, buenos vinos, precios saladitos pero aceptables, buena atenci\u00f3n. Esperemos que aguante un buen tiempo..."
+    }
+  ]
+}

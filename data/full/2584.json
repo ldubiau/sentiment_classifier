@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "13 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "HOPE", 
+      "text": "Una parrilla muy elegante con carne muy rica.\r\nEl servicio es excelente.\r\nLa recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Quique66", 
+      "text": "Excelente entra\u00f1a. Excelente atenci\u00f3n.\r\nAmbiente c\u00e1lido y tranquilo.\r\nMuy recomendable."
+    }, 
+    {
+      "date": "9 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elchef", 
+      "text": "Simplemente genial, lejos la mejor parrilla de Buenos Aires. Excelente atenci\u00f3n y la comida perfecta en su punto justo, el precio es un poco alto y apunta a la clase alta pero lo vale. Ideal para parejas."
+    }, 
+    {
+      "date": "26 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luplombon", 
+      "text": "Ambiente amplo e arejado. Excelente atendimento, muito atenciosos. A carne estava simplesmente maravilhosa, suculenta, macia e saborosa."
+    }, 
+    {
+      "date": "30 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mylea", 
+      "text": "\u00a1Todo fue maravilloso! \r\nReservamos una cena de negocios para veintitres personas y nos agradecieron la elecci\u00f3n todav\u00eda muchos d\u00edas despu\u00e9s del acontecimiento. \r\nMi marido y yo volvimos para cenar y otra vez fuimos complacidos con la comida y el servicio. \r\nEl sommelier Juan Carlos es un experto en el vino y el personal es atento y profesional."
+    }, 
+    {
+      "date": "21 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Semi", 
+      "text": "Simplemente delicioso. Todo perfecto."
+    }
+  ]
+}

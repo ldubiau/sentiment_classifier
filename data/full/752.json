@@ -1,0 +1,788 @@
+{
+  "malos": [
+    {
+      "date": "15 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "winner", 
+      "text": "El servicio muy superficial y no profesional. te tiran los cubiertos a la mesa a cualquier lado. no hacen nada especial en el cumple aunque fuimos con varias personas. muy notable: la vajilla muy vieja, platos rotos, cucharas muy gastadas, nada adecuado por este precio.\r\n\r\nla comida parece industrial: un mozzarella frito con salsa de tomate, todo fr\u00edo y calentado del freezer. la ensalada de frutas de lata (conserva). la surpema de pollo estaba buena. un agua mineral por 12 pesos muy exajerado, servicio de mesa tambi\u00e9n 12 pesos para recibir pan solamente. para no volver"
+    }, 
+    {
+      "date": "26 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Cardapio2010", 
+      "text": "simplemente patetico. a las mozas no se les escapaba una sonrisa, como si estuvieran haciendo un favor en atenderte. la cocina otro baj\u00f3n, el ojo de bife no tenia nada de ahumado y la salsa que pedimos estaba fermentada. el gerente ni cargo se hizo."
+    }, 
+    {
+      "date": "24 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "kumba", 
+      "text": "la comida mala el ambiente ruidoso el servicio regular pero comodo el estacionamiento y se salva por el descuento del club la nacion que acomoda los precios porque es caro para lo que brinda"
+    }, 
+    {
+      "date": "18 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "vdorza", 
+      "text": "El lugar es precioso, muy acogedor, pero sinceramente la comida deja mucho que desear. estoy esperando a que cambien de due\u00f1o/cheff para volver a ir, de otro modo no vale la pena."
+    }, 
+    {
+      "date": "21 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Morenita", 
+      "text": "Estamos decepcionados. Somos clientes del lugar desde su apertura pero algo est\u00e1 fallando en la organizaci\u00f3n. \r\nQuisimos reservar telef\u00f3nicamente y nos dijeron que ya no aceptaban reservas telef\u00f3nicas; como era temprano (20:45hs) decidimos ir directamente y no obstante tener mesas vac\u00edas nos pidieron esperar dado que \"ten\u00edan prioridad los clientes que hab\u00edan efectuado reserva\" come si capisce questa situazione???\" hubiese dicho el gran Ugo Tognazzi.\r\nEn fin, esperamos que retorne la coherencia a \"Cosecha\" porque lo consider\u00e1bamos un buen lugar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "intocable", 
+      "text": "El pure de batata que acompa\u00f1aba la bondiola, helado. La comida regular. Los precios inflados para hacer luego el descuento club LN. Prueba de ello que al presentar la tarjeta para el 20% de descuento, se nos ofreci\u00f3 elo 25%! por pago contado. C\u00f3mo puede hacerse semejante descuento sobre un precio de lista, supuestamente razonable? El tema de los descuentos se ha distorsionado totalmente."
+    }, 
+    {
+      "date": "19 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "facuvi", 
+      "text": "Muy buen lugar, la comida muy buena. El precio bastante elevado de todas maneras pagamos con CLN. El servicio aceptable. Lamentablemente los empleados a veces atienden tan mal... Pero rescato la calidad de la comida y el lugar, por encima de ellos."
+    }, 
+    {
+      "date": "14 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Emi_Nievas", 
+      "text": "El lugar es precioso, son boxes estilo kansas, el lugar pinta mas para gente cuarentona pero tiene nivel, posee CLN y abarata un poco el inflado precio q tiene una moza nos dio dos cartas en donde en una los precios eran mas baratos q otros, lo cual me dio a pensar q los dias de desc cambian la carta asi hacen creer a los comensales q les estan haciendo precio, ojo!!! no se dejen enga\u00f1ar. Voy por una cuestion q tienen el paquetito lomo masa filo q es exquisito, pero vale $70, servicio de mesa $12 y una bebida $12, como veran es caro!!!"
+    }, 
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "charfro", 
+      "text": "Muy buena comida, los platos muy bien presentados pero demasiado caro. aun asi fuimos con descuento del 40 % con club nacion y fue muy caro"
+    }, 
+    {
+      "date": "3 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "alberto07", 
+      "text": "Coincido totalmente con los comentarios anteriores en lo que al servicio se refiere.\r\nUn desastre, no vuelvo."
+    }, 
+    {
+      "date": "14 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leossss", 
+      "text": "Soy habitu\u00e9 de este lugar solo por el descuento del diario. El cual me parece bueno, pero de ninguna manera seria razonable pagar los precios que figuran en la carta. Por esos valores hay muchisimos restoranes ampliamente superiores. El lugar cambi\u00f3 muchisimo el \u00faltimo a\u00f1o gracias al descuento, antes tenia precios buenos y excelente calidad y atenci\u00f3n. Solo vayan martes o miercoles con reserva (a menos que quieran esperar 45min) y la tarjeta de la naci\u00f3n."
+    }, 
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gogo54", 
+      "text": "El ambiente es agradable, la atenci\u00f3n p\u00f3bre, pocos mozos y cero atenci\u00f3n, la comida buena pero losm preciis muy caros solo con la tarjeta de La Nacion con 40% de descuento se hace razonable"
+    }, 
+    {
+      "date": "10 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "TheDuke", 
+      "text": "Fuimos con 3 amigos. Las reservas se tomaban hasta las 2045 con lo cual fuimos directamente a las 2115 y tuvimos que esperar 15 minutos. La gente que apareci\u00f3 despues, supongo que esper\u00f3 un poco mas. Del estilo de Kansas por su ambientaci\u00f3n, me llam\u00f3 la atenci\u00f3n desde la panera (muy completa) hasta el plato que com\u00ed que era un solomillo de cerdo con pancenta y frutos rojos acompa\u00f1ado por mil hojas de batata. Excelente! Me qued\u00e9 con ganas de probar la parrilla. Buena atenci\u00f3n, tal vez algo lenta pero supongo que es porque no hab\u00eda muchos mozos.\r\nEl postre tambi\u00e9n muy bueno. Volver\u00e9"
+    }, 
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ozeta", 
+      "text": "El ambiente un poco ruidoso...los boxes muy comodos...en cuanto al servicio ha sido muy correcto, los platos principales que hemos pedido muy ricos y bien presentados...algo caros los precios fundamentalmente de la carta de vinos...no obstante es para volver."
+    }, 
+    {
+      "date": "23 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "smzuddio", 
+      "text": "Buena alternativa en la Zona Norte para compartir con amigos.\r\nLa carta no corre riesgos, pero cumple con lo que promete.\r\nEl servicio tiene altibajos. He concurrido m\u00e1s de una vez y no pude determinar porqu\u00e9 un d\u00eda es muy bueno y el otro regular. No se debe a la cantidad de gente en el sal\u00f3n porque -parad\u00f3jicamente- las veces que fui mejor atendido eramos pocos los comenzales en el lugar."
+    }, 
+    {
+      "date": "19 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "degre", 
+      "text": "No es la primera vez que voy, siempre mantuvo la buena calidad de los platos, ahora me parece  exagerado el aumento en los precios de la carta respecto a dos meses atr\u00e1s. Relaci\u00f3n precio calidad quedo desproporcionada y hace que uno a la hora de decidir donde ir a comer lo piense dos veces."
+    }, 
+    {
+      "date": "16 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "coco9234", 
+      "text": "Ambiente muy iluminado pero excesivamente ruidoso.Muy concurrido por lo que el servicio se torna lento y es poco competente(no saben que vino recomendar y cuando preguntamos por el risoto lo consult\u00f3 con otro camarero). Con respecto a la comida no fue para nada espectacular:el lomo algo duro, el risoto no estaba en su justo punto a mi gusto y tampoco es abundante. C\u00f3modo el valet parking. Para m\u00ed es caro por lo que ofrece y no entiendo como se llena. Le dar\u00eda otra oportunidad. Bien la carta de vinos aunque no le pregunten a la camarera sobre la elecci\u00f3n del mismo pues no tienen idea."
+    }, 
+    {
+      "date": "11 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "dormidor", 
+      "text": "Buen estacionamiento propio ,los precios se acomodan con el descuento de club la nacion,buen valor para los espumantes (nieto senettiner brut nature)recomiendo rissotto negro con mariscos"
+    }, 
+    {
+      "date": "3 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Leandro78", 
+      "text": "Buena eleccion para cenar con amigos o en pareja. La comida es muy buena aunque los precios son algo elevados ($55 un lomo con papa a la crema). Para recomendar las rabas que son bien crocantes. Voleremos"
+    }, 
+    {
+      "date": "21 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Verin", 
+      "text": "Muy buenas y sabrosas las carnes.\r\nLas porciones son abundantes. Hay entradas que pueden compartirse.\r\nPara aquellos que sean del Club La Naci\u00f2n el precio es conveniente."
+    }, 
+    {
+      "date": "23 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leossss", 
+      "text": "Fui varias veces y siempre me gust\u00f3, recomiendo el lugar, aunque no es barato, los platos son buenos.\r\nEn esta oportunidad comi trucha, muy rica y mi acompa\u00f1anate unso \u00f1oquis de verdura con queso gratinado, tambien muy ricos. Los postres son buenos. \r\nRecomiendo para los que vayan x primera vez que pidan el cordero patagonico (cocido o a punto porque jugoso no queda les bien)."
+    }, 
+    {
+      "date": "18 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Maby1", 
+      "text": "Un lugar especial para cenar o tomar algo, por las noches. Se come bien, pero la carta deja mucho que desear. Lo que s\u00ed puedo hacer, es recomendar el postre de Maracuy\u00e1. Aunque las 3 veces que fu\u00ed, este postre ten\u00eda el mismo nombre pero me lo sirvieron de manera diferente. El sal\u00f3n es muy ruidoso. En cuanto a calidad y precio me parece mas bien caro, y eso que tiene bastantes descuentos y promos."
+    }, 
+    {
+      "date": "16 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mariobros", 
+      "text": "Restaurant estilo \"Kansas\"; pero con comida argentino-francesa-norteamericana. Gente mayor, fashion-zona norte, mucha se\u00f1ora rubia, lectores del diario La Naci\u00f3n (que aprovechan el descuento con la tarjeta Club LN). Mucho vidrio y boxes. Ruidoso. Lo imperdonable: que cobren $9 el cubierto pero que no pongan ni mantel ni individual. El quesito de la panera horrible. De mal gusto: que la carta diga que el restaurant \"no se responsabiliza por la p\u00e9rdida de elementos personales\". Lo bueno: el bife de chorizo ($45), la colita y el lomo a la pimienta ($49). La parrilla incluye ensalada sencilla."
+    }, 
+    {
+      "date": "2 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Chelein", 
+      "text": "mantiene la calidad de la comida.\r\nlas salsas un poco heavy y tapan los sabores de la comida, pero en t\u00e9rminos generales est\u00e1 bien.\r\nla atenci\u00f3n buena pero un poco lento el servicio de la cocina\r\nel lugar es muy lindo.\r\nun poco elevados los precios para el nivel que ofrece"
+    }, 
+    {
+      "date": "9 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Nebrija", 
+      "text": "La comida estuvo buena. Bastante ruido si bien se nota el esfuerzo por insonorizar. La atenci\u00f3n normal. Para el mediod\u00eda est\u00e1 ok si vas con tiempo para esperar."
+    }, 
+    {
+      "date": "19 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mariano32", 
+      "text": "el lugar es muy agradable, tienen boxes, es un poco ruidoso, la atencion es buena, la comida es muy rica, probre los langostinos en costra de almendras estaba exquisito pero escaso y muy caro -solo venian 6 langostinos y costaba $59-."
+    }, 
+    {
+      "date": "18 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "solilu", 
+      "text": "Si bien el hecho de no presentar manteleria, lo ubica en otro encuadre, las mesas muy vistosas , se ven practicas y funcionales con los individuales. Buena iluminacion y confortables los boxes. Excelente la carta de vinos !! Merece especial mencion. Destaco la panificacion y el atractivo emplatado. Experiencia para reiterar!!"
+    }, 
+    {
+      "date": "1 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Viuda", 
+      "text": "La comida es buena sin ser nada excepcional. Me sorprendi\u00f3 la mala atenci\u00f3n. En mi caso el mozo se olvid\u00f3 de mi plato (\u00e9ramos 4) y aunque se disculp\u00f3 ante su evidente error me dijo que la culpa era m\u00eda por no haber hecho mi pedido junto con las otras 3 personas. Justo fuimos un d\u00eda que hab\u00eda una promoci\u00f3n del Club La Naci\u00f3n y todos parec\u00edan desbordados por la situaci\u00f3n."
+    }, 
+    {
+      "date": "23 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "matuteg", 
+      "text": "Es la segunda vez que voy a cenar y ninguna de las dos veces me defraudo, platos generosos con excelente materia prima y bien elaborados.\r\nEl unico punto negativo es que al llenarse el salon se hace muy molesto el murmullo que se genera."
+    }, 
+    {
+      "date": "20 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gogo54", 
+      "text": "Como siepmre el lugar agradable un poco ruidoso, la comida buena, pero la ateni\u00f3n es de terror,esperamos 25 minutos con le plato terminado para que lo retiren, no hab\u00eda mucha gente y pocos mozos, el metre no tiene ni idea como resover las quejas de los clientes, para olvidar"
+    }, 
+    {
+      "date": "22 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mokimbo", 
+      "text": "Como siempre, la comida muy buena, la atenci\u00f3n esta ves m\u00e1s esmerada. Se demoraron algo los platos, pero sin dramatizar. Muy buena relaci\u00f3n precio-calidad. Es algo ruidoso, pero vale la pena. Sobre la media."
+    }, 
+    {
+      "date": "4 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Muy buena comida y atenci\u00f3n. Se destaca en la zona como ideal para almuerzos de trabajo. Como contra, a pesar de que las mesas est\u00e1n separadas, el nivel de ruido es excesivo cuando est\u00e1 lleno."
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ropo", 
+      "text": "Buena Comida. Mucho ruido. El servicio podr\u00eda mejorar ya que hab\u00eda muchas mesas vacias pero igual fue regular."
+    }, 
+    {
+      "date": "28 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Morenita", 
+      "text": "Volvimos despu\u00e9s de un tiempo a comer en Cosecha.\r\nNo obstante no haber variado la carta la cocina es buena. La atenci\u00f3n me pareci\u00f3 mejor que otras veces, tal vez porque se trataba de un d\u00eda de semana (en general es durante los fines de semana cuando los platos tardan mucho en llegar).\r\nEn resumidas cuentas, es una buena opci\u00f3n en la zona."
+    }, 
+    {
+      "date": "18 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "matiss", 
+      "text": "Lindo lugar con parking o valet parking segun dia y horario. Exelente comida l\u00e1stima que hace mucho tiempo que no cambian el menu que es muy variado. la atencion es buena. recomendable."
+    }, 
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fer10", 
+      "text": "Sigo pensando que es el mejor lugar el cafecito sigue sin invitacion a pesar de ir casi todos los fines de semana pero hay algo que lei de un comentario anterior y coincido el menu es poco variado pero los platos son geniales pero el que va seguido yo desde que voy no cambiaron la carta hace 3 a\u00f1os que voy los platos me los conozco de memoria ultima el salmon de pacifico achicaron la porcion"
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SirCharles", 
+      "text": "Excelente relaci\u00f3n precio calidad. El sistema que han implementado en el valet parking, igual que el de Kansas, me resulta un poco chocante para mi gusto, que prefiero estacionar el auto yo mismo. Recomendable."
+    }, 
+    {
+      "date": "14 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chelein", 
+      "text": "Las rabas impecables, las pastas normales y el ojo de bife bastante bueno, el lugar es agradable, pero la atenci\u00f3n no se destaca, un poco ruidoso, lleno de gente, hay demasiada espera y si bien en general es un  buen lugar creo que no se justifica una larga espera habiendo tantas opciones en la zona. Los precios un poco altos."
+    }, 
+    {
+      "date": "11 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rojo_el_7", 
+      "text": "Un lugar clasico, muy equilibrado en todos sus puntos, no hay nada que resalte en particular, pero es un buen lugar para ir."
+    }, 
+    {
+      "date": "6 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Alejandra", 
+      "text": "Lugar ideal para reunirse con amigos. Aceptan reservas con varios dias de anticipaci\u00f3n. Ambiente super agradable, buena iluminaci\u00f3n, re bien climatizado, para nada ruidoso, de facil acceso por la Pana, y estacionamiento gratuito. Mientras com\u00e9s no te apuran con los pedidos ni te corren para que te vayas. Men\u00fa variado. Salvo la panera, todo super abundante. Deber\u00edan mejorar los postres."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fer10", 
+      "text": "El lugar desde que lo conozco me tiene atrapada creo que hasta ahora es el mejor en cuanto a relacion precio calidad. Buena atencion buen ambiente. Lo \u00fanico que puedo decir en contra que voy tan seguido que nunca jamas me han invitado ni con el cafe, pero para mi es mi lugar preferido."
+    }, 
+    {
+      "date": "5 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hyjb", 
+      "text": "Se come muy bien, el menu es variado pero con muy buenas opciones. Los postres son excelentes."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gruby", 
+      "text": "La verdad que el lugar es muy caro para lo que ofrece. Los platos generalemente son buenos, ricos, pero son bastante caros. El servicio no es de lo mejor acorde al precio, aunque si es comodo el tema del estacionamiento y las reservas. Es un lugar para ir en familia cuando no se puede gastar mucho y se tiene que celebrar algo especial, pero a mi manera de ver las cosas, es muy caro para lo que ofrece. Hint: Abstenerse de ir los domingos a la noche porque los mozos parecen dormidos y la comida tarda a\u00f1os en llegar"
+    }, 
+    {
+      "date": "5 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Friedrich", 
+      "text": "Agradable lugar con boxes estilo americano.\r\nVariedad de vinos (de todo precio).  La comida muy buena en general, destacan los postres."
+    }, 
+    {
+      "date": "28 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "amgonzalez", 
+      "text": "La comida estuvo bien. El servicio desastroso, lento, y nada bien predispuesto.\r\nEramos 14 personas, las bebidas tardaron, las guarniciones a destiempo y los postres ni que hablar."
+    }, 
+    {
+      "date": "16 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lidsutd", 
+      "text": "creo que es uno de los mejores lugares para comer en zona norte: estacionamiento asegurado, atenci\u00f3n de primera, comida de alta calidad, buen precio. no me gust\u00f3 el cordero que pedimos... pero lo dem\u00e1s estuvo exquisito. otra cr\u00edtica es el tema del sal\u00f3n fumadores... pedimos mesa con no fumadores y atr\u00e1s hab\u00eda gente fumando!"
+    }, 
+    {
+      "date": "10 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "factis", 
+      "text": "buena opcion en zona norte, buena atencion, buena comida y buena carta de vinos."
+    }, 
+    {
+      "date": "10 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "A_Punto", 
+      "text": "Es un lugar piola, si no se tienen demasiadas pretensiones. He ido varias veces y en al gunas ocasiones la atencion no es la mejor. el paquetito de masa filo es uno de mis preferidos, sale muy rico. Buena carta de vinos. \r\nEl lugar es un poco ruidoso. Para lo que hay por la zona no esta mal."
+    }, 
+    {
+      "date": "10 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alito70", 
+      "text": "Se podria decir que todo lo bueno que tiene, lo demuele con las demoras en la atencion.\r\nTotalmente desorganizado."
+    }, 
+    {
+      "date": "6 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Guille4", 
+      "text": "La comida es muy buena, hay variedad de platos, tiene una amplia carta de vinos. \r\nEl ambiente es ruidoso, en especial los fines de semana. La atencion deja mucho que desear."
+    }, 
+    {
+      "date": "6 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "guille45", 
+      "text": "La comida es muy buena, la carta tiene variedad de platos, amplia carta de vinos.\r\nLa atenci\u00f3n deja mucho que desear. El ambiente es un poco ruidoso."
+    }, 
+    {
+      "date": "6 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Buena opci\u00f3n en la zona para un almuerzo de negocios. Lo malo es que se llena siempre y se vuelve algo ruidoso."
+    }, 
+    {
+      "date": "14 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Es una opci\u00f3n en la zona. Nada del otro mundo, pero se puede ir. Un poco pretenciosos los platos, mucho nombre y poco sustento."
+    }, 
+    {
+      "date": "29 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "llamas", 
+      "text": "Cuando reci\u00e9n lo inauguraron no me gustaba, un poco por el ambiente demasiado grande y poco \u00edntimo y otro poco porque la comida parec\u00eda sacada del microondas. \r\nAhora mejor\u00f3 mucho. Recomiendo hacer uso de la opci\u00f3n del vino en oferta (del d\u00eda) ya que cuesta lo mismo que en un super."
+    }, 
+    {
+      "date": "28 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Jorjacho", 
+      "text": "El lugar es muy bueno, la atenci\u00f3n es esmerada. Los platos est\u00e1n muy bien presentados pero no tienen buena carne. Son mejores los platos del chef que el asado."
+    }, 
+    {
+      "date": "26 Ene 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alejandra", 
+      "text": "Reservar para evitar la inevitable espera. Si no son m\u00e1s de cuatro pidan los boxes. Atenci\u00f3n regular."
+    }, 
+    {
+      "date": "26 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "patoabu", 
+      "text": "Es una muy buena opci\u00f3n en la zona de San Isidro."
+    }, 
+    {
+      "date": "10 Ago 2004", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rafadevi", 
+      "text": "Es superruidoso"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Fina", 
+      "text": "Buena ubicaci\u00f3n, bueno el estacionamiento, bueno el servicio de los mozos. El salm\u00f3n que ped\u00ed estaba excelente, de muy buena calidad y muy bien cocido, crocante por fuera y a punto por dentro, las porciones abundantes. El precio demasiado alto aunque vale la pena si utilizan el dto. de Club La Naci\u00f3n."
+    }, 
+    {
+      "date": "8 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ComandanteG", 
+      "text": "Uso siempre como referencia a Gu\u00eda \u00d3leo y coincido en la puntuaci\u00f3n de los restaurantes. Excepto en Cosecha. No entiendo porqu\u00e9. Quiz\u00e1s en nuestro caso no somos de comer mucho y solemos compartir los platos, que si bien es engorroso, en este caso, con el descuento de La Naci\u00f3n nos permite comer en forma excelente y a precio accesible. Quiz\u00e1s coincida en que la atenci\u00f3n es lenta. Hemos ido muchas veces, volveremos a ir. Nos encanta."
+    }, 
+    {
+      "date": "15 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "No hay muchos restaurantes en Buenos Aires que tengan la misma variedad que \"Cosecha\". Hay para todos los gustos. Podes encontrar Porte\u00f1a, Parrilla, Japonesa, China, Francesa, Italiana, Mediterranea, Mexicana, DE TODO!!!!!!!Muy buena atencion. Lo recomiendo"
+    }, 
+    {
+      "date": "19 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fer10", 
+      "text": "Conozco el lugar hace a\u00f1os pero me parece que los precios subieron de manera exagerada, es un excelente restaurant, pero concurri ayer 2 personas sin entrada ni cafe un postre a compartir pagamos 200 , y nos habian realizado un descuento sino era 240. creo que volvere pero en forma muy espaciada"
+    }, 
+    {
+      "date": "24 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mz2009", 
+      "text": "Las rabas excelentes y el lomo de muy buena calidad. Cosecha es una buena opci\u00f3n con el descuento club de la naci\u00f3n. Hay vinos de gama alta a precios muy razonables (p.e. Terrazas de los Andes)."
+    }, 
+    {
+      "date": "23 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Emi_Nievas", 
+      "text": "Muy lindo lugar, tiene valet parking. La recepcion es agradable, inmediatamente tratan de buscarte lugar, el lugar se llena debido a la promo de club nacion 40% martes y miercoles, la comida es muy sabrosa, nada es para compartir pero quedas satisfecho, el lugar sin descuento es caro y con el aumento de la carne los precios subieron deberian contemplar algunos precios porque algunos platos subieron notablemente. Volvere mientras siga el descuento."
+    }, 
+    {
+      "date": "22 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Wolfhound", 
+      "text": "Buen\u00edsima la comida. No hay una \"supercarta\", pero tienen un par de platos de cada tipo (carnes, pescados, parrilla, pastas, rissottos, etc.)\r\nExcelente cuando combino el pago con el Club La Naci\u00f3n y tengo un 40% de descuento un martes o miercoles."
+    }, 
+    {
+      "date": "17 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "myriam", 
+      "text": "Lo recomiendo porque es un lugar que tiene muy buena comida, tal vez no es demasiado confortable el ambiente porque es muy ruidoso y el servicio no es muy bueno tampoco. Pero la comida es excelente. Tiene promociones muy aprovechables."
+    }, 
+    {
+      "date": "23 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gaita3", 
+      "text": "Excelentes todos los platos, ademas muy abundantes, con una entrada y dos platos pueden comer 4 personas. El rissotto negro es imperdible. La atencion es informal pero buena y el ambiente es estilo yankee (bancon enteros y fijos, mesa sin mantel etc)."
+    }, 
+    {
+      "date": "1 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pbuceta", 
+      "text": "Al mediod\u00eda hay menues ejecutivos muy completos y a buen precio.\r\nEl menu es excelente. Platos gourmet y muy buenos.\r\nRecomendaci\u00f3n: dejar lugar para los postres que nunca fallan.\r\nUno de mis favoritos de zona norte."
+    }, 
+    {
+      "date": "11 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "oreiro", 
+      "text": "Realmente la comida estuvo muy bien, tanto las entradas como los platos principales. El postre (volc\u00e1n de chocolate) fue aceptable, pero he comido mejores en otros lugares. La atenci\u00f3n del mozo fue bastante regular y el ambiente es agradable. He ido tambi\u00e9n al mediod\u00eda y tiene un men\u00fa ejecutivo bastante bueno y con precio muy acccesible. \r\nEn definitiva, es un lugar donde uno sabe que la comida es buena, deberi\u00e1n mejorar la atenci\u00f3n de los mozos!!"
+    }, 
+    {
+      "date": "11 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gabeto", 
+      "text": "Carta con gran variedad de platos sabrosos y bien presentados. El lugar es grande y eso complica algo la atencion en los fines de semana (ir temprano y con reserva) aunque esta es  esmerada. La carta de vinos es muy amplia."
+    }, 
+    {
+      "date": "23 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "patagoniaarg", 
+      "text": "Muy buena la atenci\u00f3n, el respeto de la \"reserva\", la ambientaci\u00f3n muy buena y la presentaci\u00f3n y sabor de los platos EXCELENTE !!!. Es para recomendar calidad = Servicio = Precio"
+    }, 
+    {
+      "date": "2 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Morenita", 
+      "text": "La comida es excelente, como siempre.  Notamos menos demora en la atenci\u00f3n (tal vez por ser \u00e9poca de vacaciones, habr\u00e1 que regresar en Marzo). Recomendable."
+    }, 
+    {
+      "date": "15 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "Muy buena calidad de platos con adecuado servicio. \r\nHay cierta demora al mediod\u00eda pero ello ajusta bien con un ambiente de negocios."
+    }, 
+    {
+      "date": "15 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "olafcholic", 
+      "text": "El lugar est\u00e1 muy lindo.\r\nUn s\u00f3lo problema: tardan much\u00edsimo en servir los platos. \r\nSe acab\u00f3 la panera y casi la paciencia. \r\nEso si, hacen una batatas fritas que justifican mi presencia. \r\nVoy a comer batatas con lo que sea."
+    }, 
+    {
+      "date": "30 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "TheFig", 
+      "text": "Excelente relaci\u00f3n precio-calidad. Buena atenci\u00f3n y buen ambiente. Muy recomendable."
+    }, 
+    {
+      "date": "8 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pedrocog", 
+      "text": "Muy buen ambiente, Calidad y precio."
+    }, 
+    {
+      "date": "14 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "alexsand", 
+      "text": "Muy bueno todo."
+    }, 
+    {
+      "date": "12 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lidsutd", 
+      "text": "Muy buen lugar. La relaci\u00f3n precio-comida es muy buena. \r\nLa atenci\u00f3n es buena, l\u00e1stima que a veces hay que esperar demasiado."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "13 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Moe", 
+      "text": "La carne es de buena calidad. El resto es todo un asco. La atenci\u00f3n horrible, el mozo no quer\u00eda traer m\u00e1s chimichurri porque dec\u00eda que todav\u00eda quedaba en el platito ! \r\nLos ba\u00f1os parec\u00edan muy sucios, el lugar desagradable y la comida deja mucho que desear.\r\n\r\nNo vuelvo nunca m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "indiecks", 
+      "text": "El lugar parece sucio.\r\nLa carne es buena.\r\nRecomiendo el kebbe!"
+    }, 
+    {
+      "date": "7 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "saulento", 
+      "text": "el lugar no es lindo, se quedo con la decoracion, la comida es sencilla y buena, las fritas vinieron frias, no justifica el precio salvo que el kashrut se pague a precio de oro..."
+    }, 
+    {
+      "date": "6 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "ACDC", 
+      "text": "La mejor parrilla kosher... es muy caro..osea, la carne casher es mas cara...pero las papas fritas, las bebidas, y las ensaladas???"
+    }, 
+    {
+      "date": "10 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gogo", 
+      "text": "Excelente parrilla kosher (y no es sencillo hacerla bien). La carne perfecta, la atenci\u00f3n justa en un ambiente con mucho ruido."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "anunakis", 
+      "text": "Es el clasico de los Mediodias para delivery. La comida es excelente.\r\nRecomiendo el pollo al horno y a la parrilla una delicia!!!!\r\nLos kipes manjares.\r\nTienen precios accesibles para los platos del dia\r\nRecomiendo tambien el Maude.\r\nCliente fijo de los mediodias."
+    }, 
+    {
+      "date": "18 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "guidofreiberg6", 
+      "text": "La mejor carne kosher de Buenos Aires. El hummus es excelente y las papas fritas con lim\u00f3n son deliciosas. No dejen de probar una buena Kebbe con Hummus."
+    }, 
+    {
+      "date": "29 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "MICHELL", 
+      "text": "espetacular 10 puntos uno de lo mejor kosher del\r\nmundo soy frances y yo se mucho de restaurant\r\nkosher"
+    }, 
+    {
+      "date": "5 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alely", 
+      "text": "Parrillada bien servida, carne en su punto y muy tierna. Ensalada con sus verduras bien limpias (lo que no ocurre en todos los restaurante). Hace mucho que no como una carne tan buena...El lugar sin muchas pretenciones, sencillo, del tipo barrial. El precio es estimativo ya que fu\u00ed invitada."
+    }, 
+    {
+      "date": "16 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gastonfan", 
+      "text": "Excelente, la mejor parrilla kosher de Buenos Aires, sin duda para carne lo mejor. La atencion es excelente, mejorar\u00eda la decoraci\u00f3n. Muy recomendado."
+    }, 
+    {
+      "date": "15 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "severine", 
+      "text": "La carne es kosher y es excelente.\r\nSin lugar a duda la parilla es muy sabrosa."
+    }
+  ]
+}

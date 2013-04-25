@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "1 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Lugar tipico de mediodia del centro. Salguches, ensaladas y tartas. No hay nada para destacar mas alla de que el lugar se ve lindo y limpio."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "valeria_r_b", 
+      "text": "Buen lugar para comer algo rapido al mediodia, sandwiches, tartas y comidas del d\u00eda.\r\nLa relacion precio - calidad es buena."
+    }, 
+    {
+      "date": "14 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chuniman", 
+      "text": "Buena opcion Pique Nique para comer livianito en el centro algo rapido y rico... buen pan y buenos ingredientes"
+    }, 
+    {
+      "date": "4 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pelae", 
+      "text": "Al estar cerca de la oficina es una buena opcion para comer algo liviano y sabroso al mediodia. El menu es tentador. El delivery algo lento tal vez..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PauM", 
+      "text": "En mi ultima visita prob\u00e9 las ensaladas, en otra oportunidad hab\u00eda consumido las tartas, todo realmente excelente. La calidad y limpieza son lo que uno espera a la hora de relajarse al mediod\u00eda, todo acompa\u00f1ado de un ambiente que invita a pasar un muy buen momento. Pado casi todos mis mediod\u00edas ah\u00ed. Sigan as\u00ed!"
+    }, 
+    {
+      "date": "13 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ELCC", 
+      "text": "Muy buenos los sandwichs que preparan, en especial los calientes"
+    }, 
+    {
+      "date": "1 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "frutaman", 
+      "text": "Todo riqu\u00edsimo!! Voy siempre que puedo cuando estoy por la zona. Muy buenos los sandwichs, las tartas y las ensaladas. Todo super fresco y limpio! Para repetir!"
+    }, 
+    {
+      "date": "1 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Matu344", 
+      "text": "Ricos sabores en combinaciones delicadas... muy bueno!"
+    }, 
+    {
+      "date": "18 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PQNQ", 
+      "text": "Muy rica la tarta. Muy buena la variedad de sandwiches fr\u00edos y calientes."
+    }
+  ]
+}

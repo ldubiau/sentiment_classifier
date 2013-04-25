@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "13 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nefa10", 
+      "text": "Las empanadas son muy buenas, el ambiente es c\u00e1lido. No he probado los platos regionales pero parecen buenos."
+    }, 
+    {
+      "date": "27 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LadyWoodbridge", 
+      "text": "Por fin algo diferente en una zona c\u00e9ntrica! Ideal para aquellos que tienen poco tiempo para almorzar pero buscan algo m\u00e1s que un sandwich o parrilla..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Eagle75AR", 
+      "text": "La comida es excelente y el trato es cordial."
+    }, 
+    {
+      "date": "31 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JCB", 
+      "text": "Estoy muy conforme con el servicio prestado. La comida es excelente."
+    }, 
+    {
+      "date": "17 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "drf", 
+      "text": "\u00a1Por fin recordamos lo que significa comer una buena comida regional!"
+    }
+  ]
+}

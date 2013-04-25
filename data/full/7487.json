@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "eledus", 
+      "text": "Fui un viernes por la noche y si bien no me atendieron mal pero eramos 3 y nos atendieron 4 mozos, el lugar resulta ruidoso pero para el tipo de comida esta bien. Pedimos 2 sandwichs de pollo y uno de lomito + 1 panqueque de dulce c/nuez, 1 porci\u00f3n de papas + 2 aguas y una gaseosa y nos salio $ 146. Los sandwichs eran de normales a malos, poco relleno. El panqueque estaba bien. La verdad no lo recomiendo porque por esa plata se puede comer mejor."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "efete", 
+      "text": "Teniendo en cuenta el lugar y el tipo de comida, es recomendable. Los panqueques salados son buenos. Los dulces son excelentes, y los sandwiches (Hamburguesa / Lomito) son muy buenos."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Liessa", 
+      "text": "La atenci\u00f3n y ambiente son correctos, teniendo en cuenta el tipo de lugar. Los panqueques son ricos, pero no llenan demasiado, y adem\u00e1s llegaron tibios. Los panqueques dulces son buen\u00edsimos y muy abundantes. Mucha gente ped\u00eda sandwiches y al menos a la vista parec\u00edan muy buenos. Volver\u00eda para probar los sandwiches, pero no por los panqueques salados. Lindo lugar para ir con familia o amigos, sin demasiadas pretensiones."
+    }
+  ]
+}

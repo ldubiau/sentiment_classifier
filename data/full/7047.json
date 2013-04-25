@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mvgp", 
+      "text": "Lo elegimos xq habia mucha gente y pensamos q  era bueno. Pero fue mailisimo! El servicio es malo, mala onda, desprolijo. Los manteles son una mugre y demoraron casi 45\u00b4min en hacer una pizza combinada. NO VAMOS A VOLVER!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "malen_na", 
+      "text": "Si bien la pizza no estuvo del todo mal, la atenci\u00f3n fue p\u00e9sima.\r\nTuvimos que esperar para que nos trajeran la bebida, tuvimos que esperar (1 hora) para que nos trajeran una pizza de mozzarella y jam\u00f3n, tuvimos que pedir dos veces la cuenta...\r\nQuiz\u00e1 un d\u00eda de semana funcione bien, pero no es recomendable para un s\u00e1bado a la noche."
+    }
+  ]
+}

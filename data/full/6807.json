@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "chilu", 
+      "text": "Es una esquina de una casa reciclada en un barrio, la decoraci\u00f3n es justa. Los platos son justos en cuanto a tama\u00f1os y presentaci\u00f3n. No hay mucho para sorprender. Pero es recomendable."
+    }, 
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gfalvarez", 
+      "text": "Comemos bastante seguido en dicho lugar ya que somos de la zona, la comida es fresca y sabroza,  la atencion es muy buena. Los precios son muy accesibles y las porciones con lo justo para llenarse."
+    }
+  ]
+}

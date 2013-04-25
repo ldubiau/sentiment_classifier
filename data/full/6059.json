@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "28 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lcastiglioni", 
+      "text": "Estaba en frente de mi antiguo trabajo, por lo que comi aca varias veces. La comida es realmente muy rica y fresca. Tienen 4 o 5 platos del dia, lo que asegura siempre una buena calidad. Las ensaladas son lo mas! Deliciosas y super frescas. La atenci\u00f3n en impecable, aunque la comida demora un poco. El ambiente es chiquito, pero c\u00f3modo, tiene muy pocas mesas. Su mozo (Igor) es super amable y atento."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "EAR61", 
+      "text": "De lo mejor. Todos los meses nos juntamos con unos amigos (un Club de degustaci\u00f3n de vinos) y Juan nos prepara un men\u00fa acorde con el et\u00edlico...todo excelente...comida, atenci\u00f3n personalizada....lo recomiendo...."
+    }, 
+    {
+      "date": "10 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "rubbersnake", 
+      "text": "Como trabajo cerca, me voy casi todos los d\u00edas. Sirven buena variedad de platos calientes, ensaladas, sandwich y postres.Todo fresco, sabroso, elaborado con gusto y imaginaci\u00f3n, de muy buena calidad. Es impresionante lo que Juan, el chef, prepara en un lugar tan chico que es la cafeteria de un gimnasio...Igor, el mozo, muy amable y atento. Altamente recomendable!"
+    }
+  ]
+}

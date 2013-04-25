@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "14 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "anibalbox", 
+      "text": "El restaurante est\u00e1 muy bien ambientado. Es la tercera vez que hemos ido, y en este caso nos decepcion\u00f3 la atenci\u00f3n. Al ser un lugar poco concurrido no preparan los platos con anticipaci\u00f3n, lo cual es un gran problema cuando se llena ya que los platos demoran mucho. En cualquier otra situaci\u00f3n, el lugar es muy recomendable. La atenci\u00f3n no es la mejor, ya que demoran en venir a la mesa en todo sentido, pero siempre te dan una copa de bienvenida (siempre distinta) y eso compensa un poco. La comida est\u00e1 muy bien realizada. Hay variedad y calidad. El ambiente es excelente, ideal para parejas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "VeroLS", 
+      "text": "Ambiente c\u00e1lido y muy agradable (paredes de ladrillo a la vista, muchas plantas, cuadros tem\u00e1ticos de cine, luz tenue y m\u00fasica suave). Muy buen servicio y comida muy sabrosa y bastante abundante. Un buena opci\u00f3n en Ramos."
+    }, 
+    {
+      "date": "10 Feb 0012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chelochus", 
+      "text": "Excelente el lugar, ideal para compartir en pareja, muy buena atenci\u00f3n, platos variados y sabrosos. Seguramente volveremos."
+    }
+  ]
+}

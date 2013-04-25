@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "27 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gnt1968", 
+      "text": "Muy bueno, estaba todo fresco para recomendar"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Augusto_M", 
+      "text": "Excelente lugar para merendar. Rico -ideal para probar alguna cosita japonesa-, abundante y a buen precio. El ambiente lindo, c\u00e1lido, seg\u00fan pude ver se hace karaoke en espa\u00f1ol, ingles y japon\u00e9s los s\u00e1bados a la noche. Se ve tentador para para ir a comer."
+    }, 
+    {
+      "date": "11 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Fox75", 
+      "text": "Uno de los mejores sushi que he comido! Para recomendar"
+    }, 
+    {
+      "date": "9 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "acrobata", 
+      "text": "Excelente lugar para merendar con amigos, la torta de t\u00e9 verde era muy rica; la atenci\u00f3n es muy buena, las mozas son increiblemente amables"
+    }
+  ]
+}

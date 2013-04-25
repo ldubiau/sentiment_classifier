@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pokermaestro", 
+      "text": "Pedimos \u00f1oquis caprese y nos sirvieron unos \u00f1oquis rellenos de calabaza con salsa a base de crema con hongos y panceta y una hojita de albaha! SIN tomate, SIN Mozzarella y SIN ALBAHACA! Cero criterio. y Car\u00ediiisimo!!! Caro mal!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Jun 0012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sapos", 
+      "text": "muy chica la porcion. me quede con hambre y pague muy caro"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Me encantan sus ensaladas. Las mejores de buenos aires. Incluyen mezclas con salmon ahumado, huevo revuelto, palta, pollo, esparragos, pepinos y otras delicias."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "5 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "juanbazzi", 
+      "text": "El lugar muy lindo para ir en verano. Una pena realemnte que no acepten tarjeta, entiendo que es por un tema imopsitivo, pero un lugar asi realmente no puede ser solo pago en efectivo hoy en dia. Las milanesas no las recomiendo, son fritas y con aceite no muy bueno. Ensaladas ricas. Picada abundante y completa."
+    }, 
+    {
+      "date": "12 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "carlita7", 
+      "text": "excelente lugar, comida bien, r\u00e1pida, atenci\u00f3n normal"
+    }, 
+    {
+      "date": "27 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Un lugar para tomar algo con amigos y donde se puede comer cosas basicas como lomitos o milanesas. Tiene el plus de estar al lado del rio."
+    }, 
+    {
+      "date": "11 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "diaritavi", 
+      "text": "La verdad que se comio bien, abundante, se tomo bastante alcohol y la cuenta muy economica...\r\nDespues el bailongo esta bueno pero mucho calor porque no andaban los aires, una pena sino hubiese estado mejor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "oktubrerojo", 
+      "text": "Excelente atenci\u00f3n del personal, comida fresca sin marcar, re\u00fane la posibilidad de cenar adentro, copas en el deck y sentarse frente al r\u00edo. Lo recomendar\u00e9"
+    }
+  ]
+}

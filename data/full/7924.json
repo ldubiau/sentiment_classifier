@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "10 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "renoir", 
+      "text": "Fui a almorzar con unos amigos, y la verdad quedamos un poco decepcionados. Todo bien con lo prehecho, pero no es de buena calidad. Igual el precio no est\u00e1 mal. Pero en Microcentro ten\u00e9s mejores opciones por el mismo precio."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Buena opcion si no hay mucho tiempo al mediodia. Comida rica y sana. Buena materia prima. Falta un poco mas de variedad en los rolls, pero en general esta muy bien la comida."
+    }, 
+    {
+      "date": "27 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jorgefer", 
+      "text": "muy bien presentada, los arandanos le un toque especial"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Julys", 
+      "text": "Muy rica comida. Se nota que es todo fresco y muy buena materia prima. Solo pedi delivery, pero lo recomiedo."
+    }, 
+    {
+      "date": "6 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mishulita", 
+      "text": "Excelente comida y atenci\u00f3n. Un lugar que emana buena onda"
+    }, 
+    {
+      "date": "22 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "danidani05", 
+      "text": "me gusto mucho el lugar. te asesoran bien, todo muy fresco y se nota de buena calidad. el sandwich de atun muyyy rico"
+    }, 
+    {
+      "date": "16 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "freddiem45", 
+      "text": "Excelentes los 2 rolls que prob\u00e9: el de salm\u00f3n ahumado y el veggie, con remolacha, nueces, espinaca, etc. El sistema tipo autoservicio me pareci\u00f3 muy \u00fatil para este tipo de lugares de sandwiches y ensaladas."
+    }, 
+    {
+      "date": "19 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cande1604", 
+      "text": "Excelente el lugar! Buenisimo opcion para comer muy rico, comida r\u00e1pida reci\u00e9n elaborada y saludable. Con opciones vegetarianas ademas! La atenci\u00f3n es muy buena y el lugar c\u00e1lido y limpio. Precios muy muy razonables. Gracias!!"
+    }, 
+    {
+      "date": "15 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "guille111", 
+      "text": "Muy buena opci\u00f3n para comida r\u00e1pida y sana.\r\nBuena materia prima y sabores cuidados."
+    }, 
+    {
+      "date": "10 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pilita16", 
+      "text": "Excelente opci\u00f3n para los que buscan comer muy rico, sano y a buen precio. Es uno de esos lugares donde te dan ganas de probar todo; yo probablemente lo har\u00e9 porque pienso seguir yendo!"
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AndresL", 
+      "text": "Todo muy saludable y rico. Muy cuidada la comida y la ambientacion. Muyy recomendable.."
+    }, 
+    {
+      "date": "9 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mishulita", 
+      "text": "Excelente la comida y el lugar. Para destacar la atenci\u00f3n y nivel cultural del personal."
+    }
+  ]
+}

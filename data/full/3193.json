@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "2 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Elturi", 
+      "text": "Hicimos un pedido de delivery, me dijeron que tardaria una hora, termine yendo a buscar a las dos horas las cosas al local para apurar el tramite, y la verdad que lo que me entfturiregaron era poco, mal hecho y se desarmaba todo. Recomendacion: IR o pedir un dia de semana que no sea viernes o vispera de feriado, ayer estaban desbordados."
+    }, 
+    {
+      "date": "14 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "_jack_", 
+      "text": "la verdad es que por la zona no hay muchos sushi bares, pero este mejor evitarlo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "manufrk", 
+      "text": "Lamentablemente Mi Sushi bajo muchisimo su calidad en los ultimos meses. Los rolls vienen presentados de forma desprolija y muy poco atractiva. El pescado no es fresco y el arroz estaba muy avinagrado. Una lastima."
+    }, 
+    {
+      "date": "3 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CarolaHansing", 
+      "text": "El pescado es muy fresco, pero a veces las piezas resultan un poco grandes."
+    }, 
+    {
+      "date": "21 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bonita", 
+      "text": "El sushi no es de los inolvidables, pero es muy rico. El delivery viene pronto. Los precios, por las nubes. El combinado de 15 piezas es m\u00e1s caro que el del delivery del sushi club."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "julioasensio", 
+      "text": "Solo use el delivery y recomiendo la comida. Muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Gugas", 
+      "text": "Es sushi es de los mejores que comi, todo muy fresco. El servicio es muy cordial. El lugar es realmente chico y la ambientacion no es buena. Muy recomendable para delivery."
+    }, 
+    {
+      "date": "21 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gringa1", 
+      "text": "Excelente el sushi. Probamos platos calientes y quedo demostrado la exclencia del cocinero. \r\nPara recomendar."
+    }, 
+    {
+      "date": "11 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "muribelarrea", 
+      "text": "Hasta ahora uno de los mejores sushis que comi. Un poco chico el lugar y de la lista de vinos solo un 20% estaba disponible. Para gente que le gusta este tipo de comida y no es diestro con los palitos chinos, que se lleven una bandita elastica para armar la pinza porque ni siquiera conocian la idea..."
+    }, 
+    {
+      "date": "20 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "manufrk", 
+      "text": "Muy buen lugar con excelente comida pero lamentablemente como todos los lugares de sushi un poco caro igualmente vale cada peso que gastas."
+    }
+  ]
+}

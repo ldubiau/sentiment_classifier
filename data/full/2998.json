@@ -1,0 +1,188 @@
+{
+  "malos": [
+    {
+      "date": "11 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "comensalquesabe", 
+      "text": "La atencion es pesima y la comida no tiene nada de especial, es como comer en McDonalds"
+    }, 
+    {
+      "date": "3 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Lugar trendy-fashionoide que se ha puesto muy de moda con los expatriados que pululan por la zona.  El servicio no es malo, tienen onda los que atienden pero se nota la falta de oficio.  La comida es olvidable (sin desentonar al extremo de ser demasiado mala)... en resumen, un buen lugar para levantarse alguna minita o fulano foranea/o y no mucho mas."
+    }, 
+    {
+      "date": "29 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jpbiermayr", 
+      "text": "La ubicacion es muy buena y la terraza da una vision privilegiada sobre el boulevard. El servicio es amable y el clima distendido. Los tragos son los peores que tome en mi vida."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ManJean", 
+      "text": "el ambiente que se crea en la terraza es muy acogedor, ya que que es un espacio reducido y bien puesto. la comida, fue mejor de lo que esperaba, y hace que valga la pena pagarlo. el servicio no es malo, pero como la cocina esta en el salon de abajo, si necesitas pedir algo, a veces la mesera no esta y no te ve al pasar. pero no influye en el resultado final, que es el de ir a comer bien."
+    }, 
+    {
+      "date": "25 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jurguen_79", 
+      "text": "Por el lugar pase muchas veces y como pasan los partidos de Futbol americano entre. De las entradas les faltaban bastantes, pero realmente los chicken fingers estaban muy buenos y los buffalo wings tambien, muchos mas ricos y picantes que con barbacoa. La bebida es buena, por la calidad no estan tan caros. No recomendaria los tragos batidos, mas si los directos, pedi un vodka martini de aperitivo que era una falta de respeto al nombre."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "aniat", 
+      "text": "Una decepci\u00f3n total. Fuimos desde Mataderos hasta ah\u00ed con ganas de probar el brie a la parrilla. No hab\u00eda (s\u00e1bado a las 22.30hs!) Los tragos estaban totalmente dilu\u00eddos, no ten\u00edan nada de alcohol. El ojo de bife bastante soso, la ensalada casi sin nada de condimento. El vino lleg\u00f3 tarde (ya hab\u00edamos comido unos cuantos bocados) y medio tibi\u00f3n. \r\nEn un pizarr\u00f3n se promocionaban unas \"buffalo wings\": la camarera nos explic\u00f3 que eran \"como alas de pollo, pero de b\u00fafalo\"(?) Los ba\u00f1os no tienen identificaci\u00f3n, hombres y mujeres entran a cualquiera y se dan escenas inc\u00f3modas, y adem\u00e1s son oscur\u00edsimos, no s\u00e9 para qu\u00e9 ponen los espejos si igual no se ve nada. Evidentemente, son unos chicos \"jugando a tener un restaurante\" que tal vez sea simp\u00e1tico para j\u00f3venes, pero para comer y/o tomar BIEN, no vayan!"
+    }, 
+    {
+      "date": "12 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "albertolu", 
+      "text": "Muy ricos los tragos!"
+    }, 
+    {
+      "date": "1 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Nnandyn", 
+      "text": "El ambiente me pareci\u00f3 muy bueno con m\u00fasica excelente, la carta no es variada pero interesante y los tragos muy buenos.  Modificar\u00eda la est\u00e9tica de los mozos, barman y chef ( en realidad de los empleados en gral.)"
+    }, 
+    {
+      "date": "20 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Laurita", 
+      "text": "Los tragos son buen\u00edsimos, nos sentamos en la barra de la terraza y estuvo muy bien. Se nota que el barman tiene muchas ganas de hacer cosas de calidad."
+    }, 
+    {
+      "date": "2 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Frank", 
+      "text": "Es un lindo lugar, con el atractivo de la terraza que es un buen espacio para los fumadores. La comida es buena, con muchas opciones. Lo mejor son los platos principales, como el cordero korma y los \u00f1oquis de r\u00facula y hechos al horno. Me gust\u00f3 la onda de los tragos que se preparan en la barra."
+    }, 
+    {
+      "date": "25 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Flavia", 
+      "text": "La terraza del lugar es excelente, al igual que el servicio y la calidad de la comida. Tambi\u00e9n hay muy buenos tragos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "MorcillitaVasca", 
+      "text": "De afuera parece un bunker, solo un bar de tragos, pero se come muy bien! el cocinero fausto tiene carisma, muy talentoso. nos deleito con lentejas, rips a la barbacoa y ensalada cessar. \r\ntodo delicioso acompa\u00f1ado por pan de campo. el ba\u00f1o muy moderno tiene unas bateas angulosas de acero atractivas. los mozos muy atentos, tambien al haber poca gente se notaba la atencion personalizada. el fernet ramassoti un fiasco. feo y en vaso peque\u00f1o, sin limon... recomendable."
+    }, 
+    {
+      "date": "11 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Acho", 
+      "text": "El lugar es muy lindo y est\u00e1 muy bien ambientado.  la comida me result\u00f3 muy abundante, pero muy rica."
+    }, 
+    {
+      "date": "10 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "shirela", 
+      "text": "Fuimos con un grupo de amigas. Nos encant\u00f3 el ambiente, la atenci\u00f3n recibida. Las pizzas muy ricas y el mejor cheesecake que he probado en mi vida!!"
+    }, 
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pool", 
+      "text": "Recomendable. Una terraza muy linda."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablovlar", 
+      "text": "El lugar nos pareci\u00f3 muy lindo, nos recibieron muy amablemente, las porciones no son muy abundantes pero vale la pena. Es muy fina la preparaci\u00f3n de los platos. Lo realmente destacable de este resto es la atenci\u00f3n, verdaderamente se nota que son profesionales. Muy bueno."
+    }, 
+    {
+      "date": "27 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tatanca", 
+      "text": "Muy buena m\u00fasica.\r\nLa terraza es genial.\r\nLa barra de tragos es complet\u00edsima.\r\nTengo que ir de noche."
+    }, 
+    {
+      "date": "18 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Eloy", 
+      "text": "El lugar est\u00e1 muy bueno. Tiene dos barras y una terraza incre\u00edble. Hay tragos de todo el mundo y para elegir."
+    }
+  ]
+}

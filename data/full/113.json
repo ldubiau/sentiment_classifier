@@ -1,0 +1,778 @@
+{
+  "malos": [
+    {
+      "date": "9 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "cgasti", 
+      "text": "Lamentablemente la calidad de los platos no est\u00e1 a la altura de la merecida fama que este tradicional restaurante de Buenos Aires tiene. La ambientaci\u00f3n es soberbia (en un magn\u00edfico edificio  de 1911, con decoraci\u00f3n original). Tal vez s\u00f3lo por ese motivo merece una visita, pero si mejorase la cocina, ser\u00eda un lugar altamente recomendable. Hasta no tener datos de ese cambio, no volver\u00eda."
+    }, 
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "nueve", 
+      "text": "Pedimos de entrada Centolla del Chef, excelente plato, como plato principal una tabla de Mariscos Calientes y una tortilla Espa\u00f1ola, la tabla de mariscos era mediocre , jam\u00e1s volver\u00eda, una gran decepci\u00f3n."
+    }, 
+    {
+      "date": "7 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "juanjose", 
+      "text": "fui recomendado y la verdad que me dejo mucho que desear, la comida fria , tardo una eternidad y el moso no sabia lo que habia en la carta adeamas me hicieron cambiar el vino precio calidad hay muchos lugares mejores en buenos aires"
+    }, 
+    {
+      "date": "11 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "juantxu", 
+      "text": "El mozo nos hizo notar que tenia prisa por terminar desde el primer momento hasta el ultimo. los chipirones plancha eran lamentables, blandos, mal limpiados... un desastre. la merluza negra tirando a mala. una decepcion... mi primera y ultima vez...lo unico positivo es que la decoracion es realmente preciosa... con una buena cocina seria un sitio imperdible..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ExiFa", 
+      "text": "Lugar extraordinario, Tortillas y rabas muy buenas, Picada, Abadejo y cochinillo: bien;, Y la  carta de vinos razonable. Los precios no son baratos y la atenci\u00f2n muy buena"
+    }, 
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Alucinante palacette barroco, con muy rica comida. Vayan"
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "daconta50", 
+      "text": "Como siempre, el lugar resulta impactante por lo bien conservado. Pero  la gastronom\u00eda est\u00e1 algunos pelda\u00f1os por abajo... Panera con todos los panes secos y duros (cambiada luego por una con los componentes recalentados), ravioles negros pegoteados y tibios, plato de pollo agridulce en el que el anan\u00e1 que anunciaba el men\u00fa brillaba por su ausencia... Salv\u00f3 la noche las frutas flambeadas (con toda la parafernalia al lado nuestro). Correcto el mozo, y bien por el recibimiento con una copa de champa\u00f1a. Por favor, mejorar el nivel porque el sitio lo vale. Volver\u00eda."
+    }, 
+    {
+      "date": "19 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar suntuoso, con una decoraci\u00f3n donde abundan los bronces, maderas columnas pinturas y m\u00e1rmoles;  detalles t\u00edpicos de la  rica arquitectura.de otras \u00e9pocas  La carta es respetuosa de los aut\u00e9nticos sabores espa\u00f1oles, donde los pescados, mariscos, tortillas y el tradicional cochinillo, se llevan todos los laureles. La atenci\u00f3n,  amable y profesional ,  con mozos que saben asesorar oportunamente sobre  los platos del men\u00fa. Tiene una carta de vinos  bastante amplia y el lugar cuenta con estacionamiento propio. Esta experiencia fue un placer para el paladar y la vista."
+    }, 
+    {
+      "date": "11 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "baffoblu", 
+      "text": "todo muy tradicional. comida demasiado clasica, lo que se comia hace 30 a\u00f1os.. buen servicio, bastante caro, no vale la pena. no sorprende. el salon muy lindo.."
+    }, 
+    {
+      "date": "30 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Hacia muchisimos anos que queria ir y anoche fuimos a festejar el cumpleanos de una amiga. El lugar es increible, majestuoso. La comida esta bien. Los precios son bastante elevados para la cantidad de comida que sirven. Eso pasa sobre todo en algunas porciones de pescado. La especialidad de la casa es el cochinillo y por mas que es bastante caro la verdad es que estaba exquisito."
+    }, 
+    {
+      "date": "7 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ezefe", 
+      "text": "Impecable instalaci\u00f3n con impronta decimon\u00f3nica (m\u00e1s precisamente de 1908). Uno de los pocos restaurantes de Buenos Aires altamente ruidosos que se disfruta de inicio a fin. Mesas ampl\u00edsimas (sin exagerar, al menos 1 metro de lado), sillas muy c\u00f3modas, carta repleta de pescados y mariscos (un poco caro, pero \u00bfd\u00f3nde se come marisco bueno y econ\u00f3mico?). Con esos mozos de much\u00edsima experiencia que conocen la profesi\u00f3n al dedillo, que no invaden y te cantan la justa. Vale la pena visitar este lugar en una atm\u00f3sfera que se remonta a inicios del siglo pasado."
+    }, 
+    {
+      "date": "18 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Quilmes", 
+      "text": "Lo mejor, sin duda, el ambiente. Muy c\u00f3modo el parking. Atenci\u00f3n amable y esmerada. Los pescados muy buenos. Precios algo caros, pero recomendable."
+    }, 
+    {
+      "date": "11 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Trentino", 
+      "text": "Decepcion\u00f3. El sal\u00f3n comedor es realmente extraordinario, pero el olor a comida al entrar presagiaba cierta mediocridad, que finalmente se confirm\u00f3 en los platos. Los pimientos del piquillo fueron morrones comunes (y acompa\u00f1ados por arroz insulso), y el arroz con mariscos estuvo solo correcto, tal como los otros platos. El postre (crema manchega) decepcion\u00f3. Se puede comer mejor y por menos precio en otros restaurantes espa\u00f1oles y vascos de la zona. Una l\u00e1stima, porque el sal\u00f3n da para mucho m\u00e1s."
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "cbkr11", 
+      "text": "Coincido a pleno que el ambiente es soberbio, para darle una calificaci\u00f3n de excelente se debe solucionar el olor de comida en tan elegante sal\u00f3n. Las rabas deliciosas, la tortilla no fue bav\u00e9 y los calamarettis a la lyonesa estaban bien. La tabla de pescados decepcion\u00f3, compartimos entre dos unas verduras hervidas y cuatro pedacitos de pescado a la plancha bastante secos. No recomiendo este plato para saborear cocina espa\u00f1ola. La paella estaba espectacular con uno de los m\u00e1s ricos arroces que probamos en largo tiempo. Sin lugar a dudas la crema de vino manchega es el postre."
+    }, 
+    {
+      "date": "22 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "El_rafa", 
+      "text": "Carta amplia, con gran variedad, recomendables los pescados y mariscos. Porciones abundantes, buena la atenci\u00f3n y hermoso el lugar. Muy recomendable para impactar a personas de afuera o para disfrutar de un restaurante que no cayo en la moda de Palermo. Para destacar, como entrada sin que se lo pida sirven jam\u00f3n crudo, tortilla y rabas. Buenos postres."
+    }, 
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chilita", 
+      "text": "Siempre vuelvo...la comida es excelente..las rabas a la provenzal cada dia mejor!! La paella abundate y a punto, los langostinos juliette super recomendables...la atencio muy buena, los mozos siempre atentos sin molestar...y la bienvenida siempre con una copa de champagne - lindo detalle"
+    }, 
+    {
+      "date": "28 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "isalva", 
+      "text": "Lindo ambiente, una arquitectura e iluminaci\u00f3n imponente. La atenci\u00f3n mala y la comida dejo mucho que desear (salvo la paella que fue muy buena).- el resto de los platos con poco sabor y baja calidad.-"
+    }, 
+    {
+      "date": "17 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mmonzo", 
+      "text": "El sal\u00f3n es imponente por su arquitectura y obras de arte, muy bien conservado y con una correcta distribuci\u00f3n de sus amplias mesas.\r\nLa comida respeta los sabores tradicionales de la cocina espa\u00f1ola. La atenci\u00f3n es muy cordial y profesional."
+    }, 
+    {
+      "date": "14 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Canopo", 
+      "text": "Volvi despues de algunos a\u00f1os.  El ambiente magnifico aunque la calidad de la cocina y la atencion bajaron un poco.  Sigue siendo una buena opcion en cuanta a cocina espa\u00f1ola."
+    }, 
+    {
+      "date": "14 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "petitgourmet", 
+      "text": "Excelente lugar, todo sabrozo y bien servido."
+    }, 
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "acdisi", 
+      "text": "Fuimos alrededor de las 9 de la noche del s\u00e1bado, sin reserva. No tardaron m\u00e1s de 30 segundos en ubicarnos en una mesa muy c\u00f3moda, a una distancia razonable del resto. El lugar es realmente fuera de lo com\u00fan. Creo que s\u00f3lo por eso vale la pena ir.\r\nTodos los platos en su punto justo. La tortilla muy rica. La hab\u00eda pedido babe\u00e9, porque en general la secan, pero el mozo sugiri\u00f3 a punto y sali\u00f3 perfecta, seca por fuera y jugosa por dentro. La trucha con frutos de mar, una delicia. Los mozos muy profesionales, serviciales sin ser cargosos. No es barato, pero la relaci\u00f3n precio-calidad es excelente"
+    }, 
+    {
+      "date": "3 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Muy buena comida, para aprovechar y darse el gusto de un buen plato espa\u00f1ol (por ejemplo tortilla y cazuela de mariscos) hecho como dios manda y bien servido. El aspecto m\u00e1s destacado es el imponente ambiente del sal\u00f3n, digno del nombre Palacio. Muy bueno!"
+    }, 
+    {
+      "date": "31 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Astarte", 
+      "text": "En un edificio antiguo y muy bien conservado, funciona este restaurante bien tradicional. Su carta es amplia, el espacio entre las mesas perfecto y la atenci\u00f3n si bien es correcta podr\u00eda mejorar. Los platos son muy ricos, abundantes (eso si, la sopa crema de zapallo es solo sopa, nada cremosa). Pero es un lugar recomendable, muy agradable. Conviene reservar."
+    }, 
+    {
+      "date": "9 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "patu", 
+      "text": "Es la segunda vez que voy y me sorprendi\u00f3 nuevamente el ambiente. Cosas para destaqcar:\r\nDecoraci\u00f3n, Mesas bien separadas, silencioso, comida.\r\nCosas a mejorar: La atenci\u00f3n de los mosos, la recepci\u00f3n. y la carta de vonos (pedimos Champagne Trumpeter y no ten\u00edan, y nos quer\u00edan dar solo de la bodega chandon. Lugar para recomensar sobre todo si van en pareja."
+    }, 
+    {
+      "date": "3 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Osqui", 
+      "text": "ambiente para disfrutar. muy buenos los pescados. servicio aceptable."
+    }, 
+    {
+      "date": "11 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "GSM", 
+      "text": "Muy bueno. El arroz en su punto justo, la sopa de pescado con el sabor exacto todo a tiempo. Buena carta de vinos."
+    }, 
+    {
+      "date": "16 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "FernandoJH", 
+      "text": "El lugar es una obra de arte de la arquitectura de 1900, todo est\u00e1 ambientado en su tiempo, realmente un lujo, respecto de la atenci\u00f3n fui un lunes a las 20:30 con reserva, as\u00ed y todo algo lento para servir las copas, me quedan dudas si el lugar est\u00e1 lleno, la comida en su punto, los mejillones gratinados una delicia, la cazuela abundante de buen sabor, los higos flambeados riquisimos, la carta de vinos es muy buena. El estacionamiento al lado, la ubicaci\u00f3n en el microcentro, perfecto y c\u00f3modo. Voy a volver."
+    }, 
+    {
+      "date": "15 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pipo", 
+      "text": "comida muy buena y fresca-el precio es de acuerdo como esta todo. el lugar muy familiar"
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "msollaleff", 
+      "text": "Lindo ambiente pero la comida no sobresale.Los mejillones gratinados no tenian sabor a queso ni a nada,la tortilla gallega nada especial.El lenguado Berminiant (o como se escriba) estaba rico pero nada fuera de lo comun.Me parece que hay mejores lugares (TANCAT) para comer comida espa\u00f1ola mas economica y de mejor calidad y mas rica.El servicio bastante bajo,tardaron en tomarnos el pedido,el vino no nos lo sirvieron, pedimos ravioles y no nos dieron ni queso ni nos preguntaron yel salero brillaba por su ausencia.Creo q lo caro y \"fino\" no es sinonimo de calidad y se demuestra en este lugar."
+    }, 
+    {
+      "date": "10 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Claris", 
+      "text": "Es un lugar muy agradable y los mozos son muy correctos y cordiales. La comida es rica pero no prob\u00e9 nada con sabores sobresalientes, aunque s\u00ed con buenos puntos de cocci\u00f3n y muy buena calidad de productos. Es un lugar recomendable para ir a conocer alguna vez."
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ososibarita", 
+      "text": "Un edificio que data de 1911, una arquitectura imponente con obras de varios pintores, sus bronces y m\u00e1rmoles crean un ambiente muy agradable. El restaurante es muy tranquilo con mesas bien separadas,la mayor\u00eda de la clientela es gente de 60 a\u00f1os para arriba. La atenci\u00f3n de los mozos es impecable, atentos pero no molestos. La comida es tipicamente espa\u00f1ola con productos de muy buena calidad y muy sabrosa. Recomiendo la experiencia."
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "Estuvimos en una recepci\u00f3n empresarial en uno de los salones del Papacio, muy bueno y elegante el ambiente; muy buena la atenci\u00f3n de los mozos, pendientes de dar un buen servicio. La comida con altos y bajos, por eso la calificaci\u00f3n que el atribuyo es \"B\". Habra que ir al restaurante para completar la experiencia y respectiva calificaci\u00f3n."
+    }, 
+    {
+      "date": "28 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Patolandia", 
+      "text": "Excelente dise\u00f1o arquitect\u00f3nico. Los platos son muy buenos, ped\u00ed un huevo frito con panceta, algo tan simple, y tan bien preparado, excelentes materias primas. La cazuela de mariscos estuvo muy bien. Recomiendo de postre las frutillas fileteadas con helado de mascarpone y salsa de sambayon, sin desperdicios."
+    }, 
+    {
+      "date": "19 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "mary100", 
+      "text": "El lugar es sin dudas hermoso, es comer rodeado de obras de arte. Pero la comida no tiene el nivel que uno espera. La paella crei que por ser un sitio espa\u00f1ol iba a ser buena y tenia gusto a arroz hervido!! nada peor para una paella!! Para una noche rom\u00e1ntica es encantador pero no pidan comida espa\u00f1ola si estuvieron en Espa\u00f1a, se llevar\u00e1n una decepci\u00f3n!! Otra cosa: tardan bastante en atender!!"
+    }, 
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ariel_bern", 
+      "text": "Publico por lo general mayor. La comida muy buena, la atencion del mozo muy bien, las recomendaciones sobre las porciones fueron acertadas en cantidad. El estacionamiento del lugar que es pegado, puede estar completo. Las reservas son para los horarios que informan al momento de hacer la reserva telefonica, de todos modos no demoro mucho la espera, un sabado 10pm."
+    }, 
+    {
+      "date": "25 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fery", 
+      "text": "El ambiente es excelente, un verdadero palacio. La atencion de los mozos muy profesional. Pedimos de cenar centolla, muy fresca, tortilla a la espa\u00f1ola, sopa de mejillones y verduras y cochinillo a la segoviana, bien preparado, ademas de postres muy bien presentados. El promedio con una entrada, plato principal, postre y bebida sin alcohol ronda los $ 90 por comensal, lo cual no es caro en relacion al lugar y la calidad de los productos. RECOMENDABLE"
+    }, 
+    {
+      "date": "27 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "SirCharles", 
+      "text": "La decoraci\u00f3n del sal\u00f3n es realmente espectacular. La paella a la valenciana, para compartir, estaba muy buena. Respecto al tiramis\u00fa, si bien estaba rico no estaba hecho con queso mascarpone, lo cual le resta varios puntos. La mejor opci\u00f3n para postre hubiese sido el panqueque de manzana flambeado al ron. La atenci\u00f3n fue correcta. Si son de almorzar tarde conviene reservar, por la cantidad de gente que va despu\u00e9s de la 1.30 hs."
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "telblh", 
+      "text": "muy bueno el lugar, y excelente la comida"
+    }, 
+    {
+      "date": "30 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GAM", 
+      "text": "El ambiente es tranquilo. La atenci\u00f3n normal aunque dejaba una sensaci\u00f3n de apuro. Ped\u00ed pulpo a la gallega que estaban impresionantes (tanto en cocci\u00f3n, sabor, piment\u00f3n y oliva) con un precio elevado ($80) pero es lo que se cobra generalmente. De postre helado con gusto a los sabores que ped\u00ed, lo cual parece una redundancia pero muchas veces no lo es."
+    }, 
+    {
+      "date": "12 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "MARITUS", 
+      "text": "Verdaderamente parece un Palacio, muy bien la iluminaci\u00f3n y los cortinados. El mozo muy profesional, sabe los ingredientes de cada comida. Carta de vinos a precios muy razonables."
+    }, 
+    {
+      "date": "7 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "faycla", 
+      "text": "No me pareci\u00f3 tan bueno como algunos opinan. Es muy pintoresco el lugar, decorado art\u00edstica y cl\u00e1sicamente"
+    }, 
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DOCNO", 
+      "text": "A favor, buen ambiente, c\u00f3modo, buena atencion general, muy buena comida (el solomillo se nota su pre-coccion y consecuente un poco seco).\r\nEl servicio del mozo (planta alta) muy buena disposicion, pero  muy apurado, no condice con el lugar-ambiente conclusion: vale la pena."
+    }, 
+    {
+      "date": "12 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "smzuddio", 
+      "text": "El mejor sal\u00f3n que he visitado en Buenos Aires.\r\nLa decoraci\u00f3n y est\u00e9tica es perfecta en su conjunto. No tiene sentido describirlo, simplemente deben ir a verlo.\r\nLos platos est\u00e1n elaborados con excelente materia prima, todo fresco y preparado en su punto justo. Los mozos son de oficio: conocen la carta a la perfecci\u00f3n y saben recomendar en opciones y en cantidades tambi\u00e9n.\r\nEl Palacio es un lugar en el que uno quiere que la velada no se termine nunca.\r\nAntes de irse, Patxar\u00e1n con el caf\u00e9."
+    }, 
+    {
+      "date": "22 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MASTERMAX", 
+      "text": "Eramos cuatro personas y la 1\u00b0 vez que ibamos realmente recomendable,\r\nexcelente la comida. El lugar un poco descuidado."
+    }, 
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "willytuner", 
+      "text": "realmente es un lugar \u00fanico, una joya arquitectonica. El ambiente es muy bueno, ligeramente ruidoso. La comida tipicamente espa\u00f1ola es muy buena."
+    }, 
+    {
+      "date": "8 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lucholp", 
+      "text": "Fuimos con amigos de Francia y quedamos encantados con el sal\u00f3n. La comida fue muy buena, el cochinillo vale su precio. \r\nLos platos llegaron r\u00e1pido y con la temperatura adecuada."
+    }, 
+    {
+      "date": "25 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dieguis", 
+      "text": "Festejamos un cumplea\u00f1os y los platos llegaron a tiempo todos juntos. Yo com\u00ed lomo a la mostaza y estaba muy rico. Tambi\u00e9n el Salm\u00f3n al roquefort y la paella, l\u00e1stima la p\u00e9sima atencion de los mozos, nunca una sonrisa. Le reclamabas algo y se mord\u00edan los labios. Nos atendieron con mucho desgano y como si no tuvieran ganas de trabajar."
+    }, 
+    {
+      "date": "21 Jun 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MaritodeSalto", 
+      "text": "Es un lugar muy bello aunque desangelado. Atenci\u00f3n correcta pero descuidada en los detalles, lo mismo que algunos platos. \r\nLa crema catalana imperdonablemente fr\u00eda. Punto a favor: \u00e9ramos ocho y los distintos platos principales llegaron al tiempo y calientes. \r\nOjo, la media porci\u00f3n agregada a una porci\u00f3n doble la cobran casi como otra doble. \r\nLa se\u00f1orita de recepci\u00f3n, m\u00e1s linda que entusiasta. \r\nY al final los mozos se quer\u00edan ir a dormir."
+    }, 
+    {
+      "date": "31 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mercho", 
+      "text": "Una porci\u00f3n de piquillos cuatro chicos $28 cubierto 5$, lo que no me gust\u00f3 es que pedimos paella para tres y nos cobraron un plus de $36. La paella para dos sal\u00eda $42, en total dejamos 70 por cabeza. Compartiendo platos entre seis personas, todo bien pero por setenta pesos un d\u00eda de semana al mediod\u00eda, me parece car\u00edsimo. S\u00f3lo tomamos dos botellas de vino a 28 pesos cada una."
+    }, 
+    {
+      "date": "22 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jargento", 
+      "text": "Reserv\u00e9 mesa con anterioridad, para dos personas y habiendo llegado a las 20:30 hs. nos asignaron arriba contra la pared, en la peor mesa del sal\u00f3n, que no se complet\u00f3 nunca.\r\nMe arrepiento haberla aceptado, la se\u00f1orita de recepci\u00f3n no es muy feliz con su trabajo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AndresR", 
+      "text": "Ir a este lugar es un placer.\r\nA pesar de estar lleno (era el d\u00eda del amigo) se pod\u00eda hablar tranquilamente, y, como siempre, la comida impecable."
+    }, 
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marsof", 
+      "text": "Excelente lugar. Sal\u00f3n deslumbrante. Exquisita comida y atencion impecable"
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fklite", 
+      "text": "Hermoso edificio, sal\u00f3n tradicional y se\u00f1orial. Atenci\u00f3n y ambiente cinco estrellas, la comida que pedimos estaba muy rica, es dif\u00edcil elegir porque tienen una oferta muy amplia.  Considerando la excelente atenci\u00f3n, los precios no son nada caros. Muy recomenbable."
+    }, 
+    {
+      "date": "21 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "coco9234", 
+      "text": "Hermoso lugar con excelente decoraci\u00f3n y muy bien ambientado al estilo colonial. El  men\u00fa es extenso y la vedette en nuestro caso fueron los pescados y mariscos. Muy buena carta de vinos y los postres no desentonan. Volver\u00eda solo por algun acontecimiento pues es muy caro."
+    }, 
+    {
+      "date": "23 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "velez74", 
+      "text": "He vuelto despues de algun tiempo , el lugar , imponente , un pedazo de historia !!!!nada que objetar , la comida si bien , es buena ,  creo que quedo  demasiado caro hoy en dia para lo que estan ofreciendo , comimos una entrada de cornalitos y rabas fritas ,   2 cazuelas de mariscos , un postre y un cafe con 2 gaseosas y gastamos 300 pesos ( 15 pesos de cubierto cada uno ) , no creo que volveria ."
+    }, 
+    {
+      "date": "15 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aleBo", 
+      "text": "Muy buena atenci\u00f3n. La comida de excelente calidad y el lugar incre\u00edble. Comimos pulpo a la gallega, aceptable y una paella con un punto del arroz insuperable."
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jwba", 
+      "text": "Impecable. Para reincidir."
+    }, 
+    {
+      "date": "25 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nictalope", 
+      "text": "Una maravilla de lugar. El interior hace pensar en un restaurant de primera clase en transatl\u00e1ntico.\r\nEl servicio debe ser parecido. Siempre atentos a una min\u00fascula se\u00f1a del comensal, y al nivel de las copas. Mucho espacio y sereno. La comida soberbia, platos de sitio, platos calientes y vajilla acorde.\r\nFui a por la paella y era una valenciana al estricto hacer: pollo, conejo, pulpo, calamares, mejillones, camarones el arroz perfecto y todo en su punto. Un recomendado: la crema manchega de vino, al postre."
+    }, 
+    {
+      "date": "11 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "venusdejalea", 
+      "text": "eramos dos personas, comimos rabas a la provenzal para compartir las mas ricas que comimos en la vida, plato principaluna tabla de pescados para 2 personas, una delicia la verdad, la ambientacion una de las mejores que vi, y los mozos muy atentos!! el mejor lugar que fue indiscutiblemente!"
+    }, 
+    {
+      "date": "20 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maqui74", 
+      "text": "excelente todo, un cl\u00e1sico al que no hay que dejar de ir. precio -calidad en su punto justo."
+    }, 
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LuisH", 
+      "text": "Decoraci\u00f3n excelente y bien mantenida, desde las alfombras hasta el techoy luminarias de bronce antiguas. Los mozos son aut\u00e9nticos profesionales, no simples \"lleva platos\", como en la mayor\u00eda de los lugares modernosos. Cocina destacable tanto por la calidad de los productos como la preparac\u00ed\u00f3n. Lo \u00fanico objetable es que, como el muchos lugares, las papas las sirven algo crudas. Silencioso, mesas espaciadas, amplias, manteler\u00eda con bajomantel y vajilla impecables. Sillas c\u00f3modas con apoyabrazos, todo el lugar da placer. No todos los platos son muy generosos, preguntar al mozo."
+    }, 
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LuisH", 
+      "text": "Decoraci\u00f3n excelente y bien mantenida, desde las alfombras hasta el techoy luminarias de bronce antiguas. Los mozos son aut\u00e9nticos profesionales, no simples \"lleva platos\", como en la mayor\u00eda de los lugares modernosos. Cocina destacable tanto por la calidad de los productos como la preparac\u00ed\u00f3n. Lo \u00fanico objetable es que, como el muchos lugares, las papas las sirven algo crudas. Silencioso, mesas espaciadas, amplias, manteler\u00eda con bajomantel y vajilla impecables. Sillas c\u00f3modas con apoyabrazos, todo el lugar da placer. No todos los platos son muy generosos, preguntar al mozo.MUY RECOMENDABLE."
+    }, 
+    {
+      "date": "21 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ligita", 
+      "text": "El lugar es excelente, un ambiente calido y tranquilo. Las porciones son abundantes, por lo que dividimos entrada y plato principal con mi esposo. La calidad de los productos excelente. La Natilla no me gusto, mucha maicena. Lo que no me parece correcto es que tengan solo una tarjeta de credito, me parece que deberian ser mas \"globales\". Es eso o efectivo y dado que los precios no son baratos, si no tenes ESA tarjeta hay que pedir dentro del dinero en efectivo que llevaste, un desperdicio!.\r\nLa Atencion, muy buena. El lugar es espectacular por su arquitectura, iluminacion y presencia."
+    }, 
+    {
+      "date": "20 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Franco59", 
+      "text": "Un lugar excelente con un estilo arquitectonico original, de primer nivel. El salon es muy amplio, las mesas bien acomodadas y con buen espacio. La comida es de primer nivel: todos los mariscos muy frescos y condimentados de una forma absolutamente natural, lo que si te permite de apreciar los sabores. Los camareros, muy profesionales, de muy buen nivel. Obviamente el costo no es.....liviano! Una peque\u00f1a mancha en toda la organizacion tiene a que ver con lo que te aceptan solo tarjeta American Express sin que nadie te avise: tengan cuidados si invitan."
+    }, 
+    {
+      "date": "16 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sancci", 
+      "text": "La zona,de noche,es brava pero tiene la cochera al lado.\r\nEl lugar,para el que entiende un poco de arquitectura,es excepcional.\r\nLa atencion es optima,el plato es hiper bueno y abundante,todo fresco,el ambiente es bueno,la gente que asiste es tranquila,sin ruido,la carta de vinos es muy completa,lo que si,hay que ir a principio de mes,por que es un poco el costo elevado.\r\nLos platos de las otras mesas,tambien es muy bueno,el cochinillo,imperdible,las entradas.\r\nPARA RECOMENDAR."
+    }, 
+    {
+      "date": "24 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ivordonez", 
+      "text": "Excelente el punto de la tortilla y claramente los mejores calamares en su tinta de BA.\r\nLa ambientacion es muy linda, lastima que un rincon reformado muy peque\u00f1o tenga un look \"plaza del carmen\""
+    }, 
+    {
+      "date": "28 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "la_dolce_vita", 
+      "text": "El ambiente es relajado y elegante, la atenci\u00f3n es excelente.\r\nPedimos una entrada caliente de frutos de mar y result\u00f3 muy abundante y excelente tanto en la calidad de los mariscos como en el punto de cocci\u00f3n (tema crucial con los mariscos)\r\nLuego pedimos una paella valenciana y nos trajeron la aut\u00e9ntica paella valenciana, con mariscos y conejo, como debe ser.\r\nNuevamente los sabores y puntos de cocci\u00f3n fueron impecables.\r\nLa pr\u00f3xima no pedir\u00e9 entrada para llegar en condiciones de disfrutar de un postre.\r\nAbsolutamente recomendable."
+    }, 
+    {
+      "date": "24 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Veterano", 
+      "text": "Voy a este palacio (con todas las letras) hace mucho tiempo. Es uno de los restaurantes t\u00edpicos de Bs As que conserva su encanto de siempre. Un ambiente tranquilo y de primera categor\u00eda. Una calidad de comidas excepcional, sobre todo los platos tipicos de la comida espa\u00f1ola. La carta de vinos es bastante completa y la atenci\u00f3n es esmerada. Los precios son similares a los de cualquier restaurante de este nivel. Si queres agasajar a alguien, llevalo al Palacio Espa\u00f1ol. Vale la pena conocerlo."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fmach", 
+      "text": "Excelente atenci\u00f3n, los platos en su justo punto, excelente calidad de pescados, mariscos y arroces, carta completisima con amplia variedad de pescados, mariscos y arroces, excelente tortilla de papas, se puede pedir media porci\u00f3n. Recomendable."
+    }, 
+    {
+      "date": "9 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "yayi", 
+      "text": "El lugar es hermoso pero esta mal mantenido, con decir que arriba mio faltaba un pedazo de mamposteria, y la verdad es que da aspecto de sucio. \r\nEl servicio bueno pero lento, los mozos podrian mostrar un poco mas de entusiasmo. La comida sin embargo, excelente. El pulpo es digno de probar, lo preparan en el momento enfrente tuyo. La carta es muy variada, muchas variedades de pescados y mariscos con diferentes cocciones. Lo recominedo para una cena familiar casual."
+    }, 
+    {
+      "date": "26 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lrocca", 
+      "text": "ambiente excelente, mesas muy bien dispuestas y bien separadas, no es ruidoso, cocina de los mejor, servicio esmerado y estacionamiento al lado y comodo con 4 horas gratis, el precio es igual a otros restaurantes de esta categoria, que mas se puede pedir?"
+    }, 
+    {
+      "date": "12 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ripper", 
+      "text": "Lugar impresionante\r\nAtencion del mozo espectacular.\r\ntodos los platos al unisono y con la coccion exacta\r\nun placer. Para volver"
+    }, 
+    {
+      "date": "23 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gigiyjavi", 
+      "text": "Una mesa en el sector central del sal\u00f3n es un gusto que uno deber\u00eda darse en alg\u00fan momento de la vida (antes de que el reciclaje lo haga pelota) La comida no va a decepcionar: los mariscos salen en su punto, las salsas acompa\u00f1an bien a las carnes y los platos salen cuando tienen que salir. El que no sale cuando tiene que salir es el mozo, que se acerca con amabilidad, pero se hace desear tanto.... pero taaaaanto. \r\nEn s\u00edntesis: Con una buena \"capacitaci\u00f3n de personal\", el club espa\u00f1ol la romper\u00eda."
+    }, 
+    {
+      "date": "4 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Buho10", 
+      "text": "Me pareci\u00f3 excelente el servicio y la comida. El lugar es un monumento hist\u00f3rico y una obra de arte. Vale la pena."
+    }, 
+    {
+      "date": "4 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marianlo", 
+      "text": "Excelente."
+    }, 
+    {
+      "date": "20 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "N4N0", 
+      "text": "Es un lugar muy c\u00e1lido y recomendable. \r\nLa comida es exquisita."
+    }, 
+    {
+      "date": "17 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "antonela", 
+      "text": "La comida me pareci\u00f3 excelente, sobre todo la centolla, al igual que la atenci\u00f3n de los mozos. \r\nLa decoraci\u00f3n es digna de ser vista."
+    }
+  ]
+}

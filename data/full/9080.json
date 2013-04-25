@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gabriels85", 
+      "text": "Pizzer\u00eda de barrio muy recomendable, ricas pizzas y ambiente familiar."
+    }, 
+    {
+      "date": "13 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nadias", 
+      "text": "Voy siempre porque soy del barrio. La pizza es rica y el lugar est\u00e1 bien, nada del otro mundo. Tranquilo y no muy caro."
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "anneli", 
+      "text": "muy buena pizza, muy buena atenci\u00f3n, absolutamente recomendable!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Melfino", 
+      "text": "Excelente servicio, excelente ambiente y las mejores pizzas de Urquiza!!!"
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "silviast", 
+      "text": "Realmente la pizza es muy rica. La atenci\u00f3n es buena y los precios razonables. Todas las pizzas que prob\u00e9 son muy buenas pero la que merece menci\u00f3n especial es la rellena de pollo. Una delicia."
+    }, 
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cliffburton1982", 
+      "text": "Fuimos el fin de semana, la verdad hacia mucho que no ibamos y nos encanto. Excelente atencion, la pizza muy buena, finita pero muy rica. Detalle...la cerveza viene Helada! como se debe."
+    }
+  ]
+}

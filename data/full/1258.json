@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "4 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "echiti", 
+      "text": "sabia que iba a un bodegon,pero la ambientacion podria estar mejor!Esta descuidado.La comida tardo muchisimo,el mozo fue atento ,y la comida estuvo bien,nada mas...No volveria....."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "TomasAnton", 
+      "text": "Excelente comida, muy rapidos los platos y sobre todo los platos del dia. Un lugar tradicional, sin pretenciones, solo buena comida."
+    }, 
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "facebook", 
+      "text": "Comida muy rica, sencilla, accesible. El servicio de mesa es simple pero los mozos son muy amables y hacen un excelente trabajo, como hace 20 o m\u00e1s a\u00f1os en los t\u00edpicos restaurantes porte\u00f1os de barrio. La comida tiene un sabor cercano al casero y es evidentemente fresca. Muy recomendable."
+    }, 
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pooh-chan", 
+      "text": "Fuera de plaza dorrego pero solo a una cuadra.. podran disfrutar de muy riva comida.. a precio modico.. a comparacion de los bares de la plaza... ademas la atencion es excelente.. y no se pierdan la pizza que sinceramente es la mejor pizza que probe: la masa crocante.. pero blanda al mismo tiempo.. ni a la piedra ni al molde.. con la salsa justa y gran variedad, les recomiendo mucho la pizza.. ademas las cervezas estan a buen precio"
+    }, 
+    {
+      "date": "25 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gabyperez", 
+      "text": "Es el t\u00edpico bodeg\u00f3n: platos abundantes, sabrosos y a muy buen precio. Parece mentira que est\u00e9 en un lugar tan tur\u00edstico y mantenga ese precio. El ambiente es familiar, se ve que van muchos vecinos de la zona. El postre, tambi\u00e9n delicioso y abundante. Un punto flojo: la carta de vinos."
+    }
+  ]
+}

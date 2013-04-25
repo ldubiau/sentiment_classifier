@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "LetiyMarce", 
+      "text": "La ambientacion es pretenciosa pero fria.. las mesas son de ca\u00f1o y no apoyan bien.. \r\nNo entendendimos el sistema que te obliga a comer lo mismo que tu acompa\u00f1ante. No llegamos ni a probar los platos porque no tenian todos, pero la verdad muy raro que no te dejen pedir menues distintos para cada comensal.. La atencion de la mosa es excelente pero no volveremos"
+    }, 
+    {
+      "date": "31 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Charly42", 
+      "text": "La comida no ten\u00eda gusto a nada y cara. El servicio regular. Hab\u00eda platos en el men\u00fa que no ten\u00edan. Lugar fr\u00edo. No vuelvo! Pese al descuento de LN result\u00f3 caro. Tuve que vaciar el salero para darle gusto. El pan era viejo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rosillo", 
+      "text": "festeje mi cumplea\u00f1os y sali\u00f3 todo espectacular. Recomiendo probar el men\u00fa degustaci\u00f3n"
+    }, 
+    {
+      "date": "9 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lgomez2", 
+      "text": "La verdad es que fu\u00ed varia veces y siempre sal\u00ed contento. Los mozos son muy profesionales, cosa dif\u00edcil de conseguir en este momento.\r\nPor f\u00edn consegu\u00ed un lugar que venda comida espa\u00f1ola y que el chef sea realmente espa\u00f1ol.\r\nLa decoraci\u00f3n del lugar es delujo"
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "1 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "acronimo", 
+      "text": "Los tragos muy buenos, la comida limitada. Para ir de vez en cuando"
+    }, 
+    {
+      "date": "30 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "clarkyll", 
+      "text": "La comida muy rica, el lugar, de lo mejor de palermo y los tragos super ricos, no se los pueden perder, super recomendables. sigan asi!"
+    }, 
+    {
+      "date": "22 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Patolandia", 
+      "text": "Es un lugar para degustar tragos, los cuales son muy buenos. Para comer, la carta es limitada, tres tipos de hamburguesas, y papas fritas. Prob\u00e9 la hamburguesa de carne de lomo, sabrosa. Lo destacable del lugar son los TRAGOS."
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "diego007", 
+      "text": "La comida es muy buena, la atenci\u00f3n y ambientaci\u00f3n tambi\u00e9n. Lo mejor de todo son los tragos de autor... queres probarlos todos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Flopinha", 
+      "text": "volvi por la increibles hamburguesas y me encontre con unas maquinas de oxigeno que solamente las habia visto en el exterior. Con mis amigas tomamos sesiones de 30 minutos y la verdad es que fue una experiencia buenisima. Ademas de respirar oxigeno con aromas ricos, brina una sensacion de relax total. Considero que nadie debe perdersela!!!!!!!!"
+    }, 
+    {
+      "date": "8 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Arielus", 
+      "text": "Las hamburguesas caseras de lomo son de tama\u00f1o considerable y exquisito sabor. Acompa\u00f1adas con papas fritas y si se desea una entrada de nachos con queso derretido mejor aun, es una combinacion excelente.\r\nLuego de la cena nos quedamos a tomar algo ya que ofrecian tragos. No recuerdo los nombres de los tragos que probamos pero todos de excelente calidad. Los precios de estos son de $25, mientras que los clasicos se mantienen a $20. Precios adecuados teniendo en cuenta las marcas de alcoholes utilizados."
+    }, 
+    {
+      "date": "6 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carofa", 
+      "text": "excelente variedad de tragos, son originales y con ingredientes sorpresivos (cebolla caramelizada, maracuya, zanahoria, ect). buena musica y videos en pantallas."
+    }, 
+    {
+      "date": "2 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jotapw", 
+      "text": "Muy buenas las hamburguesas. Y no dejen de pedirse un trago, son fantasticos!!!"
+    }, 
+    {
+      "date": "2 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gsancho", 
+      "text": "El lugar esta muy bueno, super original, los tragos son exclusivos del lugar y estan increibles... \r\nMuy recomendable."
+    }
+  ]
+}

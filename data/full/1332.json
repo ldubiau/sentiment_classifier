@@ -1,0 +1,618 @@
+{
+  "malos": [
+    {
+      "date": "1 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Albertario", 
+      "text": "No hay relaci\u00f3n entre calidad y precio. Viv\u00ed a\u00f1os en Brasil y la comida aqui es descuidada. No son sabores bien logrados y la porciones son paup\u00e9rrimas."
+    }, 
+    {
+      "date": "19 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Bonitinhos", 
+      "text": "Poca variedad de comidas, buena calidad de productos pero por ejemplo la Feijoada poco gustosa (aparte de que intentando darle clase las porciones son reducidas comparadas a como 'deberian' ser). \r\nNo vale lo que cuesta ya que hay otros restaurantes de cocina brasile\u00f1a, quiz\u00e1 mas sencillos, pero definitivamente con mejor relaci\u00f3n calidad/precio.\r\nLa atenci\u00f3n buena en general, excepto una de las mozas que nos quizo hacer tomar un caf\u00e9 que trajo dem\u00e1s, a la fuerza..."
+    }, 
+    {
+      "date": "23 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "guzmicha", 
+      "text": "Por el precio deberiamos haber comido mejor. Deber\u00edan trabajar mejor la tem\u00e1tica del lugar."
+    }, 
+    {
+      "date": "23 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "gabijv", 
+      "text": "Soy brasilera y fui a ese restaurante cuando estuve en Buenos Aires. La verdad es que me RE CONTRA decepcion\u00e9. \r\nLa comida me pareci\u00f3 MAL\u00cdSIMA. El bob\u00f3 parec\u00eda antes una sopa que un bob\u00f3y la farofa ten\u00eda un gusto a vieja. Y aparte de todo la comida era car\u00edsima. No recomiendo a nadie que quiera conocer la comida brasilera. No saquen conclusiones de la comida brasilera por ese restaurante, por favor!"
+    }, 
+    {
+      "date": "12 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mercury", 
+      "text": "Para quienes conocen Brasil, en su corazon Bahia, y no lugares \"de comida internacional\" como Buzios, se sentiran defraudados.\r\nLa moqueca, ni se compara, ademas no hay variedades ni ensopados, faltan salgadinos y cocidos, la carta es escueta y excesivamente cara.\r\nLos postres, sobre todo el quindim iguales a los de Brasil."
+    }, 
+    {
+      "date": "16 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ElNico", 
+      "text": "Vacio siempre o por lo menos siempre que paso. \r\nCom\u00ed para sacarme la duda y es un desastre. Para comida brasilera es mejor hacerla en casa ya que en los supermercados hay productos para hacer una buena comida brasile\u00f1a."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mendizabal", 
+      "text": "Leer m\u00e1s abajo, mi comentario de Enero de 2008.\r\nOtro caso de \"cr\u00f3nica de una muerte anunciada\".\r\nNo hab\u00eda vueltas. La cocina de Brasil es simple, no hay que complicar las cosas....y si pag\u00e1s tres langostinos $ 38 ...por dar solo un ejemplo....\r\nNo v\u00e1....a no ser que tengas suerte en el circuito turistico, y trabajes con pasajeros distra\u00eddos o medianamente interesados."
+    }, 
+    {
+      "date": "27 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CuentoChino", 
+      "text": "Lindo lugar para conocer y comer bien, de todas maneras el precio no tiene relacion (es caro).-"
+    }, 
+    {
+      "date": "19 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mendizabal", 
+      "text": "Mar\u00eda Ful\u00f3 es una caso de mala relaci\u00f3n precio calidad. Comida simple Brasileira, a precios cinco estrellas. Por eso, si el chef Pinheiro ( que no cocina mal ) habla de cocina actual y moderna....mmmmmmmm....langostinos empanados....moquecas.....feijoada...\r\nTodo muy rico.....Todo muycaro.....Obrigado !"
+    }, 
+    {
+      "date": "18 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "PieroNadia", 
+      "text": "Pouca variedade de comidas. A feijoada falta tempero deixa muito a desejar e as coxinhas nao sao nada saborosas. Pelo preco ha um restaurante de cozinha brasileira muito melhor -Me Leva Brasil que apesar de mais simples e com um atendimento nada simpatico do dono tem com certeza melhor relacao preco qualidade."
+    }, 
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Muni", 
+      "text": "Fui con dos amigas; el lugar me pareci\u00f3 muy lindo (es m\u00e1s coqueto que la competencia). La atenci\u00f3n en general es muy buena, son todos brasileros. Comimos bien; pedimos para las 3: 2 entradas y 2 platos principales. La \u00fanica cr\u00edtica que tendr\u00eda para hacerles es que son algo chicas las porciones; la presentaci\u00f3n super linda, pero al menos la feijoada que no es cara, podr\u00edan agregarle un poco, y tienen que traer Guaran\u00e1 Ant\u00e1rtica!!! Qu\u00e9 mejor que esa gaseosa con la comida brasilera.  Adem\u00e1s es algo caro, pero para ir de vez en cuando, est\u00e1 OK :) Felicitaciones!"
+    }, 
+    {
+      "date": "21 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "deniro202", 
+      "text": "Muy buena comida, excelente atenci\u00f3n y ambiente. Unica critica: el pescado en la moqueca no era fresco. Imperdibles: caipirinha de Maracuj\u00e1 y de postre cartola."
+    }, 
+    {
+      "date": "13 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "turcomartin", 
+      "text": "La atenci\u00f3n es muy buena. Los tragos est\u00e1n buenos y tienen una barra muy completa. Sin embargo los precios sos extremadamente altos. La comida es rica pero por lo que cobran deber\u00eda ser la mejor que prob\u00e9 en mi vida."
+    }, 
+    {
+      "date": "24 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "colores", 
+      "text": "Lindo lugar, agradable y buena atenci\u00f3n. La verdad es que para cambiar un poco es una buena alternativa. De todas formas me gust\u00f3 m\u00e1s la comida de este lugar que los lugares t\u00edpicos que visit\u00e9 en Brasil."
+    }, 
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leanfa", 
+      "text": "Uno de los pocos restaurantes brasile\u00f1os en Baires que no tienen el estilo t\u00edpico \"largado\" (dejado) de Brasil. Bien ambientado, atendido por brasile\u00f1os interesandos en cuidar los detalles, es una propuesta interesante aunque la caipirinha y la batida de coco siguen siendo mejores en suelo brasile\u00f1o."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sommeliersa_30", 
+      "text": "Muy buen lugar de comida brasilera, muy tranquilo, muy buen servicio, la comida sabrosa, rescat\u00e1ndose en particular el bobo de camarao y la moqueca de peixe, el premio mayor la caipirinha de maracuy\u00e1, realmente muy delicada y refrescante.\r\nUn detalle negativo, la falta de cerveza brasileras en la carta.\r\nRealmente como experiencia general un muy buen lugar para comer."
+    }, 
+    {
+      "date": "23 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mes01234", 
+      "text": "Una excelente forma de traer Brasil a Buenos Aires."
+    }, 
+    {
+      "date": "17 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LUCRECIAA", 
+      "text": "El ambiente es muy tranquilo y la atenci\u00f3n muy buena. Se recomiendan las caipirihas, son ricas pero no generosas. La comida se sirve bien caliente y abundante."
+    }, 
+    {
+      "date": "26 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Osko", 
+      "text": "Rica comida, precios altos. \r\nLa caipiroska de maracuj\u00e1 podr\u00eda ser con fruta fresca y no tienen bebidas aut\u00f3ctonas como la guaran\u00e1 o una cerveza brasilera."
+    }, 
+    {
+      "date": "28 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CAROHARTE", 
+      "text": "Fui por las excelentes cr\u00edticas que ten\u00eda de algunos usuarios y la verdad es que me decepcion\u00f3 bastante. \r\nEl lugar en s\u00ed no me pareci\u00f3 lindo, la comida no fue mala, pero tampoco nada del otro mundo. \r\nLo que s\u00ed, los mozos son simpatiqu\u00edsimos y siempres pendientes. \r\nVolver\u00eda, pero no ser\u00eda mi primera opci\u00f3n."
+    }, 
+    {
+      "date": "27 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gerco", 
+      "text": "Muy bueno el ambiente. Silencioso. La atenci\u00f3n perfecta. \r\nEl lugar es chiquito, lo que da lugar a la privacidad. La comida en cantidad es perfecta. \r\nNo se vayan sin tomar unas Caipis de lima o maracuya, Excelentes!."
+    }, 
+    {
+      "date": "10 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tili", 
+      "text": "La \u00faltima vez la feijoada no era igual, vino m\u00e1s aguachenta. \r\nAgregar\u00eda postres m\u00e1s sabrosos. \r\nLos precios me parecen exesivos, pagar una feijoada $26, es como pagar un locro $26 y no lo vale por m\u00e1s que est\u00e9 bien preparada. Una cosa es pagar una comida costosa (alto precio de los ingredientes) y otra muy distinto cara."
+    }, 
+    {
+      "date": "13 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "maxhert", 
+      "text": "El lugar est\u00e1 bien puesto, pero la comida se queda corta para lo que cobran. Extra\u00f1amente, los salgadinhos, entradas y postres son muy buenos, pero los platos principales muy flojos. \r\nY una feijoada, que es un plato de porotos con pedazos de chancho, no puede valer lo que cobran a menos que el sabor este logrado de manera sublime y no es el caso.\r\nMucha sanata del chef en cuanto a lo brasilero de la comida, tuvo la cara de decirme que no serv\u00eda polenta frita porque no era un plato t\u00edpicamente brasilero. \r\nEse tipo de comentario, cuando los platos son flojos, resta."
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lolefred", 
+      "text": "Rica comida, buena atencion... puede ser un poco caro... no hay muchos restaurantes brasileros, hay que tener la mejor atenci\u00f3n y comida posible."
+    }, 
+    {
+      "date": "16 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Aggie", 
+      "text": "Las porciones se pueden compartir. Me pareci\u00f3 un poco caro por lo que ofrec\u00edan."
+    }, 
+    {
+      "date": "14 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "frickbar", 
+      "text": "La comida es buena pero no tanto por lo que cobran."
+    }, 
+    {
+      "date": "5 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Massarelli", 
+      "text": "Muy bueno restaurante, esta muy bien representado."
+    }, 
+    {
+      "date": "28 Nov 2004", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marianela", 
+      "text": "\u00a1Siempre lo mismo y caro!\r\nHay restaurantes \u00e9tnicos que var\u00edan su men\u00fa sin perder autenticidad y multiplicando su calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarceloGula", 
+      "text": "Mi encanto lo que est\u00e1 haciendo el chef ahora, despu\u00e9s de cerrar el resto (que fue una lastima).Yo particip\u00e9 de unas clases en su propia cocina de su casa y tambi\u00e9n ya fui a comer con un menu fijo y estoy armando para ir con amigos otra vez, super exclusivo solamente una mesa para 8 personas, y con muy buen gusto todo, soy amante de la comida de Brasil, y les aseguro que mismo con los productos comprados aca, los platos est\u00e1n mejores que Brasil. Felicitaciones"
+    }, 
+    {
+      "date": "12 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GinSanch", 
+      "text": "Me enconto la comida, una buena calidad y servicio, la atencion impecable. volvere para probar otros platos. Me parecio que est\u00e1 bien los precios en relacion precio calidad y por los productos importados que usan."
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Vlady4", 
+      "text": "Desfrute mucho la comida y el ambiente, las bahianas que atiende son muy simpaticas...Voy tener en cuenta para proximas visitas. Muy recomendable."
+    }, 
+    {
+      "date": "18 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ojosazules", 
+      "text": "Este es el mejor restaurante de todo Buenos Aires. Cuando tengo Saudade do brasil, voy para el restaurante Maria Fulo. Para m\u00ed es la comida mas rica de todo el mundo.  Excepcional, Delicioso, y tiene un due\u00f1o muy `simpatico`!  Voy a volver siempre."
+    }, 
+    {
+      "date": "11 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "caxito", 
+      "text": "Excelente desde la comida hasta la atencion \r\nadorei maria fulo, los due\u00f1o te hacen sentir como si fueras de la casa!!"
+    }, 
+    {
+      "date": "30 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lukite", 
+      "text": "Desde que me mude para Argentina, Maria Ful\u00f4 para mi es el mejor lugar para recordar mi querida tierra y est\u00e1 mejor ahora porque est\u00e1 abierto s\u00e1bado y domingo al mediodia. \r\nEs mucho mejor para una feijoada. Parab\u00e9ns y saludos a Eliane a bahiana mais simpatica do restaurante..."
+    }, 
+    {
+      "date": "30 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gataflora66", 
+      "text": "muy rica la comida, atencion muy cordial, un poco caro pero lo vale, la mejor caipirhinia lejos..."
+    }, 
+    {
+      "date": "23 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Poly78", 
+      "text": "La comida es buen\u00edsima, el lugar es muy lindo y bien ambientado. Lo recomiendo."
+    }, 
+    {
+      "date": "17 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fgoldoni", 
+      "text": "Mesmo que seja um pouco caro, todo brasileiro que vive em Buenos Aires deve experimentar."
+    }, 
+    {
+      "date": "31 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Fernandita", 
+      "text": "La comida es muy buena, realmente gustosa. Los platos son abundantes y con productos frescos. La atenci\u00f3n es buena, el lugar es peque\u00f1o y las mesas est\u00e1n un poco juntas entre s\u00ed. Recomendable."
+    }, 
+    {
+      "date": "9 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hfu", 
+      "text": "Excelente feijoada (veintinueve pesos) con productos de primera. El bob\u00f3 de camarones muy rico (treinta y cinco pesos). M\u00e1s que suficiente para dos personas. Con un postre y tres latas de cerveza pagamos cien pesos. Nos pareci\u00f3 razonable y la comida es muy buena. El picante se pide aparte, con lo que hay para todos los gustos. Volveremos."
+    }, 
+    {
+      "date": "23 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tubainabrasil", 
+      "text": "Estoy vivendo en Argentina hace 4 a\u00f1os,  fue el mejor bob\u00f3 de camarao que comi afuera de brasil, sin  olvidarme de decir del flan de coco y las caipirinhas de maracuj\u00e1 fresco y lim\u00f3n. los platos tienen todos los ingredientes que usan en Brasil pero lo sirven con el refinamiento internacional y no hay outro lugar como este para mi en B.Aires me transport\u00e9 para Brasil, 10 puntos para o mais grande do mundo."
+    }, 
+    {
+      "date": "11 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Thomas", 
+      "text": "The food is excellent, despite the fact it is not necessarily typical traditional brasilian (maybe that why it''s excellent!). I especially recommend the \"Bobo de camaroes\". \r\nIf you succeed to reach the desert i recomment the impressive \"Maracuya Mousse\" Service is attentive and polite. \r\nThe set is stylish and discrete, with a very pleasant patio with few tables."
+    }, 
+    {
+      "date": "16 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elchef", 
+      "text": "La comida es muy rica. El precio podr\u00eda ser un poco m\u00e1s accesible. Los platos son abundantes en algunos casos, y escaso en otros."
+    }, 
+    {
+      "date": "16 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "caduca", 
+      "text": "Muy buena atenci\u00f3n. La comida es muy buena tambi\u00e9n. Comimos muy rico y abundante, por eso no pudimos llegar al postre. Se recomienda. Volver\u00e9."
+    }, 
+    {
+      "date": "21 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MarcosPaulo", 
+      "text": "Fui con mi pareja y el mozo me ofreci\u00f3 el patio interno para fumadores y tambi\u00e9n los nuevos platos que recien entraron en la carta. \r\nMe encantaron los mixtos de salgadinhos, la picanha (tapa de cuadril) y la mousse de coco. \r\nFue todo una delicia y claro, acompa\u00f1amos  todo con una cerveja brasiler\u00edsima y una caipirinha de maracuj\u00e1 que ahora tienen la fruta fresca.\r\nVolver\u00e9 siempre."
+    }, 
+    {
+      "date": "24 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cbanas", 
+      "text": "Fui a las medianoche y para la hora me sorprendi\u00f3 que la cocina estuviera abierta. El servicio es r\u00e1pido, la comida muy buena (adaptada para paladares argentinos), el lugar \"bonitinho\". Y si, no es un lugar barato. Pero lo recomiendo y volver\u00eda por supuesto."
+    }, 
+    {
+      "date": "4 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wings", 
+      "text": "Pedi salgadinhos (vienen 5 unidades mini-mini-coxinhas y empanaditas) muy rico pero caro por $15. \r\nObviamente me qued\u00e9 con ganas, pedi frango a passarinho (pollo frito en aceite, con gusto a pescado, seguramente algun problema con el aceite). \r\nMi novia pidi\u00f3 bob\u00f4 de camar\u00e3o y mousse de maracuj\u00e1 de postre, ella es bahiana y le encant\u00f3. \r\nLa atenci\u00f3n de la se\u00f1ora Bahiana fue excelente. \r\nEl lugar tiene mucha onda y es tranquilo, obviamente solo apto para quienes aman Brasil."
+    }, 
+    {
+      "date": "22 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CariocaBue", 
+      "text": "Como brasileiro, adorei conhecer o restaurante, pois vivo em Buenos Aires a pouco tempo e estou muito feliz de encontrar um restaurante com comidas do meu pa\u00eds e com uma \u00f3tima qualidade dos produtos que est\u00e2o preparados os pratos. \r\nGostei muito de ser atendido por brasileiros nativos e como dizem aqui (con muy buena onda) Parab\u00e9ns"
+    }, 
+    {
+      "date": "18 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gringolingo", 
+      "text": "I don't speak Spanish... but Wow that was a good meal. \r\nEven though I don't speak good spanish the staff at Maria fulo was very helpful provided me with an English Menu and even with the Bar Guys funny english I was able to order a really wonderful meal. Hats off to this wonderful restaurant and the very wonderful staff."
+    }, 
+    {
+      "date": "17 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "quebecqua", 
+      "text": "This is the best restaurant. \r\nI've been to in a long time. \r\nI wish more places had this quality of food and environment. Yummy!"
+    }, 
+    {
+      "date": "14 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mayno", 
+      "text": "Fui con mi novia, hab\u00edamos hecho reserva y llegamos un poco tarde. El lugar estaba lleno y sin embargo, uno de los mozos nos atendi\u00f3 con muy buena onda y nos dijo que esper\u00e1ramos un poco y apenas se desocup\u00f3 una mesa nos fue a llamar afuera para avisarnos. \r\nNunca hab\u00edamos comido comida brasilera, nos pareci\u00f3 muy rica, desde la entrada hasta el postre. \r\nLa atenci\u00f3n es, en todo momento, inobjetable. \r\nLos precios tal vez son un poco elevados, pero haciendo el balance lo vale."
+    }, 
+    {
+      "date": "11 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Estebi", 
+      "text": "La mejor comida brasilera en toda la  Argentina. Mejor dicho, afuera de Brasil.  Elegancia cultura y empleados muy atentos.  Reserv\u00e1s por Internet y resulta muy facil encontrar el local y tener una mesa durante la fin de semana."
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Morton", 
+      "text": "Todo estuvo muy rico, sobre todo los langostinos empanados y el xixi de galinha. Las caipiras, exquisitas. Muy recomendable."
+    }, 
+    {
+      "date": "19 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PurpleGourmet", 
+      "text": "Me quedo con una palabra: Imperdible. \u00a1Cheers al Chef!"
+    }, 
+    {
+      "date": "28 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nate", 
+      "text": "Estava uma delicia, parab\u00e9ns."
+    }, 
+    {
+      "date": "27 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kris", 
+      "text": "Muito bom."
+    }, 
+    {
+      "date": "8 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Albert", 
+      "text": "Hac\u00eda tiempo que no visitaba Mar\u00eda Fulo.  Sigue siendo uno de los mejores restaurantes brasile\u00f1os que hay fuera de Brasil. Por mi trabajo viajo frecuentemente y ni siquiera en ciudades como New York o Madrid he encontrado la calidad que ofrece Maria Fulo. Felicitaciones a los responsables, porque permiten que ciudades como la nuestra (Buenos Aires) tengan un alto nivel internacional de calidad gastron\u00f3mica."
+    }, 
+    {
+      "date": "15 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Brasuca", 
+      "text": "El bob\u00f3 de camarones y la mousse de maracuy\u00e1 son maravillosos. Aplausos para las caipirinhas."
+    }, 
+    {
+      "date": "14 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tiburon", 
+      "text": "Volv\u00edmos el domingo de vacaciones con mi novia. \r\nLuego de esta mini luna de miel, decidimos que la mejor manera de festejar el d\u00eda de los enamorados era ir al restaurante brasilero, Mar\u00eda Ful\u00f4. \r\nEn mi primer visita s\u00f3lo tengo palabras para elogiar este lugar. \r\nLa comida es impecable y tan gustosa como en Brasil, aunque m\u00e1s cuidada. \r\nTiene un muy agradable patio, s\u00f3lo le falta la playa."
+    }, 
+    {
+      "date": "10 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carlos6895", 
+      "text": "Realmente probar un plato en Maria Fulo es hacer un viaje a Brasil. \r\nInstant\u00e1neamente el aroma del maracuya, las caipirinhas y el sabor de la comida hace recordar un clima de relax y vacaciones."
+    }, 
+    {
+      "date": "20 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "shimy1", 
+      "text": "Buena comida, un poco cara."
+    }, 
+    {
+      "date": "9 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "joma", 
+      "text": "Local muy agradable y mantiene todo lo bueno del anterior. Excelente."
+    }
+  ]
+}

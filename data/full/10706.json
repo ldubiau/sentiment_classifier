@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "5 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PizzaHut", 
+      "text": "El arte latte en los caf\u00e9 es muy copado y recomendable, el waffle est\u00e1 bastante bueno pero es solo de dulce de leche, el se\u00f1or que atiende es  copado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "silviast", 
+      "text": "Voy al local de Villa Urquiza. El lugar es peque\u00f1o pero todo lo que ofrecen es rico y la atenci\u00f3n es muy buena. El caf\u00e9 adem\u00e1s de ser de muy buena calidad luce dibujos en la espuma muy atractivos. Tambi\u00e9n comimos waffles muy buenos."
+    }, 
+    {
+      "date": "19 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "baytuna", 
+      "text": "Fuimos con un cupon, comimos waffles con dulce de leche, licuado de durazno, cafe cortado en jarrito y jugo de naranja. Todo muy bien preparado y rico!!!! El lugar es tranquilo ameno para disfrutar a la tardecita. Lo recomiendo."
+    }
+  ]
+}

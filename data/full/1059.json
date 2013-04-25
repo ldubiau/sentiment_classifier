@@ -1,0 +1,578 @@
+{
+  "malos": [
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ORFEO", 
+      "text": "Fuimos muy deseosos de comer buenos cortes de carne por los comentarios a favor. Pedimos matambrito de cerdo y bife de chorizo. el mozo no nos pregunt\u00f3 el punto de cocci\u00f3n. El bife lo trajo casi crudo, y el matambrito sin cocinar, y lleno de grasa, adem\u00e1s de gomosos. Caro para lo que ofrecen."
+    }, 
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "saulento", 
+      "text": "el mozo mal, no le interesa el trabajo, el cochinillo era puro cuero, sin carne, mucha grasa, el bife mediocre, duro y sin gusto... el chorizo comparable al de cualquier comedero del centro... no vuelvo mas....."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bulich", 
+      "text": "De los mejores bifes de chorizo que com\u00ed en mi vida! Fuimos 3, mi esposa y yo con un amigo extranjero, la mesa reservada nos estaba esperando. El ambiente es muy simp\u00e1tico, con decoraci\u00f3n de cosas de anta\u00f1o. Empezamos con unas mollejas de coraz\u00f3n, que en parte estaban un poco chiclosas, y un chorizo. Luego los monumentales y deliciosos bifes de chorizo, acompa\u00f1ados por una ensalada un tanto escasa. De postre compartimos un flan con dulce de leche, ya no hab\u00eda espacio para nada m\u00e1s... Todo esto acompa\u00f1ado por un rico Malbec, realmente muy linda experiencia, no fue barato, pero lo vali\u00f3!"
+    }, 
+    {
+      "date": "18 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elgriego", 
+      "text": "Buena parrilla, con un ambiente t\u00edpico porte\u00f1o. La canre, bastante buena y las porciones, abundantes. Precios razonables. Una de las mejores opciones en la zona de San Telmo."
+    }, 
+    {
+      "date": "16 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dsanet64", 
+      "text": "Ambiente: 7 puntos. Comida en gral: 8 puntos. Mozos: 10 puntos. Lo recomiendo; outstanding! Punto flojo: hummm...la carta de postres."
+    }, 
+    {
+      "date": "8 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablo_Kesselman", 
+      "text": "Muy buena parrilla!.\r\nPasas por el parque y el olor a la carne te llama!.\r\nEl lugar es muy tranquilo y buena atencion!.\r\nLa tira de asado es re suave.\r\nLo unico que me parecio incomodo,fue el acceso al ba\u00f1o.Lo demas todo bien!"
+    }, 
+    {
+      "date": "13 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "paulaelisak", 
+      "text": "La verdad que ni el servicio ni la comida es espectacular. Es un bodeg\u00f3n con algo de onda. Si te toca un mozo con experiencia es un buen lugar, sino estas a la buena de Dios. Recomiendo los bu\u00f1elitos de espinacas y la provoleta."
+    }, 
+    {
+      "date": "5 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "odino", 
+      "text": "Fui dos veces, la atenci\u00f3n regular, los mozos est\u00e1n ansiosos por desocupar la mesa porque vienen muchos turistas, la carne es buena pero las porciones aunque abundantes no siempre son para compartir."
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nickreevers", 
+      "text": "Muy bueno el costillar, tierno y bien cocido. El chivito normal.\r\nMe qued\u00e9 con ganas del cochinillo, porque llegue tarde y no hab\u00eda mas. Las papas fritas provenzal incre\u00edbles. El barrio mejor\u00f3 mucho. El mozo dej\u00f3 bastante que desear, tuve que reclamarle el vino."
+    }, 
+    {
+      "date": "1 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "el_ariel", 
+      "text": "es la 2a vez que nos invitan a comer y la verdad merece un premio a la excelente calidad de la carne."
+    }, 
+    {
+      "date": "24 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "doutreval", 
+      "text": "Un lugar para descubrir, frente al parque Lezama. Ambientaci\u00f3n sobria, atenci\u00f3n eficiente y atenta, al estilo de los mejores bodegones que, lamentablemente, cada vez quedan menos en Bs. As. Para el mediod\u00eda: imperdible puchero, bien completo, con verduras y carnes (pollo, falda, pierna de cerdo, chorizos y morcilla)de primer\u00edsima, s\u00faper abundante (4 personas). Asado de costilla-costilla, hecho todo en el momento, y en punto pedido. Bife de chorizo y mollejas, excelentes. Carta de vinos limitada. Relaci\u00f3n precio-calidad, inmejorable."
+    }, 
+    {
+      "date": "30 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sugus", 
+      "text": "Buena parrilla y un puchero m\u00e1s que abundante, buenos mozos. Un lugar tranquilo pero para ir al mediod\u00eda. Un punto negativo son las sillas un poco incomodas"
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Coquet", 
+      "text": "Es uno de los mejores restaurantes que hemos conocido con mi flia y la verdad es muy agradable poder ir a 1880, es un ligar muy familiar y c\u00e1lido. Lo recomiendo."
+    }, 
+    {
+      "date": "9 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dolores", 
+      "text": "Nos gust\u00f3 mucho este lugar. Desde afuera no parec\u00eda tan lindo no s\u00f3lo en la parte ambiental sino tambi\u00e9n  en la comida y el servicio brindado. El mozo estuvo siempre atento a nuestro llamado, Los precios son correctos o sea que es para pasar un rato agradeble en un lugar agradable,"
+    }, 
+    {
+      "date": "1 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "Parrilla honesta en la zona de San Telmo frente al parque Lezama, con muchos a\u00f1os de existencia que siempre ofrece buen producto a precios razonables, la calidad de la cocina a veces tiene sus altibajos."
+    }, 
+    {
+      "date": "17 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "degustador2008", 
+      "text": "Fui con mi familia a comer parrillada pero justo fuimos el dia antes de que cierren por vacacoines, y la variedad fue poca, la atencion como que no te reconocian como cliente, pero esto no significa que no le de otra oportunidad!"
+    }, 
+    {
+      "date": "20 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dandyblacky", 
+      "text": "La parrilla y las achuras son muy buenas, el costillar tambien."
+    }, 
+    {
+      "date": "7 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DiegoPonti", 
+      "text": "Muy recomendable. Riqu\u00edsimas las mollejas y los chinchulines. El costillar no se queda atr\u00e1s.\r\nSin embargo las ensaladas me parecieron porciones de tama\u00f1o diminuto.\r\nEl comentario de gente que me acompa\u00f1o en el almuerzo y que en otro momento era habitu\u00e9 de 1880 fue que la calidad de la comida no cambi\u00f3, siendo excelente."
+    }, 
+    {
+      "date": "13 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Mendizabal", 
+      "text": "Bueno...creo que me toc\u00f3 un mal d\u00eda.\r\nLas cosas no me salieron bien.\r\nFu\u00ed prolijo....hice mi reserva.....ped\u00ed, ante todo, la comida del \"nene\"...fu\u00e9 lo \u00faltimo que lleg\u00f3 ! Mal humor de su madre (Totalmente Justificado)\r\nLos bocadillos, las empanadas, el asado y sus correspondientes fritas....un standard que aprueba ,ara\u00f1ando, apenas lo bueno.\r\nVarios amigos lo visitan a menudo....tendr\u00e9 una charla con ellos.....\r\nA\u00fan as\u00ed....le dar\u00e9 una chance."
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vopol", 
+      "text": "Es de las pocas parrillas que a uno le hacen olvidar que se est\u00e1 en un restaurante y no en el quincho de la casa. Buenos cortes de carne, excelentes achuras, muy ricos los bocadillos de acelga. Es para volver."
+    }, 
+    {
+      "date": "27 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "leoA", 
+      "text": "Pertenece a ese selecto club de los restaurantes que: - no fallan, - mantienen la calidad, - mantienen los precio razonables y encima no caen en la tentaci\u00f3n de tener personal barato y poco calificado ya que los mozos acompa\u00f1an muy bien la propuesta, asesorando a los clientes de la mejor manera. M\u00e1s que recomendable, hay que ir con paciencia o temprano, para evitar demoras."
+    }, 
+    {
+      "date": "20 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Muchicusi", 
+      "text": "Muy buena la atenci\u00f3n y la comida. Conviene ir temprano o con reserva sino no se consigue lugar ya que el local es chico."
+    }, 
+    {
+      "date": "21 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Muy buena comida en un clasico lugar que mantiene su nivel.  Mozos como los de antes.  Muy recomendable."
+    }, 
+    {
+      "date": "16 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aldemaflora", 
+      "text": "Recomiendo de entrada las empanadas."
+    }, 
+    {
+      "date": "17 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Parrilla clasica donde se puede comer muy buena carne y de porciones muy generosas , con una buena carta de vinos y una atenci\u00f3n esmerada. Muy recomendable el panqueque quemado al rhum."
+    }, 
+    {
+      "date": "15 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rossneyg", 
+      "text": "Una parrilla bien puesta.. Muchos habitu\u00e9s, mozos con experiencia, buena carta de vinos... La carne vino tal cual se pidi\u00f3, en porciones generosas.\r\nInteresante alternativa si se anda por San Telmo y cercanos.."
+    }, 
+    {
+      "date": "28 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ayaxtelamonio", 
+      "text": "Luego de muchos a\u00f1os volvimos a esta parrilla del barrio y salimos muy defraudados en general, aclaro que le volveremos a dar otra chance.\r\nLa atenci\u00f3n no fue buena, desde la falta de un poco de buen humor del mozo (cosa perdonable porque todos podemos tener una mal d\u00eda), pasando por el olvido de la entrada, dos empanadas, y del hielo para las bebidas. \r\nEn la mesa hab\u00eda un cartel con las sugerencias del chef, cochinillo y pata de cordero, eran las nueve de la noche y nos dijeron que no estaban listas. Todo un detalle a tener en cuenta ya que dos negativas seguidas predisponen mal a uno haciendonos comer por descarte.\r\nLa comida...papas fritas, nada complicado, no estaban sabrosas, eran finitas y el aceite no ayudaba, la ensalada de remolacha no ten\u00eda gusto a nada, el pechito de cerdo....aceptable, solo eso. El postre Don Pedro....te digo que no lo pidas...malo.\r\nLos precios razonables\r\nAhora pasemos a lo mejor. Cuando nos ibamos a eso de las diez y media vimos salir los cochinillos, estaban de aspecto como para ponerlos en un cuadrito, por este motivo volveromos, en realidad por este y la pata de cordero."
+    }, 
+    {
+      "date": "18 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Cl\u00e1sico bodeg\u00f3n que mantiene su nivel. Siguen los precios razonables y la excelente atenci\u00f3n de mozos experimentados. Sigue siendo recomendable."
+    }, 
+    {
+      "date": "1 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "traductor", 
+      "text": "La segunda vez que fui me decepcion\u00f3. Si bien se puede comer, invit\u00e9 gente y se fue defraudada. Lejos est\u00e1 de parrillas del mismo precio, como Barbacoa o Don Luis. Y eso que tiene fama."
+    }, 
+    {
+      "date": "1 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "arles2020", 
+      "text": "Muy buen ambiente y precio. La parrilla es correcta, adem\u00e1s pedimos pastas y estaban muy ricas."
+    }, 
+    {
+      "date": "12 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Con estilo de bodeg\u00f3n tradicional, la comida es entre buena y excelente.  La atenci\u00f3n muy cordial, con mozos con oficio.  El puchero es excelente, bien de estilo casero.  Podr\u00edan mejorar la carta de vinos.  Precios correctos.  Recomendable, tambi\u00e9n para los que nos visitan del exterior."
+    }, 
+    {
+      "date": "23 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Talisker", 
+      "text": "Lugar simples e despretencioso. Queria comer um matambre recheado e n\u00e3o tinha. O ojo de bife estava fora do ponto e a carne n\u00e3o era das melhores. A sobremesa estava boa, a carta de vinhos \u00e9 bem simples, de acordo com o lugar. Op\u00e7\u00e3o talvez para almo\u00e7o. Eu n\u00e3o voltarei."
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mito", 
+      "text": "La carne pasada de punto y de calidad media. Precios correctos."
+    }, 
+    {
+      "date": "20 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fusilier", 
+      "text": "Un simp\u00e1tico rinc\u00f3n del barrio, frente a Parque Lezama. Afortunadamente apartado del coraz\u00f3n tur\u00edstico de San Telmo pero lo suficientemente cerca como para conservar su esp\u00edritu. \r\nLa comida sencilla y sabrosa, los mozos se confunden con los parroquianos."
+    }, 
+    {
+      "date": "21 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "robin49", 
+      "text": "Excelente ambientaci\u00f3n. Barrio sofisticado y muy buena relaci\u00f3n precio-calidad"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "shin", 
+      "text": "Excelente Restaurante, comimos: entrada,salch.parrille., chorizo, morcilla y provoleta; EXCEL.; despues vacio y matambrito de cerdo; EXCEL.. Carta de Vinos MUY BUENA, Recomendable 100% por  100&"
+    }, 
+    {
+      "date": "24 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "paoake", 
+      "text": "fui muchas veces lo recomiendo todo muy rico los bocadillos de acelga muy buenos......"
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "kinkai", 
+      "text": "Excelente, soy fiel cliente desde hace a\u00f1os. Cuando quiero regalarme un buen momento, me voy desde mi domicilio en Recoleta."
+    }, 
+    {
+      "date": "30 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ICYHOT", 
+      "text": "T\u00edpica parrila estilo bodeg\u00f3n que conserva el estilo de las viejas cantinas. Sin demasiadas pretenciones en la decoraci\u00f3n y en el espacio, pero con mozos que aconsejan como los de antes. Las empanadas son exquisitas, sabrozas y picantonas (le hacen frente a las de \"El Maip\u00fa\"). Entre 9 atacamos abundantes porciones de chivito, asado al asador y cordero, todo en su punto justo de cocci\u00f3n y temperatura. Muy buena porci\u00f3n de fritas y de ensalda. Ideal para ir con amigos o en familia. Galanes abstenerse."
+    }, 
+    {
+      "date": "17 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "APAGUS", 
+      "text": "Muy buena parrilla de barrio, donde la protagonista es la comida. Recomendable. Las porciones son abundantes para compartir."
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sebastianb", 
+      "text": "Excelente parrilla, el servicio fue amable y atento. Muy recomendable para concurrir y disfrutar con la buena compa\u00f1\u00eda de la familia o de amigos, y hasta se podr\u00eda concurrir en pareja.\r\nEs destacable el ambiente criollo y la comodidad con la que se encuentra espacio para estacionar el coche (enfrente al local un s\u00e1bado al medio d\u00eda)."
+    }, 
+    {
+      "date": "11 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "NoemiLaPlata", 
+      "text": "Excelente lugar!! ya hemos ido tres veces y nunca fall\u00f3. Los mozos son de esos que no quedna en Baires. pedimos un vino potente y el mozo, ofreci\u00f3 ponerlo en decanter... algo incre\u00edble en un bodeg\u00f3n. Altamente recomendable!"
+    }, 
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Luke", 
+      "text": "El ambiente es \u00fanico, un lugar chico, pero muy tranquilo. La atenci\u00f3n es muy buena (fui con mi mujer 6 veces y nunca fallaron ni los mozos ni la comida). La comida es excelente, la carne es de lo mejor, los chinchulines son los mejores.. todo excelente"
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "arles2020", 
+      "text": "Sigue con el mismo nivel, los precios aumentaron un poco (como en todos lados) pero la atencion, el servicio y la calidad de la comida no cambio. Por suerte ahora los vinos los sirven en copas de vino, no en las viejas copas de agua (que ahora cumplen su funcion). Muy recomendable."
+    }, 
+    {
+      "date": "29 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "carolina2006", 
+      "text": "Pedimos cochinillo, mollejas de coraz\u00f3n, ensaladas, ojo de bife, chinchulines. La carne estaba excelente. La atenci\u00f3n es muy buena, la relaci\u00f3n precio-calidad excelente."
+    }, 
+    {
+      "date": "29 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "arles", 
+      "text": "Volvimos y la calidad de la parrilla sigue siendo excelente. Muy recomendable el cochinillo, el pechito de cerdo y las mollejas de corazon. Pedimos chinchulines y estaban muy bien.\r\nLo unico que cambiaria es el trato que le dan al vino, tuvimos que pedir una frapera para bajarle la temperatura. Las copas no son las adecuadas, solo dan copas para vino si uno consume un vino caro (calculo que si supera los 50 pesos la botella, ya que para un vino de 30/40 pesos traen copas comunes) \r\nTodo lo demas perfecto, tanto la atencion como el ambiente."
+    }, 
+    {
+      "date": "6 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Luke", 
+      "text": "Sin Dudas una de las mejores parrillas de Capital Federal. Una comida excelente a un precio realmente increible. La atencion es de primera, la parrilla es un placer y las pastas son muy buenas tambien. Totalmente recomendable."
+    }, 
+    {
+      "date": "27 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "notri", 
+      "text": "Excelente parrilla. Las mollejitas de corazon son una manteca. El lugar es un poco ajustado, pero vale la pena."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "afilalosdientes", 
+      "text": "Excelente comida, calidez y atenci\u00f3n. \r\nGran profesionalismo y atenci\u00f3n de la due\u00f1a."
+    }, 
+    {
+      "date": "1 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alejgallo", 
+      "text": "La vedad, hace mucho que no encontraba una parrilla donde hicieran la carne tan pero tan bien. un bife de chorizo excelente, 7cm de alto; bien sellado; y a punto-jugoso dentro. ademas un pechito de cerdo crocante y muy tierno. Elejimos buen vino a precio logico y de postre Panqueque quemado al ruhm. al fin encontre una parrilla adonde ir cuando uno tiene esos antojos de comer rica carne a la parrilla. tuve que esperar 1 hora por la mesa, pero despues de cenar eso qued\u00f3 como anecdota."
+    }, 
+    {
+      "date": "12 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hfu", 
+      "text": "Una parrilla encantadora en todo sentido. La comida (entra\u00f1a memorable y matambre tiernizado buen\u00edsimo) nos pareci\u00f3 de lo mejor y la atenci\u00f3n insuperable. Detalles a mejorar: muy \"breve\" la ensalada, alg\u00fan chimichurri m\u00e1s sabroso y resolver el tema mosquitos (por eso le baj\u00e9 un poco el puntaje). Se pueden tomar buenos vinos a precios razonables (S. Balbo-CRIOS a $40). Muy buena la relaci\u00f3n precio-calidad. Sin dudas muy recomendable. \u00a1Ah! Preguntar al mozo qu\u00e9 recomienda de la parrilla, y hacerle caso. Volveremos."
+    }, 
+    {
+      "date": "5 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "omegacentauro", 
+      "text": "Me gusta mucho este lugar. La ambientaci\u00f3n es t\u00edpica. Con gracia, los ba\u00f1os podr\u00edan mejorar. La comida siempre me toc\u00f3 muy buena, con buenos precios y mozos macanudos."
+    }, 
+    {
+      "date": "7 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cristian10", 
+      "text": "Excelente. Muy buena parrilla, en particular las achuras. Muy amable atenci\u00f3n en un ambiente entra\u00f1able."
+    }, 
+    {
+      "date": "9 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kishigae1", 
+      "text": "Muy buena parrilla, buen precio y ambiente bien porte\u00f1o."
+    }, 
+    {
+      "date": "1 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "roymaipa", 
+      "text": "Excelente para festejar despedidas con los compa\u00f1eros de trabajo."
+    }, 
+    {
+      "date": "20 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GUSTY", 
+      "text": "muy buena parrilla, acompa\u00f1ada de musica de tango."
+    }, 
+    {
+      "date": "10 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "paudg27", 
+      "text": "Un lugar para conocer, ideal para comer un rico asadito acompa\u00f1ado de unos buenos tangos"
+    }
+  ]
+}

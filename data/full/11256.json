@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ValeMarsili", 
+      "text": "Hermoso lugar, tranquilo, buena comida super fresca, deliciosa pasteler\u00eda y riquisimo caf\u00e9.Muy Recomendable."
+    }, 
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gagoag", 
+      "text": "muy buena opci\u00f3n en el festejo de san valentin, muy buen men\u00fa  y   atenci\u00f3n , la camarera bien predispuesta y el cheff recorri\u00f3 el sal\u00f3n en medio del servicio para preguntarnos como estaba todo! muy recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MBarny", 
+      "text": "Pase por Odile y me lleve una Grata Sorpresa. Por la Zona no hay opciones de gastronomia de Calidad. Y los chicos de Odile lo hacen posible. Espero volver pronto. Les recomiendo las ensaladas y la pasteleria. Un lujo"
+    }
+  ]
+}

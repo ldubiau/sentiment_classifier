@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "14 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Este restaurante cerr\u00f3. Fui para almorzar y me encontr\u00e9 con un sal\u00f3n de fiestas. La zona, gastron\u00f3nicamente hablando tiene opciones interesantes, se puede visitar Restaurante Lipe\u00e9, un muy buen lugar los fines de semana y Lipe\u00e9 parrilla, durante la semana, con excelente calidad y precios moderados. Voglia tambi\u00e9n es bueno en pastas y mediterr\u00e1nea, precio moderado, y por \u00faltimo una buena alternativa en Canning Design es Las Arumas, con platos bien elaborados, este deber\u00eda estar en la Guia Oleo, pero no est\u00e1. O sino comida de shopping en el paseo Las Toscas. Todos sobre la calle Mariano Castex."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pac15", 
+      "text": "la atencion era muy buena, la comida es muy rica y abundante, los postres exelentes, y los precios normales."
+    }, 
+    {
+      "date": "13 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vinacho", 
+      "text": "fui a bizancio por recomendacion y la verdad que tener en canning semejante restaurante es un lujo, una atencion increible, un muy comodo lugar donde te sentis como en tu casa. La comida es exelente."
+    }, 
+    {
+      "date": "14 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Edy72", 
+      "text": "Excelente servicio, y comida"
+    }, 
+    {
+      "date": "8 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jesca1979", 
+      "text": "Excelente antenci\u00f3n, lugar y la comida es riquisima."
+    }
+  ]
+}

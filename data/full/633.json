@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "laurelin", 
+      "text": "Despues de ir varias veces califico este lugar en relacion a precio y calidad como muyyyyy bueno, coincido con el usuarios que dice que es de lo mejorcito de la zona. Lugar tranquilo con un menu muy variado y gente dispuesta a que te sientas como en casa. Me llama la atencion que pese a los precios razonables, no concurra mas gente. Quizas de la impresion de ser un lugar caro. No es asi, animense y visiten este lugar."
+    }, 
+    {
+      "date": "1 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Joji83", 
+      "text": "Voy seguido a comer a Scetta, Me parece, junto con otro restaurante de la zona, uno de los mejores. Recomendables las pastas. Muy buen ambiente y atencion. Buena relacion precio-calidad. Vale la pena visitarlo."
+    }, 
+    {
+      "date": "29 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ftraverso", 
+      "text": "Platos simples, nada muy especial y pretencioso, pero correcto. \r\nTienen men\u00faes de muy buena relaci\u00f3n precio/calidad al mediod\u00eda (entre $13 y $16 con postre y bebida)."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marguindegui", 
+      "text": "Excelente ambiente, que concuerda con el precio y la calidad del lugar."
+    }, 
+    {
+      "date": "7 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "monoaqui", 
+      "text": "Muy lindo el lugar y sobre todo la atenci\u00f3n que tienen con el p\u00fablico que es de primera."
+    }, 
+    {
+      "date": "9 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "verosann", 
+      "text": "Excelente ambientaci\u00f3n y comida. Lo recomiendo para salidas en ocasiones especiales"
+    }
+  ]
+}

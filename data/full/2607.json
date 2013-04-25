@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "17 Abr 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "superpikachu", 
+      "text": "La verdad que no lo recomiendo para nada, la ambientacion es digna, pero la ensalada fue de lo peor, los panes fritos super aceitosos, la variedad de verdes no existia, el pollo casi crudo y el aderezo desagradable. En cuanto al servicio nos atendieron 2 chicas, pedimos un trago de la carta y no tenian idea de lo q era y luego un appetizer y nos paso lo mismo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "monogigi", 
+      "text": "Voy muy seguido y siempre al mediod\u00eda. \r\nLa comida es buena, la atenci\u00f3n excelente y la ambientaci\u00f3n del lugar es muy agradable con predominantes toques de rosa. \r\nLa \u00fanica contra a largo plazo es que no var\u00edan mucho el men\u00fa pero vale la pena conocerlo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "HernanCaballito", 
+      "text": "La comida es simple pero buena, el ambiente es excelente para las pesonas que buscan estar cerca del r\u00edo pero desean tranquilidad."
+    }, 
+    {
+      "date": "10 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marcosf", 
+      "text": "El lugar es muy bueno, al borde del r\u00edo y con vista al Puerto Madero m\u00e1s bullicioso.\r\nLa comida no es muy variada, pero la comodidad y el servicio la complementan bien."
+    }
+  ]
+}

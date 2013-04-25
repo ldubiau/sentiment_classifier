@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "6 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Pev79", 
+      "text": "Fuimos porque supuestamente era buenisimo el bife de chorizo, y la verdad que es igual que en cualquier lado, pero eso si, te lo cobran $37 MEDIO bife , y $50 ENTERO,y $70.- el mariposa, SIN guarnici\u00f3n.La atenci\u00f3n no fue mala de parte del mozo, pero 1 hora de espera para la comida, es de terror.La salsa filetto de los crep\u00e9s, horrible. Con gusto a NADA. Y me parece un abuso que cobren $8.- esa salsa de lata ins\u00edpida,y $13.- el pesto, cuando en otros lados suele ser gratis, o m\u00e1s barato. Mucha demora, y muy caro para un lugar de medio pelo para abajo. No volvemos m\u00e1s."
+    }, 
+    {
+      "date": "10 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "La atenci\u00f3n es buena y cordial, siempre est\u00e1n atentos, adem\u00e1s no suelen tardar en traer los platos. La comida es muy rica dentro de una ambientaci\u00f3n estilo bodeg\u00f3n de barrio."
+    }, 
+    {
+      "date": "25 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pompeu", 
+      "text": "parrillita tipo bodeg\u00f3n, simp\u00e1tica, excelente carne"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "linoja", 
+      "text": "la carne es de primera calidad, especialmente el bife de chorizo, jugoso, realmente vale la pena probarlo"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "7 Dic 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "presteru", 
+      "text": "La atenci\u00f3n de los mozos muy mala, la comida presentada sin gracia, el bife de chorizo era un bife angosto seco."
+    }, 
+    {
+      "date": "13 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dagal1", 
+      "text": "Es un buen lugar para ir con chicos siempre y cuando no haya mucha gente (el patio no es gran cosa, pero se entretienen muy bien corriendo y viendo TV)."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ropaser1", 
+      "text": "Lugar agradable con musica de fondo en vivo y patio de juegos para poder cenar trnaquilo mientras los chicos estan cuidados. Muy buena cocina."
+    }, 
+    {
+      "date": "26 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "40kilates", 
+      "text": "Esta muy bien ambientado con musica en vivo de fondo."
+    }, 
+    {
+      "date": "27 Mar 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "roversa", 
+      "text": "Falta onda. Es aburrido."
+    }
+  ]
+}

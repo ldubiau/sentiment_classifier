@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "26 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "sebiplatica", 
+      "text": "fuimos con amigos para festejar un cumplea\u00f1os...que termino siendo el peor de todos los festejos que realizamos en distintos bares de la capital...pedimos un par de pizzas y algunos encargaron milanesas...sumado a tragos comunes como fernet, gin tonic(sin limon) y cerveza (caliente)...cuando estabamos ya entrando en la noche(2:30am) nos pidieron si podiamos pagar que tenian que cerrar y levantar todo de la vereda...obviamente no entendimos porque si decia que estaban hasta las 6am...sin dudas no volveremos!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "tinitz", 
+      "text": "Fui dos veces. Muy buen ambiente,esquina tranquila, ideal para sentarse en las mesas de la calle.   \r\nMuy bueno el tandori chiken y excelente el volcan de chocolate.\r\nLa carta de vinos podria mejorar,solo bodega Chandon.\r\nMagistral el barman, imposible no dejarse tentar, super recomiendo la caipivodka de maracuya, IMPERDIBLE!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MaiBsAs", 
+      "text": "Muy linda esquina, muy bien ambientado, muy buena la atencion de todos, tanto la moza como el Barman, muy buena la musica, muy buena la comida y tambien los tragos.Voy a regresar seguido porque es un lugar tranquilo y muy agradable, me senti como en el living de mi casa"
+    }
+  ]
+}

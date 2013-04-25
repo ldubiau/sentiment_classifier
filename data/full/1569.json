@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "3 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ELABUELO", 
+      "text": "Simplemente, muy buena pizza, recomendable. Tienen otra sucursal en Vte Lopez que es sumamente recomendable, alli esta el due\u00f1o y la atencion es maravillosa."
+    }, 
+    {
+      "date": "12 Jun 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "richi", 
+      "text": "Tendr\u00edan que capacitar al personal el cual no esta apto para tratar clientes."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marto", 
+      "text": "Siempre pedimos delivery y jam\u00e1s fallaron. Las pizzas son de las mejores que se pueden conseguir y las empanadas de alt\u00edsima calidad."
+    }
+  ]
+}

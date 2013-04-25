@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "5 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Gaita66", 
+      "text": "Muy buena relacion precio/calidad.  Buen servicio y lugar ameno para disfrutar."
+    }, 
+    {
+      "date": "15 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Daud1", 
+      "text": "Un lugar piola para San Telmo, sin pretenciones pero con una calidad de comida y servicio que estan acordes con el precio, para volver y seguir probando, estaria lindo si pudiesen abrir a la noche por lo menos el Jueves y Viernes."
+    }, 
+    {
+      "date": "31 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "paladarnegro", 
+      "text": "muy lindo el ambiente,es una buena alternativa a puerto madero,muy buena atencion y muy rica la comida.volvere"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pinotmalbec", 
+      "text": "La verdad que se come bien, ambiente agradable, excelentes las pastas. Lastima que no abren por la noche"
+    }
+  ]
+}

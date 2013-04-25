@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "13 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Fams", 
+      "text": "Buenisimo el calzone !! y muy recomendable la fugazzeta rellana a la piedra."
+    }, 
+    {
+      "date": "10 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FLOREG", 
+      "text": "Las 3 pizerias de esta calle son las mejores, pero San Remo tiene la mejor pizza de muzarrella a la piedra que haya comido jamas.\r\nLos mozos amables tipicos de estas pizzerias viejas. El salon es lindo pero los  ba\u00f1os son muy feos y muy muy sucios. Coman pero no vayan al ba\u00f1o."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "vsuarez", 
+      "text": "Una clasica pizza de muzzarella, bien sequita, porciones grandes. Gente con experiencia en la cocina."
+    }, 
+    {
+      "date": "16 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Chena", 
+      "text": "Cl\u00e1sica pizzer\u00eda de la calle Corrientes. Excelentes pizzas a la piedra y media masa. La \u00fanica contra es que no aceptan tarjetas."
+    }
+  ]
+}

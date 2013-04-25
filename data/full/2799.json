@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "3 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "saulento", 
+      "text": "mala la atecnion y la comida pesima, sirven 4 camarones minusculos con un arroz incomible de berreta."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kermit", 
+      "text": "Es una buena opci\u00f3n en el shopping, combinado con una salida al cine.\r\nLa comida depende un poco de qui\u00e9n est\u00e9 cocinando y de la cantidad de cubiertos por atender, pero \u00faltimamente viene con un nivel parejo bueno. El servicio es amable y generalmente muy bueno."
+    }
+  ]
+}

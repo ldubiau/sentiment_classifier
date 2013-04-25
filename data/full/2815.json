@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "20 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Keoki", 
+      "text": "Muy Malo, pocos platos, el servicio deficiente. el ambiente pobre. Tardo mucho la comida. Los noquis no eran gustosos, y los ravioles de calabaza no eran de calabaza sino de ricota y muy poco de calabaza.\r\nNo recomendable."
+    }, 
+    {
+      "date": "12 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "leoper", 
+      "text": "El ambiente no estaba adecuadamente refrigerado, aun habiendo aire acondicionado, que no fue prendido. El pedido tard\u00f3 demasiado tiempo, y el cordero estaba duro. No obstante, el resto de la comida era buena, y el vino de copa muy aceptable. El mozo fue atento. Quiza merezca una segunda oportunidad."
+    }, 
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Palufm", 
+      "text": "El lugar es chico pero c\u00e1lido.\r\nLa atenci\u00f3n es excelente, la moza es una dulzura atendiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PIPIMAN", 
+      "text": "REGRESE Y ME LLEVE UNA BUENA SORPRESA ACHICARON LA CARTA PERO NO LA CALIDAD LA ATENCION DE DIEZ COMO SIEMPRE EL LUGAR IDEAL PARA ALMORZAR CON AMIGOS Y NO SENTIRSE FUERA DE LUGAR POR NADA NO TE APOURAN NO TE INTERRUMPEN SIEMPRE UNA SUGERENCIA Y UN POSTRE NUEVO QUE DELEITARSE .NO SE LO PIERDAN"
+    }, 
+    {
+      "date": "11 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vodka", 
+      "text": "Excelente comida y lugar muy c\u00e1lido. \r\nPostres imperdibles."
+    }, 
+    {
+      "date": "9 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pablo_BA", 
+      "text": "\u00bfLe falta al servicio? S\u00ed. Pero la comida es tan exquisita, que pasa desapercibido. Seguro que har\u00eda la experiencia m\u00e1s completa, pero tampoco afecta al estilo e imagen del lugar. El ambiente es adecuado a la cocina y los precios, por lo cual no es excelente. El postre estuvo sensacional."
+    }, 
+    {
+      "date": "25 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leonina", 
+      "text": "Es un lugar donde se siente el cari\u00f1o y cuidado en cada plato y en cada gesto."
+    }, 
+    {
+      "date": "18 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jasonn1234", 
+      "text": "This restaraunt is excellent. Has a great chef and friendly service. They are always aiming to please and the staff mostly speaks english, as well. Give it a try!"
+    }, 
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vodka", 
+      "text": "Excelente comida. Justa combinaci\u00f3n de sabores en ensaladas y sandwiches. Todo s\u00faper fresco. El postre era perfecto. Buena atenci\u00f3n."
+    }, 
+    {
+      "date": "21 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PIPIMAN", 
+      "text": "El servicio es excelente, la comida vale por el precio pagado. Regresar\u00eda."
+    }
+  ]
+}

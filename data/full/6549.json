@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "23 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "piruyi", 
+      "text": "La comida muy rica y casera. El mete que nos recibi\u00f3 en la puerta sumamente cordial. Muy recomendable!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rdg1234", 
+      "text": "Muy buena la comida. Muy recomendable."
+    }
+  ]
+}

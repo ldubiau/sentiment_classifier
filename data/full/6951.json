@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "smzuddio", 
+      "text": "Me lo recomend\u00f3 un compa\u00f1ero y fue un verdadero acierto hacerle caso. Marfa es una excelente combinaci\u00f3n entre lo sano, lo natural y los buenos sabores. Todo, dentro de un men\u00fa cargado de propuestas tentadoras.\r\nSe destacan los wraps y sus ensaladas. Adem\u00e1s de los detalles que, aunque sencillos, hacen diferencia. No se lo pierdan..."
+    }, 
+    {
+      "date": "12 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablitoo", 
+      "text": "Muy lindo hallazgo, me hab\u00edan hablado del lugar. Fuimos con 3 amigos m\u00e1s al mediod\u00eda y la verdad que no defraudo. La comida muy buena, se nota que todo es casero y fresco. La atenci\u00f3n genial, la moza muy atenta. Lo \u00fanico malo es el lugar f\u00edsico, pero bueno, eh de ahi el nombre. Estoy seguro que es cuesti\u00f3n de tiempo antes de que puedan tener un local m\u00e1s bonito. Vaya.-"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nati2", 
+      "text": "nos recomendaron el lugar para comer wraps,y nunca pensamos que iban a ser tan buenos como nos decian.la limonada riquisima bien helada,el ambiente muy relajado. cuesta encontrarlo,pero vale la pena. lo recomendamos! :)"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "18 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "lidsutd", 
+      "text": "Este restaurante es mal\u00edsimo! fui a comer y la verdad la limpieza deja mucho que desear."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fast_dani", 
+      "text": "muy buena comida y buena atencion.amabilidad y y rapides"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Cold", 
+      "text": "Excelente resto de comida china, insuperable en la zona. Comida verdaderamente rica, muy bien preparada y el servicio de delivery es muy rapido. Excelente y barata opcion para cualquier dia."
+    }, 
+    {
+      "date": "2 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "BritJOY", 
+      "text": "Es el mejor restaurante chino en la zona, por sus precios muy economicos y la rapidez con la que salen los platos."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alejandralopez", 
+      "text": "El mejor restaurante que probe hasta ahora, los platos son abundantes y riquisimos, altamente recomendable!!"
+    }
+  ]
+}

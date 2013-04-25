@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "20 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "melissapalao", 
+      "text": "Muy bueno como todos los Sensus, excelente el sushi, fresco, sabroso. Nunca falla."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "PETER6", 
+      "text": "El sushi es excelente, fresco y muy bien hecho, el yaman\u00ed con camarones fue abundante y muy rico, la atencion del mozo fue mmuy buena y el ambiente, al ser en un patio de comidas de un shoping no era de lo mejor pero vale la pena por la muy buena calidad de la comida."
+    }
+  ]
+}

@@ -1,0 +1,938 @@
+{
+  "malos": [
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Amy", 
+      "text": "El lugar no est\u00e1 cuidado en lo que a limpieza se refiere. Las ensaladas en platos, dificiles de condimentar y la calidad de las mismas es de regular para mala.\r\nLa carne es aceptable, te la tren en una bandeja con una plancha de hierro que se supone debe mantener el calor de las carnes, pero resulta que est\u00e1 fr\u00eda. Poca variedad de vinos. La atencion es voluntariosa, los mozos le ponen onda, pero no alcanza..."
+    }, 
+    {
+      "date": "29 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "tabri", 
+      "text": "La atenci\u00f3n fue p\u00e9sima y el lugar estaba a medio llenar por lo que no sirve como excusa.La carne me la trajeron sangrando, dejaron el vino y la cerveza en la mesa y nisiquiera tuvieron la decencia de abrirlo, tuve que quejarme para que lo abrieran."
+    }, 
+    {
+      "date": "15 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "peluca76", 
+      "text": "Despues haber visitado esta parrilla, me parece que el puntaje de 23 sobre la comida es un poco elevada y la verdad que me decepciono un poco. \r\nTanto la entrada (mix de achuras) como la entrana estaban tibias tirando a frias cuando llegaron a la mesa, en ambos casos pedimos que calentaran la comida nuevamente. Es una parrilla del monton a la que seguramente no vuelva a pesar del descuento de club la nacion."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "31 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "javimo", 
+      "text": "Muy buena la parte de arriba, al menos para el verano. Platos ricos y para compartir. Los descuentos de LN suman."
+    }, 
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "barrigudito", 
+      "text": "Fuimos el viernes a \u00faltima hora quedaban pocas mesas y muchos mozos, as\u00ed y todo la atenci\u00f3n fue mala. Comimos provoleta, fritas, ojo de bife,  entra\u00f1a y volcanes de chocolate, bueno nada deslumbrante, la provoleta finita. La relaci\u00f3n calidad precio no es buena. Hay lugares mucho mejores por lo que te cobran"
+    }, 
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sonrie", 
+      "text": "La atencion es mal."
+    }, 
+    {
+      "date": "19 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "bajopalabra", 
+      "text": "No es gran cosa. Recomiendo Chorizo (gigante,casero,0%grasa). Entra\u00f1a y bondiola, ok. Pero me pareci\u00f3 caro y me qued\u00e9 con ganas de \"sabor\". Ensaladas en plato, no ensaladera, es inc\u00f3modo, se pianta la verdura. 1 fritas, 2 ens chicas, 1 chori, 2 morci, 1 entra\u00f1a, 1 bondiola, 1 vino, 2 aguas  = 450$. Los mozos medio medio."
+    }, 
+    {
+      "date": "26 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "analight", 
+      "text": "Fuimos al mediod\u00eda, el lugar estaba semi vac\u00edo. Tardaron mil horas en atendernos, otras mil en traer las bebidas y para cuando lleg\u00f3 la comida ya nos hab\u00edamos bajado la panera del hambre. Una l\u00e1stima, la comida normal, pero todo muy opacado por el mal servicio."
+    }, 
+    {
+      "date": "9 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "lu_2010", 
+      "text": "El lugar tiene una terraza muy bonita, ideal para el verano. Pero la atenci\u00f3n es regular cuando el lugar est\u00e1 lleno y los precios son bastantes caros (aunque tengan descuentos con tarjetas de beneficios). Si piden parrilla para compartir es muy probable que la segunda porci\u00f3n est\u00e9 fr\u00eda dado que no lo traen en una parrilla que conserve el calor.\r\nBuena opci\u00f3n para ir con amigos a charlar en su terraza."
+    }, 
+    {
+      "date": "9 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "null", 
+      "text": "Servicio es bueno y el men\u00fa abundante para compartir, muy ricas las ensaladas, lo mejor un medio d\u00eda en la terraza para disfrutar del sol. recomendable."
+    }, 
+    {
+      "date": "20 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "exequiel2", 
+      "text": "Muy malo. \r\nEl lugar me parece feo y sucio. La atenci\u00f3n es mal\u00edsima y la comida es apenas regular. No vale la pena."
+    }, 
+    {
+      "date": "29 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pablokra", 
+      "text": "Muy bueno este restaurante. La atenci\u00f3n y la comida excelentes. El precio con el descuento de Club LN se hace razonable para la comida y el lugar. El acompa\u00f1amiento del plato principal con las cazuelitas fue un muy buen detalle."
+    }, 
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Marichis", 
+      "text": "muy abundante y buena atencion. La relacion precio calidad excelente. Una hermosa terraza para disfrutar con amigos. Para volver."
+    }, 
+    {
+      "date": "21 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "flor21", 
+      "text": "A pesar de su sencilles, esta parrila me sorprendio con su ambiente calido y la amabilidad y buena atencion de su personal. Los platos son muy abundntes y para compartir lo cual es muy bueno porque con la plata que habitualmente se gastaria por persona en un plato principal, aca comimos dos personas. La verdad muy buen servicio."
+    }, 
+    {
+      "date": "10 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "la lau", 
+      "text": "hoy al mediodia fuimos en familia, la comida es barbara, la atenci\u00f3n perfecta, los platos muy bien servidos.Un lindo ugar para un grato momento"
+    }, 
+    {
+      "date": "20 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Cuchara1", 
+      "text": "Leyendo por la gu\u00eda, fui a comer por mi cumplea\u00f1os un viernes a la noche. La comida (matambrito de cerdo) era buena, ni muy buena ni muy mala, el servicio medio despistado, y el ambiente es lindo l\u00e1stima que con un sonido inagotable de la gente gritando que al corto tiempo lleva a uno al mareo. Tal vez fue el momento y el d\u00eda, pero mucho ruido. En l\u00edneas generales safa pero nada m\u00e1s."
+    }, 
+    {
+      "date": "30 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "germancrivelli", 
+      "text": "El servicio ha desmejorado, cuidado con el parrillero, no entiende el concepto de la carne a punto, la trae cruda y encima luego nos discute.\nDudo que volvamos a comer aqu\u00ed."
+    }, 
+    {
+      "date": "29 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "banfield33", 
+      "text": "Fuimos cuatro personas un mediodia, pedimos un menu (principal, bebida, postre) abundante y rico. Ademas usamos el descuento de La Nacion y resulto bastante economico. El ambiente podria mejorar."
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "afalcon", 
+      "text": "La terraza muy comoda, para disfrutar de una tarde de oto\u00f1o en familia o amigos. Abajo es un restaurant com\u00fan."
+    }, 
+    {
+      "date": "18 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Celsogian", 
+      "text": "Uma Parrilla normal sem qualquer atrativo especial no que concerne ao servi\u00e7o e aos pratos. O bife de chorizo \u00e9 cortado muito fino, mas estava saboroso. Penso que h\u00e1 parrilas melhores!"
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tufacu", 
+      "text": "Es una buena parrilla, pero nada del otro mundo. La carne es buena, al igual que la atenci\u00f3n."
+    }, 
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Tobias", 
+      "text": "Entramos y no nos atendi\u00f3 nadie, tuvimos que preguntarle a un mozo y baj\u00f3 la recepcionista \u00bf? y nos ubic\u00f3 gentilmente arriba, es ok, pero las mesas est\u00e1n pegadas, al nivel que da para escuchar lo que la mesa de al lado habla y hace, por m\u00e1s que no seas de los chusmas, o sea, para 1ra salida \"no da\". El servicio ok, la carta de vinos, com\u00fan, ninguna etiqueta boutique, la comida ok y la terraza es linda, ideal para ir en pareja, como lo hice yo. La comida me pareci\u00f3 normal, nada como para volver, es un lugar que no s\u00e9 si volver\u00eda, pero quiz\u00e1s lo recomendar\u00eda para que lo conozcan. Cubierto $7,50"
+    }, 
+    {
+      "date": "3 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kritger", 
+      "text": "La terraza es espectacular. La comida muy buena  recomiendo el ojo de bife. Las porciones son para compartir."
+    }, 
+    {
+      "date": "2 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rosi59", 
+      "text": "fuimos 6 personas y nos gusto mucho, no nos parecio caro y nos atendierom muy bien, la terraza muy bien"
+    }, 
+    {
+      "date": "30 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "djnavarro", 
+      "text": "Me gusto la comida el ambiente podr\u00edan mejorarlo, la terraza es linda pero no es para tanto la Atencion de los mozos es MUY buena. Un plus el descuento de La Nacion"
+    }, 
+    {
+      "date": "29 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "giudicim", 
+      "text": "La terraza es perfecta y siempre que puedo reservo ah\u00ed. Lo malo es que el sal\u00f3n no est\u00e1 a la altura. Abajo no es ni la mitad de lo linda que es su terraza. La comida siempre muy bien."
+    }, 
+    {
+      "date": "7 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Guybrush", 
+      "text": "Me pareci\u00f3 un muy buen lugar para ir a comer asado al aire libre en Palermo. La comida lleg\u00f3 caliente, a tiempo y es muy sabrosa. La atenci\u00f3n es muy esmerada. En s\u00edntesis es un lugar que recomiendo tanto para ir con amigos como con pareja."
+    }, 
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "darioelz", 
+      "text": "Una parrila muy buena, con detalles como cazuelitas junto a la carne, a precio razonable. La infraestuctura es basica, pero la ambientacion esmerada. Sobre todo, la terraza."
+    }, 
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Buena experiencia. Muy linda la terraza para almorzar un mediod\u00eda de sol. Muy buena atenci\u00f3n, con los mozos siempre atentos a cada pedido y mirando las mesas permanentemente por si necesitabamos algo m\u00e1s. La comida muy buena, desde la presentaci\u00f3n, el sabor y el tama\u00f1o de las porciones. No me pareci\u00f3 tan econ\u00f3mico como leo en otros comentarios. cobran $10 por cada gaseosa y $7,5 de cubierto \u00bf?."
+    }, 
+    {
+      "date": "3 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "quimos", 
+      "text": "Cenamos por segunda vez en menos de un mes y la carne fue de buena calidad, tierna, y en sus pedidos puntos. Las porciones generosas, aunque los precios son de acorde la calidad y la cantidad (lomo 70, 1/2 papas fritas a 14). El ambiente no es nada del otro mundo, pero tiene una terraza agradable. Ojo con el servicio que es lento y desaparece (no dan abasto.) Escaparle a las mesas de adentro ( lejos la unidad de aire acondicionado) porque se sufre el calor. Volveriamos temprano en la noche. Descuento, por ahora, LN."
+    }, 
+    {
+      "date": "20 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "edu59", 
+      "text": "Sus platos abundantes limitan la elecci\u00f3n yendo 2 personas, si bien ALGUNOS vienen de 1/2 porci\u00f3n no resulta conveniente,Una cena para 4 en la terraza ser\u00eda lo ideal.El servicio es atento y eficiente El famoso ojo de bife no me deslumbr\u00f3, la relaci\u00f3m precio/calidad es buena utilizando el beneficio de L.N. x ejemplo. Volveremos a probar otros cortes."
+    }, 
+    {
+      "date": "11 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cmicul", 
+      "text": "Muy bueno el ojo de bife y regular el matambrito. El servicio tambien desparejo, un mozo super bueno, y otro lentisimo y con muchas dudas. La terraza es espectacular en noches lindas. Las porciones son abundantes y para compartir. Volveremos"
+    }, 
+    {
+      "date": "9 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pituso", 
+      "text": "voy bastante seguido, esta vez eramos 5, chorizo molleja provoleta excelentes, entra\u00f1a super abundante, las papas fritas bien secas, ensaladas gigantes, las cazuelitas de acompa\u00f1amiento ayudan mucho, un flan   uno de regalo por cliente habitual, con 2 vinos   5 cafes   champagne para el final 75 per capita con el 20% desc. club la nacion, la atencion despareja pero atenta, vale la pena si queres comer abundante.\r\nLa terraza excelente para la noche"
+    }, 
+    {
+      "date": "9 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pochito18", 
+      "text": "Buena parrilla, con carne tierna y porciones grandes."
+    }, 
+    {
+      "date": "3 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "viajertano", 
+      "text": "Porciones realmente abundantes, carnes de calidad variada (muy bien el lomo; masso el ojo), puntos que dan al mas (cocido) que al menos.\r\nBien, en general, pero una performance tremenda del servicio, cuando pedimos dividirnos la cuenta. Se animaron, lo hicieron, pero dos veces se equivocaron en la divisi\u00f2n. \r\nVayan si buscan platos para compartir. No hay mas razones."
+    }, 
+    {
+      "date": "31 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rafaryba", 
+      "text": "Lugar muy agradable y comida seleccionada .los platos son para compartir,con la desventaja para quien nocoincide en los gustos con sus compa\u00f1eros.el servicio es muy amable,pero no muy atento ya que se olvidaron algunas cosas !!! igual volvere en terminos grales me gusto"
+    }, 
+    {
+      "date": "28 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "caritoq83", 
+      "text": "Me gust\u00f3 mucho la terraza para comer porque el sal\u00f3n de planta baja parece medio triste. La carne es de buena calidad, las porciones abundantes y vienen acompa\u00f1adas por unas cazuelitas variadas que quedan bien. La atenci\u00f3n es acorde. Nada del otro mundo y los precios razonables por lo que ofrecen y la zona donde est\u00e1."
+    }, 
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "saez", 
+      "text": "Muy buena parrilla. Porciones abundantes, carne tierna, muy buena atencion y precios justos."
+    }, 
+    {
+      "date": "5 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nico20", 
+      "text": "Fui por las recomendaciones de est\u00e1 p\u00e1gina y realmente no le erraron.\r\nEl ambiente es agradable, sin ser nada sofisticado, pero bien mantenido.\r\nLa comida realmente me resulto muy rica.\r\nPedimos ojo de bife y lo trajeron al punto que le solicitamos. \r\nMucho sabor tienen sus platos y las porciones abundantes. Traen muchos acompa\u00f1antes tambi\u00e9n bastante sabrosos.\r\nLa carta de vinos no es muy amplia.\r\nTeniamos descuento de una suscripci\u00f3n a un diario as\u00ed que nos hicieron 20% de descuento,no sali\u00f3 caro.\r\nRelaci\u00f3n precio calidad muy buena, sin duda volvere..."
+    }, 
+    {
+      "date": "23 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "anatilde", 
+      "text": "Comimos barbaro y nos salio barato por la promocion de un cupon. Las porciones son abundantes y esta muy buenala terraza en noches lindas."
+    }, 
+    {
+      "date": "22 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "matoaldosivi", 
+      "text": "Buen lugar, muy linda la tarraza.\r\nLos mozos muy amables, aunq tardaron un poco en traer las bebidas y la comida (el lugar estaba super lleno). Muy buena atencion, nos regalaron una copa de champagne para brindar.\r\nLa parrilla buena."
+    }, 
+    {
+      "date": "20 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ottibebe", 
+      "text": "Fuimos una noche de verano muy calida, comimos en la terraza, un ambiente excelente, el servicio muy bueno, la calidad de la comida tambien, te atienden sin presion, y son muy amables, fuimos con un cupon de descuento y comimos variado y muy rico..100 x 100 RECOMENDABLE"
+    }, 
+    {
+      "date": "19 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pulgamvd", 
+      "text": "Como dijo mi acompa\u00f1ant pe: por fin un lugar de palermo donde te dan de comer. Porciones super abundantes, para compartir minimo entre dos, calidad de carne excelente, ingredientes frescos y aut\u00e9nticos. El servicio muy bueno tambi\u00e9n: mozos super atentos, y comprometidos de verdad con el lugar.\r\nPrecios muy accesibles, y ambiente relajado. Para volver y recomendar."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Losgorditos", 
+      "text": "Es la segunda vez que vamos un s\u00e1bado. El lugar es agradable aunque algo ruidoso. La atenci\u00f3n de los mozos es amable y dispuesta. La carne es muy buena, realmente el bife de chorizo estaba sabroso y muy tierno. Para destacar el acompa\u00f1amiento de cazuelitas con distintas guarniciones para acompa\u00f1ar la carne (al estilo de La Cabrera). Lo \u00fanico malo es que est\u00e1n desbordados por la cantidad de gente que concurre. Demorando m\u00e1s de lo aceptable la atenci\u00f3n y la cocina, adem\u00e1s de que se quedan sin mercader\u00eda. De todas maneras es una buena opci\u00f3n y dado que es nuevo esperemos que mejoren este punto."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pteroto", 
+      "text": "Lindo lugar, hab\u00eda mucha gente, pero en general todo muy bien. Buena carne"
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "verito1965", 
+      "text": "Lo conocimos por una oferta de Cuponica y nos resulto muy bueno. Las porciones son para compartir y la carne es muy buena. El unico pero es que no respetaron el punto de coccion pedido. La atencion es excelente  y la terraza un sue\u00f1o."
+    }, 
+    {
+      "date": "28 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Chochapocha", 
+      "text": "Muy buena la parrilla. Fuimos al mediodia un domingo; los platos son abundantes y el servicio es bueno: traen los platos a tiempo y las mesas tienen un buen espacio entre si. Equilibrado precio / calidadCritica: la carta de vinos es escasa y solo se paga con efectivo o amex.Vamos a volver seguro; un lugar recomendable"
+    }, 
+    {
+      "date": "27 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "SUSHI1975", 
+      "text": "Increible el lugar, super comodo y muy calido. La atencion es excelente y los platos abundantes, mi novio comio matambre a la piza con papas a la espa\u00f1ola y era abundante y muy rico!!!!. Comimos en la terraza y es espectacular!!!!! los precios normales pero si comparamos con la porcion esta bien... Se lo estoy recomendando a todos mis amigos y volvere muy pronto..."
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lucasyaca", 
+      "text": "Muy lindo lugar! parrilla familiar con terraza fashion, los mozos colgados pero muy buena onda y predispuestos, se ve que el lugar esta empezando. La tabla de achuras muy buena y abundante, la provoleta 10 puntos y el bife de chorizo de calidad. Todo muy bien presentado en hierro que mantiene el calor. La carta de vinos es de mi gusto, quiza falta algun vino un poco mas economico. Caro para mi opinion de lo que una parrilla es pero definitivamente recomendable"
+    }, 
+    {
+      "date": "19 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dbors86", 
+      "text": "muy buen lugar para ir a cenar en pareja o con amigos! tiene una terraza super linda para los dias calurosos!! los platos son muy ricos y abundantes!! muy recomendable el mix de achuras tal como lo dice la carta es para compratir!!y el postre tambien! volveremos!!!"
+    }, 
+    {
+      "date": "2 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "moniju", 
+      "text": "recomendable por la atencion y la comida todo inmejorable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariela84", 
+      "text": "Fuimos para el d\u00eda del padre. Comimos un bife de chorizo y lomo (entre 4). La carne es excelente y la entrada incluso mejor (las provoletas y papas fritas de la casa son fant\u00e1sticas). Ya es la cuarta vez que vamos y volveremos a ir."
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rbelmana", 
+      "text": "Exelente la verdad una atencion espectacular, una calidad en el servicio y la comida increibles, la verdad que es una de las mejores parillas que fui de la argentina, Recomendable."
+    }, 
+    {
+      "date": "23 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sumissreynoso", 
+      "text": "Fui a comer por la noche del jueves, estaba tranquilo, pasaron las 10 de  la noche y se lleno repentinamente los mozos actuaron bien, nos ofrecieron copa de champagne  apenas nos sentamos, la carne estaba tiernisima y con gran sabor acompa\u00f1ado de la entra\u00f1a pedimos papas fritas de la casa tmb muy recomendables, para finalizar la buena atencion de un mozo llamado walter nos recomendo un volcan, volveremos sin dudas!"
+    }, 
+    {
+      "date": "19 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fororacing", 
+      "text": "Fui un finde a la noche con 3 amigos. La atencion fue excelente, pedimos varias entradas (empanadas, provoleta, chorizo y morcilla) y para ser entradas comunes en cualquier parrilla me parecieron destacables. De plato principal, pedimos entra\u00f1a, bondiola y asado, vino todo en el punto que pedimos (buena carne) y en buen tiempo, las papas de guarnicion son excelentes. Un amigo pidio postre y yo cafe, entre eso y la cuenta se tomaron su tiempo pero sinceramente no nos molesto tanto. La experiencia en general fue excelente, muy recomendable y el precio es acorde a cualquier parrilla de buen nivel"
+    }, 
+    {
+      "date": "24 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablopalermo", 
+      "text": "Excelente lugar. Los mozos de primera, la terraza de diez. La comida muy buena. Lugar totalmente recomendable."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dexter_net", 
+      "text": "Excelente la comida y el servicio.Es una muy buena imitacion de La Cabrera pero con precios mas economicos, mejor servicio,no tan lleno de gente  y la opcion de comer en una terraza muy agradable.\r\nAplica el descuento de club La Nacion tambien.\r\nSuper recomendable mas que nada por la calidad de la comida."
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ADRIMALAMUD", 
+      "text": "Fuimos 3 de setiembre 2011.la comida es muy buena y la atencion tambien.\r\nimposible conversar por lo ruidoso del ambiente y los gritos de los comensales.\r\naconsejo sacar algunas mesa o revisar tema acustica.\r\nsalimos a comer postre y cafe a lugar mas tranquilo"
+    }, 
+    {
+      "date": "19 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sachi10bj", 
+      "text": "fui a comer el fin de semana, el viernes por la noche, estaba lleno a las 10 de la noche, todo completo, esperamos unos 10 min, con una copa de champagne que nos ofrecio la chica de la puerta, entramos eramos 2 parejas, comimos 1 ojo de mi hermano para compartir y la verdad estaba buenisimo, la carne tiernisima, los vinos buenos, pedimos un alamos pero hay variedad, nos atendio un mozo llamado raul que fue muy amable en todo, para finalizar la comida, comimos un volcan, estaba delicioso, fue recomendado por el mozo, vamos a volver con gusto, MUYY BUENA PARRILLA, de las mejores de palermo"
+    }, 
+    {
+      "date": "19 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "meszago", 
+      "text": "Un espectaculo la terraza..ideal para un lindo dia con solcito. Muy rica la carne y buena la atencion. Recomendable"
+    }, 
+    {
+      "date": "11 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tomi1", 
+      "text": "se come buenisimo y la terraza es espectacular"
+    }, 
+    {
+      "date": "25 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Julitar", 
+      "text": "Nos encanta este lugar, vamos seguido con mi marido y siempre nos atienden fant\u00e1stico. Cuando pedis parrilla te traen un plato con cazuelitas para acompa\u00f1ar, es riqu\u00edsimo! Y los mozos son super atentos."
+    }, 
+    {
+      "date": "25 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Claudio10", 
+      "text": "Un lugar para recomendar, excelente atencion, referido a la buena disposicion del personal,correcion y simpatia, la calidad de los platos es muy buena, la carne sale barbara en cuanto al punto y la abundancia. En general si se pide algo de entrada se puede compartir la porcion y quedar perfectamente satisfecho, en nuestro caso el gasto promedio fue de $ 80.- con una cerveza, gaseosas, y postrre compartido. En mi opinion si se quiere comer parrilla, a un precio accesible y con una excelente atencion es un lugar para tener en cuenta."
+    }, 
+    {
+      "date": "22 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mandarine", 
+      "text": "Un lugar muy lindo, la terraza es genial. Los platitos que te sirven son muy ricos. La comida me gust\u00f3 mucho. La atenci\u00f3n fue muy buena. Fui varias veces y seguir\u00e9 visit\u00e1ndolo."
+    }, 
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "JLCK", 
+      "text": "Fuimos por los comentarios de la GO y no nos desfraudo, el \"ojo de bife de mi hermano \" no solo es para compartir sino que es de una calidad la mercaderia pocas veces vista !!! La unica contra que el lugar tiene las mesas muy pegadas y es muy ruidoso, atencion esemerada. Volveremos sin dudas !! Aplausos para el asador.-"
+    }, 
+    {
+      "date": "15 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fjaitt", 
+      "text": "Muy linda parrilla en Palermo con pretensiones mas realistas que otras de la zona. Los mozos/due\u00f1os van de mesa en mesa sin dejar detalle sin atender. Porciones para compartir de muy buena calidad y en el punto pedido. Las cazuelas que vienen como guarnicion son un detalle muy logrado y son mas que suficiente para hacer la cena completa.\r\n\r\nFui 2 veces. La primera llegamos por comentarios de Guia Oleo y comimos en el salon. La segunda, reservamos en la terraza mesa para 6 y salio todo perfecto. El ambiente da mas para cena con familia/amigos que para algo romantico.\r\n\r\nDefinitivamente, volveremos"
+    }, 
+    {
+      "date": "13 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "anibalbox", 
+      "text": "Un lugar muy recomendable. Gastamos 360 entre 4 con dos botellas de vino, 4 gaseosas, una provoleta, unas achuras, una ensalada grande y un ojo de bife con papas espa\u00f1olas, panceta y huevos fritos en morron (increible!). Las porciones son abundantes y para compartir. La calidad es muy buena, el servicio muy atento y el ambiente normal, aunque hay una terraza que no fuimos a ver que sonaba muy atractiva. Definitivamente, un lugar muy recomendable, mas que nada para ir en grupo. Lo unico que nos parecio caro fueron las gaseosas y aguas y el servicio de mesa. Carta corta pero no es una desventaja"
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pory", 
+      "text": "Excelente lugar para comer Parrilla, todo muy rico desde las ensaladas hasta los cortes de carne. Platos Abundantes para compartir. Atencion muy atenta. Esperamos una 1/2 hora, y para compensar la espera nos recibieron con unas empanas exiquisitas.Verdaderamente recomendable. Volvemos pronto a seguir probando. Vayan no lo duden, no se van a arrepentir."
+    }, 
+    {
+      "date": "19 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "claracla", 
+      "text": "Quisimos ir a comer en la terraza pero la tormenta que se ven\u00eda no nos acompa\u00f1\u00f3 y tuvimos que comer abajo. La comida es MUY ABUNDANTE y muy buena. Siempre traen una bandeja con distintas ensaladas y pures. El mix de achuras es m\u00e1s que recomendable. La atenci\u00f3n del mozo fue muy buena. Nos hicieron un muy buen descuento, adem\u00e1s del que ten\u00edamos por CLubLN. Vamos a volver sin duda"
+    }, 
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "maet", 
+      "text": "El ojo de bife inmejorable, una de las mejores carnes que hemos comido en parrilas en los \u00faltimos tiempos, sirven unas cazuelitas para acompa\u00f1ar con cosas riqu\u00edsimas. Las porciones son para compartir. La terraza espectacular. Excelente y super recomendable, la comida y el servicio. Sin duda volveremos !!!!"
+    }, 
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "iemanja", 
+      "text": "Fui con mi novio por el aniversario. Nos gusta comer y especialmente asado. Elegimos muy bien. La carne me gust\u00f3 mucho (recomiendo la entra\u00f1a), la trajeron como quer\u00edamos. La provoleta y los chorizos muy buenos tambi\u00e9n. Buena comida, buen ambiente y mozos muy atentos, con buenas recomendaciones. Volveremos sin dudas."
+    }, 
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sibaritatrip", 
+      "text": "Realmente los comentarios le\u00eddos no fueron exagerados, la comida es excelente, de muy buena calidad, trajeron todo como lo pedimos. Un par de detalles a mejorar: la carta de vinos y las ensaladas no las sirven en bols. Es una muy buena opci\u00f3n, volveremos por la noche para conocer la terraza."
+    }, 
+    {
+      "date": "26 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "oktubrerojo", 
+      "text": "Carne, aderezos, salsas y panera excelentes. Papas fritas hechas en aceite nuevo (incre\u00edble)\r\nAmabilidad de los mozos aun con bastante gente y con extranjeros que no entend\u00edan nada. Muy recomendable"
+    }, 
+    {
+      "date": "25 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "tabri", 
+      "text": "Fuimos 5 personas,pedimos 2 tablas de achuras(sin palabras de lo ricas que estaban), 1/2 porci\u00f3n de entra\u00f1a y 1 de ojo de bife \"lo de mi hermano\" y realmente no pudimos terminar los platos.El postre lo pedimos de vicio...quiero destacar lo blando de la carne,buenos cortes y nada de grasa,adem\u00e1s el mozo te aconseja en todo momento para no pedir demasiado.\r\nSeguramente en breve volver\u00e9,es la mejor parrilla a la que fui \u00faltimamente."
+    }, 
+    {
+      "date": "24 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Patferdinand", 
+      "text": "El lugar es muy c\u00f3modo, bastante espacio entre mesas. Los mozos son muy amables. Pedimos de entrada la provoleta de la casa que ten\u00eda morr\u00f3n asado y panceta, muy rica. Tambi\u00e9n pedimos un mix de achuras que ten\u00eda ri\u00f1on, morcilla, chorizo y mollejas. Los platos vienen con 6 cazuelas riquisimas para acompa\u00f1ar, salsa criolla y chimichurri.\r\n El costillar estaba muy sabroso y de postre pedimos una ensalada de fruta con helado super fresca. Todas las porciones dan para compartir, muy abundantes. Muy recomendable. Con la cuenta te traen lemoncello!"
+    }, 
+    {
+      "date": "23 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Excelente parrilla, con platos abundantes y a  buenos precios.Adem\u00e1s del sal\u00f3n principal tiene una hermosa terraza. Pedimos Ojo de bife \"Lo de mi hermano\", que trae panceta, morrones asados con huevo y papas espa\u00f1olas; espectacular! Todos los platos vienen acompa\u00f1ados con una riqu\u00edsima variedad de cazuelas. Adem\u00e1s nos convidaron un chorizo (imperdible!) Para destacar la atenci\u00f3n del due\u00f1o, que en todo momento se esmer\u00f3 por hacernos sentir comod\u00edsimos, sin olvidarnos de Emanuel(quien nos cont\u00f3 que es \"comise\" y no mozo, pero es un capo) Como broche, lemoncello de cortes\u00eda,incomparable. Un 10!!"
+    }, 
+    {
+      "date": "16 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "e_vanesa", 
+      "text": "Muy buena la comida!! excelente la calidad, las achuras buen\u00edsimas y abundantes, y ni hablar del asado de primera calidad. Todo para compartir. Es cierto, las ensaladas en el plato se complican preparar. Buen\u00edsssssssssssimo lo que traen para acompa\u00f1ar, c\u00f3mo tapas, cambiar\u00eda los ajos por morrones asados. El pur\u00e9 era gusto a pur\u00e9 casero!! Todo muy bueno!! Vamos a volver!!"
+    }, 
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "wocky", 
+      "text": "Me sorprendi\u00f3 gratamente la calidad de la comida y la generosidad de las porciones. Una parrilla m\u00e1s que correcta, sin pretensiones, de las que deber\u00eda haber decenas en la ciudad y casi no se encuentran. La atenci\u00f3n fue sumamente amable y bastante r\u00e1pida, pero se los notaba superados por la cantidad de mesas... no lo recomendar\u00eda para ir con el tiempo demasiado justo."
+    }, 
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wajibo", 
+      "text": "Muy buena parrilla, platos abundantes, muy buen servicio. Fuimos un grupo de 14 personas y la pasamos b\u00e1rbaro.Comer en la terraza de noche le da un extra importante."
+    }, 
+    {
+      "date": "9 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MYP080907", 
+      "text": "Para destacar: 1) muy buena relacion precio/calidad (m\u00e1s considerando el 20% del Club LN); 2) la comida: exquisita, muy bien acompa\u00f1ada (abundante), buena variedad en la carta; 3) la terraza: el ambiente interno es algo ruidoso, pero cuentan con terraza que si bien no est\u00e1 muy bien ambientada es amplia y c\u00f3moda. El servicio es normal, algo desordenado, pero todos muy atentos. Volver\u00edamos..."
+    }, 
+    {
+      "date": "31 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Arasunita", 
+      "text": "Muy buena la comida! El lugar es lindo pero le faltaria un poco de onda, las terrazas no estaban habilitadas al mediod\u00eda pero tal vez era un poco tarde. Los cortes de carne son excelentes, y usamos unos descuentos con lo cual el precio fue muy muy bueno. Recomendable!"
+    }, 
+    {
+      "date": "20 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Mimicha", 
+      "text": "Fuimos cuatro mujeres. Como el interior era demasiado bullicioso nos ubicamos en la vereda. Pedimos entrada y principal para dos y todo fue muy abundante, excelente calidad y muy buen servicio.No comimos postre. Aprovechamos una promoci\u00f3n de un diario"
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianoa82", 
+      "text": "Muy buena parrilla, excelente atenci\u00f3n, muy buena carne. Las porciones son realmente \"para compartir\".\r\nLos mozos son muy amables, el lugar esta bien arreglado, la terraza es barbara para comerse una asadito a la noche.\r\nVolver\u00eda sin duda."
+    }, 
+    {
+      "date": "10 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "9mamut", 
+      "text": "Excelente tanto la comida, como la atenci\u00f3n y el ambiente.- Pese a que era el men\u00fa del mediod\u00eda las porciones enormes y la carne tiernita y a punto.- Las papas cortadas en cuartos, doraditas... Y la atenci\u00f3n y simpat\u00eda del personal digno de recordar.- Las opciones del men\u00fa para conformar a todos. Hace rato que no\r\n disfrutaba algo tan completo.-Gracias Hugo y dem\u00e1s integrantes !!!A pesar de la lluvia me hicieron ir con una sonrisa.-"
+    }, 
+    {
+      "date": "8 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Mushen", 
+      "text": "Comida de muy buena calidad y precios realistas. Al ppio tardaron en atenderme pero despu\u00e9s buen servicio."
+    }, 
+    {
+      "date": "7 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Eltenedor", 
+      "text": "Muy buena parrilla, la carne excelente, el servicio cordial, la ambientacion esta bien de ser posible y si el clima lo permite la terraza es muy linda! muy buena relacion precio calidad."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kevin0", 
+      "text": "Excelente. Fuimos con mi novia y ya nos predispusieron bien con la buena onda del que nos atendi\u00f3. Unos capos.Comimos una tira de asado que era un espect\u00e1culo. Una porci\u00f3n es para 2. Y unas batatas fritas de guarnici\u00f3n aunque ellos tambi\u00e9n te traten para probar una tabla con varias cositas para que pruebes! Tremendo.El lugar es grande, lindo y c\u00f3modo."
+    }, 
+    {
+      "date": "30 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "antom87", 
+      "text": "espectacular... exquisito todo, la carne se cortaba de mirarlo. muy buena onda el mozo que nos atendio, ademas q te dice si es mucho lo q pedis.. lo super recomiendo, ademas no es caro por la calidad que te dan, y los martes con el descuento de club la nacion es una ganga!!! hoy comimos 3 por $120 y estoy muy llena!!!"
+    }, 
+    {
+      "date": "23 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "adraugello", 
+      "text": "La verdad me sorprendio un lugar de tan buena calidad en el ingredientes de sus platos, que cuente con el servicio que cuenta. \r\nNo hay que perderse estar en la terraza desgustando los platos."
+    }, 
+    {
+      "date": "23 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fukerito", 
+      "text": "Fuimos porque compramos un voucher en una pagina de ofertas de moda. La atencion fue excelente, el mozo Emanuel fue muy simpatico y muy atento, nos recomendo lo que comimos y siempre nos avisaba si era para compartir o no lo que le preguntabamos.\r\nLa pamplona rellena de cerdo es excelente, es para 2 personas y viene acompa\u00f1ada de batatas fritas. Tambien pedimos 1/2 porcion de matambrito de cerdo que tambien estaba excelente.\r\nLamentablemente nos llenamos y no pudimos probar el Banana Split para compartir.\r\nExcelete atencion y calidad, por suerte tenemos mas voucher asi que vamos a volver!!!"
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GiSu", 
+      "text": "La predisposicion de los mozos, una maravilla... compensaba que el servicio era un poco lento, pero nos explicaron que hacia un mes recien abrian, asi que es comprensible. Muy buena onda y la comida de muy buena calidad!\r\nLo unico criticable, para mi, la carta de vinos: carisimos, y no habia opcion de pedir de alguna bodega un poco mas economica (aunque buena) como lo es Lopez. Tomamos cerveza finalmente, que estaba $25."
+    }, 
+    {
+      "date": "15 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LITUANA", 
+      "text": "La decoracion sensilla pero bien. La verdad excelente calidad de comida y servicio. Esperando la comida nos dieron una copa de espumante, pedimos de entrada una porcion de chorizo, despues de haberla terminado, nos trajieron mas, la carne estaba barbara,muy buenos los dos cortes que comimos te dan como unos platillos de guarnciones muy ricas sin cargo, y como  ultimo nos combidaron con un lemoncello, recomendable...volvere!!!"
+    }, 
+    {
+      "date": "12 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mar471", 
+      "text": "Muy buena la atenci\u00f3n y muy buena la calidad de la carne.  Volveremos."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "12 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "noelidm", 
+      "text": "Ubicado estrategicamente en el centro de Banfield, entre las calles Maipu y Alsina, contituye una buena opcion para disfrutar de una rica comida a cualquier hora. El trato de los empleados es bueno aunque no demasiado personalizado. Cuenta con una carta de comidas tradicionales que incluyen pizza, pastas, postres y cafeteria entre los platos mas solicitados. Las comidas no demasiado elaboradas, son servidas con rapides y a una buena temperatura. El lugar se encuentra en buen estado y limpio al igual que la cuberteria, manteleria y vajilla proporcionada, su decoracion es sobria, mas bien estandar, las sillas son comodas y las mesas de un tama\u00f1o adecuado. Algo negativo: los ba\u00f1os se encuentran ubicados en el primer piso por lo que se dificulta su accesibilidad. \r\nEn resumen, contituye un lugar adecuado para quienes viven por la zona tanto por su servicio, comida y ubicacion. Un buen lugar para visitar en cualquier momento del dia."
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Si bien es tipo Caf\u00e9 / Pizzer\u00eda, tienen sal\u00f3n comedor con una carta muy completa. La comida es buena, bien preparada, canasta de pan de pizza y manteca como atenci\u00f3n, bien atendido, lindo lugar y c\u00e9ntrico. Casi la \u00fanica opci\u00f3n en Banfield."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LucaDZ", 
+      "text": "He ido varias veces, y, como se ha dicho: a pesar de ser casi la unica opcion en Banfield, no por eso dejan de lado la calidad: Tanto la comida, como la atencion y el ambiente son muy buenos. Realmente se disfruta, a pesar de que la carta, amplia, no presenta ninguna alternativa demasiado novedosa."
+    }
+  ]
+}

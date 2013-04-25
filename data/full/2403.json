@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Excelente propuesta para el mediod\u00eda en el coraz\u00f3n de microcentro. Siempre ofrecen un par de men\u00fa ejecutivos, con platos abundantes y precios razonables."
+    }, 
+    {
+      "date": "21 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Morfety", 
+      "text": "Un muy lindo lugar para almorzar en microcentro, la comida es muy buena y cambia todos los dias."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dkalay", 
+      "text": "Un oasis en el microcentro para quien gusta de la cocina gourmet.\r\nDos men\u00faes distintos para elegir cada d\u00eda, por lo general ensaladas y alg\u00fan plato con carne. Suelo ir a encontrarme al mediod\u00eda con amigos a almorzar. Recomendable."
+    }
+  ]
+}

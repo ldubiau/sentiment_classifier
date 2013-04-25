@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "2 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "abcdgaitan", 
+      "text": "Lamentablemente rechaz\u00f3 mi invitado la comida porque encontr\u00f3 un cabello en su plato, y ni siquiera se molestaron en satisfacer el m\u00ednimo con alguna gentileza. Pues la persona no hizo ningun esc\u00e1ndalo pues hab\u00eda bastantes clientes, cosa que hubiera generado un problema de en ese momento. Ante el hecho suscitado \"NO LO RECOMIENDO PARA NADA\""
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "comen_sal", 
+      "text": "Prefiero cruzar la calle\r\nAmbiente chico, ruidoso y humo de fumadores en exceso\r\nLa parrilada con \"sabor a nada\" y cruda\r\nCreo que no tienen capacidad en la cocina para atender a la gente que pueden alojar\r\nLe hago la cruz a pesar que vivo a menos de 200 metros."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leito_2731", 
+      "text": "El lenguado a la mostaza y miel estaba muy bueno y bien acompa\u00f1ado con verduras salteadas. El sin ser un espect\u00e1culo estaba a punto. Lo \u00fanico que no me gust\u00f3 fue que el postre del men\u00fa nocturno lo sirvieron el potes de pl\u00e1stico. La atenci\u00f3n fue correcta en funci\u00f3n del lugar y lo que se paga."
+    }, 
+    {
+      "date": "7 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "H Daniel Otero", 
+      "text": "Una muy buena opciona en cuanto a comida y sobre todo a precios a la \"p\u00e9sima\" oferta que hay hoy en dia en la zona. Porciones de asado abundantes para compartir y la camarera muy sinceramente nos advirti\u00f3, por lo cual con una tira para dos alcanz\u00f3 perfectamente. Conviene no pedir la carne bien cocida, sale un poco arrebatada en las partes finas del corte. Excelente la morzilla. Papas fritas naturales (NO conjeladas)y buena ensalada de frutas naturales, no enlatada. Muy lindo lugar con ambiente de Bs As antiguo. Ba\u00f1os impecables por lo tanto estimo que la cocina debe ser igual.\r\nSeguro volver\u00e9."
+    }, 
+    {
+      "date": "19 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "A pesar de que es un poco ruidoso, me encanta el ambiente de este restaurante que conserva toda la calidez de la Buenos Aires de antes y el sabor de las t\u00edpicas comidas porte\u00f1as. Todo es casero y sencillo con promociones a un precio barat\u00edsmo."
+    }, 
+    {
+      "date": "19 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Valle", 
+      "text": "Fui varias veces, a cenar y a tomar caf\u00e9 a la tarde. \r\nMe encanta la ambientaci\u00f3n de caf\u00e9 t\u00edpico porte\u00f1o, lo \u00fanico es que el sector para no fumadores es peque\u00f1o y llega todo el humo del sector de fumadores. \r\nLa comida es simple, pero muy ricos todos los platos que hemos probado. La atenci\u00f3n es muy buena. Voy a seguir yendo."
+    }, 
+    {
+      "date": "8 May 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ratonmickey", 
+      "text": "El restaurante ofrece promos que incluyen la bebida y el postre. El ticket no desglosa los \u00edtems, por lo que parece cobrar $3 de cubiertos. La atenci\u00f3n es francamente mala, las camareras no levantan la vista para ver qui\u00e9n necesita algo, ni a\u00fan cuando se desea pagar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "frusciantemati", 
+      "text": "Excelente lugar, soy habitue del mismo hace ya 4 a\u00f1os, es muy comodo, muy confortante, excelente atencion de las meseras, muy educadas y atentas...reconmiendo siempre este lugar, por su variada en comidas y su calidez en atencion, a todos los que recomende que fueron varios, todos opinan lo mismo..."
+    }, 
+    {
+      "date": "13 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marluna", 
+      "text": "Excelente la comida y la atenci\u00f3n. Es un restaurante ubicado en Recoleta pero mantiene lo tradicional de los buenos bodegones."
+    }
+  ]
+}

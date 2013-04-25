@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "23 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "peladopepe", 
+      "text": "Fu\u00ed varias veces. Es tipo un bodeg\u00f3n pero con alguna aspiraci\u00f3. La comida es rica, sin pretensiones y abundante. Prob\u00e1 la milanesa y el matambrito de cerdo, se pueden compartir hasta entre 3 o 4 si hay chicos. La ambientaci\u00f3n no es linda, hay mucho ruido y los ba\u00f1os dejan bastante que desear. Si se comparten platos no resulta t\u00e1n caro aunque ultimamente aumentaron los precios y entre las gaseosas, que en el verano se repiten y alg\u00fan postre, la cuenta se eleva bastante para lo que es el lugar"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cloper", 
+      "text": "Hace 34 a\u00f1os que como ac\u00e1. Excelentes pizzas, pastas y milanesas napolitanas."
+    }
+  ]
+}

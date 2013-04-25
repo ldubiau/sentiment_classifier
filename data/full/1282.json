@@ -1,0 +1,408 @@
+{
+  "malos": [
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Trigolimpio", 
+      "text": "Fuimos un grupo de amigos/as a cenar un viernes y desde que llegamos tuvimos problemas con el servicio, todo lo que ibamos pidiendo nos resultaba incomible. Pasamos verguenza ajena.\r\nNada recomendable."
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lcastiglioni", 
+      "text": "La comida no se destaca, los platos son peque\u00f1os, el servicio demora mucho y las mozas son bastante antip\u00e1ticas. La relaci\u00f3n precio-calidad no es buena."
+    }, 
+    {
+      "date": "16 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "rximena", 
+      "text": "Mi madre pidio un sandwich de pastron y pepinos y llego a los 40 minutos sin papas fritas y mezclado con salchich\u00f3n primavera. El resto pidi\u00f3 caf\u00e9 con leche y estaba quemado. Las mozas tardaban en venir y nadie nos coment\u00f3 que la cocina estaba cerrada para hacer un sandwich!! Adem\u00e1s carisimo."
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ronoel", 
+      "text": "muy mala experiencia. invit\u00e9 a una de mis hijas y pidi\u00f3 \u00f1oquis con salsa blanca, le sirvieron los \u00f1oquis con salsa de camarones, no los comi\u00f3 pero igual los cobraron,la ensalada era un monton de hojas verdes con trozos de pollo enormes encima y un top de queso rallado muy fuerte. fui muchas veces a comer ac\u00e1 por ser vecina y siempre la comida fue buena, esta vez muy, muy mala"
+    }, 
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MCB77", 
+      "text": "Los tallarines eran ricos, pero decoraron el plato y como era bastante hondo los bordes no me permit\u00edan comer sin mancharme con la decoracion pegajosa. El lomito estaba seco, no nos avisaron que el pan era integral, las papas fritas recalentadas.  El pan que trajeron de entrada estaba quemado. No vuelvo mas."
+    }, 
+    {
+      "date": "22 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "PedroSM", 
+      "text": "El lugar esta muy bien ubicado a mitad de camino entre la estacion de subte y la de tren, es un lugar perfecto para encontrarse con alguien a tomar algo. Nada de comida, cara y mala."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tomasch", 
+      "text": "Muy buena atenci\u00f3n, ambiente y comida. La moza que nos atendi\u00f3 tenia muy buena onda. El pan es casero y es riqu\u00edsimo! La m\u00fasica de fondo es muy buena y la cheesecake de frambuesa exquisita. Lo recomiendo!"
+    }, 
+    {
+      "date": "25 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ale_Caso", 
+      "text": "La carta es acotada, pero tiene algunos higlights que la salvan. La calidad y el tama\u00f1o de los platos es muy buena. La atenci\u00f3n de sus meseras es de lo mejor. Los precios estan elevados en relaci\u00f3n al producto y el lugar. Buena opci\u00f3n para cenar tarde por la zona de Belgrano."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mariaeg", 
+      "text": "Vamos siempre! los tragos son buen\u00edsimos y tienen ricas cosas para picar, la atenci\u00f3n es muy buena!!!"
+    }, 
+    {
+      "date": "16 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Blin", 
+      "text": "Fui con mi novia a cenar. Parece buen lugar para ir a tomar un trago, pero no para cenar: muy poca variedad en la carta, platos algo pobres y te arrancan la cabeza. El ambiente con luz t\u00e9nue tipo pub est\u00e1 bueno."
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "chezz", 
+      "text": "Yo no tuve nunca problemas con la atenci\u00f3n del lugar. Va mucha gente que vive en la zona y los mozos/as ya te conocen si sos de ah\u00ed, a lo mejor es por eso la diferencia de esmero en la atenci\u00f3n. De todos modos, coincido que la comida es cara y no es nada del otro mundo, yo recomiendo salvame para tomar un cafe por la tarde o un trago antes de salir y si quieren, pueden picar algo que las picadas y entradas est\u00e1n bien."
+    }, 
+    {
+      "date": "25 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Andi86", 
+      "text": "Salvame es un lugar perfecto para un viernes a la noche, para tomar algo con amigas/os y escuchar un poco de m\u00fasica. Nunca fu\u00ed a almorzar ni a merendar, pero siempre hay gente. La atenci\u00f3n es un poco lenta pero no esta mal. Siempre com\u00ed algo por la madrugada, unas papas, bruschetas, riquisimas. Los tragos son muy ricos, sobre todo los que tienen helado o el Mojito. Los precios son normales. Lindo ambiente y buena ubicaci\u00f3n."
+    }, 
+    {
+      "date": "23 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ingmar", 
+      "text": "S\u00e1lvame Mar\u00eda no tiene un perfil definido, est\u00e1 entre caf\u00e9 y restaurante, como restaurante es bastante pobre. Ofrece en su carta platos r\u00e1pidos del estilo \"minuta\" a un precio elevado. \r\nSu ubicaci\u00f3n es privilegiada, el ambiente es agradable pero la m\u00fasica casi no permite hablar por su volumen. La atenci\u00f3n es r\u00e1pida pero desatenta. No es apto para ir en pareja, quiz\u00e1s con amigos para alg\u00fan trago antes de salir. Tiene mucho para mejorar."
+    }, 
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AlterEgos", 
+      "text": "El ambiente es muy bueno para un after office o dar por iniciado EL FIN DE SEMANA.\r\nHasta las 21 horas hay 2 x 1 en tragos y cervezas y la comida es ideal para hacer una previa.\r\nLa m\u00fasica es acorde al ambiente y la est\u00e9tica es muy agradable."
+    }, 
+    {
+      "date": "22 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "solilu", 
+      "text": "Linda musica y ambientacion agradable. El sitio es descontraido y calido, ideal para una salida en pareja, pero se sugiere para un cafe o un sandwich con cerveza. La atencion es algo lenta y los precios un tanto elevados."
+    }, 
+    {
+      "date": "27 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "La verdad que me sorprendi\u00f3 positivamente con la comida. Ped\u00ed unos raviolones con salsa de camarones que estuvo muy buena. Servicio muy bueno. En cuanto al ambiente, es muy ruidoso, se complica poder conversar. Buenos precios. Lo recomiendo."
+    }, 
+    {
+      "date": "6 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "simbolo2203", 
+      "text": "El ambiente perfecto para ir a tomarte una cerveza con unos amigos o simplemenet para tener una reunion si estas harto de cafecitos y te deseas relajar. No se esperen mucho con respecto a los platos, ya que hay pocos y no son nada del otro mundo. Lo que si hay es CERVEZA de todo tipo y  color... mi recomendacion es olvidarse del menu de comida y ver mas el menu de tragos mas el de sandwiches (Hay club sanwiches y hamburquezas) este ultimo es muy bueno y tiene precios adecuados."
+    }, 
+    {
+      "date": "14 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nano00", 
+      "text": "Una de las atenciones mas lentas de las que he sido v\u00edctima. El lugar es agradable. Los precios est\u00e1n claramente sobrevaluados. Muy ricas papas fritas."
+    }, 
+    {
+      "date": "16 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ferbat", 
+      "text": "Muy buenas hamburguesas, buena ambientaci\u00f3n, linda m\u00fasica, es m\u00e1s un bar que un restaurant, pero para hamburguesas est\u00e1 mas que bien, igual que para tragos, nachos, etc. Lindo lugar, muy ricas hamburguesas, buena onda en general. Recomendable."
+    }, 
+    {
+      "date": "11 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "herny79", 
+      "text": "El lugar es muy lindo, mucha onda y agradable. La musica, me durmi\u00f3 je, atenci\u00f3n buena y en donde la pifiaron a lo grande: la comida. 30$,  10 fetas entre fiambres y queso, el robo del siglo.\r\nSugerencia; revean los platos vs precio"
+    }, 
+    {
+      "date": "18 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "luna22", 
+      "text": "Lo malo: excesivamente caro para mi gusto, la relacion comida-precio no es buena. Lo bueno: muy buena musica y ambiente, relajado para ir con amigos. Fui hace mucho tiempo como dos a\u00f1os, m parecio caro. Volvi hace unos dias y no comi, solo tome un licuado de durazno que fue excelente!!"
+    }, 
+    {
+      "date": "20 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "vero_oleo", 
+      "text": "60 pesos por unas papas y dos fernets!!! Me espant\u00e9. Y el ambiente maso, oscurito y de chape, nada guau. No pienso volver!"
+    }, 
+    {
+      "date": "5 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fedecuco", 
+      "text": "Los Lunes el Happy Hour es a mitad de precio osea puedo tomar 1 cuba libre y pagar medio.\r\nMe pareci\u00f3 una buena idea y barato tambi\u00e9n."
+    }, 
+    {
+      "date": "11 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lastoflast", 
+      "text": "Lugar agradable, las tapas son buenas, el servicio diligente. la carta de vinos es pobre. Un punto en contra y recurrente en muchos lugares, Las papas fritas ( tan sencillitas de hacer) estaban marcadas y luego mal cocidas, incomibles. Por favor, compren papas Mc. Cain, cobren mas caro y no las marquen."
+    }, 
+    {
+      "date": "15 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Sirenita_1977", 
+      "text": "El lugar es agradable, con buen ambiente y buena atenci\u00f3n. Sin embargo, a la hora de cenar, tiene una carta acotada y con precios demasiado altos. Es una muy buena opci\u00f3n para un cafe con torta a la tarde o unos buenos tragos de noche."
+    }, 
+    {
+      "date": "18 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Veterano", 
+      "text": "Un lugar agradable para tomar algo con amigos. Buena m\u00fasica y buena atenci\u00f3n de las chicas. Buena variedad de cervezas."
+    }, 
+    {
+      "date": "30 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "alapomarola", 
+      "text": "El lugar es muy lindo. Ideal para tomar tragos puesto que los hacen y sirven muy bien. El que m\u00e1s me gusta es el mojito con hojas de menta. La atenci\u00f3n de las camareras es excelente con muy buena onda y la m\u00fasica es muy buena."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "DGT", 
+      "text": "S\u00f3lo recomendable para tomar un caf\u00e9 o un trago dado que el ambiente se presta por su decoraci\u00f3n. La comida deja que desear en cantidad y gusto. Lo m\u00e1s negativo del lugar, verificado ya en mis tres visitas anteriores, es la mala atenci\u00f3n de las mozas. No s\u00f3lo atienden mal sino que no conocen demasiado el men\u00fa. Tenga en cuenta que el men\u00fa es reducido y no se justifican los precios con lo recibido a cambio."
+    }, 
+    {
+      "date": "19 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "BruceYZuki", 
+      "text": "Con un men\u00fa muy acotado para la cena, este lugar es recomendable para una cerveza con amigos."
+    }, 
+    {
+      "date": "18 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "emilse", 
+      "text": "Ideal para tomar algo.\r\nEl White Russian es muy bueno y lo sirvieron con chocolate con almendras. \r\nMuy agradable ambiente, salvo las mesas ubicadas cerca de la puerta de la esquina."
+    }, 
+    {
+      "date": "10 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Muy linda ambientaci\u00f3n los tragos son exquisitos."
+    }, 
+    {
+      "date": "15 Ago 2003", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rotulau", 
+      "text": "Este lugar ofrece una muy buena opci\u00f3n para tomar algo en pareja.\r\nLa ambientaci\u00f3n es cl\u00e1sica y moderna a la vez.\r\nEn cuanto a las alternativas de gastronom\u00eda, hay algunas propuestas interesantes pero obviamente no es un restaurant y tampoco se le puede exigir demasiado.\r\nLas camareras son bastante amables."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "roloro", 
+      "text": "Prob\u00e9 el salm\u00f3n blanco con azafr\u00e1n y me encanto... espero volver. Recomiendo."
+    }, 
+    {
+      "date": "18 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "null", 
+      "text": "Respecto el comentario de abajo, el lugar no tiene ese sandwich en carta, tampoco trabaja con salchichon primavera. a que hora vinieron si pidieron cafe con leche? es un comentario raro. Una cosa es la critica que se acepta y se medita otra es cuando ya se puede publicar algo que no es real. gracias."
+    }, 
+    {
+      "date": "11 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "AmyLoo", 
+      "text": "fui con un amigo y una amiga.\r\nla atenci\u00f3n no es muy buena, no nos dimos cuenta y nos sacaron los platos antes de q terminaramos de comer. la caesar muy rica pero el pollo estaba muy seco. el camarero no nos dio mucha bola y tuvimos q ir hasta la barra para pedir tragos. simp\u00e1tico el barman.\r\nINCREIBLES los tragos q hacen. \r\nvolver\u00e9, pero despues de cenar y para tomar buenos tragos.\r\nhab\u00eda musica en vivo; un perro atr\u00e1s de otro."
+    }, 
+    {
+      "date": "22 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Antes de cenar lo elijo siempre por el impresionate tapeo que tiene, las brusquettas especialemente la de hongos y roquefort es excelente, lugar calido, buen ambiente, buena atencion, cumple con lo q se espera del lugar. Muy recomendable"
+    }, 
+    {
+      "date": "5 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "VUCA", 
+      "text": "EL TAPEO ES EXCELENTE, MUY VARIADO Y BIEN PREPARADO. TAMBIEN ES BUENISIMA LA BARRA. LA ATENCION ES BUENA Y EL AMBIENTE CALIDO. BUENA MUSICA Y A BUEN VOLUMEN."
+    }, 
+    {
+      "date": "18 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vale-ac", 
+      "text": "Un espacio \u00fanico, con excelente decoraci\u00f3n y platos originales muy bien servidos."
+    }, 
+    {
+      "date": "11 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dianasaa", 
+      "text": "Atenci\u00f3n excelente y algo muy util, la conexi\u00f3n inal\u00e1mbrica para la notebook es de calidad. Clima s\u00faper agradable."
+    }, 
+    {
+      "date": "2 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "brujitae", 
+      "text": "Gente muy copada, atenci\u00f3n excelente, muy interesante la barra."
+    }
+  ]
+}

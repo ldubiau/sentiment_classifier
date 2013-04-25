@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "1 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maxemm", 
+      "text": "fuimos a merendar nos parecio muy buena la atencion  , la calidad de los productos las tortas muy buenas muy recomendable"
+    }, 
+    {
+      "date": "21 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "paolaandrea", 
+      "text": "Es el happy hour, no fuimos a cenar aun, pero el ambiente es excelente, muy frances, la atencion muy buena y la carta de opciones si bien es limitada parece tentadora! Volveremos!"
+    }
+  ]
+}

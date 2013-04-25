@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "6 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "anamay", 
+      "text": "Buenos platos. No es barato. QUiz\u00e1s los precios son un poco altos para el lugar. Tienen promociones que no aplican para el delivery."
+    }, 
+    {
+      "date": "27 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ed\u00c3\u00ba", 
+      "text": "Habria que corregir el sistema de aspiraci\u00f3n de aire. Al salir la ropa lleva el olor interno del restaurante."
+    }, 
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Me gusta la variedad que tiene. NUNCA pense que haya una pizzeria que ofrezca sushi bueno, bien preparado y bien logrado. Lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "slemos1978", 
+      "text": "Fuimos el dia del amigo. Buena la opcion de tener sushi y pizza en el mismo lugar, ya que no todos comen sushi.\r\nMuy buena calidad, fresco.\r\nDeberian mejorar la extraccion xq te vas con olor, el resto hace que vuelva seguido"
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "flordalesio", 
+      "text": "Muy bueno el sushi, muy fresco todo, recomiendo el tex mex!!"
+    }
+  ]
+}

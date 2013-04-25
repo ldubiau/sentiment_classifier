@@ -1,0 +1,418 @@
+{
+  "malos": [
+    {
+      "date": "14 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "el baron de la cerve", 
+      "text": "La verdad que fui con muchas expectativas que minuto a minuto se fueron disolviendo... el ambiente es agradable , los mozos muy amables, los platos tardan una eternidad!! pedimos paella y parecia recalentada peor q la que viene en lata , ni siquiera quisimos pedir postre x las demoras, ademas de precios desorbitantes. no volveremos"
+    }, 
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "tomito1", 
+      "text": "Solo la ubicacion tiene bueno despues es un restaurant espa\u00f1ol mas sin nada que descolle"
+    }, 
+    {
+      "date": "12 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "VERDEAPLE", 
+      "text": "Pedimos jamon espa\u00f1ol y nos trajeron uno muyyy malo, cuando le preg al \"mozo\" nos dijo q era nacional.\r\neste lugar se cayo, la atencion del mozo malisima parecia q no estaba alli, redujeron personal pero lo unico q mantienen son los precios. no tomamos alcohol"
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Susuki", 
+      "text": "El ambiente y la atenci\u00f3n de los mozos es muy bueno. La comida tambi\u00e9n, yo no tuve suerte porque eleg\u00ed un plato con pollo que ten\u00eda presas llenas de piel y nervios. Los postres no son la especialidad, evidentemente. En mi charlotte el chocolate brillaba por su ausencia."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "alejandroestevez", 
+      "text": "El servicio es bueno, los mozos son atentos y se nota uqe saben. pero, ir a comer y estar 2hs sentado..me parecio mucho. Se demoraban demasiado en traer cada plato, y eso que el lugar no estaba ni a la mitad! \r\nY los platos, si bien muy ricos, tmb eran muy MUY pobres! comi entrada, pp y postre y sali con hambre. \r\nel precio.. es caro. por lo que pague ahi me daba una panzada en cualquier otro lado."
+    }, 
+    {
+      "date": "29 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marysabel65", 
+      "text": "Fuimos con un cupon de descuento, lo cual hizo doblemente atractivo el almuerzo.Por un lado el lugar,  la decoraci\u00f3n donde predomina el color rojo, la vista al dique, por otro la atenci\u00f3n profesional de los mozos, panera exquisita, rica comidad de calidad, y el precio abonado.\r\nLos boquerones a la provenzal estaban super buenos, lo mismo que los mariscos de los vermichelis que se deshacian en la boca.\r\nMesas separadas, se puede conversar sin gritar, buena calefacci\u00f3n, ba\u00f1os limpios,. Lugar recomendable"
+    }, 
+    {
+      "date": "3 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lorien", 
+      "text": "Fuimos con cup\u00f3n de descuento para conocer el lugar. No lo recomiendo porque no es nada del otro mundo, no nos llam\u00f3 la atenci\u00f3n. La comida de todos modos es rica, recomiendo el abadejo. Creo que hay mejores lugares para conocer, m\u00e1s a\u00fan en Puerto Madero. El mozo p\u00e9simo. No nos dej\u00f3 catar el vino, lo sirvi\u00f3 r\u00e1pido como agua, le dio vino a alguien sin preguntarle, nos ten\u00edamos que parar para buscar las botellas (las colocan en mesitas lejos de uno), era poco delicado para servir; todo con mala onda. Creo que es un lugar que no vale su precio, te atienden tipo bar y te cobran como lujo."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "barrigudito", 
+      "text": "Muy buena ambientaci\u00f3n y buen servicio. Para justificar los precios falta mejorar respecto a los platos. Uno paga una porci\u00f3n de queso y jam\u00f3n $140 y viene con 4 pedacitos de queso y algo de jam\u00f3n."
+    }, 
+    {
+      "date": "25 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eldoto", 
+      "text": "Un ambiente muy agrble con vista al r\u00edo.La comida es de muy buena calidad,pero los precios son excesivos.Fu\u00ed con un cup\u00f3n de big deal y la relaci\u00f3n precio-producto fue muy buena;de lo contrario es muy caro(pej:$20 el cubierto)."
+    }, 
+    {
+      "date": "20 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "FORTY", 
+      "text": "Fuimos con un cupon del 20% de Dto y sin vino salio $300.\r\nNada del otro mundo por el precio que se paga.\r\nLos calamares eran congelados y las papas algo duras."
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "javierht17", 
+      "text": "Fui con mi novia con un cupon de big deal, la verdad todo correcto, entrada, plato principal, y postre, el vino aceptable... lo unico en el aviso dice que atienden de lunes a lunes, cuando llame para resevar me dijeron que para los viernes o sabado tenia que reservar 20.30 hs, \r\nDespues todo bien teniendo en cuenta los precios del lugar, yo gaste $240 que hoy en dia no es mucho..."
+    }, 
+    {
+      "date": "11 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "tycho", 
+      "text": "Los platos son muy exiguos en relaci\u00f3n al precio (pagu\u00e9 mas de $300 el cubierto). Adem\u00e1s tuve que devolver el plato porque su cocci\u00f3n y temperatura no era adecuada.Un restaurante de cocina espa\u00f1ola, debe ofrecer porciones al menos l\u00f3gicas. El ambiente y la atenci\u00f3n son adecuados. Hab\u00eda muy poca gente para un s\u00e1bado. Quiz\u00e1 se explique por lo se\u00f1alado. Lo vinos tambi\u00e9n m\u00e1s que duplican su precio de viner\u00eda."
+    }, 
+    {
+      "date": "4 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Albertomar", 
+      "text": "La comida me gust\u00f3 aunque el tama\u00f1o de los platos me pareci\u00f3 muy acotado, la carta  de vinos amplia , pero en ambos casos de precios excesivos. El servicio fue bueno. El ambiente excelente salvo que los sanitarios no contaban con asiento/tabla en sus inodoros"
+    }, 
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sovtek", 
+      "text": "Una muy buena opci\u00f3n para degustar buena cocina espa\u00f1ola, pero por alg\u00fan extra\u00f1o motivo no tan difundido como otros. La ambientaci\u00f3n y la atenci\u00f3n son muy buenas, es un lugar m\u00e1s bien tradicional, para calidez e intimidad mejor buscar por otros lados... ac\u00e1 se viene a comer, y bien. Cualquier plato que se pida es gustoso y bien elaborado. Tienen en el men\u00fa algunas piedras angulares de la cocina hispana, como el jam\u00f3n pata negra, queso manchego, vinos de Rioja, entre otros. Por relaci\u00f3n calidad / precio, definitivamente un sitio para no perderse."
+    }, 
+    {
+      "date": "29 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "celeste_blanco", 
+      "text": "Muy bien ambientado. Atenci\u00f3n esmerada, buenos platos y abundantes. Recomendable el solomillo."
+    }, 
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Noelita14", 
+      "text": "La calidad gastron\u00f3mica y el servicio ofrecido es muy bueno, las veces que fui estuve muy conforme; sin embargo este a\u00f1o para una fecha especial, como lo es el D\u00eda del padre, (en comparaci\u00f3n con el a\u00f1o anterior) , no entregaron ninguna atenci\u00f3n a los agasajados, ya sea una simple botella de vino. El a\u00f1o anterior tambi\u00e9n fui con mi familia para la misma fecha y si le otorgaron a mi pap\u00e1 una atenci\u00f3n, que por m\u00ednima que sea logra que el nivel del servicio mejore. Evidentemente este a\u00f1o cambiaron de decisi\u00f3n y optaron por no obsequiar nada, aunque igualmente sigo sosteniendo que es un lugar recomendable para ir a degustar los ricos platos que ofrecen, acompa\u00f1ado por la buena calidad del servicio."
+    }, 
+    {
+      "date": "26 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "semas", 
+      "text": "Lugar agradable , sal\u00f3n grande que parece mas a\u00fan dada la poca cantidad de comensales; la comida es realmente buena sobre todo el jam\u00f3n y la tortilla espa\u00f1ola. la favada estuvo bien , pero quien conoce el plato y sus ingredientes aprecia que es un tanto escu\u00e1lida , muchas faves y poca morcilla , chorizo , oreja etc..Los que comieron fideu\u00e1 de tarragona y chuletas quedaron mas conformes. La atenci\u00f3n podr\u00eda ser mejor , es bastante distante , fr\u00eda y poco proclive a responder inquietudes . La natilla catalana estuvo bien.Me parece muy caro por lo que ofrece."
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Soliman", 
+      "text": "Es un pecado tener productos de excelente calidad y arruinarlos como lo hacen aqui. Champagne franc\u00e9s helado mas copa helada, puntos de cocci\u00f3n incorrectos son cosas que no pueden ocurrir en un restaurante con intenciones y precios de uno de primer nivel. Lo mismo ocurre con el servicio que presenta serias muestras de falta de profesionalismo."
+    }, 
+    {
+      "date": "25 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Cleanto", 
+      "text": "Restaurant con cero onda. Muy grande, siempre lucio semi vacio. La atencion es erratica. Los platos no resultan acordes con un precio excesivo. No recomendable. Solo para aficionados."
+    }, 
+    {
+      "date": "16 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "jabugo", 
+      "text": "muy buena comida espa\u00f1ola"
+    }, 
+    {
+      "date": "8 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "guscuisine", 
+      "text": "Muy buena calidad de la comida, la tortilla muy buena y en el punto justo. La paella recomendable, con bastantes bichos y el punto del arroz genial!!!!!"
+    }, 
+    {
+      "date": "5 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "SERGIOEME75", 
+      "text": "El ambiente es bueno, al igual que la atencion y la comida, pedimos de entrada unas torradas de jamon crudo, y una 1/2 tortilla espa\u00f1ola que estaba muy bien ( recomiendo ), luego yo pedi pez espada con salsa de ajies y papas espa\u00f1olas, un plato mas, nada especial. tambien ordenamos solomillo de ternera con salsa demiglace y papas espa\u00f1olas, que estuvo bien. y de postre volcan de chocolate para compartir y fue bueno,de bebida solo tomamos agua ya que despues tenia que manejar de regreso a mi casa. gastamos $ 207, comimos 2 y es un buen restaurante, pero creo que por ese dinero hay mejores."
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "corto", 
+      "text": "Un lugar para recomendar siempre vamos. excelente relacion calidad precio si queres buena ambentacion y servicio hay que pagarlo. los mozos rapidos y la comida muy buena. volveremos"
+    }, 
+    {
+      "date": "29 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "9453", 
+      "text": "La comida estaba muy buena y la atenci\u00f3n, razonable. Me pareci\u00f3 escaso el arroz con mariscos para dos, ya que el plato por persona no alcanzaba a estar completo. Por lo dem\u00e1s, bien y buena la relaci\u00f3n calidad-precio."
+    }, 
+    {
+      "date": "0 0000", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "_gns_", 
+      "text": "Destaco la tranquilidad del lugar para comer. Muy buena la atenci\u00f3n que es bastante dedicada.\nLas picadas que figuran como entradas sirven como plato principal. Son buenas y abundantes."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mr_olias", 
+      "text": "Excelente ! El mejor fiambre y una paella valenciana como nunca habia comido. Lo malo, lo realmente innecesario y deprimente, es que cobren tan caro los vinos. El dobre que en cualquier otro restaurant y el triple d elo que valen en los super. Obviamente no pretendo que cobren a valor de supermercado, pero tampoco que los remarquen tanto. Recomiendo que se pague un descorche y se lleve un vino comprado en tro lado. Se ahorraran sobre el total, no menos de 100. Lo demas, muy bueno."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pulpo", 
+      "text": "Ambiente y comida excelentes. El servicio es bueno pero algo \"acartonado\" Fuimos con un cup\u00f3n de descuento y cumplieron 100 por 100 lo prometido."
+    }, 
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luzy", 
+      "text": "Excelente todo! Fuimos con cup\u00f3n de descuento y nos atendieron muy bien. Los mozos son de oficio, atienden excelentemente. La comida, sublime. Todo estaba muy rico, incluso la panera q ten\u00eda variedad de panes. Los platos son un poco escuetos, pero como hicimos una cena de 3 pasos mas los panes, quedamos satisfechos. Un dato: la cerveza tirada era exquisita!"
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "oscaro946", 
+      "text": "Fuimos con cupon de descuento y no me gusto la diferencia q recibimos en la atencion y en el servicio, la calidad de los platos continua excelente, creo q no merecemos esta diferencia, dado q compre el cupon q ellos promocionan, es una lastima pues era cliente"
+    }, 
+    {
+      "date": "26 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Daniczuk", 
+      "text": "Fuimos con mi esposa a almorzar hoy, domingo al mediod\u00eda. Desde un principio la atenci\u00f3n fue excelente. La carta variada y para todos los gustos y capacidades de est\u00f3mago. El mozo, se conoc\u00eda todos los componentes del men\u00fa, un genio. Hasta me trajo un cuchillo m\u00e1s afilado \"porque los otros rasgan la carne\". Comimos Salmon Reias Baixas y Solomillo Madrid acompa\u00f1ado de Tortilla Espa\u00f1ola. No nos entr\u00f3 el postre, pedimos solo caf\u00e9. Lo \u00fanico criticable son los $20 p/persona que cobran por servicio de mesa, lo que incomoda a la hora de dejar la propina."
+    }, 
+    {
+      "date": "18 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Melimati", 
+      "text": "Todo excelente! Muy recomendable el salm\u00f3n r\u00edas baixas"
+    }, 
+    {
+      "date": "11 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Eush", 
+      "text": "Fui con mi novia 2 veces, Un lugar excelente. Inigualable. La atencion, la comida, el lugar es maravilloso. Lo recomiendo fuertemente.\r\nSe gasta 160 pesos por persona"
+    }, 
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Vivi-11", 
+      "text": "Fui hoy con mi marido, excelente la paella valenciana. Todos los platos de muy buena calidad. Mozos cordiales. Muy recomendable!"
+    }, 
+    {
+      "date": "18 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lu6dts", 
+      "text": "Muy a gusto.\r\nUn ambiente agradable, bien atendidos. Recomendable."
+    }, 
+    {
+      "date": "26 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Batyam", 
+      "text": "Insuperable,Un 10 la comida,el ambiente y la atencion del mozo.un deleite para los sentidos,\r\nSublime."
+    }, 
+    {
+      "date": "21 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gabo_Almafuerte", 
+      "text": "La fabada es simplemente espectacular aunque sea una entrada y no muy abundante.\r\nTodo es delicioso, el ambiente es muy bueno y tiene una linda vista al dique de puerto madero. Los mozos hay de todo, algunos simpaticos y otros bastantes reacios.\r\nPara volver solo para probar mas platos ibericos."
+    }, 
+    {
+      "date": "23 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chucho", 
+      "text": "EXELENTE, el pulpo rico y abundante,los fiambres de primera,el cordero muy correcto el postre modesto lo recomiendo"
+    }, 
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ale_arga2", 
+      "text": "La verdad, todo de primera: la comida, el servicio, el lugar... y lo que m\u00e1s me sorprendi\u00f3 fu\u00e9 que al momento de llegar la cuenta, no doli\u00f3 tanto como me imagin\u00e9. Otra a favor: tiene las mesas bastante separadas entre si. \r\nAltamente recomendable."
+    }, 
+    {
+      "date": "28 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "colo_28", 
+      "text": "Sin palabras, realmente qued\u00e9 encantada por el lugar, la ambientaci\u00f3n el servicio y la calidad de la comida. Sin bien no es un lugar barato, el precio lo vale por la excelente comida."
+    }, 
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jorge_vero", 
+      "text": "La verdad que se come muy bien, muy sabrozo( va con z ? )y la atencion es la adecuada para este tipo de restaurante, lo recomiendo"
+    }, 
+    {
+      "date": "8 Abr 2001", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nato2773", 
+      "text": "El ambiente es calido, muy bien iluminado, amplio, lujoso, el servicio es excelente, con gente capacitada, jamas dejando al cliente descuidado. Elegimos tabla de fiambres y quesos que no defraudo y que fue abundante para dos, el postre Tiramisu, exquisito y muy bien presentado, un lugar muy recomendable, fue la primera vez y espero repetirla"
+    }
+  ]
+}

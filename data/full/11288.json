@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "7 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Demeter", 
+      "text": "Es cierto que es vegetariano, pero los \u00fanicos platos sin lacteos ni huevos son solo las ensaladas. Estaba todo muy descuidado y ruidoso. Fu\u00ed por recomendaci\u00f3n de gente conocida. No me gust\u00f3 para nada. Ni siquiera las ensaladas que com\u00ed estaban ricas. \r\nUna decepci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Alelanglois", 
+      "text": "muy buena comida vegetariana tipo china. No escatiman en la calidad de los ingredientes. Sirven palmitos, mango, shitake y cosas muy ricas. Sale 60 pesos el cubierto."
+    }
+  ]
+}

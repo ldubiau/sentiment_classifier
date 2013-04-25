@@ -1,0 +1,148 @@
+{
+  "malos": [
+    {
+      "date": "17 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "DeliveryMan", 
+      "text": "Son un desastre, pedis algo basico y tardan 2 horas y pico en traertelo, siempre. Encima si queres llamar para cancelar o preguntar ni siquiera atienden el telefono. Muchachos, o tomen mas gente o no tomen mas pedidos, pero asi no pueden trabajar.\r\nLa gente tiene 1 hora para almorzar, no 3."
+    }, 
+    {
+      "date": "15 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Sebastianms", 
+      "text": "La comida que te env\u00edan es lastimosa, a nosotros nos llegaron, en diferentes oportunidades, cosas quemadas o totalmente ba\u00f1adas en los condimentos que se abrieron por traerlos de manera incorrecta. Si reclam\u00e1s, te maltratan."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Currylover", 
+      "text": "Yo como en el \"Algo Positivo\" en Salta (Monserrat). Cuando se abri\u00f3 por primera vez se puede elegir cualquier ensalada y la porcions fueron buenas, pero todas las semanas se puso peor. Ahora los platos estan mitad y solo dan lechuga. no como ahi nunca mas."
+    }, 
+    {
+      "date": "16 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "amandac", 
+      "text": "Me encanta el lugar.  La comida es rica, saludable, y barata.  Las opciones del d\u00eda son varias.  El servicio muy rapido.  La \u00fanica cosa es que el local es muy peque\u00f1o sin asientos comodos.  Pero la mayoria de personas que vienen piden comida para llevar.  vuelvo!"
+    }, 
+    {
+      "date": "10 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Swildhoney", 
+      "text": "Excelente opcion para comer sano y natural.Muy buena la relacion entre precio y calidad."
+    }, 
+    {
+      "date": "27 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "drmaxi", 
+      "text": "la comida es muy rica y sana, una muy buena opci\u00f3n para almorzar en el trabajo. Ingredientes frescos y variados."
+    }, 
+    {
+      "date": "6 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tangonet", 
+      "text": "Pedimos a la oficina todos los dias por delivery, muy buenas porciones, excelente calidad del producto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "eugekinesis", 
+      "text": "Me comi un sandwich en pan de 7 granos con atun, huevo duro, apio, tomate, hojas verdes y mayonesa de albahaca que era EXCELENTE!!! Muchas opciones ricas y saludables."
+    }, 
+    {
+      "date": "12 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Moii", 
+      "text": "Riqu\u00edsimas las tartas y rolls, muy abundantes y frescas las ensaladas. Regio para el almuerzo de oficina o una comida a la noche tipo delivery."
+    }, 
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dmajlis", 
+      "text": "La ensalada Caesar y el wok de fideos son muy buenos!"
+    }, 
+    {
+      "date": "1 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PablitoCongreso", 
+      "text": "Muy buena la comida y calidad, bastante saludable y riquisimo todo lo que probe hasta ahora.\r\nAdemas la ensalada de frutas es lo mas, le ponen anana, melon, pera, poca manzana, como debe ser!!!\r\nSon buena onda tambien. Altamente recomendable.\r\nSaludos.-"
+    }, 
+    {
+      "date": "26 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pablodecongreso", 
+      "text": "Un imprescindible del barrio, muy buenos precios, buena materia prima y siempre novedoso. Siempre limpio y la atenci\u00f3n muy buena siempre."
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aleawruch", 
+      "text": "una opcion natural para el mediodia.muy buena presentacion. me gusto \"el sapito\".\r\nllegan a tiempo"
+    }, 
+    {
+      "date": "11 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "tute666", 
+      "text": "Menu variado, todo muy sano y muy rico.\r\nLos sandwiches son excelentes y livianos.\r\nExcelente alternativa para comer sano por la zona."
+    }
+  ]
+}

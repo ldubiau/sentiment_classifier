@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "1 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "paomuaa", 
+      "text": "Muy buen lugar!!!!"
+    }, 
+    {
+      "date": "16 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pipi35", 
+      "text": "muy bien ambientado, para conversar y tomar algo, muy lindo."
+    }, 
+    {
+      "date": "18 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lamana", 
+      "text": "Es un bar de buenos colores y ambientacion, musica agradable, servicio buenisimo y comida artesanal riquisima."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maruchita123", 
+      "text": "Muy buena la atencion.Muy calido el lugar, con musica muy agradable que permite charlar con amigos en la mesa. Precios muy economicos en una zona que se caracteriza por cobrar las cosas mucho m\u00e1s de lo que vale."
+    }, 
+    {
+      "date": "23 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "clarisav", 
+      "text": "muy buen lugar, lindo, buen ambiente, buena musica y excelente servicio y precio!"
+    }, 
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Flordemi", 
+      "text": "Fuimos para festejar cumplea\u00f1os, en dos oportunidades y realmente nos atendieron \\\"como en casa\\\". El servicio es barbaro, nos armaron un espacio solo para nosotros. El lugar es super tranquilo, la comida riquisima y muy accesibles los precios!Lo recomiendo!"
+    }
+  ]
+}

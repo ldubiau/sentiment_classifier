@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nino", 
+      "text": "Si le gusta la pizza elija otro lugar donde comerla!!!!\r\nUna prepizza y cara!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ichi2008", 
+      "text": "se come muy bien y la atencion es excelente"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gustave", 
+      "text": "Se come muy bien y el ambiente es muy familiar, en una esquina muy amena de Gaona. La atenci\u00f3n es fabulosa, que te atienda Rafael es como que te atienda tu viejo o tu t\u00edo favorito. Muy buenas las pastas. Con respecto al comentario de otro usuario, no lo comparto, el due\u00f1o Delmiro es una persona sumamente gentil y afable."
+    }, 
+    {
+      "date": "3 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "totonino", 
+      "text": "Muy buen lugar, se come muy bien y el servicio es muy bueno, solo le cambiaria la cara de orto al viejo que esta en la caja."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "1 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "torchman", 
+      "text": "Creo que deben mejorar la atenci\u00f3n de los mozos."
+    }, 
+    {
+      "date": "1 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "alp2252", 
+      "text": "Deber\u00eda mejorar la ambientaci\u00f3n, buscando mayor calidez."
+    }, 
+    {
+      "date": "30 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "diazgaba", 
+      "text": "Los que comieron pastas las elogiaron mucho. La entra\u00f1a estaba muy buena. \r\nBuena relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "30 Sep 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "coquito2010", 
+      "text": "La carne no estaba muy buena. Traen la carne cortada de una forma irreconocible y fr\u00eda. La atencion es avasallante, no te deja pensar. El postre (crocante de manzana con helado) estaba muy bueno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "silviaif", 
+      "text": "Buena vereda al aire libre, codialidad y una parrillada muy completa."
+    }
+  ]
+}

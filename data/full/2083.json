@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "8 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Masilvi", 
+      "text": "Almuerzo usualmente en Federico porque est\u00e1 cerca de mi trabajo. La atenci\u00f3n es muy amable, los precios adecuados -carta de vinos acotada pero con muy buen precio-, los platos abundantes y el plus de entrada con panes tibios y dip de queso saborizado es imposible de resistir. Recomiendo preguntar el men\u00fa del d\u00eda, y las sugerencias de las chicas sobre algunos platos. No falla."
+    }, 
+    {
+      "date": "7 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "detective", 
+      "text": "Fuimos ocho personas. Los platos son variados. Buena la atenci\u00f3n, (era mi\u00e9rcoles, hab\u00eda poca gente). Sushi bueno, gigot regular; la guarnicion estaba bien lograda; la carne era dura; el carr\u00e9 recocido y la salsa quemada (\u00bfpor qu\u00e9 no devolvimos el plato?). Las pechugas estaban aceptables; los que pidieron sushi repitieron. La carta de vinos es tradicional. Dudoso."
+    }, 
+    {
+      "date": "7 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tricci", 
+      "text": "Muy cl\u00e1sico y muy buena atenci\u00f3n del mozo. El servicio es r\u00e1pido y la comida abundante y buena."
+    }, 
+    {
+      "date": "29 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gruakayk", 
+      "text": "Lugar muy tranquilo, con excelente atenci\u00f3n. \r\nEl pescado estaba excelente pero en cuanto al tiramis\u00fa, he comido mejores. \r\nSe destaca en la relaci\u00f3n costo/beneficio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "roxan_1967", 
+      "text": "La atenci\u00f3n es muy buena, el sushi bueno, el postre podr\u00eda ser mejor. \r\nEl lugar est\u00e1 muy bien ambientado, s\u00f3lo debieran mejorar los ba\u00f1os."
+    }, 
+    {
+      "date": "13 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tomasitooh", 
+      "text": "Un lugar diferente en Avenida de Mayo, al ser el \u00fanico de la zona con sushi..atenci\u00f3n r\u00e1pida, comida abundate y sabrosa.."
+    }
+  ]
+}

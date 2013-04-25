@@ -1,0 +1,148 @@
+{
+  "malos": [
+    {
+      "date": "18 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "negritaval", 
+      "text": "Una burda copia de Romario, pesima atencion, tardan mucho en traerte lo que pedis, en resumen, una MALA copia de Romario, si queres ese estilo, anda a Romario que es un lugar altamente superior."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "edistefano", 
+      "text": "Me pareci\u00f3 buena la comida aunque no ped\u00ed pizza, el precio con los men\u00fa del mediod\u00eda tambi\u00e9n son razonables pero la atenci\u00f3n no fue buena, amable, pero lenta."
+    }, 
+    {
+      "date": "18 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AndruRM", 
+      "text": "Es un buen lugar para ir con amigos a tomar una cerveza y comer una pizza, o las papas Bakanos que son muy buenas. Buenos precios, un ambiente tranquilo, no deslumbra, pero si satisface. Una muy buena opcion quiz\u00e1s para un miercoles despu\u00e9s del trabajo."
+    }, 
+    {
+      "date": "17 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Sebastardo", 
+      "text": "Esta bien, pero la relacion precio-calidad no me convence, un poco caras las pizzas para lo que son"
+    }, 
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "siempreluna2008", 
+      "text": "La pizza excelente pero las mesas est\u00e1n encimadas y es muy peque\u00f1o. Realmente un delivery con aspiraciones a pizzer\u00eda. Ideal para adolescentes."
+    }, 
+    {
+      "date": "5 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fede83", 
+      "text": "El lugar es agradable sobre todo la terraza, la cual es excelente para sentarse en las noches de primavera o verano. Las pizzas pueden ser un poco caras pero son muy buenas y tienen gran variedad. En su mayoria todas cuestan masomenos lo mismo. La faina tambien es muy buena. En cuanto a la bebida pueden pedir cerveza de litro que viene bien fria. Lo recomiendo!!!"
+    }, 
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Chorchv", 
+      "text": "Buena calidad de su especialidad: pizza, calzone, empanadas. El lugar es ameno, para ir con amigos. Vale la pena probar."
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nefertiti", 
+      "text": "El servicio es rapido, la calidad de la comida es buena, se destaca por sus pizzas, es recomendable para ir con amigos, aunque yo fui en pareja y la pase muy bien. La atencion es muy buena y los precios son acordes a lo esperado para un resto-pub de Palermo.Un lugar ideal para comer antes de ir a bailar o realizar alguna otra actividad."
+    }, 
+    {
+      "date": "5 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marichis", 
+      "text": "el servicio es r\u00e1pido, la ambientaci\u00f3n invita a quedarse. Buena selecci\u00f3n dee pizzas y empanadas. Es una buena alternativa para salir comer pizza."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "patocriollo", 
+      "text": "Muy bueno, tiene toda la onda, ideal para ir con amigos (pocos) o en pareja, me encanto vuelvo."
+    }, 
+    {
+      "date": "30 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jpamarante", 
+      "text": "El lugar es chiquito pero tiene toda la onda, la m\u00fasica es tenue y agradable igual que la iluminaci\u00f3n. La atenci\u00f3n es esmerada y al ser chiquito se recomienda porque hasta se ve como meten la comida en el horno."
+    }, 
+    {
+      "date": "13 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ravomart", 
+      "text": "Se come muy bien, el precio es accesible y la atenci\u00f3n es espectacular."
+    }, 
+    {
+      "date": "9 Jul 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "losesnicer", 
+      "text": "La atenci\u00f3n es pobre, la comida tarda y el pan de pizza (lo m\u00e1s rico) se termina a las 13. Recomendable para comer bien y barato."
+    }, 
+    {
+      "date": "9 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cujo_ar", 
+      "text": "La empanada de pollo, un manjar. la de jam\u00f3n y anan\u00e1, muy buena. otras recomendaciones: pizza con panceta y la de jam\u00f3n y huevo. la de espinaca tambi\u00e9n es muy buena."
+    }
+  ]
+}

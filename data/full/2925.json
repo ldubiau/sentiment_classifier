@@ -1,0 +1,186 @@
+{
+  "buenos": [
+    {
+      "date": "16 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Inga", 
+      "text": "Estuvo todo muy lindo y la comida a punto, pero no es nada de otro mundo. Un lugar mas para ir a cenar, no me deslumbro."
+    }, 
+    {
+      "date": "21 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nomi", 
+      "text": "Un c\u00e1lido ambiente con buen servicio y buena comida, recomendable, volver\u00eda."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Grace58", 
+      "text": "Las  tapas llegan todas a temperatura natural, y las albondiguitas y los pinchos c/panceta deber\u00edan estar calientes. \r\nLas pastas deber\u00edan servirse con m\u00e1s temperatura. La cazuela de pollo estaba muy buena. Al caf\u00e9 tambi\u00e9n le falt\u00f3 temperatura. Todos son muy amables."
+    }, 
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Rauldi", 
+      "text": "La calidad de la comida no estuvo al nivel de lo esperado. Lo mismo pas\u00f3 con la ambientaci\u00f3n. Fuimos porque hab\u00eda buenos comentarios. Salimos defraudados. No volveremos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "PetitGourmand", 
+      "text": "Que lindo! Que lindo encontrar un restaurant para comer lindo y tranquilo y de verdad. Alejado de Las Lomitas para poder diferenciarse. Nos mimaron!"
+    }, 
+    {
+      "date": "16 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "firolo", 
+      "text": "Hacia un tiempo que no iba y la verdad que me agradaron mucho las variedades fuera de carta que habia.  Imperdible el brownie de chocolate con mousse de maracuya."
+    }, 
+    {
+      "date": "17 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Negrita905", 
+      "text": "Excelente la comida y el servicio. Recomendable para quien desea una cena tranquila y agradable. \r\nVolver\u00e9."
+    }, 
+    {
+      "date": "13 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "UliCe", 
+      "text": "Excelente comida, un lugar fuera de lo com\u00fan y la atenci\u00f3n muy profesional. Un lugar para volver."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pablo01", 
+      "text": "todo excelente,muy buena la atencion y muy original y divertida la idea de los magos para los lapsos de espera en un dia tan especial. Volvere"
+    }, 
+    {
+      "date": "25 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariela74", 
+      "text": "muy buena la atencion y dedicacion al cliente. y los platos son elaborados al instante, con un clima ideal para disfrutar de una cena tranquila. gracias!"
+    }, 
+    {
+      "date": "9 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mariamarta", 
+      "text": "Me gust\u00f3 mucho el lugar por la comida, el servicio y por la tranquilidad del lugar. Es ideal."
+    }, 
+    {
+      "date": "25 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "El_Negro", 
+      "text": "Me sorprendio la simpat\u00eda y la buena atenci\u00f3n de todos los camareros, una comida recomendable."
+    }, 
+    {
+      "date": "13 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ChaloRizx", 
+      "text": "La comida b\u00e1rbara, excelente el ambiente, tranquilo. Un lugar serio para tener en cuenta. Lo recomiendo."
+    }, 
+    {
+      "date": "6 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Constanza", 
+      "text": "La comida es excelente, acompa\u00f1ada de un ambiente en cuyas luces y musica ambientan a un lugar muy \u00edntimo, tranquilo como para desprenderse de los problemas y pasar un momento muy grato. \r\nRecomendado para ir con un acompa\u00f1ante. \r\nEl servicio hace que uno sienta ganas de no irse del lugar."
+    }, 
+    {
+      "date": "3 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Soleudeca", 
+      "text": "Muy buen ambiente. Una calidad de comida muy superior a la mayor\u00eda de los locales de la zona."
+    }, 
+    {
+      "date": "30 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "firolo", 
+      "text": "La comida estuvo b\u00e1rbara y el tiramis\u00fa glorioso. El caf\u00e9 es buen\u00edsimo, pero creo que podr\u00edan servirlo un poco m\u00e1s caliente. Un lugar tranquilo y recomendable."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Bauti", 
+      "text": "Un excelente ambiente, tranquilo y lejos del ruido. La comida muy buena.\r\nPara mejorar, mi compa\u00f1era se puso un saco adentro, ya que estaba un poco fr\u00edo."
+    }, 
+    {
+      "date": "20 Dic 2000", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aschiavi", 
+      "text": "En un ambiente agradable y con una atenci\u00f3n personalizada del chef, se trata de un restaurante muy recomendable para desestrezarse. Los platos son elaborados en el momento, por lo que vale la pena la espera y el precio es acorde a la calidad de la comida. Volveremos en m\u00e1s de una oportunidad!"
+    }
+  ]
+}

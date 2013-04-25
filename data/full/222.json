@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "13 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "flor_m8", 
+      "text": "Excelente lugar para pasar una noche divertida."
+    }, 
+    {
+      "date": "26 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sclrb197", 
+      "text": "Un clima ideal para los que deseen disfrutar, no s\u00f3lo de buenos tragos, sino tambi\u00e9n de un buen ambiente de diversi\u00f3n y respeto."
+    }, 
+    {
+      "date": "10 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "egcastello", 
+      "text": "S\u00faper divertido."
+    }, 
+    {
+      "date": "9 Jun 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "oxford", 
+      "text": "El ambiente y la decoraci\u00f3n excelentes. Lo mismo la m\u00fasica en vivo. El servicio y la comida de regular a malo."
+    }, 
+    {
+      "date": "14 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "yakzuby", 
+      "text": "Excelenet lugar para pasar una noche muy movida y divertida."
+    }, 
+    {
+      "date": "10 Oct 2004", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "artemisa1", 
+      "text": "La comida no es gran cosa pero pasa y la verdad qaue se pasa muy bien. La banda toca bueno."
+    }, 
+    {
+      "date": "12 Jun 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "stank", 
+      "text": "Muy recomendable para pasar una noche divertida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ice_mso", 
+      "text": "Lo mejor de la noche aparte de la comida es el DJ."
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ansylandia", 
+      "text": "Muy buen ambiente, realmente muy c\u00e1lido, te hacen sentir como en casa."
+    }, 
+    {
+      "date": "15 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "anaallpa", 
+      "text": "Muy buena m\u00fasica y excelente atencion."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "15 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Wartdog", 
+      "text": "El lugar es un boliche, no es un bar, la pizza libre es una galletita con algo de queso, y llega cuando quieren y fria, por lo general de muzzarella, los tragos son malisimos y caros, la musica ensordecedora. un desastre!"
+    }, 
+    {
+      "date": "4 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Fuimos tentados por la promocion de pizza libre y barra libre, un desastre. TERRIBLE LUGAR NO LO RECOMIENDO!!!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Oscar76", 
+      "text": "Elegimos el menu de pizza y barra libre y la pasamos de diez....ojo...no es un resto,es un irish bar con servicio libre(el mejor en bebidas libres de 1ra calidad...)la comida tardo un poco pero es razonable habiendo tanta gente.\r\nY lo mejor...nos invitaron al vip...y nos quedamos toda la noche...excelente toda la convinacion.Lo recomiendo."
+    }, 
+    {
+      "date": "15 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sughetti", 
+      "text": "Excelente ubicaci\u00f3n y el men\u00fa en tiempo y variados sabores. \r\nLa lista de tragos muy completa solo le faltaria agregar vinos a la cena. \r\nAtenci\u00f3n muy cordial y muy buena m\u00fasica."
+    }
+  ]
+}

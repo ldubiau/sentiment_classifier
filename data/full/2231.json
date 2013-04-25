@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "20 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Bluepoppy", 
+      "text": "Fuimos a almorzar, primero nos dieron la carta, al rato aparece el camarero diciendo que s\u00f3lo tablas o sandwiches (deber\u00edan haber avisado al llegar). \r\nNo ten\u00edan agua mineral fr\u00eda, el vino (rosado) tampoco ten\u00eda la temperatura adecuada. El camarero no ten\u00eda idea de nada. Gastamos mucho y tardamos dos horas en comer un sandwich cada uno. \r\nPara olvidar para siempre."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Comida buena que si bien no sobresale, cumple razonablemente.  Excelente carta de vinos y seleccion de vinos por copa."
+    }, 
+    {
+      "date": "17 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nardolepes", 
+      "text": "Los fiambres son muy buenos, un lugar muy recomendable para probar alguno vino y escuchar buena m\u00fasica...La atenci\u00f3n es realmente excelente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "BCGS", 
+      "text": "Una reducida pero bien armada carta, con platos pensados para diferenciarse de la rutina de comida diaria. Un s\u00f3tano bien decorado, luminoso y con un ambiente agradable."
+    }, 
+    {
+      "date": "11 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "faycla", 
+      "text": "Es un s\u00f3tano. Si se llena, puede ser un poco ruidoso, pero la comida es muy buena y la carta se renueva frecuentemente."
+    }
+  ]
+}

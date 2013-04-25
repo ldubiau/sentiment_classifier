@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "30 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Franquete", 
+      "text": "Es caro a comparaci\u00f3n de otros en el mercado, y la comida no es buena. Lo unico potable son los pescados de mostrador."
+    }, 
+    {
+      "date": "8 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mar471", 
+      "text": "Es un tenedor libre del mont\u00f3n, los hay mucho mejores.  Yo me serv\u00ed uno langostinos que estaban un poco dudosos.  No los com\u00ed.  La parrila no era gran cosa, la carne bastante dura, el cordero demasiado seco y eso que fuimos temprano.  La comida oriental buena y los postres, comunes un cualquier tenedor libre.  No es para volver"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nachos07", 
+      "text": "No es un lugar al que iria pero me invitaron para una celebracion. LA atencion es muy buena y la comida normal."
+    }, 
+    {
+      "date": "22 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Campa", 
+      "text": "Es un muy buen tenedor libre, vamos a volver, la calidad con relacion al precio es excelente. El mozo que nos toco muy atento. Precio de las bebidas, jugos, etc razonables tambien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pichimaluca", 
+      "text": "Muchas variedades de comidas para elegir y lindas decoraciones,muy comodo y limpio el ambiente, el mozo que nos toco muy simpatico, lo pasamos muy bien,vamos a volver"
+    }, 
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "weiky", 
+      "text": "es altamente recomendable para cumplea\u00f1os, para cenar con amigos, concurri al mismo  en varias ocaciones y su parrilla es increibleeee y bufet super variado y buena calidad. para todos los gustos. felicitaciones para delywok recoleta"
+    }, 
+    {
+      "date": "24 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Algo", 
+      "text": "Es un exelente tenedor libre y sirve para comer de todo sin tener que pagar de mas, incluyendo postres hechos en el momento y comidas orientales tambien hechas en el momento"
+    }
+  ]
+}

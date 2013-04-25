@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "9 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marmota", 
+      "text": "Muy buen lugar, la comida excelente preparada con dedicaci\u00f3n y detalle. La decoraci\u00f3n me pareci\u00f3 agradable. Al mediod\u00eda tienen men\u00faes bastante accesibles que incluyen plato principal, bebida y caf\u00e9 o postre. El \u00fanico detalle que nos decepcion\u00f3 un poco fue no encontrar en la carta platos t\u00edpicos jud\u00edos, pero de todos modos es recomendable."
+    }, 
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Piojos", 
+      "text": "Muy buena la comida, bastante sabrosa. El pure de papa sin grumos, 10 puntos. El salmon estaba bien cocido. La presentaci\u00f3n de la comida tambien era buena. El mozo siempre presente, se acercaba hasta cuando no lo llamabamos. El ambiente esta un poco nulo, le faltar\u00eda colgar algunos cuadros, pero la iluminaci\u00f3n era perfecta para comer. Los platos eran abundantes. Quedamos satisfechos."
+    }, 
+    {
+      "date": "14 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "yayi", 
+      "text": "la comida me parecio buena, pero nada extraordinario. El servicio muy amigable, pero los platos tardaron mucho. En general me parecio un buen restaurante kosher, aunque podrian mejorar la decoracion, que es bastante neta. \r\nRecomiendo el revuelto gramajo!"
+    }, 
+    {
+      "date": "20 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "PeCo", 
+      "text": "Caro. Pens\u00e9 que iba a comer mucho mejor. Encima, estuvimos mal atendidos. No vuelvo."
+    }, 
+    {
+      "date": "20 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mito", 
+      "text": "La comida rica. Hay que ir con paciencia porque tarda su tiempo. Bastante caro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "spiderman", 
+      "text": "Felicito a la gente que lleva adelnate este excelente sitio por que me setin realmente muy comodo y la comida es para recomendar."
+    }, 
+    {
+      "date": "29 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "peladen2", 
+      "text": "Muy buena atenci\u00f3n, muy rica la comida."
+    }, 
+    {
+      "date": "16 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ddimonte", 
+      "text": "Lo mejor que he probado de comida tradicional preparado al estilo kosher."
+    }
+  ]
+}

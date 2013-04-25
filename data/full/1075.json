@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "13 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "acdisi", 
+      "text": "Buena comida, un poco caro, buen espacio entre las mesas."
+    }, 
+    {
+      "date": "21 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Angello", 
+      "text": "La comida es muy sabrosa y las porciones abundantes. Sirven peque\u00f1as porciones a modo de entrada, tambien de calidad. El servicio es destacado y el ambiente si bien es cuidado es algo anticuado. Es una buena opcion para almorzar en el microcentro. Para volver."
+    }
+  ]
+}

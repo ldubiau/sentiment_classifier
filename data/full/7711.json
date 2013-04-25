@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "25 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Juancentro", 
+      "text": "Pedimos delivery de pizza, lo cual puede haber impacatado un poco en el sabor. Pedimos muzza, provolone, napo y fugazzeta. Lo unico aceptable era la fugazzeta, el resto era mediocre, y caro para la calidad. No repetiremos. Rescato que el delivery fue rapido"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "jlhrod", 
+      "text": "La mejor pizza de Buenos Aires. Las empanadas tambi\u00e9n son excelentes. Lastima que  no hacen m\u00e1s la de humita con dos tapas de empanada."
+    }, 
+    {
+      "date": "7 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "icknaz", 
+      "text": "Pizzer\u00eda de San Telmo que est\u00e1 desde que me acuerdo, que es desde que voy y pido a domicilio. A lo largo de casi cuatro d\u00e9cadas que soy cliente, la calidad de la pizza de mozzarella y salsa de tomates baj\u00f3 muy poco, pero la de verduras y salsa blanca, fain\u00e1, fugazzeta rellena y la mayor\u00eda de ellas son exquisitas.\r\nHabitualmente vamos de tarde, tipo seis, llevamos un par porciones de la de verdura o de fugazzeta y la comemos sentados en las mesasa de ajedrez del anfiteatro del parque Lezama con alguna cerveza. Si te gustan ese tipo de rituales, te recomiendo \"El Parque\"."
+    }, 
+    {
+      "date": "30 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Nass", 
+      "text": "Pizzer\u00eda t\u00edpica de Buenos Aires. Mozos a la vieja usanza que cumplen con la atenci\u00f3n en un ambiente algo ruidoso, pero que permite lo que se busca. Amigos, fugazzeta, calabresa y provolone; unas cervezas y a disfrutar del lugar.\r\nUna buena opci\u00f3n si anda por la zona para deleitarse incluso con porciones individuales. Y sino anda por la zona, tambi\u00e9n."
+    }, 
+    {
+      "date": "22 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leansoli", 
+      "text": "A mi me gusta mucho esa pizzeria porque hacen la pizza al molde y no es tan grasosa/aceitosa como las del Cuartito o Las Cuartetas."
+    }
+  ]
+}

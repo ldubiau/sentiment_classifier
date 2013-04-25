@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "16 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "kikin", 
+      "text": "muy bueno todo la comida ,los tragos y la onda del lugar, la musica excelente volveremos"
+    }, 
+    {
+      "date": "23 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Ladydiana", 
+      "text": "Me encant\u00f3 el lugar y los due\u00f1os que cantaron con un conjunto Celta y se acercaban a la mesa para ver si estaba tod bien!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "taurina", 
+      "text": "Me gusto mucho la onda del lugar, muy recomendable!!"
+    }, 
+    {
+      "date": "24 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PiL75", 
+      "text": "Una de las mejores opciones de San Isidro para gente de 30 para arriba, excelente cocina, excelente m\u00fasica y excelente atenci\u00f3n. Muy recomendable."
+    }
+  ]
+}

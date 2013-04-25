@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "blinka", 
+      "text": "Antares es una cervecer\u00eda. Las papas antares son lo mejor que este restaurante puede ofrecer para acompa\u00f1ar las deliciosas cervezas, personalmente mis favoritas son la Honey, la Scotch y la Porter. He ido a cenar varias veces y me he llevado una gran desiluci\u00f3n al pedirme platos m\u00e1s elaborados y en ese sentido no lo recomiendo pero si quieren degustar cervezas acompa\u00f1arlas con pizza, picada o papas, es un buen lugar!. Con respecto al servicio, los viernes y s\u00e1bados est\u00e1 tan lleno de gente que despu\u00e9s de las 22 hs no hay mesas y las mozas tardan mucho en atender."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pablitolp", 
+      "text": "Muy buena atencion, si bien la carta no es variada tienen ricos platos, acordes para acompa\u00f1ar con la cerveza artesanal de ellos. Imperdibles las papas antares!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mijulianaperiodista", 
+      "text": "cerveza artesanal, much\u00edsimas variedades. Atenci\u00f3n a los happy hours! justo los domingos hay happy hour extendido en la barra hasta las 24hs y es un golazo. Acompa\u00c3\u00b1ar con papas antares."
+    }
+  ]
+}

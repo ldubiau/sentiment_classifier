@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "15 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "beremota", 
+      "text": "Fuimos hace algunos d\u00edas con mi novio. Un desastre. Ten\u00edamos pensado cenar ah\u00ed y para arrancar pedimos una picada para 2, el queso ten\u00eda gusto a heladera, las papas fritas eran dur\u00edsimas, y para completar la picada, entre medio de los man\u00edes encontramos una mascotita. Pat\u00e9tico. Obviamente nos fuimos para no volver nunca m\u00e1s. No los recomiendo, lo que debe ser esa cocina!!"
+    }, 
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lastoflast", 
+      "text": "El cheesebuerger era desastroso, carne casera diminuta, panceta fria y sin cocinar, cebolla mal cocida ( porque cocida ?) , queso totalmente  derretido, salsa blanca , mostaza y salsa barbecue y los panes helados y sin lechuga ni tomate. Las papas fritas marcadas mal, blandas y sin terminar de cocinar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bcasares", 
+      "text": "Todo lo que diga BBQ en realidad lo \u00fanico que trae es ketchup arriba. Antes sol\u00eda ir m\u00e1s seguido, claramente empeor\u00f3 notablemente la calidad en este \u00faltimo tiempo, lo mejorcito que tiene es el ambiente. Por el precio hay opciones mucho mejores."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "powerreinol", 
+      "text": "es un hermosos lugar. LA ATENCION ES EXCELENTE. la comida que se destaca es el pescado. hemos probado varias recetas de sALMON Y son exquisitas!!!\r\n\r\nno te cobran servicio de mesa ni cubierto"
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Lori_Mfdi", 
+      "text": "Me gusta mucho este lugar, la comida americana es la mejor de la zona de Quilmes. Las papas curl con cheddar son lo m\u00e1s de lo m\u00e1s y los bastones de muzzarela lo mismo!"
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "malos": [
+    {
+      "date": "17 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "bleublancrouge", 
+      "text": "Comida mal\u00edsima en un lugar muy lindo. Com\u00ed varias veces antes y era pasable, ahora es imposible. No vuelvo."
+    }, 
+    {
+      "date": "19 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "nvirginiar", 
+      "text": "La comida no es tal como la presentan el menu, mi ensalada traia ademas higos que no me gustan y no los mencionan en la carta, el arroz negro saladisimo, se sabe que la tinta de calamar es salada porque colocar tanta? Lo peor, los langostinos pasados de coccion, imperdonable. Los platos que pidio mi esposo, hasta ahi, cuando ven que un comensal no come ni la cuarta parte de un plato no se preguntan porque?  Si el cafe es Nespresso como dice el ticket porque no hacen elegir el sabor teniendo esa opcion, que uno la ve cuando se va?"
+    }, 
+    {
+      "date": "24 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "goosy", 
+      "text": "Fui a ver como habia quedado reciclado y me lleve una mala impresion. Apenas unos retoques y una carta escueta y repetitiva. Hay opciones mucho mas interesantes en cocina francesa en bs. as."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "15jungs", 
+      "text": "La ambientaci\u00f3n del Club Franc\u00e9s es impecable, al igual que la atenci\u00f3n. Es muy tranquilo, hasta silencioso y los mozos est\u00e1n en todo momento pendientes de los requerimientos del comensal. Sin embargo, la comida no cumpli\u00f3 con mis expectativas, pedimos un carpacho de at\u00fan rojo que vino algo congelado, el ceviche no era muy sabroso, el ragout de pato no ten\u00eda un buen punto (me animo a decir que no estaba sabroso); otros platos como el risotto negro o la cr\u00e8me br\u00fbl\u00e9e si resultaron mejor logrados."
+    }, 
+    {
+      "date": "20 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Poldis", 
+      "text": "Muy lindo lugar, con buena cocina francesa. Servicio correcto"
+    }, 
+    {
+      "date": "3 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Quilmes", 
+      "text": "Los platos principales y postres fueron muy buenos. Pescado, risotto, creme brulee, helados. La atenci\u00f3n del personal excelente. El ambiete, de lo mejor. Muy recomendable para un almuerzo apacible en un lugar agradable."
+    }, 
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Ebar", 
+      "text": "Aunque promete el ambiente, grande fue la desilusi\u00f3n gastron\u00f3mica de esta noche.  Las terrinas, es ?la terrina? y aunque de sabor agradable es propia de un bufet de desayuno de hotel m\u00e1s que del restaurante que pretenden ser.  Ped\u00ed el cordero, vino en exceso cocido, agravado por el hecho de haber aclarado el punto deseado al ser consultado. El postre estuvo muy bien. La nota de color fueron los mozos al celebrar nuestra partida a viva vos, estaban muy apurados aparentemente  y cuando se quejaron en nuestras narices por que la propina no llegaba al 10%.  Olvidable."
+    }, 
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "telramud", 
+      "text": "Inspiraci\u00f3n francesa con buenas intenciones y resultados desparejos. Degustaci\u00f3n de terrinas agradable, pero sobrevaluada. Merluza negra bien lograda. En cambio el cordero, pasado (pedido 'a point'); \u00bfolvidaron el tiempo de cocci\u00f3n extra necesario al agregar la persillade? Guarniciones intrascendentes y repetidas. Postres correctos. En fin: la cocina debe ajustarse. Ambiente se\u00f1orial; el petit hotel donde se ubica es una joya arquitect\u00f3nica y aporta un plus. Servicio de mesa cuidado. La atenci\u00f3n, en principio esmerada, se desluci\u00f3 por comentarios desubicados. Mala relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "alsara13", 
+      "text": "La comida es buena, pero est\u00e1 muy lejos de lo que pretenden; al menos esa es mi impresi\u00f3n. Ofrecen una cosa y presentan otra, me parece que juegan y especulan bastante con el conocimiento del cliente. Es un sitio chico, lo cual est\u00e1 bien, pero pretenden m\u00e1s de lo que son."
+    }, 
+    {
+      "date": "1 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Filipo", 
+      "text": "El ambiente es el de un hotel muy refinado, pero el restaurant no es muy grande, aunque con mesas espaciadas, no tendr\u00e1 mas de 12. El servicio excelente pero te traen un plato tras otro, como si apuraran a que te fueras o para que pidas todas las opciones(entrada, principal, postre y cafe) Apenas estuve menos de 2 horas. La comida es de calidad pero no el acompa\u00f1amiento en los platos principales. Pedi Merluza negra de porci\u00f3n razonable pero la acompa\u00f1aban 5 papas noiset y un par de hojas verdes, un insulto. Porciones de entrada y postre muy buenas. Carta de vinos Muy Buena. Espero les sirva."
+    }, 
+    {
+      "date": "21 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Elverde", 
+      "text": "Un lugar de estilo cl\u00e1sico, demasiado luminoso lo que quita intimidad para ir en pareja y las mesas son para dos o cuatro personas, es decir ni una cosa ni la otra. La atenci\u00f3n es es muy correcta y profesional y la comida bien preparada y servida. Es una alternativa como para conocer, aunque el precio es algo elevado."
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Mumurulu", 
+      "text": "Muy buena atenci\u00f3n. Ambiente relajado, tranquilo y muy elegante. Ideal para conversar. La comida result\u00f3 buena, salvo por una mancha: el risotto estaba un poco salado."
+    }, 
+    {
+      "date": "24 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Xabier", 
+      "text": "En un edificio magnifico mas afrancesado que frances, un ambiente distinguido y elegante ( los socios practican esgrima y juegan al bridge en salas contiguas ) es un lugar  perfecto para un tete a tete con tu pareja.\r\nComida delicada, el risotto mejor que he comido en BsAs, servicio atento y precio adecuado."
+    }, 
+    {
+      "date": "2 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "arturo", 
+      "text": "El lugar sigue siendo esplendido, muy se\u00f1orial, con mesas separadas. Lamentablemente se extra\u00f1a a su anterior concecionario.  La comida dista de ser francesa y de destacarse.  En resumen es un lindo lugar para comer normal."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "amendoim", 
+      "text": "Excelente atenci\u00f3n y ambiente. La comida deliciosa y el vino recomendado por el mozo fue muy adecuado en calidad y precio."
+    }, 
+    {
+      "date": "18 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Crispy73", 
+      "text": "Cambiaron nuevamente la carta y no me canso de ir para probar todos los platos, la sopa de cebolla y el solomillo de cerdo  est\u00e1n maravillosos. Hay un tibio de chocolate que me tienta pero lo dejo para la pr\u00f3xima!"
+    }, 
+    {
+      "date": "22 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marquitos70", 
+      "text": "Excelentisimo, el servicio impecable, muy atento, personal muy prolijo, buena presencia. La comida muy buena. Volvere y lo recomiendo"
+    }, 
+    {
+      "date": "1 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "druida12", 
+      "text": "Excelentisima gastronomia, impecable todo, Probamos de todo y realmente nos quedamos asombrados del nivel y calidad de los productos a cargo del chef Ramiro Martinez. El gerente o encargado del restaurant muy atento con nosotros y todas las mesas, excelente, profesionales que aman lo que hacen"
+    }, 
+    {
+      "date": "3 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Sage", 
+      "text": "Fuimos con una amiga ya que teniamos ganas de conocerlo. El p\u00fablico ronda los 50-60 a\u00f1os. El lugar, muy lindo, lujoso, de estilo. \r\nLa atenci\u00f3n muy buena. Lo mejor, los postres! Incre\u00edbles Precios elevad\u00edsimos. 2 platos, 2 postres y 2 bebidas $333, mas los $20 de la propina. Lo recomiendo para conocer, no por el precio."
+    }, 
+    {
+      "date": "16 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Caropina", 
+      "text": "Ped\u00ed tiradito de salm\u00f3n que es una entrada, pero que igual funciona como plato, me pareci\u00f3 muy rico, a pesar de que antes que la trajeran pensaba alusinar y bueno, me qued\u00e9 solo con el deseo. Todos estaban conformes con lo que hab\u00edan pedido. Los pancitos riqu\u00edsimos, el mozo atento aunque cuando pagamos se olvid\u00f3 de nosotros, no nos sirvi\u00f3 el vino y el agua que quedaban, hasta que se lo pedimos. La ambientaci\u00f3n  esta impecable porque es nueva, bastante iluminado, pero le falta un poco de onda."
+    }, 
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CarolitaO", 
+      "text": "Anoche tuve el placer de compartir una comida entre amigos en el restaurante del Club Franc\u00e9s, que estaba festejando la inauguraci\u00f3n del hotel boutique. No s\u00f3lo pudimos visitar las nuevas instalaciones (impecables) sino que disfrutamos de una comida de 4 pasos impecable. Excelente la cazuela de mejillones, el tiradito de salm\u00f3n y el pastel de cordero. La pasteler\u00eda, un lujo aparte. El costo por persona (con champagne inclu\u00eddo y bondadoso refill) $150. Voy a volver!"
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Crispy73", 
+      "text": "El men\u00fa del mediod\u00eda tiene excelentes opciones y un poco m\u00e1s light sin perder ese aire franc\u00e9s. Las porciones son abundantes y deliciosas. Ya soy un habitu\u00e9 y me encanta serlo!"
+    }, 
+    {
+      "date": "11 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "r.gold", 
+      "text": "la comida es exquisita. es francesa asi que no esperen porciones \"argentinas\".HEADel lugar es interesante y refinado y el servicio es atento y educado. saben lo que hacen.HEADpero el precio no lo vale. yo fui hace unos meses y era caro pero me fui contento por la calidad de la comida. volvi unos meses despues y el precio habia aumentado. mucho.HEADcuidado con eso pero si esta dispuesto a pagarlo, es un buen lugar para una cena especial."
+    }, 
+    {
+      "date": "5 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mlferrer", 
+      "text": "Es un lugar que te traslada al viejo continente.\r\nNo es un lugar de poca luz, pero su estilo y elegancia hacen que se convierta en una noche romantica, buena carta de vinos y amplia variedad, la comida es PERFECTA, la atenci\u00f3n EXCELENTE no te sofocan pero cuando necesitas algo tenes gente atendiente al instante. No es barato, pero lo vale. Para paladares exigentes y de categoria."
+    }, 
+    {
+      "date": "21 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gilgalad", 
+      "text": "Excelente lugar. Muy buena calidad de comida, excelentes productos (el at\u00fan rojo, la calidad del arroz y el tama\u00f1o y sabor de los langostinos eran increibles). El servicio es muy bueno, ni muy ausentes ni muy encima, el ambiente es cl\u00e1sico sin llegar a ser lujoso. \r\nMe hab\u00edan recomendado el lugar y pienso sinceramente que hoy en d\u00eda es una de las mejores opciones para comer en Buenos Aires. Esperemos que mantengan la calidad."
+    }, 
+    {
+      "date": "21 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Navarrita", 
+      "text": "Esta totalmente renovado. La calidad de la comida es buenisima y la atencion impecable. Vale la pena concurrir, creo que se va a trasnformar en uno de loa mejores."
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tolkin", 
+      "text": "Eramos un grupo de 6 personas. Comimos 5 entradas, 5 platos principales, 3 postres y 2 botellas de Trumpeter. Todo lo que pedimos estaba excelente. La cuenta fue de $960 (160 por persona). De destacar sobre todo el lugar y la atenci\u00f3n."
+    }, 
+    {
+      "date": "25 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Bender", 
+      "text": "Un lugar diferente, tranquilio y distinguida ambientaci\u00f3n. Por ser un jueves, muy tranquilo, pero su cocina es de gran calidad. su Cheff Ejecutivo( Ramiro Martinez- uno de los mejores de Buenos Aires) nos brindo una degustaci\u00f3n de platos que nos hizo explotar el paladar a sabores. Para un tipo como yo, que le gusta las cantinas dond el comer el lo primordial, este lugar que apunta a otro segmento, logra el mismo cometido. La comida excelente!! (Ideal para una cena tranquila, de negocios o para charlar con alguna dama)."
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nosoyguonderguman", 
+      "text": "He tenido la suerte de ir varias veces al Club Frances desde su reapertura. Como nieta de franceses y conocedora de las comidas t\u00edpicas, debo decir que la carta me retrotrajo a mi ni\u00f1ez, y los sabores la superaron. La calidad de los ingredientes y la presentacion hicieron que cada plato fuera una verdadero placer, para todos los sentidos. Voy a volver una y mil veces para seguir probando los platos que me faltan. Imposible elegir uno favorito, desde los pancitos hasta los petit fours, todo en el Club Frances es impecable. (bonus track: las naranjitas confitadas)"
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cholis", 
+      "text": "Excelente el restaurant! Muy rica la comida, la atenci\u00f3n impecable y un ambiente muy agradable."
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JULIJU10", 
+      "text": "Yo he tenido la suerte de probar las dos etapas del Club. Hoy por hoy la comida es indiscutiblemente Francesa (Arturo). Evidentemente hay gente que escribe porque le dan el espacio. La atenci\u00f3n y preocupaci\u00f3n del consecionario por el cliente es excelente y la comida con una variedad exquisita, aloja alegria en los paladares. La carta de vinos esta hecha a medida, acompa\u00f1ando con categor\u00eda cada plato. Altamente recomendable! No me cansar\u00e9 de ir!"
+    }, 
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Somuchso", 
+      "text": "Desde su apertura, com\u00ed en el club Franc\u00e9s ya m\u00e1s de 10 veces, con lo cual he tenido sobradas ocasiones para probar muchos platos de la carta. \r\nEn cada ocasi\u00f3n el servicio fue impecable y la comida exquisita. El pan y los dulces que acompa\u00f1an el caf\u00e9 merecen una menci\u00f3n aparte."
+    }, 
+    {
+      "date": "13 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "amparoz", 
+      "text": "La comida es exquisita. Ramiro Martinez puede lucirse muy bien con los platos, rematandolos con una presentaci\u00f3n espectacular.\r\nEl servicio es excelente y la ambientaci\u00f3n muy buena. C\u00e1lida. Lo \u00fanico que modificar\u00eda es bajar un poco la luz del sal\u00f3n; la atenuar\u00eda.\r\nEl Patio DIVINO.\r\nMUY RECOMENDABLE."
+    }, 
+    {
+      "date": "13 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carito77", 
+      "text": "Fui varias veces al Club Frances desde su reapertura, y sin duda seguir\u00e9 yendo. El ambientes es precioso, muy bien logrado, y los salones son increibles. Da la sensacion de estar en un petite hotel en Francia. La comida es impecable, todo es sabroso, abundante y de excelente calidad. Desde los pancitos saborizados del principio hasta los gloriosos petit fours que sirven con el Nespresso. Muy recomendable. Para ir mil veces y probar toda la carta."
+    }, 
+    {
+      "date": "13 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "meks", 
+      "text": "El Club Franc\u00e9s se ha convertido r\u00e1pidamente en uno de mis restaurantes favoritos en Buenos Aires. La comida es deliciosa, la atenci\u00f3n esmerada, el ambiente cuidad\u00edsimo. Un lugar que nunca defrauda. Para ir y para llevar invitados, con la tranquilidad de siempre quedar bien."
+    }, 
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Crispy73", 
+      "text": "Excelente comida, ambiente y servicio. Excelente restauraci\u00f3n de las obras de arte y una esperada reapertura que supera las expectativas"
+    }, 
+    {
+      "date": "18 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CCarolita", 
+      "text": "El lugar recobr\u00f3 el esplendor que sus fundadores le auguraban, sin por eso dejar de lado el toque actual, tanto en el servicio como en los platos, de excelencia la cocina!\r\nAdem\u00e1s es vers\u00e1til: fui al bar a mantener una reuni\u00f3n de trabajo y tambi\u00e9n a un cumplea\u00f1os con amigos, en ambos casos, cumpli\u00f3 con todas las expectativas. Felicitaciones!"
+    }, 
+    {
+      "date": "28 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LaMagaFan", 
+      "text": "La decoraci\u00f3n y arquitectura del lugar, de la mano de un impecable servicio (de esos que no se ven a menudo donde los mozos se anticipan a tooodo) y como si esto fuera poco, la calidad de las exquisiteces que salen de la cocina, hacen que sea un lugar para ir reiteradas veces (cosa que estoy haciendo) y probar cada uno de los platos y postres y despu\u00e9s volver para repetir todo y los nuevos platos tambi\u00e9n! Muy recomendable."
+    }
+  ]
+}

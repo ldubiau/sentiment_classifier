@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "27 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Roxyp", 
+      "text": "El lugar es acogedor, la atenci\u00f3n fue realmente buena, muy cordial la persona encargada de nuestra mesa. La comida est\u00e1 bien, aunque hay algunos platos que podr\u00edan estar mejor logrados (el queso de la enchilada no era muy rico). El precio es l\u00f3gico y acorde al lugar. Una opci\u00f3n para comer mexicano en Pilar."
+    }, 
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "homerhv", 
+      "text": "La calidad de la comida es excelente, lo que no es tan as\u00ed es la cantidad. Un plato de tacos deber\u00eda ser para compartir por ese precio, y sin embargo es apenas para rascar el estomago. Por otro lado, es servicio por momentos es lento, se nota que tienen que aceitar algunas cuestiones de servicio. \r\nUna sugerencia adicional: que acepten tarjetas de cr\u00e9dito y d\u00e9bito."
+    }, 
+    {
+      "date": "1 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "edurisso", 
+      "text": "Si bien es de los misma gente de Margarita no es lo mismo, han buscado una variacion en las presentacion y variedad del menu que es muy interesante. que permite alternar entre Margarita y Adelita si cansarnos. Altamente recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gabeto", 
+      "text": "De los mismos due\u00f1os que Margarita, con la misma buena cocina y sensaci\u00f3n casera. \r\nPuede que esta \"sucursal\" si bien menos visible sea m\u00e1s acogedora que la otra."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rodcar", 
+      "text": "En realidad fuimos a la nueva sucursal que est\u00e1 frente al Sheraton, en Pilar y se llama Adelita, y es del mismo due\u00f1o. La comida, en su mayor\u00eda, es excelente y de sabor realmente mexicano. Algunos platos habr\u00eda que mejorarlos, pero realmente es buena y tambi\u00e9n las margaritas. El servicio es de primera, las mozas son muy simp\u00e1ticas, atentas y siempre est\u00e1n sonrientes. El ambiente tambi\u00e9n es bien mexicano, s\u00f3lo le faltar\u00eda subir un poco el volumen a la m\u00fasica. En un mes y medio ya hemos ido tres veces y seguiremos yendo. Es muy recomendable."
+    }
+  ]
+}

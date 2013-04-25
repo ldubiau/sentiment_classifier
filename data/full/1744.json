@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "17 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "carrocc", 
+      "text": "Extremadamente cara las bebidas... las comidas convienen los combos, porque tambi\u00e9n es caro"
+    }, 
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "e_vanesa", 
+      "text": "Muy buena la suprema! crocante y rica!!! \r\n\r\nLa pizza me pareci\u00f3 demasiado casera... esperaba algo mas elaborado."
+    }, 
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Elvasco", 
+      "text": "Es un lugar agradable a pesar de la ubicaci\u00f3n. Fui a comer varias veces al mediod\u00eda, de paso por la zona. Tienen un men\u00fa diario (Lunes a Viernes) muy econ\u00f3mico. Se puede elegir entre tres minutas o tres ensaladas, acompa\u00f1adas por postre y bebida. Las preparaciones son sabrosas y bien presentadas. La atenci\u00f3n es buena para ese tipo de locales."
+    }, 
+    {
+      "date": "20 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "FLOREG", 
+      "text": "Com\u00ed pizza por metro, nada del otro mundo, hasta mas fea que otras, los mosos masomenos, el lugar es lindo y tiene mucha vista a la calle, lo malo es que por la ubucaci\u00f3n (Nazca y Rivadavia) hay diferentes tipos de publico. Los otros platos no se como ser\u00e1n. Yo lo recomendaria para almuerzo o merienda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mcmaux", 
+      "text": "La pizza por metro es excelente,a los comedores de pizza les va a gustar\u00a1\u00a1\u00a1"
+    }, 
+    {
+      "date": "8 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mica_987", 
+      "text": "me encanta el lugar y ademas la atencion es muy buena.\r\nel ambiente de gente esta muy bueno y los mozos son de diez."
+    }
+  ]
+}

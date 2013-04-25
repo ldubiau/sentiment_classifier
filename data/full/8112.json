@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "danynadal", 
+      "text": "Si no es la mejor pizza de buenos aires,esta muy cerca,eso si, el lugar ,no acompa\u00f1a para nada,sombrio. triste y demas.Para comer de parado y marchar rapidamente,el sabos de la pizza canchera s unico.Aconsejable tipo aventura."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "rhr955", 
+      "text": "Pizzer\u00eda de aspecto siniestro, para comer una pizza de dorapa, sin fijarse demasiado en la cochambre de las paredes. Peor el producto es pese a todo bastante digno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "null", 
+      "text": "Hace"
+    }, 
+    {
+      "date": "30 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Brunor", 
+      "text": "La mejor pizza del universo, en la pizzer\u00eda de aspecto m\u00e1s l\u00fagubre que he conocido. Viv\u00ed a la vuelta durante 8 a\u00f1os y no recuerdo una sola vez en la que me defraudara. Es original, aut\u00e9ntica y tiene mucha historia. Es cierto que el barrio y el  local no ayudan, pero la pizza se hace con una receta que ha pasado ya varias generaciones, el horno es como los de antes y la pizza de cancha es inigualable. Lo recomiendo 100, pero solo a los audaces y bohemios."
+    }
+  ]
+}

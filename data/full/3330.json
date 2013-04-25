@@ -1,0 +1,618 @@
+{
+  "malos": [
+    {
+      "date": "7 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MAGO62", 
+      "text": "Regular el tartar estaba excesivamente tapado por alcaparras saladas y con mucho vinagre. el magrette no estuvo bien presentado ni sabroso. el servicio demoro mucho en traer la comida. los precios normales para el lugar. no volveria."
+    }, 
+    {
+      "date": "4 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Fripp", 
+      "text": "Cuando hice el comentario sobre \u00b4Sangr\u00eda\u00b4, coment\u00e9 que aqui se hallaba \u00b4El pulpo\u00b4. Ahora \u00b4Sangr\u00eda\u00b4 es \u00b4Bouchon\u00b4. Pasaron de las tapas a la comida francesa, aunque la dotaci\u00f3n parece ser la misma, solo con algunos cambios. Tal vez en tres meses tengamos un restaurante de comida sueca, ofrecida por el mismo maitre de voz engolada. Deber\u00eda bajar un tono. Los \u00f1oquis que com\u00ed no ten\u00edan gusto. Mucho tomatito cherry, mucho zuccihi, mucha aceituna, pero no sab\u00eda si estaba comiendo pastas o una ensalada. El bife vino con las mismas papas fritas que dan en las casas de comidas r\u00e1pidas. Olvidable."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "abcd", 
+      "text": "Bouchon me desilusiono. Anuncian en el menu la sopa de cebollas pero cuando uno la pide dicen que el criterio cambio: ahora solo hay sopa de cebolla para el menu. Es decir, que el anuncio es una estafa. a cambio dan una sopa de verduras lavada, obviamente mucho mas barata de elaborar. el pescado de mi companiero estaba pasado -algo frecuente en los restaurans argentinos- y sin condimento alguno. creo que bajaron la calidad de los productos para mantener los precios el maitre es la persona mas relajada que vi atendiendo un restaurante."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Francin", 
+      "text": "D\u00eda viernes por la noche estaba cerrado!!"
+    }, 
+    {
+      "date": "29 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lastoflast", 
+      "text": "La calidad de la comida es despareja. El ambiente y la atencion son buenos. Los precios estan altos , pero todos los restaurantes, ahora y salvo raras excepciones, estan sobrevaluados."
+    }, 
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mobilante", 
+      "text": "Voy bastante seguido a Bouchon. Tanto el servicio como la comida me est\u00e1n resultando desparejas. He comido un excelente estofado de carne un d\u00eda y otro ha resultado decididamente duro. A veces pareciera que los mozos no dan abasto y otras est\u00e1n pendientes de tus necesidades. Por ahora seguir\u00e9 volviendo, cada tanto, pero con menos entusismo"
+    }, 
+    {
+      "date": "11 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bocuse", 
+      "text": "Me hizo recordar la \"comida de abuela francesa\".- Platos abundantes,para compartir,razonablemente presentados,muy buena la cr\u00e9me brul\u00e9e.-Una muy buena opci\u00f3n para el medidod\u00eda en la city porte\u00f1a"
+    }, 
+    {
+      "date": "12 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mdurandcornejo", 
+      "text": "muy caro por la calidad de los platos, servicio regular. No repetir\u00e9"
+    }, 
+    {
+      "date": "21 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Robertakb", 
+      "text": "Fuimos sin conocer, el lugar est\u00e1 bien ambientado, excepto que no habia aire acondicionado, para una noche de 30\u00ba. Cuando llegamos nos invitaron con una copa de vino blanco con licor de cassis. La comida nos sorprendi\u00f3 por lo bueno y por lo fresco, tardaron algunos minutos en traer el plato, lo que demuestra que se hizo todo en el momento. Como compensacion, nos invitaron sin cargo una entrada, buen gesto. Para volver y recomendar a los amigos."
+    }, 
+    {
+      "date": "22 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lobuz", 
+      "text": "Exelentes los caracoles, el cerdo para recomendar, se deshac\u00eda con el tenedor, por suerte me lo hab\u00edan recomendado cuando estuve antes, porque lo que es hora no saben ni pronunciar los platos, y mucho menos que es lo que traen,nada que ver lo que era el servicio de hacedos meses atras a lo que es ahora, se puede decir que la persona que esta ahora a cargo no sabe nada de gastronomia, y mucho menos de como tratar a las personas."
+    }, 
+    {
+      "date": "14 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dague", 
+      "text": "Ya estuve comiendo en este restaurante en otras oaciones, y sinceramente la calidad del servicio cayo mucho desde que se fue Jorge, no es lo mismo, al lugar le falta la energia que \"el flaco\" le pon\u00eda"
+    }, 
+    {
+      "date": "23 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Vitto", 
+      "text": "Por su zona es de las pocas opciones que hay para cenar algo en un ambiente agradable. La calidad se mantiene constante, el sabor de los platos perdi\u00f3 algun punto y los precios han aumentado considerablemente (principales en la media de los 40 y los postres y las entradas en la de 25). La relacion sigue siendo buena pero extra\u00f1amente despareja, excelentes los mejillones, bueno el conejo y tristemente desabrido el beuf bourgignone. Coincido con la critica que la luminosidad del salon es exagerada, cuando abri\u00f3 era mucho mas oscuro y por ende mas ameno. Sigue valiendo la pena la visita."
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jijitus", 
+      "text": "Hace honor a su primo Petanque. Muy buena comida francesa y buen ambiente. Quizas demasiado iluminado. Atencion simpatica pero poco profesional. Muy recomendable."
+    }, 
+    {
+      "date": "27 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marianah", 
+      "text": "se come muy bien."
+    }, 
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jojo", 
+      "text": "sin dudarlo, es un lugar que se supera dia a dia. Fu\u00ed sorprendido por una fondeau de quesos al estilo suizo que me dejo con la boca habierta, habia estado hace unos meses atras a la noche y hab\u00eda poca gente, anoche volv\u00ed y el lugar estaba lleno, eso demuestra que la calidad de los productos es de primera, y la atenci\u00f3n no tiene igual. renovaron tambien la carta de vinos, sin dudarlo, voy a volver mas seguido"
+    }, 
+    {
+      "date": "27 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mercho", 
+      "text": "muy buenos sabores com\u00ed una sopa de cebolla muy buena y ri\u00f1oncitos de cordero mejores a\u00fan, no comprendo porque retacean el pan?"
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aniat", 
+      "text": "Sin ser una experta en la cocina francesa, de todas maneras puedo decir que com\u00ed bien y me sent\u00ed muy bien en este lugar. Volver\u00eda, sin dudas."
+    }, 
+    {
+      "date": "26 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nathali", 
+      "text": "Eramos cinco comensales y la comida de todos estaba muy rica, aunque la porci\u00f3n era justa con tendencia a poco, en los platos algunos ingredientes se notaban escasos.\r\nInteresante para volver a probar platos distintos pero caro para clase media."
+    }, 
+    {
+      "date": "15 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "anibalbox", 
+      "text": "EL lugar es lindo, algo diferente. La comida muy sabrosa, preparada en el momento (lo cual demora un poco, y se est\u00e1 medio justo con la hora de almuerzo) y las porciones son adecuadas. No me qued\u00e9 con hambre.\r\nLa atenci\u00f3n dej\u00f3 bastante que desear. Nos atendi\u00f3 una chica que si bien no demoraba en los pedidos, no fue muy amable, aunque explic\u00f3 muy bien en que consist\u00eda cada plato.\r\nEl due\u00f1o atento, pero lo malo fue cuando estabamos comiendo postre y nos \"ofreci\u00f3\" un caf\u00e9... Ninguna atenci\u00f3n!! Nos cobr\u00f3 los $5 de cada uno. La verdad muy mal el detalle. Hay tres men\u00faes de $23, $28 y $32. Volver\u00eda."
+    }, 
+    {
+      "date": "17 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "catiuska", 
+      "text": "Al igual que en La Petanque, no tiene vinos en botellas chicas (375/187) y para tomar x copas solo ofrece una opci\u00f3n que, para mi,  es mala: Apakama. No concuerda con la comida, que es muy buena en relacion al precio. El due\u00f1o me dijo que el no toma Apakama, que pidiera una botella buena de 750 ml !!!! No me explic\u00f3 por que no tiene vinos peque\u00f1os, para el caso de amigos que uno quiere blanco y otro tinto o al mediodia que no pedis una botella gde. Muy poco atento el due\u00f1o. La mayoria almorzaba con coca cola!!! Que pena!"
+    }, 
+    {
+      "date": "7 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dsdtio", 
+      "text": "Exelente, se nota que se superan dia a dia, las recomendaciones del mozo fueron muy acertadas al momento de elegir los platos"
+    }, 
+    {
+      "date": "7 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "maxi23", 
+      "text": "muy bueno, el microcentro porte\u00f1o vuelve a tener una oferta gastronomica, hace a\u00f1os que no venia por esta zona, soy cliente habitual de Petanque y me parece que esta opci\u00f3n supera a la de San Telmo. aca te atienden con una sonrrisa y ademas los mozos hablan no solo en espa\u00f1ol, sino que tambien manejan un ingles muy fluido, el lugar realmente es exelente"
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lidsutd", 
+      "text": "menu ejecutivo muy bueno, pero la comida tarda bastante"
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "iMari", 
+      "text": "El servicio fue muy bueno, por ser el dia de los enamorados las mesas tenian petalos y nos ofrecieron champagne. los mozos fueron muy serviciales. Lo que me parecio terrible fue que por ser 14/2 hubiera UN solo plato a $90, casi el doble de lo promocionado en esta pagina. A pesar de haber llamado y hecho reserva nadie nos aviso de este drastico cambio. Personalmente creo que por ser san valentin, hubiera sido mejor que ADEMAS del menu se agregue un plato especial por el dia pero no solo UN plato. Igual iria de vuelta otro dia donde no se festeje nada."
+    }, 
+    {
+      "date": "31 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ilznarf", 
+      "text": "Muy buena comida, buena carta variada, buen ambiente y excelente pan."
+    }, 
+    {
+      "date": "29 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "9453", 
+      "text": "Un restaurant franc\u00e9s con porciones \"normales\" ya es un logro importante. La comida es bastante buena y la atenci\u00f3n y precios acorde. Falt\u00f3 aire acondicionado adecuado para la temperatura ambiente."
+    }, 
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hfu", 
+      "text": "Me pareci\u00f2 la versi\u00f2n mejorada de Petanque.M\u00e0s amplio,menos ruidoso y CON AIRE ACONDICIONADO.(Imperdonable de Petanque).Excelentes las vieyras y la bondiola.Tarta tatin muy buena.Fuim os de noche.Poca gente, tranqui.Volvere."
+    }, 
+    {
+      "date": "27 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ugemitch", 
+      "text": "Muy rica comida, muy buena atencion."
+    }, 
+    {
+      "date": "25 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Brinaland", 
+      "text": "el lugar es muy bonito, le pondria luces m\u00e1s c\u00e1ndidas aun, el maitre es un showman que puede ser un poquitin molesto si los comensales son de perfil bajo, pero te vende hasta a su madre.te sirven una entradita de pancitos muy ricos con queso crema y ciboulette, muy agradable. el boeuf bourguignon con panceta y champignones esta muy bien preparado y es interminable. los vinos son algo caros para no estar fabricados y envasados en el mismo lugar, o por las marcas que manejan.una pena que no hagan fondue de queso."
+    }, 
+    {
+      "date": "21 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MartinMP", 
+      "text": "Excelente comida francesa, recomiendo a todos que quieran comer bien en un ambiente con gusto y sin sotisficaciones inutiles.."
+    }, 
+    {
+      "date": "28 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Poldis", 
+      "text": "Buena ambientacion, con mensajes de los clientes en las paredes. Faltaba un poco de aire acondicionado. Nos recibio un mozo de muy mala manera, pero luego nos atendio otro muy gentil. Tienen que depurar el servicio. Platos muy bien hechos y a buen precio."
+    }, 
+    {
+      "date": "28 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chanty", 
+      "text": "Fuimos anoche con el grupo L-Amicale Air France!\r\nNos encant\u00f3 la atenci\u00f3n, La teatralidad de la explicaci\u00f3n del menu del Mozo/actor,la idea de una cocina con una carta simple de los Bistro Franceses, es ideal como ubicaci\u00f3n y precios para los medios d\u00edas en la City."
+    }, 
+    {
+      "date": "19 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Estrellita2007", 
+      "text": "Comida muy buena, pero atencion desastroza. Los mozos estan muy dispersos y faltos de atencion. Si van al medio dia tienen que contar por lo menos con hora y media porque por mas que le pidas algo porque estas apurado no te lo traen. Hasta la cuenta tarda. No se c\u00f3mo ser\u00e1 a la noche... lo probar\u00e9 y despues les cuento. \r\nEl lugar es hermoso, la comida es muy buena pero hay que dejar de lado evaluar la atencion. Es una pena...podria ser mucho mejor.\r\nComo opcion el menu de dos pasos satisface y tambien tiene uno con tres pasos, depende de lo que se pida de plato principal. Lo recomiendo pero a dejar de lado la atencion."
+    }, 
+    {
+      "date": "26 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "thierry", 
+      "text": "Tomamos el men\u00fa ejecutivo completo y nos encant\u00f3, las porciones eran justo, pod\u00e9s tomar el servicio completo sin llenarte. La ambientaci\u00f3n es excelente y la comida es tal cual lo dijeron, t\u00edpica de la zona de Lyon, conservan la misma calidad que en la Brasserie Petanque; nos pareci\u00f3 un buen detalle que pusieran el soundtrack de Am\u00e9lie de fondo. Lo \u00fanico malo era el espacio entre las mesas, a veces corto y nos costaba entrar o salir de los asientos, sacando eso, excelente."
+    }, 
+    {
+      "date": "25 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mobilante", 
+      "text": "Suelo ir seguido al mediod\u00eda a comer el men\u00fa de tres pasos. Es muy buena comida y ya est\u00e1n llegando a ajustar los detalles flojos del comienzo. \r\nEspero que hagan un cambio estacional de la carta."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Karloncho", 
+      "text": "el ambiente es espectacular, aunque el men\u00fa es un poco \"standadar\" y se agota si se va un par de veces. la comida es muy rica."
+    }, 
+    {
+      "date": "2 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Kenny", 
+      "text": "Muy buena comida, recomendable las papas dauphine y el pastel de papa!! El due\u00f1o es el mismo de Brasserie Petanque, por lo que da una referencia de la calidad de la comida, eso s\u00ed el lugar no esta bien ambientado, as\u00ed que a no esperar un lindo lugar, en comparaci\u00f3n con petanque! Es una muy buena opci\u00f3n por donde esta ubicado."
+    }, 
+    {
+      "date": "27 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Amadeus", 
+      "text": "Comimos men\u00fa ejecutivo al mediod\u00eda. El lugar est\u00e1 muy bien ambientado, y los platos del men\u00fa eran bastante variados, de buena calidad, sabrosos y muy bien presentados. Una opci\u00f3n muy interesante para el mediod\u00eda."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "PabloBsAs", 
+      "text": "Muy buena opci\u00f3n para probar comida Francesa en la zona del microcentro. Por ser s\u00e1bado a la noche y la ubicaci\u00f3n muy tranquilo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "solcis1983", 
+      "text": "la atencion es genial, los chicos son excelentes, muy serviciales y siempre nos recomiendan lo mejor de la carta Y NO FALLAN.\r\nles recomiendo el lugar."
+    }, 
+    {
+      "date": "14 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "puccini", 
+      "text": "Ambos fondues excelentes.\r\nBuena ambientaci\u00f3n\r\nAtenci\u00f3n muy dedicada"
+    }, 
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "andyc", 
+      "text": "Es la 2da vez que vamos y el lugar no deja de sorprenderme. Muy buena la calidad de los productos. El servicio de mesa muy correcto.El queso camembert EXCELENTE!!!"
+    }, 
+    {
+      "date": "26 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "matmax", 
+      "text": "comida excelente en calidad y presentaci\u00f3n, tarda porque la hacen en el momento, muy buena atenci\u00f3n, ambiente c\u00e1lido y distendido, muchos turistas. Buena carta de vinos aunque todos grandes (y caros), algunas perlitas raras en la carta. Gastamos mucho dinero (5 personas, 85$ c/u) pero no nos dieron ninguna atenci\u00f3n de la casa (3 entradas,5 principales,3 postres,5 cafes,2 aguas,1 vino)"
+    }, 
+    {
+      "date": "29 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Andie", 
+      "text": "Excelente comida, servicio super profesional, merece mejor ambientaci\u00f3n que azulejos escritos por los comensales, algo m\u00e1s franc\u00e9s no le vendr\u00eda mal. Vale la comida, impecable, sabrosa, suficiente y memorable. Seremos clientes."
+    }, 
+    {
+      "date": "17 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ivordonez", 
+      "text": "de entrada comimos un combinado de pates y terrinas de una calidad excepcional.\r\nDe principal recomiendo no perderse el steak tartare (carne picada cruda, una especie de keppe crudo + mostaza en grano, una llema de huevo y tabasco).\r\nMis compa\u00f1eros de mesa pidieron medallon de cerdo agridulce (espectaculares las cebollitas caramelizadas) y boeuf bourguignon, que estaba en un punto es pectacular, la carne se le derret\u00eda a uno en la boca.\r\nLos vinos: Paris Goulart (un vino imperdible de la Brasserie tambien en este restaurant; honestamente no se en que otro se consigue) y un Apakama malbec - merlot de san juan, muy bueno."
+    }, 
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MJA", 
+      "text": "Es un lugar que hay que conocer. La comida es excelente, la atenci\u00f3n de primera pero informal, y tiene muy buena onda. Tiene una carta de vinos muy cuidada."
+    }, 
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maruca", 
+      "text": "Excelente la comida y el ambiente. Sin embargo, en ning\u00fan lugar de Buenos Aires ni del resto del mundo hemos recibido peor servicio. Los mozos se manejan como si odiaran a los comensales. Realmente p\u00e9sima atenci\u00f3n. Habr\u00eda que comprobar si a la noche ocurre lo mismo."
+    }, 
+    {
+      "date": "2 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sivas", 
+      "text": "Excelente opci\u00f3n en el barrio, r\u00e1pido, barato, riqu\u00edsimo, una especie de \"Brasserie Petanque express\", un poco ruidosa por su target estilo La Madeleine, superado por su gran precio/calidad, impecable si hac\u00e9s un early bird."
+    }, 
+    {
+      "date": "31 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MaX_5", 
+      "text": "La Atenci\u00f3n es la Mejor de Todo Buenos Aires...\r\nSaben como hacerte sentir a gusto. La comida es excelente y los precios justos. Sigan Asi."
+    }, 
+    {
+      "date": "29 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ellocojuan", 
+      "text": "La comida es excelente, me gusta mucho el lugar, buena onda. Adelante que la propuesta es excelente por la zona."
+    }, 
+    {
+      "date": "24 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Julsoa", 
+      "text": "Muy buena comida, para el que no conoce la cocina francesa me parece que es un muy buen lugar para probar. Uno se siente bien y a gusto. Lo recomiendo."
+    }, 
+    {
+      "date": "18 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mathilde", 
+      "text": "Me sent\u00ed como si estaria al sur de Francia con la misma hospitalidad y sin dejar el buen servicio y no entrando en lo protocolar."
+    }, 
+    {
+      "date": "16 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "josephpenula", 
+      "text": "El men\u00fa del mediod\u00eda es excelente y barato por la calidad, muy buen servicio y me gusta mucho el lugar, con las fotos de personajes de la cultura francesa."
+    }, 
+    {
+      "date": "13 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Hecate", 
+      "text": "Muy buena la comida, la presentacion de los platos y el servicio. Un lugar recomendable para comer bien y pasar un muy buen momento."
+    }, 
+    {
+      "date": "13 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bertol", 
+      "text": "Excelente! Platos deliciosos, abundantes y bien presentados. Muy rico con precios razonables. Vale la pena, lo recomandamos."
+    }, 
+    {
+      "date": "2 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jaques", 
+      "text": "Excelente lugar, la comida tipica de la zona de lyon en Francia. \r\nLa zona muy tranquila, excelente lugar para pasar un buen momento, muy recomendable."
+    }, 
+    {
+      "date": "1 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "findagem", 
+      "text": "Excelente nuevo lugar, muy bien ambientado, platos grandes y bien preparados. Cocina Frances autentica y simple. La atencion es de primera. Para ir seguido."
+    }, 
+    {
+      "date": "29 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jojo", 
+      "text": "No pueden dejar de probar el marquise de chocolate relleno con corazon de grosellas, el lugar es muy lindo y  bien ambientado, fu\u00ed un sabado y comimos excelente y el lugar era muy tranquilo y un excelente servicio."
+    }, 
+    {
+      "date": "29 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "santiague", 
+      "text": "Una muy buena opcion para ir a la noche y compartir un lugar perfectamente ambientado al estilo frances y con comidas tipicas de francia. Un lugar tranquilo con buena onda y una comida exelente, muy recomendado."
+    }, 
+    {
+      "date": "29 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "thewatch", 
+      "text": "Muy buen lugar, recomendable... aunque viernes a la ncohe tuvimos que esperar. Eso s\u00ed acompa\u00f1ados de una copa de kir...."
+    }, 
+    {
+      "date": "24 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Caus", 
+      "text": "el mejor pastel de papas que comi, un nuevo lugar que tiene muy buena onda..lo recomiendo"
+    }
+  ]
+}

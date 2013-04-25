@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "2 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Licha1", 
+      "text": "Muy bueno el ambiente, la comida no es nada del otro mundo. La atenci\u00f3n fue buena pero cuando fuimos hab\u00eda poca gente as\u00ed que habr\u00eda que ver cuanto tardan en atender en hora pico."
+    }, 
+    {
+      "date": "27 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mauroo", 
+      "text": "Buen lugar. Buen ambiente. El servicio es bueno pero les falta cierta capacitaci\u00f3n en cuanto a limpiar la mesa entre la comida y el caf\u00e9. B\u00e1sico.\r\nLa comida es buena, las empanadas las cocinan al momento de ser pedidas, como contrapartida llegan muy calientes a la mesa y hay que esperar a que se enfr\u00eden.\r\nExcelente relaci\u00f3n precio calidad para la zona."
+    }, 
+    {
+      "date": "1 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gerrusso", 
+      "text": "No suelo estar por la zona, encontre el lugar de casualidad.. al fin una pizzeria como las de antes!!!! pizza excelente!!!\r\nEl lugar esta muy bien puesto y ademas habia una pantalla gigante para ver el mundial. Es la primera vez que visito un local de esta cadena y me lleve una muy buena sorepresa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "David_10", 
+      "text": "Fuimos con mis compa\u00f1eros de trabajo en el horario del almuerzo.Algunos pedimos pizza y otros diferentes platos. Todo sali\u00f3 muy bueno, la comida excelente (no demoraron en absoluto) y la atenci\u00f3n excelente.Sin duda un muy buen lugar que sobresale en la zona de microcentro"
+    }
+  ]
+}

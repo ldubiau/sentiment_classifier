@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "12 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pregiato", 
+      "text": "el lugar me encanto...hay un clima muy agradable.lo mejor es que es atentido por sus due\u00f1os, eso me encanto..."
+    }, 
+    {
+      "date": "21 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "niana02", 
+      "text": "El chef es bueno a pesar de su corta edad. Sabe sacar los puntos ideales de las carnes y si el servicio se atrasa, sale el personalemente a servir y pedir disculpas. El servicio de los camareros es lento y depistado. El agua lleg\u00f3 despu\u00e9s de la entrada. El volc\u00e1n de chocolate el mejor que prob\u00e9 en un restaurant."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rasa", 
+      "text": "El lugar es sugerente, la atenci\u00f3n muy buena (Marcela de distingue por su simpatia) y la comida es excelente, tanto las carnes como los pescados. Es la segunda vez que voy y pienso volver"
+    }, 
+    {
+      "date": "21 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Vale la pena muy bueno"
+    }, 
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chuni28", 
+      "text": "el lugar esta muy bien ambientado, muy tranquilo, la atencion excelente, y la comida de lo mejor. Platos abundantes y deliciosos."
+    }
+  ]
+}

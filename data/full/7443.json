@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "12 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El ambiente y el servicio est\u00e1n ok para confiter\u00edas/ rest\u00f3 de este tipo pero la hamburguesa no me gust\u00f3 nada: parec\u00eda comida para perro y el tomate estaba verde. En fin: no me conform\u00f3 aunque solo intentaba salir del paso con un almuerzo r\u00e1pido"
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "peladopepe", 
+      "text": "Si sos de la zona y no te queda otra se puede ir, es m\u00e1s un lugar de encuentro con amigos que de salida planificada. No pretendas demasiado. El lugar es agradable, super ruidoso y tiene un pelotero para los chicos. Las comidas son minutas comunes de las cuales no se destaca ninguna. Si vas a pedir hamburguesa o pancho andate al cl\u00e1sico, a dos cuadras, que son mucho mejores.  Si fuiste a la zona comercial y queres descansar  un poco, a la tarde podes tomar un t\u00e9 o un caf\u00e9 con algo de reposter\u00eda.  No es muy caro pero tampoco ofrece demasiado."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Anuchita", 
+      "text": "El lugar es muy standard, la comida poco refinada as\u00ed como la atenci\u00f3n.\r\nLos sanitarios est\u00e1n en la planta alta, muy inc\u00f3modos y se encontraban en condiciones deplorables, raz\u00f3n por la cual se hizo el reclamo.\r\nEs un lugar de encuentro muy estrat\u00e9gico en San Fernando, pero con escasa competencia, a\u00fan as\u00ed podr\u00edan mejorar la calidad de todo lo que ofrecen a los vecinos de la zona."
+    }, 
+    {
+      "date": "10 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ANDRADCORONEL", 
+      "text": "Voy todos los sabados a la ma\u00f1ana a desayunar con mi esposo"
+    }, 
+    {
+      "date": "19 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "LuliLove", 
+      "text": "muy buena comida... opcion para ir en familia!\r\nexcelente atencion..."
+    }
+  ]
+}

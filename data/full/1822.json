@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "1 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Ledlidia", 
+      "text": "Muy buenas las pastas y abundantes, las pizzas son ricas. Ideal para ir con la familia o amigos."
+    }, 
+    {
+      "date": "10 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "EmiCooper", 
+      "text": "Tipica pizzeria/confiteria de barrio. La comida es aceptable, el ambiente podria mejorar, los mozos bien. Las pizzas son buenas y lo que casi siempre comemos es la \"Suprema Irup\u00e9\" realmente muy abundante y para compartir. Para ir cuando no tenes ganas de cocinar..."
+    }, 
+    {
+      "date": "26 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elreymisterio", 
+      "text": "muy pero muy rica pizza relacion precio calidad porque es exelente.altamente recomendable."
+    }, 
+    {
+      "date": "5 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Maple", 
+      "text": "Es una pizzer\u00eda de barrio que se distingue solo por hacer pizza por metro. La atenci\u00f3n no es esmerada y el ambiente es com\u00fan. La relaci\u00f3n costo servicio es correcta."
+    }, 
+    {
+      "date": "15 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "juanicoldplay", 
+      "text": "Soy vecino de la zona y lo utilizo mucho como delivery. Muy bueno el trato, ya cocozco a todos sus empleados, muy buena gente. Las porciones son muy generosas, tambi\u00e9n suelo ir a desayunar. \r\nLas instalaciones est\u00e1n bien, la limpieza OK."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Eddy_Best", 
+      "text": "El lugar no es nada del otro mundo, lo recomendable son las porciones muy generosas de los platos y postres."
+    }
+  ]
+}

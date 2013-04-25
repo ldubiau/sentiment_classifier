@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "9 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Pedimos delivery y la verdad que las empanadas y la fugazzeta estuvieron muy buenas; las empanadas con una rica masa y relleno abundante y bien elaborado y la fugazzeta,  riqu\u00edsima.  Precios correctos y entrega r\u00e1pida."
+    }, 
+    {
+      "date": "10 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Adrianansos", 
+      "text": "Parque Patricios es el mejor barrio de nuestra Buenos Aires.  Esta pizzeria tiene calidad de comida y calidad humana."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CBUSSOLI", 
+      "text": "Pizza de barrio. como las de antes. Muzzarella y demas ingredientes de muy buena calidad que te hacen comer bien. Las empanadas, \"vienen con relleno\", no como en otros lados. La FUGAZETTA RELLENA la tienen que probar, no te entra mas de una porcion!!!! Eugenio, el due\u00f1o, siempre tiene una an\u00e8cdota de su y mi glorioso \"HURACAN\" para contarte, a vos o los pibes que llevas a comer. Solo te digo que, si and\u00e1s por ahi, date una vueltita. !!!"
+    }, 
+    {
+      "date": "22 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carlisle", 
+      "text": "Muy buen ambiente, comida, atenci\u00f3n y clima familiar."
+    }
+  ]
+}

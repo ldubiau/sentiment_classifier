@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "1 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nelorse", 
+      "text": "Hay un men\u00fa al mediod\u00eda muy variado, y muy accesible."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pacori", 
+      "text": "Excelente atenci\u00f3n y comida.  El lugar est\u00e1 muy bien decorado.  La presentaci\u00f3n de los platos es perfecta."
+    }, 
+    {
+      "date": "14 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "manuelc", 
+      "text": "Cantante francesa en vivo."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "29 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "Me gust\u00f3 la atenci\u00f3n de servirnos berenjenas al escabeche de entrada. La moza fue atenta aunque le cost\u00f3 entender que quer\u00eda las pastas sin salsa y sin manteca, con aceite. Finalmente los \u00f1oquis estuvieron ricos, pero no fue nada del otro mundo. El ambiente es \u00edntimo y lindo."
+    }, 
+    {
+      "date": "21 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Si3g", 
+      "text": "Lindo lugar para estar con amigos, lastima q es medio oscuro el lugar, recomiendo q no pidan carnes, salvo las milanesas o supremas de pollo, ya q la carne de ahi es bastante mala"
+    }, 
+    {
+      "date": "5 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "silvinam", 
+      "text": "Muy lindo lugar para ir en pareja."
+    }, 
+    {
+      "date": "20 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sarcastico", 
+      "text": "Recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mariaveronica01", 
+      "text": "Buena comida a juzgar por lo econ\u00f3mica. La atenci\u00f3n no es muy dedicada desde que cambiaron los camareros. En una epoca tenian excelentes promociones, por ser algo al paso, ahora estan volviendo a tener algunas. Para ir a hacer tiempo tomando un cafe esta bien. Han hecho una parte exclusiva de fumadores, bien ambientada, la parte de no fumadores parece olvidada, los no fumadores salimos perdiendo en la parte ambientaci\u00f3n. Adem\u00e1s teniendo cerca a Salvame Maria quieren hacer ambiente apagando las luces, cosa que no logran."
+    }, 
+    {
+      "date": "30 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elpersa", 
+      "text": "Muy lindo ambiente para pasar un rato agradable. Excelente presentaci\u00f3n de los platos. precios accesibles."
+    }
+  ]
+}

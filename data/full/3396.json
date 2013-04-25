@@ -1,0 +1,138 @@
+{
+  "malos": [
+    {
+      "date": "10 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cloper", 
+      "text": "No me gust\u00f3 mucho la pizza y me atendieron un poco a desgano."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "jenny_d", 
+      "text": "Muy bueno para aprovechar los menues que ofrecen y comer una rica pizza sin grandes pretensiones del lugar."
+    }, 
+    {
+      "date": "11 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vitto", 
+      "text": "La Fugazzetta rellena al molde es excelente, el resto de las pizzas son normales sin destacarse. Los precios son muy buenos y el ambiente es normal pero no por eso malo.\r\nIdeal para un almuerzo laboral entre colegas. Pidiendo la fugazzetta es para volver y voler."
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Silvina_M", 
+      "text": "El delivery tardo mucho m\u00e1s de lo indicado e incompleto. No trajeron queso para las pastas ni pan."
+    }, 
+    {
+      "date": "27 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Bueno, bonito y barato: un lugar para ir en grupo y disfrutar pizza y empanadas muy ricas por poca plata"
+    }, 
+    {
+      "date": "16 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "hsperoni", 
+      "text": "muy rica pizza."
+    }, 
+    {
+      "date": "23 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "procedencia", 
+      "text": "La pizza es rica. Destaco la amabilidad del mozo, quien nos obsequi\u00f3 una porci\u00f3n de torta y nos hizo un descuento al pagar, para compensar la demora en traernos el pedido."
+    }, 
+    {
+      "date": "16 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Muy buena pizza de masa fina (recomendable la bruscheta)a un precio muy conveniente. Ir a comer pizza volvi\u00f3 a ser un plan bueno, bonito y barato"
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "procedencia", 
+      "text": "la pizza es rica. no es nada del otro mundo, pero es una opci\u00f3n r\u00e1pida y bastante barata."
+    }, 
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "Tipica pizzer\u00eda porte\u00f1a franquiciada. Las pizzas son a la piedra y eso me satisface, ya que cada dia es mas raro encontrar este tipo de pizza en Baires, pero la calidad por momentos puede ser de dudosa elaboracion, como suele suceder con las franquicias. La atencion tiende a ser mas bien desganada, por no decir mala, y el resultado final es un \u00a8la proxima pido un delivery desde casa\u00a8. Mejor seguir buscando. No recomendable"
+    }, 
+    {
+      "date": "6 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "NOFX", 
+      "text": "Bien ubicada. Se nota que ya no es como antes que era atendida por sus due\u00f1os. De a poco se convierte en el Mc Donalds de las pizzerias. La atencion fue correcta, un poco desbordados porque era mediodia y no daban a basto con toda la gente que salio de las oficinas. Eso no quita que la comida sea rica, porque la verdad es que comimos una pizza muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "elcordobesbeuno", 
+      "text": "No es pizza de autor...pero al fin una pizzeria clasica y consistente al estilo porte\u00f1o. Excelente atencion (al menos de noche que es cuando voy). Precios imbatibles, consitencia."
+    }, 
+    {
+      "date": "5 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Kossork", 
+      "text": "La pizza estaba excelente!!! y de cambio me toco un billete que tenia escrito \"TE AMO\" y mi novia se puso celosa porque lo deje de propina y ella penso que se lo habia escrito yo a la mesera.\r\n:) y fui golpeado."
+    }
+  ]
+}

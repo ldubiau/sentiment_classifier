@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "3 Jul 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "numinous", 
+      "text": "El peor bife de chorizo de la ciudad: demoraron 45 min para traer un pedazo de carne seco y s\u00f3lo nos avisaron que hab\u00edan tenido problemas con los hornos al traernos el plato. Atenci\u00f3n descuidada, comida de regular a mala, peor a\u00fan tratandose de platos sencillos, como grillados con verduras. Ya hab\u00eda o\u00eddo malas referencias, pero a\u00fan as\u00ed lo intent\u00e9. Envi\u00e9 mis comentarios a los due\u00f1os, pero su respuesta fue insatisfactoria (jam\u00e1s pidieron disculpas). NO lo recomiendo para nada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Carola", 
+      "text": "Comida regular y pretenciosa, atenci\u00f3n descuidada. Lindo ambiente, pero si est\u00e1n por ah\u00ed, es preferible caminar una cuadra m\u00e1s hasta el Petanque, que se come much\u00edsimo mejor y la atenci\u00f3n es impecable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "skorpy81", 
+      "text": "Un gran lugar. \r\nLa atenci\u00f3n fue excelente, la camarera te vend\u00eda los platos con una cancha poco habitual. \r\nY la comida cumpl\u00eda con creces lo que pomet\u00eda. \r\nUn lugar para disfrutar."
+    }, 
+    {
+      "date": "4 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pichoni", 
+      "text": "Me encant\u00f3 el tipo de comida. Es un excelente lugar para pasar un rato en San Telmo."
+    }, 
+    {
+      "date": "29 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "irex75", 
+      "text": "Estoy muy contenta del lugar que elegimos con mi novio para festejar nuestro aniversario. Fue el mejor regalo que me hizo llevarme ah\u00ed."
+    }
+  ]
+}

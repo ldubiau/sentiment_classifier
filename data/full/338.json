@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "2 Abr 2004", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "jumo", 
+      "text": "Fuimos con amigos y pasamos una noche espantosa, la pizza ya vino cortada en los platos (nunca visto), tuvimos que pedir cambio de cubiertos porque estaban sucios y nos cobraron $5 de servicio de mesa por persona, cuando la atenci\u00f3n fue HORRIBLE. Nos quejamos con la propia due\u00f1a quien alegaba que en su restaurante se cobraba eso porque serv\u00edan con manteles y servilletas de tela (\u00bfY DONDE NO?). Se confundieron con el importe de la cuenta y ni disculpas pidieron. UN DESASTRE EN MAYUSCULAS, paso por aquel lugar y no dejo de recordar ese p\u00e9simo momento."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Francin", 
+      "text": "Una pena que hayan cerrado"
+    }, 
+    {
+      "date": "2 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vanesavarcasia", 
+      "text": "me gusto mucho la comida... muy sabrosa una linda noche podes pasar en cosa nostra"
+    }, 
+    {
+      "date": "14 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Bony", 
+      "text": "Las pastas son artesanales y de excelente calidad. La atenci\u00f3n es algo impersonal pero correcta."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mganinla", 
+      "text": "Exelente servicio, se come muy bien! parece la comida de la abuela...incomparable!!!!"
+    }, 
+    {
+      "date": "23 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "castillo1", 
+      "text": "La atenci\u00f3n es muy buena, se come muy bien como si fuera en casa, las pastas son lo mejor de Buenos Aires, porque estan hechas artesanalmente."
+    }
+  ]
+}

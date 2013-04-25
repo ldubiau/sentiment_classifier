@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "cookiescream", 
+      "text": "Fuimos un viernes al mediod\u00eda y nos encant\u00f3 el ambiente. La atenci\u00f3n es buena, al igual que la comida, pero nada destacable. Los sushis ricos, el arroz a punto pero a mi gusto le faltaba un toque de vinagre t\u00edpico del arroz de sushi japon\u00e9s. La relaci\u00f3n de precio-calidad es muy buena, no es caro para lo que se come."
+    }, 
+    {
+      "date": "27 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mar117", 
+      "text": "exelente la atencion. la comida muy sabrosa!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Martiniaddict", 
+      "text": "He ido ya varias veces, y seguir\u00e9 yendo porque me encanta el ambiente, la atenci\u00f3n y los precios. Y de m\u00e1s est\u00e0 decir, la comida! Recomiendo la carne de cerdo BBQ con arroz saborizado, o el pollo al curry japon\u00e9s"
+    }
+  ]
+}

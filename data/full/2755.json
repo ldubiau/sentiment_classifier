@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "27 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "comensal", 
+      "text": "Bodegon frecuentado por turistas,sin embargo precios muy accesibles,ambiente familiar,comida casera y esmerada atencion."
+    }, 
+    {
+      "date": "22 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dtronica", 
+      "text": "Excelente cantina familiar, de buenos precios a metros de la cancha, muy buena atenci\u00f3n y comida casera exquisita."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tanobostero", 
+      "text": "Lo recomendar\u00eda por su ambiente familiar y bostero."
+    }
+  ]
+}

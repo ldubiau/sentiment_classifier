@@ -1,0 +1,338 @@
+{
+  "malos": [
+    {
+      "date": "5 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "rhr955", 
+      "text": "La tortilla floja. inferior a la media en lugares especializados en esta cocina. El abadejo en salsa verde tambi\u00e9n malo, con una salsa aguachenta y deshabrida. Los mejillones, en cambio bien hechos y en una preparaci\u00f3n original, medio emparentada con los Recanatti de F\u00e9lix. La atenci\u00f3n buena y sin apuro, pese a que llegamos cuando estaban por cerrar. El ambiente con la funcionalidad entendida a\u00f1os 70/80. Sirve para lo que fuimos: como alternativa de \u00faltima."
+    }, 
+    {
+      "date": "30 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "GAM", 
+      "text": "La comida es mala. Las rabas pasadas de cocci\u00f3n por lo que estaban a mitad de camino entre ser una piedra y un chicle. Paella sin gusto y con el pollo s\u00faper pasado y los mariscos ins\u00edpidos. La atenci\u00f3n zafa pero nada m\u00e1s."
+    }, 
+    {
+      "date": "19 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Huge", 
+      "text": "Casi cualquiera sabe hacer una tortilla mejor. Realmente mal"
+    }, 
+    {
+      "date": "15 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Bony", 
+      "text": "La comida no es buena, Frituras aceitosas, paella ins\u00edpida. Demasiado caro para lo que es."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bergamig", 
+      "text": "Ya van varias veces que cenamos en este restaurant, lo recomiendo para experimentar algunos platos y postres espa\u00f1oles que no son muy usuales en Argentina por ejemplo: Ostiones Gratinados y de postre Leche Frita....muy buenos!!! esta vez probamos una Gambas al Ajillo recomendables!!!"
+    }, 
+    {
+      "date": "18 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Creo que el punto m\u00e1s fuerte del lugar sin dudas es la atenci\u00f3n muy profesional de los mozos (Clide, un maestro).  El ambiente est\u00e1 lindo pero le falta calidez.  En cuanto a la comida, esperaba m\u00e1s;  las rabas no estuvieron a la altura  de un restaurante que se especializa en comida espa\u00f1ola.  Es el lugar casi obligado cuando vas al Luna,  pero no se si volver\u00eda especialmente."
+    }, 
+    {
+      "date": "16 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "crould", 
+      "text": "Muy buen lugar para antes o despues de un recital en el Luna. Rica comida, excelente la atencion."
+    }, 
+    {
+      "date": "16 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Piscolero", 
+      "text": "Muy tranquilo el lugar, muy buena atenci\u00f3n de parte de los meseros, y su administrador atento en todo momento para que hubiera buen servicio. La comida muy rica, la porcion abundante, ni muy caro ni muy barato, pero vale la pena para la comida y el servicio."
+    }, 
+    {
+      "date": "7 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "churi", 
+      "text": "Que mejor idea que festejar el dia de San Fermin en el Meson Navarro. Si hubiesemos ido el 6 o el 8 de julio era lo mismo.De todas maneras debo reconocer que los pimientos del piquillo estaban muy buenos y los garbanzos al ajillo tambien, no asi las croquetas que por fuera quemaban pero por dentro estaban heladas.\r\nEsperaba mas"
+    }, 
+    {
+      "date": "24 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "TOM_HAGEN", 
+      "text": "Buena comida. Especialidad en Pescados y Tortillas, pero hay opciones para todos."
+    }, 
+    {
+      "date": "1 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ropo", 
+      "text": "Les faltar\u00eda otro mozo para que la Atencion sea mas fluida."
+    }, 
+    {
+      "date": "24 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elverde", 
+      "text": "Un lugar que puede servir como alternativa no muy cara para llevar alg\u00fan visitante \"laboral\" extranjero y salir de la carne. La c\u00f3mida, la atenci\u00f3n y el ambiente son aceptables, aunque no pasan de eso."
+    }, 
+    {
+      "date": "24 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Caroo", 
+      "text": "La comida es muy fuerte y con buen gusto, pero en la carta no est\u00e1n bien especificados los platos. S\u00f3lo hay explicaci\u00f3n en ingl\u00e9s, la cual es incompleta. S\u00f3lo dec\u00eds que ten\u00eda muzzarella, no explicaba el resto del plato.\r\nEl ambiente es muy agradable, el aire acondicionado estaba perfecto."
+    }, 
+    {
+      "date": "19 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "balbec", 
+      "text": "Calidad buena, en platos no muy abundantes, pan y tostadas no del d\u00eda. \r\nMozos que apuraban la finalizaci\u00f3n de la cena."
+    }, 
+    {
+      "date": "14 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pepita", 
+      "text": "Fuimos con mi familia con la intenci\u00f3n de saborear buena cocina espa\u00f1ola, pero en su lugar nos desilusionamos con porciones chicas y precios altos. La cazuela para compartir estaba bien preparada, pero la porci\u00f3n era mediana. Mi pescado estaba ba\u00f1ado en una salsa de tomate, cuyo sabor predominante era del tomate \u00e1cido. Un restaurante for export, caro para lo que es."
+    }, 
+    {
+      "date": "8 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Juanpala", 
+      "text": "un ambiente calido y buena comida y servicio"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gallegomanu", 
+      "text": "Lugar ideal para compartir en pareja, familia o con amigos. Atenci\u00f3n del personal destacada, principalmente Clide y Javier contando con la presencia de su propio due\u00f1o Sr.  Marcelo. Cocina de muy alto nivel, destaco el \"Arroz con vieiras y langostinos\", la \"Paella\" y todo plato a base de mariscos, m\u00e9rito de Roxana qui\u00e9n con su alta cocina defiende su propio negocio.-PARA RECOMENDAR !!!!"
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "diegomar", 
+      "text": "Excelente servicio y de lo mejor en comida espa\u00f1ola!!!!!!recomendaria solo mejorar la ambientacion."
+    }, 
+    {
+      "date": "16 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JJOleo", 
+      "text": "Excelente atencion, muy buena comida. El due\u00f1o se acerco a la mesa a presentarse y preguntar si todo estab bien, muy amable. Tanto la entrada como los dos platos y el postre estuvieron muy bien. Recomendado 100%, excepto para quien busca un lugar \"fashion\"."
+    }, 
+    {
+      "date": "26 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pityon", 
+      "text": "Fuimos a cenar un Domingo con mi esposa. Pedimos una Paella: Muy bien hecha y bien servida. La atenci\u00f3n inmejorable. Lindo ambiente. Volveremos!"
+    }, 
+    {
+      "date": "22 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Eslabon", 
+      "text": "El servicio es impecable, desde el momento que entras te tratan de maravilla. Los meseros, como pocos: atentos, serviciales y simp\u00e1ticos. He ido varias veces para almorzar, y la comida espectacular. La comida tiene un gusto casero, que recuerda a las visitas a casa de la abuela. El lenguado en salsa verde es divino, al igual que los garbanzos al ajillo. Las porciones son generosas."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "TAMOLESKUS", 
+      "text": "los ostiones gratiados 100000000 puntos \r\nla cazulela bien para mi, pero para mi mujer, un poco picante , por lo que se la cambiaron y no se la cobraron, hay vinos de espa\u00f1a"
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pepe1234", 
+      "text": "Excelente atenci\u00f3n y mejores platos."
+    }, 
+    {
+      "date": "2 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bailac", 
+      "text": "Muy bue atencion y muy rica la comida. No entiendo entonces el bajo puntaje. Fuimos con un cupon de descuento y nos trataron de maravillas. Ideal para ir  despues de un recital en el Luna."
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Laujo", 
+      "text": "El lugar es agradable. Pedimos una table de fiambre de entrada muy buena y luego la paella. Nos encanto el lugar y nos sentimos muy comodos. Pronto estaremos probando otros exquisitos platos."
+    }, 
+    {
+      "date": "7 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maguidondo", 
+      "text": "Muy rica la comida y abundante. Muy buena atencion y eso que habia bastante gente por el recital en el Luna. Recomendable."
+    }, 
+    {
+      "date": "28 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "caneda", 
+      "text": "Fuimos con un cupon de descuento y tengo que felicitarlos por la atencion. No teniamos mucho tiempo porque ibamos al teatro y se desvivieron por lograr que terminaramos de cenar. La comida fue muy rica y abundante y me sorprende la baja calificacion."
+    }, 
+    {
+      "date": "17 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Silpol", 
+      "text": "Llegamos por un cupon de descuento, sin muchas expectativas, pero realmente el lugar es muy bueno. Sin duda volveria. El tapeo espa\u00f1ol era abundante y muy rico (se destacaban los langostinos a la milanesa, los mejillones con salsa picante y una tortilla chica). Los \u00f1oquis a los 4 quesos, de los mas ricos que comi, la salsa muy bien hecha y gratinada.\r\nEl lugar muy bien ambientado y excelente atencion, inclusive del due\u00f1o.\r\nTotalmente recomendable."
+    }, 
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fasula", 
+      "text": "Festej\u00e9 mi cumplea\u00f1os (eramos 15) y quedamos todos muy conformes con el sabor y la abundancia de los platos. El servicio fue excelente."
+    }, 
+    {
+      "date": "22 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Adidas", 
+      "text": "A mi gusto es ambiente es muy agradable, los mozos son amorosos y el servicio y la comida con excelentes."
+    }, 
+    {
+      "date": "4 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CarlosM", 
+      "text": "El precio indicado inclu\u00eda el vino (1/2 botella por persona) y todas las bebidas, as\u00ed como tambien el postre.\r\nFuimos un grupo de 15 personas, y yo como organizador estaba en ascuas. Todos quedaron incre\u00edblemente satisfechos por la calidad y cantidad de las porciones. \r\nNo llegamos a comer los \u00faltimos componentes del tapeo.\r\nUna torta de cumplea\u00f1os excelente.\r\nSoy habitu\u00e9 y no entiendo los malos comentarios.\r\nS\u00ed es cierto, por exigencias del mercado, la carta se aporte\u00f1\u00f3."
+    }, 
+    {
+      "date": "25 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gaitex", 
+      "text": "Muy buen servicio y calidad de comida."
+    }, 
+    {
+      "date": "3 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "manuel", 
+      "text": "Excelente la comida, el servicio, la atenci\u00f3n y el ambiente.\r\nMuy c\u00e1lido."
+    }
+  ]
+}

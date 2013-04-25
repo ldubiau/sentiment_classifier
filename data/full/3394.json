@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "28 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "rous", 
+      "text": "Este lugar cerr\u00f3."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "thepusherfer", 
+      "text": "En un ambiente muy tranquilo, con musica suave, tienen muchos platos de caza, no nos animamos, pero las pastas venian con unas salsas muy sabrosas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "JDean", 
+      "text": "El lugar es muy tranquilo, sin area de fumadores (salvo mesas en la vereda). Los ba\u00f1os no son muy bueno y es algo desprolijo el fondo del restaurante. La ambientaci\u00f3n no est\u00e1 muy trabajada. Pero la comida es muy original, muy buena calidad en los materiales y con muy buena presentaci\u00f3n. La atenci\u00f3n es informal pero muy agradable."
+    }
+  ]
+}

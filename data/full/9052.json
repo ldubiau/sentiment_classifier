@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "25 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "justona", 
+      "text": "Parecia una propuesta diferente para el barrio, pero deja bastante que desear.\r\nNo probamos la comida brasilera, comimos pizzas nada del otro mundo.\r\nPero lo que te saca las ganas de volver es la Pesima atenci\u00f3n. Muy mala onda! mal educados desde la camarera hasta quien parecia el due\u00f1o/encargado.\r\nNo nos avisaron que cerraba la cocina y nos \"eligieron\" el gusto de pizza que teniamos que pedir.\r\nResumiendo: Si no mejoran la atenci\u00f3n va para atras!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Elgrancatador", 
+      "text": "Un lugar especial muy bien ambientado y con buena m\u00fasica. Ideal para compartir en pareja o con un grupo de amigos. La mejor pizza de la zona."
+    }, 
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adryM", 
+      "text": "Excelente lugar, muy bien ambientado.\r\nMe encanto la muy buena atencion y los exquisitos postres.\r\nIdeal para ir con amigos."
+    }, 
+    {
+      "date": "16 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AnaCristina", 
+      "text": "Fuimos hace 2 semanas con un grupo de amigas y la pasamos lindo, la pizza es muy buena hecha por el due\u00f1o, lo que da a el lugar un toque personal, buena atencion y buena onda, lo recomiendo a todos, voy a volver, saludos Ana"
+    }
+  ]
+}

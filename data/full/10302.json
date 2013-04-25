@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "2 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "poisonivi", 
+      "text": "Compramos un voucher con cena show. El men\u00fa era dudosamente cubano, y el show resulto ser de tango. Los mojitos? intomables... la comida, la sirvieron helada, y de muy baja calidad todo. El postre? todav\u00eda lo estamos esperando porque nunca lo sirvieron. \r\nCuando tratamos de hacer el reclamo al encargado por la mala calidad y atenci\u00f3n, encima nos sobro..., Es un lugar para nunca mas volver, porque nos sentimos maltratadas.... HORRIBLE"
+    }, 
+    {
+      "date": "2 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "sbombon", 
+      "text": "El servicio  malisimo, tardaron una hora reloj para atendernos, cuando llego la comida estaba fria, fuimos a hablar con el encargado nos trato de muy mala manera, el postre que erauna bocha de helado nos fuimos sin comerlo despues de esperar 30 min. , la  cuenta si la trajeron rapido .."
+    }, 
+    {
+      "date": "2 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "vervane", 
+      "text": "mal servicio, comenzando por el mozo. Esperamos 40 minutos que se acercara a la mesa, la comida vino fria y la cuenta llego antes del postre."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "despeinada", 
+      "text": "Fuimos con un cup\u00f3n y nos atendieron tan bien como al resto . La mayor\u00eda son cubanos de verdad, siempre cuidando el detalle y asesorando. Los adicionales que pedimos a un precio m\u00e1s que razpnable. El show muy divertido y la m\u00fasica adecuada. Es para quedarse hasta que las velas no ardan. Volveremos en patota!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MrRobato", 
+      "text": "Me encanto el ambiente, son muy amigables la gente y el servicio es bueno. Me gusto mucho la comida y la musica, volvere con mi familia, entretenimiento para toda la familia."
+    }
+  ]
+}

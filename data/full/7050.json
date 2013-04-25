@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "18 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MZANZI", 
+      "text": "Ac\u00e1 publicaron cocina variada y en realidad es para comer panqueques, hamburguesas y lomitos (panchos tambien) pero solo eso... eso si... eso lo hacen exelente!!! Al fondo hay un peque\u00f1o salon de juego para los chicos y el lugar, incluso los sanitarios, es muy lipio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Venecia", 
+      "text": "Podr\u00edan publicar la cartilla del men\u00fa por mas que no tengan delivery. De esta forma se podria elegir mas r\u00e1pido y tambi\u00e9n reconmendar."
+    }, 
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PILUSA", 
+      "text": "ese precio fue con el postre que fue un panqueque dulce y cerveza."
+    }
+  ]
+}

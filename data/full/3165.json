@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "15 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "juliaa", 
+      "text": "Un menu ejecutivo de 70$ que la verdad no lo vale !!! Lo unico para destacar el ambiente"
+    }, 
+    {
+      "date": "31 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "ferchooo", 
+      "text": "Si bien esta muy bien ambientado , a la vista es muy agradable.\r\nEn cuanto a la comida no hay relacion precio/calidad/ al medio dia menu 3 pasos(entrada , principal y postre) $55+7 de cubierto, la panera muy pobre en relacion a los 7 pesos que te cobran.La comida abundante pero sin sabor a nada, desabrida.Aveces mas resta y menos suma. Los vinos con unos precios desorbitantes. No vuelvo mas!!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "soleyra", 
+      "text": "Fui un par de veces al mediod\u00eda. El ambiente es muy lindo, se destaca de todos los restaurantes de la zona. Me gusta. La atenci\u00f3n es buena, los men\u00faes ejecutivos tambi\u00e9n."
+    }, 
+    {
+      "date": "8 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "FlowerBomb", 
+      "text": "Un muy buen show de tango, altamente recomendable.\r\nAdem\u00e1s hay un show de folclore.\r\nLa comida buena.\r\nLo recomiendo puramente por el show de tango."
+    }, 
+    {
+      "date": "3 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "AMESA", 
+      "text": "Fuimos con amigos del exterior, ambiente excelente con muy buena atenci\u00f3n y una comida bastante buena para ser un lugar que atiende simultaneamente un n\u00famero importante de comensales. El espect\u00e1culo continuado de m\u00e1s de dos horas, con artistas de primer nivel complementa muy bien la experiencia gastron\u00f3mica."
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "QuesoAzul", 
+      "text": "La comida bastante buena para ser un show de tango, por lo general no suelen ser as\u00ed. El servicio tambi\u00e9n muy bueno pero el show no me gust\u00f3, el final con Evita vestida de blanco como de comuni\u00f3n me pareci\u00f3 totalmente innecesario; la parte del tango si muy buenos los bailarines / inas y la orquesta es excelente."
+    }, 
+    {
+      "date": "9 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Clau1507", 
+      "text": "Excelente lugar! el mejor show de tango que vi, ademas tienen un show de folklore con un grupo musical de 4 integrantes y un show de boleadoras. Los cantantes realmente muy buenos. Altamente recomendable, aunque tengan en cuenta que los precios son elevados."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "intervox", 
+      "text": "Fuimos de la oficina para celebrar varios cumples. El servicio demor\u00f3 pero fue bueno en calidad. Muy buen punto de cocci\u00f3n y sabor en pescado. Muy buena presentaci\u00f3n de platos de comida y ricos postres."
+    }
+  ]
+}

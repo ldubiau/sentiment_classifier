@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "16 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "polaco1982", 
+      "text": "Este restaurant se llama ahora Don Batista\r\nMuy buena alternativa para ir en familia, con amigos o en pareja. La comida es muy buena y para compartir. La atenci\u00f3n de los mozos es personalizada. Es el lugar indicado para vivir un buen momento con la gente que uno aprecia"
+    }, 
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "picho", 
+      "text": "Buena comida, ambiente agradable. Las esperas entre plato y plato no son largas y los mozos muy atentos."
+    }, 
+    {
+      "date": "27 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guillotina72", 
+      "text": "Una de las mejores alternativas en la zona, buena relaci\u00f3n calidad-precio,porciones abundantes, los mozos muy atentos y el lugar muy c\u00f3modo, para recomendar"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "andy1982", 
+      "text": "Un lugar totalmente recomendable para ir en familia o con amigos. Platos sabrosos, abuntandes y agradables a la vista. Atendido por sus due\u00f1os, quienes prestan atencion a cada detalle."
+    }, 
+    {
+      "date": "6 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lis_cavs", 
+      "text": "Muy buena relacion precio calidad. La parrilla es realmente para destacar."
+    }
+  ]
+}

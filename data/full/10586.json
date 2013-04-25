@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "31 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pbPablo", 
+      "text": "\"No lo recomiendo\" parece demasiado duro como calificaci\u00f3n, pero no se puede \"Recomendar\" un lrestaurant luego de haber padecido un error clave en el servicio, seguido de la falta de poder de respuesta inmediata.\r\nUn plato de cuatro, mal comandado, puede suceder. Volver a traer el plato equivocado es un error cr\u00edtico, ya que el tiempo transcurrido hace que un comensal quede fuera de la mesa y es un disgusto que se opone al objeto de la cena.\r\nBuena comida, lindo ambiente, muy buena variedad de vinos con el descorche siempre celebrado, pero deben revisar la calidad del servicio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar hermoso, prolijo y decorado con buen gusto. La atenci\u00f3n amabil\u00edsima y la comida excelente. Tentadoras entradas, gran variedad de pastas, salsas riqu\u00edsimas y muy buenos platos de carnes y aves. Los postres riqu\u00edsimos; imperdible el tiramis\u00fa.  Adem\u00e1s de la carta de vinos, dentro del restaurante hay una vinoteca con gran cantidad de etiquetas como para tener otras opciones  pagando descorche. Para volver, sin lugar a dudas."
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kathy03", 
+      "text": "Excelente restaurant. Las pastas son impresionantes, y los platos llegan muy calientes a la mesa. Yo comi unos sorrentinos con salsa pasta rossa, y me parecio increible y recomendable.. La ambientacion tambien muy linda. Hacia falta un lugar asi en Adrogue."
+    }, 
+    {
+      "date": "2 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Guilez", 
+      "text": "Excelente, comida riquisima, no tan cara, los vinos tampoco. Los mozos unos jovenes simp\u00e1ticos y el jardin de noche impecable. Para ir con pareja."
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "flor73", 
+      "text": "Los platos riquisimos, muy linda ambientacion y muy buen servicio.\r\nPara destacar la panera, con varias opciones de panes y uno mas rico que otro. Tal vez un poco elevados los precios pero volveria a ir sin dudarlo."
+    }
+  ]
+}

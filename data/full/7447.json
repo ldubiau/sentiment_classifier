@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "nanovich", 
+      "text": "Buena opci\u00f3n tipo parrilla/cantina en la zona. Buena relaci\u00f3n precio/calidad. Comimos rabas y compartimos un pescado muy rico."
+    }, 
+    {
+      "date": "13 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "peladopepe", 
+      "text": "T\u00edpica parrilla y restaurante de barrio. El lugar es feo, tirando a muy feo. Se rescata alg\u00fan plato de parrilla, que la hacen al carb\u00f3n, pero tenes que enganchar los s\u00e1bados o alg\u00fan d\u00eda con mucha gente y veas que lo hacen en el momento, ya que alguno de los otros d\u00edas te dan lo que queda recalentado. Las minutas son comunes, se dejan comer pero no son una exquisitez. La atenci\u00f3n no es profesional, no pretendas demasiado. Si sos de Victoria y no tenes ganas de salir con el auto, anda, no es muy caro pero tampoco aspires a grandes manjares. Llenas la panza y salis un rato."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "andymuchi", 
+      "text": "Excelente parrilla con asador, lastimas las camareras siempre desganadas y trayendo las cosas uando a \u00e9llas se le ocurre. Ambientacion de barrio, cero onda."
+    }
+  ]
+}

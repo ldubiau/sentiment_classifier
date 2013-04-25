@@ -1,0 +1,24 @@
+{
+  "excelentes": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jav1986", 
+      "text": "Muy buena comida, fresca y abundante. Lo recomiendo!"
+    }, 
+    {
+      "date": "19 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "crould", 
+      "text": "Muy buena comida en lugar lindo. La atencion es buena. Comimos carpaccio de lomo y ojo de bife. Precios normales."
+    }
+  ]
+}

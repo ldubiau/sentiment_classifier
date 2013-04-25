@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "20 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "gerkijel", 
+      "text": "Car\u00edsimo para lo que te brindan. \r\nSandwiches de kiosco a precio de turista."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Hoy el horario de desayuno me encontr\u00f3 en esta zona. El caf\u00e9 es claramente comercial, pero  bastante agradable, incluso a mi gusto es mejor que el de Piacere. La pasteleria es buena, la relaci\u00f3n precio calidad es adecuada. Uno de los tantos lugares para desayunar o merendar al paso."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LiliCarola", 
+      "text": "Siempre opto por Tentissimo para la hora del t\u00e9. Riqu\u00edsimo."
+    }
+  ]
+}

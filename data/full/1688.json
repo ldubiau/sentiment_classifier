@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "4 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "eduv_1977", 
+      "text": "A mi no me gusto para nada, el wok dejaba bastante que desear, al margen de la tradanza... otro oportunidad le dar\u00e9"
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Sucubo", 
+      "text": "El wok de pollo y verduras era abundante, pero de pollo tenia poco, y las rabas con finas laminas de papas (eran unas viles papas fritas de copetin) y hojas verdes dejaba mucho que desear. No vuelvo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "factis", 
+      "text": "Muy buena opci\u00f3n para el mediod\u00eda. La comida es sencilla, buenos productos y el ambiente es familiar. Sobresale la barra."
+    }, 
+    {
+      "date": "12 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marta1", 
+      "text": "Es un lugar nuevo que realmente se come muy bien y es accesible en cuanto a precios, suelo ir al mediod\u00eda y como en la barra que me es m\u00e1s c\u00f3moda y menos ruidosa que el sal\u00f3n. La atenci\u00f3n es muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rickshaw", 
+      "text": "Voy seguido y es muy bueno. Tiene pocos platos pero siempre son ricos. El caf\u00e9 y los postres son excelentes. Bien barato por lo que da."
+    }, 
+    {
+      "date": "28 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pahn", 
+      "text": "Bien. Rico, sano y buen precio para mediod\u00eda. \r\nUn poco de ruido, canasta de pan a mejorar."
+    }, 
+    {
+      "date": "1 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Andreap", 
+      "text": "Excelente. Muy recomendable. Todo es casero y fresco. El precio del men\u00fa del mediod\u00eda es muy barato teniendo en cuenta la calidad, presentaci\u00f3n, servicio y ambientaci\u00f3n."
+    }
+  ]
+}

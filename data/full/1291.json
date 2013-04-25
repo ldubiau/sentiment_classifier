@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "13 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sailor", 
+      "text": "Muy buenos fiambres y quesos. Los platos del d\u00eda y de la carta tambi\u00e9n. Todo fresco. Cada vez que estoy por la zona paro a comer."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Nov 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "intereco", 
+      "text": "Muy buena cocina, porciones abundantes y precio razonable"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "28 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "lanegri_324", 
+      "text": "un desatre esta comida es muy barato perto la comida lamentable"
+    }, 
+    {
+      "date": "16 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Sant", 
+      "text": "No aconsejo a nadie a visitar este lugar. Fui por el precio y porque lei el comentario positivo. Parrila no es que habia poca variedad, directamente NO HABIA carne en la parrilla (2 chorizos y chinchulines). Pesima experiencia solo aconsejable para cuando el bolsillo aprieta (mucho) sino no."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sapi68", 
+      "text": "Es estilo tenedor libre, incluye postre y helados (tambi\u00e9n libre) y parrilla sin demasiadas variedades. Todos los ingredientes son bien frescos, se nota que son reci\u00e9n hechas; buena comida y valor muy accesible."
+    }
+  ]
+}

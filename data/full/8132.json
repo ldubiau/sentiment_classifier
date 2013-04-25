@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "roxs88", 
+      "text": "muy buen ambiente y trato. Excelente variedad y creatividad en los platos. Definitivamente un buen lugar tanto para ir con un grupo de amigos ocmo con la familia. Para volver a ir seguro!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Luispah", 
+      "text": "Buen\u00edsimo lugar para ir a comer, el servicio excelente y la comida mejor todav\u00eda. Perfecto para ir en familia o con amigos. Definitivamente voy a volver."
+    }, 
+    {
+      "date": "26 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "maitecito", 
+      "text": "no lo conocia al lugar, y fui con mi familia al mediodia y la verdad que me sorprendio, muy buena la comida muy variado para ser plato del dia ya que no solo son milanesas como en la mayoria de los restaurantes. lo recomiendo!!"
+    }
+  ]
+}

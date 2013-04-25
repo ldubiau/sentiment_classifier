@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "18 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "losrodriguez", 
+      "text": "no me gusto,quise comer parrillada y es obligacion que toda la mesa pida el mismo menu.\r\ncomi sorrentinos.el ambiente es muy pobre,ruidoso \r\nme sente en la segunda mesa entrando a la derecha es justo la salida de emergencia,entra un frio por abajo,viera usted,me mori de friiiiioooo... todo el tiempo no vuelvo mas brrrrr..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariano", 
+      "text": "Una excelente alternativa para los amantes de la carne argentina a precios mas que razonables. Este lugar demuestra que en Argentina no hace falta pagar $100 para comer buena carne. Altamente recomendable"
+    }
+  ]
+}

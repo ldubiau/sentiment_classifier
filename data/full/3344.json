@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "5 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Louis", 
+      "text": "Un lugar tranquilo.......La comida es rica pero nada del otro mundo. La atenci\u00f3n es buena. OJO....si te toca un d\u00eda muy fr\u00edo, la calefacci\u00f3n no alcanza. Volver\u00eda."
+    }, 
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ligita", 
+      "text": "Fuimos especialmente para que nuestro hijo aproveche el salon de juegos y nosotros posamos comer distendidos. Pues, no pudo utilizarlo ya que habia un cumple agendado y se estaban preparando... El servicio, olvidable.... No regreso."
+    }, 
+    {
+      "date": "30 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pumaceibo", 
+      "text": "como para recomendar, muy buena atenci\u00f3n"
+    }, 
+    {
+      "date": "26 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nicobau", 
+      "text": "Muy buenas las pastas y muy buena la atencion."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lapasa", 
+      "text": "Los platos son para destacar, pero la atencion es lo que hace que uno se sienta comodo."
+    }, 
+    {
+      "date": "26 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Nuevamente muy recomendable. El precio actualizado es de $80 a $90 por persona estimado con vino y postre incluido. De entrada pedimos la tempura de calamar, que estaba muy suave y de una textura mas liviana, con una cocci\u00f3n que evitaba lo frito respecto de las cl\u00e1sicas rabas. Com\u00ed los raviolones de carr\u00e9 y ciruela con salsa de almendras y miel, pastas agridulces con un sabor delicado y no muy invasivo. Mis elecciones fueron acertadas, el lomo quiz\u00e1 pod\u00eda haberse cocido algo m\u00e1s. Lo \u00fanico a mejorar el tiempo de espera, 45 min el plato principal, que siempre fue as\u00ed en este lugar, pero lo vale."
+    }, 
+    {
+      "date": "8 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Muy recomendable. Me encanta este lugar. He probado varios platos y todos tienen muy buenos sabores. Los ravioles con confit de cordero, con. La trucha muy buena. El ojo de bife... en fin... muy buena la comida. La ambientacion no existe, es un lugar de la zona con muy buena dedicacion a la carta, sencillo para comer con la familia, peque\u00f1o y apartado de la urbe. El servicio es adecuado. Tardan un poco los platos por lo artesanal de los mismos. Precio aceptable. Otro aspecto a tener en cuenta es los horarios de atencion, he pasado varias veces y encontrado cerrado. Abre los fines de semana"
+    }, 
+    {
+      "date": "26 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sinfante", 
+      "text": "El lugar es espect\u00e1cular y todo es exquisito, fu\u00ed infinidad de veces y voy a seguir yendo."
+    }
+  ]
+}

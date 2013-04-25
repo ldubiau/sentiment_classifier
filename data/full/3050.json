@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Solerito", 
+      "text": "La verdad muy decepcionante... Pedimos una porcion (para 2) de Vacio y una de Papas fritas...Yo no se si es porque era tarde, eran las 11 de la noche, o era lo ultimo que les quedaba de vacio pero la porcion no solo era chica, sino que estaba durisima y llena de grasa! Pedimos por favor que nos trajeran cuchillos mas filosos porque era imposible cortarla... La atencion bastante floja, teniamos que pedir cosa por cosa en vez de traer todo de una. Nos pedimos caipirovska... UN DESASTRE! muy mal hecha!!! sin hielo, con poca limas, sin az\u00facar y puro vodka!!!... INTOMABLE!!! Lo mejor: las papas!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "erimo", 
+      "text": "El precio del lugar es razonable y las porciones son generosas. Una carta muy variada entre platos gourmet y parrilla. La calidad es buena. Los tragos vienen generosos y ricos. Lo \u00fanico flojo (a veces) es la atenci\u00f3n, podr\u00eda mejorar.\r\nPara ir con amigos o en pareja. Recomendable."
+    }, 
+    {
+      "date": "5 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "julieta555", 
+      "text": "Si estas de pasada no es una mala alternativa para unos drinks o appetizers. Puede llegar a resultar un poco ruidoso para una salida mas intima. Los postres son ricos pero la comida podria mejorar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "balenagi", 
+      "text": "fui con unaamiga un domingo al medio dia y es como comer en la terracita de casa, riquisimo el asado, al aire libre, porciones grandes y sabrosas, la atencion muy buena"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "9 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dmaqui", 
+      "text": "Voy bastante seguido, la comida es excelente y uno de los mozos es bastante antipatico, pero el resto son muy amables!! muy recomendable el lugar"
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fukerito", 
+      "text": "Fui para el dia de la madre con ella precisamente. Pedimos todo para compartir, primero un plato de rabas que estaban excelentes y de plato principal una suprema a la napolitana con papas fritas que estaban muy bien.\r\nTambien pedimos 1 gaseosa, 1 copa de vino y 1 agua, sin postre todo por $74.\r\nPrecios elevados que si vale la pena la compa\u00f1ia vale pagarlo.\r\nLugar chico que los fines de semana a la noche se llena y tengo entendido que los Sabados a veces toca una banda de jazz para acompa\u00f1ar tambien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lore28", 
+      "text": "Muy recomnedable las pizzas son muy buenas y los precios estan acordes."
+    }
+  ]
+}

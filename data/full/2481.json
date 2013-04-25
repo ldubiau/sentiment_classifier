@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "21 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "elwitre", 
+      "text": "Llegue a las 22:15 de un jueves con 5 amigos, eran las 23 y no me habian traido ni los cubiertos, la gente se quejaba que no tenia forma de comer porque si no era que no tenian cubiertos, le faltaba el plato o algun otra cosa para poder empezar a comer\r\nCuando empezamos a ver que la unica moza que habia no daba para satisfacer a todos los comenzales, nos levantamos y nos fuimos\r\nSoy del barrio y puedo dar fe que en otros tiempos ese restaurant era mucho mejor"
+    }, 
+    {
+      "date": "28 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "soleyleo", 
+      "text": "Antes la comida era un poco mejor. Ahora es mal\u00edsima, sobre todo las entradas que dan pena. Son un mont\u00f3n de platos todos repetidos. Adem\u00e1s aparentan estar viejos o en mal estado. \u00a1Recomendamos no ir!."
+    }, 
+    {
+      "date": "23 Ene 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "shuly83", 
+      "text": "Sabio y antiguo consejo: lo barato sale caro. \r\nEleg\u00ed este lugar para festejar mi cumple y nunca me equivoqu\u00e9 tanto. Lo peor es la moza que no sab\u00eda ni siquiera la diferencia entre agua con y sin gas. No hab\u00eda retirado los platos con sobras cuando trajo el postre. La comida fue otro desastre. \r\nNo vuelvo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "javerius", 
+      "text": "No es el mejor lugar para ir a comer, pero si para comprar y llevar.\r\n\r\nExcelente los sandwiches de bondiola"
+    }, 
+    {
+      "date": "19 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "silar", 
+      "text": "La comida deja mucho que desear, achuras demasiado cocidas y secas, cortes de asado delgados como papel, tambi\u00e9n sobrecocido. M\u00e1s o menos zafaba el matambre a la pizza y el postre. Primera y \u00faltima vez."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pacotillo", 
+      "text": "muy bun lugar no me arerepiento en haberlo elegido. por ese precio cene con entradas, cortes de cerdo, y postres a eleccion incluidos"
+    }
+  ]
+}

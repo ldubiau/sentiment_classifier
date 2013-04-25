@@ -1,0 +1,508 @@
+{
+  "malos": [
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "puli19", 
+      "text": "Realmente no me parecio bueno el servicio, nos sirvieron el desayuno a destiempo primero el cafe con leche y luego las tostadas, asi que cuando comi las tostadas el cafe con leche estaba frio, y encima te quedas atorada por que te sirven en tazas antiguas y poca cantidad. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Es la segunda vez que intento ir luego de probar un fin de semana en el que estaba lleno y la mala onda de la moza no ayud\u00f3 mucho pero no me quise quedar con esa imagen y poder probar sus productos.\r\nOpt\u00e9 por un licuado de banana, naranja y jengibre ($20) m\u00e1s una porci\u00f3n de mousse de chocolante blanco ($28) y un muffin de banana y nuez ($12) y mi se\u00f1ora eligi\u00f3 un licuado de pera, menta y banana m\u00e1s una porci\u00f3n de torta banana split. Los productos son buenos y nos gustaron.\r\nLa atenci\u00f3n de la moza es muy forzada y no suena natural. Habr\u00eda que mejorar ese punto."
+    }, 
+    {
+      "date": "9 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Fui varias veces. Siempre me llevo la misma impresi\u00f3n. El lugar es muy lindo para tomar un desayuno o merienda, tambi\u00e9n para almorzar algo informal. Esta vez fui a merendar, caf\u00e9 con leche con tostadas de pan casero. El queso y la mermelada son excelentes y sirven una porci\u00f3n abundante. El pan es tambi\u00e9n muy bueno y la porci\u00f3n es interesante. El caf\u00e9 con leche es bueno pero lo sirven en una taza que a mi entender deber\u00eda ser m\u00e1s grande. La cantidad est\u00e1 mas cerca de un cortado en jarrito. La atenci\u00f3n es lenta pero amable. El precio un poco elevado. Volver\u00e9 a probar los sandwichs."
+    }, 
+    {
+      "date": "5 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "TeaFan", 
+      "text": "Lugar muy lindo! La atencion bastante lenta y los mozos despistados. Los licuados son chicos, comimos un sand de lomo con cebollas caramelizadas que estaba muy rico. Me lleve pasteleria a casa que estaba muy rica. Relacion precio calidad es buena pero con respecto a la cantidad las porciones son chicas.  El servicio del te no me parecio bueno. Voy a volver para seguir probando!"
+    }, 
+    {
+      "date": "24 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Trilce", 
+      "text": "Fui a merendar y ped\u00ed la opci\u00f3n que incluye caf\u00e9 con leche, scones con mermelada y un jugo de naranja. Todo de buena calidad. Lo \u00fanico para tener en cuenta es lo reducido de las porciones, bien para una mujer, insuficiente para un hombre (en particular los scones). Es cuesti\u00f3n de preferencias personales. De todos modos, volver\u00e9 para probar las opciones del almuerzo, ya que el lugar es muy lindo y los usuarios de la Gu\u00eda recomiendan varios platos. Pero no creo que vuelva a merendar."
+    }, 
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Kenny", 
+      "text": "Muy bueno el sandwich de lomo y el pan de campo!"
+    }, 
+    {
+      "date": "22 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AnaBS", 
+      "text": "Ambiente lindo y femenino, tiene ensaladas, tartas, sandwiches y variedad en pasteleria bien tentadora!. Buenos jugos y t\u00e9s. Atencion y servicio bien."
+    }, 
+    {
+      "date": "14 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "chiquitalinda", 
+      "text": "Segunda visita, segunda oportunidad, otra vez para merendar y probar otra torta. La atenci\u00f3n es apenas buena, mucho tiempo para que te vengan a atender, la cheesecake estaba CONGELADA. Mi amiga no me dej\u00f3 quejarme, pero no creo que vuelva."
+    }, 
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rosapalav", 
+      "text": "La verdad la pasamos excelente, fuimos con mi marido. Almorzamos en la terraza, el lugar muy agradable, la atenci\u00f3n regular, pero a pesar de eso bastante recomendable. En lo que respecta a nuestra experiencia en Dulce, recomendamos la Ensalada de Pollo y el Lomo Fajita. En cuanto a la carta de vinos se ve bastante acotada, pero para lo que es lugar, me parece bastante acorde.\r\nLo \u00fanico desfavorable la atenci\u00f3n de la camarera, que parec\u00eda desesperada por las propinas.\r\nEspero le sirva a los dem\u00e1s usuarios."
+    }, 
+    {
+      "date": "9 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mariana de devoto", 
+      "text": "excelentes las tartas!!! vayan a probarlas"
+    }, 
+    {
+      "date": "25 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lua", 
+      "text": "Fui con amigas y ninguna qued\u00f3 conforme con el servicio. Pedimos una \"merienda\" y nos trajeron todo a destiempo. Cuando llegaron las tostadas, ya nos hab\u00edamos terminado el caf\u00e9. El jugo de naranja que venia en la promo nunca lo trajeron y cuando lo reclamamos la moza nos contest\u00f3 de mala gana \"se nos acab\u00f3 el jugo, hoy vino mucho gente\" y se dio media vuelta. NO vuelvo."
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "florcele", 
+      "text": "Un lugar muy agradable con prpopuestas muy sabrosas y muy buena atenci\u00f3n, recomendable"
+    }, 
+    {
+      "date": "26 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Heaven84", 
+      "text": "Fui sola al mediod\u00eda, el lugar es muy coqueto y la atenci\u00f3n fue correcta. La camarera un poco hosca. Ped\u00ed una limonada que estaba deliciosa (aprox 12 pesos) y un wrap de pollo thai (25 aprox) que estaba muy rico tambi\u00e9n. En el sal\u00f3n tienen muchas cositas dulces y algunas saladas que se pueden adquirir para llevar al hogar.. Me llev\u00e9 unas cuantas cosas y todas mantuvieron la excelente calidad de lo que consum\u00ed all\u00ed. Sin dudas volver\u00e9 pronto."
+    }, 
+    {
+      "date": "25 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "franco1515", 
+      "text": "La verdad que es una maravilla todo todo!!! se come muy rico y la atenci\u00f3n es exelente, solo que no me gust\u00f3 ver como es el trato de los  superiores  hacia  las camareras !! una pena tener que presenciar eso !!"
+    }, 
+    {
+      "date": "1 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "balotage", 
+      "text": "Fuimos a tomar el t\u00e9. El sal\u00f3n es acogedor y la ambientaci\u00f3n agradable, aunque las mesas est\u00e1n un poco juntas. Atenci\u00f3n correcta. \r\nTiene una amplia carta de blends de t\u00e9s en hebras, licuados y jugos originales. \r\nPara acompa\u00f1ar ofrecen una interesante variedad de opciones, todas muy tentadoras, frescas y caseras. No hay duda de que est\u00e1n hechas por manos profesionales de la pasteler\u00eda.\r\nEs muy recomendable a la hora de la merienda."
+    }, 
+    {
+      "date": "3 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nijdenmu", 
+      "text": "Lugar acogedor y bonito para tomar el t\u00e9 y relajarse en la terraza, la comidamuy rica y sencilla"
+    }, 
+    {
+      "date": "1 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MCM", 
+      "text": "Todo muy rico y bien servido, hermosa vajilla y lindo ambiente. Ideal para almorzar algo liviano y para merendar, con precios razonables. La due\u00f1a, algo densa, no para de hablar y dar indicaciones, y atonta a los chicos y chicas que atienden. Pero es muy recomendable!"
+    }, 
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Agradable lugar para desayunar o merendar un d\u00eda de sol, leer el diario y relajarse. Buena oferta de desayuno, con ricas medialunas, pan tostado y mermeladas. La vajilla es realmente algo para destacar debido a su belleza y elegancia. Tienen buenos y variados productos de reposter\u00eda. La atenci\u00f3n de los mozos es buena pero la due\u00f1a podr\u00eda relajarse un poco (no transmite mucha tranquilidad). Una buena opci\u00f3n para la zona de Colegiales."
+    }, 
+    {
+      "date": "28 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lunasalgado", 
+      "text": "El lugar es muy lindo y la merienda es com\u00fan tirando a buena. El servicio un poco lento y la que parec\u00eda ser la due\u00f1a criticaba a la camarera varias veces, por lo que los encargados de servicio ten\u00edan caras de poca felicidad.\r\nMas all\u00e1 de eso un lindo lugar para pasar a tomar un caf\u00e9."
+    }, 
+    {
+      "date": "28 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Polillita", 
+      "text": "Muy lindo lugar, una casita reciclada en una esquina tranquila, muy bien puesta.\r\nNos atendieron r\u00e1pido, pedimos ensalada de pollo riqu\u00edsima.\r\nExcelente para almorzar en la terrada un d\u00eda de sol. Los precios acordes.\r\nVolveremos!"
+    }, 
+    {
+      "date": "19 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mumimumi", 
+      "text": "fuimos a merendar. El lugar es muy ameno, la atencion es muy buena. Los precios de algunos cosas son algo elevados. Todo muy bien presentado.\r\nLo recomiendo para un almuerzo de fin de semana."
+    }, 
+    {
+      "date": "22 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "majo_nqn", 
+      "text": "Decidi comer en este lugar por las referencias positivas que daba guia oleo, la ambientacion del lugar es muy linda y la pasteleria esta muy bien lograda ya que rompe con los gustos clasicos que se encuentran en todos lados, ideal para la hora del te."
+    }, 
+    {
+      "date": "7 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Verolau", 
+      "text": "Todo muy bien salvo que cuando ped\u00ed que me cambiaran un caf\u00e9 con leche que estaba aguado se negaron. Eso no es buena atenci\u00f3n al cliente."
+    }, 
+    {
+      "date": "13 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "megustacomer", 
+      "text": "esta bien el lugar para el almuerzo, buenos productos y lindas presentaciones en los sandwich, la atencion es simpatica"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Blopemma", 
+      "text": "El lugar es hermoso!! La comida es bastante variada y muy buena. Fuimos varias veces y comimos cosas distintas cada vez y ninguna nos decepciono. Las cosas dulces la tienen en un mostrador que te invita a pedir de todo! El unico detalle para mi es que el servicio es un poquito lento y/o disperso."
+    }, 
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "EugeNas", 
+      "text": "Riqu\u00edsimo! El lugar muy lindo, los juegos de t\u00e9 preciosos, el t\u00e9 Belgium nougat una delicia y los dulces incre\u00edbles (el merengue del lemon pie sublime y las almendras caramelizadas en la tarta de manzana todo un detalle). Muy recomendable."
+    }, 
+    {
+      "date": "29 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Porteniodeados", 
+      "text": "Fuimos dos, por la merienda, y realmente los productos son de muy buena calidad, pedimos t\u00e9, y es muy recomendable, vino con jugo natural de naranja, para comer pedimos unos casi tostados, son de pan de campo con queso gratinado, una porci\u00f3n de bud\u00edn de zanahoria y una croissant, imperdible, fresca y super crujiente.\r\nEl servicio es bueno informal, pero son personas j\u00f3venes atentas y con buena voluntad.\r\nLa se\u00f1orita de la caja resulto muy simp\u00e1tica cuando le hice unas preguntas, por eso destaco que tienen buen servicio. Recomiendo el lugar esta bien decorado y es muy c\u00e1lido."
+    }, 
+    {
+      "date": "17 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Luli76", 
+      "text": "Todo muy pero muy rico, el lugar es lindo ! No tienen sillitas altas y si vas a la terraza tenes que bajar a pedir y a pagar pues el mozo se \"olvida\" y no aparece mas. Pero la comida vale la pena. Excelente el wrap thai !"
+    }, 
+    {
+      "date": "21 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Capis85", 
+      "text": "Fuimos a merendar un domingo a la tarde. El lugar es acojedor y tiene una gran mesada / heladera exhibiendo manjares de pasteleria de autor y tipo europea, se te hace agua la boca solo de verlos. Las meriendas a precios razonables y completas, pedi un submarino con galletas de avena riquisimas, mi novia otra merienda con un tostado de queso fundido gratinado muy rico y brochete de frutas. La atencion inicial algo lenta, vino el due\u00f1o a darnos los menus, pero despues todo bien. Raro que cerraran a las 9 un domingo visperia feriado, rebotaron muchos clientes q entraban casi a hora de cierre"
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Roro07", 
+      "text": "El ambiente es muy calido y ni bien entras hay una gran vitrina llena de cosas tentadoras.\r\nLa comida 10 puntos, tanto lo dulce como lo salado, pedimos un sandwich de salmon, el cual recomiendo para compartir, las porciones de tarta son increibles y tambien las tostadas. El detalle de la vajilla es muy delicado, sin duda buscaron llegar al corazon del recuerdo con la vajilla de la abuela.\r\nEl muffing de banana con nuez super esponjoso.\r\nLa atencion, un poco desvolada, la moza se volvio 3 veces diferentes para preguntar recordar el pedido.\r\nUn lugar para volver en pareja o con amigas"
+    }, 
+    {
+      "date": "9 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anterior", 
+      "text": "Buenisimo, super recomendable. Comer en la terrazita por la noche un placer, igual que afuera en el patio de entrada. Los sabores y combinaciones deliciosas tanto salado como dulces. La ensalada vegetales grillados exc, las tartas igual. Lo m\u00e1s el sanwich de fajitas pero pedilo con la focaccia de aceitunas. Me lo vas agradecer. Postre (cuando hay para supergolosos) pedi el \"tres leches\", riquisimo. Es volver a los sabores reales de los alimentos. Un placer. Precio calidad muy bueno y la antenci\u00f3n tanto del d\u00eda como la noche excelente todos los chicos muy amables. Da gusto ir."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "FlaviaG", 
+      "text": "Para mi lo mejor que hacen es la ensalada de pollo, riqu\u00edsima!. El trato es correcto, el lugar es  muy bonito, con una ambientaci\u00f3n muy acogedora. En mi caso prefiero la terraza para almorzar al aire libre."
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lacoqui", 
+      "text": "excelente,los sandwiches son riquisimos,grandes,con mucho relleno y un pan muy rico,el cheesecake muy bueno,super recomendable,la atencion es rapida  y amable,me cierra en todos los aspectos"
+    }, 
+    {
+      "date": "4 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Komishama", 
+      "text": "El lugar es peque\u00f1o pero bien ambientado.\r\nPedi una ensalada de atun, arroz yamani y albahca que estaba realmente espectacular. Bien servida y abundante.\r\nNo probe nada dulce, si bien la oferta me parecio muy buena.\r\nVolvere sin dudas a seguir desgustando."
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Umita123", 
+      "text": "Adoro este lugar. La decoraci\u00f3n es muy linda, la vajilla es como la de la casa de la abuela. Recomiendo el sandwich de salmon con queso crema y rucula, es mi favorito!!\r\nY para la tarde, esta buena la terraza, muy intima hay solo 3 mesas. Podes llevarte los diarios del dia y revistas. De lo dulce que probe: pastafrola de membrillo buena pero nada guauuu, budin de chocolate blanco y frutos del bosque: riquisimo!!!!Lo recuerdo y se me hace agua a la boca\r\nPodria mejorar la atenci\u00f3n, pero igual altamente recomendable."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Chopilandia", 
+      "text": "Un lugar muy bien decorado y acogedor, fuimos un s\u00e1bado en la noche, pedimos la merienda Dulce Buenos Aires, todo muy rico, en especial el muffin de ar\u00e1ndano y el caf\u00e9. Lo \u00fanico malo es que el caf\u00e9 viene en tazas muy peque\u00f1as y no es suficiente para la cantidad de comida. Regresaremos sin duda a probar el almuerzo"
+    }, 
+    {
+      "date": "6 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SebKo", 
+      "text": "Hermosa casona. Un lugar impecable y con una terraza espl\u00e9ndida. La comida (sandwiches, ensaladas) me pareci\u00f3 excelente. La atenci\u00f3n muy amable. Hay unas papas, en peque\u00f1a porci\u00f3n, por un precio s\u00faper accesible que son para probar."
+    }, 
+    {
+      "date": "25 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elgroso", 
+      "text": "Espectacular para ir a tomar el te, me encantan las opciones dulces y los te en hebras. El lugar es muy lindo."
+    }, 
+    {
+      "date": "11 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "noradebartolo", 
+      "text": "Fui con amigos a merendar y realmente todo estuvo excelente. El tema es que no est\u00e1 en Belgrano sino en Colegiales lo que confunde bastante a los que no conocen la zona."
+    }, 
+    {
+      "date": "16 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mitxirrika", 
+      "text": "El lugar es muy bonito y el ambiente intimo pero informal. La comida viene en porciones abundantes y es de muy buena calidad, con una presentacion que ayuda. El servicio atento y efectivo.\r\nNo probamos las tortas ni los dulces, los dejamos para un dia ir a tomar el te."
+    }, 
+    {
+      "date": "15 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nicoburton", 
+      "text": "EXCELENTE!!!!!! genial.. me encanto todo.. lo que comi y lo que no comi!!! se ve muuuyyy tentador!! la verdad los felicito.. da gusto ir a un lugar asi!\r\ngracias!"
+    }, 
+    {
+      "date": "10 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Safer", 
+      "text": "Excelente el Te de Lim\u00f3n, es como un mousse de lim\u00f3n, realmente delicioso. La ambientaci\u00f3n es re chik, divine"
+    }, 
+    {
+      "date": "9 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "danirams", 
+      "text": "Es dificil encontrar gazpacho en Buenos Aires y Dulce se anim\u00f3 para deleitarnos."
+    }, 
+    {
+      "date": "9 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "natifeder", 
+      "text": "Me encanto el lugar y el sandwich de pollo es riquisimo! Tambien probe un brownie de chocolate blanco y una torta de mousse de dulce de leche increibles!!!!"
+    }, 
+    {
+      "date": "9 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vsassoon", 
+      "text": "Todo excelente. Riquisimooooo!!!!"
+    }, 
+    {
+      "date": "9 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nadin1978", 
+      "text": "La comida es EXCELENTE, y me atendieron y trajeron todo en el instante. El ambiente es excelente, la vajilla hermosa y super agradable todo!!!! Volvere muy seguido"
+    }, 
+    {
+      "date": "5 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lanuk", 
+      "text": "Riqu\u00edsima la ensalada de pollo y los brownies de chocolate blanco!!! Un c\u00e1lido ambiente con mucha onda. Sin dudas voy a volver..."
+    }, 
+    {
+      "date": "1 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pinis", 
+      "text": "todo muy rico, y un ambiente muy especial, bien decorado. Atencion excelente"
+    }, 
+    {
+      "date": "2 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tamiwais", 
+      "text": "inmejorable para un buen ambiente, buen servicio y cosas ricas, atendido por su due\u00f1a."
+    }, 
+    {
+      "date": "8 Dic 0011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rambambiro", 
+      "text": "Muy bueno para ir de d\u00eda, excelentes ensaladas y sandwiches. No se si por las noches cambian de due\u00f1o pero te atienden mucho peor que al mediod\u00eda"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "15 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "FLAKY2011", 
+      "text": "un lugar muy peque\u00f1o, la comida no me gusto caro para lo q ofrecen en cuanto a calidad en todos los aspectos. no vuelvooooo!!!!!!!"
+    }, 
+    {
+      "date": "14 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "tomito1", 
+      "text": "Lugar muy peque\u00f1o,atencion buena , comida muy medio pelo, platos caros, no vuelvo"
+    }, 
+    {
+      "date": "3 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Patwess", 
+      "text": "la paella de mariscos es lo peor que comi en mi vida!!!!! No vayan.Sosa sin gusto y los pocos mariscos ( con lupa) duros y mal cocidos"
+    }, 
+    {
+      "date": "21 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Nictio", 
+      "text": "No es recomendable A la tortilla le falto coccion La paella era casi exclusivamente de tentaculos de calamar  Solo 2 o 3 mejillones que parecian de lata Las valvas eran de adorno porque estaban vacias Pedimos pollo al curry con timbal de arroz y trajeron un pegote de arroz con pollo aderezado con curry"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tutuki20", 
+      "text": "Un lugar muy calido, me lo recomendaron por sus pescados y la verdad un exito! Volveremos sin dudarlo... el panqueque de manzana IM PRE SIO NAN  TE"
+    }, 
+    {
+      "date": "20 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "candy2003", 
+      "text": "Fuimos por una promocion de internet, la comida estuvo bastante bien ,la tortilla muy buena , pero los otros platos, especialmente el lenguado anunciado bien abundante, para compartir, era algo fam\u00e9lico. La preparacion estuvo correcta y la cr\u00edt\u00edca mayor es para el valor del cubierto, que no estaba anunciado en la promoci\u00f3n y fu\u00e9 bastante alto considerando que s\u00f3lo era una canastita con pan,sin siquiera un trocito de manteca.Por lo tanto, ojo con las promo pigit,click,etc, esta estuvo decorosa, pero hasta ah\u00ed nom\u00e1s"
+    }, 
+    {
+      "date": "6 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kukosis", 
+      "text": "con un poco de tiempo si le avisas te puede preparar un pescado espectacular."
+    }, 
+    {
+      "date": "17 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kukosis", 
+      "text": "una paella espa\u00f1ola riquisima. no perderse el revuelto de hongos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lilianaurquiza", 
+      "text": "Comida casera, lugar tranquilo y sin ruidos, las empanadas fritas son para comer sin parar, fuimos el 09 de julio, comimos locro y la pasamos muy bien,\r\nVolveremos con seguridad."
+    }, 
+    {
+      "date": "19 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MarinaVS", 
+      "text": "Los mejores mejillones que prob\u00e9! La salsita con la que vienen es imperdible! La tortilla, el pescado y el panqueque de manzana que compartimos tambi\u00e9n de excelente calidad, fresco y cada plato con un sabor especial. Muy recomendable!"
+    }, 
+    {
+      "date": "12 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Michello", 
+      "text": "Un lugar muy c\u00e1lido. Excelente la atenci\u00f3n de la camarera. El chef se acerc\u00f3 a la mesa y entabl\u00f3 una amable charla con nosotros explicando sus or\u00edgenes y el del rest\u00f3.\r\nLa comida espectacular, tortilla babee, mejillones con salsa vasca y pescado a la plancha. Todo muy fresco y reci\u00e9n preparado.\r\nRecomiendo"
+    }, 
+    {
+      "date": "9 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Thelmita", 
+      "text": "Fuimos con amigos... el lugar super calido, la paella excelente y la tortilla deliciosa!!! Jugosa, como deber ser... altamente recomendable"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "18 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ignifugo", 
+      "text": "Muy mala atenci\u00f3n y muy poca predisposicion para trabajar.El personal contesta mal ante los requerimientos.La comida tardo en llegar 40 minutos y era escasa, mucho calor y caro.\r\nNo lo recomiendo!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cooglar", 
+      "text": "Ambiente muy ameno y tranquilo, muy bien atendidos, muy atentos a lo solicitado, la comida muy sabrosa y abundante, y el show fue excelente. Lugar muy recomendable por lo economico y simple, bien \"Porte\u00f1o\" aunque de los New."
+    }, 
+    {
+      "date": "30 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carruters", 
+      "text": "excelente la comida. me encanto.\r\nla calidad en la atencion tambien muy buena\r\nlimpieza perfecto\r\nrapidez. Para recomendar\r\nporciones abundantes"
+    }
+  ]
+}

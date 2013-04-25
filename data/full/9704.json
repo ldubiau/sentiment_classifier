@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "14 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JoLe", 
+      "text": "fui con amigos y la pasamos muy bien cenamos a la carta, los precios son los mejores de la zona, buena ambientaci\u00f3n y buena atenci\u00f3n muy muy recomendado."
+    }, 
+    {
+      "date": "20 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eclectica", 
+      "text": "Fui con unos amigos, en principio para conocer, es un lugar nuevo en la zona. La carta interesante,variada,el ambiente en si tranquilo, tienen una terraza no vista desde la calle pero que lo hace un espacio intimo. La comida, muy buena! platos bien presentados abundantes, recomiendo 100% el Volcan de chocolate! atencion correcta buenas sugerencias, precios razonables,la pasamos muy bien!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "juli86", 
+      "text": "La propuesta sorprende desde la cocina. Un lugar como muchos en palermo con una carta basica pero con platos bien elaborados. Excelente el resultado final. El lugar c\u00e1lido, pero todav\u00eda le falta algo. El servicio muy atento. Lo recomiendo, es dificil comer bien en palermo."
+    }, 
+    {
+      "date": "18 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juandevalle", 
+      "text": "El lugar esta muy bueno! Tiene una terraza muy bien ambientada y los precios son excelentes. La atencion muy correcta con muy buenas sugerencias de la carta. Para comer hay de todo. Es para recomendar!"
+    }, 
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "emmo", 
+      "text": "Fui con unos amigos a tomar algo y de paso una perfectas rabas... El lugar me encanto, es nuevo parece! Mucha onda, muy lindo y buena atencion... Tomamos Tragos muy bueno a un precio irrazonable... Muy barato!!! Voy a volver y lo recomiendo.."
+    }
+  ]
+}

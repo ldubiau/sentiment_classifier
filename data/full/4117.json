@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "20 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "vecina", 
+      "text": "La carne estaba recontra marcada, el servicio del encargado fu\u00e9 malo, su respuesta fu\u00e9 y que  quer\u00e8s por ese precio..."
+    }, 
+    {
+      "date": "13 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Goldenfingers", 
+      "text": "Las dos veces que fui, la carne no parec\u00eda estar del todo fresca, como de dos o tres d\u00edas de estar en heladera. El parrillero bueno, pero el servicio tarda demasiado. Las porciones son muy reducidas aunque las promocionan como \\\"abundante\\\", y el precio de las guarniciones es elevado. El lugar es agradable aunque peque\u00f1o, pero deben mejorar mucho."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jacques", 
+      "text": "Es una tipica parrila de barrio, el precio me parece accesible y concide con el lugar.Ayer se corto la luz en esa zona y la verdad que el personal le puso la mejor onda a pesar de las condiciones.Creo que es ideal para ir con amigos o cuando queres comer carne sin gastar tanto."
+    }
+  ]
+}

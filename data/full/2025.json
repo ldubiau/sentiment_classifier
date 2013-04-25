@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bellota", 
+      "text": "Muy buen servicio, la camarera muy atenta. Espectaculares los tragos, pedimos un \"Brown sugar\" era gigante!! con buen licor. La comida muy rica, se nota el toque casero especialmente en el pan que es imperdible."
+    }, 
+    {
+      "date": "5 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fabbar1", 
+      "text": "Muy buena variedad de tapas y un excelente mojito para acompa\u00f1arlas. \r\nEl lugar es c\u00e1lido y los mozos son esmerados. \r\nDetalle en contra: los d\u00edas de semana cierra muy temprano a la noche."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ipanoff", 
+      "text": "No fui a comer, s\u00f3lo tom\u00e9 cerveza y vino. El lugar est\u00e1 muy bueno y la atenci\u00f3n es esmerada. Volver\u00e9 seguramente."
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maurello", 
+      "text": "Muy buen lugar, calido e informal, la comida muy buena: pedimos unas pizzas y una ensalada de pollo salteado con salsa de soja. Una creme brulee de postre que estaba excelente. Cerramos con unos tragos con helado espectaculares. Muy buena materia prima en todo lo que sirven, seguramente volvere."
+    }, 
+    {
+      "date": "24 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Naduchi", 
+      "text": "Me gust\u00f3 mucho la ambientaci\u00f3n, la atenci\u00f3n de los mozos muy buena (ej. se ofrecen a sacarte fotos) son muy atentos. La comida muy buena y los precios tambi\u00e9n. S\u00f3lo que dejan de servir platos temprano para mi gusto."
+    }, 
+    {
+      "date": "6 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Kechu", 
+      "text": "Muy buen servicio de los mozos y encargado de turno. Tuve la oportunidad de ir en reitaradas ocasiones y nunca tuve problemas. Muy buen cheff, tiene predisposici\u00f3n con el cliente. \r\nMuy recomendable."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "27 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Rospide", 
+      "text": "Lo recomiendo para ver espect\u00e1culos , no como restaurant."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "novygourmet", 
+      "text": "Fuimos a ver a Soledad Villamil y comimos en el lugar, una clasica cena, sin ninguna sorpresa, para salir del paso, mientras esperamos el comienzo del espectaculo. No es como para ir especialmente a cenar..."
+    }, 
+    {
+      "date": "18 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elparrillero", 
+      "text": "Muy bueno el show. La comida sin sorpresas, clasica, pero buena calidad."
+    }, 
+    {
+      "date": "27 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "tomeu", 
+      "text": "Fuimos a ver el espectaculo y nos sorprendio mucho la gran calidad de las comida. Todo estaba especialmente bueno. No hay que desechar la idea de comer bien, mejor que en algunos de los \"solo restaurante\". La pasta era de primer nivel."
+    }, 
+    {
+      "date": "9 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CEAA53", 
+      "text": "Muy buen Centro Cultural. \r\nSiempre presentan el mejor tango.\r\nBuen ambiente."
+    }, 
+    {
+      "date": "1 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "riverava", 
+      "text": "Excelente lugar para comer y beber disfrutando de los espect\u00e1culos, que son siempre el plato fuerte. Muy recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elbocha01", 
+      "text": "Excelente lugar para comer y disfrutar de espect\u00e1culos de buen nivel."
+    }
+  ]
+}

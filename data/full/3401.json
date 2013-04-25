@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "1 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mariano_Chola", 
+      "text": "Las porciones son muy abundantes. Un ambiente lindo y relajado, y el mozo muy atento en el servicio. Recomendable."
+    }, 
+    {
+      "date": "29 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "arguius", 
+      "text": "La parrillada fue muy completa y la atenci\u00f3n genial. Gracias!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Laisa", 
+      "text": "Cenamos cuatro personas y todo estaba exquisito, el lomo a punto. La carne sabrosa, el pan buen\u00edsimo, la atenci\u00f3n muy eficiente y cordial, las mesas \u00a1grandes! y bien separadas entre s\u00ed. Muy recomendable y econ\u00f3mico."
+    }, 
+    {
+      "date": "4 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pelosin", 
+      "text": "Excelentes los fideos integrales con verduras salteadas !!!, los recomiendo...Las pastas y los panes los elaboran ahi mismo."
+    }, 
+    {
+      "date": "11 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lolamora23", 
+      "text": "Excelente la ambientaci\u00f3n y el pan casero es delicioso!"
+    }, 
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Este08", 
+      "text": "Ya conociamos el restaurante, somos de comer seguido afuera. vale la pena conocerlo. el salmon estaba en su punto justo y el pan y las pastas excelente."
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "malos": [
+    {
+      "date": "5 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "leoarcangeli", 
+      "text": "Tiene solo 2 opciones de men\u00fa ejecutivo, si te sal\u00eds de eso es caro para un almuerzo diario.\r\nLa comida es pasable pero olvidable, tiene buen aire acondicionado, la atenci\u00f3n es r\u00e1pida."
+    }, 
+    {
+      "date": "27 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Hippie", 
+      "text": "La atenci\u00f3n del lugar es lo mejorcito pero la comida... muy mala. Las papas fritas de las tapas parec\u00edan viejas, no las pudimos comer. Los tragos ricos."
+    }, 
+    {
+      "date": "1 Mar 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Sibaritano", 
+      "text": "Un verdadero desastre. La hamburguesa no ten\u00eda gusto a nada, el lugar es diminuto y tardan siglos en traer la comida. Adem\u00e1s, car\u00edsimo. La pas\u00e9 realmente mal."
+    }, 
+    {
+      "date": "6 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "DanielK", 
+      "text": "La hamburguesa estaba cruda, el tiempo de espera fue mas de 25 min. El lugar es muy chico y esta lleno de humo y toda la gente amontonada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "A favor:buena opci\u00f3n para almuerzos de mediod\u00eda.Ideal para cuando comienza la primavera con una mesita en la calle\r\nEn contra:no espere demasiado"
+    }, 
+    {
+      "date": "27 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Traidores", 
+      "text": "Muy buena opci\u00f3n en men\u00fa ejecutivo al mediod\u00eda, que incluye buena alternativas de postre. Tiene mesas en la vereda con ambiente calefaccionado y cubierto."
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Francin", 
+      "text": "Lindo lugar se destaca de los dem\u00e1s por la ambientaci\u00f3n."
+    }, 
+    {
+      "date": "17 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SushiCall", 
+      "text": "El menu ejecutivo del mediodia es muy bueno, calidad precio es inmejorable, tenes que ir temprano porque se llena."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "guillotes", 
+      "text": "Muy accesible la propuesta de tapas y cerveza, l\u00e1stima que las tapas en su mayor\u00eda estaban recalentadas y eso en particular se siente en las papas. \r\nLa textura de una papa recalentada es similar al corcho. \r\nEn el resto de los aspectos, el lugar es m\u00e1s que agradable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Luigilu", 
+      "text": "Excelente laternativa para el medio d\u00eda. El men\u00fa ejecutivo sali\u00f3 rapidisimo, muy buen precio por la zona y una comida diferente y sosprendente. Tomamos una sopa crema de calabaza que ven\u00eda acompa\u00f1ada de un roll de queso azul y mozzarela. El lugar, por el frio, estaba un poco lleno y es peque\u00f1o, pero la decoraci\u00f3n tiene muy buena onda y la atenci\u00f3n es r\u00e1pida, eficiente y calida. volveremos !!"
+    }, 
+    {
+      "date": "22 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "El_gran_catador", 
+      "text": "Uno de los mejores locales de san telmo para ir a comer a la noche antes de una salida, con amigos o con la pareja, por su variedad en el menu, su accesibilidad en el precio y la gran calidad de la comida. Mis felicitaciones al chef."
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pepo", 
+      "text": "muy buenas propuestas en wraps y bagels, me quede con ganas de tomar una sopa de leche de coco, camarones y fideos de arroz...volvere cuando la temperatura me acompa\u00f1e. El servicio es bueno y la comida rica y original."
+    }, 
+    {
+      "date": "20 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Laurita", 
+      "text": "El lugar es muy lindo, muy moderno y la carta de comidas es coherente. Sandwiches originalmente hechos en un pan tipo \u00e1rabe, con rellenos buen\u00edsimos. Mi opci\u00f3n fue una ensalada con unos langostinos salteados en miel y soja. Excelente. \u00c1ltamente recomendable."
+    }, 
+    {
+      "date": "19 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pepo", 
+      "text": "Visito este lugar frecuentemente y se superan constantemente. La comida es excelente, no por r\u00e1pida ni descuidada. El servicio mejor\u00f3 much\u00edsimo. Muy recomendable si andan por San Telmo. Eso si, al mediod\u00eda desborda."
+    }, 
+    {
+      "date": "30 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "melquiades", 
+      "text": "La comida es exquisita. Mucho m\u00e1s de lo que esperaba por el precio. Al mediod\u00eda tienen men\u00faes ejecutivos muy baratos ($13/$16). Es impecable la atenci\u00f3n, pod\u00e9s sentarte afuera sin que moleste el ruido de los autos o la gente que pasa por la vereda. Muy recomendable."
+    }, 
+    {
+      "date": "22 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gms", 
+      "text": "El lugar es tranquilo y agradable, tiene mesas afuera. La comida es excelente, aunque si sos de buen comer puede ser que un s\u00f3lo plato sea escaso... La atenci\u00f3n de los mozos 10 puntos! En un buen lugar para probar algo distinto."
+    }, 
+    {
+      "date": "16 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ledermanl", 
+      "text": "Los precios est\u00e1n caros. La comida es muy buena."
+    }, 
+    {
+      "date": "10 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "coreuta", 
+      "text": "Comida excelente. Los postres de chocolate son una locura."
+    }, 
+    {
+      "date": "1 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mmarina", 
+      "text": "La comida esta b\u00e1rbara, los chips de batata son mi perdici\u00f3n. Los postres son muy buenos."
+    }, 
+    {
+      "date": "21 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Betus", 
+      "text": "Cuando lo r\u00e1pido tambi\u00e9n es excelente. \r\nMuy bueno, 100 recomendable."
+    }, 
+    {
+      "date": "12 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pepo", 
+      "text": "Caminando por San Telmo entr\u00e9 a un bar moderno y nunca pens\u00e9 que iba a comer los ravioles de salm\u00f3n m\u00e1s ricos que prob\u00e9. Felicitaciones."
+    }, 
+    {
+      "date": "27 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "paulis", 
+      "text": "El sitio es muy lindo y a la noche se pueden tener las dos opciones: cenar y luego tomarse unos tragos."
+    }, 
+    {
+      "date": "23 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luchi80", 
+      "text": "La carta que presenta este lugar es muy original.\r\nMe cost\u00f3 decidir que probar, muchos me interesaron y lo que prob\u00e9 me gust\u00f3 mucho. Comida r\u00e1pida a otro nivel."
+    }, 
+    {
+      "date": "23 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Laurita", 
+      "text": "Muy recomendable el lugar, algo distinto en San Telmo, muy buenas las sopas."
+    }, 
+    {
+      "date": "10 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pompus", 
+      "text": "Lugar distinto en San Telmo. Buena cocina. Buenos tragos."
+    }
+  ]
+}

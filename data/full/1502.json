@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "27 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "jaypi", 
+      "text": "El lugar es lindo. Pero la atenci\u00f3n deja bastante que desear. Ped\u00ed una pizza que vino con la mitad de los ingredientes (se olvidaron de poner el jam\u00f3n crudo y las aceitunas) y la facturaron por su precio original a pesar de que se los hice saber.\r\nLas empanadas ten\u00edan un gusto horrible."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "heti", 
+      "text": "la verdad hace mucho no pruebo un plato como este, abundante, un toque de decoracion el plato, no me parece caro, ambiente acogedor.Lo recomiendo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juli0105", 
+      "text": "Voy a almorzar hace casi 2 anos todos los mediodias ya que mi trabajo esta a pocos metros. Me gusta la variedad de sus menues y la ecuacion precio calidad es excelente. La atencion es muy cordial y rapida, el ambiente que cada tanto lo renuevan es muy calido y bonito"
+    }
+  ]
+}

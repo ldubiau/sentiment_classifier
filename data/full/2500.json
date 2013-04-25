@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "27 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nievesitas", 
+      "text": "esta muy bueno es tranquilo tiene un ambiente muy  bohemio que hace  q uno se sienta muy comodo acompa\u00f1a todo su entorno cena ambiente musica es muy bueno .nieves-"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Evita", 
+      "text": "Gast\u00e9 $15 en bebida, comida y caf\u00e9. \r\nLo mejor que com\u00ed desde que llegu\u00e9 a Buenos Aires y al mejor precio.\r\nEl lugar es tranquilo, mucha onda y a la noche m\u00fasica muy copada."
+    }, 
+    {
+      "date": "5 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tia_caia", 
+      "text": "Los panqueques salados son gigantes para compartir entre dos si se quiere pedir postre. \r\nTodo preparado en el momento pero sin grandes demoras."
+    }
+  ]
+}

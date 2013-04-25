@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "27 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "abbyfisher", 
+      "text": "Hola, no escribo para calificar este restaurant sino para decirles que ya no est\u00e1 mas, en este lugar pusieron un \"carlitos\""
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sedfriviere", 
+      "text": "la comida es regular, nada mal para un bar, pero claro, esa no es su finalidad asique digamos, buena. El servicio es bastante malo, informal, lento, sin conocimientos, el ambiente es comodo y tranquilo. Recomiendo el lugar para ir a tomar algo, las opciones conbaileys (bomboncito cooper, otro de frutilla al igual que los margaritas dulces son excelentes)."
+    }, 
+    {
+      "date": "19 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "mldm", 
+      "text": "La comida es aceptable para un bar, los tragos podr\u00edan mejorar bastante, el servicio es informal (a veces demasiado), lo mas destacable es el ambiente muy bueno para un encuentro con amigos."
+    }, 
+    {
+      "date": "28 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "Es un lindo lugar, la comida es rica aunque simple (es un bar, no un restaurant). Volveria."
+    }
+  ]
+}

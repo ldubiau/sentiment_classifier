@@ -1,0 +1,44 @@
+{
+  "excelentes": [
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jazdeflores", 
+      "text": "muy buenas las tartas !!! recomiendo la de champignon!!!!!"
+    }, 
+    {
+      "date": "8 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "npvcoco", 
+      "text": "la verdad es que es exelente, como en casa realmente bueno!!!!!!"
+    }, 
+    {
+      "date": "3 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "el_chupa", 
+      "text": "felicitaciones al empanadero, ya que su produccion es una obra de arte."
+    }, 
+    {
+      "date": "30 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nalope", 
+      "text": "La calidad y el precio son muy buenos. En el local hay muy buena onda."
+    }
+  ]
+}

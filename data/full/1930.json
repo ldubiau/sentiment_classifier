@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "classicsailor", 
+      "text": "La comida deja bastante que desear\r\nLo mejor del lugar es la atenci\u00f3n digna de un 5 estrellas: el mozo Nino es excelente"
+    }, 
+    {
+      "date": "28 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "BuonMangiare", 
+      "text": "Mas alla de la muy buena atencion, un lugar que no es nada del otro mundo. La comida pasable y abundante, pero nada mas. El ambiente bastante pobre. Dentro de las no muchas cosas que hay en la carta, note que en otras mesas pedian algunas de ellas y no habia. Ademas de todo, carisimo, un brochette, un matambirto a la pizza, dos cocas y dos cafes, $108. Me parecio un robo total sin vino ni postre. No lo recomiendo."
+    }, 
+    {
+      "date": "23 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Polita", 
+      "text": "Un restaurante de barrio mas, la ambientacion es limitadisima pero esta limpio, en general la carta esta bien. Lo mas destacable son los platos del dia. El puchero del fin de semana... excelentisimo... como el de la abuela"
+    }, 
+    {
+      "date": "13 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Kani", 
+      "text": "En general, pedimos delivery los fines de semana al mediod\u00eda y a la noche y desde que conocimos las minutas de la huella no queremos variar de lugar porque realmente el servicio es bueno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "melangel", 
+      "text": "\u00a1Excelente!  Mi primera vez, pero no la \u00faltima.\r\nCom\u00ed s\u00f3lo ravioles con estofado, buen\u00edsimos, pero como estaba sentado al lado de la parrilla pude ver la carne DE PRIMERA que pon\u00edan. Excelente la atenci\u00f3n de Nino (es de Montenegro, que curioso),copa de champagne de cortes\u00eda. L\u00e1stima que tiene pocas mesas. Merece ser destacado."
+    }, 
+    {
+      "date": "5 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gabrielagv", 
+      "text": "El ambiente es muy bueno y la comida excelente. Me hice habitu\u00e9, es  c\u00f3modo. Soy del barrio y es una soluci\u00f3n agradable a mis noches."
+    }, 
+    {
+      "date": "14 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "_RO_ROSARIO", 
+      "text": "Me pareci\u00f3 espectacular. Vivo en la zona y no hay un lugar en donde se coma comida casera as\u00ed de rica."
+    }
+  ]
+}

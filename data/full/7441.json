@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "2 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "peladopepe", 
+      "text": "Un cl\u00e1sico en la zona para reunirse con amigos, que perdi\u00f3 un poco de terreno desde que se inaugur\u00f3 Pompeii. La especialidad, los platos con hamburquesas o salchichas completos, con papas y aros de cebolla. Si tu h\u00edgado aun lo permite no hay que dajar pasar la pizza con huevo frito. Las minutas son correctas, mercader\u00eda fresca pero no se destacan por ser exquisiteces.  La atenci\u00f3n es correcta, muchos de los mozos lleva una vida en el lugar. Alg\u00fan plato de reposter\u00eda como la tarantela, est\u00e1n ricos, pero no son manjares. No es muy caro pero tene en cuenta que es un restaurante de barrio."
+    }, 
+    {
+      "date": "23 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tnh74", 
+      "text": "La comida es siempre buena, el pollo a la canasta es muy recomendable, tambien las pastas y las carnes. Y para el que quiere algo mas r\u00e1pido, la piza es muy rica. Un lugar para cualquier momento del dia y cualquier dia de la semana, voy muy seguido y es un cl\u00e1sico de San Fernando."
+    }, 
+    {
+      "date": "5 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "JuampyDe", 
+      "text": "La especialidad Pollo a la canasta es un plato para compartir espectacular, en general la comida es muy buena, la atenci\u00f3n var\u00eda seg\u00fan quien te atienda y el ambiente es la mayor\u00eda de las veces ruidoso; los precios muy accesibles sobre todo si se comparten los platos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "nacho2009", 
+      "text": "El mejor lejos."
+    }
+  ]
+}

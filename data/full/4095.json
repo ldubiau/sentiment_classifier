@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "lacoqui", 
+      "text": "desastroso,la calidad de la comida bajo terriblemente,muy mala relacion calidad precio,los postres eran SOBRAS,ambiente HELADO"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ladynin", 
+      "text": "excelente opcion para los medio dias, sanwichs muy ricos y originales.\r\nLos panes son de elaboracion propia.\r\nLos precios muy accesible.\r\nRecomendable"
+    }, 
+    {
+      "date": "5 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lacoqui", 
+      "text": "excelente opci\u00f2n para almorzar a un precio m\u00e0s que accesible y comer rico. Com\u00ec un sandwich de peceto deshilado con salsa barbacoa y pan casero con limonada por 20 pesos,mouse de chocolate de postre,almorc\u00e8 por 30 pesos,s\u00f9per recomendable"
+    }, 
+    {
+      "date": "5 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ricota", 
+      "text": "Muy lindo el lugar, comida caserita, buena relacion calidad precio. \r\nMuy divertida la oferta de chocolates. Muuuy ricos."
+    }, 
+    {
+      "date": "20 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "natirizo", 
+      "text": "ya fui dos veces, y me encanta!! el sandwich de pollo no tiene desperdicio, es riquisimo, los panes son caseros y te traen de regalo una sopita que es muy rica. El lugar tiene buena onda y es tranquilo. Los postres son increibles, compartimos dos entre tres y eran excelentes, comimos torta de manzana con helado de canela y una copita, que no me acuerdo como se llama pero era deliciosa, con mouse, frutillas, etc. con el cafe nos dieron a probar los chocolates y tuvimos que llevarnos algunos porque son lo mas! lo super recomiendo"
+    }, 
+    {
+      "date": "9 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Karol", 
+      "text": "Los chocolates son incre\u00edbles! El croque est\u00e1 muy bien hecho y es una gran opci\u00f3n para un almuerzo tarde. El men\u00fa de medio d\u00eda est\u00e1 muy bien con sus sopas caseras. La atenci\u00f3n es excelente y el lugar est\u00e1 muy bien puesto. Es muy recomendable!"
+    }, 
+    {
+      "date": "3 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bambalina", 
+      "text": "Muy rico todo, muy bien presentado y el ambiente es muy confortable, asi como su atencion"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carlitosbeef", 
+      "text": "Fui al medio dia, pedimos 2 sandwiches uno de pollo con cebollas acarameladas acompa\u00f1ado de arroz y otro de queso y tomate.\r\npan casero y muy buenas materias primas.\r\nExcelente sabor.\r\nLindo lugar y buen servicio.\r\nVolvere!"
+    }, 
+    {
+      "date": "14 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andyss1", 
+      "text": "Todo 10 puntos, riquisimo, es super recomndable tanto para el almuerzo como para el desayuno!!"
+    }, 
+    {
+      "date": "27 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Violena", 
+      "text": "El men\u00fa de mediod\u00eda siempre es una gran opci\u00f3n. Riqu\u00edsimos sandwiches y ensaladas, tartas y postres. El lugar es c\u00e1lido y lindo y la atenci\u00f3n muy buena y siempre sonriente. Un verdadero placer.\r\nLos chocolates y la pasteler\u00eda (que pueden comerse ah\u00ed o comprar para llevar) son absolutamente deliciosos."
+    }, 
+    {
+      "date": "27 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lana84", 
+      "text": "El lugar es muy agradable y tranquilo, la comida muy rica, y la atencion muy buena... para recomendar!!"
+    }
+  ]
+}

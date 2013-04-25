@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Maxemm", 
+      "text": "el espectaculo es muy bueno , la comida muy buena  la atencion 10 puntos volveria otra vez"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leslita", 
+      "text": "El show de la pe\u00f1a folkl\u00f3rica es excelente y muy divertida, un show que vale la pena ir para conocer nuestra musica, la comida es buena y sabrosa y la atenci\u00f3n es muy calida por l agente que es del norte del argentina, gente realmente muy calida y atenta, volveremos"
+    }, 
+    {
+      "date": "3 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leonamara", 
+      "text": "El lugar es encantador, con una atenci\u00f3n muy buena. Espero volver."
+    }
+  ]
+}

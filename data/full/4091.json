@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "16 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "MConsueloM", 
+      "text": "un desperdicio que no tengan un buen servicio de bar con sushi o algunos bocados en la terraza los dias lindos."
+    }, 
+    {
+      "date": "7 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mama05", 
+      "text": "Excelente servicio. Ambientaci\u00f3n elegante y moderna. Atenci\u00f3n personalizada y amplia informaci\u00f3n sobre la confecci\u00f3n de los platos. Las entradas de comida de fusi\u00f3n fueron excelentes en sabor, con ingredientes de primera, aunque un poco escasas. La degustaci\u00f3n de postres incluy\u00f3 una extensa variedad para todos los gustos, desde creme brulee hasta queso de cabra, bree y exquiteses de chocolate. Altamente recomendable!!!!!"
+    }, 
+    {
+      "date": "12 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marcetenerife", 
+      "text": "Un lugar sorprendente, mis amigos y yo noimaginabamos encontrar tan buenos sabores y una atenci\u00f3n tan cordial dentro de un hotel en palermo. totalmente recomendable desde las entradas hasta el caf\u00e9. Imperdible las charlas de los chefs que relatan la historia de los platos hasta como llegaron a crear esos postres que son un must!! Sin duda volveremos y gracias por una excelente velada."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "agusquintana", 
+      "text": "Totalmente recomendable.Ambiente c\u00e1lido y reservado. La atenci\u00f3n personalizada de la gente que trabaja deber\u00eda ser imitada por otros lugares de la zona, los chefs nos explicaron con lujo de detalle la carta y  nos dieron ganas de probar todo.Los precios son l\u00f3gicos ya que la calidad del producto es muy buena.Las entradas son de otro planeta,el cordero y los postres son imperdibles. Volveremos sin duda y los  recomendaremos."
+    }, 
+    {
+      "date": "4 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Clechus", 
+      "text": "Fui especialmente a comer postres, despues de cenar en otro lugar, ya que sabia que la pasteleria estaba a cargo de la Ex chef pastelera del Faena Hotel y Los Notros, y la verdad cada vez son mas ricos los postres, para recomendar."
+    }, 
+    {
+      "date": "1 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Julys", 
+      "text": "Realemente excelente. La comida es exquisita, el ambiente es muy calido, al igual que la atencion. Estan en todos los detalles.\r\nTodo estuvo a la altura de las circunstancias, desde los platos hasta el vino recomendado. Y la degustacion de postres de chocolate, riquisima. Para ir con amigos o en pareja. Es super recomendable, sin dudas que volvere."
+    }
+  ]
+}

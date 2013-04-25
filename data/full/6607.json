@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "23 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Anntito", 
+      "text": "Caimos en el dia del amigo sin reserva, nos sentamos afuera porque fumabamos, a pesar del frio, comimos muy bien. La pizza a la piedra estaba muy rica, abundante. A pesar de estar lleno la atenci\u00f2n de la moza y del due\u00f1o fue muy atenta.\r\nSeguramente volveremos."
+    }, 
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "andreita1709", 
+      "text": "Excelente ambiente, muy buen gusto. Servicio cordial. La comida guarda muy buena relaci\u00f3n con respecto al precio y las cantidades servidas. Lo recomiendo, en especial, para una cena en pareja."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ldibuccio", 
+      "text": "Excelente atenci\u00f3n , comida y precios."
+    }
+  ]
+}

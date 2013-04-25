@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "susy calca\u00f1o", 
+      "text": "Malisimo, 45 minutos para recibir un plato de ravioles. La comida llega fria y la bebida caliente....y eso que en total nos atendieron 3 personas....\r\nCreo que se conforman con que la gente los elija para comer al sol..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "El_rafa", 
+      "text": "Menu ejecutivo a un precio l\u00f3gico. Para disfrutar m\u00e1s el momento que la comida. Lo mejor es ir un d\u00eda de sol y almorzar en la terraza. Recomiendo el matambre a la pizza. No mucho m\u00e1s."
+    }, 
+    {
+      "date": "8 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Manolov", 
+      "text": "Es un exelente lugar para disfrutar al aire libre frente al rio. La atencion es amigable y amena. Tiene estacionamiento sin cargo, lo cual es importante ya que es muy dificil encontrar lugar. Las porciones son abundantes lo cual te permite compartir."
+    }
+  ]
+}

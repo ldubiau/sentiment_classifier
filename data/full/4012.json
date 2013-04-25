@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "4 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lee_ON", 
+      "text": "Me gusto mucho este lugar, muy recomendable para comer una buena picada, degustar ricos vinos y pasar un rato agradable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "preciosura", 
+      "text": "Obesveciones: La carta de vinos es personalizada...La elecci\u00f3n del vino es un estado de \u00e1nimo y acompa\u00f1a una comida. La contenci\u00f3n y el asesoramiento para una experiencia exquisita. Rocio"
+    }
+  ]
+}

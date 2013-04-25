@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "FlorDT", 
+      "text": "Las tartas son ricas y el delivery es r\u00e1pido, es para pedir,  no para ir a comer"
+    }, 
+    {
+      "date": "1 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Gise2007", 
+      "text": "La comida es casera y del momento, los due\u00f1os son muy gentiles pero el lugar deja que desear en cuanto a aspecto, mantenimiento, espacio y sobre todo limpieza. Ped\u00ed delivery varias veces, pero cuando me decidi a comer en el lugar me llev\u00e9 una mala impresi\u00f3n...no llam\u00e9 m\u00e1s."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "manfredi1980", 
+      "text": "Buenas tartas, mal ambiente."
+    }
+  ]
+}

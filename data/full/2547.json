@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "14 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "smoje", 
+      "text": "este restaurant cerro."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 May 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ManaOk", 
+      "text": "El lugar no est\u00e1 mal, pero para ir un domingo al mediod\u00eda hasta Pilar y ver que es un restaurante como el que puedo encontrar en el centro, la verdad que decepciona. \r\nEsperaba algo que tuviera parque para los chicos, con juegos, a cambio de eso un cuartito peque\u00f1o con tele y un par de juegos.\r\nLa comida buena, la atenci\u00f3n regular (todav\u00eda se marean cuando hay gente), faltaban cosas de la carta."
+    }, 
+    {
+      "date": "12 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mariji", 
+      "text": "La comida es sencilla pero buena y el lugar es agradable. Los s\u00e1bados y domingos hay show, divertido.\r\nFestejamos un cumplea\u00f1os y nos invitaron con champagne.\r\nLo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "NANDOORTIZ", 
+      "text": "La carne es excelente, como as\u00ed tambi\u00e9n las rabas.\r\nLos postres son sabros\u00edsimos.\r\nSuper recomendable."
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GATODIO", 
+      "text": "Las pastas son muy ricas, yo prob\u00e9 varias pero los sorrentinos capresse son mis preferidos.\r\nMuy recomendable todo."
+    }, 
+    {
+      "date": "9 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "DIX777", 
+      "text": "El pollo que com\u00ed me pareci\u00f3 muy bueno, los postres excelentes. Atenci\u00f3n muy buena,  digno de recomendar."
+    }, 
+    {
+      "date": "6 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MAKI", 
+      "text": "El asado es tiern\u00edsimo y me dieron las mejores mollejas que com\u00ed en mi vida.\r\nRecomendable, comida y ambiente. \r\nMuy buena atenci\u00f3n."
+    }
+  ]
+}

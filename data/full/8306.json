@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Laro", 
+      "text": "P\u00e9simo. Uno de los peores almuerzos de mi vida. La comida tard\u00f3 55 minutos y eso que no pedimos nada elaborado. El pollo vino seco y los fideos (de paquete, nada caseros) vinieron con una salsa distinta a la pedida. Te cobran servicio de mesa por una panera que viene con 6 panes secos y nada para untar. La carta es muy precaria, la relaci\u00f3n precio-calidad es de lo peor. \u00bfQu\u00e9 decir de la atenci\u00f3n? Mal\u00edsima, el mozo muy descort\u00e9s. Y ni que hablar del sal\u00f3n: l\u00fagubre, mal cuidado, al salir la ropa queda impregnada de un olor a aceite frito muy desagradable. No volver\u00eda nunca."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "buendiente1982", 
+      "text": "Voy cada tanto, es un bodegoncito si sabes pedir podes comer muy rico y muy barato. las supremas son muy ricas y abundantes. no es el mejor lugar del mundo pero para tiene su encanto"
+    }, 
+    {
+      "date": "9 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "JohannFender", 
+      "text": "Se trata de una cantinita de barrio, que no pretende m\u00e1s pareciera.\r\nEl men\u00fa es algo limitado y la atenci\u00f3n es bastante mala...\r\nLas porciones son bastante escasas.\r\nEs una l\u00e1stima ya q dispone de un espacio f\u00edsico importante."
+    }
+  ]
+}

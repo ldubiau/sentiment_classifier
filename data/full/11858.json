@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "eatalot", 
+      "text": "Terrible. Yo ped\u00ed una hamburguesa de pollo y la mitad del pollo estaba totalmente crudo. Una hamburguesa tambi\u00e9n un poco cruda. El servicio era terrible - nunca nos consigui\u00f3 el agua y vasos. No regresar\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "El lugar no fue tanto como lo esperaba, la ambientaci\u00f3n es muy buena y la m\u00fasica tambi\u00e9n pero el servicio es bastante lento y sin experiencia. Adem\u00e1s la comida tampoco sobresale, la hamburguesa veggie era una Vegetalex y el pan era un Bimbo com\u00fan y corriente. Para comer como en mi casa, me quedo en ella. Lo m\u00e1s destacable fue el sundae, muy rico y abundante. No es un mal lugar, pero se deber\u00eda mejorar."
+    }, 
+    {
+      "date": "23 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "LADN", 
+      "text": "Fuimos al mediodia, pedi una hamburguesa de pollo con fritas, esta bien cocida y tenia buen tama\u00f1o. El lugar esta bien ambientado. Recomendable para ir a almorzar cada tanto."
+    }, 
+    {
+      "date": "23 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Mila84", 
+      "text": "El lugar esta ambientado en la decada del 60 con posters de marilyn monroe, elvis, y james dean. En cuanto al menu hay variedad de comidas para elegir. La musica del lugar tambien de la decada del 60 y alg\u00fan tema de los 70. La comida estuvo muy rica, y el servicio de atenci\u00f3n fue r\u00e1pido y amable.\r\n\r\nLo unico que no me gusto es que el asiento esta muy separado de la mesa."
+    }, 
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "faustbigl", 
+      "text": "Fui varias veces al local de Costa Salguero y vi en Guia Oleo que hab\u00edan abierto en Palermo. Fuimos con amigos y comimos unas buenas hamburguesas, de postre pedimos helado y estaba todo muy rico. Lo Recomiendo."
+    }, 
+    {
+      "date": "13 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ManuelaDiaz", 
+      "text": "El ambiente es cincuentoso y muy agradable (el local es bien luminoso). La m\u00fasica es divertida y no est\u00e1 excesivamente alta. La atenci\u00f3n es buena, principalmente porque no hay mucha gente al mediod\u00eda.\r\nLas porciones son muy abundantes y sabrosas. Hay refill de gaseosas."
+    }
+  ]
+}

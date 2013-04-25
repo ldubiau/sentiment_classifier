@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "6 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Hosnam", 
+      "text": "Lindo lugar. Fuimos un grupo de 8 amigos que consumimos el men\u00fa ejecutivo. En mi caso, el wok de vegetales y arroz., demasiado arroz para mi gusto y prob\u00e9 la pechuga rellena (muy buena!!). El precio es razonable (Promedio: $60c/u) para lo que ofrecen, con plato y postre, y algunos pedimos adem\u00e1s una entrada. Volver\u00e9..."
+    }, 
+    {
+      "date": "17 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pulin", 
+      "text": "Superrecomiendo el restaurant Mott de la calle San Mart\u00edn y C\u00f3rdoba.  Es el m\u00e1s contundente ejemplo de c\u00f3mo se puede elegir un buen men\u00fa, brindar la comida a punto, ofrecer bebida (alcoh\u00f3lica o gaseosa), postrecito y EXCELENTE PANERA por una suma aceptable.  La atenci\u00f3n buen\u00edsima, realmente LOS FELICITO.  fUI VARIAS VECES"
+    }, 
+    {
+      "date": "3 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Masilvi", 
+      "text": "Recomendable para el almuerzo ejecutivo, tres propuestas para elegir de precio fijo muy conveniente y bien logradas. El espacio es ruidoso y no recomendable para sobremesa. El servicio es cort\u00e9s pero desaparece luego de servir el principal. Cumple con lo b\u00e1sico para el descanso en medio de la jornada laboral."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "GALLICCHIO", 
+      "text": "La comida muy buena y abundante los tragos muy economicos\r\nideal para difrutar con amigos"
+    }
+  ]
+}

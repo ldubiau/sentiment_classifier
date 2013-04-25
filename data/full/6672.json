@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "26 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Un lugar muy agradable para un almuerzo de trabajo distendido. El local tiene una forma y decoraci\u00f3n original que permiten aislarse de la locura del microcentro, y cuenta con terraza y sal\u00f3n para fumadores. La comida es de pobre preparaci\u00f3n y cara por lo que ofrece. El servicio pasa desapercibido pero no falla. Merece ser conocido..."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Efficient", 
+      "text": "La calidad de la comida varia segundo el dia. El servicio esta comprometido a la cantidad de clientes, igualmente no es atento. Posee una infraestructura para hacer una propuesta mas interesante."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "chuchy", 
+      "text": "Un lugar muy calido que permite abstraerse de la locura del mediodia en el microcentro. La comida me parecio muy rica y abundante. El servicio atento y cordial en todo momento. Posee una terraza que permite disfrutar un almuerzo a bajo los rayos del sol y deleitarse con un momento de relax en medio del caos. El precio acorde con la zona. Muy recomendable para desenchufarse."
+    }, 
+    {
+      "date": "4 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchape", 
+      "text": "Realmente com\u00ed el peceto a recomendaci\u00f3n del mozo, muy pero muy bueno. La salsa de mostaza en su punto justo. Las papas muy buenas. Un lugar seguramente mas disfrutable en primavera ya que tiene una excelente y c\u00e1lida terraza. Si pueden ir a la hora del almuerzo es un buen lugar para hablar de trabajo o simplemente para distenderse. Poco difundido y te podes encontrar con ser el \u00fanico del lugar."
+    }, 
+    {
+      "date": "19 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "eviegas", 
+      "text": "Un oasis en plano centro."
+    }, 
+    {
+      "date": "12 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Momentos se destaca por 2 cosas: 1) Esta ubicado en la terraza de una galeria y, como no esta a la vista, lo conoces a traves del boca a boca. 2) Tiene una muy buena terraza, para cuando no hace mucho calor o frio. Los precios no son altos y la calidad de la comida no es diferente a la media de los restaurantes para comer al mediodia en el microcentro."
+    }, 
+    {
+      "date": "17 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Macarenatp", 
+      "text": "Un bodegon caro. Tenes que ir a la caja a pagar, el lugar muy descuidado. La comida, la misma que en cualquier lugar pero con un precio de diez pesos m\u00e1s para arriba por plato. Me desilusion\u00e9. Esperaba o que los precios sean m\u00e1s baratos para este tipo de menu o un menu mas desarrollado."
+    }, 
+    {
+      "date": "7 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Forly", 
+      "text": "El ambiente (los, porque tiene varios) decepciona un poco. La locaci\u00f3n es EXTRA\u00d1\u00cdSIMA. Es el piso de servicio de la Galer\u00eda G\u00fbemes; un lugar perdido por los techos y asombrosamene deteriorado en comparaci\u00f3n con la magnificencia de la planta baja. Mesas muy juntas; y hasta me toc\u00f3 ver un gato merodeando entre las mesas. Olvidable.\r\nLa carta no es muy extensa, y no hab\u00eda nada de pescado. Pero la comida es aceptable. Porciones normales, hecho todo con un toque casero que es lo m\u00e1s destacable de este lugar. La atenci\u00f3n es correcta y sobre todo r\u00e1pida. Pero el lugar no invita a volver seguido."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wally2403", 
+      "text": "Muy buen lugar para hacer el almuerzo laboral, realmente encantador."
+    }
+  ]
+}

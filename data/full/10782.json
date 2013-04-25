@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "15 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lulu_18", 
+      "text": "La comida es buena pero los precios son un poco altos para el tipo de comida que es. Hay una amplia variedad de panqueques salados y dulces. El ambiente es muy lindo y los mozos muy atentos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Yune", 
+      "text": "Todo espectacular. La comida, la atenci\u00f3n, el lugar... realmente es un lugar en el que se est\u00e1 a gusto en todo sentido.\r\nLas porciones son abundandes y los postres me animar\u00eda a que son para compartir porque son gigantescos.\r\nFui con amigos y todos pedimos cosas distintas y todos quedamos m\u00e1s que conformes.\r\nAltamente recomendable."
+    }, 
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "beatriz_mk3", 
+      "text": "La atencion fue excelente. Las porciones muy abundantes. el postre era un panqueque para dos que era un pecado divino. muy buena calidad de materias prima. rapida atencion. ba\u00f1os impecables!y nos dieron cafe de cortesia."
+    }
+  ]
+}

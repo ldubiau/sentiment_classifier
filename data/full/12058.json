@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "22 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "acecilia", 
+      "text": "Platos muy ricos y abundantes. Muy buena atenci\u00f3n. Fuimos con un cup\u00f3n de descuento pero de todas formas ten\u00edan precios muy accesibles."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cata76", 
+      "text": "Estuve con amigos el finde, comimos b\u00e1rbaro, los platos son muy sabrosos, la presentaci\u00f3n es igual de buena. Muy buena atenci\u00f3n, se puede conversar y el ambiente es super c\u00e1lido. Lo recomiendo para cualquier ocasi\u00f3n."
+    }, 
+    {
+      "date": "25 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mary_jane", 
+      "text": "Fui al mediod\u00eda. Eramos cuatro y comimos muy bien. Siempre te atienden muy bien, muy buena onda el mozo.\r\nComimos una pizza y de postre brownies con helado y salsa de frutos rojos, muy rico todo."
+    }
+  ]
+}

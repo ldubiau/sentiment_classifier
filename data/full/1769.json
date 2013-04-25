@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "17 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "maxicardi", 
+      "text": "Buen lugar con precio razonable"
+    }, 
+    {
+      "date": "26 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "noradebartolo", 
+      "text": "Suelo almorzar los s\u00e0bados y siempre la atenci\u00f3n es perfecta, la comida correcta y a punto. El precio es razonable. El lugar es familiar."
+    }
+  ]
+}

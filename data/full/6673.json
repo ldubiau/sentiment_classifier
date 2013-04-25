@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "julietayvasco", 
+      "text": "Est\u00e1 bueno para ir al mediod\u00eda, porque a la noche es un poco caro. Pedimos el men\u00fa del d\u00eda y estaba excelente. La atenci\u00f3n fue excelente, as\u00ed como la panera. Volveremos."
+    }, 
+    {
+      "date": "28 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Manzana", 
+      "text": "Fuimos con varias parejas amigas y el ambiente es muy acojedor. Cabe destacar la exelente atencui\u00f3n de los mozos y sus due\u00f1os. Si bien mi plato fue correcto destaco las pastas que comieron mis amiagas, que son de elaboraci\u00f3n propia y artesanal."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "DaiDaisy", 
+      "text": "Ya hab\u00eda ido con amigos y tanto la atenci\u00f3n como la comida hab\u00edan sido formidables. Fui nuevamente con mi novio y la comida volvi\u00f3 a ser riqu\u00edsima. El ambiente (por la iluminaci\u00f3n, la m\u00fasica y la atenci\u00f3n) fueron justos para la ocasi\u00f3n!!"
+    }
+  ]
+}

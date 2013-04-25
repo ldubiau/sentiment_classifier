@@ -1,0 +1,116 @@
+{
+  "buenos": [
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Morano", 
+      "text": "Es un lugar salido de una peli. No es el t\u00edpico restaurante al que ir\u00eda, de hecho me llevaron, jam\u00e1s hubiera entrado sola. Es un resto que se qued\u00f3 en el a\u00f1o 1950. Fui a las 15hs y estaba LLENO, todos banqueros, tipos con traje. Yo fui con mi pareja y comimos MUY bien. Es un buen lugar para comer si justo estas en el centro, pero tampoco para trasladarse hasta all\u00e1 desde lejos. La comida fue muy buena, com\u00ed pastas. El chef es un tano que se acerca a saludar a las mesas, muy atento. Los mozos atienden excelentemente. Es como estar en una peli de hace 60 a\u00f1os."
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Obelix40", 
+      "text": "Ideal para un almuerzo de negocios. Es tradicional y los due\u00f1os se esmeran. Langostinos caros (pero buenos -grandes y frescos-). Lomo bien hecho. Jam\u00f3n crudo excelente. Recomendable en los t\u00e9rminos indicados (negocios)."
+    }, 
+    {
+      "date": "24 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GAM", 
+      "text": "El lugar un poco caluroso y con las mesas demasiado juntas. El principal de muy buena calidad aunque le faltaba un toque de sabor. El postre (membrillo al horno) de lo mejor lo mismo que la atenci\u00f3n"
+    }, 
+    {
+      "date": "18 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Mobilante", 
+      "text": "Casi un Club. Muchos habitu\u00e9s del mundo de los negocios. La comida es buena pero, en relaci\u00f3n con el precio, se podr\u00eda esperar algo mejor. El gran atractivo es el ambiente reservado para una almuerzo de negocios y la atenci\u00f3n de \"amigos\", que te hace sentir como en casa. (Seg\u00fan el mozo que te toque, puede ser demasiado sol\u00edcita)"
+    }, 
+    {
+      "date": "3 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Veterano", 
+      "text": "Un lugar tranquilo y agradable en pleno centro de Bs As, con buena atencion y platos del dia excelentes. Algunas cositas para mejorar: los precios son un poco excesivos. No hay variedad de ensaladas, tablas de fiambres o platos frios. Solo hay una marca local de cervezas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Quilmes", 
+      "text": "Comida y atenci\u00f3n excelente. Ambiente muy bueno. Las mesas est\u00e1n algo juntas. Precio: Tal vez algo caro"
+    }, 
+    {
+      "date": "14 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luditas", 
+      "text": "Un lugar ideal para un almuerzo de negocios en un ambiente de atenci\u00f3n propio de amigos. Absolutamente recomendable."
+    }, 
+    {
+      "date": "15 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Alquimista", 
+      "text": "Si desean ir a un lugar a almorzar por el centro, para negocios, amigos, con servicio y comida de primera, en un ambiente muy bueno, vaya a Sabot. No se arrepentir\u00e1. Reserve!"
+    }, 
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jjg008", 
+      "text": "La mercader\u00eda es excelente y se nota en todos los platos. Son espectaculares los platos del d\u00eda. Los pescados que sirven son \u00fanicos en la ciudad."
+    }, 
+    {
+      "date": "5 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "piamonte", 
+      "text": "volver\u00e9 muy gustosa. Me sent\u00ed muy bien y agasajada all\u00ed.\r\nLa entradita es espectacular!"
+    }, 
+    {
+      "date": "19 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lazorra", 
+      "text": "Excelente calidad en la comida y el lugar es reservado. Ideal para reuniones de negocios."
+    }
+  ]
+}

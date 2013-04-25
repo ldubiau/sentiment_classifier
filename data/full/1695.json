@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "4 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Lugar que de destaca por su ambientacion, esta decorado como un lugar tanguero, con cuadros y dise\u00f1os del arrabal. La comida es buena, la carta es la usual en este tipo de bodegones. Milanesa napolitana en buena porcion, el servicio bueno. Para comer si estas en la zona."
+    }, 
+    {
+      "date": "25 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "guillotes", 
+      "text": "Ambiente y comida agradable, igualmente creo que la joya del lugar es la cantante, creo que se llama Feli, muy interesante su repertorio."
+    }, 
+    {
+      "date": "11 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "francban", 
+      "text": "Buena comida y precio razonable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maxi.par", 
+      "text": "Muy buena la atenci\u00f3n y la comida. Interesante pe\u00f1a de tango."
+    }
+  ]
+}

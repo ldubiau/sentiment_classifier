@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "26 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Wicks", 
+      "text": "El edificio de Opera Bay ha sido demolido y est\u00e1n construyendo un hotel en ese predio."
+    }, 
+    {
+      "date": "22 Jun 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "santisenador", 
+      "text": "Lugar pretencioso, ambiente desagradable (onda \"levante desesperado\"), gente borracha por todos lados. P\u00e9simo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "marudeapicia", 
+      "text": "Si quieren impresionar a alguien, vayan. Pero si quieren hacerle pasar una noche especial, d\u00e9jenlo. \r\nEl servicio de mesa, no existe. \r\nEl mozo me retir\u00f3 el plato cuando todav\u00eda estaba comiendo y la comida dej\u00f3 mucho que desear: una entrada min\u00fascula y un plato principal que parecia una cargada: Una cucharada de pollo salteado con verdeo y tres papas al horno. \r\nS\u00f3lo el brownie con mouse estaba bueno. Al salir, tuve que pedir disculpas a mis amigos a quienes hab\u00eda alentado a asistir."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "13 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "leeleebee", 
+      "text": "La comida correcta, sin grandes pretensiones. Es un lugar para comer algo r\u00e1pido sin ambiciones gourmet."
+    }, 
+    {
+      "date": "13 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Un lugarcito sencillo, ideal para un almuerzo sin exigencias en un ambiente tranquilo; la comida simple pero rica, casera y a punto."
+    }
+  ]
+}

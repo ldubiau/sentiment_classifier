@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "bestiaria", 
+      "text": "no se que le ven, los licuados son barbaros pero los sanguches y las yucas son grasosos y pesados."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "pardodani", 
+      "text": "La comida es buena, nada espectacular. El servicio es malisimo! No volveremos! Las papas grasosas, crudas y poca cantidad. No ten\u00edan casi nada. Ni ketchup! Nos decepcion\u00f3"
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "JOEKRUGGER", 
+      "text": "Soy vecino y voy seguido, son muy amables y simpaticos, se come bien y barato!!"
+    }, 
+    {
+      "date": "11 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "anela", 
+      "text": "El sandwich grande y rico. Tienen variedad de salsas y me encanta la variedad en guarniciones (no solo papas fritas). No es exactamente como un sandwich peruano pero se acerca lo suficiente para saciar el hambre y no quedarse con las ganas de pobrar.\r\nLa pr\u00f3xima vez pedimos uno solo para compartir porque uno para cada uno es demasiado."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "7 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "andreita1709", 
+      "text": "Un lugar chico pero apacible. Para los almuerzos del domingo, sugiero llegar antes de las 13.00hs. Destaco la excelente atenci\u00f3n del camarero Roberto: cordial, atento y muy divertido! Otro punto extra se lo llevaron las papas fritas tipo caseras, a pesar de tener una carta b\u00e1sica de parrilla."
+    }, 
+    {
+      "date": "24 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "danynadal", 
+      "text": "LA parilla que faltaba.Ahora tenemos el privilegio de tener un lugar de primera.La mercaderia es excelente,la atencion esmerada,los precios buenisimos y ademas siempre con una invitacion de sus due\u00f1os.Recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aramel", 
+      "text": "EL lugar es muy lindo y tranquilo, la mercaderia es de primera, super recomendable para salida con amigos, volvere pronto"
+    }
+  ]
+}

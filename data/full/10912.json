@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "12 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lovelyrita", 
+      "text": "Grata sorpresa en el centro. Lugar agradable, lindas opciones. Muy rico el sandwich de salm\u00f3n, brie y r\u00facula. Me encant\u00f3 el detalle del pan casero."
+    }, 
+    {
+      "date": "13 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "delsuralnorte", 
+      "text": "Fui en mi hora de almuerzo, la verdad entre con pocas expectativas y me fui super contento. Me encant\u00f3 la variedad de opciones que hay al armar mi ensalada. La porci\u00f3n me pareci\u00f3 muy buena y el pan casero y los muffins que hay, muy ricos y naturales."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Midika", 
+      "text": "Excelente ensaladas! Me encant\u00f3 la idea de poder armar nuestra propia ensalada pero con ingredientes bastante gourmet. El pan casero es super rico! Uno de los mejores de microcentro! Los cookies son lo m\u00e1s! El packaging con mucho estilo, en fin, muy recomendado para salir un poco del estress de la ofice."
+    }, 
+    {
+      "date": "26 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "meluverde", 
+      "text": "Me encant\u00f3 el lugar. Mucha variedad para armar tu propia ensalada y men\u00faes del d\u00eda que acompa\u00f1an el clima. Me encant\u00f3 tambi\u00e9n los panes caseros y la atenci\u00f3n. Una buena opci\u00f3n para cortar con tanto stress c\u00e9ntrico."
+    }
+  ]
+}

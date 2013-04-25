@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gene", 
+      "text": "Llegamos de casualidad buscando otro restaurante. la comida nos pareci\u00f3 muy rica. Un poco ruidoso el s\u00e1bado al mediod\u00eda y no muy especial el ambiente pero los platos de buena calidad y bien elaborados."
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Francin", 
+      "text": "El lugar es como un bar/ pizzer\u00eda, de las cosas dulces de las pocas que habia en la carta tenian la mitad. Lo que ped\u00ed estaba bien."
+    }, 
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Laisa", 
+      "text": "Se come muy bien, es una excelente opci\u00f3n para Caballito. La comida es muy rica y abundante. Los precios tb muy razonables y las tortas muy buienas! Vale la pena conocerlo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SALAS GOYENA 1416", 
+      "text": "Aguante Briam y la flia. \r\nSalu2\r\nSeba de la sala de Goyena\r\npd. Excelente comida y atenci\u00f3n"
+    }, 
+    {
+      "date": "18 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pancu_", 
+      "text": "Las cosas dulces y pasteler\u00eda son excelentes. Lo dem\u00e1s es regular, nada para destacar."
+    }
+  ]
+}

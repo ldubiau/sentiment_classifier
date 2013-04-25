@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "23 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "toppositivos", 
+      "text": "Muy malo Para nada recomendable. Atenci\u00f3n tard\u00eda Parrillero incompetente.Carne de baja calidad."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Hay una propuesta de parrilla libre con un postre inclu\u00eddo,  o a la carta. Elegimos la segunda opci\u00f3n y no estuvo del todo mal;  pero la parrillada para 2, con achuras y carnes recalentadas, estuvo lejos de ser memorable. La atenci\u00f3n muy amable y el lugar ideal como para encuentro con amigos o reuniones familiares. A pesar del ambiente agradable, no volver\u00eda."
+    }, 
+    {
+      "date": "12 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elver", 
+      "text": "Es una buena parrilla libre, con gran variedad de carnes, asador criollo con asado, vacio, lechon y cordero. Buenas entradas (salvo la empanada) y un postre por persona.\r\nPodes comer hasta reventar, la atencion es buena y el lugar aceptable. Esta a la altura del boliche de dario."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Schweizer", 
+      "text": "Fui con unos amigos a celebrar un fin de curso. La pasamos requetebien y comimos de todo ! Muy buena atenci\u00f3n especialmente el Sr. Joaqu\u00edn su due\u00f1o."
+    }, 
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SWISSMAN", 
+      "text": "Pas\u00e9 el mejor d\u00eda del amigo de mi vida !\r\nUna atenci\u00f3n impecable aunque era un d\u00eda que estaba lleno gente.\r\nMuy rica la comida y muy buenos precios"
+    }, 
+    {
+      "date": "8 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "casiestrella", 
+      "text": "Lo recomiendo totalmente! muuuy buena carne, asador criollo, dedicada atenci\u00f3n. \r\nAdem\u00e1s, el bicho est\u00e1 siempre atento a que la gente est\u00e9 feliz."
+    }
+  ]
+}

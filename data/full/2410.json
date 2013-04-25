@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "2 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "lesbi", 
+      "text": "Muy malo. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "simonedb", 
+      "text": "Fui al bar este fin de semana, supe que abrio de vuelta hace poco. Esta todo remodelado, y mejor ambientado. Ideal para ir tanto con amigos como en pareja. La comida es buena y los tragos espectaculares. En el piso de arriba hay unos livings muy copados, y las mesas al aire libre son un placer en esta epoca en que empieza el calor!"
+    }, 
+    {
+      "date": "25 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sovtek", 
+      "text": "El lugar ha sido remodelado recientemente. Conserva su cl\u00e1sica ambientaci\u00f3n de pub ingl\u00e9s pero ahora m\u00e1s sobrio y menos cargado de memorabilia de cervezas y cigarrillos y dem\u00e1s marcas ic\u00f3nicas en las paredes. El ambiente es muy c\u00e1lido, ideal para ir en pareja a tomar algo. La cocina aprueba con lo justo, el concepto del lugar pasa por otro lado de todos modos: cervezas/tragos son el fuerte. Recomendable para ir de noche, al menos una vez para darle una probada."
+    }, 
+    {
+      "date": "10 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "La_vikinga", 
+      "text": "Hace a\u00f1os que voy en forma irregular, especialmente para un after office.\r\nLos tragos son muy buenos al igual que las papas fritas (son imperdibles). \r\nEl servicio podria ser mejor (tendrian que poner mas gente).\r\nPero mas alla de ello, muy recomendable por precio y ubicacion."
+    }
+  ]
+}

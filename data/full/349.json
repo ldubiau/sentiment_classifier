@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "16 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "paddyba", 
+      "text": "Carisimo todo, la ensalada de $18 llego en un plato chico, malisimo el servicio.  Nada para recomendar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "FlowerBomb", 
+      "text": "La comida es super casera. Recomiendo el at\u00fan grillado con arroz integral y verduritas al wok. Muy gustoso!\r\nTienen un men\u00fa al mediod\u00eda: plato principal (abundante), bebida y postre por $42.\r\nEso s\u00ed, se llena. Muchos oficinistas mezclados con residentes del barrio que quiere almorzar rico y a un precio razonable.\r\nPara repetir!"
+    }, 
+    {
+      "date": "11 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Comida sencilla pero bien elaborada a precios m\u00e1s que razonables. \r\nEs uno de esos lugarcitos sin lujos a donde uno puede ir todos los d\u00edas y se siente como si comiera en casa."
+    }, 
+    {
+      "date": "10 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marisal", 
+      "text": "Es un restaurante chiquito, que vale la pena visitar cuando uno est\u00e1 por el centro. La carta es variada y los due\u00f1os son muy amables, se sientan a charlar con cada comensal."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pezlucio", 
+      "text": "Esta esquina guarda un lugar para comer una comida con alma de casera y con profesionalidad de chef. La atenci\u00f3n es cordial. El ambiente podr\u00eda ser mejorado pero la relaci\u00f3n comida-atenci\u00f3n versus precio posiblemente sea la mejor de todo Buenos Aires."
+    }, 
+    {
+      "date": "15 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "keyra1980", 
+      "text": "Elegimos el lugar porque ten\u00eda buenos comentarios de otros usuarios y necesit\u00e1bamos almorzar en la zona, por suerte: 100% conformes. Precio: justo a econ\u00f3mico(nota: no cobran servicio de mesa). Carta: acotada pero variada (pastas, carnes, pescado, empanadas, ensaladas, sandwichs, etc.). Comida: excelente, elaborada en el momento, platos abundantes y frescos. Ambiente: agradable para ser tan peque\u00f1o, lo malo: poco espacio entre las mesas (por lo que a veces resulta inc\u00f3modo \"acomodarse\"). Atenci\u00f3n: muy buena, lo justo y necesario que debe tener todo camarer@. Limpieza: muy buena. RECOMENDABLE!"
+    }, 
+    {
+      "date": "4 Oct 2002", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "raquelvd", 
+      "text": "Com\u00edda excelente y buen precio."
+    }
+  ]
+}

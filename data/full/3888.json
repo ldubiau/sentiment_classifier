@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "6 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Naniquena", 
+      "text": "Comimos bien. A la tarde, en la pool party. El sanwich de lomitos se parecia a una fajita, lo que me encanto.\r\nEs un poco caro pero la comida es muy rica."
+    }, 
+    {
+      "date": "2 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Soniaaramburu", 
+      "text": "Lindo lugar, mejor atencion y la comida es buena pero no te deslumbra, hay cosas para mejorar en cuanto a la carta, demasiado rebuscada y no se refleja en el plato."
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "babilon", 
+      "text": "ES un lugar para disfrutar en todo sentido, estuve alojado en el hotel y pude probar todos los servicios, almuerzo, desayuno y el espacio chill aut, los tragos son geniales, la musica y la ambientacion maravillosos, la calidad de la comida muy buena y sobre todas las cosas la atencion que es genial, un lugar para volver y disfrutar de lo mas cool de buenos aires"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mmjjrr", 
+      "text": "La comida es muy recomendable, los fideos al fierrito son de lo mejor que comi! El ambiente es moderno con luces de neon,acompa\u00f1ado de buena musica, una carta mas que interesante y la atencion excelente!Definitivamente voy a volver."
+    }, 
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Titino", 
+      "text": "Muy creativa la carta, dir\u00eda que jugada pero bien lograda. La atenci\u00f3n es inmejorable y el ambiente est\u00e1 muy bien. Recomendable"
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Quino", 
+      "text": "Fui recomendado por unos amigos al brunch del domingo y me pareci\u00f3 un lugar muy agradable, con buena m\u00fasica y un servicio y comida exquisito. definitivamente volveremos. Me encanto la carta de tes. Altamente recomendable"
+    }
+  ]
+}

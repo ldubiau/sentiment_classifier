@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Vilory", 
+      "text": "El men\u00fa es limitado y algo caro. El servicio es bueno y el ambiente es lindo. Es una opci\u00f3n para cuando se est\u00e1 en el micro centro y se quiere comer algo m\u00e1s elaborado. Ideal para almorzar o tomar/comer algo a la tarde. No es muy buena la relaci\u00f3n precio-calidad."
+    }, 
+    {
+      "date": "26 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "emanueld", 
+      "text": "Muy rico."
+    }, 
+    {
+      "date": "2 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marcelag2", 
+      "text": "Muy buena carne y servicio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ale_elme", 
+      "text": "Buen lugar."
+    }, 
+    {
+      "date": "31 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "romanova", 
+      "text": "Ideal a la hora del almuerzo ejecutivo."
+    }, 
+    {
+      "date": "28 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pao_2002", 
+      "text": "Excelente lugar."
+    }
+  ]
+}

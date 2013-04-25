@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "3 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Luzsol", 
+      "text": "Se realiz\u00f3 una reserva previa de 20 personas, en 4hs solo comi 4 porciones de pizza y de ultima 2 rolls por la tardanza, los que pedimos pizza solo comimos maximo 4 porciones, (no estaba rica) y encima de una sola variedad, nos trajeron los platos con agua (nisiquiera mojados) no tenian servilletas, nos servian cada 45min, y la musica estaba demasiado fuerte, no podia escuchar al que tenia al lado. No preguntaron si queriamos seguir comiendo y nos levantaron el plato. Pesimo, no recomendable a los buenos paladares. Los rolls se deshacian. No vayan."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Abrook25", 
+      "text": "La atenci\u00f3n fue muy buena, con una buena variedad de sushi. Volveria sin dudarlo."
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tapes", 
+      "text": "el ambiente agradable y la el due\u00f1o nos hiso sentir muy comodos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "candylucerito", 
+      "text": "Me encanto el lugar, la musica, la onda de los que atienden y sobre todo el suhi.Muy bueno"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "30 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "rulopadre", 
+      "text": "El local estaba cerrado."
+    }, 
+    {
+      "date": "26 Oct 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Lucioytere", 
+      "text": "Nadie se acercaba a recibirnos.\r\nLa comida lenta, pasada la berenjena y el salm\u00f3n muy seco.\r\nBa\u00f1os sin se\u00f1alizaci\u00f3n con olor a humedad."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "solrusco", 
+      "text": "Me gust\u00f3 mucho el lugar, la pas\u00e9 muy bien."
+    }, 
+    {
+      "date": "1 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "federico9", 
+      "text": "Es un restaurant muy bien ubicado en una gran esquina de Las Ca\u00f1itas. \r\nEs lindo almorzar en la vereda, al sol. \r\nLa comida es buena, pero generalmente demora."
+    }
+  ]
+}

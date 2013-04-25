@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "side", 
+      "text": "Excelente lugar, pero un poco chiquito, por lo que hay que tratar de reservar antes, tambi\u00e8n tiene un men\u00f9 fijo con entrada, plato principal, postre y vino con derecho al show que es de $45 esta bueno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pipin", 
+      "text": "Excelente atenci\u00f3n y comida. Platos abundantes y economicos."
+    }, 
+    {
+      "date": "16 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ARFELI", 
+      "text": "Atenci\u00f3n esmerada, atendida por su due\u00f1o, calidez, calidad en los platos y muy buenos precios. Limpieza en ba\u00f1os y sal\u00f3n comedor. Un lugar para ir seguido."
+    }, 
+    {
+      "date": "4 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tetocuervo", 
+      "text": "Un lugar muy agradable, comida buen\u00edsima y barata. Tiene un excelente show de tango."
+    }
+  ]
+}

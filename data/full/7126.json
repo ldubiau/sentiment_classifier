@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "14 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "K_gm", 
+      "text": "Las sopas son muy ricas, asi como los crepes, ensaladas y wraps. Las tartas estan bien. La atencion es rapida y es una buena opcion saludable para almorzar en microcentro. El precio esta bien para el producto. Chequear el pedido cuando lo entregan porque a veces se confunden y mandan otra sopa u otro wrap..."
+    }, 
+    {
+      "date": "26 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JimmyBoy", 
+      "text": "Comida muy rica y alternativas saludables durante el dia de trabajo. Los wraps, sandwichs y tartas muy rikos. De los postres solo probe el crumble de manzana pero todos tienen buena pinta. Atencion rapida y cordial. Espacio para comer y delivery. Los precios saladitos terminas en 30$ sin postre, pero buena calidad, para darse un gusto cada tanto!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "blachi", 
+      "text": "Muy ricos los wraps y las ensaladas, el jam\u00f3n crudo y la pulpetta de la ensalada capresse son excelentes! Al mediodia tipo 13hs esta lleno, si llegas unos minutos antes conseguis mesa para comer con buena m\u00fasica y con amigos. Los precios son acorde a la calidad y eso se percibe."
+    }
+  ]
+}

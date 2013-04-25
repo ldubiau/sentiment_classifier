@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "1 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "turu_flowers", 
+      "text": "la verdad ante tantos votos `positivos y dado que me encontraba por la zona decidi probar la pizza  en este caso fue una mitad nap con jamon y mitad jamon y morrones  \r\nla cosa es que no me gusto para nada es una pizza\r\nque no tiene nada de especial hay muchas mejores\r\nesta seria una para salir del paso  nada mas  no la recomendaria"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "natalia1915", 
+      "text": "Soy del barrio y hace un tiempo que vengo comprando pizza ahi. La verdad una de las mejores de la zona. Muy recomendable!"
+    }, 
+    {
+      "date": "30 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Mr_colmillo", 
+      "text": "La pizza y la torta de ricota es muy buena. Es para recomendar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "eltata", 
+      "text": "sin palabras la comida es increible"
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucas_95_Monaco", 
+      "text": "La comida es muy buena, es abundante en su mayor\u00eda. La verdad que aveces voy y es muy buena, pra comer en familia o con amigos. La milanes que pedimos y las paps fritas fue muy buena. Tambi\u00e9n pedimos ravioles con Salsa Fileto, ezquisito. Otro d\u00eda que fuimos pedimos pizza y es muy buena tambi\u00e9n.\r\nEn general los pltos son buenos y abundantes, la relaci\u00f3n calidad/precio es buena.\r\nEl servicio es bueno, muy bueno dir\u00eda yo. Cuando hay mucha gente puede que se tarde un poco mas pero en general bueno. En cuanto al ambiente, es muy lindo, sin lo fashion pero muy bueno. La zona sin problemas. Recomendado"
+    }, 
+    {
+      "date": "5 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gustave", 
+      "text": "La pizza es de otro mundo. Un fen\u00f3meno Aldo."
+    }, 
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DoktoraUTI", 
+      "text": "La mejor pizza de la zona. Altamente recomendable."
+    }, 
+    {
+      "date": "23 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andila", 
+      "text": "Para toda la familia."
+    }, 
+    {
+      "date": "2 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "feli", 
+      "text": "Muy buena la pizza, el lugar es c\u00f3modo y familiar, la atenci\u00f3n es muy buena."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "15 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "JimmyBoy", 
+      "text": "Los fettucinis completamente blancos pegoteados y pasados, la salsa tambien dejaba mucho que desear y encima tardo un monton. El lugar para comer estaba ok pero por comida asi no vale la pena volver."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Chavex", 
+      "text": "Las medialunas son excelentes pero el servicio de delivery es malisimo! pedi a las 8am para las 10, y llegaron recien a las 11! ya tenia a la gente de la oficina esperando, tampoco me atendieron bien por telefono... nunca mas voy a comprar nada... una lastima."
+    }, 
+    {
+      "date": "7 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "piratamen", 
+      "text": "Uno de los lugares que voy a comer al mediodia en el laburo, se come tranqui y bien..."
+    }, 
+    {
+      "date": "19 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lidsutd", 
+      "text": "ensalada abundante, con ingredientes frescos. la verdad que para los que trabajan en el centro, es una opci\u00f3n excelente."
+    }, 
+    {
+      "date": "22 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Las mejores mediaslunas del microcentro. Al mediodia, aceptables tartas y otras comidas rapidas."
+    }, 
+    {
+      "date": "25 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "megf26", 
+      "text": "El delivery para la oficina tarda a\u00f1os, las ensaladas son ricas y abundantes."
+    }, 
+    {
+      "date": "6 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tinto", 
+      "text": "Los que trabajan por el centro sabran que Alimentari es la palabra clave para el mediodia. Tienen muy buenas tartas. Igual, para mi, su fuerte son las mediaslunas a la tarde. Ultrarecomendadas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "juanbazzi", 
+      "text": "el delivery por internet demora muchisimo, no recomendable. Las ensaldas son muy pero muy ricas y abundantes, muy buenas para los que nos gusta irnos bien satisfecho. Los fetuchinis verdes con mixta son espectaculares. Buena relacion precio calidad. Una contra, el servicio de wifi no anda nunca, deberian mejorar eso. El ambiente es muy limpio y todos los productos muy frescos y caseros. Voy siempre."
+    }
+  ]
+}

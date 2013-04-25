@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "paladar", 
+      "text": "La comida es vulgar. El ambiente tiene muy mala ac\u00fastica, con sus mesas ocupadas parece que la gente te gritara en el o\u00eddo. Los mozos se llevan la palma como lo peor del lugar. Es mentira que no tenga terraza y el precio es tan caro como un restaurante con buena atenci\u00f3n y sin tanta aceite en las comidas."
+    }, 
+    {
+      "date": "3 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Pau77", 
+      "text": "La comida tard\u00f3 bastante y estaba muy impregnada en aceite,el mozo poco amable y encima de todo no permiten el pago con tarjetas ni de debito ni credito solo contado."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Campa", 
+      "text": "Para comer bien y en abundancia. El delivery no es de lo mejor. En general un buen lugar para almorzar o cenar."
+    }, 
+    {
+      "date": "5 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GooS", 
+      "text": "Para ir si no ten\u00e9s nada que hacer. Un restaurante m\u00e1s."
+    }, 
+    {
+      "date": "28 Ago 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Baco", 
+      "text": "El servicio de delivery es muy lento y el estado del producto cuando llega es inaceptable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Guiller", 
+      "text": "Son muy buenos los desayunos, ideal para ir por las ma\u00f1anas temprano. Sin duda, lo mejor de la zona."
+    }
+  ]
+}

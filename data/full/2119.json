@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "28 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pbuceta", 
+      "text": "Platos muy ricos y abundantes.\r\nServicio bastante r\u00e1pido aunque el lugar est\u00e9 a full.\r\nSiempre es recomendable pedir las sugerencias del cheff de la primer pagina del menu. Muy buena relaci\u00f3n costo/calidad."
+    }, 
+    {
+      "date": "24 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Diegote1803", 
+      "text": "Suelo ir al mediodia, por cercania del trabajo. Hay que ir sin tener en mente alguna comida en especial y simplemente decirle a Horacio, el mozo, \"Horacio, traeme lo que quieras\", que hasta en ciertas ocasiones trae tambien lo que quiere por m\u00e1s que hallamos ordenado otra cosa. Siempre la atencion es excelente, el unico inconveniente es que suele llenarse, pero vale la pena esperar algunos minutos hasta que se libera una mesa. Precio accesible y comida acorde."
+    }, 
+    {
+      "date": "27 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nano00", 
+      "text": "Adecuado para almorzar en el microcentro. Horacio es un fen\u00f3meno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "SINCLAIR", 
+      "text": "Me atiende Martincito que es el mejor Mozo de la calle Lavalle."
+    }, 
+    {
+      "date": "2 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sakura", 
+      "text": "Hace cuatro a\u00f1os que como ahi, Horacio siempre me da lo mejor, las pastas son unas de sus mejores comidas."
+    }, 
+    {
+      "date": "18 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fhermo", 
+      "text": "Se come de lujo. El lugar se llena al mediod\u00eda, pero claro, est\u00e1 en el centro, no se puede esperar otra cosa. \r\nLo mejor, Horacio: \u00a1Un capo!"
+    }, 
+    {
+      "date": "18 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "abattagl", 
+      "text": "Pedir sugerencias al mozo Horacio."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "2 Ene 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "gastronomique", 
+      "text": "Realmente, es una pena que un lugar tan lindo est\u00e9 mal atendido y con esa lamentable y pobre variedad de comidas.\r\n\u00a1Qu\u00e9 l\u00e1stima!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "denu2012", 
+      "text": "Hermoso lugar para ir una noche de verano, comer algo relajado, y despu\u00e9s tomar un trago en la pileta! La comida es simple, sanguches, ensaladas y picadas, los precios so caros pero lo vale para una ocasi\u00f3n especial."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "LAURAZZ", 
+      "text": "Pedimos una botella de champagne. Pasados 20 minutos nos dijeron que no quedaba esa marca. Pedimos otra que demoraron otros 20 minutos m\u00e1s en servirnos. La comida lleg\u00f3 pasados 40 minutos y sin disculpas por la demora de ning\u00fan tipo. Los platos fueron respetables pero la porci\u00f3n era excesivamente peque\u00f1a. No se condicen los precios eleveados con la calidad de la comida y ni que hablar con la atenci\u00f3n. Lo \u00fanico que vale del lugar es la decoraci\u00f3n."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriandevries", 
+      "text": "Te para cuatro con 1 agua importada de Italia: cincuenta pesos. Valet parking por 2 horas, doce pesos. \u00a1Excesivo! Sesenta y dos pesos para recibir un servicio deficiente: luego de solicitar la cuenta y aguardar treinta minutos sin servicio tuve que acercarme a la caja para pagar. Son precios del primer mundo por un servicio t\u00edpico del tercero. Tourists beware!"
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "GoodTaste", 
+      "text": "El lugar es incre\u00edble, digno de conocer en una ciudad como Buenos Aires pero la atenci\u00f3n de los camareros es mala y los tragos muy mal preparados."
+    }, 
+    {
+      "date": "20 Dic 2004", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "sababa", 
+      "text": "Por favor que contraten a alguien que tenga idea... Un desastre."
+    }
+  ]
+}

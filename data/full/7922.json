@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "16 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "brainy", 
+      "text": "Bien de barrio, para ir con la familia, buena atenci\u00f3n. Comida rica."
+    }, 
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "SILSIL", 
+      "text": "La provoleta muy rica pero demasiado derretida, el bife de chorizo fu\u00e9 muy bueno con unas ricas papas fritas provenzal, el flan casero mixto muy bueno tambi\u00e9n. Tiene el estilo de los t\u00edpicos bodegones de barrio, manteles de papel, una atenci\u00f3n muy atenta pero poco profesional.Para  resumir dir\u00eda, precios accesibles, comida muy rica y porciones generosas, voy a volver."
+    }, 
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "axmf55", 
+      "text": "Fuimos con mi novia un s\u00e1bado a la noche, un ambiente extremadamente ruidoso, ten\u00edamos que gritar, de mozo hab\u00eda un chico, que era su primer d\u00eda, y por mas ganas que le haya puesto, le falta mucho todav\u00eda. Hab\u00edamos llamado para reservar una mesa, y nos sent\u00f3 en la peor mesa, cada vez que pasaba un mozo le pegaba a la mesa y sacud\u00eda todo, y adem\u00e1s estaba desnivelada la mesa. Lo \u00fanico de lo que no me puedo quejar, es de la comida, que estaba muy rica, y los precios, que son bastante buenos."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Guillee2", 
+      "text": "Fu\u00ed un s\u00e1bado a la noche. El lugar es tipo cantina, muy familiar, con mantel de papel, y ambiente no silencioso (decir ruidoso suena feo). La comida es muy buena, las rabas al ajillo con vino blanco excelentes, y las milanesas gigantes. Para recomendar, con amigos o con pareja con ganas de comer abundantemente."
+    }, 
+    {
+      "date": "4 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jorgeq", 
+      "text": "Excelentes los bifes de chorizo, cocidos segun lo solicitado y muy tiernos y sabrosos. De postre unas muy buenas frutillas a la crema. El vino lo llevamos nosotros, ya que la carta es bastante limitada y tienen descorche..."
+    }, 
+    {
+      "date": "1 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "anaruliar", 
+      "text": "Hace mucho tiempo que conozco este restaurante y siempre atendieron de maravilla y la comida es super recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "asado23", 
+      "text": "Fui un domingo al mediod\u00eda con 2 amigos, pedimos una parrillada para 3 personas y una tortilla de papas a la espa\u00f1ola. Buen lugar y la carne a punto de cocci\u00f3n solicitado. La tortilla: enorme, ideal para comer con amigos o familia"
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bostero15", 
+      "text": "El bife de chorizo es muy bueno, y tienen una variedad grande, yo probe el ameghinense y es  espectacular. Muy buen lugar, muy ameno, los due\u00f1os son amabilisimos, y parece que los clientes son habitues por el trato que tienen con todos.\r\npara recomendar"
+    }, 
+    {
+      "date": "4 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Paladarexquicito", 
+      "text": "El mejor bife de chorizo de buenos aires se puede disfrutar en el tio pedro, ademas de una esquicita parrilla."
+    }, 
+    {
+      "date": "4 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cabanucha", 
+      "text": "exelentes los bifes de chorizo, lo mejor de la capital federal."
+    }
+  ]
+}

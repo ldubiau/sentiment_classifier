@@ -1,0 +1,568 @@
+{
+  "malos": [
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Vascorojo", 
+      "text": "Es una de esas parrillas que hay en lo barrios que empez\u00f3 con un chulengo y fue poniendo mesitas, la diferencia esta dada por que aca hay una marca registrada que justifica que te cobren unos pesitos mas. Algunos puntos a favor la carne en buen punto de cocci\u00f3n y calidad aceptable. Para la semana puede resultar favorable alg\u00fan men\u00fa ejecutivo. En ambiente chico y ruidoso. Variedades de carnes pocas y carta de vino nula. En resumen prefiero la parrillita de barrio."
+    }, 
+    {
+      "date": "23 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "NancyMendez", 
+      "text": "El lugar es muy chiquito, No Hay variedad en la carta, no hay achuras de ningun tipo, y de postre hay bombon helado, ensalada de frutas y helado Tricolor, La atencion fue exelente pero uno no come atencion."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Jimena1985", 
+      "text": "La comida muy buena, pero el servicio terrible, malo. No puedo recomendar una mala experiencia."
+    }, 
+    {
+      "date": "5 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "vainilla", 
+      "text": "muy bueno, la atencion buena, el ambiente regular un poco chico para mi gusto. La comida excelente y precio justo. Comimos muy bien. recomendado"
+    }, 
+    {
+      "date": "14 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Elver", 
+      "text": "Me gust\u00f3 mucho la propuesta. A mi el original no me gusta, me parece excesivamente caro, pero esta opci\u00f3n, bastanet econ\u00f3mica est\u00e1 bien pensada, porque uno aprovecha que sale del cine y casi por el mismo dinero que gasta en un local de comida r\u00e1pida del patio de comidas, se come un asadito.\r\nLa atenci\u00f3n es eficiente y el lugar est\u00e1 bien.\r\nEs una buena propuesta \"express\"."
+    }, 
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Verito2011", 
+      "text": "Buena parrilla informal. Fuimos una noche par probar de qu\u00e9 se trataba, y salvo el vino que era espantoso, la comida estaba rica y la porciones justas."
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Morpheus", 
+      "text": "La comida es muy buena, pero las porciones son chicas.  En relaci\u00f3n al lugar, las mesas estan muy pegadas ya que es un sal\u00f3n chico.  Para ir temprano y sin mucho apetito."
+    }, 
+    {
+      "date": "3 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Telmi", 
+      "text": "Buena carne, servicio r\u00e1pido, lugar chico, pero bien. No es para velada con postre, caf\u00e9, etc."
+    }, 
+    {
+      "date": "22 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fedewein", 
+      "text": "Iba muy seguido pero aumentaron mucho los precios y dej\u00e9 de ir tanto. La \u00faltima vez que fui estaba lleno. Le dije que eramos 2 que esper\u00e1bamos. Se libera una mesa y nadie nos avisa nada. Alos 5 min me acerqu\u00e9 a ver si nos pod\u00edamos sentar y nos dijeron \"claro\".Al lado nuestro hab\u00eda un mozo parado al lado nuestro. A los 5 min le digo: sab\u00e9s qui\u00e9n es el mozo de ac\u00e1? Inclinado contra la pared me dice \"yo\". Parec\u00eda que no nos quer\u00eda atender. Cuando le ped\u00ed papas fritas me dijo que no nos pod\u00eda prometer nada. Mozo nuevo, un desastre. Nos fuimos."
+    }, 
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "marianojaja", 
+      "text": "El lugar responde muy bien a lo \"express\". Hay sandwiches y men\u00faes de parrilla donde se elige el componente principal. Funciona r\u00e1pido y la calidad es correcta, aunque te qued\u00e1s con ganas de m\u00e1s, agregando alguna otra porci\u00f3n. Por ser dos personas dejaron la botella de vino, en lugar de dos copas (de un vino regular)"
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "asmodeo", 
+      "text": "Los sandwiches est\u00e1n buenos,son para comer algo r\u00e1pido cuando uno no tiene ganas de cocinar en casa.  Si uno quiere tomar vino para acompa\u00f1ar solamente puede elegir cepa pero no marca (una sola marca de malbec y una sola marca de cabernet). El ambiente es chico. En sintesis, es un lugar de comida r\u00e1pida, es para sentarse comer algo al paso y seguir de largo. Es una buena opci\u00f3n, por ejemplo, para ir a la salida del cine antes de volver a casa."
+    }, 
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "INCREIBLEHULK", 
+      "text": "el lugar es extremadamente chico aun asi se pudo cenar bastante bien ayudado por la muy buena atencion de Lucas...la carne maso...y tomando en cuenta todo lo que trae el menu, el precio esta bien..tiene la opcion de sandwiches a buen precio y abundantes..."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LISIS", 
+      "text": "Como andaba por la zona y sabia que andaba cerca, me d\u00ed una vuelta. Eran las 16hs,el lugar vacio, estaban preparando todo para la noche. Pero como es una parri al paso uno puede pasar a la hora que quiera y pedir lo que desee,por eso ped\u00ed un choripan 7 pesos sale,y ahi lo disfrut\u00e9.Tiene pizarra a la vista para uno elegir los cortes de la noche y hacerlo r\u00e1pido al servicio,ideal para cuando no tenes m\u00e1s recursos de restaurants y se te hizo tarde."
+    }, 
+    {
+      "date": "9 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Telmi", 
+      "text": "No se le puede pedir peras al olmo. Excelente lugar para comer muy bien, r\u00e1pido y barato, con poca variedad. Pero quien va a Siga la vaca express, se tiene que imaginar que es as\u00ed. Lo recomiendo para comer buena carne a bajo costo y con muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "4 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "YaMy_", 
+      "text": "Muy bueno para comer muy bien con poca plata. Tiene un men\u00fa fijo que consta de entrada, plato principal, papas fritas, ensalada, postre y bebida. Esta \u00faltima te la traen en jarrita, pero es grande. Nosotros eramos cuatro, y una de las jarras no se tom\u00f3. La carne es muy rica, al igual que el pollo. El lugar no es muy grande, pero tranquilo. Recomendado a aquellos que no comen demasiado (no recomendado a aquellos quienes se devoran todo de las parrillas libres), dado que las porciones son justas, ni chicas ni enormes."
+    }, 
+    {
+      "date": "31 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "smzuddio", 
+      "text": "Inteligente adaptaci\u00f3n del cl\u00e1sico \"Siga la Vaca\", en versi\u00f3n mediod\u00eda.\r\nMen\u00faes simples, atenci\u00f3n r\u00e1pida y eficiente.\r\nLa materia prima es buena. Una excelente alternativa para comer un rico sandwich de carne, pero sentado y bien atendido."
+    }, 
+    {
+      "date": "11 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "padilla", 
+      "text": "Buenisimo para ir a comer rico, barato y rapido. El chorizo, aunque peque\u00f1o, estaba delicioso. El ojo de bife, buenisimo. Me sorprendio la atencion : buena onda, rapidez, amabilidad... para imitar"
+    }, 
+    {
+      "date": "6 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "erimo", 
+      "text": "Un lugar para ir de paso, amigos, oficina, algo r\u00e1pido. Tanto la entrada de chorizo y morcilla, como el Bife americano, estaban perfectos. En su punto justo y muy sabrosos. La atenci\u00f3n muy correcta y atenta. Recomendable!"
+    }, 
+    {
+      "date": "4 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ferbat", 
+      "text": "Buen lugar para ir con amigos, precios accesibles y buena carne; hay sandwich a precios razonables y un menu que incluye morcilla y chorizo, papas fritas, un corte de carne (vacio, asado, bondiola y alguno mas) ensalada, postre y bebida. La carne es buena y el servicio es excelente, nos atendieron muy rapido, con cordialidad, y la comida sale rapidisimo. Muy recomendable para ir con amigos o para el caso de que andes por la zona y quieras comer buena carne sin perder mucho tiempo."
+    }, 
+    {
+      "date": "18 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "julieta555", 
+      "text": "Un hallazgo !!! PAra ir de pasada y muuuy distendido, con amigos, cenas con buen precio y buena carne. RAZONABLE totalmente! volveria!!!! La atencion es rapida y organizada!!!"
+    }, 
+    {
+      "date": "8 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "garrote007", 
+      "text": "ideal para amigos\r\no para el paso\r\nse come bien y rapido \r\ncon calidad\r\nlos precios tambien muiy bueno \r\nhay combos y se hace bastante barato\r\nlo recomiendo"
+    }, 
+    {
+      "date": "20 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "baffoblu", 
+      "text": "la atencion es buenisima y rapida.\r\ncomi un sandwich de churrasco con lechuga y tomate, papas fritas y jarra de coca por $23.\r\ntodo muy rico, ideal para comer rapido antes del cine de la esquina."
+    }, 
+    {
+      "date": "2 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juanbuga", 
+      "text": "Excelente formato de restaurant. Men\u00fa limitado, de buena calidad, con muy buena y r\u00e1pida atenci\u00f3n y precios mas que convenientes. La relaci\u00f3n precio/calidad/servicio es de lo mejor que he encontrado."
+    }, 
+    {
+      "date": "22 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "smoje", 
+      "text": "Buena combineta, que segun los comentarios y experiencia propia, no falla. Por 72 mangos comes parrula un domingo al mediodia.En mi caso me clave una bondiola de cerdo, que estaba muy buena. No comas pan por que no llegas al postre!"
+    }, 
+    {
+      "date": "22 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "edu59", 
+      "text": "Fuimos al local de Dorrego, perfecta organizaci\u00f3n que deriva en lo m\u00e1s destacable que es su servicio y que consta de 3 pasos con una precisi\u00f3n admirable.\r\nMuy bien acompa\u00f1ada estuvo la carne en su punto justo con unas suaves fritas ,fresqu\u00edsima ensalada y el vino acorde a este men\u00fa,y en el cual est\u00e1 incluido.Recomendable el lugar!,de la mesas juntitas me d\u00ed cuenta al salir."
+    }, 
+    {
+      "date": "25 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Xema2005", 
+      "text": "Pasamos por la vereda sin saber que estaba este local y entramos. El mozo nos coment\u00f3 que lo que m\u00e1s sal\u00eda era el men\u00fa compuesto de entrada, plato principal (carne) con fritas y ensalada, gaseosa o cerveza y postre (helado, ensalada de frutas). Todo por 30 pesos....cierra por todos lados y la carne era excelente."
+    }, 
+    {
+      "date": "19 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "leoA", 
+      "text": "Fui al que abrieron hace muy poco en Alvarez Thomas y Dorrego aprox. Men\u00fa mediodia $25! Un regalo realmente. Todo estuvo bien, chorizo, morcilla, papas secas y crocantes, gaseosa abundante, un corte a eleccion con una ensalada rusa decente. Muy buena relaci\u00f3n precio-calidad para un mediod\u00eda suculento."
+    }, 
+    {
+      "date": "17 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "fedewein", 
+      "text": "Muy bueno, bonito y barato. Fui muchas veces. Volv\u00ed este s\u00e1bado para ver que los precios aumentaron 20%. sigue siendo barato pero quer\u00eda comentar que he notado que la calidad ha bajado considerablemnte. Los ojos de bife vienen m\u00e1s chicos y m\u00e1s grasosos, las ensaladas y las papas fritas mucho m\u00e1s chicas tambi\u00e9n.\r\nDe los mozos hay uno que es un genio y espero siempre que nos atienda \u00e9l pero casi nunca nos toca, los dem\u00e1s dejan mucho que desear."
+    }, 
+    {
+      "date": "5 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "babilon", 
+      "text": "Muy buen lugar para comer parrilla rapido, la carne de muy buena calidad, los chicos que atienden super simpaticos, el lugar es muy ruidoso, pero eso no importa ya que solo pagas $35 un regalo por la calidad que ofrecen, esta bueno para un dia que no queres comer en tu casa y pagar poco.. voy siempre y me encanta.. si buscas el tipico lugar gourmet no vayas.. te vas a desilucionar.."
+    }, 
+    {
+      "date": "20 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Ledlidia", 
+      "text": "Se come muy bien, el espacio es extremadamente reducido, el mozo con muy buenos modos, nos explic\u00f3 amablemente. Si quieren comodidad y espacio, no vayan."
+    }, 
+    {
+      "date": "3 Ene 1970", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "shumi7", 
+      "text": "Muy bueno todo si estas buscando picar algo de carne r\u00c3\u00a1pido, pero no tiene achuras por ejemplo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juanchibueres", 
+      "text": "Muy buena la carne y excelente la atencion. Que mas se puede pedir ?"
+    }, 
+    {
+      "date": "14 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Komishama", 
+      "text": "Suelo ir seguido al mediodia. Una excelente opcion."
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rcolombo48", 
+      "text": "Cumple con lo que se va a buscar. Buen menu, excelente el ojo de bife y el acompa\u00f1amiento. Muy buena atencion."
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gneira", 
+      "text": "Impecable como siempre. El enu de ojo de bife es muy bueno y barato. Es para comer bien, rapido y sin exageradas pretenciones. Muy buena atencion."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Branch", 
+      "text": "La atenci\u00f3n es buen\u00edsima y muy r\u00e1pida.\r\nLa comida es excelente y abundante (para compartir).\r\nRecomiendo altamente el ojo de bife. Es un manjar tierno.\r\nEl lugar no es grande pero es lindo, cuidado en los detalles y muy limpio."
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mzuriel", 
+      "text": "Buen lugar para comer carne y barato. El menu del ojo de bife es muy recomendable."
+    }, 
+    {
+      "date": "5 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Luisma7", 
+      "text": "Siga la Vaca Express no defrauda! Impecable el Ojo de Bife, las papas bien hechas. No encontr\u00e9 hasta ahora una mejor opci\u00f3n precio/calidad. Es todo muy abundante, sin queja alguna! El lugar no es grande, pero se respira un muy buen ambiente! Si bien es chico, creo que es parte de la magia e identidad del lugar. La atenci\u00f3n de los camareros es muy buena."
+    }, 
+    {
+      "date": "30 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Indionauta", 
+      "text": "No es una parrilla convencional. Solo tiene cortes que se hacen r\u00e1pido y en el momento. Entra\u00f1a, ojo de bife, bife de costilla, bondiola, pollo deshuesado y alguno m\u00e1s. \r\nLo que tiene de bueno es que parece un fast food. Si est\u00e1s apurado y ten\u00e9s antojo de carne asada es una opci\u00f3n excelente. La calidad de llos cortes es buena, especialmente recomiendo el ojo de bife y el asado americano.\r\nLos chorizos no son excelentes, son suaves y para paladares internacionales. A mi me gusta m\u00e1s el tipo tradicional de cerdo, pero  zafan bien.\r\nEl precio es muy bueno de verdad.\r\nUn detalle... el pan es esponjoso y muy liviano, no te lo retacean y eso est\u00e1 bueno.\r\nLas papas fritas est\u00e1n muy bien hechas.\r\nNo tiene opciones de vinos, venden uno de la casa de calidad media pero de $20, por lo que cuesta un ++"
+    }, 
+    {
+      "date": "29 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "oyanna", 
+      "text": "Execelente la carne y muy buena atencion."
+    }, 
+    {
+      "date": "13 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "osalan", 
+      "text": "Muy buena parrilla y muy buena atenci\u00f3n!! Todo estaba riqu\u00edsimo.Recomiendo Ojo de bife con fritas Un Manjar!."
+    }, 
+    {
+      "date": "21 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jeton", 
+      "text": "Siga La Vaca Express de Belgrano es la mejor opci\u00f3n en parrilla de Buenos Aires en relaci\u00f3n precio/calidad por debajo de los $70. Si bien no es la excelencia como El Tano o Los Talas del Entrerriano, tiene muchos puntos a favor: el men\u00fa que incluye postre, los distintos tipos de corte que ofrecen (incluyen guarnici\u00f3n), el postre, la entrada (chorizo y morcilla), las fritas y la jarra de gaseosa. Todo por $60. Hay poco espacio entre mesas (con cochecito de beb\u00e9 hay que buscar el rinc\u00f3n), eso s\u00ed. No es tan ruidoso, la atenci\u00f3n es correcta. Recomendable: la bondiola o el asado americano."
+    }, 
+    {
+      "date": "17 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "edu59", 
+      "text": "Frecuentaba el local de  Dorrego, ahora me quedo con \u00e9ste. Siempre nos v\u00e1 bi\u00e9n.El men\u00fa que tienen est\u00e1 perfecto y m\u00e1s a\u00fan cuando lo pedimos con el ojo de bife. Si bien la carta de vinos es corta,el Malbec de la casa(Pont Leveque) es m\u00e1s que \u00f3ptimo.El local  es  muy simple y chico pero si el tiempo acompa\u00f1a afuera est\u00e1 mejor.La atenci\u00f3n es  eficiente.Me voy para all\u00e1."
+    }, 
+    {
+      "date": "4 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bailac", 
+      "text": "Muy buena eleccion. Los menues de carne son muy buenos y a muy buen precio. Muy buena atencion."
+    }, 
+    {
+      "date": "7 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mariorobdiaz46", 
+      "text": "Hemos ido varios sabados al mediodia y nunca defrauda. Siempre pido el menu de ojo de bife y es riquiimo. Muy buena atencion. Hay que llegar temprano."
+    }, 
+    {
+      "date": "4 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "senadora", 
+      "text": "El ojo de bife riquisimo y muy buena atencion."
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "guillesonrisa", 
+      "text": "Barbaro para comer rico y barato. Tiene un menu de entrada ( chorizo y morcilla chicos) luego ojo de bife o bife o pollo, postre y bebida. Todo de muy buena calidad. Lo prefiero al tenedor libre, sino uno come de mas.La atencion muy buena. El lugar es un poco peque\u00f1o y tuve que esperar."
+    }, 
+    {
+      "date": "10 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "salmonrosado", 
+      "text": "Es una buena \"vuelta de tuerca\" de la gente de Siga la Vaca: un restaurante mas chico donde se puede comer al plato, pero no tenedor libre como en el resto de la cadena.\r\nEs bastante economico, tienen un menu completo con chorizo y morcilla de entrada, un corte de carne (yo comi ojo de bife, excelente), ensalada, papas fritas, la jarra de 1 litro cl\u00e1sica de la empresa, y postre, todo de muy buena calidad y bien presentado.\r\nQueda claro que es para ir a comer bien y barato, no tiene grandes lujos, y el lugar es acotado, a $39 final la relaci\u00f3n precio/producto debe ser de las mejores."
+    }, 
+    {
+      "date": "9 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Koche", 
+      "text": "Por 36 pesos por persona comes ojo comes un rico chorizo mas morcialla, papas fritas muy ricas, ojo de bife mas ensalada, y postre mas agua. espectacular, creo que cambiaron algo del negocio con los neuvos locales \\\"siga la vaca express\\\" el cual me parece acertado."
+    }, 
+    {
+      "date": "16 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "coconut", 
+      "text": "visitamos el nuevo local de alv thomas y dorrego. superado el malestar inicial porque los mozos se negaban absurdamente a juntarnos dos mesas de 2 para armar una de 4, nos encontramos con una sorpresa grata. menu super completo a precio imposible, viernes a la noche: 33 pesos x persona e incluye: un mini chori y una mini morci, un corte de carne a eleccion (asado, ojo de bife, bondiola, pollo y alguna otra opcion mas), fritas individuales, ensalada a eleccion, postre y bebida (cerveza de medio, copa de vino o jarra de litro de gaseosa). y contra lo que podria esperarse, la carne es muy buena."
+    }, 
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jeton", 
+      "text": "Gracias a los comentarios de Gu\u00eda Oleo descubrimos este lugar que cumple con las 3 B, o al menos con 2. La calidad de la carne result\u00f3 muy buena! Comimos el Men\u00fa Parrilla que tuvo de entrada chorizo (de primera) y morcilla con fritas, luego parrilla, ensalada, bebida (si es gaseosa, te traen una jarra!) y postre (muy bueno el helado y la presentaci\u00f3n) a elecci\u00f3n. Todo por $33!! Lo que s\u00ed hay que ir con paciencia porque hay que esperar y es medio desordenado hasta que te consiguen un lugar. Para comer parrilla r\u00e1pido y econ\u00f3mico, es definitivamente el lugar! Recomendable!"
+    }, 
+    {
+      "date": "22 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AlvaroFossatti", 
+      "text": "Me lo recomend\u00f3 un amigo, fui con mi se\u00f1ora. Tuvimos que esperar un ratito para sentarnos porque hay pocas mesas, pero todo se compensa con la velocidad del servicio.\r\nNi bien nos sentamos nos trajeron la entrada, y cuando terminamos la misma, nuestro pedido ya estaba en la mesa.\r\nAbundante a mas no poder, comi a reventar. \r\nLa comida riquisima, la carne en su punto exacto y el postre muy muy rico.\r\nLa atencion 10 puntos, al igual que la comida. Solo falta un poco de espacio, pero lo hace mas acogedor eso.\r\nMuy recomendable.\r\nNo hubiese comido mejor ni en un canton suizo!!!"
+    }, 
+    {
+      "date": "20 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sheikmasicovich", 
+      "text": "Buena comida, exelente atension. El asado americano de lo mejor, la ensalada de fruta muy fresca. Los encargados muy simpaticos nos atendieron todo el tiempo y muy bien y con mucha dedicasion."
+    }, 
+    {
+      "date": "16 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mbdconsulting", 
+      "text": "Soy asiduo del Siga la Vaca de Puerto Madero, y no savia que habien puesto un local mas chico donde comer, segun dicen ellos, \"al paso\".\r\nLa comida es, como siempre, de muy buen nivel, y muy abundante.\r\nPara destacar: el precio!!! No entiendo como ganan plata cobrando todo ese menu a solo $30.\r\nPara mejorar: el lugar es chico, se llena facil, y hay que esperar a veces.\r\nLos mozos podrian ser un poco mas despiertos."
+    }, 
+    {
+      "date": "16 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "bersuitero7", 
+      "text": "Com\u00ed excelente, hasta el artazgo. Todo lo que com\u00ed, lo abundante y exquis\u00edto que estaba no lo encontr\u00e9 en muchos lugares. El lugar es chico, necesita ampliarse urgente. No es c\u00f3modo, pero por 30 pesos no se puede pedir nada mejor. Muy recomendable!"
+    }, 
+    {
+      "date": "15 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "zoquette", 
+      "text": "Comi Muy bien, la verdad que tiene muy buena relacion precio calidad."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Julimoldero", 
+      "text": "La atencion no es agradable y falta cordialudad en el trato.   De todos modos iria una segunda vez para ver si fue solo esa oportunidad o es el estlo del lugar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dtluyo", 
+      "text": "Buen Bagel de Salm\u00f3n con queso crema y alcaparras. Es para llevar..."
+    }, 
+    {
+      "date": "29 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ferly", 
+      "text": "Lamentablemente la atencion no es buena primero porque la due\u00f1a no estaba por lo tanto la atencion no me gusto seguramente estan acostumbrados a los turista gente de paso"
+    }, 
+    {
+      "date": "28 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Ahora que me cambie de empresa me queda cerca Matilda. Tienen un muy buen wrap de pollo con guacamole. El precio es mas que conveniente porque tranquilamente pueden comer 2 personas ese wrap. Pesa tranquilamente bastante mas de medio kilo."
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Riquisimas galletitas y muffins en una zona que por lo general esta medio muerta. El lugar es chiquito pero esta tan bien ambientado que te hace sentir que estas en tu propia casa. Ojala este emprendimiento sea tan exitoso como Gibraltar y Bangalore!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pokis", 
+      "text": "Comida con ingredientes frescos, excelente calidad. El wrap de pollo y guacamole super recomendable."
+    }, 
+    {
+      "date": "26 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Vero20", 
+      "text": "Riquisimo el cinnamon roll!! El lugar es muy chiquito, pero hermosamente decorado!!!"
+    }
+  ]
+}

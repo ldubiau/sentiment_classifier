@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "3 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Richy", 
+      "text": "Volv\u00ed a incursionar luego de mucho tiempo y lamentablemente la calidad de la comida empeor\u00f3. Creo que de los 4 platos que pedimos, solo uno fue estuvo preparado de forma adecuada. El servio es bueno solo si el local est\u00e1 a la mitad de su capacidad. No creo que vuelva."
+    }, 
+    {
+      "date": "16 May 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sole_bianchi", 
+      "text": "Las tortas son totalmente artificiales, todo hecha de polvos, no la pude terminar porque me pareci\u00f3 horrenda. \r\nLas tartas saladas y los sandwiches no son malos pero los precios no me parecen buenos para la calidad de comida que est\u00e1n brindando."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "La comida es aceptable, barata y rapida. El servicio  es correcto y el ambiente, por lo menos, se aleja de la parte mas ruidosa a la hora de cenar, el patio de comidas. Esta bien, pero hay mejores restaurantes en unicenter, eso sin duda."
+    }, 
+    {
+      "date": "13 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Kimonata", 
+      "text": "Muy buena presentaci\u00f3n de los productos, agradable comida, pero muy mala atenci\u00f3n al cliente que compra para llevar al patio de comidas, realmente para no volver si no mejoran, hay que cuidar al cliente."
+    }, 
+    {
+      "date": "1 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gisegaby", 
+      "text": "Fuimos a tomar un cafe con torta, si, la torta tenia mucha gelatina pero era rica, el capuchino excelente. Y mejor q estar en el medio del patio de comidas! Lo salado no lo probe pero se veia todo rico."
+    }, 
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Hellios", 
+      "text": "Es un lugar muy lindo porque los precios no son caros, la comida es sencilla pero a pesar de todo hay una persona que te sirve y no hay que esperar parado ni comer con cuchillo y tenedor pl\u00e1stico. Las gaseosas son de m\u00e1quina pero no son feas y vienen en vasos grades y fr\u00edas. La promo del club de lectores de la naci\u00f3n te incluye una mini torta o un capuchino con cada men\u00fa y est\u00e1 muy buena. Ideal para antes o despu\u00e9s del cine, opci\u00f3n gasolera y rica!!!"
+    }
+  ]
+}

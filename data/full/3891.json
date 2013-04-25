@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "9 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sergiojejo", 
+      "text": "Comi el mismo Sandwich que puedo comer en culquier YPF."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "beren", 
+      "text": "Muy Buena la ensalada, una propuesta diferente dentro del Shopping."
+    }
+  ]
+}

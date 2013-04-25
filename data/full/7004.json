@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "2 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Maricris47", 
+      "text": "Llam\u00e9 para reservar y no me dijeron que los domingos hab\u00eda dos menues para elegir, pasta o asado, tendr\u00edan que haber informado que no hab\u00eda comida a la carta, la pasta  fea y os que comieron carne  la encontraron  dura, no lo recomiendo para la gente que guste de comer bien, en cuanto al postre yo ped\u00ed cheese cake con frutos rojos y me trajeron una copa con un batido tipo sundae que de cheese cake no ten\u00eda nada."
+    }, 
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pintu", 
+      "text": "la atencion y el servicio de mesa es muy bueno, una falencia fatal, pedimos 2 ojos de bife de 400 gms y nos trajeron dos bifes de chorizo de 250 gr, lo pedimos a punto y estaban recosidosesto es para no rebresar si no tienen algun plato deben decirlo y no darle a cliente  otra cosa no lo recomiendo"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rasa", 
+      "text": "Un lugar excepcional para el lugar donde se encuentra: Es necesario que hagan mas amigable la atenci\u00f3n. muy recomendable"
+    }, 
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Un excelente restaurant ,ue por esta cerca de lujan hace predecir un lugar de carnes y la diferncia el lugar las hace con las patas y los pescados muy bien hechos, es nivel gourmet, recomndable pastas pescados"
+    }, 
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Muy lindo lugar, muy bien ambientado, excelente cocina,es una buena opci\u00f3n para hacer 70 km"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ankelito", 
+      "text": "Llegamos huyendo a una tormenta y nos pareci\u00f3 buen\u00edsimo el lugar, la ambientaci\u00f3n, el servicio y la comida. Tiramis\u00fa con mascarpone!!"
+    }, 
+    {
+      "date": "25 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "loco96", 
+      "text": "Es un lugar muy lindo cerca de la ruta en donde uno no espera encontrar un resturant de esta calidad. La comida y la atenci\u00f3n es de lo mejor"
+    }, 
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rasa", 
+      "text": "Es un viejo almacen de pueblo con luces internas de decoraci\u00f3n que lo transforma en un lugar muy agradable.La comida parece de Palermo. Encontrarse con pulpo a la gallega o con salmon a la motaza a las afueras de Lujan parece no ser posible. Es mas que recomendable por el lugar y por la comida. No es para comer asado"
+    }
+  ]
+}

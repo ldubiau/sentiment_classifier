@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "1 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "bianchif", 
+      "text": "La comida es olvidable y car\u00edsima. El lugar hiper-ruidoso. Esta mas pensado en un after-hour / disco que un restaurante."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Muy bueno para comer algo rico y despu\u00e9s quedarse a bailar un poco. Buenisima la vista a la pista del hip\u00f3dromo de San Isidro."
+    }, 
+    {
+      "date": "28 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pau221", 
+      "text": "Pedimos un \"tour\" , una especie de Tapeo que venia con langostinos al curry, tacos en vasitos shot, salmon teriyaki, bruschetas de salmon ahumado y jamon crudo, unas tartitas, empanaditas de cerdo, langostinos empanados y tiradito de salmon. Venia con 4 tragos ademas. Luego una tabla de combinado de sushi. Me gusto muchisimo. No es barato pero la calidad de la comida se notaba buena. El ambiente muy lindo y una vista espectacular al hipodromo.  Buena musica despues. Volveria sin duda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "VIRAbdeljalil", 
+      "text": "El lugar es divino, la comida genial!!!!!!!!!! Lo recomiendo"
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chinchula", 
+      "text": "Muuuuy bueno! me encant\u00f3 el formato de los platos, comimos en la terraza mirando la pista de carreras y tomando ricos tragos. Excelente la m\u00fasica! Al fin algo divertido para salir por san isidro, definitivamente volveremos!"
+    }
+  ]
+}

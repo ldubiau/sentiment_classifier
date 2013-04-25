@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "JorgeGym", 
+      "text": "Fu\u00ed a comer con un amigo. Hab\u00eda s\u00f3lamente dos mesas ocupados y se equivocaron el pedido, pedimos una ensalada y nos trajeron otra... Me pregunto que pasar\u00e1 cuando vaya m\u00e1s gente. La comidad no es gran cosa y la relaci\u00f3n precio/valor no es buena."
+    }, 
+    {
+      "date": "21 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "palifer", 
+      "text": "Muy buena la atenci\u00f3n de la gente! Los platos, muy ricos y abundantes las porciones. Compartimos el postre, y tomamos caf\u00e9."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "RaulCost", 
+      "text": "Excelente, ademas nos atendio el Chef, un ambiente muy calido.\r\nLa comida de primera,"
+    }
+  ]
+}

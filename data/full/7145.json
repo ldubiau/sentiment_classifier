@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lastresemes", 
+      "text": "La atencion sobre todo del encargado,impecable,el ambiente corresponde al hotel al q esta,pero la comida muy mala, la panera con pan viejo,muy mala calidad de la materia prima en general,la comida no es preparada por cocineros formados para este tipo de cocina"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "fui a un concierto con c\u00f3ctel y todo el evento estuvo hermoso. el ambiente es impecable, ya que en el hotel (en mi modesta opini\u00f3n uno de los m\u00e1s lindos de Bs As dentro del rubro mansi\u00f3n se\u00f1orial) se respira un aire de refinamiento y buen gusto; el bandejeo de saladitos y  calentitos varios estuvo bien servido. muy bueno"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mmmulic", 
+      "text": "Muy bueno"
+    }
+  ]
+}

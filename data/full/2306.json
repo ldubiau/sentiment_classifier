@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "26 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Willio", 
+      "text": "Ricas milanesas, me encant\u00f3 el pollo al horno con papas. \r\nBuena  atenci\u00f3n. Gente del oficio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "CarlosCalvo", 
+      "text": "Excellent food.  Good service.  Not the prettiest decor, but clean."
+    }, 
+    {
+      "date": "24 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "El_Topo", 
+      "text": "Muy buena la pizza, much\u00edsimo queso. Viene con perejil y otras especias. La masa es ancha pero viene bien cargada."
+    }
+  ]
+}

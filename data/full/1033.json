@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "21 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ludmy198", 
+      "text": "Muy buena la atenci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carin", 
+      "text": "Excelente servicio y atenci\u00f3n."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "10 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Zeus", 
+      "text": "Lindo lugar para compartir con pareja o amigos."
+    }, 
+    {
+      "date": "13 Ago 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "topodie", 
+      "text": "Muy buena la calidad de la comida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AGUS_", 
+      "text": "Es un lugar muy familiar, muy delicado en cuanto a la ambientaci\u00f3n y vajilla. Es muy agradable en todos los aspectos.\r\nEst\u00e1 escondido, pero vale la pena conocerlo."
+    }, 
+    {
+      "date": "10 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lu_7635", 
+      "text": "El ambiente es excelente de verdad,  muy recomendable. Es un lugar muy limpio y muy agradable."
+    }
+  ]
+}

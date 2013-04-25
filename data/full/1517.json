@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "5 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "mercho", 
+      "text": "Muy buena y experimentada atenci\u00f3n en barra, buenas medidas de scotch, acompa\u00f1ado con pochoclo y 2 empanaditas. \r\nEso s\u00ed, cuando pregunt\u00e9 por el s\u00e1ndwich que recomienda un usuario no ten\u00edan idea."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "victoria5", 
+      "text": "Comimos excelente y la atencion fue muy buena, nos fuimos contentos."
+    }, 
+    {
+      "date": "15 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "martinis", 
+      "text": "La comida es muy buena, est\u00e1 muy bien ambientado en el estilo escoc\u00e9s. Muy buena m\u00fasica, mucha onda. La atenci\u00f3n es correcta, podr\u00eda mejorar."
+    }, 
+    {
+      "date": "3 Ene 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucho", 
+      "text": "Es el \u00fanico restobar escoc\u00e9s de la Argentina. Combina la cocina escocesa con la tradicional cocina nacional. Posee tres salones: Highland Tea Room, Royal Scotch Bar y Lowland Dinning Cave. Se puede degustar el Basket (plato t\u00edpico escoc\u00e9s) que consiste en un pan de campo relleno con una variada lista de ingredientes (carne, cerdo, cordero, pollo, etc.). Tiene una barra con un amplio surtido en bebidas alcoh\u00f3licas (whiskies, bourbons, maltas, cervezas, etc.). Muy visitado por turistas. Un lugar recomendable y acogedor"
+    }, 
+    {
+      "date": "24 Nov 2004", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jorge3", 
+      "text": "La comida result\u00f3 excelente, pero la atenci\u00f3n fue desastrosa. El mozo no recordaba lo que le ped\u00edmos y encima discuti\u00f3 al respecto. Adem\u00e1s, tardamos 2 horas en almorzar."
+    }
+  ]
+}

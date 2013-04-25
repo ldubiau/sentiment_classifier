@@ -1,0 +1,828 @@
+{
+  "malos": [
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "anastasialegion", 
+      "text": "Fuimos dos personas a comer torta a la tarde.\r\nel mozo nos atendi\u00f3 muy bien,el lugar no est\u00e1 muy bien decorado(tiene exceso de rojo).\r\nen cuanto a la carta es muy pobre,solo tiene 4 tortas(que tranquilamente las podia hacer yo en mi casa).\r\nlos precios son caros por el servicio que ofrecen.una decepci\u00f3n.\r\nah! el ba\u00f1o de mujeres no estaba muy limpio que digamos"
+    }, 
+    {
+      "date": "6 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "GAM", 
+      "text": "Excelente servicio en un buen ambiente aunque con mesas muy cercanas. La comida sin sabor, el salm\u00f3n repasado y el arroz salteado parec\u00eda un risotto comprado en el supermercado. Precios injustificados con comida de este calidad."
+    }, 
+    {
+      "date": "1 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ronnyjob", 
+      "text": "Para el precio (50 pesos por platos principales) estabamos esperando mucho mas. El ambiente esta lindo, y el servicio esta bueno pero la comida esta malo - sin mucho sabor, como todo esta preparando de un microonda sin ingredientes frescas. No pueden justificar sus precios con comida de este calidad."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Amanda", 
+      "text": "El ambiente y el servicio estan muy buenos, pero la comida es pesima.  La salsa thai de las langostas no tenia nada de sabor -salsa de una botella parecia. El satai de lomo es un brochette con un poco de salsa de mani al lado. Las entradas eran mejores, pero tampoco recomendables. No regresaremos."
+    }, 
+    {
+      "date": "28 Ago 2004", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "notri", 
+      "text": "La comida no sab\u00eda bien: se taparon los sabores por usar muchas especias distintas que se antagonizaban. El servicio fue poco atento, lento. Lo bueno: la ambientaci\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "peladopepe", 
+      "text": "La comida es rica, con nuevos savores  y muy bien presentada. Tal vez por Kun Fu ped\u00ed Shao Lin, muy rico. Otro plato, el salm\u00f3n rosado, muy bien cocinado y con una rica salsa. De postre mousse de t\u00e9 verde y profiteroles. Riqu\u00edsimos. La atenci\u00f3n no es profesional y se nota pero en el conjunto el resto compensa esta deficiencia y se pasa un muy buen momento. La carta no es variada y es bastante ruidoso, a pesar de lo cual es muy agradable. Para recomendar y volver."
+    }, 
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "baffoblu", 
+      "text": "lindo lugar y excelente servicio.. comida muy rica pero no sorprendente. de lo mejor del barrio chino.. precios un poco elevados ($60 por principal aprox)."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ferch", 
+      "text": "La carta es excelente, la saz\u00f3n es envidiable, la presentaci\u00f3n a\u00fan mejor. Realmente un lugar para llevar a alguien y quedar muy bien."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "micha_ster", 
+      "text": "Fuimos para la hora del t\u00e9, hab\u00eda muy poca variedad de tortas (encima solo ten\u00edan unas pocas en ese momento). Prob\u00e9 la de maracuy\u00e1 y chocolate, que no es nada especial. \r\nEl lugar es lind\u00edsimo, con una ambientaci\u00f3n muy buena. La atenci\u00f3n es atenta y los precios, un poco elevados."
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "lilx", 
+      "text": "Lo mejor de este lugar es el ambiente. HAy que ir para conocer el jardin zen y la hermosa decoraci\u00f3n del lugar. La comida del resto no es muy variada y la casa de te era mejor con la anterior repostera. De todas formas es un buen lugar (mas para tomar el te que para comer) ya que es caro el restorante por lo que ofrece."
+    }, 
+    {
+      "date": "30 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Nordic", 
+      "text": "En un lugar que enamora con la decoraci\u00f3n tuve el gusto de probar una comida china mucho m\u00e1s sana y gourmet. Un buen plato agridulce y unos riqu\u00edsimos profiteroles de postre. La atenci\u00f3n un poco lenta pero muy amable y el t\u00e9 estaba un tanto fuerte."
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "misolmi", 
+      "text": "Lo mejor es, sin dudas, el ambiente. La decoraci\u00f3n es a mi gusto muy acertada, y el espacio con la muestra de arte le suma mucho al lugar (yo recomiendo no irse sin subir a verla). El jardincito es precioso, un lugar de paz en medio de la ciudad.\r\nEl servicio fue correcto y la comida nada del otro mundo, pero con precios de comida extraordinaria. Pedir\u00eda un poco m\u00e1s de realismo ah\u00ed."
+    }, 
+    {
+      "date": "21 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "diegodominico", 
+      "text": "El ambiente lindo, la comida buena; la atenci\u00f3n, cuando el lugar esta lleno, es mala, para ir a la tarde es ir a sufrir, realmente. La gente se levantaba para llamar a la camarera, muy amable ella, pero parec\u00eda que no hubiera nadie asignado a nuestro sector, y que la persona que nos atend\u00eda deb\u00eda hacer otras miles de cosas, porque nunca nos prest\u00f3 atenci\u00f3n. Una mala experiencia para no volver."
+    }, 
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "maria_e1", 
+      "text": "El servicio un poco lento.\r\nEl men\u00fa no es muy variado.\r\nLa presentaci\u00f3n de los platos es excelente.\r\n\r\nCierran bastante temprano por la noche."
+    }, 
+    {
+      "date": "11 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dani_ceroli", 
+      "text": "Es la segunda vez que voy y me decepcion\u00f3 un poco, no han aggiornado la carta en un a\u00f1o. No ten\u00edan langostinos (sus mejores platos los incluyen).  La carta de vinos es en extremo reducida.  A las 12.30 nos anunciaron que estaban cerrando. Esperaba mas de la experiencia."
+    }, 
+    {
+      "date": "4 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Muy buen lugar para deleitarse con un almuerzo oriental. Los platos estuvieron muy abundantes y deliciosos. El lugar ambientado en forma muy c\u00e1lida, con un concepto muy acogedor, es muy recomendable para tomar el t\u00e9 de la tarde con una opci\u00f3n alternativa de tortas chinas, el t\u00e9 para tomarse el \"cardamomu\" a probarlo!"
+    }, 
+    {
+      "date": "1 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "vicsho", 
+      "text": "me pareci\u00f3 muy caro"
+    }, 
+    {
+      "date": "8 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elmocoflojo", 
+      "text": "Si bien hicimos reserva y solo una mesa estaba ocupada cuando llegamos debimos llamar 3 x al mozo para que tomara el pedido. Es hora que el servicio en Buenos Aires deje de pensar q trabaja para alguna griffe de ropas \"fashion\" y crea q el comensal quiere pedir, degustar y disfrutar sin tener que llamar sendas veces al mozo...Hay que ganarse la propina...La comida correcta, pero los sabores...hmmm...mucho para aprender sobre cocina fusion (lo digo como cocinera). Precio del porron de cerveza: CARISIMO. Postre a base de tofu y mburucuy\u00e1 muy sabroso, delicada textura. Pagamos 75 x persona.."
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "procedencia", 
+      "text": "lindo lugar, muy tranquilo y con buena atenci\u00f3n. recomendable para tomar el t\u00e9. las tortas son ricas, aunque un poco caras."
+    }, 
+    {
+      "date": "5 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "En mi opinion es el restaurant chino mejor ambientado de todos los que conoci. La comida es muy sabrosa y los platos son bastante originales a diferencia de los clasicos chau mien chau fan y demas que se suelen encontrar en los otros lugares. Si bien te hacen notar en el precio esa diferencia creo que igual vale la pena pagar un poco mas por un poco mas de calidad en todo."
+    }, 
+    {
+      "date": "18 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pau75", 
+      "text": "El lugar es un oasis en Chinatown. Muy bien ambientado, con m\u00fasica suave. Fuimos al mediod\u00eda aprovechando la festividad del a\u00f1o nuevo taiwan\u00e9s. Los platos no son para compartir pero est\u00e1n muy bien presentados y preparados. Vale la pena. Un tip: no perderse subir a la terraza para ver el jard\u00edn oriental. Sin duda volver\u00e9 para probar el lugar como casa de t\u00e9."
+    }, 
+    {
+      "date": "25 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Las tortas son buenas, sin llegar a ser exquisitas. El t\u00e9 es muy bueno y el caf\u00e9 ... cuando llega es aceptable. Precio/calidad? Caro para lo que dan. El servicio me pareci\u00f3 p\u00e9simo y eso que hab\u00eda solo 4 mesas ocupadas. No creo que vaya a cenar despu\u00e9s de eso."
+    }, 
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MarcelaB", 
+      "text": "La comida nos pareci\u00f3 Excelente, probamos 2 entradas y un plato principal para compartir, mas un postre, cenamos muy bien, si bien los platos principales son algo caros, las porciones de los mismos son importantes, para compartir o comer solo un plato principal sin entrada. La ambientaci\u00f3n es muy agradable y la atencion fue genial!... volveremos para probar otros platos."
+    }, 
+    {
+      "date": "28 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sapien", 
+      "text": "Muy buena la comida y muy bien presentada. El lugar tiene una ambientaci\u00f3n con luces tenues y excelente m\u00fasica. De lo mejor del barrio chino."
+    }, 
+    {
+      "date": "31 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "laulijt", 
+      "text": "Me encant\u00f3, disfrut\u00e9 del lugar, que me pareci\u00f3 muy c\u00e1ldio(estuvimos en el sector no fumadores)\u00edntimo,la atenci\u00f3n me pareci\u00f3 excelente.\r\nLa comida tiene muy buen sabor,muchos platos se pueden compartir, muy buena presentaci\u00f3n\r\nVolver\u00eda a ir"
+    }, 
+    {
+      "date": "9 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tiosirius", 
+      "text": "La comida es muy buena, el servicio excelente. Las mesas estan muy juntas, encima me toco un gringo griton al lado. Cuando se vac\u00eda un poco el local es m\u00e1s agradable. Es para ir en pareja."
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Friedrich", 
+      "text": "Hermoso lugar para ir en pareja, buena m\u00fasica y hermosamente iluminado. Cuenta con una sala de exposiciones que al momento de ir expon\u00eda una muestra fotogr\u00e1fica muy bien preparada. La comida me pareci\u00f3 muy buena, no es precisamente china sin\u00f3 mas bien Asi\u00e1tica de Autor, los langostinos BudhaBA me resultaron exquisitos, pero al tempura le faltaba sabor, de ah\u00ed la calificaci\u00f3n de Muy Bueno y no Excelente. Los fines de semana cuenta con espacio para fumadores. La atenci\u00f3n muy correcta, y en lo personal incluir\u00eda alg\u00fan rosado en la carta de vinos. No es econ\u00f3mico."
+    }, 
+    {
+      "date": "6 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "LILILAELASTICA", 
+      "text": "Excelente ambientaci\u00f3n, es un lugar m\u00edstico. Los platos son muy abundantes .La atenci\u00f3n excelente"
+    }, 
+    {
+      "date": "18 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fschlim", 
+      "text": "El lugar muy lindo y silencioso. la atencion es capacitada pero trajo con mucha diferencia de tiempo los platos de cada persona. la comida y la presentacion de la misma muy buena. es para volver."
+    }, 
+    {
+      "date": "19 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "burzum", 
+      "text": "Fuimos un martes a la noche,en principio no habia nadie pero al pasar los minutos se lleno mdianamente para ser un dia de semana teniendo en cuanta de q tiene un acapacidad aproximada de quince mesas,la comida  muy rica y abundante,la atencion fue esmerada,recomiendo para cerrar la cena en lugr de postre un cafe glaciar."
+    }, 
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "MartinFaverio", 
+      "text": "Excelente lugar para ir tranquilos... en el sector fumadores junto al estanque con peces, ambiente muy chill out, m\u00fasica suave y una muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lolalolita", 
+      "text": "El lugar es bueno, pero puede mejorar.\r\nPedimos ir a la parte de sector fumador y habia muchisimo olor: fumo, si, pero no me gusta lo antihigienico."
+    }, 
+    {
+      "date": "10 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "solilu", 
+      "text": "Desde el ingreso, el ambiente envuelve con su calidez.\r\nLa cantidad de mesas hace que el servicio sea prolijo y diligente. El espacio entre mesas brinda intimidad y la presentacion de platos es impecable. Si bien la carta es acotada, los sabores son muy bien logrados. Se sugiere para ir en pareja, muy recomendable."
+    }, 
+    {
+      "date": "24 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Minu", 
+      "text": "La comida y la atenci\u00f3n fueron pasables aunque el espacio es muy limitado. El olor a flores era mucho y no me parec\u00eda buena compania para mi cena."
+    }, 
+    {
+      "date": "5 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cdm", 
+      "text": "En general muy bien todo, ambiente tranquilo, aperitivos recomendables, y abundantes los platos, las entradas se pueden compartir."
+    }, 
+    {
+      "date": "30 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Franco59", 
+      "text": "El lugar es muy lindo con muy buena opci\u00f3n para los no fumadores en el jard\u00edn de oqrquideas. La comida est\u00e1 buena, aunque los sabores sean lejos de Asia. El servicio fue muy atento y nos ofrecieron dos copas de champagne para disculparse de la demora en espera para la mesa que hab\u00edamos reservado. Un lugar para probar y conocer."
+    }, 
+    {
+      "date": "4 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "MariaFer", 
+      "text": "El lugar es muy lindo, especialmente el sal\u00f3n de orqu\u00eddeas que es s\u00f3lo para no-fumadores. Una pena que la comida no acompa\u00f1e, ya que si bien el ambiente es muy \"asi\u00e1tico\" la comida est\u00e1 occidentalizada y lejos de los sabores que uno va a buscar a ese lugar."
+    }, 
+    {
+      "date": "28 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dubbieny", 
+      "text": "El lugar est\u00e1 muy bien puesto, el ambiente es bueno, la comida es relativamente buena. \r\nLa atenci\u00f3n es muy lenta, pocos mozos y tardan mucho con los platos. \r\nPara cambiar y probar algo nuevo, esta bien."
+    }, 
+    {
+      "date": "21 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "diebota", 
+      "text": "La comida: muy buena a buena, algunos platos muy escasos pero en general buena.\r\nEl Servicio: poco profesional y un poco lento.\r\nLa decoraci\u00f3n excelente, muy lindo. Especial para parejas."
+    }, 
+    {
+      "date": "14 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marcela.", 
+      "text": "Muy lindo restaurante en el barrio chino, se esmeran en servir bien y la comida es rica, oriental en el sentido amplio. Marcela."
+    }, 
+    {
+      "date": "7 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "tomeu", 
+      "text": "El lugar tiene un encanto realmente especial. Un chino diferente y bueno. Ver galer\u00eda de arte arriba con excelentes fotograf\u00edas en BN."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PPM1", 
+      "text": "El ambiente es muy superior al del t\u00edpico restaurant \"chino\" de Buenos Aires. Muy bien lograda la iluminaci\u00f3n y la decoraci\u00f3n t\u00edpica, lograda en una casona t\u00edpica de las \u00e9pocas de oror de Belgrano. Mesas separadas, atenci\u00f3n esmerada. Nada ruidoso. La comida es de muy buen nivel, dentro de una carta reducida. Se nota refinamiento y un buen \"mix\" de influencias orientales. Los platos son abundantes, nada \"aceitosos\" (como a menudo sucede en restaurantes chinos), y se nota un especial cuidado en los ingredientes. Recomendable para quienes disfrutan de la comida china y del sudeste asi\u00e1tico."
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "TinRona", 
+      "text": "Muy lindo lugar. Buena decoraci\u00f3n/ambiente en pleno Barrio Chino de Belgrano. Pedimos una entrada de ravioles al vapor que salieron bien (alcanza para compartir entre 2). De principales pedimos un arroz con mariscos que viene envuelto en un omelette, muy rico, y un plato con carne de cerdo, verduras, anan\u00e1 y arroz que tambien vali\u00f3 la pena. Es un restaurant Oriental, no Chino. Tienen platos Japoneses, chinos y tailandeses. Hay poca variedad pero buena. De postre pedimos un t\u00e9 que sali\u00f3 muy bueno y una porcion de torta, que es la especialidad de la casa. Recomendable."
+    }, 
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lcastiglioni", 
+      "text": "Fui a tomar el te. La experiencia fue inolvidable. Prob\u00e9 una variedad de te rojo y jengibre, absolutamente delicioso, s\u00faper perfumado, sencillamente sublime. El acompa\u00f1amiento fue una torta de mandarina y chocolate amargo: excelente combinaci\u00f3n, buenas texturas y contrastes de sabores. El ambiente es muy bonito y la atenci\u00f3n amable."
+    }, 
+    {
+      "date": "8 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Andi86", 
+      "text": "Es el lugar m\u00e1s lindo del barrio Chino. Tiene una hermosa decoraci\u00f3n y varios ambiente muy bien logrados. Las plantas y los adornos son muy bonitos. Los t\u00e9 son la especialidad, recomiendo el t\u00e9 para dos y el chesse cake de lima es una delicia. La atenci\u00f3n muy buena."
+    }, 
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gato0014", 
+      "text": "Esta bueno, el ambiente es el indicado. Precio por persona 125 sin vino  con postre y entrada. Pero lo vale. La comida muy rica! la atenci\u00f3n buena los chicos muy amables. Lo recomiendo para quien quiera comer comida china en un lindo restaurante, lejos del clasico comedero chino."
+    }, 
+    {
+      "date": "30 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "null", 
+      "text": "La verdad que me parece bastante mezquina la puntuaci\u00f3n que tiene el bar! 17 en este momento! ser\u00e1 que los que votaron no cayeron en cuenta que es un bar y no un restaurant. El lugar es muy lindo y los platos riqu\u00edsimos! recomiendo los postres!! buenazosss!! y obvio un buen t\u00e9 rojo con cardamomo!!"
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "julisk", 
+      "text": "Fuimos a almorzar un S\u00e1bado tipo 13.30 pensando que no \u00edbamos a conseguir lugar, pero sorprendentemente est\u00e1ban casi todas las mesas libres. Estuvo todo tan rico que la cr\u00edtica que voy a ser es m\u00e1s una sugerencia para el rest\u00f3: que pongan m\u00fasica china y sal en la mesa. Yo no suelo comer con mucha sal, pero sent\u00ed que le falt\u00f3 un POQUITO a las comidas. Lo dem\u00e1s, realmente b\u00e1rbaro. Recomiendo el postre \"Oscura Pasi\u00f3n\" (torta de chocolate con salsa de maracuy\u00e1. Estaba \u00cdNCREIBLE."
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Fue una sorpresa muy positiva. Acostumbrada a los restaurantes chinos de la zona, este lugar me sorprendi\u00f3 desde su ambientaci\u00f3n, su comida y su atenci\u00f3n. Comimos unas entradas riqu\u00edsimas,  un arroz con mariscos preparado deliciosamente, y una muy rica torta de chocolate y maracuy\u00e1. El ambiente es s\u00faper tranquilo y las recomendaciones del mozo m\u00e1s que acertadas."
+    }, 
+    {
+      "date": "5 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PPM1", 
+      "text": "Excelente lugar. Voy con cierta frecuencia desde hace a\u00f1os. Siempre la misma calidad en la comida, en la atenci\u00f3n y en los detalles de ambientaci\u00f3n. La limpieza es impecable y el \"clima\" logrado muy acogedor. No entiendo, sinceramente, algunos comentarios negativos que le\u00ed sobre la decoraci\u00f3n (el rojo es un color representativo de la cultura china) y sobre la atenci\u00f3n (los platos son elaborados, como corresponde, en el momento...) Yo lo recomiendo sin dudas."
+    }, 
+    {
+      "date": "18 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Hiahia", 
+      "text": "El ambiente muy bueno y relajado, el moso nos atandi\u00f3 muy bien. Buen espacio entre cada mesa.\r\nUn poco caro en relacion a los platos que ofrecen."
+    }, 
+    {
+      "date": "31 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "comelotodo", 
+      "text": "Excelente la ambientaci\u00f3n y el servicio. El t\u00e9 rojo con cardamomo es exquisito, y probamos dos tortas: el cheesecake hecho al vapor, y passion cake (con chocolate y maracuy\u00e1), ambas buen\u00edsimas, recomiendo 100% el cheesecake, es original, sutil y riqu\u00edsimo."
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gbenyakar", 
+      "text": "Una perlita en el barrio de Belgrano.\r\nEn una zona muy poco agradable, este restaurant, al ingresar, hace que sientas que est\u00e1s en un lugar completamente distinto.\r\nEn un ambiente tranquilo, relajado, c\u00e1lido, elegante, ofrece una carta no muy variada pero con excelentes sabores.\r\nUno de mis preferidos!"
+    }, 
+    {
+      "date": "3 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chuchy", 
+      "text": "La comida me parecio excelente y abundante, muy buena mezcla de sabores. El lugar es bellisimo la decoracion impecable. la atenci\u00f3n del mozo muy buena. La carta me parecio un poco acotada, muy poca variedad de platos, pero muy ricos. El precio es un poco abultado, si bien el lugar y la comida es muy buena me parece muy caro."
+    }, 
+    {
+      "date": "6 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Un oasis de buen gusto, armon\u00eda y paz oriental. La ambientaci\u00f3n est\u00e1 a a\u00f1os luz de otros representantes de la gastronom\u00eda del Barrio Chino y las opciones del men\u00fa son a cu\u00e1l m\u00e1s tentadora a la hora de pedir; gracias a la orientaci\u00f3n del mozo me decid\u00ed por una entrada exquisita de ravioles de cerdo y una maravilla de arroz con mariscos (vieyras, calamares y camarones) envuelta en un omelet gigante que estuvo riqu\u00edsima y que no pude terminar. Me encant\u00f3 toda la propuesta!"
+    }, 
+    {
+      "date": "25 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "winston1984", 
+      "text": "Nunca fu\u00ed a cenar, pero como casa de t\u00e9 es increible, me gusta muchisimo este lugar. Muy bien ambientado y la atenci\u00f3n es excelente (v\u00ed como alg\u00fan mozo compa\u00f1aba a una clienta a elegir las tortas para acompa\u00f1ar su t\u00e9... pasa eso en otro lugar?). El t\u00e9 de cardamamomo y el cheese cake de lima (s\u00ed, no es muy oriental, pero lo preparan perfectamente bien) son dos opciones para tener en cuenta. D\u00edas de frio, t\u00e9 rojo con jengibre. Los precios son accesibles y, de ser posible, no vayan en hora pico para poder disfrutar del peque\u00f1o patio delantero sin las molestias de la calle."
+    }, 
+    {
+      "date": "12 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "andresb", 
+      "text": "excelente alternativa para los que gustan de la comida oriental elaborada. platos muy sabrosos y muy bien presentados. el lugar esta muy bien ambientado. la atenci\u00f3n muy buena. aboslutamente recomendable. volveremos!"
+    }, 
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Amadeus", 
+      "text": "La comida muy bien presentada y sabrosa. No es japonesa tradicional, pero el toque de autor no desvirt\u00faa lo esencial. Si bien el lugar est\u00e1 muy bien decorado e iluminado con la luz justa (una media luz ideal para lograr un ambiente relajado), las mesas est\u00e1n demasiado cerca y le resta intimidad a la cena."
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Bueno que decir de este lugar... por un lado se contrapone la impactante imagen del lugar y la delicia de los postres, ya que fui a la hora del te ( Praline de chocolate muy recomendable), con el muy lento y mal servicio, luego de que llegue tardaron 15 min en traerme la carta y 30 min en venir a tomarme el pedido, y no habia gran cantidad de gente q justificara la demora.\r\nPor lo demas... y si uno se arma de paciencia es un excelente lugar para conocer, intimo, de musica muy agradable, con unos postres al nivel del lugar."
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ManJean", 
+      "text": "La ambientacion del lugar no es muy oriental, pero es muy agradable, apto para una cena intima. Para recomendar de entrada, las empanadas chinas acompa\u00f1adas con una salsa de soja con hojitas de menta, son una delicia. De plato principal, los langostinos con leche de coco, tambien un manjar. Tambien pedimos un arroz con camarones, que venia envuelto de huevo revuelto frito. Todos los platos bien abundantes y con sabrosas combinaciones de ingredientes. Y para finalizar, la variedad de te, no muy amplia, pero exoticas, hacen que se haga la digestion con mucho placer."
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ariana07", 
+      "text": "Muy bien ambientado y con musica suave, es ideal para una salida en pareja. La comida es de excelente calidad, riqu\u00edsimo el Pat\u00e9 Imperial (especie de empanada china rellena con pollo) y los langostinos BuddhaBA perfumados en leche de coco(el plato m\u00e1s caro de la carta). Una muy buena opci\u00f3n para comer comida china \"gourmet\"."
+    }, 
+    {
+      "date": "9 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Francin", 
+      "text": "10 puntos. Comida china fusi\u00f3n de autor, una propuesta original y un lugar con toda la onda y unico en este tipo de variante. Para conocer y no te va a defraudar."
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alexcarped", 
+      "text": "la comida exquisita (realmente un concierto de sabores), el servicio excelente (muy atento el mozo sin ser cargoso, siempre pendiente de todo), y el ambiente muy interesante (las mesas y presentaciones muy pensadas). muy recomendable para ir en pareja, especialmente antes de las 9 que no hay mucha gente y el un ambiente intimo. no menos de $100 entre dos (noche). definitivamente voy a regresar."
+    }, 
+    {
+      "date": "14 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pilimaggi", 
+      "text": "El lugar me pareci\u00f3 excelente, igualmente s\u00f3lo fu\u00ed al Sal\u00f3n de Te, todo de primerisima calidad, atenci\u00f3n, productos y ambiente."
+    }, 
+    {
+      "date": "30 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "VeroFede", 
+      "text": "La variedad, originalidad y calidad de los platos es excelente. El ambiente es ideal para una noche rom\u00e1ntica pero se adapta para ir con amigos por las diferentes alternativas. \r\nEl mozo muy atento, nos recomend\u00f3 platos y siempre estuvo presente sin ser pesado.  Super recomendable!"
+    }, 
+    {
+      "date": "18 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nunu2007", 
+      "text": "La comida es riqu\u00edsima. Fuimos varios y pedimos distintos platos para probar. Los langostinos excelentes,las gyozas, todo \u00e9xcelente. La atenci\u00f3n muy buena. Nos ayud\u00f3 el mozo con las sugerencias, acerca del tama\u00f1o de los platos, y el pedido tard\u00f3 poco. El ambiente lind\u00edsimo. Parece que por un rato uno se transporta a Oriente. M\u00e1s que recomendable. Es la segunda vez que voy y no nos defraudaron."
+    }, 
+    {
+      "date": "11 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "aquaman", 
+      "text": "Muy sabrosa comida china moderna. Una increible casa reciclada a museo-restaurante.\r\nEl carre de cerdo con salsa agridulce imperdible al igual que el CAIPISAKE.\r\nArmate de paciencia porque tardan muuucho en hacer los platos. Precios un poco elevados como para ir seguido."
+    }, 
+    {
+      "date": "4 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ale_star", 
+      "text": "calidad absoluta en comida, la atencion del mezo fue impecable,no es caro en cuanto la relacion a precio servicio producto, digno de reincidir."
+    }, 
+    {
+      "date": "9 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gurquiola", 
+      "text": "Est\u00e1 muy bien ambientado. Es muy tranqui, con un toque de m\u00fasica.La comida es excelente. Hay que tener cuidado porque algunos platos son muy abundantes como el oshi. No se pierdan el museo."
+    }, 
+    {
+      "date": "4 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CEER", 
+      "text": "Un lugar distinto, muy bien ambientado. Es para comer excelente comida china."
+    }, 
+    {
+      "date": "5 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nardolepes", 
+      "text": "La comida es muy buena, mai ke kai es un pescado en salsa de maracuy\u00e1 y mangos muy recomendable. El lugar es muy ameno."
+    }, 
+    {
+      "date": "26 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SantiPlo", 
+      "text": "Excelente, hac\u00eda mucho que no disfrutaba de una comida tan rica, en un ambiente muy agradable, prolijo y tranquilo. \r\nMe qued\u00e9 con ganas de conocer m\u00e1s la casona. \r\nParece que la onda es ir los fines de semana."
+    }, 
+    {
+      "date": "18 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "boby", 
+      "text": "Excelente en la preparaci\u00f3n de los platos y su presentaci\u00f3n. Lo malo es la poca rotaci\u00f3n que sirven, de rest\u00f3.\r\nSe recomienda."
+    }, 
+    {
+      "date": "5 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cloper", 
+      "text": "Un lugar distinto. La casona es espectacular, con museo incluido. La comida excelente. Muy recomendable."
+    }, 
+    {
+      "date": "21 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gigiyjavi", 
+      "text": "El ambiente es atractivo y difiere del dominante en Chinatown. Los platos son -cuando menos- interesantes y la carta de t\u00e9s para no ignorar. \r\nLa atenci\u00f2n es de tan \"cool\", un tanto g\u00e9lida. \r\nClaramente orientado a parejas. Con precios m\u00e1s populares, seguramente ir\u00edamos m\u00e1s seguido."
+    }, 
+    {
+      "date": "27 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Dee", 
+      "text": "Es transportarse a un universo ex\u00f3tico, delicioso y desconocido, en medio de Buenos Aires. Cuando salimos por la puerta fue como volver a la realidad. Genial."
+    }, 
+    {
+      "date": "31 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lopitota", 
+      "text": "Un lugar tranquilo con una ambientaci\u00f3n muy bonita. La comida realmente muy buena y bien presentada."
+    }, 
+    {
+      "date": "26 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fabbar1", 
+      "text": "Un lugar m\u00e1gico en Buenos Aires. \r\nDesde el jard\u00edn, pasando por la galer\u00eda de arte hasta la vajilla y la esmerad\u00edsima atenci\u00f3n. \r\nLa comida excelente, y el t\u00e9 con dulcer\u00eda china una maravilla de buen gusto y sabor."
+    }, 
+    {
+      "date": "30 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fdurante", 
+      "text": "Buen ambiente, excelente comida, agradable iluminaci\u00f3n. Intimo."
+    }, 
+    {
+      "date": "27 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "supercho", 
+      "text": "Equilibrio perfecto entre muy buena cocina y ambiente. Buen\u00edsimo el salm\u00f3n Osaka."
+    }, 
+    {
+      "date": "15 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pressjua", 
+      "text": "muy muy lindo"
+    }, 
+    {
+      "date": "10 Nov 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "soccerlu", 
+      "text": "Platos originales, bien presentados.\r\nCalido y cuidado ambiente. Limpio, sin olor a cocina. Buena vibra"
+    }
+  ]
+}

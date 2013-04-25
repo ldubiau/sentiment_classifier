@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "18 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Cupertino", 
+      "text": "Me encantan las medialunas de este lugar, el cafe esta rico ,comes barato y de buena calidad , la atencion y los ojitos  de la moza Mexicana excelente!!"
+    }, 
+    {
+      "date": "1 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "exflaca", 
+      "text": "Riquisimas las tortas de este lugar, para ir a tomar el te con algo dulce y rico."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marina_Rocha", 
+      "text": "Muy bueno el lemon pie. Delicado y muy bien emplatado. Me gust\u00f3 la receta del capuccino. Adem\u00e1s de los sabores, est\u00e1 todo est\u00e9ticamente cuidado"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "1 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "bacco77", 
+      "text": "Malisimo! No vuelvo mas. Carisimo para lo que es el lugar, mala atencion, incomodo por donde se lo vea, cero intimo. Los vinos tienen una tierra increible donde estan, se ve a la vista. La mesa mal limpia. Sentia que estaba comiendo en una pecera y que me estaban mirando desde las habitaciones.No vuelvo y no lo recomiendo. De cuarta"
+    }, 
+    {
+      "date": "7 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Dr_House", 
+      "text": "A favor:hotel boutique, hermoso,ambiente super agradable y tranquilo para una velada rom\u00e1ntica.La carta de vinos es destacable, con etiquetas interesantes, aunque algo elevados de precio. \r\nEn contra:a pesar de que asisitimos con reserva, y que lamentablemente seg\u00fan nos dijeron hab\u00eda faltado la \"\u00fanica\" camarera que tiene el hotel, nos atendi\u00f3 el conserje, ins\u00f3lito!!!, que a pesar de la buena voluntad,y buena onda, no ten\u00eda idea de nada, ni de los vinos, ni de los platos, bah!, ni hacer caf\u00e9. Los platos no est\u00e1n a la altura del lugar y son caros, al final nos trajeron la cuenta sin pedirla."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Julys", 
+      "text": "Excelente lugar nuevo en San Telmo. Cene con amigas y nos gusto mucho a todas, buen servicio, muy rica comida, y una carta de vinos increible. El ambiente te da una paz que te invita a quedarte y seguir disfrutando del lugar."
+    }, 
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Andre67", 
+      "text": "Festejamos el cumplea\u00f1os de mi marido con amigos. La atenci\u00f3n es personalizada. La presentaci\u00f3n y el gusto de los platos es deliciosa. El ambiente es muy c\u00e1lido. Te sentis como en tu casa. Cuidan todos los detalles. Volveremos."
+    }
+  ]
+}

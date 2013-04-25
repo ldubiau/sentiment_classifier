@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "6 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "PatoG", 
+      "text": "Comida regular, con mucho por mejorar y ofrecer comida decente.\r\nRealmente mala la torta de frutillas, vieja y con mal aspecto. No recomiendo pedir postres !\r\nEl servicio correcto. \r\nAmbiente acorde a confiteria masiva. Para no volver."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "OliHele", 
+      "text": "la comida medianamente buena, el mozo un despistado! recalcar el pedido! jamon de mala calidad, los sandwiches son buenos. chequear la cuenta!"
+    }, 
+    {
+      "date": "11 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "lisabelenlescano", 
+      "text": "La comida en general es buena, suelo pedir seguido, pero hace dos d\u00edas tuve una mala experiencia, necesitaba comer algo r\u00e1pido y ped\u00ed una porci\u00f3n de tarta de jam\u00f3n y queso, result\u00f3 ser muy recalentada, seca, vieja y la masa parec\u00eda acartonada. Recomiendo el lugar y su comida, pero no este plato en particular!"
+    }, 
+    {
+      "date": "12 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "arik", 
+      "text": "Buena Pizza, mala atenci\u00f3n, pedimos dos pizzas que tardaron 45 minutos."
+    }, 
+    {
+      "date": "20 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sofialaurac", 
+      "text": "La comida fue toda muy rica y abundante. El lugar es grande, es un ambiente bien familiar, cuenta con sector fumadores y un balcon para comer afuera. Cuenta con televisores para ver partidos de futbol.\r\nEl mozo que nos toco no era muy simpatico pero nos trato bien.\r\nEn caso de que te sobre comida te la envuelven para llevar.\r\nmuy recomendable"
+    }, 
+    {
+      "date": "22 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fukerito", 
+      "text": "La comida estaba muy bien, el ambiente es lindo, lo unico flojo fue el mozo que si bien habia pocas personas estaba desatento y eso que habia varios mozos para la cantidad de gente presente.\r\nPrecios razonables!"
+    }, 
+    {
+      "date": "29 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Es uno de los bares tipicos de Buenos Aires que se fundaron a principios de los 90\\"
+    }, 
+    {
+      "date": "4 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Sebask4", 
+      "text": "El cubierto es muy caro para el tipo de lugar que es, pero la comida es buena y pasa!!"
+    }, 
+    {
+      "date": "25 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "bomvivant2008", 
+      "text": "La comida esta bien, sobre todo cuando se hace muy tarde y quedan pocas opciones para comer algo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "umanita", 
+      "text": "Para un bife con una caf\u00e9 me pareci\u00f3 caro; pero la atenci\u00f3n es excelente y la ocmida muy buena."
+    }, 
+    {
+      "date": "22 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andreadi", 
+      "text": "Comida de primera"
+    }
+  ]
+}

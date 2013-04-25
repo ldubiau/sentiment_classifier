@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "16 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "andanyug", 
+      "text": "de terror , frio , duro las papas vienen con bardall sin palabras"
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "garrote007", 
+      "text": "El lugar esta mal decorado, es sucio, queda a la vuelta de mi casa y fui dos veces, aveces paso a las 7 de la ma\u00f1anan y estan todavia los chorizos de la noche, la atencion es pobre, la comida es abundante pero tenes que comerla con una sierra, pesimo le quise dar otra oprtunidad y me sigue pareciendo horrible, no lo recomiendo a la larga se gasta lo mismo que yendo a una buena parrilla, y no se porque todo siempre llega frio."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Digi_cai", 
+      "text": "Una buena opci\u00f3n para grupos de buen comer, que no busquen un ambiente pretencioso y el mejor servicio. Es una parrilla barata y punto.\r\nLos men\u00faes del mediod\u00eda a $10, son gran opci\u00f3n. Abundantes y ricos. Tiene su encanto, lejos de cualquier tipo de glamour."
+    }, 
+    {
+      "date": "5 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "erotchen", 
+      "text": "esta muy bueno tiene menues variados al mediodia que salen $10 y son abundantes, es un lugar que no le pidas grandes decoraciones pero que vas a comer y barato, eso seguro."
+    }, 
+    {
+      "date": "7 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Veo que somos pocos los que lo hemos visitado y sigo considerando que no vale la pena insistir. Despu\u00e9s de bastante tiempo volv\u00ed y solo encontr\u00e9 m\u00e1s decadencia en el ambiente, atenci\u00f3n muy poco dedicada y comida sin nada para destacar. Reitero, solo apto para grupos de adolescentes con hambre y dispuestos a comer relativamente barato."
+    }, 
+    {
+      "date": "21 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Parrilla sencilla y sin lujos para comer abundante y sin mayores pretensiones. La calidad de las carnes y achuras de la parrillada era buena. Ambiente pobret\u00f3n y con demasiadas mesas en poco lugar. \r\nIdeal para grupos de amigos de buen comer."
+    }
+  ]
+}

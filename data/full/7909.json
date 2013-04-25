@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "netwatch", 
+      "text": "tardaron una hora y cuarto por reloj para traer una milanesa y una suprema, aduciendo que estaban demorados por un cumplea\u00f1os. No lo recomiendo, la comida de cuarta y la cerveza estaba caliente."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fgabrielg", 
+      "text": "La comida es muy rica, nada fuera de lo normal. La atenci\u00f3n es un desastre. Solo dos personas que, o no dan a basto, o nunca miran para las mesas a ver si alguien necesita algo. El ambiente es muy bueno, de lo mejorcito que hay por Mataderos. Pero insisto, el gran problema del lugar es la FALTA DE ATENCION."
+    }
+  ]
+}

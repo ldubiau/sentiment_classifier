@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "7 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "XABIERKUKKA", 
+      "text": "En un ambiente agradable y con mozos/as en formaci\u00f3n, la estancia y el almuerzo se hacen muy agradables. La comida, siempre buena, hay dias que es excelente. Y muy bien de precio."
+    }, 
+    {
+      "date": "7 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Fearror", 
+      "text": "Muy bueno para este precio.\r\nInteressante por el hecho de ser una escuela en el mismo tiempo que un restaurante."
+    }, 
+    {
+      "date": "28 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gallegol", 
+      "text": "La comida es buena, pero hay que ir con tiempo por la espera. Preparan los platos en el momento, y la tenci\u00f3n es un poco lenta.\r\nVale la pena por la comida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lers1988", 
+      "text": "Muy bueno recomendable."
+    }
+  ]
+}

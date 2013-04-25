@@ -1,0 +1,54 @@
+{
+  "buenos": [
+    {
+      "date": "10 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "aniat", 
+      "text": "La pizza es buena. El ambiente es tranquilo; la atenci\u00f3n es cordial, aunque los platos salen a destiempo de la cocina. La lista de vinos y cervezas tiene unos cuantos \"ausentes\"... Y el lugar tiene un serio problema de humedad en paredes y techos. Pero comimos bien y lo pasamos bien. Ah, y no es solamente pizza, hay unos cuantos platos interesantes!"
+    }, 
+    {
+      "date": "1 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "9453", 
+      "text": "Muy buena pizza con ambiente agradable y servicio acorde. De lo mejor de Belgrano. Ademas, te atiende personalmente el gallina Leto"
+    }, 
+    {
+      "date": "10 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "matusalem40", 
+      "text": "La verdad nos atendieron muy rapido y muy bien, el calzone estaba muy sabroso y en su punto justo. Nos fuimos muy conformes del lugar y pronto le haremos otra visita."
+    }, 
+    {
+      "date": "7 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cieloambar", 
+      "text": "La pizza es buena, un poco cara pero pizza al fin, no mas que eso."
+    }, 
+    {
+      "date": "14 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marceloinxs", 
+      "text": "Un cl\u00e1sico para ir con amigos. Recomendable."
+    }
+  ]
+}

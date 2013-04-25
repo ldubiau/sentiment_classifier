@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "12 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "daniel_1945", 
+      "text": "A uno de los platos lo tuvieron que calentar dos veces. La atenci\u00f3n no fue buena. No hubo preocupacion sobre si estabamos satisfechos. Las mesas estaban demasiado cercanas."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "javerius", 
+      "text": "Un lugar caro por el servicio que prestan... si bien la comida no es mala tampoco es de lo mejor."
+    }, 
+    {
+      "date": "5 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sashaveblin", 
+      "text": "Un comedor familiar,de barrio.Concurro en emergencias.Opte los platos del d\u00eda,para no tener que esperar mucho.Son abundantes y correctos. Sabado a la noche,lleno de familias, muchos de ellas con chicos ruidosos, no se ubique en proximidades del pelotero sin le molesta el ruido. En algunas mesas se quejaban por la demora ,no nos ocurrio a nosotros. Me pregunto si iene sentido que cobren $ 4 de cubiertos!Si no va,no se pierde de nada. Si lo hace,puede comer bien,sin sorpresas ni nada destacado. Si pasa y ve la luz encendida, y no tiene nada que hacer, entre, o no, que va!"
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Caleb", 
+      "text": "No es un lugar donde planearia ir a comer, pero esta mas que bien cuando se decide salir en un impulso. Me queda cerca, y voy bastante seguido. Las mesas estan bastante amontonadas, y el espacio con juegos para es bastante chico. La atencion y la comida, correcta. Las porciones son abundantes, sin llegar a ser para compartir. Cumple en todos los aspectos, pero no mas."
+    }, 
+    {
+      "date": "27 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vitu", 
+      "text": "Muy buena comida (calidad y cantidad), tiempo de espera normal - Ya he ido varias veces y en todas me sent\u00ed muy satisfecho - Sugerencia: aprovechar las sugerencias del cheff (precio y calidad)"
+    }, 
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "stanisci", 
+      "text": "Comimos muy bien, la atenci\u00f3n es buena. El menu infantil es abundante. La parrilla es cara. No hay variedad de juegos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Fmaga", 
+      "text": "Chicos este resto ya no esta!, saludos."
+    }, 
+    {
+      "date": "30 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "arbarburro", 
+      "text": "Pocos platos de sugerencia pero muy sabrosos. Excelente atenci\u00f3n."
+    }
+  ]
+}

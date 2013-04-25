@@ -1,0 +1,578 @@
+{
+  "malos": [
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "AdrianM", 
+      "text": "El \u00faltimo s\u00e1bado fuimos con mi novia  cenar, ya que nos hab\u00edan recomendado el lugar. Lamentablemente fue uno de los lugares donde peor comimos. La comida estaba recalentada en microondas, la atenci\u00f3n de la moza fue p\u00e9sima (no nos explic\u00f3 los platos del d\u00eda, mala predisposici\u00f3n, etc) y finalmente nos trajeron la cuenta (sin que la hayamos pedido) para que nos vayamos."
+    }, 
+    {
+      "date": "2 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "pranda", 
+      "text": "Hacia mucho calor adentro y afuera no habia mesas. la atencion un tanto lenta..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Larisa82", 
+      "text": "me fue mas o menos, la comida es barata pero no es wow, cumple.\r\nla ensalada caesar no tiene condimento ceasar, esta condimentada y punto, es rica pero no deber\u00eda llamarse as\u00ed.\r\nEl sandwich de cerdo era rico, y las brunchetas de entrada muy ricas.\r\nel cheesecake feo."
+    }, 
+    {
+      "date": "20 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "trotares", 
+      "text": "La ambientaci\u00f2n es agradable, y el lugar tranquilo sin mucho ruido. La comida es muy rica y abundante por su precio. La atenci\u00f3n no es muy buena, pero la comida lo vale."
+    }, 
+    {
+      "date": "17 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Alteryo", 
+      "text": "Un lugar para probar propuestas y combinaciones que salen de lo com\u00fan. Productos frescos, ricos y bien presentados. Atenci\u00f3n correcta y eficiente. Buenos precios. Volver\u00e9."
+    }, 
+    {
+      "date": "20 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "valmor_e", 
+      "text": "Muy buena opci\u00f3n, para destacar productos frescos. Las porciones normales, en s\u00edntesis un men\u00fa justo.\r\nLa atenci\u00f3n no fue muy esforzada pero al menos r\u00e1pida y clara.\r\nRecomiendo la tarta de at\u00fan con berenjenas y verdes, sabrosa y diferente."
+    }, 
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ponele", 
+      "text": "A mi me gusto mucho ... cuando voy a comer afuera evaluo la propuesta  que sugiere la carta y en este caso me parece excelente !!! la atenci\u00f3n es siempre un tema a discutir en cualquier local .. he comido en lugares de 1era linea y la atenci\u00f3n es aveces mala , En este caso uno puede sentarse a comer en cualquier momento del d\u00eda que la carta sorprende por si sola ... muy buena combinaci\u00f3n de gustos y texturas en casi todos los platos ..."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Carowo3", 
+      "text": "Una opci\u00f3n muy tranquila en la zona, con opciones simples y ricas a un precio moderado. Es verdad que la moza tiene pocas ganas de atender...\r\nFui a merendar, aprovechando las mesitas de afuera. \r\nPodr\u00edan poner opciones de picada!"
+    }, 
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "currutiab", 
+      "text": "la verdad es que es tentadora su estetica relajada. la moza masomenos en su forma de atencion, un poco como que hacia un favor. la comida bien a mas o menos aunque se rescata que haya busqueda de algo original o distinto. lo peor, el precio!, me parecio exagerado para un sandwich de bondiola y una gaseosa... lo recomiendo para probar y conocer, pero no se si para volver."
+    }, 
+    {
+      "date": "13 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marinu", 
+      "text": "Es un lugar perfecto para un domingo al mediod\u00eda, mesitas en la vereda, brisa y sol, una carta corta pero variada y natural, una moza que es encantadora y una ambientaci\u00f3n simp\u00e1tica y moderna. \r\nLos sandiches de salm\u00f3n o bondiola son excelentes, el panini casero es espectacular. La torta grow, con mousse de maracuy\u00e1 una delicia absoluta. Recomendable, desacartonado, natural, muy rico!"
+    }, 
+    {
+      "date": "9 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "esquimal", 
+      "text": "Al fin pude llegar en hora y comprobar los comentarios. Coincido con ellos pero no me resulto tan barato. Lo que ofrecen es original y rico pero rapidito. 2 personas consumimos 2 ensaladas especiales, 1 sandwich y 2 cervezas y gastamos 120 pesos."
+    }, 
+    {
+      "date": "27 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chufa", 
+      "text": "Ya fuimos varias veces, es una buena opci\u00f3n para los domingos cuando te levantas tarde y no tenes ganas de desayunar porque ya es muy tarde y tampoco ganas de almorzar para no darte un atrac\u00f3n. Vamos a volver, lo que si esperamos es que cambien el papel del men\u00fa ya que con el tiempo est\u00e1n muy deteriorados."
+    }, 
+    {
+      "date": "20 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SILSIL", 
+      "text": "Una muy buena elecci\u00f3n a la hora de degustar un rico sandwich gourmet, el de salm\u00f3n con hojas de espinaca, mayonesa de wasabi y brotes estuvo delicioso, prob\u00e9 adem\u00e1s el de jam\u00f3n crudo con bocconcino, r\u00facula tomates secos y aceitunas negras en pan de focaccia que me gust\u00f3 much\u00edsimo tambi\u00e9n. realmente la atenci\u00f3n de la camarera fu\u00e9 muy buena no solo al momento de asesorarnos con los panes que son mejores para cada sandwich sino con mucha amabilidad en general. seguramente volver\u00e9 porque v\u00ed en la carta otras opciones que me gustar\u00eda probar."
+    }, 
+    {
+      "date": "12 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Paturatu", 
+      "text": "Un lugar nuevo en Villa Devoto.. Diferente para probar gustos que en otros restaurant de la zona uno no encuentra. Me gusto hasta ah\u00ed.. La atenci\u00f3n fue buena a regular ya que la moza nos apuraba para tomarnos el pedido, la comida estuvo rica no mucho m\u00e1s. Un poco excesivo el precio por 2 t\u00e9 y un tostado de jam\u00f3n y queso."
+    }, 
+    {
+      "date": "7 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "limarilu", 
+      "text": "megusto mucho, ideal para una ma\u00f1ana de sol... sandwiches super gourmet y deliciosos."
+    }, 
+    {
+      "date": "3 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "macricri", 
+      "text": "se come bien pero no deja de ser un lugar de comidas rapidas... buscaba un restaurante y no fue asi"
+    }, 
+    {
+      "date": "29 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Vyvyen", 
+      "text": "Recomendable para comer sandwiches de d\u00eda, acompa\u00f1ados de una limonada de jengibre. La calidad de los ingredientes es buena. Esta vez nos toc\u00f3 un mozo joven de barba que no prestaba atenci\u00f3n a las mesas por charlar. Por suerte quien parec\u00eda ser el encargado trataba de subsanar sus faltas de atenci\u00f3n."
+    }, 
+    {
+      "date": "24 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Solefa", 
+      "text": "Muy recomendable. La comida es rica, fresca, abundante y en precio.\r\nLa limonada riqu\u00edsima!"
+    }, 
+    {
+      "date": "21 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lau78", 
+      "text": "excelente muy calido y muy bien atendido"
+    }, 
+    {
+      "date": "21 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Calabrone", 
+      "text": "Muy buenas combinaciones en ensaladas y sandwichs, deliciosas y abundantes tortas acompa\u00f1adas con un delicado detalle de arte latte en los caf\u00e9. Envuelto en una c\u00e1lida atenci\u00f3n desde las cocineras hasta los camareros, en una ubicaci\u00f3n inmejorable, en pleno pulm\u00f3n de Devoto."
+    }, 
+    {
+      "date": "8 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cronopyo69", 
+      "text": "es un lugar encantador y con unas comidas esquisitas"
+    }, 
+    {
+      "date": "16 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FlyingLap", 
+      "text": "Me lo recomend\u00f3 un amigo y la verdad que no fall\u00f3!\r\nPara comer sano, liviano y rico no hay con que darle... Exquisitas ensaladas y sandwhichs. Hablando de estos ultimos, no dejen de probar el de asadito argentino. Es Riquisimo!!\r\nEn cuanto a los postres, el crumble de manzana es EPICO! Hace mucho que no como algo tan rico.\r\nLa atencion es buena, si te atiende la moza. Eso cambia si te atiende el chico morocho de barba, que no demuestra interes y es poco servicial.\r\nRecomendable, dense una vuelta y prueben!"
+    }, 
+    {
+      "date": "27 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "concanela", 
+      "text": "Fuimos a traves de las recomendaciones que leimos en guia oleo debo decir que concuerdo con otras personas en que el lugar es sumamente agradable los  puntos malo del lugar es que no poseen aire accondicionado y pocas mesas afuera la atencion del mozo pesima ya que no mostro ningun interes y tacto comercial demoran mucho con lo que uno ordena y no te dan la cuenta en cuanto a los productos que ofrecen son buenos  creo que por la misma plata consigo otros lugares de mejor calidad y atencion"
+    }, 
+    {
+      "date": "28 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fabypao", 
+      "text": "Es una buena opci\u00f3n para comer en forma liviana y accesible, la materia prima de buena calidad, una buena atenci\u00f3n y el lugar es cuidado y prolijo. Es una opci\u00f3n para tener en cuenta."
+    }, 
+    {
+      "date": "25 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gabriella", 
+      "text": "Buenas propuestas en sandwiches y ensaladas. Peque\u00f1o, se ve limpio y prolijo, con elaboraci\u00f3n a la vista del cliente y atenci\u00f3n cordial pero le falta la onda que se espera encontrar en este tipo de lugares. Tiene aspectos a mejorar: algunos de los ingredientes no se encontraban en su punto \u00f3ptimo y con el servicio trajeron un pancito con crema de queso para compartir entre dos comensales. De todas maneras, creo que es una alternativa por considerar en un barrio donde la oferta gastron\u00f3mica es bastante reducida."
+    }, 
+    {
+      "date": "19 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jomalen", 
+      "text": "En uno de los mejores barrios de bs.as devoto, mi barrio, una excelente opcion. superlimpio,con excelentes sandwiches y muy buen precio. el mocachino, una obra de arte. dicen que hay que ver los ba\u00f1os para evaluar la limpieza de un restaurante: es para visitarlos. la atencion, excelente, nos explicaban todo. lo superrecomiendo"
+    }, 
+    {
+      "date": "14 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Si_Barita", 
+      "text": "Excelente el lugar, muy buena onda sus due\u00f1os, que participan en la  atenci\u00f3n del lugar. M\u00e1s que recomendables los muffins de banana con almendras. Un lugar que puede ser una buena opci\u00f3n tambi\u00e9n para desayunar o merendar"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "EllaVerde", 
+      "text": "El mejor deli por lejos. Q bien se come en este lugar. No puedo dejar de ir. Sugiero los platos calientes del dia, ademas de sandwiches y ensaladas.  Goulash, ribbs, pie de cordero, guisos, sopas y risottos. tremendos. Otra cosa hermosa y riquisima es la cafeteria Arte Latte, como en los mejores paises de europa. arte en el cafe. Muy buena atencion, calido y relajado. Super recomendable!!!!"
+    }, 
+    {
+      "date": "19 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "victoriasiempre", 
+      "text": "Me encant\u00f3!!! el servicio es impecable y el ambiente muy agradable.\r\nExcelentes sandwiches aunque tambi\u00e9n sorprenden con los platos del d\u00eda."
+    }, 
+    {
+      "date": "3 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Jean2011", 
+      "text": "Muy relajado , hacia mucho tiempo que no me sentia tan a gusto en un restaurant, la sopa de zuccini y tomillo excelente y el risotto de remolacha maravilloso. Altamente recomendable."
+    }, 
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pable", 
+      "text": "Ya fui varias veces. El sandwich de brie, cebollas y berenjenas es impresionante.  La ensalada de verdes con pollo, semillas y polvo de jamon crudo es increible. \r\nRecomiendo que vayan."
+    }, 
+    {
+      "date": "5 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "J_J_G", 
+      "text": "Excelentes ensaladas, con muy frescos ingredientes y originales y exquisitos aderezos. Y eso que yo no soy muy amante de comer ensaladas pero estas son realmente buenas. Los postres tambi\u00e9n son buenos. La atenci\u00f3n no es mala pero a veces es un poco desesmerada."
+    }, 
+    {
+      "date": "28 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marxs", 
+      "text": "Excelente opcion - Sandiwchs y ensaladas con productos de excelente calidad y combinacion, siempre preguntar por el plato del dia. Limonada con jengibre, sandwich de asadito ahumado y good show !! Recomendable"
+    }, 
+    {
+      "date": "10 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lidia1", 
+      "text": "El ambiente en muy agradable. La comida es de muy buena calidad y los platos de autor son muy ricos y realizados muy a punto. La atenci\u00f3n es excelente."
+    }, 
+    {
+      "date": "9 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "silvip", 
+      "text": "Si quer\u00e9s comer diferente, sano, rico, y tranquilo... este es el lugar. Todo, absolutamente todo, desde el pan, el dip, los platos, las ensaladas, los postres, hasta el t\u00e9 saborizado es riquisimo!! Coincido con que es el lugar que nos faltaba en Devoto. Excelente! S\u00f3lo espero que se mantenga as\u00ed!!"
+    }, 
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sefeca", 
+      "text": "De los resto de comidas rapidas este es el mejor pero muy lejos. Se come gustoso, variado y con una atenci\u00f3n digna de destacar. Fuimos sabado al mediodia tipo 2 de la tarde y no por eso nos pusieron mala cara, todo lo contrario excelente vayan y no seran defraudados.-"
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "2xelmundo", 
+      "text": "Faltaba una opcion como esta en el barrio!! Excelente... toda una novedad! La comida es impecable, siempre con alguna sorpresa en la carta pero los postres son lo mejor! La torta grow es IMPRESIONANTE.. las porciones de los postres son para compartir (o llevarse a casa para una tarde golosa). Necesitamos una sucursal en V. Pueyrredon! Felicitaciones!"
+    }, 
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "victoryviol", 
+      "text": "Cafe con leche en taza grande como antes, muy gustoso, el cafe excelente , los muffin excelentes y los precios mas que razonables, adentro del local los aromas de cosas caseras le dan un clima muy calido y acogedor. Solo faltar\u00eda que el personal diga buena tardes, permiso y muchas gracias. Pero todo no se puede."
+    }, 
+    {
+      "date": "21 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LUCAS2180", 
+      "text": "La verdad que la comida es de excelente calidad, precio calidad 10 puntos.el cafe es para destacar.la atencion muy buena lugar tranquilo y calido.lo recomiendo!"
+    }, 
+    {
+      "date": "21 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mariavc", 
+      "text": "Platos muy ricos, sanos, abundantes y originales. Encontras gente con buena onda y un muy buen clima!!!"
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "paz2008", 
+      "text": "Fui a comer varios mediodias, el lugar esta muy bien ubicado... tambien para unos buenos desayunos (hacen dibujos sobre los cafes y las tazas son enormes). Recomiendo el sandwich de bondiola, batatas caramelizadas, tomates confitados, cebolla de verdeo, rucula y cilantro...la atencion es muy amable..cocina a la vista y el lugar esta muy limpio, 100% recomendable, saludos."
+    }, 
+    {
+      "date": "8 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablod1", 
+      "text": "Van dos o tres veces que voy; tienen una oferta original de platos, con alg\u00fan plato del d\u00eda m\u00e1s complejo y ensaladas y sandwichs originales. Ingredientes frescos, bien combinados y muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "29 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "DanieValentino", 
+      "text": "Fui por los comentarios de la gu\u00eda y fue una sorpresa conocer este lugar, es un poco chico, pero la atenci\u00f3n es buena y el servicio fue r\u00e1pido. Muy bueno el sandwich de vegetales asados con tofu, bien abundante, todo fresco. Me gust\u00f3 el capuccino con el coffe art. Recomendable, a precio y buena ubicaci\u00f3n."
+    }, 
+    {
+      "date": "19 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lailalaila", 
+      "text": "Un lugar lind\u00edsimo en el coraz\u00f3n de Villa Devoto, con excelente atenci\u00f3n, muy buenos precios y exquisiteces, desde los sandwiches hasta los postres. Y especial menci\u00f3n merece la cafeter\u00eda. Hay que conocerlo!!!"
+    }, 
+    {
+      "date": "6 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "namida", 
+      "text": "Fuimos porque nos lo recomendaron, y la verdad, supero nuestras expectativas. Comimos un cake de cerdo y un risotto, que estaban increibles. El lugar muy lindo, la decoracion, la onda, la musica. Todo nos encanto. Nos atendieron muy bien !! Lo seguiremos recomendando. Y volveremos a tomar ese cafe que hacen, que no tiene comparacion!!!!!!!"
+    }, 
+    {
+      "date": "3 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "famanu", 
+      "text": "Muy buena propuesta de deli, muy sabroso y fresco a precio muy razonable. Deberian mejorar el cafe (o el que lo hace)"
+    }, 
+    {
+      "date": "29 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cerduli", 
+      "text": "Soy de devoto y recien ayer descubri este lugar. La comida es excelente, productos super frescos y MUY ricos!!. Lo recomiendo totalmente. A destacar, los due\u00f1os muy atentos, nos invitaron con una porcion de brownie casero. Entra en el top 10 de mis lugares preferidos."
+    }, 
+    {
+      "date": "29 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "crist1955", 
+      "text": "Fui por recomendacion, y supero por lejos mis expectativas ya que los platos degustados eran deliciosos  y se noto calidad en los productos y  excelente elaboracion. Muy recomendable"
+    }, 
+    {
+      "date": "27 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Zoel", 
+      "text": "Muy recomendable, comida deliciosa y ambiente muy agradable. Siempre quiero volver!"
+    }, 
+    {
+      "date": "18 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "el_lider", 
+      "text": "Grata sorpresa nos llevamos en este peque\u00f1o local de Devoto. Sorprende la calidad de los sandwichs en cuanto a los productos que usan, como por ejemplo el pan casero. Y eso no termina ahi sino que tambien los postres son excelentes. Ademas el precio de los platos son muy atractivos, como para ir seguido al mediodia. Le falta agregar muchos mas vinos a la carta."
+    }, 
+    {
+      "date": "9 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "KIKO1982", 
+      "text": "muy recomendable"
+    }, 
+    {
+      "date": "22 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lacoqui", 
+      "text": "los sandwiches son excelentes,la atenci\u00f3n es r\u00e1pida, y muy amable,la ubicaci\u00f3n es espectacular,sobre todo a la noche, la tarde hay muffins riqu\u00edsimos,s\u00faper recomendable"
+    }, 
+    {
+      "date": "21 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "zxjuan", 
+      "text": "Excelente lugar, siempre la atencion es barbara, muy buena onda de la gente y la comida sin palabras !!! increible, amplia variedad y todo lo que probe fue exquisito !"
+    }, 
+    {
+      "date": "21 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cyntimon", 
+      "text": "Excelente super recomendables !!!!\r\natencion y ambiente impecables !!!\r\ncomida gourmet para gente joven ensaladas super y sandwiches exquisitos !!!! \r\ncafe el mejor de la zona !!!! coffee art !!!!\r\ny ahora me han comentado que se viene el frio ....estan preparandoc arta de guisos y sopas !!!! divino !!!! buena onda a full !!!!"
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "brujo", 
+      "text": "Excelente ubicacion, ambiente muy alegre y amistoso, atendido por los due\u00f1os (lo mejor que le puede pasar al un resto).\r\nMuy Buena mercaderia.\r\nMuy artesanal y toda una novedad en la elaboracion de cafeteria."
+    }, 
+    {
+      "date": "15 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "miss_a", 
+      "text": "Excelente las combinaciones de sabores, la calidad de los productos, la presentacion, el lugar, la musica, la atencion personalizada de sus due\u00f1os y la cordialidad de su mesera!\r\nSuper recomandable!"
+    }, 
+    {
+      "date": "24 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "barliz", 
+      "text": "Los panes son frescos y caseros lo cual hace de sus sandwiches un manjar....las ensaladas tan variadas.\r\nLa sencillez del lugar, su higiene a la vista y su colorido invitan a pasar un momento reconfortante.."
+    }
+  ]
+}

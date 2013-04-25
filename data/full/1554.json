@@ -1,0 +1,218 @@
+{
+  "malos": [
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ropuchet", 
+      "text": "Comida sin chiste. El mozo de mal humor. Tal vez no fue un buen d\u00eda. Hab\u00eda mucha gente, por lo que supongo que no elegimos bien la comida ni el horario. Habr\u00e1 que intentarlo de nuevo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SebitaM", 
+      "text": "Es un resto cl\u00e1sico, preferiblemente para ir al mediod\u00eda. Minutas y platos tradicionales abundantes y de calidad. La comida sale r\u00e1pido y nunca me fall\u00f3 -fui varias veces-, es muy recomendable. Precios medios. Lo que s\u00ed, la mayor\u00eda de los comensales es gente mayor."
+    }, 
+    {
+      "date": "24 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Verito2011", 
+      "text": "Demasiado caro para el estilo de restaurante y comida. Las porciones son abundantes pero no nos gust\u00f3 para cenar. Es m\u00e1s el estilo para desayunar o tomar el t\u00e9 de la tarde."
+    }, 
+    {
+      "date": "30 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "iyo", 
+      "text": "fui tres veces, dos al medio d\u00eda y una a la noche. \r\nprob\u00e9 distintas comidas y todas estuvieron muy bien, gusto de tipo casero. Atenci\u00f3n correcta y amable. \r\nRecomiendo para ir con amigos o familia."
+    }, 
+    {
+      "date": "16 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "baffoblu", 
+      "text": "es un lugar cl\u00e1sico para comer platos cl\u00e1sicos.\r\nes dif\u00edcil encontrar a alguien con menos de 50 a\u00f1os pero cada tanto vale la pena. la atenci\u00f3n es impecable y los platos ricos y abundantes."
+    }, 
+    {
+      "date": "12 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Bertus", 
+      "text": "Un clasico / Siempre tiene publico en cualquier horario / Nos encanta ir ya que el lugar tiene magia / es una esquina excelentemente ubicada / La atencion es super profesional y rapidisima !!!/ La comida siempre esta a punto / siempre volvemos"
+    }, 
+    {
+      "date": "9 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "juanacarpi", 
+      "text": "Esquina tradicional de Belgrano.  Voy siempre con mi familia.  La comida es fresca y el precio razonable."
+    }, 
+    {
+      "date": "9 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Es un bar de los clasicos de Belgrano, se come barbaro y abundante, es economico, siempre esta lleno de gente, y el ambiente es muy familiar, la atencion es rapida y muy buena.\r\nPara una tarde linda tarde en Belgrano"
+    }, 
+    {
+      "date": "28 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ELABUELO", 
+      "text": "Lindo lugar, linda gente, buena comida, muy mala atencion, no vuelvo."
+    }, 
+    {
+      "date": "8 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "macris", 
+      "text": "Voy siempre a este lugar. Los mozos son amables, la comida es muy buena para el nivel de precios, que es acomodado.\r\nMe gusta el ambiente tranquilo y la gente que lo frecuenta."
+    }, 
+    {
+      "date": "7 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lidsutd", 
+      "text": "era LA confiter\u00eda tradicional de belgrano. digo, era, porque ahora no tiene nada que ver con lo que era antes. la comida sigue siendo \"buena\" (antes era mucho mejor), pero el servicio empeor\u00f3 bastante."
+    }, 
+    {
+      "date": "18 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gustave", 
+      "text": "La atenci\u00f3n en Zurich es p\u00e9sima. Debe ser la \u00fanica confiter\u00eda de Buenos Aires en la que retiran la silla del cliente cuando \u00e9ste va al ba\u00f1o. No s\u00f3lo no piden disculpas por esto, sino que ante la queja, agreden al cliente (especialmente el se\u00f1or de anteojos de la caja) y no ponen a su disposici\u00f3n el libro de quejas. Una experiencia horrible. No volver\u00e9."
+    }, 
+    {
+      "date": "19 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "DGT", 
+      "text": "Es un cl\u00e1sica esquina de Belgrano, con p\u00fablico mayormente de alta edad (probablemente un tradicional bar, restaurante elegido por los vecinos) pero con una propuesta de comida amplia y de buena calidad. \r\nNo hay platos gourmet pero no hay malas sorpresas."
+    }, 
+    {
+      "date": "2 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gaby33", 
+      "text": "Para caer todo el d\u00eda a tomar caf\u00e9, cenar, almorzar. La edad promedio es de cincuenta y cinco."
+    }, 
+    {
+      "date": "1 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mowi", 
+      "text": "Un cl\u00e1sico de la zona, para ir a toda hora o a cenar si no hay mucha hambre. \r\nBuena cocina, buenos men\u00faes, la atenci\u00f3n de los mozos es excelente (llevan d\u00e9cadas en el lugar). \r\nNo es para catalogar de restaurante pero es de los mejores bares/confiter\u00edas."
+    }, 
+    {
+      "date": "4 Ene 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mikaelbe", 
+      "text": "Muy mala la atenci\u00f3n del personal de mesas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ElLocutor", 
+      "text": "Ideal para una tarde de s\u00e1bado. Cafecito + porci\u00f3n de torta de manzana, a la cual recomiendo agregarle crema chantilly (abundante) o una fresca bocha de helado."
+    }, 
+    {
+      "date": "3 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AndaxPartes", 
+      "text": "El sandwich es fabuloso; la atenci\u00f3n fue b\u00e1rbara; los desayunos tambi\u00e9n son muy ricos y abundantes. Es un cl\u00e1sico de Belgrano, el cual no hay que dejar de conocer y acercarse a disfrutar una merienda o un desayuno."
+    }, 
+    {
+      "date": "29 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pavel", 
+      "text": "Es \"el\" bar de Belgrano para desayunar, tomar el caf\u00e9 o una cerveza tirada por la tarde y comer algo para aplacar el hambre.  Lugar tradicional con mozos de siempre que conocen a los clientes."
+    }, 
+    {
+      "date": "12 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "UmiYummy", 
+      "text": "El sandwich de lomo es riqu\u00edsimo. Siempre que hay hambre, la \"Zurich\" es un lugar seguro, donde te atienden amablemente y te vas con la panza contenta."
+    }, 
+    {
+      "date": "10 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "x_superp", 
+      "text": "Buena atenci\u00f3n, buen clima, entorno acogedor."
+    }
+  ]
+}

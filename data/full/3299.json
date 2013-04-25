@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "22 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nanmohi", 
+      "text": "He ido como tres veces a esta restaurant para degustar men\u00fa ejecutivo y nada de lo que he probado me ha dejado satisfecha. La comida medio fr\u00eda y nada sabrosa. La atenci\u00f3n mala, hay que insistir mucho para que se dignen a atenderte, el servicio muy lento. Cre\u00ed que me hab\u00eda equivocado en la elecci\u00f3n del plato, por eso volv\u00ed pero no me equivoqu\u00e9. Lugar poco recomendable."
+    }, 
+    {
+      "date": "15 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "novillito", 
+      "text": "No me gusto, la atencion mala y la comida mediocre, no vuelvo mas!!!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "calavizz", 
+      "text": "Excelente atencion y servicio, muy buena comida y precios muy adecuados."
+    }, 
+    {
+      "date": "15 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "noelia85", 
+      "text": "Fui para la merienda, el lugar bueno, los sabores exquisitos con muy buena presentaci\u00f3n,la atencion fue rapida y amable. Volvere mas seguido"
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Sophy", 
+      "text": "El ambiente no me gusto mucho, demasiado bordo en paredes, sillas, manteles....para mi gusto. No estaba lleno pero no me imagino lo que sera el ruido....la comida no tienes mucho para elegir pero estaba buena....con mucha hambre debe parecerte exquisita. la atencion no nos podemos quejar,buena"
+    }, 
+    {
+      "date": "23 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gogo54", 
+      "text": "Lugar nuevo con un ambiente agradable, buena atenci\u00f3n y los platos bien presentados y muy buenos, la atenci\u00f3n esmerada, tenerlo en cuenta."
+    }, 
+    {
+      "date": "20 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pa_Dru", 
+      "text": "Buen lugar, atenci\u00f3n cordial, buena comida. Las cartas son cortas, tanto la de vinos como la de comida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pinomaster", 
+      "text": "Muy buena la atencion, mas que agradable! La carta corta, pero de excelente sabor, un lugar muy agradable para ir en pareja. El mozo muy atento, siempre con buenas recomendaciones, hasta nos entrego un descuento del 20% para una proxima cena. Muy recomendable, estoy contento de haber ido ahi,para volver!."
+    }, 
+    {
+      "date": "27 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Belueyhe", 
+      "text": "Excelente atencion!.El mozo, impecable....hacia rato que no me sentia tan bien atendida, con dedicacion y esmero.Los spaghetti di mare, repletos de camarones, exquisitos,el ojo de bife riquisimo, la pechuga de pollo increible.Cabe destacar la tabla de fiambres, y por sobre todas las cosas, la frescura de todos los productos que usan.Sin duda, volvere, y ademas poseen un dto del 20% para Club La Nacion."
+    }, 
+    {
+      "date": "9 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Roxyp", 
+      "text": "Muy buen lugar. La atenci\u00f3n fue r\u00e1pida y buena. Recomiendo la empanada de carne de entrada. Luego hay un interesante men\u00fa tanto de parrilla como de pasta, todo correctamente presentado y las porciones est\u00e1n bien pensadas. Sin duda pienso volver."
+    }
+  ]
+}

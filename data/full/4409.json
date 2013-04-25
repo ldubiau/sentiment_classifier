@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "8 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "mbarbatelli", 
+      "text": "La verdad que es una opci\u00f3n para comer hamburguesa cerca de la facultad. No ir\u00eda especialmente a eso. La comida es muy buena, lo que es bastante pedorro el lugar en si. El aire no enfr\u00eda lo suficiente, las meseras no tienen mucha chispa, pero en fin.... Bueno Y barato no existe."
+    }, 
+    {
+      "date": "12 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ruanda", 
+      "text": "El ambiente interno no es agradable,pero la opcion de comer afuera es tentadora. Los precios de las bebidas son descabellado. El precio de una cerveza de litro (no tirada) fue igual al 50% del costo de la comida."
+    }, 
+    {
+      "date": "17 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "richie26", 
+      "text": "La verdad que yo conosco el de Palermo sobre la avenidad Libertador. Lo que mas me asombra es la mala atencion que tiene. Pedir delivery es encontrarte con la mala disposicion en persona. La comida es buena pero los precios son muy caros. \r\nEn balance, repito sucursal libertador y bustamante es bastante malo. Deberian de poner gente con buena atencion y el lugar cambiaria bastante."
+    }, 
+    {
+      "date": "0 0000", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Erick307", 
+      "text": "-"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "eugebe", 
+      "text": "Yo fui al Perica de Libertador, la hamburguesa estaba barbara, pero la atenci\u00f3n falla, la culpa igual no es de la moza, que pobre se ve\u00eda que no pod\u00eda con todo porque estaba sola para todo el lugar.... viendo como ven\u00eda la mano cuando nos trajo el men\u00fa le hicimos el pedido r\u00e1pidamente y cuando nos quisimos ir fuimos adentro a pagar;)el precio indicado es sin postre..."
+    }
+  ]
+}

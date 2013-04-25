@@ -1,0 +1,648 @@
+{
+  "malos": [
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ellanga", 
+      "text": "Una carta con muy poca variedad de platos: Las porciones son vergonzosas, no acordes a los precios de los mismos.\r\nEs decir, el lugar muy lindo!!, muy caro para lo que es la oferta gastronomica. En mi sector, poca iluminacion y la musica demasiado fuerte."
+    }, 
+    {
+      "date": "13 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Bilbo", 
+      "text": "El lugar tiene onda pero tiene un serio problema de acustica y las mesas un poco juntas. Los mozos bastante inexpertos por mas que tengan buen predisposicion. Relacion precio/calidad mala. Esperemos que mejore, siempre se debe dar una 2 oportunidad"
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Andrada", 
+      "text": "lindo lugar , buena atenci\u00f3n y buena panera pero los platos MUYYYY pesados, muy grasosos. En tres comimos: salm\u00f3n, pato y bondiola. Los tres salimos con la misma sensaci\u00f3n. no desfrutamos la comida"
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "winstonlennon", 
+      "text": "Un fiasco! el ruido ambiente es ensordecedor, no escucho a mi novia enfrente! la comida llego tibia/fria! no vale lo que cobran. Si quieren cena romantica no vayan! si quieren gritar, pasen por este resto!"
+    }, 
+    {
+      "date": "25 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "akropolis", 
+      "text": "Exterior que invita, interior monotono con el tono, madera de origen sublime pero con textura artificial, mesas amontonadas, iluminacion\r\ndesacertada por la altura. Vajilla y cubiertos excelentes. Atencion sin ningun tipo de profesionalismo. Comida : osobuco de ternera, muy basico en cualquier fonda del trastevere se puede aprender. Postre\r\nun Shimmy de supermercado con fondo de dulce de leche es mucho mas logrado que este postre. Carta de vinos y cava interesante."
+    }, 
+    {
+      "date": "17 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "gonmartinez", 
+      "text": "Las mesas demasiado cerca, imposible poder mantener una conversaci\u00f3n por el nivel de ruido ambiente. Atencion regular, precios altos, platos escasos"
+    }, 
+    {
+      "date": "9 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "DoloresTP", 
+      "text": "El lugar me parecio muy lindo. la atencion deja bastante que desear y la comida sinceramente un desastre.Fuimos 4 personas por segunda vez. Es la primera vez que critico un restaurante (conozco casi todos), pero me molesta pagar caro un plato que no lo vale. De postre pedimos uno de tres chocolates (creo que el supermercado hace tartas de chocolate con mas gusto).\r\nLo recomiendo para aquellos que priorizan la est\u00e9tica del lugar y creen que pagar caro un plato es sin\u00f3nimo de comer bien."
+    }, 
+    {
+      "date": "3 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "emmland", 
+      "text": "Mucho ruido pocas nueces. Fui con mi marido a cenar. El comi\u00f3 el POQUISIMO (relaci\u00f3n precio calidad) de osobuco y yo me ped\u00ed la pasta.\r\nEl postre de tres chocolates no CONTRASTA bien, no me gusto la calidad del mismo se noataba mantecosa !!!! La atenci\u00f3n esmerada. Me toco el primer piso NO LO ELIJAN !!!! me puse el saco cada vez que se encend\u00eda (ruidosamente) el aire y me lo sacaba cuando se apagaba no estaba confortable."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Grequito", 
+      "text": "Excelente la comida, excelente la atencion, muy agradable el lugar. Regresaremos, sin dudas."
+    }, 
+    {
+      "date": "26 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Elgatogustavo", 
+      "text": "MUy lindo el patio y los platos correctos El servicio muy bueno y el ambiente intimo y rom\u00e1ntico"
+    }, 
+    {
+      "date": "6 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guillesosa3", 
+      "text": "Porciones peque\u00f1as, el ambiente bueno el servicio lento no nos sirvieron bebidas en toda la noche nos tuvimos que servir el vino nosotros. la comida buena pero poca cantidad y los precios altos x lo que es el lugar."
+    }, 
+    {
+      "date": "5 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lablanco", 
+      "text": "Un almuerzo de domingo, muy lindo ambiente, el servicio impecable, la comida muy buena, no abundante, justa.\r\nCon el descuento de La Naci\u00f2n, mejor a\u00fan: una excelente comida a un precio razonable."
+    }, 
+    {
+      "date": "28 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Biskin", 
+      "text": "Me gusta Sanbenito, la decoraci\u00f3n, la m\u00fasica, mesas alejadas unas de otras, y un patio interior insuperable para \u00e9pocas veraniegas. Muy buena la comida (el pat\u00e9 es exquisito), l\u00e1stima que les falt\u00f3 el confit de pato y no nos lo avisaron cuando llegamos. Buena carta de vinos, pero poco conocida por el sommelier, que no fue de mucha ayuda.  Y est\u00e1 muy bien de precio."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chiquitalinda", 
+      "text": "Impecable, cuidado, sabroso. Nada que objetar. Servicio atento, bien entrenado e informado. Todo parece de calidad. Tal vez demasiado, pero no falta a lo que quiere ser. Volver\u00e9 a probar la carta de la noche y la barra de tragos en alguna cena especial, ya que cada detalle se refleja en los precios, aunque tienen descuento La Naci\u00f3n, que lo deja m\u00e1s accesible."
+    }, 
+    {
+      "date": "18 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lacritica", 
+      "text": "Fuimos 2 veces a cenar. Es carito pero se come muy bien. Los platos no dan para compartir pero son muy ricos y originales. Nos gusta mucho. La \u00faltima vez descubrimos un champan de Clos de los 7 que estaba rebueno y a s\u00f3lo $80 (+-) Pagamos con desc. por la tarjeta de La Naci\u00f3n"
+    }, 
+    {
+      "date": "14 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "vdychter", 
+      "text": "La comida est\u00e1 bien, pero me qued\u00e9 con hambre! \r\nEl servicio es muy bueno y el lugar muy lindo ... eso si los precios son tremendos!!!!"
+    }, 
+    {
+      "date": "10 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "EveG", 
+      "text": "El men\u00fa no me pareci\u00f3 gran cosa. La ambientaci\u00f3n es linda pero el lugar es ruidoso.\r\nMi plato, un risotto, estaba bien pero no fue superlativo.  La entrada de mar fue buena. Destaco el patio y el postre con membrillo y cayote."
+    }, 
+    {
+      "date": "12 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lovelyrita", 
+      "text": "Me pareci\u00f3 un tanto pretencioso. La comida estaba Ok, pero no me pareci\u00f3 deslumbrante salvo por el risotto. El plato del d\u00eda sumamente escaso. El lugar es lindo, pero todo tiene demasiado aire de grandeza para el producto final."
+    }, 
+    {
+      "date": "10 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Joco", 
+      "text": "El ambiente es perfecto para comer en el patio de atr\u00e1s un d\u00eda que haga calor, sea de d\u00eda o de noche. Adentro ofrece un gran sal\u00f3n, ideal para una salida de 2, siendo un lugar no tan expuesto pero tampoco tan intimo ni t\u00edpico. La barra muy completa y moderna.  La carta acotada pero con muy buenas opciones mediterr\u00e1neas y de autor. Pedimos risotto al funghi y luinguini con calamaretis al vino blanco, ambos muy buenos. Lo \u00fanico decepcionante fue la atenci\u00f3n, llamamos para saber hasta que hora estaba abierta la cocina y cuando llegamos nos dijeron que cerraban 1 hora antes de lo informado, adem\u00e1s sent\u00edamos que nos quer\u00edan echar y se olvidaban de traernos panera y bebidas."
+    }, 
+    {
+      "date": "30 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "null", 
+      "text": "Muy buen lugar para disfrutar comida con amigos. Especialmente en el patio. excelente carta de vinos. hay que mejorar la acustica del lugar."
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "macomi", 
+      "text": "estuve almorzando en dia de semana, en el patio, al fresco bajo buenas sombrillas.   la comida muy buena y bien presentada.  la atencion correcta, impecable. no conocia el lugar, me encant\u00f3 y volver\u00e9 para cenar y ver qu\u00e9 tal funciona a esa hora.\r\nla decoraci\u00f3n es bien estilo '40, como la casa donde esta ubicado."
+    }, 
+    {
+      "date": "26 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "monilu", 
+      "text": "primero no ten\u00edan el vino que pedimos, lleg\u00f3 la comida y todav\u00eda no ten\u00edamos el vino, es mas lo tomamos despues de comer no repusieron la panera, los platos muy escasos , algo frios, la camarera desbordada por la cantidad de gente y como excusa dijo que era por una promocion de club la nacion, aparetan ser algo que no so, mucha propaganda de la cava pero no me convenci\u00f3...."
+    }, 
+    {
+      "date": "26 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pichi64", 
+      "text": "el lugar me parecio lindo,pero demasiado ruidoso,al menos el primer piso.la comida rica,aunque ningun sabor muy especial,tanto en entradas como en platos principales.las porciones muy escasas.la bebida llego a destiempo,una copa de vino y un trago tardaron mas que el ceviche y los tres langostinos!!!y finalmente la cuenta desproporcionada con respecto a toda la cena."
+    }, 
+    {
+      "date": "18 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "STAURUS", 
+      "text": "Un lugar que vale la pena, gran dise\u00f1o, decoraci\u00f3n excelente, muy buena barra, muy buena comida y carta de vinos excelente. Hay que ajustar un poco la atenci\u00f3n, sobre todo los tiempos."
+    }, 
+    {
+      "date": "24 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mga", 
+      "text": "Sanbenito deslumbra por su sofisticaci\u00f3n, de movida ya impacta. Buena atenci\u00f3n, buena panera; hermoso patio para las noches de verano y para los fumadores. Innovadora forma de presentar una variada carta de vinos,  muchas opciones de entradas, principales y postres. Ideal para salida en pareja y con amigos.\r\nPuede ser que sea algo ruidoso pero todo lo anterior hace que resulte una experencia muy agradable y a precios razonables."
+    }, 
+    {
+      "date": "24 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Fuerte apuesta de los due\u00f1os de Sucre, que demuestran, saber del tema.  Un clima exclusivo y confortable es acompa\u00f1ado de un servicio destacado para pasar una gran velada.  Buenas opciones para elegir a precios razonables. Ganas de volver."
+    }, 
+    {
+      "date": "20 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "robmanzzo", 
+      "text": "muy lindo lugar!! la comida es normal, con muy lindas presentaciones, buena carta de vinos igual le faltaban un par q pedi, para ajustar"
+    }, 
+    {
+      "date": "8 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "VOLTA", 
+      "text": "Fui entre semana esta muy bien decorado pero tiene una contra terrible (Es suamamente ruidoso, imposible dialogar sin gritar) Una lastima !! La comida bien, los mozos atentos.Precios altos, tiene un patio que merece visitarlo"
+    }, 
+    {
+      "date": "30 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "BlueGlue", 
+      "text": "Nos encant\u00f3 esta nueva propuesta en Belgrano. Perfecta atenci\u00f3n (simp\u00e1tica adem\u00e1s de atenta) y lind\u00edsimo lugar. Lo \u00fanico que le agregar\u00eda es un toque extra de luz, porque aunque est\u00e1 pensado como ambiente \u00edntimo y m\u00e1s bien rom\u00e1ntico, de todos modos vendr\u00eda bien un poco m\u00e1s de iluminaci\u00f3n puntual sobre los platos y el men\u00fa. \r\nDe la comida, el risotto estuvo alucinante y el ojo de bife ten\u00eda el tama\u00f1o y el acompa\u00f1amiento perfecto. Adoramos los pochoclos dulces que ven\u00edan con el caf\u00e9, lindo detalle."
+    }, 
+    {
+      "date": "26 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mpd08", 
+      "text": "La experiencia fue muy buena. Probamos el men\u00fa de 5 pasos y cada uno de ellos me parecieron sabros, la porci\u00f3n de los primeros dos, escasa. La ambientaci\u00f3n es muy buena y la barra excelente. Habr\u00e1 que ir en el verano para disfrutar el patio. Una cosa a mejorar es la atenci\u00f3n, no es tan profesional, pero  s\u00ed atenta. Las mesas redondas son demasiado peque\u00f1as."
+    }, 
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Vik_l", 
+      "text": "El lugar est\u00e1 excelentemente decorado. Fu\u00ed a cenar temprano, la comida normal, riquisimo el volc\u00e1n de chocolate. S\u00f3lo una cr\u00edtica \"constructiva\", el tema de la ac\u00fastica...habr\u00eda que revisarlo, dado que fu\u00ed temprano pude hablar un rato tranquila con mi pareja...pero a partir de las 22 se hizo imposible. El servicio impecable."
+    }, 
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Poldis", 
+      "text": "Fuimos un sabado a la noche con amigos pensando que encontrariamos un ambiente un poco mas movido como en otros restaurantes de los mismos due\u00f1os. El lugar esta bien puesto, con decoracion sobria. Tienen una linda barra y un patio al fondo. El servicio fue muy atento y los platos estuvieron muy bien. El ceviche un poco suave de sabor. El pure de zanahorias que viene con la paleta de cordero es delicioso. El acompa\u00f1amiento del salmon, muy escaso. Es recomendable."
+    }, 
+    {
+      "date": "7 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Muy buen lugar. La ambientaci\u00f3n: 10 puntos. Con onda y estilo. L\u00e1stima que una parte importante de los comensales (los que le toca comer mirando a la pared) se pierden gran parte de este  \"paisaje\"). Comida muy rica. Ped\u00ed Lomo Wellington que estaba delicioso, superior a los dem\u00e1s platos. El postre (triple chocolota) gust\u00f3, pero no fue lo mejor. La carta de entradas es especialmente tentadora. Habr\u00e1 que volver para probar otras. \r\nLa atenci\u00f3n, muy amable, aunque parece un punto aun mejorable."
+    }, 
+    {
+      "date": "7 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "BCGS", 
+      "text": "Una amplia carta que no busca sabores muy novedosos para poder adaptarse a distintos paladares, lo cual consigue con platos interesantes sin ser originales. Juega con productos economicos (codillo de cerdo, osobucco) dandoles un toque distintivo. Buena sopa de almejas (aunque muy 'gourmet' en el tama\u00f1o). Agradable ambiente, con inexistente espacio entre mesas. Para repetir cada tanto."
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "soniawasabi", 
+      "text": "Me pareci\u00f3 un ambiente muy agradable, una decoraci\u00f3n exquisita y una atenci\u00f3n realmente profesional.\r\nLos platos principales muy abundantes, pueden compartirse si uno quiere llegar al postre.\r\nUn restaurante con may\u00fascula!"
+    }, 
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lidsutd", 
+      "text": "La comida es muy buena pero de los 4 platos que ped\u00ed, s\u00f3lo 1 se llev\u00f3 mis aplausos: el risotto funghi. Incre\u00edble. Lejos uno de los mejores que com\u00ed en mi vida. Pero, lo dem\u00e1s estaba para el olvido, porciones chicas, muy sosa, sensaci\u00f3n cero. La atenci\u00f3n no est\u00e1 a la altura del precio que pretenden cobrar, es muy mediocre y a veces pasan 5 personas atendi\u00e9ndote. La ambientaci\u00f3n no es gran cosa, mucho ruido, pocas nueces. En fin, tiene altos en la comida, se nota que es meticulosa y refinada, pero a veces no logra el cometido de satisfacer al cliente en algo m\u00e1s simple."
+    }, 
+    {
+      "date": "17 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "gonmartinez", 
+      "text": "Ruidoso, la acustica es muy mala es imposible conversar. Los platos son increiblemente escasos, los precios altisimos y la atencion regular. Las mesas estan demasiado juntas. Mala experiencia"
+    }, 
+    {
+      "date": "15 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Perika", 
+      "text": "Buena opci\u00f3n para los belgranenses, el ambiente es divino, los cubiertos, manteler\u00eda, INGREDIENTES, presentaci\u00f3n de los platos y deco son de muy buena calidad.\r\nLa atenci\u00f3n podr\u00eda haber sido un poco m\u00e1s cuidada, ya que s\u00f3lo hab\u00eda dos mesas ocupadas, pero estuvo muy bien en general.\r\nNos encantaron los platos. Volveremos, pero a cenar, y para aprovechar el patio."
+    }, 
+    {
+      "date": "15 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "morilladepalermo", 
+      "text": "todo correcto, el lugar es hermoso y muy buena la puesta en escena. impecable. la comida estuvo bien con algunos detalles de no tanta importancia.El servicio debe mejorar."
+    }, 
+    {
+      "date": "6 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "francisco2222", 
+      "text": "Excelente ambientaci\u00f3n (y la m\u00fasica). Muy buena carta donde se nota la elaboraci\u00f3n de los platos, donde se utilizan productos simples pero tratados de manera inteligente. Buenas porciones. Carta de vinos respetable y buena barra. Servicio \"relajado\" pero atento a su vez. Todo se ve impecable y listo para recibir a la cantidad de personas que sea! Otra excelente opci\u00f3n en Belgrano."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "DaisyBsAs", 
+      "text": "Muy buena atenci\u00f3n y comida. Es verdad, podr\u00edan mejorar la ac\u00fastica. Pero esto no le resta m\u00e9rito al lugar. Excelente la idea de presentar la carta de vinos en un IPAD, lo cual le da un toque extra a la atenci\u00f3n. Seguramente volver\u00e9"
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cadete", 
+      "text": "todo entre muy bueno y excelente salvo la ac\u00fastica"
+    }, 
+    {
+      "date": "15 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ppjm", 
+      "text": "Fuimos dos personas el domingo a la noche. No hab\u00eda mucha gente y eso contribu\u00eda para un ambiente muy tranquilo. La comida es muy buena y la atenci\u00f3n tambi\u00e9n. Las mesas para dos est\u00e1s un poco juntas para momentos en que el restaurante est\u00e9 lleno. Es una buena opci\u00f3n a un precio razonable para la calidad de la comida y  las caracter\u00edsticas del lugar."
+    }, 
+    {
+      "date": "23 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MASHIC", 
+      "text": "No me casa, lejos la mejor propuesta gastronomica de Belgrano. El patio da para sobremesas  eternas, y para refugiarse del caos urbano. Tragos originales, carta de vinos amplia. \r\nMartin Arrieta y Maximo Togni, no necesitan presentacion. Y cubren ampliamente   las expectativas de sus seguidores. \r\nLa atencion es excelente, orquestada por la experta mano de Damian Alonso,"
+    }, 
+    {
+      "date": "3 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "MartinPai", 
+      "text": "Fuimos a cena un viernes, 3 parejas en una mesa en el patio. Cuando est\u00e1bamos a mitad de la cena, comenz\u00f3 a sonar una alarma insoportable de la casa de al lado, durante 20 minutos. Luego una voz en un parlante que dec\u00eda: \"hagan silencio, necesitamos descansar\". Cuando preguntamos, el mozo dijo no saber nada, pero en la mesa de al lado comentaron que eso suele suceder a menudo. Seguido, la alarma empieza de nuevo. Nos tuvimos que ir, previo pago y luego de la pat\u00e9tica explicaci\u00f3n del due\u00f1o: tenemos un conflicto con el vecino... no deber\u00edan ofrecer el patio hasta solucionarlo."
+    }, 
+    {
+      "date": "3 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Shitake", 
+      "text": "Fuimos al patio, muy lindo por cierto, sin embargo en un momento empez\u00f3 a sonar una alarma en la casa de al lado le preguntamos a los mozos y nos dijeron que se habia disparado en forma accidental y que se apagaria en pocos minutos sin embargo dur\u00f3 unos quince minutos y luego se escuch\u00f3 por un parlante desde la casa de al lado una grabaci\u00f3n que dec\u00eda dejennos descansar y luego contin\u00fao la alarma . Nunca nos ofrecieron una mesa adentro y nunca nos pidieron disculpas."
+    }, 
+    {
+      "date": "4 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Cuando fui en invierno me quede con ganas de comer en ese patio, as\u00ed que volv\u00ed esta noche: divino!! Mesas amplias, bien separadas, m\u00fasica linda y ambiente muy tranquilo. La comida, riqu\u00edsima (especialmente la entrada de langostinos). Los mozos muy simp\u00e1ticos, aunque algo lentos. Lo malo, error en el pedido (resuelto bastante r\u00e1pido) y falta de uno de los platos pedidos (avisado tarde). fallas no muy graves frente a la buena experiencia que ofrece el lugar."
+    }, 
+    {
+      "date": "2 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "r.gold", 
+      "text": "fantastico.HEADuna muy buena experiencia en todo sentido. el menu es amplio y atractivo sin ser pretencioso. hay mucha atencion a los detalles tanto en el restoran (iluminacion, musica, ba\u00c3\u00b1os) como en el servicio.HEADla carta de vinos en ipad es un lindo touch y la barra es tan resaltable como la comida.HEADen cuanto al precio...no es un restoran barato pero la calidad lo amerita aunque no lo llamaria caro"
+    }, 
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "@guynevo", 
+      "text": "Muy buena ambientacion, un poco ruidoso pero logra transmitir lo que intenta - ambiente sofisticado y selectivo.\r\nLa comida correcta y los precios altos."
+    }, 
+    {
+      "date": "27 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Juancho66", 
+      "text": "Todo impecable desde la atencion la comida (cordero braseado tiernisimo y muy sabroso, ensalada Caesar mas que original y ni hablar del lugar y su decoracion, realmente muy lindo. El patio una maravilla!!! absolutamente recomendable"
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sofiarazi", 
+      "text": "Riquisima la comida y muy buena la panera. El problema esta en la acustica del lugar, casi no se puede hablar y escuchar a tu pareja del ruido. La atencion deberia mejorar. Nuestro mozo desaparecio y ninguno de los otros nos vino a decir que lo suplantaba. Una lastima"
+    }, 
+    {
+      "date": "24 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Quique45", 
+      "text": "Finalmente abre en Buenos Aires un lugar a la altura de cualquier excelente restaurant del mundo! felicitaciones.\r\nDesde la propuesta arquitectonica, a la comida que es realmente sabrosa e impecable,(quien dice correcta debe haber comido en el restaurant que esta cruzando la avenida). Equilibrada carta de vinos (buenas e interesantes etiquetas a precios razonables) \r\nRealmente recomendable!!"
+    }, 
+    {
+      "date": "10 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "quesofundido", 
+      "text": "querido akropolis\r\nSi el shimmy te parece un postre logrado, por supuesto que nos va a apreciar la reposter\u00eda del lugar. No tiene nada que ver con eso. Con respecto al lugar, todo es de alt\u00edsima calidad y ni hablar de la madera de ra\u00edz de los muebles. En definitiva alguien que no puede apreciar ni el lugar  ni la comida y lo describe como vos lo describ\u00eds, denota  mucho que tu comentario es direccionado con cierta mala intenci\u00f3n."
+    }, 
+    {
+      "date": "4 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Quijo", 
+      "text": "quiero contarles que hoy tuve una experiencia maravillosa: fu\u00ec a comer a sanbenito, super recomendable, una mezcla de sabores realmente deliciosa!!, muy bien atendidos por micaela y ciro, atentos a cada necesidad, por eso insisto, si tienen oportunidad vayan, yo s\u00e8 lo que les digo"
+    }, 
+    {
+      "date": "4 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leolef", 
+      "text": "El lugar es impecable! Altamente recomendable!!! \r\n\r\nPr\u00e1cticamente todo en Sanbenito es brillante. Desde la decoraci\u00f3n sofisticada; el servicio atento, profesional y cordial. La comida, excelente con una muy buena presentaci\u00f2n, con variedad de sabores en cada plato, como as\u00ec tambi\u00e8n sus sabrosos postres.  El precio razonable para la calidad de los platos. Vayan y presten atenci\u00f3n a los detalles del sal\u00f2n."
+    }, 
+    {
+      "date": "31 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "micads", 
+      "text": "Fuimos Domingo al mediod\u00eda en familia, el lugar es muy lindo y con clase, la atenci\u00f3n muy correcta y la comida riqu\u00edsima. Super recomendable !! no pudimos tomar vinos ni nada del bar por la veda electoral, la pr\u00f3xima vez ser\u00e1 !"
+    }, 
+    {
+      "date": "25 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PenelopeGlamour", 
+      "text": "Fuimos en pareja a la noche, es genial el valet parking para comenzar la experiencia que encontraran al entrar en esta vieja casona de colegiales, decorada con estilo art decco, que amas u odias. Los platos con incre\u00edble zason, el carpaccio de lomo a diferencia de muchos restaurantes, no estaba congelado!. La merluza con paillard y porotos arm\u00f3nicamente cocida, al igual que el osobuco con pasta. La vinoteca muy buena al igual que los tragos de la barra. El detalle en el caf\u00e9, pochoclos con dulce de leche. Recomendado 100% para los que gustan de los platos d Martin Arrieta y equipo."
+    }, 
+    {
+      "date": "24 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "claritai", 
+      "text": "fui a comer el viernes pasado, una velada nolvidable!\r\ndesde la entrada con esas hermosas ara\u00f1as y salon tan elegante, hasta el patio divinos.\r\nel servicio fue correcto. comimos de entrada pate de foi y los calamaretis, muy bueno el pate y el minibrioche que lo acompa\u00f1a, los calameritis los comio mi marido, deliciosos!\r\ndespues seguimos con el risotto de tomates y el confit de pato, el risotto exquisito, el pato delicioso, impecable su textura aunque un poco corta la guarnicion.\r\nde postre el broche de oro, una torta de manzanas y chocolate con helado de co\u00f1ac y queso y dulce con dulces hechos ahi! sin palabras!\r\ndefinitivamente volveremos."
+    }, 
+    {
+      "date": "14 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kiddoo", 
+      "text": "Fui con la familia un martes a la noche, de entrada comimos ceviche con helado de pepino, muy fresco ideal para abrir el apetito, tambi\u00e9n probamos unos calamaretti con alioli (delicioso) y huevo poch\u00e9 con hongos y trufa (todas las entradas sublimes). Plato principal: cordero con pur\u00e9 de zucchinis, la carne en su punto perfecto y muy sabrosa. De postre tomamos unos tragos sugeridos por el barman, ricos. El vino y la cava espectaculares. \r\nEstar\u00e9 esperando al verano para sentarme en el patio."
+    }, 
+    {
+      "date": "11 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LA GABY", 
+      "text": "Nos encanto  buenisimo el lugar el servicio  y la comida , ademas nos ofrecieron conocer la cocina   y quede impactada con la limpieza y la buena onda de los chef"
+    }, 
+    {
+      "date": "5 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CarolinaCh", 
+      "text": "Fui hace un par de semanas y todavia sigo recordando la torta de maracuya. Impresionante!! Fuimos con mi familia y la pasamos muy bien. Todos nos quedamos contentos con la comida. Yo pedi unos tortellinis. Muy ricos!"
+    }, 
+    {
+      "date": "30 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MaiC", 
+      "text": "Fue para mi cumple con mi pareja. El estilo del lugar es bastante elegante y original. Elegi los langostinos de entrada y repeti este plato para el principal porque era muy rico. De postre, el volcan de chocolate no tiene falla! La atencion fue perfecta y muy simpatica! realmente para recomendar!"
+    }, 
+    {
+      "date": "29 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Dr.AGK", 
+      "text": "Fui  para mi cumplea\u00f1os, el ambiente es muy elegante y distendido a la vez. El servicio es correcto, mejorable, la comida realmente excelente, simple muy bien ejecutada, muy recomendable la sopa de almejas."
+    }, 
+    {
+      "date": "16 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PaulaDeCaro", 
+      "text": "Ya fui dos veces a comer a Sanbenito y en ambas oportunidades la pasamos super. Desde el lugar y la atenci\u00f3n hasta lo m\u00e1s importante: platos exquisitos y una carta donde se puede encontrar algo que nos tiente siempre. Tuve la suerte de conocer su impecable cocina... por lo que puedo asegurar que se trata de un lugar donde est\u00e1n atentos a todos los detalles. Para ir."
+    }
+  ]
+}

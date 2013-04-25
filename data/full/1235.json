@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "30 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MrPorret", 
+      "text": "Un c\u00e1lido ambiente y te atienden como si fueras de la familia. La comida tiene una excelente relaci\u00f3n precio calidad. Para tenerlo como punto de visita."
+    }, 
+    {
+      "date": "3 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alejandr17", 
+      "text": "Ambiente agradable y precios accesibles."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "familiera", 
+      "text": "fui con mi familia y....\u00a1el perro! Nos atendieron espl\u00e9ndidamente. Parece que cambiaron de due\u00f1o y la encargada nueva es un encanto.La vajilla me encant\u00f3, platos cuadrados bien grandes con generosas porciones y bien presentados. Comida muy muy buena y precios muy recomendables.La camarera discreta como a m\u00ed me gusta.Volver\u00e9"
+    }, 
+    {
+      "date": "17 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mbertuol", 
+      "text": "Muy buen lugar, super recomendable por la comida casera, por la atenci\u00f3n de Mary y los precios muy accesibles. \r\nEn el coraz\u00f3n de San Telmo este lugar es imposible no conocerlo."
+    }, 
+    {
+      "date": "13 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tannene", 
+      "text": "Muy buen lugar, c\u00e1lido, pintoresco y aut\u00e9ntico. Al entrar, uno puede sentir la magia de los viejos bodegones porte\u00f1os."
+    }
+  ]
+}

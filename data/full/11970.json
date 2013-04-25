@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "3 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cerminar", 
+      "text": "Exelentes sanwiches y picadas, los vinos muy buenos con precios super razonables. El queso azul es increible. El chees cake muy recomendable. Exelente opcion para probar buenos vinos comer exelentes quesos y fiambres."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anamay", 
+      "text": "Buen\u00edsimo! Por fin est\u00e1 en la Gu\u00eda. Voy habitualmente. Es un boliche chiquito (ahora se va a agrandar), parece un almac\u00e9n de los de antes. Tiene una bodega buen\u00edsima, con muchas etiquetas de bodega boutique y a muy buenos precios. La carta principal tiene sandwiches y picadas. Tambi\u00e9n ofrece algunos platos calientes (tartas y cr\u00eapes). Los panes son de L\u00b4Epi y los quesos de La suerte. SI compr\u00e1s un vino para tomar ah\u00ed te cobran $ 12.- de descorche. Con las bruschettas o las picadas te regalan dos copas de vino. El sandwich de queso azul, chutney de manzana y r\u00facula es buen\u00edsimo ($34.-)"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "11 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "guadalajara", 
+      "text": "Fuimos 3 adultos. Comimos, Lomo al champignon y lomo a la pimienta y milanesa. Los lomos no estuvieron mal, pero eran 3 churrasquitos cortados finitos con la guarnici\u00f3n de papa a la crema. La milanesa era dura y seca\r\nEl ambiente, si bien estaba bien decorado era muy ruidoso a pesar de que no hay muchas mesas y est\u00e1n espaciadas. La puerta de entrada necesitar\u00eda un atenuador para uqe al cerrala no se golpe\u00e9 tan fuerte.\r\nLa atenci\u00f3n de los mozos fue buena.\r\nNo volveremos"
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pao", 
+      "text": "Menu italo argentino clasico y depresivo, sin la menor onda. \r\nRisotto al nero de calamares malisimo: pase, por el  precio, el arroz parboiled pero el cocinero nunca vi\u00f3 un risotto bien hecho en su vida."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fedcar", 
+      "text": "Fuimos tres cerca de las 24 hs, mozos correctos, comida aceptable nada para destacar precio razonable, en la zona no hay muchas alternativas."
+    }, 
+    {
+      "date": "18 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dromedario", 
+      "text": "La atenci\u00f3n de los mozos fue excelente desde el principio hasta el final. La comida nos gust\u00f3 y no hubo que esperarla demasiado- Es muy adecuada la relaci\u00f3n precio/calidad"
+    }, 
+    {
+      "date": "15 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "urita", 
+      "text": "desde el comienzo me abrienron la puerta al llegar y al retirarme cosa que es la primera vez que veo algo asi, la atencion por parte de los mozos fue mas que cordial muy buena onda la pase muy muy bien los felicito!!!"
+    }
+  ]
+}

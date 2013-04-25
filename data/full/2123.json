@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "9 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "el_morsa", 
+      "text": "Lugar bueno para almuerzo de mediodia, hay platos economicos: pastas muy buenas y tartas. Solo 2 mozos para todo el salon, hay que pelearse para que te atiendan. La entra\u00f1a y las milanesas excelentes."
+    }, 
+    {
+      "date": "13 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "acdisi", 
+      "text": "Muy buena opci\u00f3n para el mediod\u00eda. Voy seguido. La cocina es buena y los mozos muy atentos. A veces pueden tardar un poco, pero es el problema del \u00e9xito. Decididamente recomendable"
+    }, 
+    {
+      "date": "30 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MDB", 
+      "text": "Muy buena opci\u00f3n de men\u00fa ejecutivo... muy buenas las pastas y la entra\u00f1a. La ensalada de frutas \"chica\" del men\u00fa es enorme y fresca. Para repetir."
+    }, 
+    {
+      "date": "20 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "solcito15", 
+      "text": "un lugar t\u00edpico de buenos aires, gastronom\u00eda de la tradicional, excelente atenci\u00f3n, muy recomendable"
+    }, 
+    {
+      "date": "3 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "paredes.", 
+      "text": "Muy buena atenci\u00f3n, excelente calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "GastonV", 
+      "text": "La atencion excelente; fuimos a tomar unos fernet y nos servian unas picadas (como atencion de la casa) excelente. \r\nLos precios me sorprendieron, bastante accesibles como para ser un bar porte\u00f1o."
+    }, 
+    {
+      "date": "1 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "el_morsa", 
+      "text": "La comida es espectacular, voy seguido y se come barbaro. Lo unico malo es que hay solo 2 mozos y las mesas muy juntas."
+    }
+  ]
+}

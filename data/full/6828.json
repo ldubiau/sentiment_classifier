@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "25 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "juanbazzi", 
+      "text": "Comida sana y natural. Buena relaci\u00f3n precio calidad. Excelente atenci\u00f3n de los mozos. Lo unico para criticar es que la se\u00f1al de WIFI es muy baja."
+    }, 
+    {
+      "date": "4 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "FlowerBomb", 
+      "text": "Al igual que Plat\u00f3n, una buena opci\u00f3n para el mediod\u00eda con atenci\u00f3n atenta y expeditiva.\r\nHay variedad de platos, las pastas son muy ricas, especialmente los gnochis. Tambien recomiendo el roll de pollo.\r\nUna lugar alegre con la opci\u00f3n comer en una mesa larga alta tipo barra junto con otros desconocidos. Divertido!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "zabala", 
+      "text": "Muy r\u00e1pido, muy sana la comida para la zona, el horario y la velocidad."
+    }
+  ]
+}

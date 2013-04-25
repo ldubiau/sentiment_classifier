@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "16 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elploru", 
+      "text": "Muy buen lugar pasar un rato agradable en el microcentro, buena comida sencilla y con toques muy gourmets, exclente atenci\u00f3n y muy buena decoraci\u00f3n. Hacen delivery, recomendables los sadwiches en pan de pizza. Desayunos poco poblados."
+    }, 
+    {
+      "date": "1 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "xfavio", 
+      "text": "Buena atenci\u00f3n, buen ambiente y buena comida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carinasblanco", 
+      "text": "la comida riquisima y abundante, trato super cordial y buen clima. muy recomendable!"
+    }, 
+    {
+      "date": "7 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Giggi", 
+      "text": "Una excelente opcion para los mediodias en el centro"
+    }, 
+    {
+      "date": "1 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CaroLopez", 
+      "text": "Muy buena opci\u00f2n para el mediod\u00eca, Ricos platos, original la ambientaci\u00f3n, buena relaci\u00f3n precio-calidad. La cocina es a la vista, manejado x sus due\u00f1os, atenci\u00f2n m\u00e1s que personalizada. Todo muy rico, diferentes propuestas y bien presentadas y muy amables! Postres exquisitos y cuentan con servicios adicionales como cheff a domicilio, clases de cocina y alquiler del lugar. Lo recomiendo!"
+    }, 
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Anucha79", 
+      "text": "Se come muy bien al mediod\u00eda. Una muy buena opci\u00f3n para almorzar en el microcentro."
+    }, 
+    {
+      "date": "5 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "patri252001", 
+      "text": "pedi una ensalada cesar y como no tenian me armaron algo parecido en el momento, siempre nos atendieron muy bien y tratan de complacernos, tienen jugos energizantes y todo es muy sabroso"
+    }
+  ]
+}

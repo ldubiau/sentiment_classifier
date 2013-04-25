@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "3 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "hidramix", 
+      "text": "Lastima, bajo la calidad de sus platos.."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "VerushkaC", 
+      "text": "No me deslumbr\u00f3. La tarta de ganache de chocolate estaba muy correcta pero nada deslumbrante. Creo que la mayor falencia del lugar es la decoraci\u00f3n y el servicio que, si bien no son malos, pueden mejorar todav\u00eda. Es un lugar correcto pero no ir\u00eda que alt\u00edsimas expectativas."
+    }, 
+    {
+      "date": "8 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ROSAMEL", 
+      "text": "Fuimos tarde y estaba lleno,  las mozas estaban sobrepasadas y nos atendi\u00f3 el due\u00f1o!! Un franc\u00e9s que habla \u201cargentino\u201d con acento, s\u00faper amable y con pasi\u00f3n por explicar la comida que ofrec\u00eda.  Las opciones de vinos muy interesantes. La torta que com\u00ed de postre: excelente, el caf\u00e9 muy bueno. Muy recomendable. La relaci\u00f3n precio/calidad ampliamente positiva. Ambiente tranqui. Ideal para el almuerzo tarde del domingo."
+    }, 
+    {
+      "date": "21 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Astarte", 
+      "text": "Como no tiene vista al rio se encuentra algo escondido, pero vale la pena visitarlo. Es peque\u00f1ito, con algunas mesas en la calle, pero moderno y acogedor. Claramente su especialidad es la pasteleria, tienen variedad de tortas y a la hora del almuerzo, sandwiches y tartas. La atenci\u00f3n es amable y los precios adecuados. Especialmente recomendable para desayunar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cookcook", 
+      "text": "Me gusto. Fuera del esnobismo de puerto madero, un lugar que ofrece calidad, consistencia y precios razonables. Peque\u00f1o, ideal para sentarse afuera un dia calido. Buen servicio y patisserie francesa original."
+    }, 
+    {
+      "date": "18 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gourmando", 
+      "text": "Excelentes tortas, una simpatiqu\u00edsima vitrina que recuerda pasteler\u00edas francesas."
+    }, 
+    {
+      "date": "1 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pbmartinez", 
+      "text": "El mejor pie de lim\u00f3n que he comido en Buenos Aires! el trato del personal es muy amable y el lugar acogedor."
+    }, 
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Laver", 
+      "text": "Me pareci\u00f3 un bar precioso. Tranquilo, calmo... La reposter\u00eda y la comida salada, excelentes. Atenci\u00f3n s\u00faper amable y precios econ\u00f3micos!"
+    }, 
+    {
+      "date": "31 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diegodominico", 
+      "text": "Fuimos para tomar un caf\u00e9 con torta, nos atendi\u00f3 una chica muy amable, y nos asesor\u00f3 de una manera muy acertada el due\u00f1o, una persona muy atenta y amable.\r\nLa torta recomendada era excelente, al caf\u00e9 le faltaba un poco para que fuera de mi gusto. Muy recomendable, excelente patisserie."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Pablisymeli", 
+      "text": "Comida aceptable para ser un tenedor libre. Ideal para ir con amigos a comer y tomar mucho, la comida y la bebida es libre. Pueden servirse entradas  a elecci\u00f3n y luego te traen parrilla y pastas. A destacar la atenci\u00f3n de los mozos, muy r\u00e1pidos y eficientes, no escatiman en nada y son los que se encargan de servir los principales y la bebida. Precio $175 x persona , comida + bebida libre (vino de la casa, agua, gaseosa y cerveza)."
+    }, 
+    {
+      "date": "25 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tuchito", 
+      "text": "Me sorprendi\u00f3 el lugar, llegamos el domingo temprano y no sab\u00edamos que el sistema era de todo incluido. El men\u00fa salia $95 por persona y no incluye bebida ($130 con bebida). A destacar la calidad de la comida, mesa de bufet sencilla pero muy fresco todo. La atencion muy cordial y estan atentos a los pedidos, un punto a favor ya que en estos lugares en general el servicio es algo descontrolado. El ambiente es lindo, tipo pe\u00f1a, con espacio para los chicos. Los domingos tienen cortes especiales (chivito, cordero, lechon). A volver con amigos."
+    }, 
+    {
+      "date": "14 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "yesicaer", 
+      "text": "Se come muy bien, la atenci\u00f3n es muy buena, pero deber\u00eda existir diferencia de precio entre pasta libre y parrilla libre."
+    }, 
+    {
+      "date": "21 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gamo", 
+      "text": "sepan que los domingos tienen que hacer reservas"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "hugis", 
+      "text": "La atenci\u00f3n muy buena, quiz\u00e1s un poco ruidoso, mesa de entradas muy abundante y variada,desde langostinos hasta jam\u00f3n crudo serrano,cocido natural, matambre; la parrilla todo a punto, el chivito exelente, buena carta de vinos, en resumen un lugar para recomendar"
+    }
+  ]
+}

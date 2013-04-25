@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "20 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "iuska", 
+      "text": "Lugar arabe de barrio! La comida es muy rica, es como una parrillita de barrio pero \u00e1rabe; tranquila sin ninguna pretencion,pero con una comida muy rica y buena relacion precio/calidad. Un lugar donde comer comida arabe a precio. La carta si bien es chica, cambia. Vinos no tienen! De postre pidan: REVANI! RIQUISIMO!!"
+    }, 
+    {
+      "date": "5 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "PedroV", 
+      "text": "Los precios est\u00e1n muy bien para la zona y la calidad de la comida. Hay combos de shawarma con fatay, se puede elegir shawarma de carne o falafel. El shawarma es rico, mucho mejor que el de otros lugares al paso, como los de shoppings o microcentro, que cobran m\u00e1s caro."
+    }, 
+    {
+      "date": "31 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "pokis", 
+      "text": "Demoraron mucho, el lugar no es lindo y los shawarmas no son malos pero los hay mejores."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Licha1", 
+      "text": "Muy buena para comer al paso. Rapido y barato.\r\nLa calidad de la comida es buena y el ambiente muy cuidado. Recomendable"
+    }, 
+    {
+      "date": "30 Ago 0012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "raptown", 
+      "text": "muy rica comida.  es como un fast food \u00e1rabe.  precio /calidad es imbatible"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "23 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vilory", 
+      "text": "Los fiambres son de estupenda calidad y un buen estacionamiento, por ende las picadas son magnificas pero ultra caras. Es preferible degustar un buen s\u00e1ndwich a un precio alto pero m\u00e1s accesible. Las pizzas son incre\u00edbles. En s\u00edntesis, un lugar recomendable para comer al paso cuando se pretende algo de calidad y se tiene un dinero para gastar."
+    }, 
+    {
+      "date": "11 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jomalen", 
+      "text": "Muy rica la picada para dos personas con cerveza artesanal, pero me resulta caro para una picada. Es preferible comer en un restaurant por el mismo precio y comida elaborada. Para ir una vez."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elgrancharlie", 
+      "text": "simplemente diferente como para comprobarlo .combina en su originalidad tradicion quesera y vanguardia comercial para el placer de los amantes del buen comer."
+    }
+  ]
+}

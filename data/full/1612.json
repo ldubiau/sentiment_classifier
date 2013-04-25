@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "12 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "elmanu", 
+      "text": "P\u00e9simo. \r\nComida regular, poca variedad en el \"tapeo\", raciones \u00ednfimas, precio caro. Coincido en que el tema de las tapas es otro, no esto. \r\nDe espa\u00f1ol no tiene nada. S\u00f3lo cuentan con dos CDs que se repiten constantemente, uno de un cantaor, el otro de budha sounds o algo as\u00ed, completamente ajeno al supuesto ambiente. \r\nPocas veces he salido de un restaurante indignado, sinti\u00e9ndome abiertamente estafado."
+    }, 
+    {
+      "date": "7 Mar 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "coty", 
+      "text": "La verdad es de terror: la moza tuvo toda la buena intenci\u00f3n pero la comida fue detestable. No soporto que se hagan los espa\u00f1oles porque yo viv\u00ed en Espa\u00f1a y ese no es el concepto de las tapas. Ac\u00e1 las llaman as\u00ed pero las raciones son m\u00ednimas y encima muy caro. \r\nNo lo recomiendo en absoluto."
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "pauj", 
+      "text": "Nos sirvieron una paella recalentada, que se supon\u00eda que era el plato especial del d\u00eda y cost\u00f3 car\u00edsimo ($ 35 por persona con entrada y psotre pero sin bebidas ni caf\u00e9)."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "ern", 
+      "text": "El tapeo estuvo bien en general, con algunos altibajos. La m\u00fasica insoportable por lo mala y lo fuerte que no permit\u00eda la conversaci\u00f3n, pero la moza, muy amable y servicial, logr\u00f3 que se bajara.  \r\nAmbiente cero. \u00c9ramos los \u00fanicos dos esa noche, pero la compa\u00f1\u00eda fue excelente."
+    }, 
+    {
+      "date": "4 Mar 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Paula", 
+      "text": "Tapas como en Espa\u00f1a. Imperdible el Volc\u00e1n de chocolate. Para repetir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Nov 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ftraverso", 
+      "text": "Excelente la paella y riqu\u00edsimos los postres. \r\nPodr\u00eda mejorarse el servicio y coincido con el comentario de la guarda de vinos, nuestra botella lleg\u00f3 caliente a la mesa. Lo dem\u00e1s, para recomendar."
+    }, 
+    {
+      "date": "3 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Droopy", 
+      "text": "Una propuesta gastron\u00f3mica genuina 100 espa\u00f1ola a precios de Argentina... Deliciosa y acompa\u00f1ada de una presentaci\u00f3n y ambientaci\u00f3n muy cuidada. \u00a1Felicitaciones por la propuesta!"
+    }, 
+    {
+      "date": "24 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pimefuen", 
+      "text": "Por fin com\u00ed una paella bien hecha al estilo espa\u00f1ol. El servicio excelente, muy atento. El lugar, muy c\u00e1lido y agradable."
+    }, 
+    {
+      "date": "19 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Katy", 
+      "text": "Excelente la paella! \r\nRealmente espa\u00f1ola, pegada abajo, con muchos mariscos y pescados.\r\nCuando lleg\u00f3 a la mesa ya se sent\u00eda el olor a paella. El lugar y la atenci\u00f3n muy cordial. \u00a1Lo recomiendo!"
+    }, 
+    {
+      "date": "5 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nada.0", 
+      "text": "Un lugar para recomendar. La ambientaci\u00f3n es perfecta. La comida es original sabrosa y abundante. La atenci\u00f3n muy c\u00e1lida."
+    }, 
+    {
+      "date": "9 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Moro", 
+      "text": "Mal sistema de guarda de vinos. No recomiendo pedir vinos caros. No tentarse con los Rioja que estan expuestos al sol."
+    }
+  ]
+}

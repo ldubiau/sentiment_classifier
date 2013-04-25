@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "8 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "djjava", 
+      "text": "Mal.\r\nLa parrillada para dos di\u00f3 pena, pero por suerte era m\u00e1s bien chica as\u00ed que no me tuve que comer esas falsas mollejas y esa falsa tira de asado que en realidad era falda. \r\nEso si, mucho pollo te ponen (pechuga). \r\nEl ambiente est\u00e1 bien y la atenci\u00f3n tambi\u00e9n, aunque cuando ped\u00ed m\u00e1s chinchul\u00edn y menos ri\u00f1on en la parrillada me dijeron que era imposible."
+    }, 
+    {
+      "date": "17 Abr 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ern", 
+      "text": "Fui un lunes, primera visita a restaurante alguno llegado hac\u00eda pocas horas del exterior. \r\nEstaba cerrado (cuando en la puerta dice abierto diariamente). El martes tambi\u00e9n cerrado. El mi\u00e9rcoles me dijeron de muy mala manera que estaba cerrado (eran las 12.45 y se supone que abre 12.30). \r\nHaciendo notar que era horario me dijeron, de peor manera que todav\u00eda no hab\u00edan encendido la parrilla. Al final la comida no ten\u00eda nada bueno."
+    }, 
+    {
+      "date": "19 Mar 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "CAS", 
+      "text": "La carne es buena, pero las porciones son escasas. Lo m\u00e1s grave es que cocido es quemado y a punto pasado. No vuelvo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fedem", 
+      "text": "Una muy buena alternativa en la zona. \r\nLa atenci\u00f3n muy cuidada. La carne tiende a cocinarse demasiado. \r\nIgualmente muy recomendable."
+    }, 
+    {
+      "date": "2 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Xema2005", 
+      "text": "Este es uno de esos lugares en los que uno sabe que se puede comer bien y sin sorpresas, pero no es \"el\" lugar para una cita especial. \r\nSi se quiere comer \"normal\" y ser bien atendido sin demasiadas pretenciones, este es el lugar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Leof1", 
+      "text": "Un muy buen lugar, sencillo pero con buen gusto, esmerada atenci\u00f3n y servicio. \r\nLa comida est\u00e1 hecha en el momento y a gusto del cliente. \r\nInmejorable relaci\u00f3n precio/calidad/ubicaci\u00f3n."
+    }, 
+    {
+      "date": "22 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tommiavi", 
+      "text": "Excelente lugar para comer parrilla con amigos o en familia. El ambiente es agradable y la atenci\u00f3n atenta y amable. Sin dudas es muy recomendable."
+    }, 
+    {
+      "date": "5 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "grupocol", 
+      "text": "Muy buen lugar."
+    }, 
+    {
+      "date": "4 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cnterpo", 
+      "text": "Muy recomendable."
+    }, 
+    {
+      "date": "5 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablobur", 
+      "text": "La pas\u00e9 muy bien. Ambiente agradable y c\u00e1lido. La comida tanto pastas como parrilla muy buenas. Servicio, excelente!"
+    }, 
+    {
+      "date": "18 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "santiagoss", 
+      "text": "Las porciones son abundantes. El pan es casero, la atenci\u00f3n es excelente y muy personal.  La parrilla es muy buena y el ambiente agradable."
+    }
+  ]
+}

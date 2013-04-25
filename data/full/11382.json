@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "9 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "angierock", 
+      "text": "Muy rica y casera la comida, se nota que lo preparan en el momento. Muy buenos los mojitos y excelente la musica"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "zaira141", 
+      "text": "Buen\u00edsimas las pizzas! Mojitos y caipirinhas inmejorables, buena m\u00fasica, buen ambiente. Para repetir sin duda!!"
+    }, 
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SilDp", 
+      "text": "Para disfrutar de un lugar distendido con muy buena musica. Muy buenos tragos . Es el unico bar de Buenos Aires que sigue preparando mojitos sin excusas. En otros figura en la carta pero nunca tienen. y las pizzas son EXCELENTES."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mendizabal", 
+      "text": "Parrilla que conozco desde 1994 aproximadamente, volv\u00ed despu\u00e9s de un tiempo, y la calidad sigue intacta.Vicente, su due\u00f1o, siempre le di\u00f3 prioridad a una excelente materia prima...muy bueno el bife de chorizo, as\u00ed como tambien el asado, muy buenas las papas fritas, muy buenos los postres...Repito, pas\u00f3 el tiempo, no traicionaron sus principios.\r\nPuede parecer caro, pero en la calidad est\u00e1 la diferencia."
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Changoplatense", 
+      "text": "Pedimos parrillada para 2, muy abundante. Excelente calidad de la carne, el pollo y las achuras. Las papas fritas excelentes. Uno de los mejores lugares para comer asado en La Plata."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ezetripa", 
+      "text": "excelente calidad de la carne, buena atencion, como contra es bastante caro con respecto a otros restaurantes de la zona."
+    }
+  ]
+}

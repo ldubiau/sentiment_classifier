@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "23 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pelae", 
+      "text": "Buena opcion para el mediodia en la zona comercial de Flores, comida suculenta y casera, sin demasiadas pretenciones pero que no defrauda en lo absoluto por precio/calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cecibocchetti", 
+      "text": "La comida es muy buena, se nota que es re fresca, poque ademas cambian la carta, en su totalidad, todos los dias.\r\nLa atencion es muy buena, los chicos que atienden estan pendientes del comenzal y de la limpieza y el orden del lugar.\r\nLos due\u00f1os estan siempre presentes verificando la calidad de todos los servicios que brindan"
+    }, 
+    {
+      "date": "17 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "linda", 
+      "text": "Es un ambiente familiar y atendido por sus due\u00f1os. S\u00f3lo atienden al mediodia ya que est\u00e1n en una zona comercial de gran importancia. \r\nEs un restaurante muy agradable."
+    }, 
+    {
+      "date": "11 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "davy", 
+      "text": "El men\u00fa es variado y la cocina es excelente. Es un lugar normal donde se come muy bien y barato."
+    }, 
+    {
+      "date": "6 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "out", 
+      "text": "El lugar est\u00e1 muy bueno. La comida est\u00e1 b\u00e1rbara y todo es muy casero. \r\nSe nota el empe\u00f1o que le ponen para que todo salga bien. No me quiero olvidar de la atenci\u00f3n de los chicos. La verdad es que son muy cordiales."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "14 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Elenied", 
+      "text": "Ped\u00ec una tabla de ahumados. Lo \u00fanico ahumado era el salm\u00f3n (que estaba super fresco y muy rico) y un queso que ten\u00eda tan mal aspecto que ni lo tocamos. Era una picada convencional con salame, jam\u00f3n, queso, aceitunas... el pan recalentado y duro y las aceitunas verdes duras como piedra. Los precios demasiados elevados para el servicio que ofrecen. La moza no ten\u00eda ni idea de lo que estaba ofreciendo. No vuelvo m\u00e1s!"
+    }, 
+    {
+      "date": "12 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "kkkkkk", 
+      "text": "De terror.. pedi cordero braseado con salsa de hongos silvestres. (carne seca, recalentada de microondas, y los hongos silvestres era meros champignones) La terrina de papa, tibia por fuera, fria por dentro, tipico del microondas.\r\nPedi vino y agua, y me trajeron una sola copa... jaja.. bebia por turnos. la verdad, de octava, no vuelvo mas."
+    }, 
+    {
+      "date": "3 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "aquaman", 
+      "text": "La cena no me gust\u00f3,el goulash con spatzle estaba semidesgongelado del freezer y recalentado en el microondas.La torta de manzana,sin sabor y el servicio lentisimo y desganado.A todo esto para nada barato."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Para ser un restaurante cuya especialidad no son las pizzas, la misma me pareci\u00f3 buena. Era de r\u00facula, olivas y muzzarella. Lleg\u00f3 a tiempo a la mesa y era buena la calidad de los productos y el punto de cocci\u00f3n de la masa (finita). Nos coment\u00f3 la moza que cambiaron el men\u00fa hace poco y sacaron el pollo laqueado que era muy rico, una l\u00e1stima.  \r\nLa atenci\u00f3n buena, el ambiente bueno, pero en las mesas de afuera hay muy mal olor por una obra que est\u00e1n haciendo en la vereda. Deber\u00edan avisar o directamente sacar las mesas de afuera hasta que termine la obra."
+    }, 
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "novillito", 
+      "text": "El lugar esta muy lindo y los productos zafan, pero tienen el problema de los locales con alto costo de mercaderia, ya que freezan muchas cosas por su alto costo y eso luesgo en el plato se nota, el resto bien."
+    }, 
+    {
+      "date": "27 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Xavi2008", 
+      "text": "La verdad que esperaba mas de este lugar. La picada prometia mas de lo que fue. El precio es algo excesivo para lo que ofrecen. A favor la variedad de cervezas y el ambiente tranquilo. Ojala que mejoren."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "biglegemma", 
+      "text": "Los platos de su especialidad, la comida sure\u00f1a, suelen ser excelentes. Traen los mejores productos ahumados y, pensando en lo caro que son, el precio de los platos no es tan elevado. El sandwich de salm\u00f3n ahumado es una delicia, al igual que los fiambres de la tabla Patag\u00f3nica (ciervo ahumado, salame de jabal\u00ed...). Ni hablar del volc\u00e1n de chocolate! Es cierto que no ten\u00edan todo lo que ped\u00edamos (por ejemplo, varias cervezas o el fiambre de trucha), pero es un problema que tienen todos los restaurantes especializados. Ojo: los vinos son los b\u00e1sicos indispensables: bajen la tabla con cerveza!"
+    }
+  ]
+}

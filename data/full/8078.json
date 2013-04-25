@@ -1,0 +1,558 @@
+{
+  "malos": [
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "juanitua", 
+      "text": "La primera vez que fuimos pedimos la degustaci\u00f3n para dos personas, y estuvo bien (aunque un poco desabridos los curries, los pedimos con picante intermedio y no ten\u00edan nada de picante). La segunda experiencia fue muy mala. Se equivocaron en uno de los platos, trajeron uno de menor precio y quer\u00edan cobrar el m\u00e1s caro. Adem\u00e1s, los precios de algunos platos son demasiado caros en funci\u00f3n de lo que ofrecen (por ejemplo, arroz con tres pedacitos de cordero: $70). El ambiente tambi\u00e9n deja bastante que desear. Resumiendo: est\u00e1 bien para probar si est\u00e1s en la zona, pero nada m\u00e1s."
+    }, 
+    {
+      "date": "11 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "AleRuiz", 
+      "text": "Las entradas, eran correctas. Los currys (con yugurt y 12 especies) eran iguales. Pero la porci\u00f3n ($60) tra\u00eda solo seis bocados de cordero. \u00bfNo es poco? Postres: feos. caf\u00e9: intomable. Me pareci\u00f3 caro.\r\nLo PEOR: se negaban a hacer el 30 de descuento de 365 diciendo que correspond\u00eda el 20. Luego de 3 idas y vueltas de la moza con explicaciones rid\u00edculas, le mostramos en el celular el sitio y logramos el descuento. No lo recomiendo."
+    }, 
+    {
+      "date": "19 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Fer78", 
+      "text": "De vegetariano internacional no tiene NADA , es imposible clasificar asi un lugar cuando el plato con vegetales no tienen nada de vegetales. Es indu y punto. Y la cocina nada espectaculareseso si .. caro.\r\nNo vuelvo ."
+    }, 
+    {
+      "date": "14 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "quimos", 
+      "text": "Este restaurante dista de tener buena cocina India. El pan naan (15) es muy rico y hecho en el momento. la entrada de arroz Basmati (15) no es Basmati para nada (el cheff admite que es dificil conseguir buenos ingredientes para la cocina India y la provision no es confiable.) El pollo tika masala (62) le gusto a mi esposa, pero el cordero tandoor (72) no creo fue hecho en un tandoor (el chef dice que a los Argentinos no les gusta la carne seca por afuera y le debe agregar salsa. Vinos de $45 para arriba.  Las chicas que nos atendieron no conocen la comida India."
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Raul_M", 
+      "text": "La comida no es mala, pero las salsas se ven y saben case iguales. La climatizaci\u00f3n es mala (el aire acondiciondo da muy directo). La atenci\u00f3n deja que desear. Mala relaci\u00f3n calidad / precio. No volveremos."
+    }, 
+    {
+      "date": "3 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sept", 
+      "text": "Si bien el lugar y la atenci\u00f3n es buena, la comida deja que desear. Pedimos todos platos diferentes para poder ir probando y resultaron todos tener el mismo sabor y ser visualmente parecidos. Para colmo me hicieron recordar el Estofado de Pollo que hace mi madre para acompa\u00f1ar los tallarines caseros los domingos.\r\nLa sorpresa fue que el pan de ajo y queso que nos acercaron a la mesa cost\u00f3 m\u00e1s de $30...\r\nDesde ya no lo recomiendo y no volveremos..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "nano.c", 
+      "text": "El lugar es acogedor, el servicio de mesa amable y la comida buena. Pedimos una degustaci\u00f3n para dos personas; abundante. Incluye varios platos de entrada, dos a elecci\u00f3n como plato principal, una degustaci\u00f3n de postres y bebida. Volver\u00eda."
+    }, 
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Manucha2", 
+      "text": "Muy rico el men\u00fa, no conociamos la comida India. Platos abundantes. Muy buena la atenci\u00f3n, bien asesorados.\r\nVolver\u00eda!"
+    }, 
+    {
+      "date": "20 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Mauri", 
+      "text": "El servicio es bueno, las mozas son amables, saben explicar bien cada plato, y est\u00e1n atentas generalmente. El lugar es muy chico, poco intimista y algo ruidoso. Los tragos no son recomendables. Los curries son buenos, suaves de picante y algo \u00e1cidos, pueden caer pesados, especialmente los de paneer. La degustaci\u00f3n de postres est\u00e1 muy bien!"
+    }, 
+    {
+      "date": "3 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Goose", 
+      "text": "Muy rica la comida. El lugar es chico y la atenci\u00f3n es buena."
+    }, 
+    {
+      "date": "13 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Los platos son muy ricos y muy variados. Al principio no se entiende mucho la carta pero los mozos te explican todo con bastante dedicacion y paciencia. No hay problema con el picante porque los platos se pueden pedir con opciones que van desde liviano hasta muy picante. El lugar es chiquito pero bien ambientado y bien atendido. Con el descuento de club la nacion nos hicieron el 50% de descuento sin ningun problema."
+    }, 
+    {
+      "date": "13 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Muy bueno como siempre. El rogan josh estaba exquisito, quizas le falto  un poco mas de picante. Probe tambien un curry con langostinos (no me acuerdo el nombre del plato), exquisito."
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "WilliamTAF", 
+      "text": "Una sorpresa c\u00e9ntrica. Comimos muy bien y fui bien atendido, el ambiente es un lugar peque\u00f1o pero est\u00e1 bien para el tipo de comida hind\u00fa ofrecida. Me parece que est\u00e1 un poco baja su calificaci\u00f3n en cuanto al ambiente, no es nada desagradable si bien de afuera no dice gran cosa. Muy ricas las salsas que acompa\u00f1an el pan tipo pita. Quiz\u00e1s cocinan con demasiada poca sal, una ventaja para los hipertensos pero un poco soso para el buen paladar. Estoy de acuerdo con el puntaje asignado a comida. Muy interesantes los tragos ofrecidos para acompa\u00f1ar la comida."
+    }, 
+    {
+      "date": "28 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "agustinyjuan", 
+      "text": "Comimos el curry de 9 vegetales y el biryami de cordero, ambos muy sabrosos y en buenas porciones.  Se puede acompa\u00f1ar con una variedad de panes o arroz blanco, muy recomendable para el curry.  La atenci\u00f3n fue muy buena, muy atentos.  El espacio es chico, as\u00ed que los d\u00edas de mucha concurrencia asegurarse reserva y en los de mucho calor s\u00f3lo hay ventiladores de techo.  Como la comida es picante es recomedable tomar un trago bien fresco como compa\u00f1\u00eda de la comida."
+    }, 
+    {
+      "date": "9 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Sabores muy definidos; curry de vegetales, de pollo, arroz azafranado y pan de queso, todo muy bueno. La atenci\u00f3n es amabil\u00edsima y el ambiente tranquilo. La relaci\u00f3n precio/ calidad es correcta.."
+    }, 
+    {
+      "date": "8 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "gabriella", 
+      "text": "Muy sabroso el vindaloo de cordero con picor a gusto del comensal. Pollo al tandoor correcto y exquisitos los naam, en especial el de manteca. Algunos precios bastante altos, quiz\u00e1s para compensar el importante descuento que realizan por CLN. Bien en atenci\u00f3n y ambiente ruidoso,"
+    }, 
+    {
+      "date": "6 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "julieta555", 
+      "text": "No me gusto, sali algo decepcionada... Si voy al punto, de los 4 platos que pedimos (entre entradas y ppales) ninguno fascino . No tengo nada en contra de las porciones pequenas pero no encontre nada especial aqui.. solo precios altos.  Y el toilette hasta ahi. no vuelvo"
+    }, 
+    {
+      "date": "3 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "deborani", 
+      "text": "Fui al mediod\u00eda y aprovech\u00e9 el men\u00fa que me pareci\u00f3 accesible (50 pesos) y abundante. Fue as\u00ed. Ven\u00eda con entrada, plato principal (curry de cordero, pollo o vegetales), pan nan y salsitas, bebida y postre. La verdad, complet\u00edsimo. La comida, acorde al precio. La entrada era demasiado frita y el postre, nada del otro mundo, pero si ped\u00eds a la carta hay mejores opciones. El curry no era picante, pero creo que los del men\u00fa salen as\u00ed. Y para m\u00ed, mejor. La atenci\u00f3n, correcta! Volver\u00e9 a la noche a probar alg\u00fan otro plato."
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Exquisito. Pedimos 2 platos de cordero y 1 vegetariano. Uno mas rico que el otro. Los sabores muy sutiles y adaptados al paladar argentino. Apenas un poquito de picante despu\u00e9s de tragar cada bocado. \r\nLos due\u00f1os son los mismos de Delhi Darbar. La carta es mucho mas extensa en Mahal por lo que creo que voy a tener que volver muchas veces mas para poder probar todos los platos."
+    }, 
+    {
+      "date": "27 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ale-y-Fabri", 
+      "text": "La comida es sabrosa, muy condimentada. Pedimos el cordero al curry y otro cordero pero a las hierbas. De entrada unos bocaditos de queso que estaban bien. De postre un helado para compartir con frutas secas. Gastamos 60 cada uno con el descuento de CLN del 50% del martes. Evidentemente no es para ir sin el descuento ya q resulta muy costoso por lo q te dan. Es para volver y pedir otros platos para seguir probando esta cultura!"
+    }, 
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marianojaja", 
+      "text": "La carta tiene muchas opciones, que invitan a probar y tentarse. Est\u00e1 evidentemente preparada por gente que sabe aunque hacen ciertas concesiones al paladar argentino que convendr\u00eda evitar (picantes, especias) El punto en contra es una atenci\u00f3n apurada y no muy cuidada pese a provenir de gente correcta. No es barato, pero volver\u00eda por la carta y el toque original de esta gran cocina."
+    }, 
+    {
+      "date": "6 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "2comacinco", 
+      "text": "Despu\u00e9s de tantas experiencias mediocres con el 50% de los martes de CLN (y no me quejo, semejante promoci\u00f3n no es gratis) por fin un lugar que supera las expectativas. Es la segunda vez que voy y ambas fueron muy buenas experiencias. El cordero al tandoor es delicioso. Sabores aut\u00e9nticos, frescos y en porciones razonables. Si est\u00e1s buscando comida India vale incluso sin la promoci\u00f3n."
+    }, 
+    {
+      "date": "6 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mariobros", 
+      "text": "Comida sabrosa, fuerte, muy condimentada (como debe ser) cantidades correctas, precios adecuados tirando a alto (pero hay que considerar que la comida india en argentina todav\u00eda es cara). Atenci\u00f3n amable y r\u00fastica a la vez (el due\u00f1o o encargado no habla muy bien castellano). M\u00fasica india, ambientaci\u00f3n \"t\u00edpica\" en un espacio reducido con mesas muy juntas. Me gust\u00f3 m\u00e1s que Katmand\u00fa y Tandoor, los otros indios por la zona. Volver\u00eda sin el descuento si quiero comer comida india aut\u00e9ntica, bien condimentada. Recomiendo los langostinos al curry y el cordero al tandoor. Ah! Y la limonada con menta!"
+    }, 
+    {
+      "date": "16 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lotus", 
+      "text": "Fui dos veces y fue como ir a dos restaurantes diferentes en cuanto a la comida. La primera vez qued\u00e9 extasiada por los platos cordero, pollo, el arroz, el pan, los postres. La segunda vez, ped\u00ed lo mismo pero la impresi\u00f3n es que cambiaron el cocinero. En verano no se los recomiendo porque no hay aire acondicionado. Rescato que los ingredientes y la forma en que se sirve la comida son tradicionalmente indios sin adaptaciones a Argentina. Voy a seguir intentando."
+    }, 
+    {
+      "date": "17 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gatoverde", 
+      "text": "La comida es muy rica, si bien la porciones no son generosas. L\u00e0stima el servicio. Pese a que \u00e8ramos los \u00f9nicos comensales y hab\u00eca personal de sobra, el servicio era lento e inoperante. Nunca supimos c\u00f2mo computan los panes naan, porque nos trajeron uno de entrada con los dips, pedimos uno de ajo para el plato principal que nuncan nos trajeron y cuando lo volvimos a pedir y finalmente lleg\u00f2 ya est\u00e0bamos terminando. Sorpresa, cuando llega la cuenta nos quieren cobrar dos porciones de pan (!?) Una pena, porque los restaurantes indios no abundan, y el chef es realmente muy bueno."
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Humdrum", 
+      "text": "La comida buena,la atencion adecuada, aunque un poco lenta para mi gusto.Muy buena predisposicion para con todos nuestros requerimientos. El ambiente tranquilo y agradable. Muy ricos los onion rings, el curry de vegetales y los postres."
+    }, 
+    {
+      "date": "5 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Jack_Aubrey", 
+      "text": "Opci\u00f3n interesante en la zona. He ido con amigos de India y dan fe de lo aut\u00e9ntico de la cocina. El servico es cuidado sin ser molesto. Tanto Delhi Mahal como Delhi Darbar -mismos due\u00f1os- son restaurants s\u00f3lidos en lo que hacen. Recomendables los guisos de cordero y el fish makhani -pez \u00e1ngel en curry suave de manteca-. La carta es variada y cubre los distintos estilos de cocina regional de la India. Los postres t\u00edpicos esconden agradables sorpresas. Es como comer en alguno de los bolichitos del East End de Londres, sin pretensiones pero todo muy sabroso. Recomendado."
+    }, 
+    {
+      "date": "8 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "maceracion", 
+      "text": "Muy recomendable para quienes gusten de la comida de la India. La mezcla de especias en los platos es \u00fanica. El pan delicioso, tambi\u00e9n las salsas para acompa\u00f1ar. Buena relaci\u00f3n precio-calidad. Los camareros no son de esos cargosos que se encuentran en otros lugares. No, todo lo contrario. Aqu\u00ed, cumplen con el servicio necesario sin efusividades.\r\nTienen un men\u00fa econ\u00f3mico en d\u00edas de semana."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Goose", 
+      "text": "Muy rica y gustosa la comida, con mucha variedad de platos para elegir. El lugar es chico y calido. Como todos los restaurantes indios, me parece mal que cobren el arroz y el pan aparte."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bhai", 
+      "text": "muy rica comida como siempre. ademas super lindo.\r\nlos moza son muy amble recomendable."
+    }, 
+    {
+      "date": "11 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ateneax", 
+      "text": "Fuimos con amigas el martes a la noche, d\u00eda que hay 50% de descuento con Club La Naci\u00f3n! (Hay que ir temprano, porque el lugar es chico y se llena). La carta es amplia y muy variada! Pedimos unos tragos hind\u00faes muy buenos, un mix de entradas y curry m\u00e1s arroz para compartir, ya que las porciones son generosas... Muy buena atenci\u00f3n! Las camareras explican la composici\u00f3n de los platos del men\u00fa y hacen buenas recomendaciones."
+    }, 
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "maurosalmo", 
+      "text": "Recomindo la experiencia. La cambinaci\u00f3n de sabores es algo a destacar, todos en su medida consiguien gustos muy valiosos para el paladar porte\u00f1o.\r\nNo tenian algunas platos del men\u00fa, algo que particularmetne me genera molestias, pero en general estuvo muy bien."
+    }, 
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ladypato", 
+      "text": "Excelente lugar. La comida es deliciosa, bien  preparada y abundante y la atencion es barbara. El lugar es acogedor. Respetan siempre los beneficios de los diarios con tarjeta o efectivo Lo recomiendo !!"
+    }, 
+    {
+      "date": "12 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andrumetal84", 
+      "text": "lindo restorante . con su ricos plato. desgustacion para dos persona\r\nes excellente . para probar todo , entrada, plato principal, y postre\r\ntodo super rico."
+    }, 
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "garola", 
+      "text": "Excelente atencion, la comida es abundante y muy sabrosa. Totalmente recomendable!"
+    }, 
+    {
+      "date": "7 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lau2507", 
+      "text": "La comida espectacular! Da para repetir, verdadera comida de la India."
+    }, 
+    {
+      "date": "2 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bhai", 
+      "text": "muy rica comida .con descuento de club la nacion . buen servicios \r\nlindo ambiente recomiendo."
+    }, 
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "cami_pardo", 
+      "text": "El personal es muy atento y simp\u00e1tico. Se nota la voluntad de brindar una excelente atenci\u00f3n.\r\nLa comida es muy rica y abundante.\r\nExcelente para los d\u00edas de fr\u00edo.\r\n\r\nParte mala: no es demasiado arreglado en cuanto ambientaci\u00f3n, pero s\u00ed muy prolijo."
+    }, 
+    {
+      "date": "27 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vaqhjau", 
+      "text": "muy muy rica comida . recomendable un 9"
+    }, 
+    {
+      "date": "21 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LordMelkor", 
+      "text": "Volvi a ir, y pienso seguir haciendolo, si bien el lugar es chico tanto la comida como la atenci\u00f3n se destacan, fui con un grupo de amigos que no acostumbran comer este tipo de comidas y quedaron todos encantados con los sabores con los que se encontraron. Algo pendiente todavia es el postre, siempre quede lleno y no pedi."
+    }, 
+    {
+      "date": "20 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lindacarmenza", 
+      "text": "un restaurante muy lindo y ideal para cenar .  curry de pollo con salsa \r\nroja  muy  rica panes indio y basmati muy recomendable"
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bhai", 
+      "text": "fue mucha vez comida sempre muy buena . lugar hermoso. muy recomendable."
+    }, 
+    {
+      "date": "12 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "julieta.r.b", 
+      "text": "Fuimos con el desc de club la naci\u00f2n, comimos muy bien, muy recomendable, en el lugar atendian mozos ind\u00f9es, muy educados! los tragos riquisimos...."
+    }, 
+    {
+      "date": "8 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Shogun", 
+      "text": "Realmente un placer, la atencion fue superlativa desde el primer momento hasta el ultimo. La comida excelente aunque para alguien de buen comer como yo quiza los platos eran un poco peque\u00f1os lo que es facilmente compensable con una porcion de arroz para acompa\u00f1ar. El ambiente muy acogedor, peque\u00f1o e intimo. El dia que fuimos solo habian 2 mesas mas ocupadas, lo que nos extra\u00f1o a mi novia y a mi por la calidad de la comida y la atencion. La musica, bastante reiterativa pero 100% recomendable, para ir y volver a ir."
+    }, 
+    {
+      "date": "25 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Lalalita", 
+      "text": "Muy buen lugar! Vivo cerquita asi que cada dos por tres me hago una escapada con mi novio o pido que la traigan a casa... En ambas ocasiones el servicio y la atenci\u00f3n fue mas que buena, la comida es ES-PEC-TA-CU-LAR! La carta de vinos no es muy amplia, pero lo saben compensar. El precio es el justo, todo es fresco e impecable. Un 10!"
+    }, 
+    {
+      "date": "2 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lili786", 
+      "text": "Lindo lugar, la verdad que no me canso de ir a probar nuevos platos, tienen mucho sabor."
+    }, 
+    {
+      "date": "13 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sandri1ar", 
+      "text": "Nos encanto!!! fuimos con mi hijo y mi marido y utilizamos la paromoci\u00f3n de Club La Nacio\u00f3n.  La comida y la atenci\u00f3n EXCELENTE!!!"
+    }, 
+    {
+      "date": "13 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "basha_87", 
+      "text": "Fui con el descuento de club la nacion 50%. antes que nada la atencion es muyy amable, sorprende! el lugar es chico, hay que ir con tiempo para encontrar lugar. los platos no son caros, son porciones chicas pero llenan muchisimo!! volveria a ir sin duda!!! pd: prueben de postre las bolitas de leche, son riquisimasssss!!!!"
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "LordMelkor", 
+      "text": "Un lugar peque\u00f1o pero bien ambientado en la capital de buenos aires, atendido por gente de india. La atenci\u00f3n es muy buena, la carta es interminable, hay que ir muchas veces para probar todo pero vale la pena, los platos son esquisitos y est\u00e1n bien adaptados al paladar porte\u00f1o, con un picante sobre el final del bocado (se puede pedir m\u00e1s picante y es genial si se est\u00e1 acostumbrado a ese tipo de sabores), recomiendo el garlic naan para acompa\u00f1ar la comida, el vindaloo es un plato fuerte pero muy sabroso. Reserven si van un martes porque tienen 50% de descuento con la nacion."
+    }, 
+    {
+      "date": "27 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luckystar", 
+      "text": "Excelente comida hind\u00fa! fuimos un martes por la noche con amigos y el lugar estaba lleno, supongo por la promoci\u00f3n con Club La Nacion.  Muy rico todo, pedimos unos chicken pakora de entrada, Garlic nan y de plato principal pedimos un Murg tikka (pollo marinado en yogur, ajo y gengibre al tandoor) y Murg Biryani (arroz con pollo especiado) todo delicioso! Excente atencion y ambientaci\u00f3n.  El due\u00f1o muy atento.   Y a la hora de pagar nos hicieron el 50% de descuento con CLN sin problemas, ademas no es para nada caro.  MUY RECOMENDABLE!!!!!!!!!!!!!!"
+    }, 
+    {
+      "date": "6 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "paladarblanco", 
+      "text": "Si bien el lugar es chico y esto hace que las mesas esten muy juntas la atencion es muy buena , fuimos 4 aprovechando el descuento de cln y tuvimos que esperar mesa  pero en seguida nos ofrecieron una copa de vino.\r\nla comida es muy buena no es execivamente picante lo cual permite descubrir los muchos sabores que tiene cada plato,hay una gran variedad ,algunos distintos a otros restaurantes indios a los  que he ido\r\naltamente recomendable"
+    }, 
+    {
+      "date": "9 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ramiro86", 
+      "text": "La atenci\u00f3n fu\u00e9 muy agradable, la mesera simp\u00e1tica y la comida deliciosa. El curry de langostino.... mmmm!!"
+    }, 
+    {
+      "date": "12 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "celular", 
+      "text": "fui el dia jueves con mi novia. si bien no conociamos el lugar, como era mediodia, los dos pedimos del menu (2 opciones).\r\nla eleccion a la carta me parece adecuada para ir de noche. pedimos cordero con arroz. excelente. el arroz me encant\u00f3 y la salsa ni hablar. mi novia quedo maravillada con el pan que sirven, todo una delicia. ni qu\u00e9 hablar de las salsas que proveen para untar con los panes. muy rico y -para ser un almuerzo de comida india- barato. el postre muy rico.\r\ndato: ninguno de los ingredientes cae mal. ni uno."
+    }, 
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AmiraGoo", 
+      "text": "Pedimos cuatro platos (corderos y pollos) con arroz al azafr\u00e1n para acompa\u00f1ar los currys y tandoris. La comida fue alucinante, el mejor resto de comida india de BA... y no lo digo yo, sino el hecho de que estaban todos los locales comiendo en Delhi Majal. \r\nLos panes son excelentes, recomiendo el de queso y el de manteca sin lugar a dudas.\r\nLos postres son extra\u00f1os pero vale la pena probarlos.\r\n\r\nLa atenci\u00f3n de Flor MUY destacable, aunq fueron todos muy amables.\r\nVolveremos mas seguido en este fr\u00edo invierno.\r\n\r\nAprovechen el 20% de club la naci\u00f3n"
+    }, 
+    {
+      "date": "1 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sheylili", 
+      "text": "me encant\u00f3 este lugar, la comida es muy buena sobre todo el curry con cordero y el picante es a elecci\u00f3n, es muy amable el mozo que nos atendi\u00f3 del d\u00eda domingo es nativo de all\u00e1 al igual que los comenzales, es chico pero muy acogedor no me quer\u00eda ir.. volveremos"
+    }
+  ]
+}

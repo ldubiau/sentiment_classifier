@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "2 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "quevanarobarlaPM", 
+      "text": "hoy estaba, como siempre, una tabla con la promo del d\u00eda. el bife de chorizo estaba por 39 pesos, un muy buen precio. pasa que cuando me cobraron, ponieron en la cuenta 65 y dijeron que ser\u00eda ese precio y que yo tendria que pagar, un disparate. Le mostr\u00e9 el menu con el precio, pero insistio. Soy extranjero y se aprovecharon para sacarme la plata. Una falta de respeto al consumidor. No lo recomendo."
+    }, 
+    {
+      "date": "19 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "teteban", 
+      "text": "Bien para tomar un caf\u00e9, p\u00e9simo como restaurante. \r\nPedimos dos platos (uno carne y otro pasta), ambos malos. \r\nLa carne cruda con mala guarnici\u00f3n, las pastas sin gusto. \r\nY encima, car\u00edsimo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "fededrums", 
+      "text": "Las medialunas de manteca son exquisitas!"
+    }, 
+    {
+      "date": "14 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Clementine", 
+      "text": "Lo que vale la pena recomendar es el pan dulce (el mejor que prob\u00e9) y la rosca de pascua. Las medialunas de manteca son de las mejores.\r\nNunca com\u00ed en el restaurante, s\u00f3lo ped\u00ed pizza una vez y no me pareci\u00f3 gran cosa."
+    }, 
+    {
+      "date": "7 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fukerito", 
+      "text": "El mozo tuvo una atencion correcta. Te cobran servicio de mesa que vale la pena pagarlo.\r\nLa comida estuvo muy bien, un lomo a la pimienta (muy tierno) con papas a la crema y una suprema Maryland que nunca falla.\r\nEl lugar es muy amplio, tienen buenas pantallas para ver partidos y se lo ve muy prolijo."
+    }, 
+    {
+      "date": "10 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adraugello", 
+      "text": "Las pastas estaban riquisimas. el cafe es excelente. La camarera super agradable.Voy a volver. Lo recomiendo."
+    }, 
+    {
+      "date": "15 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Vilory", 
+      "text": "El ambiente bueno, es muy amplio y algo ruidoso. El servicio es aceptable. La comida es de acuerdo el plato, si uno pide pizza o un lomo strogonoff se puede decir que es m\u00e1s que buena, pero no es recomendable pedir otra cosa. El costo es bastante elevado, no coincide la relaci\u00f3n precio calidad.\r\nLo \u00fanico recomendable es el pan dulce artesanal."
+    }, 
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "syster", 
+      "text": "Vivo por la zona y voy al galeon tanto para tomar un cafe como para almorzar o cenar. La gente te atiende muy bien, las mesas estan muy bien servidas y la comida es de muy buena calidad. Tambi\u00e9n suelo pedir delivery, te traen los mismos panes que te sirven en la mesa (saborizados, tipo pizza , etc)"
+    }, 
+    {
+      "date": "1 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ERRE_M", 
+      "text": "La comida es muy rica, pero mucha demora por una simple pizza. Mala experiencia, no voy m\u00e1s."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Sofitol", 
+      "text": "Solo pido pizza por telefono. Aunque es verdad que la calidad bajo un poco, sigue siendo muy buena. Otros platos pobre muy poco, y como la pizza no hay. Creo que la mejor de la zona. Eso si, podrian esmerarse un poco con el servicio de delivery."
+    }
+  ]
+}

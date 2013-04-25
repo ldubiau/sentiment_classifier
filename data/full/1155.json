@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "3 Sep 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "patricio1", 
+      "text": "Muy buena la atencion , son los due\u00f1os y se nota.\r\nLa gente es muy variada, gente joven, gente mayor, exelenntes grupos de musica.\r\nMuy lindo lugar ."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Sep 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "robertoe1", 
+      "text": "Excelentes espectaculos nocturnos en Viernes y Sabados"
+    }, 
+    {
+      "date": "6 Sep 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "memes1", 
+      "text": "Muy buen Wok, entre las cosas que me gustaron fueron que le ponen berenjenas y no es muy com\u00fan."
+    }, 
+    {
+      "date": "4 Sep 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vanesama", 
+      "text": "Nos encanto el ambiente de los viernes."
+    }, 
+    {
+      "date": "3 Sep 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "solv1", 
+      "text": "Muy bueno la onda del lugar!!"
+    }, 
+    {
+      "date": "3 Sep 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fergaba7", 
+      "text": "El espacio es ideal para pasar un buen momento, tomar un gran vino, y desenchufarse de todo el ruido urbano."
+    }
+  ]
+}

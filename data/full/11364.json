@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "18 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jpcampora", 
+      "text": "Muy bueno el bife de chorizo jugoso. Las papas fritas les faltaba\ncocinar por dentro un poco."
+    }, 
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "silviast", 
+      "text": "El ambiente es muy lindo y el servicio tambi\u00e9n. Lamentablemente la pizza 4 quesos ten\u00eda menos queso que una de muzzarella. No me gust\u00f3."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "tangos", 
+      "text": "El lugar es agradable, pero me disgust\u00f3 mucho que habiendo pedido una pizza grande (trae 12 porciones) al pedirle al mozo que envuelva las 5 que hab\u00edan sobrado nos dijo que \"no se pod\u00edan llevar\". (cre\u00ed haber pagado TODA LA PIZZA). As\u00ed que supongo que a los que piden porciones sueltas les dan las que les sacan a otros. Conclusi\u00f3n, no lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "siempreluna2008", 
+      "text": "Fuimos con un cup\u00f3n. El lugar es muy lindo. La pizza es muy rica aunque extra\u00f1o la pizza de molde que parece haber caido en extinci\u00f3n. Por lo dem\u00e1s es muy rica, tenia una muy buena cubierta y el mozo nos ofreci\u00f3 llevarnos el sobrante ya q es gigante. La atenci\u00f3n muy buena. Los postres tradicionales pero ricos y muy frescos. Pienso volver"
+    }, 
+    {
+      "date": "27 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gladys263", 
+      "text": "Realmente un lugar para recomendar por su excelente atenci\u00f3n y los productos de excelente calidad. La pizza a los 4 quesos una exquisitez."
+    }
+  ]
+}

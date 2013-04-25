@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ValeMax", 
+      "text": "Me hab\u00edan recomendado el lugar pero la verdad me decepcion\u00f3. La atenci\u00f3n es desordenada y bastante descortes por parte de la mujer que atendia y cobraba (asumo la encargada del local) y si bien las opciones aparentan saludables por lo ingredientes, dejan de serlo al momento que le agregan los aderezos grasosos y super salados."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "asole1", 
+      "text": "Muy buen lugar para comer algo rico sano y rapido. Tambien tienen delivery!!!"
+    }, 
+    {
+      "date": "9 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Taticapu", 
+      "text": "Todas las ensaladas son excelentes y la gente que trabaja ah\u00ed es super atenta y te ayuda a crear las mejores combinaciones. Riqu\u00edsimos condimentos para las ensaladas. 100% recomendable."
+    }
+  ]
+}

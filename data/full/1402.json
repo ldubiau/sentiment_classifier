@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "15 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Lunita", 
+      "text": "Muy malo. Conozco muchos restaurantes por Palermo, pero nunca fui a uno tal malo. Primero, te hacen elegir las tapas y te traen la que quieren. \r\nLos tragos son intomables, la m\u00fasica no la pod\u00e9s disfrutar. \r\nLa verdad, un robo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Jun 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Sidartakiwi", 
+      "text": "El ambiente parece ser bueno desde lejos, pero una vez que se ingresa al local el olor a suciedad del ba\u00f1o inunda todo.\r\nLa m\u00fasica realmente desentona con el lugar (pusieron radio a un alto volumen toda la noche). Las porciones son muy peque\u00f1as a\u00fan considerando que se trata de tapas, no se condicen en absoluto con el precio."
+    }, 
+    {
+      "date": "3 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Zeus", 
+      "text": "Fui a cenar con un grupo de amigos y es recomendable los platos que ofrecen. \r\nA pesar de no tener gran variedad, son de excelente creatividad. \r\nSon buenos y vienen en la cantidad justa y necesaria para una persona. \r\nNo es buena la entrada, pedimos una tabla para seis y en verdad era para dos.\r\nAceptable atenci\u00f3n e interesante show. Recomendable."
+    }, 
+    {
+      "date": "3 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mmonzo", 
+      "text": "Abundante la ronda para dos personas y agradable atenci\u00f3n de Gerardo."
+    }, 
+    {
+      "date": "10 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "romibull1", 
+      "text": "Muy bueno el ambiente lo unico malo es el grupo de m\u00fasica que toca m\u00fasica brasilera en vez de espa\u00f1ola."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Kaikin", 
+      "text": "Sin ser un fan\u00e1tico de las tapas, les digo que la comida estaba excelente con mucho gusto. \r\nHay poca variedad pero saben lo que hacen con sus platos. \r\nEl servicio es regular porque hay un s\u00f3lo mozo para todo el sal\u00f3n, pero le pone la mejor onda. \r\nY el ambiente es ameno y esta bien decorado, con m\u00fasica a tono. \r\nUna mala, anunciaban shows los mi\u00e9rcoles, pero ayer nos clavaron."
+    }, 
+    {
+      "date": "17 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jime_luli", 
+      "text": "Muy agradable. muy tranquilo en d\u00edas de semana, por lo menos. La m\u00fasica, genial."
+    }, 
+    {
+      "date": "20 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mel", 
+      "text": "Gran ambiente con muy buena comida."
+    }
+  ]
+}

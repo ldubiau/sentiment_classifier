@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "27 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nanagodard", 
+      "text": "Siempre la pasamos de lujo en La Mirage! Las pizzas en canastita, la atenci\u00f3n, excelente....y como le\u00ed en un comentario anterior, la cerveza con ingredientes, eso est\u00e1 muy bien! Siempre volvemos."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marranita", 
+      "text": "Lindo lugar, pizzas muy ricas, precios accesibles. La atenci\u00f3n es sobresaliente."
+    }, 
+    {
+      "date": "21 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pachae", 
+      "text": "Siempre Buena Atenci\u00f3n y buena comida. las pizzas son buenasy las minutas tambi\u00e9n. es un lugar tranquilo y en verano tiene mesas afuera."
+    }, 
+    {
+      "date": "21 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Cocuchina", 
+      "text": "Un lugar siempre concurrido, incluso de madrugada. Todas las bebidas vienen con ingredientes, cosa cada vez menos frecuente. La pizza es realmente buena y los mozos muy atentos. Voy cada tanto, y lo bueno es que mantiene su calidad. Un detalle encantador: tienen una heladera donde s\u00f3lo guardan vasos y chopps de cerveza."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Emifabre", 
+      "text": "Excelente comida, atenci\u00f3n y buen precio. Dif\u00edcil de conseguir. Los chicos que atienden son lo mas!! Las bebidas siempre las acompa\u00c3\u00b1an con condimentos que no se los tenes que pedir. Super recomendable para los que quieren comer en una pizzeria. El que dijo sobre la carta de vinos tendr\u00eda que ver si corresponde el comentario, es pizza-cafe!!  A ver.."
+    }
+  ]
+}

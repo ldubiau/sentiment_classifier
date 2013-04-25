@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "12 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "icknaz", 
+      "text": "Lo peor delo peor; el peor ambiente, la peor atenci\u00f3n, la peor comida (ofrecen colita de cuadril mechada al horno y no es ni colita de cuadril, ni es mechada, ni es al horno; m\u00e1s bien parece ceb\u00fa o tal\u00f3n de mono...).\r\nTe hacen ir a los gritos al mostrador apagar con tu tarjeta de cr\u00e9dito; solo falta que te palpen a ver si no llev\u00e1s cosas raras encima...\r\nNo lo recomiendo para nada, la peor experiencia."
+    }, 
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "chapaman", 
+      "text": "Fui con un cupon de descuento. Si bien llame antes para reservar no tenia una mesa asignada asi que pude elegir donde ubicarme. El lugar es muy sencillo y la atencion es buena. Lamentablemente el locro que nos sirvieron, a pesar de tener que esperarlo bastante tiempo, vino tibio,  terriblemente salado y de una calidad bastante pobre. El postre (arrroz con leche) tampoco me parecio recomendable. En sintesis: no da para volver,  tal vez haya influido en la calidad haber concurrido con un cupon de descuento..."
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Danyell", 
+      "text": "Mediocre. La comida me pareci\u00f3 fea. Pedimos con mi mujer el plato de bondiola (reseca) con salsa de moztaza (agria) acompa\u00f1ado por papas al horno (que en realidad eran hervidas) y el plato de sorrentinos (duros) con salsa de apio (en realidad era salsa blanca sin gusto). El lugar tranquilo y aburrido. Lo unico que rescato es el servicio de la moza! No lo recomendamos"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pulpo", 
+      "text": "Ambiente simple y agradable, una sola moza, muy servicial, consumimos el \"men\u00fa patrio\", muy bueno y abundante."
+    }, 
+    {
+      "date": "17 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sedecomida", 
+      "text": "Fuimos 7 adultos  + 2 criaturas.celebraci\u00f3n dia del Padre.Todo bien,las pastas,buenas,y los dem\u00e1s platos bien y abundantes.Lugar tranquilo,seguro Ritornaremos... Horacio"
+    }, 
+    {
+      "date": "16 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lemonique", 
+      "text": "La comida deliciosa y muy abundante. La atencion excelente! \r\nY el lugar esta muy bien decorado y es muy agradable.\r\nEl precio, un poco caro... pero con el descuento de Club La Nacion, no se hizo tanto.\r\nLo recomiendo!"
+    }, 
+    {
+      "date": "6 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Conile", 
+      "text": "Atenci\u00f3n muy buena, los platos abundantes y gustosos. muy tranquilo. Ambiente agradable. Fuimos 2 parejas domingo a la noche. Volveremos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fi", 
+      "text": "Vamos a regresar a probar otros platos!"
+    }
+  ]
+}

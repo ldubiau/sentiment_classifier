@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "15 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Hippie", 
+      "text": "El lugar es genial y la atenci\u00f3n buenisima!\r\nLos tragos, la m\u00fasica, todo el ambiente... me encant\u00f3. Lo recomiendo."
+    }, 
+    {
+      "date": "2 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "feduss", 
+      "text": "Nunca vi un lugar igual!!! es claramente el futuro de la gastronomia!! muy recomendale."
+    }, 
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Mau", 
+      "text": "excelente ! tanto el ambiente (aunque debo reconocer que llegu\u00e9 tipo 1 y hab\u00eda poca gente y estaba un poco fresco, luego lleg\u00f3 bastante gente y todo bien, agradable), c\u00f3mo la atenci\u00f3n (EX-CE-LEN-TE). S\u00f3lo com\u00ed postre (muy bueno) con los tragos (tambi\u00e9n muy buenos, de autos y con buenas bebidas). Excelente para ir con grupo de amigos (sillones, luces bajas, DJ residente, etc)."
+    }, 
+    {
+      "date": "16 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Me encant\u00f3 el lugar, muy bizarro, los tragos buenisimos. vale la pena conocerlo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ardi", 
+      "text": "Muy lindo el lugar, diferente a todo lo conocido.\r\nBuena musica, muy recomendable"
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Bellatore", 
+      "text": "Muy bueno todo, sobre todo el ambiente."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "malos": [
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "aguguita", 
+      "text": "La verdad que no era nada de lo que esperaba. Las camareras no atend\u00edan de muy buena gana, la comida no result\u00f3 nada rica. No ten\u00eda mucho sabor, la trajeron fr\u00eda, pedimos que la calentaran y no volvi\u00f3 muy caliente."
+    }, 
+    {
+      "date": "5 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lachetere", 
+      "text": "Los pulpitos estaban feos y frios cuando en la carta figuraba como entrada caliente.El plato principal no estaba mal pero no hubo coordinaci\u00f3n para servirlos, por lo que comimos cada uno en tiempos diferentes.\r\nFaltaban platos y vinos que figuraban en la carta.Servicio flojo para el nivel de restaurante"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FlorSch", 
+      "text": "Me sorprendi\u00f3. El ambiente agradable, una de las mozas super atenta, nos pregunt\u00f3 el punto de la tortilla de papas a la espa\u00f1ola, lo pedimos bab\u00e9, y lleg\u00f3 exactamente a ese punto y caliente. Hac\u00eda rato que no consegu\u00eda eso en un restaurant. Las tapas no tra\u00edan exactamente lo que dec\u00eda la carta, y no nos avisaron, pero todo estaba tan rico que equilibr\u00f3 la falta. Los langostinos y las rabas estaban espl\u00e9ndidos. Definitivamente un lugar para repetir."
+    }, 
+    {
+      "date": "2 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "santi10", 
+      "text": "Exelente los platos y la etncion de los mozos volvemos sin dudas!!"
+    }, 
+    {
+      "date": "24 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dani453", 
+      "text": "exccelente servicio, me parecio demasiado caro el vino que tamamos, callia bivarietal precio de oferta $41. precio de supermercado $11.'"
+    }, 
+    {
+      "date": "1 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lu_B", 
+      "text": "La comida estuvo bien pero podr\u00eda haber estado mejor: los spaghetti no estaban al dente y habia un par pegoteados. La panera no es de lo mejor. Y con el caf\u00e8 viene solo, sin nada dulce que lo acompa\u00f1e. El ambiente es lindo pero poco acogedor adentro. El servicio muy bueno, los mozos de se esmeraron."
+    }, 
+    {
+      "date": "14 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fmach", 
+      "text": "Comida bien lograda, muy buen servicio, ambiente normal."
+    }, 
+    {
+      "date": "19 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Simulador", 
+      "text": "Atenci\u00f3n, Comida y Ambiente excelentes. Lo \u00fanico es que habr\u00eda que agregar a la carta una alternativa de diferentes Quesos para las Tablas."
+    }, 
+    {
+      "date": "10 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "srsommelier", 
+      "text": "excelentes tapas,buena y rapida atencion"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ARANEO1968", 
+      "text": "Excelente productos en carta. Muy original ya que en pilar no hay casi comida espa\u00f1ola. Me lo habian recomendado y cumplieron con las expectativas!"
+    }, 
+    {
+      "date": "27 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nebrija", 
+      "text": "Atenci\u00f3n, Comida y Ambiente. Tres elementos que hacen de este lugar un restaurante especial. Salimos muy satisfechos por la relaci\u00f3n precio calidad. Mis saludos para el Chef Patricio Guaita."
+    }, 
+    {
+      "date": "10 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Spaulding", 
+      "text": "La ambientaci\u00f3n y lo seguro del lugar es lo mas destacado."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LECHEFF", 
+      "text": "Fuimos con unos amigos y pedimos pastas, muy recomendables. el especial de ese viernes fueron unos mejillones a la parmesana, sorprendentes. El ambiente c\u00e1lido y agradable, para disfrutar con buenos amigos. Precios mas que accesibles para la zona."
+    }, 
+    {
+      "date": "6 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nachoipi", 
+      "text": "Excelente onda, comida de primera calidad a un precio mas que justo. Recomendado."
+    }, 
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Murcielagordo", 
+      "text": "Excelente lugar. Muy buena ubicaci\u00f3n dentro de un un complejo seguro. Ambiente limpio y amplio. Mesas separadas suficientemente. Un carta muy bien seleccionada y los platos son deliciosos. \r\nEl precio es accesible para el nivel del lugar"
+    }
+  ]
+}

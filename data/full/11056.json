@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "EduGruner", 
+      "text": "Comimos una milanesa d epollo que ten\u00eda gusto a pescado. EL lugar parece muy moderno y barato, pero el sabor de la milanesa fue horrible. No vuelvo nunca mas."
+    }, 
+    {
+      "date": "20 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "GSturla", 
+      "text": "Estuve 1 hora por reloj esperando el pedido. Le pregunt\u00e9 al mozo la raz\u00f3n de la demora y me dijo que se hab\u00eda roto 1 freidora.\r\nA la mesa de al lado, que lleg\u00f3 despu\u00e9s que yo, le trajeron sus entradas (fritas ambas) antes que mi comida. El mozo me dijo que porque las entradas las sacan antes (cualquiera).\r\nCuando estaba a punto de irme, lleg\u00f3 mi pedido. La milanesa, al horno y seca. Las papas fritas son de paquete.\r\nAl momento de traerme la cuenta, me traen la de otra mesa.\r\nMal\u00edsima atenci\u00f3n, mala la comida. No vuelvo.\r\nAl menos pude usar el descuento de Club La Naci\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "yakare84", 
+      "text": "Fui con mi pareja, pedimos una milanesa de ternera grande para 2 personas, mitad de napolitana y mitad de cheddar, si bien la panceta se quedaron mas que cortos, el queso cumpli\u00f3 mis expectativas. Buena atencion, r\u00e1pida y sin vueltas. Muy bueno!"
+    }, 
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Chery", 
+      "text": "Fui 4 veces al mismo local, por lo cual puedo emitir un comentario con un poco mas de experiencia que cuando fui la 1era vez. La comida, suele llegar tibia a no ser que te sientes en las mesas de la pb. El descuento de la nacion es muy util sobre todo cuando se va a comer de a muchos. Y consejo: si van a pedir el misil, pidan el vaso que viene de regalo, porque el mozo NUNCA lo va a llevar por motus propio. Muy buena atencion!"
+    }
+  ]
+}

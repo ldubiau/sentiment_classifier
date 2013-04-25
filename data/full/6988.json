@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "desconforme", 
+      "text": "El servicio es malisimo, habiamos reservado el lugar telefonicamente y al llegar nos querian hacer sentar en la barra. no nos dieron silla para el ni\u00f1o que estaba con nosotros. la comida no nos la dejaron elegir, la moza desconocia la carta y precios. un desastre absoluto"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "cinthia.gawianski", 
+      "text": "Un desastre, salimos a cenar casi todas las semanas y creo que hace a\u00f1os que no vamos a un lugar tan malo. El servicio lamentable, estuvimos m\u00e1s de 40 minutos para que nos traigan la comida y ni siquiera una panera (parece que la moza s\u00f3lo se las daba a quienes le ca\u00edan bien). Hab\u00eda gente fumando adentro, y cuando le dijimos al encargado nos respondi\u00f3 que era la due\u00f1a (primero: mentira! segundo, qu\u00e9 tendr\u00e1 que ver?). Fuimos con la tarjeta de Club La Naci\u00f3n (cuyo cartel estaba en la puerta) y no nos aplicaron el descuento."
+    }, 
+    {
+      "date": "1 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Zeta_2005", 
+      "text": "El servicio fue p\u00e9simo. En la carta figuraba picadas, pero al parecer no hab\u00eda m\u00e1s. La carta de bebidas era inexistente y los precios eran \"M\u00e1s o menos\" lo que pensaba la moza. El tapeo, que consist\u00eda en 6 platos, ven\u00eda de a tandas de a 2 con intervalos de 20 minutos entre cada una. La ensalada nunca lleg\u00f3. La pizza era galletitas traviata con salsa y queso. No lo recomiendo para nada."
+    }
+  ]
+}

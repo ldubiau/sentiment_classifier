@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "7 Nov 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lina_preciado", 
+      "text": "P\u00e9simo.\r\nFui 2 veces, y en ambas oportunidades aguard\u00e9 una hora por la comida y no hab\u00edan ni pasta, ni canelones, ni lasagna (es la especialidad).\r\n\r\nFui por pasta y no ten\u00edan. Solo les quedaban \\\"calzones\\\". Estaba crudo, y el queso fr\u00edo. Muy malo.\r\n \r\nTrajeron el pan a la mesa a los 40 minutos, que no estaba fresco.\r\n\r\nNo lo recomiendo en absoluto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pablokra", 
+      "text": "LLegamos 8:30 (un jueves) y no hab\u00eda nadie, nos fuimos 10:15 y tampoco hab\u00eda nadie.\r\nLa pizza era muy rica se notaba que el toque casero. La atenci\u00f3n fue buena, le\u00edmos comentarios que la comida demoraba pero no fue as\u00ed. pero el lugar es medio raro, no es r\u00fastico sino desprolijo, desordenado, parece un poco sucio.\r\nEl precio no estaba mal pero nos llam\u00f3 la atenci\u00f3n que mientras estuvimos no entr\u00f3 nadie y hubo un solo llamado para pedir a domicilio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "damivell", 
+      "text": "Un lugar muy bien dise\u00f1ado .. algo peculiar en el barrio. La onda exelente y los calzones de vegetales salteados con muzzarella eran exquisitos. La pizza bien a la piedra algo no tan facil de encontrar, Los postres eran pocos pero el que nos ofrecieron una torta helada de mousse blanco y negro con frutos rojos.. era muy buena."
+    }, 
+    {
+      "date": "9 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "francyyy", 
+      "text": "Fuimos varias veces y siempre nos atendieron muy bien.La comida es real casera(los vi amasar pasta y panes)por esto tuvimos que esperar 10 minutos mas pero.....valio"
+    }, 
+    {
+      "date": "6 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "arielmac", 
+      "text": "LA comida realmente es muy casera exquisita. El servicio tiene su espera, pero la realidad es que es todo del momento. Muy simpatica la moza."
+    }, 
+    {
+      "date": "31 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fujiko", 
+      "text": "Lugarcito muy calido,la comida me gusto por ser muy casera"
+    }
+  ]
+}

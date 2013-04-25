@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "2 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "sancci", 
+      "text": "La ubicacion es extra\u00f1a,dicen que sera un polo gastronomico en breve,me parece que el salad bar tendria que ser libre,es de escaso surtido y no limitado a un solo plato,el salmon vino crudo,tuve que mandarlo a parrilla de vuelta,poca onda,casi triste,no entiendo por que.\r\nEl servicio es lo justo y necesario,destaco el ambiente,muy bonito y pintoresco,como es nuevo podemos poner una ficha,por que es nuevo.\r\nCarta de vino excelente,buena cava.\r\nPUEDE MEJORAR"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "arik", 
+      "text": "Buena parrilla. El precio no me pareci\u00f3 caro como otros comentarios. Tampoco regalan nada. Buena comida, agradable lugar (no hay nada parecido por la zona) y buena atenci\u00f3n. Nada mas, nada menos. Me sorprendi\u00f3 que S\u00e1bado al mediod\u00eda hab\u00eda poca gente siendo que el d\u00eda estaba lindo y tiene mesas afuera."
+    }, 
+    {
+      "date": "3 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "leoA", 
+      "text": "No es belgrano como dice la guia.. es Villa Urquiza. La verdad es que tiene precios como si estuviese ubicado en Puerto Madero y en lugar de ver pasar 141 acelerando estuviesemos viendo el Rio... Los vinos tambien caros, mucha mas pretensiones que laureles. Es para vecinos perezosos... si agarras el auto en 10 minutos conseguis 10 parrillas con mejor relacion precio/calidad."
+    }, 
+    {
+      "date": "14 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Xavi2008", 
+      "text": "Este lugar se encuentra en Villa Urquiza. Tiene la fisonomia de una parrilla de palermo hollywood. La atencion es esmerada, pero los platos no son abundantes por lo tanto resulta un poco caro."
+    }, 
+    {
+      "date": "28 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lolys", 
+      "text": "Un Ambiente muy agradable y una excelente atencion, la comida en porciones muy abundantes ademas de tener opcion de salad bar con cualquier plato principal, realmente muy bueno todo!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mcastellvi", 
+      "text": "Por cada porci\u00f3n de plato principal en el precio est\u00e1 incluido el Salad bar que es libre."
+    }
+  ]
+}

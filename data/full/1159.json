@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "9 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "juglar", 
+      "text": "El nuevo local est\u00e1 mucho mejor, lamentablemente la atenci\u00f3n desmejor\u00f3 bastante. Los mozos no tienen la misma onda que en el local anterior. \r\nLa comida tarda bastante, se equivocan en lo que ped\u00eds, los t\u00e9rminos cocido, a punto, jugoso no existe para ellos. \r\nLos chorizos los cortan al medio para que se cocinen m\u00e1s r\u00e1pido. \r\nUna l\u00e1stima que no siempre se vaya para adelante. \r\nNo te traen cuenta (ni siquiera en un papelito borrador) y si la ped\u00eds tardan media hora. \r\nPod\u00e9s comer mucho y barato, pero sin demasiadas pretensiones. Algo muy rescatable: la provoleta y el flan mixto (aunque nunca como el anterior)."
+    }, 
+    {
+      "date": "6 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marianoc", 
+      "text": "Un cl\u00e1sico parrill\u00f3n para ir a comer a full y barato, espectacular y para compartir. El flan mixto, una guasada. Podr\u00edan arreglar los ba\u00f1os que son un desastre, pero se soporta."
+    }, 
+    {
+      "date": "8 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cisneros1", 
+      "text": "Es la parrilla palermitana de encuentro con amigos y festejos de las buenas cosas de la vida. Mucha charla regada de vinitos de la casa, un lujo popular, si todav\u00eda quedan algunos."
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gusre1", 
+      "text": "Es una fonda vieja, casi \"la resistencia\" anti Hollywood.\r\nVale la pena ir con amigos cuando pinta la malaria."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carpanta", 
+      "text": "Se come espectacular, muy buena carne y el precio es excelente."
+    }, 
+    {
+      "date": "6 Ene 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "caminand", 
+      "text": "Todo muy bueno, rico, limpio y con buena onda. L\u00e1stima el mozo desagradable que tiene."
+    }, 
+    {
+      "date": "6 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sheena", 
+      "text": "\u00a1Aguante el 22!"
+    }, 
+    {
+      "date": "15 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "efrascar", 
+      "text": "Excelente: la parrilla del pueblo, la fonda de nuestros viejos. \u00a1Aguante el loco!"
+    }, 
+    {
+      "date": "3 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "javierga", 
+      "text": "La calificaci\u00f3n de ambiente es baja debido a los ba\u00f1os. El resto esta perfecto."
+    }, 
+    {
+      "date": "3 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "a_capri", 
+      "text": "El mejor lugar para comer entra\u00f1a en Buenos Aires."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "22 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Soyloyola", 
+      "text": "Super recomendable... Un ambiente familiar exquisito."
+    }, 
+    {
+      "date": "19 Mar 1994", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CHELO74", 
+      "text": "excelente lugar la atencion es fenomenal, y los personajes del lugar son increibles..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marilind", 
+      "text": "Excelente atenci\u00f3n y platos."
+    }
+  ]
+}

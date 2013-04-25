@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "birdman", 
+      "text": "Un lugar que atrae por su llamativa ambientaci\u00f3n pero que decepciona por tener una carta nada original. Hamburguesa que si no era industrial parecia, pan de viena de almac\u00e9n, sin tostar, papas fritas de las congeladas. Todo sin sabor, sin sal, sobresitos de adereso. Muy com\u00fan, nada esmerado. Nada que uno diga vuelvo o lo recomiendo. Encima car\u00edsimo!\r\nEl lugar es ruidoso, tienen tv con canal de deportes de fondo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "derechotrabajo", 
+      "text": "Excelentes sandwiches, con mercaderia fresca y un pan unico. Muy buena atenci\u00f3n. Abrieron en palermo soho. Son hijos y nietos del fundador que los vendia en una canasta en Mar del Plata"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "25 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Feduchi77", 
+      "text": "No lo recomiendo para nada. La comida tarda 30 minutos en llegar y encima vino fria, nos quejamos y nos pusieron mala cara. Hab\u00eda ido con mi jefe y me hicieron quedar mal. Lamentable"
+    }, 
+    {
+      "date": "23 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Pablo_BA", 
+      "text": "El lugar es muy agradable, especialmente si se toma algunos de los reservados, para ser un restaurante de nivel medio. Respecto a la atenci\u00f3n, deja mucho que desear, lo cual me ha sorprendido respecto a alg\u00fan otro local de la cadena que he visitado y ha sido excelente respecto a la atenci\u00f3n y la comida. En cuanto a esto \u00faltimo, con gusto le pondr\u00eda un \"bueno\", de no ser que dos de las frutas del plato de frutas vinieron rancias y, al menos en el caso de una de ellas, era algo evidente, ya que era de lata y desped\u00eda olor."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "alex7878", 
+      "text": "Fui a comer a la noche en dos oportunidades y adem\u00e1s utilic\u00e9 el delivery y en todas las ocasiones tuve alg\u00fan inconveniente. \r\nNo tienen muchos de los platos ofrecidos en el men\u00fa y cada cosa que uno pide el mozo tiene que ir a la cocina a preguntar si tienen. \r\nLa relaci\u00f3n precio/calidad es muy mala. El ambiente es bueno pero la comida desilusiona."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mae", 
+      "text": "Fuimos a pasar el d\u00eda del amigo, \u00e9ramos seis personas y comimos muy bien. Nos gust\u00f3 la atenci\u00f3n, los panes, el ambiente. No conoc\u00edamos este lugar y quedamos muy conformes."
+    }, 
+    {
+      "date": "1 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gui", 
+      "text": "Fuimos a cenar, comimos muy bien; el ambiente nos pareci\u00f3 muy agradable; la m\u00fasica es de colecci\u00f3n."
+    }
+  ]
+}

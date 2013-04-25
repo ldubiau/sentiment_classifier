@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "15 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Damasco", 
+      "text": "Es bueno, nada del otro mundo. No es muy caro y es simple. No esperen nada incre\u00edble, porque no lo van a encontrar."
+    }, 
+    {
+      "date": "9 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cujo_ar", 
+      "text": "Todo bien. Muy rica la fugazzeta rellena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Florcit", 
+      "text": "Est\u00e1 buen\u00edsimo \"Pizza Qu\u00e9?\", m\u00e1s si viv\u00eds en el barrio. \r\nEs s\u00faper accesible en todos los sentidos, monetario y de transporte. \r\nPara ir el fin de semana o en la semana, un martes en Pizza Qu\u00e9 y uno siente que ya corta la semana. \r\nEs un lugar muy buuena onda, sobre todo por el mozo que le pone la mejor. Hay que estar s\u00f3lo atendiendo tantas mesas y tantos d\u00edas. Recomendado, hace a\u00f1os que voy y no me cansa, he ido con amigas, amigos, chicos, novios, salidas varias."
+    }, 
+    {
+      "date": "26 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "caminos", 
+      "text": "Es un lugar super agradable para pasar un rato relajado con quien quiera que te acompa\u00f1e, amigos, amigovios, novio o lo que sea."
+    }, 
+    {
+      "date": "25 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gotademar", 
+      "text": "La pizza es excelente, pero no llega muy caliente,"
+    }, 
+    {
+      "date": "5 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianota", 
+      "text": "La pizza es excelente, el ambiente bueno, la atencion bastante buena.\r\nOpino igual que el precio de la cerveza es demasiado caro ($9)."
+    }
+  ]
+}

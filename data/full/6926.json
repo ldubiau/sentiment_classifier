@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "4 Mar 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ALenOleo", 
+      "text": "Completamente decepcionado; adem\u00e1s de que me trajeron cualquier cosa, las piezas ten\u00edan el tama\u00f1o de una pelota de f\u00fatbol! parec\u00edan hechos por un inexperto en el tema... un sushiman urgente para nikko de olazabal!\r\nNUNCA M\u00c1S! NO VAYAN!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Pilita16", 
+      "text": "Es barato, pero no es muy bueno el sushi y se pueden conseguir cosas mejores por ese mismo precio. Igualmente fueron muy amables y me gust\u00f3 la atenci\u00f3n, pero si es por la comida nom\u00e1s, no lo recomendar\u00eda."
+    }, 
+    {
+      "date": "27 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tammik", 
+      "text": "delivery rapido y por 35$ 12 piezas grandes y ricas"
+    }
+  ]
+}

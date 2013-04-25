@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "madame", 
+      "text": "un lugar calido y simpatico. excelente atencion. variedad de cosas ricas. el cafe bien hecho. un descubrimiento para tener en cuenta. \r\nBueno para: Ir con amigos, Cenar\r\n\r\n\r\nConsejo: recomendacion: ir al primer piso, un plus de grandes ventanales. ah, y pedir el cheese cake o sufle de queso, un suspiro de angeles en la boca."
+    }, 
+    {
+      "date": "13 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "Es una linda esquina en las Ca\u00f1itas, al lado del Solar de la Abad\u00eda. Lindo ambiente, buena atenci\u00f3n (podr\u00eda mejorar este punto) y buen postre (al menos el brownie que prob\u00e9 yo). Ideal para desayunar o merendar, esto \u00faltimo hice yo. Es un lugar al que volver\u00eda sin dudas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sonrisadigital", 
+      "text": "Muy buen lugar para merienda/desayuno, y precio muy accesible para la zona de Ca\u00f1itas. El taz\u00f3n de caf\u00e9 con leche es abundante y de buena calidad, como tambi\u00e9n los alfajores caseros. Unica cr\u00edtica: en mi opini\u00f3n la planta alta del sal\u00f3n es un poco \"fr\u00eda\" o vac\u00eda, podr\u00edan mejorar la ambientaci\u00f3n."
+    }
+  ]
+}

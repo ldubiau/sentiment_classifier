@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "7 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Francin", 
+      "text": "No tenian casi nada de lo que ofrecian en la carta, el lugar venido abajo. y los mozos, no tenian ganas de atender."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adro", 
+      "text": "buena opcion para after office, tranqui, buena musica y ambiente. buena atencion e ideal para reservar mesa grande al fondo."
+    }, 
+    {
+      "date": "8 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Una muy buena alternativa al mediod\u00eda para quienes trabajamos por la zona. Los platos suelen salir r\u00e1pido y la comida es buena.\r\nAdem\u00e1s tiene sector para fumadores."
+    }, 
+    {
+      "date": "11 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "laus", 
+      "text": "Bien."
+    }, 
+    {
+      "date": "20 Dic 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "dmastra", 
+      "text": "El lugar es lindo pero cuando esta lleno (en general al mediod\u00eda) es bastante ruidoso y los mozos no alcanzan. \r\nSe olvidan de tu mesa para limpiarla, traer pan e incluso para cobrar. \r\nTuve que pagar en la caja varias veces."
+    }, 
+    {
+      "date": "16 Dic 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dinapper", 
+      "text": "Los mozos se distraen y despu\u00e9s no se hacen cargo de sus errores."
+    }, 
+    {
+      "date": "31 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "diego.ca", 
+      "text": "Luego de estar cerrado por m\u00e1s de un mes por modificaciones, el servicio es r\u00e1pido y la comida buena a un muy buen precio. \r\nUn lugar para repetir en la semana."
+    }, 
+    {
+      "date": "19 Jul 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mvernik", 
+      "text": "La comida es fresca, buena y econ\u00f3mica para un men\u00fa ejecutivo que puede estar al alcance de un empleado. La atenci\u00f3n no es muy buena, los mozos se distraen y uno puede quedarse un tiempo sin que atiendan sus necesidades."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tatinipi", 
+      "text": "Muy lindo lugar, c\u00e1lido y distendido."
+    }, 
+    {
+      "date": "7 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rachel", 
+      "text": "Muy recomendable."
+    }
+  ]
+}

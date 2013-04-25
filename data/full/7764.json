@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "9 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "luybel", 
+      "text": "Todo mal, el servicio fue pesimo, 25 minutos para traernos la carta, 10 mas para traer la bebida sin las copas, 15 mas para la panera y una mayonesa con no se que, cuando vino la comida por supuesto nos paramos a buscar pimienta y sal, la paella estaba lavada, como si hubieran cocinado todos los ingredientes por separado, la verdad parecia que el mozo no tenia ni idea de como hacer su trabajo. Para rematar nos toco una mesa pegada a la puerta de entrada que tenia la cerradura rota, si si, fui portero toda la cena. Definitivamente no vuelvo nunca mas  y solo lo recomiendo a mis enemigos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JavierJ", 
+      "text": "La comida excelente ,pedimos una paella riquisima ,los mozos nos atendieron genial , te reciben con una copita de jerez , no te cobran cubierto"
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarcelaF", 
+      "text": "Excelente atenci\u00f3n y calidad de insumos.  No cobran cubierto y brindan promociones especiales inclusive en cenas fin de semana.  Las gambas al ajillo riquisimas!.  Te reciben con una copita de jerez, y se esmeran en la atenci\u00f3n en todo momento."
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Marpampeano", 
+      "text": "Una de las paellas m\u00e1s ricas que com\u00ed.Y es uno de mis platos favoritos,a si que tengo experiencia.El arroz a punto,excelente y sabroso,jugoso,no escatiman ingredientes.Prob\u00e9 la comun,aunque hay otra con pollo,conejo y cerdo.Las rabas y los calamarettis perfectos,aunque debo hacer una critica : pedi media porcion de rabas y media de calamaretes,y me trajeron 1 de cada una.Valia $32 cada una y esa entrada me cost\u00f3 $64.error del mozo y de la carta.Reclam\u00e9 y no hubo caso.Pero la paella vali\u00f3 la pena."
+    }
+  ]
+}

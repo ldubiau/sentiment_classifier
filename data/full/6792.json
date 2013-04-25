@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "12 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Polixa", 
+      "text": "Buena opci\u00f3n para un almuerzo de trabajo por el centro, se puede elegir una opci\u00f3n de buffet o un plato a la carta. En mi caso fu\u00ed por la primera, ya que los mi\u00e9rcoles incluye un sushi que si bien no es el mejor esta bastante bien por el precio que se paga. La atenci\u00f3n del lugar muy profesional y amable."
+    }, 
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Muy buena opci\u00f3n de almuerzo en Bs As con plato del d\u00eda con toques gourmet a muy buen precio en un ambiente m\u00e1s que agradable que sale de la oferta t\u00edpica del microcentro. Ideal para reuniones con una cuota de elegancia"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ilure", 
+      "text": "Los sandwiches y postres son riqu\u00edsimos, con ingredientes de calidad y muy frescos.. Los precios no difieren demasiado respecto de una buena confiteria pero vale la pena disfrutar de un ambiente tranquilo, con  m\u00fasica a bajo volumen y, lo m\u00e1s destacado, el nivel de atenci\u00f3n del personal del bar: se merecen un diez en Servicio al Cliente."
+    }, 
+    {
+      "date": "13 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JOSE_12", 
+      "text": "Muy buena ubicaci\u00f3n y la atenci\u00f3n tambi\u00e9n. La comida sabrosa !!!! para volver."
+    }
+  ]
+}

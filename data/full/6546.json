@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "25 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Pepito_vozo", 
+      "text": "Fuimos cuatro personas con un cupon de descuento. De entrada nos sirvieron galletitas untadas con pate. Plato principal ARROZ con pedazos de cosas con gusto a caldo de gallina. Postre bocha de helado crema americana, con sorpresa en su interior, pedazos de escarcha. En el cupon figuraban muchas cosas con signos + entre si. Una vez en el lugar nos enteramos que no eran \"y\" sino \"o\", y no eramos los unicos porq a la mesa de al lado le paso exactamente lo mismo. Atencion malisima, no mal, malisima, el mozo venia cuando queria. Tiene buena onda en cuanto a BAR, pero no recomendable para ir a comer."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Diego87", 
+      "text": "Cena muy rica y buena atencion. La ambientacion esta bien. Tiene detalles, pero es recomendable."
+    }, 
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CarolT", 
+      "text": "Fuimos con un cupon de descuento, valio la pena! el lugar es chico y agradable, la comida y atencion excelentes!"
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Alienita", 
+      "text": "Fuimos con un cupon de descuento de internet, el lugar es chiquito y mas tipo bar, pero nos sorprendieron con una comida excelente, desde la entrada hasta el postre. Ademas habia una banda de reggae muy buena. La atencion muy buena!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Truman81", 
+      "text": "La comida es excelente, recomiendo los postres tambien y la atencion muy amable y amigable. El lugar no es muy grande y la ambientacion no es gran cosa, sin embargo es mas lindo de lo que parece por fuera. Buenos precios. Esta muy bien yo lo recomiendo."
+    }
+  ]
+}

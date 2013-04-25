@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "6 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Koche", 
+      "text": "No comi en el lugar, pedi delivery vacio...estaba duro no tenia buen sabor, las empanadas safaban la ensalada tb."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "san21", 
+      "text": "una tipica parrillita de barrio con una provoleta muy rica, el lomo algo rico pero dejaba bastante que desear. les dejo una dato, cuando yo fui por primera vez (que tambien fue la unica vez) NO TENIAN PAPAS FRITAS. el servicio muy bueno porque es gente amigable. igual volveria a comer otra vez ahi."
+    }, 
+    {
+      "date": "15 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Cori43", 
+      "text": "el sandwich de bondiola era bastante pobre, la ensalada estaba bien, fresca. Lo que fue incre\u00edble es que no ten\u00edan papas fritas!! en realidad.. se hab\u00edan quedado sin papas un s\u00e1bado al mediod\u00eda! el mozo se excus\u00f3 explicando que el \"papero\" los hab\u00eda plantado... Es una t\u00edpica parrilla de barrio, quiz\u00e1s vuelva para darle otra oportunidad, ya que la comida estaba rica."
+    }, 
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ferroandres", 
+      "text": "Solo pido delivery de empanadas, tienen mucha variedad y son bien caseritas y grandes. Muy buena la salte\u00f1a. \r\nUna vez ped\u00ed asado, la verdad que fue toda una decepci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Karol", 
+      "text": "Excelente entra\u00f1a! todo muy bueno y fresco y muy buena atenci\u00f3n. Una parrilla de barrio con buenos precios y buena comida."
+    }, 
+    {
+      "date": "25 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aquamarine", 
+      "text": "Habitualmente voy a ese restaurante, est\u00e1 cerca de mi casa. La comida me gusta mucho y el servicio es bastante bueno. Lo \u00fanico que le falta es mejorar el ambiente. Las mesas est\u00e1n todas en la calle, lo que puede molestar si no es domingo al mediod\u00eda. Las papas fritas son buen\u00edsimas."
+    }
+  ]
+}

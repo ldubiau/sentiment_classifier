@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "charlybro", 
+      "text": "Comimos unas pizzas al mediod\u00eda. Muy livianas y ricas. Buena atenci\u00f3n. Barato. Recomendable."
+    }, 
+    {
+      "date": "11 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pepto", 
+      "text": "Lugar sin muchas pretenciones, se come bien, rica pizza."
+    }, 
+    {
+      "date": "31 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jot1966", 
+      "text": "La calidad me pareci\u00f3 buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Titobaratito", 
+      "text": "Calidad soberbia, ambiente ameno y atencion esmerada."
+    }
+  ]
+}

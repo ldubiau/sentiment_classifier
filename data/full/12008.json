@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Marticg", 
+      "text": "Muy buen lugar !!! muy c\u00e1lido y agradable con un living que dan ganas de quedarse ....como estar en tu casa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pinnose", 
+      "text": "Muy rica la comida y sobre todo barato, buena musica tambien tienen muy ricos tragos y cositas para picar, y lo mejor es que es un ambiente tipo patio interno muy privado, lo recomiendo"
+    }, 
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LuchoSta", 
+      "text": "Excelente lugar, q brinda la posibilidad de hajear un libro durante el tiempo q disfrutas de un cafe."
+    }, 
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "laTanaGiri", 
+      "text": "Excelente ambiente, servicio y calidad!! 100% Recomendable!!"
+    }
+  ]
+}

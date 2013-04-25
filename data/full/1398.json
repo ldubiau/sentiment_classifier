@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "3 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "colo11", 
+      "text": "Muy calido. La atencion es casi familiar y se come muy bien. No es muy exquisito pero si muy casero y rico."
+    }, 
+    {
+      "date": "25 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "paogel", 
+      "text": "El ambiente simple, la atenci\u00f3n muy buena, y la comida muy rica. En especial unos creps de verdura que estaban mortales!!\r\nDe naturista...poco, pero la comida estaba rica de todos modos. \r\nRecomendable para los que est\u00e9n cerca."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Hannita", 
+      "text": "Es un barcito, nada especial de afuera, pero tiene unos pastas incre\u00edbles que hace el chef. Los precios son re buenos, y los mozos simp\u00e1ticos y atienden r\u00e1pidamente."
+    }, 
+    {
+      "date": "9 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "argie.in", 
+      "text": "El lugar tiene un ambiente muy hogare\u00f1o y el d\u00eda que fui est\u00e1bamos solos. \r\nSe puede hablar tranquilo y fuimos tratados de primera a muy buenos precios. \r\nAdem\u00e1s la carta si bien es breve permite salir de lo t\u00edpico."
+    }
+  ]
+}

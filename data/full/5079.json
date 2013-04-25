@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "19 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maczz", 
+      "text": "Un caf\u00e9-bar t\u00edpico y elegante de Buenos Aires, todo lo que sirven all\u00ed como ser caf\u00e9, desayunos, tragos, sandwicher\u00eda y comidas al mediod\u00eda es de primer\u00edsima calidad. El servicio es inmejorable, con mozos muy experimentados de saco y mo\u00f1o. El ambiente impecable, el bar esta todo revestido en madera tipo a\u00f1os 60/70, vajilla antigua y amplios ventanales. Muy recomendable!!!!!!"
+    }, 
+    {
+      "date": "23 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Es un bar/restaurante tipico del microcentro, donde la ambientacion y los muebles no se renuevan hace decadas. Los platos son todos del dia porque no hay mucha variedad. La relacion precio/calidad es buena para un oficinista."
+    }
+  ]
+}

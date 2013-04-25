@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "23 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "solilu", 
+      "text": "El ambiente, de pizzer\u00eda o caf\u00e9 es muy bullicioso. Los platos son bastante caros. El servicio es normal. Lo aconsejo para almorzar o para un break por la tarde. No me parece lo ideal para una cena."
+    }, 
+    {
+      "date": "1 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AdrianG", 
+      "text": "Habitualmente voy a almorzar, porque estoy cerca del trabajo. Lo \u00fanico rescatable es la pizza. El resto de las comidas son muy caras, si se tiene en cuenta la calidad de las mismas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PabloMSE", 
+      "text": "Muy recomendable, excelente atenci\u00f3n, buena ubicaci\u00f3n y atenci\u00f3n muy r\u00e1pida."
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nano31072", 
+      "text": "Excelente atenci\u00f3n, lugar peque\u00f1o, sencillo y tranquilo, bien de barrio. Los platos del d\u00eda estuvieron muy buenos y muy econ\u00f3mico."
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "elporongadetelmo", 
+      "text": "Para bajoneros es fantastico! Las pizzas y las empanadas no son lo mejor pero el sanguche de milanga es sublime y  todo lo que tengan a la hoya tambien. Jarrita de vino de Vi\u00f1as Riojanas, la tierra del mozo de la noche!"
+    }, 
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "DiegoPonti", 
+      "text": "Es un t\u00edpico barcito de San Telmo en donde adem\u00e1s de tomarte un caf\u00e9, pod\u00e9s comer muy buenas pizzas y milanesas. Para ir de vez en cuando, sobretodo cuando no ten\u00e9s ganas de cocinar y quer\u00e9s comer comida casera sin tanta pompa."
+    }, 
+    {
+      "date": "21 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nicolazz", 
+      "text": "Muy buena la pizza, el lugar es chiquito, pero esta muy bien ubicado. Si se hace la hora del mediodia y estas por esa zona, es la primera opcion."
+    }, 
+    {
+      "date": "29 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mldm", 
+      "text": "un t\u00edpico bodeg\u00f3n de san telmo, la pizza en general es muy buena y la fugazzetta imperdible."
+    }, 
+    {
+      "date": "8 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "BarbieDelfino", 
+      "text": "es un lugar bueno dentro de todo, por lo clasico x supuesto y lo pintoresco. la comida es barata (hay platos como los ravioles que salen 10$) y esta bien. \r\nlo q hay en el menu se termina rapido (si se va tarde probablemente falte la mitad de lo q dice). el mozo de la noche es un personaje... a veces resulta simpatico, otra veces puede colmarte la paciencia. no es super limpito y la luz blanca es lo peor."
+    }, 
+    {
+      "date": "25 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "gerkijel", 
+      "text": "Un cl\u00e1sico si se trata de San Telmo. \r\nLa mejor fugazzeta de la ciudad. \r\nExcelente atenci\u00f3n, abierto todo el d\u00eda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cloper", 
+      "text": "Una de las mejores fugazzetas de BA. Muy buenas empanadas y platos bien porte\u00f1os riquisimos. REcontra recomendable."
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "kasaj", 
+      "text": "La mejor pizza y milanesas de buenos aires. \r\nel queso y el aceite de primera algo que no encontre en ninguna otra pizzeria.\r\nLa milanesa es perfecta."
+    }
+  ]
+}

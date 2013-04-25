@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "veca", 
+      "text": "deliciosos platos que acompa\u00f1ados del servicio hicieron un medio dia muy agradable!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucas666", 
+      "text": "Excelente la atenci\u00f3n y muy buena comida. La  verdad me sent\u00ed como en mi casa"
+    }, 
+    {
+      "date": "10 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "moma85", 
+      "text": "el lugar es muy lindo y la comida excelente muy buen sabor y presentacion, muy recomendable"
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Milki", 
+      "text": "Recomendable un 100%!! Ambiente muy c\u00e1lido, agradable, comida de muy buena calidad y el servicio es excelente!!\r\nLes sugiero que pidan los ravioles de conejo!son deliciosos!!!"
+    }, 
+    {
+      "date": "9 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Dopey", 
+      "text": "Un lugar para recomendar.  En el coraz\u00f3n de Recoleta, un ambiente tranquilo con un muy buen servicio y una comida deliciosa!!!"
+    }
+  ]
+}

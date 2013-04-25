@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "18 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Aceptable opci\u00f3n por la zona para tomar un caf\u00e9 o almorzar algo tranquilo. Tienen buenas opciones de ensaldas y algo de platos no muy elaborados. El ambiente es agradable y tranquilo. La atenci\u00f3n normal. Precio no muy econ\u00f3mico para lo que se ofrece."
+    }, 
+    {
+      "date": "26 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "TouTou", 
+      "text": "Es un lugar muy agradable con un men\u00fa muy variado, la elaboraci\u00f3n del plato impecable.Los mozos son de profeci\u00f2n, muy atentos y amables. Me gusto mucho la carta de vinos, tienen aprox. 50 etiquetas, todos en una caba climatizada de 3 temperaturas. La verdad no parece los que es si lo ves desde afuera. La panaderia es una agregado, despues de cenar llevamos unas masas que estaban tan buenas como la comida. 100% recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Yuka", 
+      "text": "Buen ambiente, buenas opciones y precios razonables. La cerveza con teque\u00f1os venezolanos ya son un cl\u00e1sico. Cada fin de semana hay men\u00fa especial de alg\u00fan pa\u00eds. Muy bueno todo..."
+    }
+  ]
+}

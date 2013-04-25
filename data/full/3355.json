@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "avedepresa", 
+      "text": "Para \"morfar\" rico y barato. Tipico club de barrio con sus bondades y sus desventajas. Muuuuchas mesas, que cuando el lugar se llena el servicio se alenta bastante.... Pero se puede ir, sobre todo dia de semana al mediodia que tienen una buena propuesta de menu."
+    }, 
+    {
+      "date": "7 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "hbofill12", 
+      "text": "El ambiente es muy familiar, t\u00edpico de un club de barrio. Las porciones son muy abundantes y los precios muy acomodados. La atenci\u00f3n, muy correcta, rapid\u00edsimos y muy atentos."
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dpapalardo", 
+      "text": "un ambiente muy cordial"
+    }, 
+    {
+      "date": "26 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Macoco", 
+      "text": "El ambiente es agradable se puede bailar"
+    }, 
+    {
+      "date": "25 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "NICO_CAM", 
+      "text": "Sinceramente la comida estaba en su punto justo, los bochos de mar muy sabrosos y el arroz estaba a punto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Tilapajr", 
+      "text": "Excelente la comida y la onda del lugar. Se respira espa\u00f1a."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "26 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "noemonaco", 
+      "text": "De terror!!! Suc. Unicenter: Tardaron 20 minutos en armar el pedido mientras los 3 empleados hablaban entre ellos e iban y venian sin hacer nada. A los 15 min de mi espera le toman el pedido a otra pareja y le sirven antes q a mi. Cuando me quejo ya re molesta OH CASUALIDAD!!! aparecio el pedido...El pan del tostado parecia crudo...Lo de la espera NO es la primwra vez q me pasa...Es un desastre no voy mas!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mechi66", 
+      "text": "El caf\u00e9 y las tortas son ricas,el ambiente algo ruidoso y la atenci\u00f3n buena pero algo lenta"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "partegoi", 
+      "text": "Comida muy buena y sana."
+    }
+  ]
+}

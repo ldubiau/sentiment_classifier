@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "1 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Dotora", 
+      "text": "Muy buenas empanadas, lugar familiar, no pretender nada del otro mundo, a mi mujer siempre le encanta la ensalada Manuelita.\r\nLinda opci\u00f3n para Viernes a la noche."
+    }, 
+    {
+      "date": "13 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tiling", 
+      "text": "Muy bueno el jugo de naranja exprimido."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "charlyro", 
+      "text": "Excelentes empanadas, siempre pido empanadas fritas."
+    }
+  ]
+}

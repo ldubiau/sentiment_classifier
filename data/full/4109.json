@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ClaudioHofffer", 
+      "text": "El local es muy bonito, la ambientacion es calida, realmente nos gusto mucho. La carta tiene los clasicos platos chinos de delivery con alguna que otra cosita pero sin sorpresas. Mi recomendacion es la sopa agripicante, sin dudas fue el mejor plato. Las porciones son abundantes. Los platos con carne por ejemplo se pueden pedir en planchas de metal para mantener su temperatura en la mesa (este servicio tiene costo adicional). La atencion fue buena. La cuenta se ajusta mas a la zona que al desarrollo de los platos."
+    }, 
+    {
+      "date": "4 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "hadespablo", 
+      "text": "Ambientacion sencilla, con platos muy abundantes y sabores marcados. El servicio correcto, sabiendo aconsejar perfectamente en caso de no conocer lo suficiente los platos chinos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "damasio", 
+      "text": "Muy buena comida china en plena horqueta. Platos variados para no aburrirse, muy buen servicio."
+    }, 
+    {
+      "date": "17 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cloper", 
+      "text": "Ecxelente lugar en el medio de La Horqueta. Para los del barrio, es un clasico. Ademas una vez por semana pido delivery. Siempre me deja conforme."
+    }
+  ]
+}

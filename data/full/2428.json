@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "23 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Buscoalgo_bueno", 
+      "text": "Ped\u00ed un arroz a la valenciana con pollo, el pollo seco y el arroz azafranado(valenciana) sin azafr\u00e1n(ni el m\u00e1s m\u00ednimo vestigio ni siquiera de color a azafr\u00e1n ) y totalmente fuera del punto de cocci\u00f3n, el flan casero desagradable gracias al fuerte sabor a esencia...... Precios caros en relaci\u00f3n a la calidad que ofrecen."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guille111", 
+      "text": "Bueno y punto.\r\nEntro solo si paso por la puerta"
+    }, 
+    {
+      "date": "25 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fklite", 
+      "text": "Ped\u00ed un pescado a la plancha con panache de verduras $36. Agua sin gas $6. Cubierto $4,5 (un cuadradito de manteca y nada m\u00e1s). Total $46,5 (!!)\r\nLa comida estaba bien, la atenci\u00f3n es buena y el ambiente agradable, pero me pareci\u00f3 fuera de precio; es un simple lugar para almorzar en medio del trabajo. Aumentaron los precios y se nota, estaba medio vac\u00edo, antes no era tan caro y hab\u00eda mas gente."
+    }, 
+    {
+      "date": "5 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ateneax", 
+      "text": "Muy buena opci\u00f3n para un mediod\u00eda tranquilo luego de una vertiginosa manana laboral. Ambiente c\u00e1lido pero no jovial..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pincha", 
+      "text": "Excelente el puchero, parec\u00eda el de la nonna."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "17 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "DRspock", 
+      "text": "Muy buen lugar sale de lo tradicional , Buena propuesta novedosa.Muy buena comida tradicional con toques modernos.RECOMENDABLE"
+    }, 
+    {
+      "date": "13 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tuco2012", 
+      "text": "muy bueno, me senti como en mi casa sin apuros y muy bien atendido con una comida excelente, muchas gracias"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MarioBatali", 
+      "text": "Fuimos 6 amigos, eramos nosotros y 4 personas m\u00e1s, el lugar practicamente para nosotros. Muy linda casa, llena de cuadros, los chicos muy atentos y profesionales. Eric el chef realmente sabe lo que hace. Te sirven un men\u00fa fijo de 5 pasos, nos fuimos pipones. Muy Recomendable, volveremos pronto!!"
+    }, 
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mauii", 
+      "text": "lo mejor de la experiencia fue la sensacion de tranquilidad y el relax del momento. gracias a los due\u00f1os de casa me senti como en la mia. todo muy rico en un ambiente super ameno"
+    }, 
+    {
+      "date": "15 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marin23", 
+      "text": "Realmente el lugar es unico. La cocina a la vista, sentir que estas comiendo en casa de un amigo pero con un cheff personal realmente es una experiencia que vale la pena vivir. La comida es un 11."
+    }, 
+    {
+      "date": "1 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GordonR", 
+      "text": "Una grat\u00edsima sorpresa, fuimos sin mucha referencia previa m\u00e1s que las fotos y la recomendaci\u00f3n de unos amigos. Un lugar precioso como pocos, el servicio a la altura y la comida realmente de alto nivel. El Chef Martinet muy simp\u00e1tico nos fue explicando cada plato que presentaba.Pudi\u00e9ndose repetir casi todo lo ofrecido.  M\u00fasica realmente buena al volumen justo. Altamente recomendable."
+    }, 
+    {
+      "date": "5 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "magalee", 
+      "text": "la casa te translada a francia moderna, la comida es excelente y la atencion del cheff y el due\u00f1o de casa es realmente muy amistosa. no deben perderse el pure de batatas, algo simple que termina siendo un plato gourmet!"
+    }, 
+    {
+      "date": "30 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luchito", 
+      "text": "Es ideal para un ambiente \u00edntimo, reuniones de negocios, o festejos reducidos. La cocina es excelente. Est\u00e1 perfectamente ambientado; la m\u00fasica te deja hablar sin problemas y el arte que cuelga de las paredes completa la escena para un 10 redondo."
+    }
+  ]
+}

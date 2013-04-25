@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "27 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Agus2mil", 
+      "text": "Muy buena carta, y relaci\u00f3n precio calidad. Una buena opci\u00f3n tanto para almuerzo o cena.La atenci\u00f3n de los mozos es excelente y el ambiente c\u00e1lido.Las ensaladas riqu\u00edsimas y la pechuga rellena muy buena.Pienso volver."
+    }, 
+    {
+      "date": "1 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chromo", 
+      "text": "El ambiente es c\u00e1lido, pocas mesas, diria que intimo.\r\nLos mozos muy amables.\r\nLo \u00fanico malo fue que mi mujer pidio el risotto y estaba pasado, \"parecia pur\u00e9\", todos los demas platos excelentes.\r\nEs un lugar que vamos seguido, por precio, atencion y tranquilidad."
+    }, 
+    {
+      "date": "24 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dieguistico", 
+      "text": "La recepci\u00f3n del hotel es realmente muy bella e invita a entrar al restaurant, cuyo ambiente es agradable y moderno, aunque ser\u00eda mucho mejor si tuviera alguna abertura a la calle y una iluminaci\u00f3n m\u00e1s \u00edntima. La comida es bastante buena, aunque el risotto estaba levemente pasado y los camarones poco crocantes. El cheesecake, en cambio, muy bueno. La atenci\u00f3n correcta, aunque un tanto lenta. Probablemente haya lugares mejores por el mismo precio, lo cual no quita que no valga la pena ir a conocer y quiz\u00e1 volver. Hay un entrepiso con barra que amerita una pr\u00f3xima visita."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Anyweb", 
+      "text": "Como comimos el men\u00fa ejecutivo por el que pagamos $70.- por entrada, plato principal, postre.  una copa de vino y agua mineral (las dos bebidad servdas para cada uno)Muy econ\u00f3mico teniendo en cuenta el ambiente y la calidad de la comida.Atenci\u00f3n excelente. Ten\u00e1 el prejuicio de que los restaurants de los Hoteles era caro pero comimos mucha m\u00e1s barato que lo cobra un lugar \"medio pelo\"Lo recomiendo. Volveremos."
+    }
+  ]
+}

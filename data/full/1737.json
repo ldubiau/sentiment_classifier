@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Evaje", 
+      "text": "Un lugar bastante barato por Belgrano para comer un rica pizza."
+    }, 
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "ElLocutor", 
+      "text": "Delivery: r\u00e1pido\r\nMasa: pod\u00e9s elegir media masa o a la piedra\r\nMuzzarella: abundante y sabrosa\r\nAceite: excesiva\r\nDesventajas: no acepta tarjetas de d\u00e9bito ni cr\u00e9dito\r\n\r\nNo lo recomiendo para comer en el sal\u00f3n, mucho descuido"
+    }, 
+    {
+      "date": "13 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "mldonaire", 
+      "text": "La mejor pizza de Belgrano, altamente recomendable la fugazzeta rellena. El ambiente del lugar es medio deprimente pero es una excelente opci\u00f3n de delivery."
+    }
+  ]
+}

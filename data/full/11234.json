@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "matiliniers", 
+      "text": "Lugar chiquito donde se come muy bien.\r\nBien ubicado en frente de la plaza Los Andes en Villa Luro.\r\nEl ambiente no es lo mejor, pero es lo de menos."
+    }, 
+    {
+      "date": "13 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "natycalis", 
+      "text": "Excelente experiencia! El lugar es chiquito y est\u00e1 muy bien puesto. Ideal para ir en familia y en grupos de amigos. Es muy popular entre los vecinos del barrio. La atenci\u00f3n es s\u00faper cordial. Porciones abundantes. Recomiendo el calz\u00f3n cuatro quesos y las empanadas de pollo. Volvemos seguro."
+    }, 
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "El lugar cuenta con un buen ambiente para ir con amigos, con m\u00fasica algo elevada, pero sin llegar a ser molesta. La comida es rica y variada para salir a comer sin gastar demasiado, ricas pizzas. La atenci\u00f3n es buena y esmerada. Una buena opci\u00f3n en el barrio."
+    }
+  ]
+}

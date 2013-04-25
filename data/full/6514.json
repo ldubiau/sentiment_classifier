@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "5 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gab69", 
+      "text": "Hola, Lateral es un bar con mucha onda, buena musica y lomas importante la atencion es muy buena, al mejor estilo Lateral de Barcelona"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marianita11", 
+      "text": "Muy buena la comida, fui al mediod\u00eda, ped\u00ed el plato del d\u00eda, \u00f1oquis con estofado, excelentes, se notaba que eran caseros y frescos. La atenci\u00f3n masomenos, la camarera con cara de jabal\u00ed enojado todo el tiempo, pero bueno, vali\u00f3 la pena por la comida. probablemente vuelva."
+    }
+  ]
+}

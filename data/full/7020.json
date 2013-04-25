@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "23 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "digraf01", 
+      "text": "unos andwich increibles, soy asiduo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "digraf01", 
+      "text": "un lugar ambientado con lo relacionado al cine, todos los sadwiches  que tienen tienen nombre de pelicula comi un sandwich de lomo espectacular, la verdad la atencion de primera y la calidad muy buena, para recomendar"
+    }, 
+    {
+      "date": "6 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hapy78", 
+      "text": "El lugar es de paso, es chiquito, solo con barra, pero muy confortable. La atenci\u00f3n es muy buena, te hacen sentir como en tu casa. Y la comida es excelente muy, pero muy casera. Los sandwiches son espectaculares y lo bueno que tienen los menus del d\u00eda con bebida y postre, a un precio regalado $20. Super recomendable."
+    }
+  ]
+}

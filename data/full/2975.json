@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "10 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "bizarrarra", 
+      "text": "La comida no es nada especial y la atencion en PESIMA! Me trajeron un pedido equivocado a mi casa, llame por telefono y me dijeron q me lo venian a cambiar. No solamente jamas aparecieron sino q cuando llame nuevamente una hora despues para ver si habia pasado algo la due\u00f1a del locar me grito en el telefono diciendo q no habia habido ningun error y COLGO! UN DESASTRE! NO LO RECOMIENDO EN ABSOLUTO!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "HERNIdeRECO", 
+      "text": "Riquiiiisimo!!!!"
+    }, 
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CABALLEROAZUL", 
+      "text": "Muy rica comida,mas que aceptable.gracias a la guia oleo pude encontrar este delivery,hugo de recoleta."
+    }, 
+    {
+      "date": "22 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "COLOMBIA100x100", 
+      "text": "La comida esta rechevere,en colombia lleva otros condimentos, con mis amigos nos parecio de muy buen nivel,el picante es bien fuertecito como nos gusta,igual que las argentinas,je"
+    }, 
+    {
+      "date": "17 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "SDRECH33", 
+      "text": "Hace dos a\u00f1os y medio que pido y la verdad es lo mejorcito de recoleta,me lo recomendo mi novia,en mi casa siempre pedimos chino,y disfrutamos mucho de esta comida.... y del asadito,obvio."
+    }
+  ]
+}

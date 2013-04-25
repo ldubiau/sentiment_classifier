@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Karok", 
+      "text": "El lugar esta cerrado, no solo no se han tomado la molestia de postearlo, sino que tampoco en su casilla de mensajes telefonicos, fui hasta el lugar viernes a la noche, y me encontre con esta desagradable sorpresa, me complicaron los planes."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "TheDuke", 
+      "text": "Muy ricas empanadas y muy buena la pizza de provolone.\r\nRecomendable. El ambiente es muy tranquilo, para comer sin preocupaciones"
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sol80", 
+      "text": "Las pizzas y las empanadas son muy ricas. El lugar es sencillo y las 4 o 5 veces que he ido habia muy poca gente, es tranquilo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nonnis10", 
+      "text": "La comida es muy buena, y ademas por la amplia variedad permiten salir de los gustos tradicionales de pizza. Hay un muy buen ambiente, ideal para salir a la noche con amigos, tienen mesas y algunos livings armados. Todos comimos barbaro y nos fuimos mas que satisfechos.\r\nSuper recomendado"
+    }
+  ]
+}

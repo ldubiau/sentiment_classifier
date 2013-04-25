@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "20 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "La pizza no es buena, la masa parece prepizza de supermercado, la atenci\u00f2n es buena, el lugar est\u00e0 bien, y los precios tambi\u00e8n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CRUSTY", 
+      "text": "No se destaca mucho en las pizzas. Pusieron el jamon sobre la muzza, y eso hizo que se achicharre, la masa parece de pre-pizza. El ambiente es bueno, fresco en verano y calido en invierno, limpio y no ruidoso a diferencia de la mayoria de lugares por Av. Corrientes. Lo mejor son los desayunos o meriendas, las medialunas son muy buenas."
+    }
+  ]
+}

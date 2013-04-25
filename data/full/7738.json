@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "21 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Vitto", 
+      "text": "Com\u00ed verdaderamente muy mal, la pastas muy desabridas, con salsas aburridas y muy pasadas de punto. Las entradas aceptables pero sin ninguna vuelta de rosca que las distancien un poco de lo que podr\u00eda haber comido en cualquier rotiseria de barrio. El ambiente es simp\u00e1tico pero ca\u00f3tico y desprolijo y finalmente la atenci\u00f3n logr\u00f3 salvar un poco todo lo anterior. Para comer no es recomendable bajo ning\u00fan aspecto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "rschmidt", 
+      "text": "Este lugar es incre\u00edblemente malo. No tienen men\u00fa, sino un pizarr\u00f3n escrito en italiano (obviamente, un cocoliche que tampoco es ese idioma). Lo traduce una camarera, apenas te sent\u00e1s. (no quieren que te quedes mucho tiempo en el local). La comida (que no es mala) llega tibia para que te vayas r\u00e1pido. Luego llegan las miradas y acosos varios para que te vayas r\u00e1pido. \r\n\r\nun desastre. \r\n\r\nun detalle: no hay uno s\u00f3lo de los cuadros de la decoraci\u00f3n en escuadra. el mal gusto se lleva bien con la desidia."
+    }, 
+    {
+      "date": "25 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sibaritatrip", 
+      "text": "Nos pareci\u00f3 un lugar agradable e ideal para estas epocas de calor. Nos atendieron r\u00e1pido, hubo un error en el pedido que hicimos que se solucion\u00f3 r\u00e1pido. La comida lleg\u00f3 r\u00e1pido y era de muy buena calidad. Una opci\u00f3n aceptable entre tantas propuestas de palermo hollywood."
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "aquaman", 
+      "text": "Tiene buenos men\u00faes al medio d\u00eda por $30,entrada fija y varios platos principales,yo ped\u00ed \u00f1oquis con salsas combinadas y de postre como adicional, mousse de chocolate.La decoraci\u00f3n es original con gigantograf\u00edas en murales y esculturas en la calle."
+    }
+  ]
+}

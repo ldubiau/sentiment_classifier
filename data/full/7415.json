@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "25 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "_gns_", 
+      "text": "Buen lugar para comer pizza y pastas en un buen ambiente. Ahora en verano tiene mesas afuera y est\u00e1 bueno el hecho de compartir esquina con el Piave, lo que es buen complemento para tomarse un helado despu\u00e9s de cenar/almorzar.\r\nEs siempre una fija en Quilmes."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tuchito", 
+      "text": "Muy buen lugar y atenci\u00f3n! Excelente la pizza, pedimos varias y todas muy sabrosas... la mejor una que viene con huevo frito! La pedimos y apenas llego la mesa de al lado pidi\u00f3 lo mismo! Imposible no tentarse. En Quilmes lo mejor en pizzas. Lo recomuendo."
+    }, 
+    {
+      "date": "15 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AleAltamirano9", 
+      "text": "lindo lugar, atencio y comida!"
+    }
+  ]
+}

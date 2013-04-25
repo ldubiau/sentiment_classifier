@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "20 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "mariaurien", 
+      "text": "No me gusto para nada. Pedi una ensalada que me recomendaron y estaba muy desabrida. La atencion correcta."
+    }, 
+    {
+      "date": "7 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "el_gran_luis", 
+      "text": "Buena ambientacion, buen servicio de delivery, muy buena atencion, excelente comida."
+    }, 
+    {
+      "date": "4 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gecordoba", 
+      "text": "Un lugar comodo para el mediodia, ambiente agradable, muy buena decoracion, y sobre todo cocina como en casa, volvere\u00e9, sin dudas.-"
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ingefaraldo", 
+      "text": "Es un lugar muy agradable, atendido muy cordialmente por su due\u00f1o. La comida, como hecha en casa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JomaAmoroso", 
+      "text": "Comida siempre fresca...recien hecha y con gusto a lo casero !!"
+    }, 
+    {
+      "date": "9 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jlga", 
+      "text": "excelente!!!!!"
+    }, 
+    {
+      "date": "4 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ChinoPaul", 
+      "text": "muy bien atendido por su duenio, Sr. Luis.Ambiente ideal para cortar el ritmo laboral. Muy bien decorado el lugar, y sobre todo excelente cocina muy acorde a los precios."
+    }, 
+    {
+      "date": "4 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "popesku", 
+      "text": "una atenci\u00f3n de lujo, pienso volver."
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marcoccia", 
+      "text": "Un lugar c\u00f3modo, bien atendido, bien ambientado, buen gusto, se come muy bien y a muy buen precio. la verdad que me sent\u00ed como en los hist\u00f3ricos restaurants, en los que prevalece la buena comida y la calidez de la atenci\u00f3n."
+    }
+  ]
+}

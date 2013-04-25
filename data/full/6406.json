@@ -1,0 +1,238 @@
+{
+  "malos": [
+    {
+      "date": "25 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Polita", 
+      "text": "Desastroso. El ambiente horrible con un olor a fritanga insoportable. La atenci\u00f3n pobre y la comida de cuarta. Espero que me hayan sacado una foto porque no vuelvo m\u00e1s!!!"
+    }, 
+    {
+      "date": "1 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nomegusto", 
+      "text": "Verdaderamente me parecio en el peor bodegon que comi!!!!!!!!!!!!!todo malo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Colo32", 
+      "text": "El lugar me encanto, limpio y bien dcorado con fotos y cuadros anejos, asi como distintos implementos de la epoca"
+    }, 
+    {
+      "date": "5 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tus", 
+      "text": "Bodegon tipico desde que traspasas la puerta de entrada hasta que salis, muy bueno para ir con amigos en este caso  fuimos 3  a cenar.\r\nEs tal vez la mejor entra\u00f1a que he comido, bien el asado y buenos los postres.\r\nLa carta de vinos es bastante completa, y el ambiente y la atencion son absolutamente informales, ideal para distenderse."
+    }, 
+    {
+      "date": "8 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Angelique137", 
+      "text": "Excelente la carne y su punto de cocci\u00f3n, las entradas muy ricas especialmente los bocaditos de seso, algo no tan com\u00fan de encontrar y que es algo que com\u00eda siempre de chica. Adem\u00e1s las entradas se pagan por plato: pod\u00e9s llenarlo con la combinaci\u00f3n que quieras. Muy buena la atenci\u00f3n, el mozo hasta nos par\u00f3 de pedir platos anticipando lo abundante de las porciones. El ambiente muy de bodeg\u00f3n, muy para ir con amigos! En el fondo, en la otra sala, hasta hab\u00eda una mesa de cincuentones tocando la guitarra. La decoraci\u00f3n: una infinita multiplicaci\u00f3n de lechuzas! Voy a volver seguro y con m\u00e1s amigos."
+    }, 
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "bomvivant2008", 
+      "text": "Floja atencion, los platos a destiempo, las provenzal con las papas quemadas, lo rescatable fue el bife de chorizo."
+    }, 
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Sibaris", 
+      "text": "A uno le gustan los comederos populares. Pero La Lechuza se pasa, supongo que por impostura \"for export\". Lo m\u00e1s parecido a la \"Pizzer\u00eda Los H... de P...\" de D\u00f3novan y General Chamizo. El tipo que nos atendi\u00f3, de pocas palabras y menos pulgas. La carta ten\u00eda una oferta exigua, pero aun as\u00ed, no hab\u00eda m\u00e1s de la mitad de las cosas. Terminamos comiendo unos ravioles (buenos) con crema de leche. Cuando llegaron nuevos comensales, todav\u00eda nosotros comiendo, el tipo nos sac\u00f3 la panera y el queso rallado (todo a medio consumir) y se los dio a ellos. Una experiencia ins\u00f3lita, risue\u00f1a dir\u00eda."
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lupulina", 
+      "text": "El lugar es evindentemente un cl\u00e1sico. A esto lo acompa\u00f1a una cocina con gusto casero que se disfruta mucho. Buen lugar para volver a comer platos caseros. La atenci\u00f3n puede resultar un tanto lenta.\r\nSecreto: si vas a almorzar pregunta siempre por el plato del d\u00eda."
+    }, 
+    {
+      "date": "28 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eva77", 
+      "text": "Muy buenos los platos, aunque a veces tardan o llegan a destiempo. Buena la calidad de la carne. Muy bueno el ambiente de cantina. Relaci\u00f3n calidad/precio inmejorable. Un cl\u00e1sico."
+    }, 
+    {
+      "date": "6 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "joma", 
+      "text": "es una clasica cantina o mas bien bodegon con menu acotado a parrilla, pastas y pescado pero el due\u00f1o, pedro, esta abierto a pedidos especiales, por lo que hemos comido ostras, gambas al ajillo, almejas gratinada, cochinillos, ni\u00f1os envueltos en repollo, etc. etc. a precios humanos y excelente atencion en familia. muy recomendable."
+    }, 
+    {
+      "date": "1 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lumpa", 
+      "text": "Bodeg\u00f3n con precios muy convenientes y atenci\u00f3n de primera. Decoraci\u00f3n ecl\u00e9ctica y plagada de detalles farandulescos. Muy recomendable!"
+    }, 
+    {
+      "date": "26 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "curupa", 
+      "text": "Excelente ambientaci\u00f3n, como los restaurantes de barrio de hace a\u00f1os, atendido por Pedro, el due\u00f1o, lo que le da un toque familiar especial."
+    }, 
+    {
+      "date": "8 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "tomeu", 
+      "text": "Hacia a\u00f1os que no comia tan bien por tan poco. Bodegon con onda altamente recomendable. Una relacion calidad-precio inusual. Platos de siempre bien hechos. Comimos 4 hombres desde entrada a postre con vino a 45 pesos. Bien atendidos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "millasorel1", 
+      "text": "Voy siempre y nunca falla. Si van no pueden dejar de probar la entra\u00f1a, siempre es increible y la sacan en el punto justo. Las papas fritas no me gustan mucho porque son papas espa\u00f1olas, no de baston, pero es un detalle. El vino es un desastre como todo bodegon. Pero la carne, que es lo mas importante, es espectacular. No hacen reserva y los fines de semana hay que esperar por una mesa. Ir temprano."
+    }, 
+    {
+      "date": "23 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "maet", 
+      "text": "Excelente la comida !!!! Es un bodeg\u00f3n en Palermo Soho al cual se puede ir solo  si se quiere comer bien y  no se t ienen pretensiones con el lugar . Super recomendableeee !!!!"
+    }, 
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "NTCH", 
+      "text": "Es muuuy rico y nunca me defraud\u00f3. Se come excelente, las porciones son generosas."
+    }, 
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lingalinga", 
+      "text": "Excelente la carne, muy buenos precios, encantador ambiente, buena carta de vinos. Buena atencion. Muy recomendable, si tengo que hacer una peque\u00f1a critica diria que es un poco ruidoso si uno esta en el fondo pero es un detalle"
+    }, 
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pichili", 
+      "text": "es un lugar excelente, buena atencion, buena comida, y el mejor precio, ya no se encuentran lugares asi en el barrio de palermo, recomiendo que vayan, si van a comer carne, el bife y la entra\u00f1a son lo mejor, si prefieren el pescado, una merluza al roquefort con papas al natural, todo al horno con crema (espectacular) y si comen pastas, los raviolones de verdura o los fucille con salsa de albondigas son un espectaculo, las ensaladas tambien, todas frescas y abundantes, el mejor lugar, con el mejor due\u00f1o! Pedro, un hombre espectacular"
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sagan", 
+      "text": "Fui varias veces, siempre como bien, sobre todo lo que es parrilla. El lugar tiene una  buena ambientaci\u00f3n, conserva aspectos tipicos de una parrilla familiar de barrio."
+    }, 
+    {
+      "date": "25 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "NTCH", 
+      "text": "Fui varias veces, prob\u00e9 las merluzas, el bife de chorizo, las pastas. Todo excelente. Todo casero y con un sabor \u00fanico. Muy recomendable, adem\u00e1s de ser barato por lo que ofrece. IDEAL para ir con amigos por su ambiente."
+    }, 
+    {
+      "date": "8 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DiegoPonti", 
+      "text": "Bodeg\u00f3n incre\u00edble. Tanto la atm\u00f3sfera como los platos y la decoraci\u00f3n hacen recordar a alg\u00fan platillo casero que se hac\u00eda en casa. Los sabores de la ni\u00f1\u00e9z vuelven a presentarse.\r\nLos fuccili al fierrito con alb\u00f3ndigas estaban incre\u00edbles y el tama\u00f1o de la porci\u00f3n daba para compartir.\r\nLa atenci\u00f3n de Pedro (el due\u00f1o) siempre est\u00e1 presente.\r\nHaber tenido a Pietro Sorba comiendo en la mesa contigua a la m\u00eda es un sello ineludible de que en La Lechuza se come bien y rico.\r\nMuy recomendable."
+    }, 
+    {
+      "date": "3 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tanco", 
+      "text": "Hasta ahora, la mejor relaci\u00f3n precio/calidad de Buenos Aires."
+    }, 
+    {
+      "date": "8 Sep 0012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andreseg", 
+      "text": "Fui varias veces y hay platos ricos y econ\u00f3micos. Puntos a tener en cuenta: en el sal\u00f3n principal te llen\u00e1s de olor a comida; si vas al sal\u00f3n lateral el moz@ es un desastre mal.Se olvida de pasar, los pedidos, hay que esperar que se acuerde de ir a ver. Dan ganas de gritarle y es casi c\u00f3mica la situaci\u00f3n, pero es real!"
+    }
+  ]
+}

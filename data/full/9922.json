@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Marimonda", 
+      "text": "Fuimos con un cupon de descuento y no cumplieron con lo ofrecido. La parrillada para 4 era para 2 y sin hambre. La carne parec\u00eda recalentada. No es una parrilla y  muy lejos de ser un lugar recomendable. Si no pueden ofrecer un buen servicio que no lo oferten. Pedimos adem\u00e1 un plato de la carta no fue distinto. Seguro no volvemos."
+    }, 
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "trueno1974", 
+      "text": "la atencion malisima un solo mozo para un domingo donde tuvimos q esperar una hora para q nos atiendan la mesa no estaba en condiciones y no nos trajeron servilletas... pedimos una parrillada donde lo q te sirven come una persona sola y en la cual entra en la parrillada solmente asado vacio y chorizo... en verdad no lo recomiendo la carne mala la atencion mala y el lugar pesimo"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CuocoMagri", 
+      "text": "Excelente parrilla. Buen vino."
+    }, 
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jenny_d", 
+      "text": "Me encanta el restaurant, una nueva opci\u00f3n en la zona. Super buena calidad en las comidas aunque deber\u00edan mejorar la atenci\u00f3n cuando se trata de una mesa de muchas personas.\r\nExcelente todo lo dem\u00e1s!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lifeisgood", 
+      "text": "Excelente calidad de la carne, ambiente muy tranquila y el mozo super super atento!"
+    }, 
+    {
+      "date": "9 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lifeisgood", 
+      "text": "excelente lugar!! buena onda y comida de primera calidad!!"
+    }, 
+    {
+      "date": "5 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ivo Giuliano ", 
+      "text": "Riquisima comida y muy buena atenci\u00f3n.\r\nLo mejor de la zona sin dudas."
+    }, 
+    {
+      "date": "11 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pipistrella", 
+      "text": "Fuimos a festejar mi cumplea\u00f1os y nos atendieron super bien, la carne de primera calidad!, super tierna y a punto como habiamos pedido!, quedamos muy conformes y vamos a volver!! \r\nFaltaba un lugar as\u00ed en San Justo."
+    }
+  ]
+}

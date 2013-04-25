@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "1 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pranda", 
+      "text": "La comida es normal y barata, pero el lugar......:(\r\nMalisimo, adentro hay tres mesas, si hace frio sonaste, la camarera deja la puerta abierta y comes congelado."
+    }, 
+    {
+      "date": "5 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "erikamaria", 
+      "text": "Es mi delivery preferido: almuerzos de excelente calidad, variados, a buen precio.\r\nHe pedido de todo, pastas, pescado, milanesas, ensaladas, sandwichs, tortillas, todo 10 puntos.\r\nDelivery de gran calidad, variedad, rapidez y buen precio."
+    }, 
+    {
+      "date": "14 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "melissapalao", 
+      "text": "$20 sin postre. No hay carta de postres.\r\nLa comida es muy buena, pero la ambientaci\u00f3n (dentro del restaurant, no en las mesas de afuera) es pat\u00e9tica, el olor a comida es demasiado intenso, uno se va con olor a frito en la ropa, y se escuchan los golpes (a las  milanesas supongo) constantemente, demasiado fuerte.\r\nLa comida es muy sabrosa, y los precios son coherentes. El secreto ser\u00e1 no sentarse adentro, si no en las mesas de afuera, lejos de los ruidos y los olores de adentro (donde hay 4 mesas en un espacio de 2 x 3m). Para ir a almorzar, es una buena opci\u00f3n."
+    }, 
+    {
+      "date": "4 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "FJSan", 
+      "text": "Comida para almozar cuando est\u00e1s por la zona y quer\u00e9s gastar poco.\r\nOfrecen una opciones variadas pero el resultado deja bastante que desear.\r\nEs barato pero no es buena la relaci\u00f3n precio producto.\r\nEs muy lindo comer en la vereda mas en primavera que en verano porque el barrio al ser tan tranquilo es muy relajante.\r\nLes recomendar\u00eda poner m\u00e1s atenci\u00f3n en la preparacion de los platos y en la atenci\u00f3n."
+    }, 
+    {
+      "date": "8 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ManJean", 
+      "text": "Almorzamos casi siempre en este restaurante al mediodia, ya que ofrece un menu diario, con propuestas variadas, economicas y ricas. Mantiene una calidad buena de comida siempre.\r\nEl lugar es chico, pero tiene mesas en la calle, que es muy agradable comer en la vereda.\r\nNo es un restaurante muy fancy, ni para ir a cenar especialmente ahi, pero es una muy buena opcion para los mediodias."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablom", 
+      "text": "Se come muy bien. Yo voy muy seguido porque trabajo cerca. Tiene mucha variedad de platos y todos buenos. Se puede comer sano y a un buen precio. Cosa que no es facil de encontrar. \r\nLa atencion es muy buena."
+    }, 
+    {
+      "date": "9 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lionsoft", 
+      "text": "Muy buena comida. Atiende las mesas una sola chica pero es muy simpatica y piola. Almuerzo casi todos los mediodias, porque el barrio es muy tranquilo como para comer al aire libre. Tiene men\u00fa ejecutivo (2 o 3 platos por d\u00eda) y se puede cambiar la guarnici\u00f3n sin problemas."
+    }, 
+    {
+      "date": "23 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "santiagoblanco", 
+      "text": "Muy buena la comida."
+    }
+  ]
+}

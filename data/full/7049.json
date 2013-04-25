@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "23 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RoxanaC", 
+      "text": "Este restaurante nunca nos ha fallado. La atenci\u00f3n es muy cordial, atentos para complacer los m\u00ednimos deseos de los comensales. La moza: fenomenal! Fuimos en familia y, adem\u00e1s de el rico sabor de los platos que pedimos, la cuenta fue razonable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "GapManArg", 
+      "text": "un cl\u00e1sico en San Miguel, el lugar a simple vista no es la gran cosa pero debo destacar en los otros puntos se gana lo faltan te en decoraci\u00f3n.\r\nla Moza muy educada y atenta en todo momento\r\nped\u00ed un Pacu el cual estaba excelente y la salsa era acorde a este.\r\nCarta variada pero con lo que uno siempre quiere pedir.\r\nPara ir varias veces"
+    }
+  ]
+}

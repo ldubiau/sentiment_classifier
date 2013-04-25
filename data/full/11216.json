@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "miguelbduffy", 
+      "text": "Muy buena atenci\u00f3n. Comimos unas empandas de lomo increibles, una pizza normal y una especie de cramble de manzana con helado espectacular!. La atenci\u00f3n muy buena. Poco ruido. Para recomendar."
+    }, 
+    {
+      "date": "15 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Michifus_39", 
+      "text": "Lugar muy agradable, con buena atencion y muy buenas las pizzas. Buenos ingradientes rica muzarela, muy buena la panera. Los precios muy razonables excelente la proporcion precio servicio calidad. Lugar para volver. Lo mejor en la zona sin dudas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Yune", 
+      "text": "Es ideal para ir tanto con amigos, como en pareja.\r\nLas pizzas individuales, chicas y grandes se pueden pedir combinadas de distintos sabores. \u00a1Espectaculares!\r\nLas empanadas, un manjar.\r\nLa atenci\u00f3n muy, pero muy buena.\r\nSeguramente volveremos.\r\n(No opino sobre carta de vinos porque no tomo)"
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fschlim", 
+      "text": "Excelente. La atenci\u00f3n es muy eficiente y veloz. El ambiente es espacioso, muy agradable y bien climatizado. La comida en su punto, todo al mismo tiempo y sin equivocaciones. Un nuevo cl\u00e1sico"
+    }
+  ]
+}

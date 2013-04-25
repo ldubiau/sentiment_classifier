@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "25 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Cakerman", 
+      "text": "La relaci\u00f3n precio-calidad no cierra en ningun momento. Est\u00e1 orientado a turistas me parece. No lo recomendar\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Augusto_M", 
+      "text": "Buena comida, rica y abundante, aunque nada del otro mundo. Algo caro para la zona y la ambientaci\u00f3n que tiene."
+    }, 
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "toscana", 
+      "text": "he comido en varias oportunidades,es comida sencilla,nada pretenciosa,las porciones son generosas y la materia prima es de buen nivel.Comida sencilla y segura a un precio razonable.Volvere"
+    }
+  ]
+}

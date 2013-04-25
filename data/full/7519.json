@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "5 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "edman", 
+      "text": "un desastre. La carne suele estar marcada, mala calidad de mercaderia. Precios excesivos por lo que ofrecen. Opte por una entrana. En la carta figuraba a $70. me parecio logico. Cuando la traen eran dos cintitas de carne. cuando reclame me dijeron que en realidad era media porcion. Letra chica indecifrable. En resumen con la locura que me agarro, pague y me fui."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ppppppp", 
+      "text": "fui con amigas el jueves en la noche,tienen una pergola tipo quincho muy agradable y calefaccionada,el servicio fue rapido y cordial la carta de parrilla si bien es acotada la calidad de los productos es muy buena,las papas fritas caseras y los postres recomiendo que pruben la torta de brownie y el chesscaque con salsa de frutillas muy bueno"
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Laurakis", 
+      "text": "La parrilla no es mi rubro preferido, fui invitada a este lugar por otras personas y la verdad es que me encant\u00f3. la carne de muy buena calidad y bien cocida, los chinchulines espectaculares y los postres muy abundantes, y un buen salad bar (con pocas opciones pero todas riqu\u00edsimas). el mozo, amable pero no cargoso. seg\u00fan nos dijeron pronto van a remodelar por entero el local. ah, y para destacar, el pan casero de las paneras espectacular!"
+    }
+  ]
+}

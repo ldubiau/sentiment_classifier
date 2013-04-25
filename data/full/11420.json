@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "12 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bento", 
+      "text": "La comida rica, de buena calidad pero para la zona es caro. No es Kansas pero es un buen intento. Malo el servicio."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "barsa", 
+      "text": "Muy buen lugar,parecido a kansas,para la zona de lo mejor,buena comida,buena atencion y bien puesto,recomendable."
+    }
+  ]
+}

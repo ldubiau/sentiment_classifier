@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "18 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hoadar", 
+      "text": "Excelente la pizza de fugazetta. La Napolitana normal"
+    }, 
+    {
+      "date": "16 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sergiogr78", 
+      "text": "La pizza rica, bien crocante, la atenci\u00f3n normal. Voy a probar el delivery tambi\u00e9n."
+    }, 
+    {
+      "date": "19 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "abrana", 
+      "text": "Se come bien, lastima q es chico el local"
+    }, 
+    {
+      "date": "5 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "surfer83", 
+      "text": "Las pizzas de Los Maestros son espectaculares, sobre todo al molde. El precio esta un poco por sobre el resto de las pizzerias, pero vale la pena. La unica gran desventaja en esta sucursal es la proximidad de las mesas."
+    }, 
+    {
+      "date": "22 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "msole18", 
+      "text": "La pizza es muy rica, yendo a comer al local la atencion es muy buena. Solo una vez pedi por delivery y la pizza no parecia igual, habra que probar de nuevo."
+    }, 
+    {
+      "date": "25 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "megf26", 
+      "text": "El lugar es muy chico, pero las pizzas y empanadas son muy buenas y es bastante econ\u00f3mico."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jloleo", 
+      "text": "La pizza es excelente. Pedimos a domicilio, se confundieron con el pedido pero tal como est\u00e1 escrito en las cajas, compensaron el error con una pizza de regalo. Muy recomendable y de muy buena calidad."
+    }
+  ]
+}

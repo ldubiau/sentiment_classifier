@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "10 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Willyspeed11", 
+      "text": "Muy buena la comida! esmerada atenci\u00f3n"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "carloscantore", 
+      "text": "Es como ir a comer a la casa de unos familiares que atienden bien a los suyos. La calidad de la carne nunca falla, tampoco para delivery. Si bien el lugar el chico y estas comiendo en una calle de caballito mucho lujo no encontras pero si la calides y esmerada atencion de Dante y los suyos. En definitgiva, si te pinto una rica parrillada y estas cerca no lo dudes. Pero no deje de tener en cuenta que es una tipica parrilla de barrio o sea excelente carme pero cero lujo o glamour. Si estas en un dpto y no tenes parrilla es la mejor opcion."
+    }
+  ]
+}

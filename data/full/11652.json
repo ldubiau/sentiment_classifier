@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "6 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "gertab1", 
+      "text": "Eramos 4 amigos, aclaro que con un cup\u00f3n de descuento. La entrada de empanadas, buena. Las fritas y ensalada, buenas. Pero la parrilla regular. Nada se destaca y solo ten\u00eda ri\u00f1on, chinchulin, pollo, tira y un pedacito min\u00fasculo de vac\u00edo. No la recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "hernanpas", 
+      "text": "La comida est\u00e1 bien, el asado estaba tierno y el matambrito a la pizza bien hecho. Las porciones son normales. Nos atendieron bien y relativamente r\u00e1pido. Pedimos una cerveza de litro. El total fue de $120, pero nos hicieron el descuento con la cuponera de la gu\u00eda oleo y nos sali\u00f3 $89.\r\nEl lugar no es super lindo, pero est\u00e1 bien para comer algo al mediod\u00eda un d\u00eda de semana."
+    }, 
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "eliaenlle", 
+      "text": "El lugar es muy sencillo; no tiene calefacci\u00f3n. La carne (parrillada) es muy buena. El asador muy bueno."
+    }
+  ]
+}

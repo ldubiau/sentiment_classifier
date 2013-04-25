@@ -1,0 +1,116 @@
+{
+  "buenos": [
+    {
+      "date": "29 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "HeavenLeigh", 
+      "text": "Muy lindo lugar. Toda la gente muy atenta. Ideal para una velada rom\u00e1ntica o con amigos. No lo recomiendo para ir con chicos."
+    }, 
+    {
+      "date": "2 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "explicator", 
+      "text": "Buena la comida, aunque el pollo estaba un poco seco. \r\nEl solomillo estaba excelente.\r\nEl lugar es muy lindo y la atenci\u00f3n es muy buena aunque hac\u00eda algo de fr\u00edo, faltaba calefacci\u00f3n."
+    }, 
+    {
+      "date": "10 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "manhattan", 
+      "text": "Tomamos el te con masitas con una excelente ambientaci\u00f3n de \u00e9poca.\r\nLa atenci\u00f3n es muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GustavoAle", 
+      "text": "El lugar es muy lindo. Se han esmerado en la atenci\u00f3n.\r\nTodos los platos fueron muy bien preparados y han sido exquisitos. Deber\u00edan corregir la atenci\u00f3n de las meseras que desconocen ciertas normas m\u00ednimas referentes al servicio de bebidas y de cubiertos, como as\u00ed de los tiempos entre platos."
+    }, 
+    {
+      "date": "18 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "solilu", 
+      "text": "En la entrada nos esperaban para el servicio de valet parking, lo que agreg\u00f3 tranquilidad a nuestra cena. \r\nEn el interior, una ambientaci\u00f3n muy agradable con la iluminaci\u00f3n justa, buena m\u00fasica, aunque muy fuerte por momentos.\r\nLos platos son presentados con dedicaci\u00f3n y con logrado sabor. \r\nSe sugiere compartir, ya que los platos son generosos. El escenario es ideal para una buena celebraci\u00f3n."
+    }, 
+    {
+      "date": "6 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sofi2", 
+      "text": "Me encant\u00f3 el lugar, super tranquilo, excelente la comida y la atenci\u00f3n. Fu\u00ec varias veces con mi esposo y la \u00faltima vez fuimos con otra pareja que quedaron encantados por el lugar.\r\nRealmente es para recomendar."
+    }, 
+    {
+      "date": "19 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "paulaalv", 
+      "text": "Muy buen ambiente y atenci\u00f3n. Muy tranquilo."
+    }, 
+    {
+      "date": "12 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pafra", 
+      "text": "La presentaci\u00f3n de los platos y las porciones son \u00f3ptimas."
+    }, 
+    {
+      "date": "12 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "limazo", 
+      "text": "La ambientaci\u00f3n y el espacio entre mesas, da un toque acogedor, permitiendo la intimidad."
+    }, 
+    {
+      "date": "13 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ama_lamu", 
+      "text": "La comida y el servicio son muy buenos y el lugar es realmente bonito."
+    }, 
+    {
+      "date": "2 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "avilchez", 
+      "text": "Muy lindo lugar, con excelente comida y trato familiar."
+    }
+  ]
+}

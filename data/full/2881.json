@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "31 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "majis", 
+      "text": "Una experiencia realmente lamentable. Esta gente de gastronom\u00eda no tiene la mas m\u00ednima idea. Todo lo que comimos adem\u00e1s de s\u00faper escaso muy pero muy malo. Tienen 8 platos y ni siquiera eso saben hacer. La parrilla es de gas lo que le da un espantoso gusto a la carne. Jam\u00e1s volver\u00eda a ir."
+    }, 
+    {
+      "date": "20 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Sibaritano", 
+      "text": "Un lugar sin gente, sin onda y muy caro por lo que propone. T\u00edpica escenograf\u00eda para enga\u00f1ar a turistas desprevenidos.\r\nLos platos son caros y diminutos. El lugar est\u00e1 ambientado con recortes de diarios colgados, y remeras de polo. No pienso volver."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "gaia07", 
+      "text": "Me encant\u00f3 la onda del lugar, super agradable y los diferentes salones y el patio andaluz. Me gust\u00f3 la idea de juntar espacio de arte, de historia del polo con la gastronomia. La comida muy buena en relaci\u00f3n a los precios."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "shake", 
+      "text": "Me gust\u00f3 la propuesta por ser diferente. Soy polista y est\u00e1 muy bien la informaci\u00f3n y el museo. La comida es buena y la atenci\u00f3n esmerada. Tiene un patio muy lindo para fumadores."
+    }, 
+    {
+      "date": "16 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "stardust", 
+      "text": "Muy buena atenci\u00f3n en un restaurante tem\u00e1tico con un ambiente interesante y muy buena atenci\u00f3n. Un lugar para volver."
+    }, 
+    {
+      "date": "11 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jart", 
+      "text": "Es lugar muy intimista, sobrio y aun que no soy gustoso del polo me sent\u00ed c\u00f3modo tiene un patio andaluz alejado de los ruidos y la atenci\u00f3n es buena. La comida es rica pero no abundante, los precios son l\u00f3gicos para el lugar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "zari", 
+      "text": "Me gust\u00f3 mucho la comida, platos abundantes y muy bien presentados. El lugar con una onda diferente en cada ambiente. La atenci\u00f3n sobria y atenta. Recomendable."
+    }, 
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Josefina_Cav", 
+      "text": "El lugar es lindo, la comida es buena y el servicio muy amable. \u00bfQu\u00e9 m\u00e1s puedo decir? \u00a1Vuelvo!"
+    }, 
+    {
+      "date": "1 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jorge_ne", 
+      "text": "Disfrut\u00e9 de una muy buena cena."
+    }
+  ]
+}

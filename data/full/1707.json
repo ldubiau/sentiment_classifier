@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "13 Oct 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maximil7", 
+      "text": "Voy todos los d\u00edas, un fast food gourmet a precios de regalo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "g_spatz2", 
+      "text": "Lejos, los mejores sandwiches de esa zona a ese precio!!!"
+    }
+  ]
+}

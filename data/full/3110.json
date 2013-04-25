@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "13 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maria_Nelli", 
+      "text": "La comida es muy rica, tambien la atencion y el ambiente. Fuimos 4 grandes y un nene chico. Pedimos una parrillada para 6, todo muy rico, mas ensalada completa (tiene de todo), mas papas fritas, mas 4 postres y 2 gaseosas de 1,5 lt. Pagamos 200 pesos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lobsang", 
+      "text": "Lejos, la mejor entra\u00f1a que prob\u00e9... y la fritas son imperdibles, distintas a todas. para coronar la panzada, un flan con dulce de esos que te hacen acordar a tu abuela... jajajaja"
+    }, 
+    {
+      "date": "14 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanalaloca007", 
+      "text": "Excelente calidad de productos, notablemente frescos, muy buena atenci\u00f3n, 100 recomendable."
+    }, 
+    {
+      "date": "1 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nandin", 
+      "text": "un lugar muy agradable de ambiente familiar la calidad de la comida es muy buena y los mozos muy buena onda"
+    }
+  ]
+}

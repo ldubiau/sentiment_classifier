@@ -1,0 +1,978 @@
+{
+  "malos": [
+    {
+      "date": "11 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "MarianoPadilla", 
+      "text": "La verdad que coincido con otro usuario, este lugar es mas bien un bar!!! un lugar para disfrutar un buen vino y comer algo al paso!!! Fui a cenar pero la verdad la comida no me conformo derl todo!!! el servicio correcto hasta ahiii algo descuidado!! mucha gente dando vueltas pero poca atencion al cliente!! volvere solo si tengo ganas de tomar un vino que no lo encuentre en otro ladooo!!!!!"
+    }, 
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "WENGER", 
+      "text": "nunca mas volvemos"
+    }, 
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "dnp", 
+      "text": "Muy lindo el lugar, y excelente la carta de vinos. La somelliere realmente sabe de lo que habla y puede recomendar muy bien. Ahora bien, la comida en si no esta buena. No puedo creer que descuiden tanto ese aspecto cuando todo esta tan bien puesto. Carta poco inspirada, platos extremadamente basicos y caros. Es una pena por que en todo lo demas va muy bien pero no lo puedo recomendar mas que para tomar un buen vieno."
+    }, 
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "PabloArgentina", 
+      "text": "Teniamos reserva a las 22hs, llegamos y nos dijeron que teniamos que esperar 15 minutos. En la barra tomamos un vino y un plato de queso muy escaso y de no buena calidad. A las 23:30 nos fuimos porque nunca nos dieron la mesa. Una verguenza, no vuelvo nunca mas y no lo recomiendo para nada."
+    }, 
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "jm2009", 
+      "text": "El servicio es un desastre. Reservamos a las 22, cuando llegamos nos dijeron que teniamos que esperar 15mins y que la primera mesa que se desocupe era para nosotros.\r\nA las 23:30 todav\u00eda estabamos esperando. Cuando vimos que sentaron a otra mesa antes que nosotros nos fuimos. Encima la metre se hacia la ofendida porque nos enojamos cuando me minti\u00f3 en la cara 3 veces diciendome que la primera mesa era para nosotros.\r\nUna verguenza."
+    }, 
+    {
+      "date": "19 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "La Forette", 
+      "text": "Un lugar muy bien puesto, con aires neoyorquinos y una propuesta original en cuanto a los vinos. Hasta aca lo que tiene de bueno. \r\nLa atencion fue increiblemente mala. Estuvimos esperando mesa en la barra media hora y tuvimos que suplicar x que nos prepararan unos tragos. La carta de comida no sorprende ni x original ni x ejecucion. Carece de identidad. Comi milanesa con papas rosti y una sopa de entrada. Todavia no entiendo como pague 300 pesos x persona. Pedi la sopa de berros tibia y vino caliente como para quemarse.  Necesitan hacer muchos ajustes."
+    }, 
+    {
+      "date": "15 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "mr_olias", 
+      "text": "como restaurant no me gusto. Es pretencioso y no logra llenar las expectativas (al menos las mias y la de la gente que fue conmigo).\r\nEs muuuuuuuuy ruidoso. \r\nPara After Office, lo voto, pero a cenar, a otro lado."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "ilure", 
+      "text": "Atenci\u00f3n y ambiente excelentes. Por los comentarios de la Gu\u00eda fui a probar el brunch. Con una amiga, pedimos un brunch y un sandwich. El brunch abundante pero casi incomible (l\u00e1minas de peceto secas, papas r\u00f6sti quemadas; la omelette pasable). El sandwich de salm\u00f3n: el peor de mi  vida -y eso que com\u00ed muchos porque es mi preferido-. La focaccia muy gruesa, carbonizada en ambos lados, con poco salm\u00f3n muy condimentado. Bien por el personal que ofreci\u00f3 cambiar el plato. De todos modos, $ 223 para 1 brunch, 1 sandwich y 1 trago,  es muchisimo!"
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "milagrosanchorena", 
+      "text": "La est\u00e9tica del lugar me encanto, el servicio no acompa\u00f1a la propuesta. Ped\u00ed el plato de cordero, era mediocre. No era lo que uno espera al pedir un cordero, la carne no estaba cuidada. Era solomillo de cordero, yo esperaba gigot, un costillita y nada. Mis acompa\u00f1antes tampoco encontraron creatividad en sus platos."
+    }, 
+    {
+      "date": "9 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "dickiegreenleaf", 
+      "text": "Despu\u00e9s de frecuentar un par de veces el lugar para almorzar -y aportando buena voluntad para, cada vez, disculpar 'peque\u00f1os errores-; y teniendo en cuenta que el sitio cuenta con un gran marketing, y una decoraci\u00f3n esmerada, fuimos un grupo de amigos sibaritas y yo a cenar hoy a la noche. Todo fue un gran desacierto: camareros inexpertos, los platos tra\u00eddos sin ning\u00fan tipo de orden, comidas que no fueron comandadas, el chef viniendo a disculparse en repetidas ocasiones (y \u00a1hasta a alcanzarnos en un plato separado las hierbas con las que no hab\u00eda sazonado al salm\u00f3n que en lugar de entrante termino siendo postre!)... Despu\u00e9s de lo cual el due\u00f1o se acerco a la mesa y nos ofreci\u00f3 como gratificaci\u00f3n convidarnos con los postres (reales), los cuales fueron puntualmente cobrados cuando llego la adici\u00f3n... Para rematar: en un sitio cuyo estandarte son los vinos, el rosado que elegimos no estaba sino a temperatura ambiente. Una decepci\u00f3n muy cara, por cierto."
+    }, 
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "mkassabchi", 
+      "text": "Fui impulsado por la posibilidad de tomar vino de alta gama a precio de vinoteca y por un comentario de planeta joy acerca del plato que termine pidiendo, que no me gusto. Si bien al principio se ofrecieron a no cobrarmelo y a reemplazarlo por otra cosa, yo dije que no tenia inconveniente en pagarlo ya que es un tema subjetivo pero ante la insistencia del encargado pregunte si tenian tabla de quesos y dije que con una peque\u00f1a porcion no mas de cuatro bocados me consideraba \"resarcido\"; terminaron cobrandome un 40% mas que el plato original que habia pedido lo que me parecio una tomadura de peo"
+    }, 
+    {
+      "date": "10 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "droly", 
+      "text": "Fui por segunda vez y me dieron cordero  recalentado. Por lo que cobran deber\u00edan dar mejor de comer"
+    }, 
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ROSAMEL", 
+      "text": "Es una vinoteca que complementa su negocio con un restaurante, la comida regular y cara para lo que ofrece, que cobre un ?side?: papas rosti 26 $ es un desprop\u00f3sito.Cobran cubierto y caro por una panera y un dip mediocre. Lo \u00fanico rescatable fue la torreja aunque el exceso de dulce y crema la enmascaran. Servicio: la recepcionista un desastre, la moza puso todo su esfuerzo y salvo la noche.2 principales, 1 postre, 2 caf\u00e9s, 1 agua: 320 $ no lo vale (no inclu\u00ed el precio del vino que fue adecuado)\r\nLa estrella es el VINO, tienen una lista enorme a precios interesantes.Vayan a comprar vino, a cenar decididamente No."
+    }, 
+    {
+      "date": "21 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "MalenaMarilyn", 
+      "text": "El lugar en cuanto a la decoraci\u00f2n y el ambiente vale la pena conocerlo. La comida me parece regular. Hay platos sencillos que tienen que estar bien hechos: una milanesa no puede ser de carne dura, una pechuga de pollo no puede estar recocida. Las torrejas de postre no tienen ninguna gracia. Urgente deben mejorar la comida sino   van a perder los clientes o circunscribirse a solamente un lugar para tomar vino."
+    }, 
+    {
+      "date": "30 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Tuks", 
+      "text": "Si bien es una vinoteca, de las tres primeras etiquetas de la carta de vinos que pedimos, no ten\u00edan ninguna. Reci\u00e9n al cuarto vino solicitado (bah, se\u00f1alado de la repisa) ten\u00edan stock.\r\nLas entradas estuvieron  muy bien, no asi los principales, 4 personas de la mesa pidieron pastas que estaban bien sin ser nada espectacular y tres pedimos el cordero que dej\u00f3 mucho que desear por venir templado y cero sabroso (m\u00e1s que braseado en vino tinto, parec\u00eda hervido en agua) La reducci\u00f3n de vino? Un caldo sin sabor...\r\nEl serivicio arranc\u00f3 bien, pero al momento que trajeron los principales desapareci\u00f3, de hecho la 2a botella de vino que pedimos, nos la trajeron luego de haber terminado los platos, razon por la cual la devolvimos. La sal para el cordero, reci\u00e9n la pudimos pedir terminando el plato."
+    }, 
+    {
+      "date": "14 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "AcidRain", 
+      "text": "Mucho vino, pero no hay con que acompa\u00f1arlo. Fuimos con un grupo por lo que pude probar todos los platos. Sin exagerar de lo peor que probe en los ultimos meses. Comida pasada, sin sabor, milanesas resecas y duras, pastas crudas, etc. Todos los errores cometidos en una sola cena. De los demas detalles (mantel de papel, mozos que se olvidan de las cosas, etc) mejor no hablar..."
+    }, 
+    {
+      "date": "8 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "semopessi", 
+      "text": "Lindo el lugar, muy bien logrado, buena la exposicion de los vinos, menos que le pedimos al sommelier un vino que despues result\u00f2 no tener, la comida pura pinta, nada de lo que prob\u00e8 estaba bien, el cordero sobrecocido el couscous qualquier cosa y la pasta con salvia no tenia sabor a nada. Mucha pinta y poca sustancia, Es una buena vinoteca pero esta lejos de ser un restauran. Es carisimo. No vayan"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "magadominguez", 
+      "text": "Muy buena carta de vinos, acortada carta de platos pero muy recomendables. Los vinos se encuentran a muy buen precio, probar el Risotto de Hongos y los Ravioles de Mascarpone."
+    }, 
+    {
+      "date": "26 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "silviasol", 
+      "text": "Ideal para tomar un buen vino al precio de vinoteca. La carta de comida ofrece poca variedad y los platos no son abundantes pero muy ricos. Altamente recomendable el volcan de chocolate. Cumple con lo importante, disfrutar un buen vino pagandolo sin pagar precios desorbitantes. El ambiente es excelente."
+    }, 
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Canuto", 
+      "text": "Fui por segunda vez para experimentar con el brunch de los domingos, para nada tentador y lejos de ser una verdadera propuesta de brunch, pasamos a la carta acotada y ademas no tenian todo lo que proponian, la atencion del personal muy buena, los platos todos bien presentados y ricos, lo lamentable es que tuvimos que abreviar la sobremesa debido al ingreso de un funcionario publico \"no amado\" y procesado con el que no quisimos compartir ningun espacio, muy desagradable.-"
+    }, 
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "daconta50", 
+      "text": "Un lugar para disfrutar, con excelente ambiente, comida buena aunque simple, y una carta (y existencia visible) de vinos apabullante. Comimos bien y disfrutamos la sobremesa, s\u00f3lo empa\u00f1ada por un personaje de la pol\u00edtica no muy \"amado\" que nos hizo decidir a seguir en otro lado. Pero, en serio, es un lugar muy recomendable."
+    }, 
+    {
+      "date": "13 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "InoFac", 
+      "text": "Guia deber\u00edas poner este reducto en la calificaci\u00f3n de Bares!!! la comida es un claro complemente que cumple, el verdadero atractivo es la inmensa variedad de vinos a unos precios excelentes y muy buena atenci\u00f3n!"
+    }, 
+    {
+      "date": "9 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lachina83", 
+      "text": "Fui a comer a Aldo's porque ya conoc\u00eda su bloody Mary y me sorprendi\u00f3. Una vez mas, el blloody Mary, sensacional, el mojito bueno, pero no compite con el BM, uno de los mejores de BA. La comida muy buena. Los precios mas que razonables y la carta de vino completisima y con muy buenos precios."
+    }, 
+    {
+      "date": "8 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Andyna", 
+      "text": "Me sent\u00e9 en la barra, la atenci\u00f3n del barman lamentable, el resto del personal, bastante amable, el lugar encantador, comimos un par de platos con quesos y la tarta de berenjenas con queso de cabra, muy rica. Mi\u00e9rcoles de jazz , en su tono justo y disfrutable, la caipiroska normal, el manhattan bueno. Eso si enfrente se debe haber sentado la Checa, ya que a esa se\u00f1ora el barman se desplaza x fuera de la barra para servirle mientras que a nosotros nunca nos sirvi\u00f3 ni una copa. El vino a esos precios sensacional.. volver\u00e9... a un lugar no lo hace malo una persona, el resto sensacional."
+    }, 
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mariobros", 
+      "text": "Un fiasco total en cuanto precio-calidad. Sandwich de r\u00facula y salm\u00f3n: $60; agua: $18. Cubierto: $15 (robo total esto \u00faltimo). Por eso m\u00e1s 1 jugo y una tarta chiquita de berenjena pagamos $185.- Absolutamente delirante. Se paga el ambiente snob con espejos pintados y botellas todo alrededor. No vuelvo m\u00e1s ni lo recomiendo. Con un poco m\u00e1s se come de verdad en la zona. El brunch m\u00e1s econ\u00f3mico cuesta de $95 para arriba + 15 del maldito cubierto."
+    }, 
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Winnie7774", 
+      "text": "fuimos 8 amigas para festejar el dia del amigo. todo fue excelente . la atencion de los camareros. los tragos. las entradas muy ricas , el plato del d\u00eda especular.ni hablar de la carta de vinos!!. muy recomebdale para ir con amigos o pareja."
+    }, 
+    {
+      "date": "17 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Munchausen", 
+      "text": "Esta es ya la 3ra vez que voy y con seguridad ser\u00e1 habitu\u00e9. Un lugar magn\u00edficamente puesto, se nota en la calidad del mobiliario acustizaci\u00f3n, audio, decoraci\u00f3n etc, pero la vedette es la variedad de vinos y la posibilidad de pagarlos a precio de viner\u00eda, incluyendo etiquetas que no se consiguen mucho. La carta de platos y postres podr\u00eda mejorar un poquito, pero es muy rico lo que com\u00ed hasta ahora. Los mozos son j\u00f3venes y tienen buena onda, pero un poco inexpertos y colgados. Parejas, amigos o trabajo, el lugar te va a hacer quedar muy bien y lo vas a disfrutar."
+    }, 
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "goldeneyebrow", 
+      "text": "Fui de noche. Muy muy bueno!\r\nAldo nos recibi\u00f3 en la puerta (un toque bastante simp\u00e1tico) y charlamos un rato mientras nos llevaban hasta nuestra mesa.\r\nEl lugar es muy lindo, de verdad. De los mas lindos de Buenos Aires. Vale la pena conocerlo. La comida es sencilla, aunque muy rica y muy bien preparada y presentada. Por supuesto que la carta de vinos es mas que buena.\r\nExcelente ambiente, excelente m\u00fasica. Todo superlativo. Solo un tema: habiendo tantos mozos, es raro que si no los llam\u00e1s no vienen. Deberian mejorar eso."
+    }, 
+    {
+      "date": "12 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "ladyclau", 
+      "text": "El ambiente agradable, la atencion buena . Menu : muy simplificado poca variedad y muy basicos platos elegi por descarte algo basico 1 lomo y una papa graten que estaba muy seca.\r\n Las entradas deberian ser mas variadas solo tienen bruscheta , 2 sopas , tarta y algo pareceido al calzone , me gustaria un poco mas variado. Los precios y variedaddel vino excelentes, sugiero que incorporen a la lista alguna grappa buena o lemonccelo que pedi y no habia cuando en argentina hay nacionales de muy buena calidad. Tmb  poner 1 valet parkg .Lo mejor del lugar es el lugar mismo ,la comida .... no me gusto"
+    }, 
+    {
+      "date": "22 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "chiquitalinda", 
+      "text": "Est\u00e1 muy bien puesto, la comida correcta y prolija (el carpaccio de salm\u00f3n en realidad es gravlax), el servicio bien pero se olvidaron de ofrecernos postres. Tragos correctos (s\u00e9 que es para vinos pero no se dio) Me pareci\u00f3 caro y ruidoso."
+    }, 
+    {
+      "date": "15 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Tyncho78", 
+      "text": "Ambientaci\u00f3n y decoraci\u00f3n excelentes. La comida es bastante standard. Buena carta de vinos. Atenci\u00f3n esmerada pero no lograda (o sea, serviciales pero no buenos en lo suyo). El lugar es pretencioso y ruidoso. No pod\u00edamos escucharnos en nuestra propia mesa de 4 personas por los gritos y exabruptos de la mesa contigua. Las mesas est\u00e1n demasiado pr\u00f3ximas unas de otras. Mucha gente onda new rich. No alcanz\u00f3 mis expectativas. Quiz\u00e1s como opci\u00f3n after office el lugar estar\u00eda perfecto, pero definitivamente NO para ir a cenar."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "LaToscana", 
+      "text": "Ellugar es hermoso. la bodega es realmente completa y esta muy bien armada. Parece un buen rest\u00f3 de nueva york. la cena estuvo bien. comimos risotto muy bueno y lasagna que podr\u00eda haber estado mejor.\r\nNos pareci\u00f3 que las mesas estaban demasiado juntas.\r\nvolveremos pero en plan de tomar un buen vino y comer algo sencillo."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "junchifavareto", 
+      "text": "El lugar es muy lindo por dentro, pero la cuadra, de noche, no ayuda. El menu es cortito y la comida fue sabrosa. Muy buena atencion."
+    }, 
+    {
+      "date": "8 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "PablitoNegro", 
+      "text": "Un lugar con una ambientaci\u00f3n excelente. La comida estuvo bien (buenas opciones)  y la oferta de vino excelente (carta larga con buenos precios).\r\n\r\nEl punto flojo es el servicio: Hab\u00edamos pedido un risotto. A los cinco minutos se acerc\u00f3 el mozo sugiri\u00e9ndonos pedir otra cosa porque el plato iba a demorar media hora. Cambiamos el pedido y tardaron casi una hora en traer los platos.\r\nEn t\u00e9rminos generales, los mozos no parecen tener una m\u00ednima formaci\u00f3n como para atender en un lugar donde terminamos pagando 200 pesos por persona. La \"Sommelier\" no tiene idea de lo que dice. \r\nPara conocer y listo."
+    }, 
+    {
+      "date": "29 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Canuto", 
+      "text": "despues de disfrutar  un agradable encuentro de nespresso, aprovechamos para cenar , el ambiente moderno, elegante con buena musica y muy cuidado en los detalles invitaba a quedarse, la carta es acotada con platos sencillos, nuestros \u00f1oquis con cordero muy ricos,buena carta de vino a igual precio que en una vinacoteca, nos obsequiaron una botella , el servicio atento y eficiente salvo una que\u00f1a demora para la mesa que ya estaba reservada ,tiene estacionemiento, no sugiero pedir la tabla de quesos muy basica. vamos a volver. que dificil es ecribir en esta pagina muy lento que pasa??s"
+    }, 
+    {
+      "date": "29 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Fui invitada por mi amiga Ceci de Palermo a una cata de Nespresso, y fue tentador quedarse a la cena. El lugar impecable, moderno, la atenci\u00f3n excelente, buena comida. Lugar que ya recomend\u00e9 sin ninguna duda"
+    }, 
+    {
+      "date": "28 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Dairi", 
+      "text": "Fuimos al mediod\u00eda un grupo grande y en general a la mayor\u00eda nos gust\u00f3.  Los platos que comimos estubieron bien, en mi caso lasagna de vegetales -aunque no hay gran variedad y los precios nos resultaron un poco caros.  La atenci\u00f3n buena y sobre todo se destaca por la buena ambientaci\u00f3n del  lugar."
+    }, 
+    {
+      "date": "9 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Milonguita", 
+      "text": "Nos habian comentado que los vinos estaban a precio de gondola, y asi fue. Pero me dio la sensacion de que los precios de los platos estaban muy caros, con porciones normales, nada guauuu. Pedi de guarnicion unas verduritas grilladas y no me resultaron, estaban duras y era pobre pobre. La atencion muy buena y la ambientacion muy top."
+    }, 
+    {
+      "date": "7 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablo1430", 
+      "text": "muy buneo y excelente ambientacion"
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ramsy", 
+      "text": "Excelente experiencia. Muy bien ambientado. Hasta una destacable ac\u00fastica. Comida gustosa y elaborada. Servicio atento. Y Dos valores agregados: uno impecable carta de vinos (en una tablet) al mismo precio que en una vinoteca (ojal\u00e1 otros lo copien!). Dos estacionamiento propio sin cargo cubierto. Para ir y volver y...."
+    }, 
+    {
+      "date": "24 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nanovich", 
+      "text": "No fui a comer, mas bien a tomar un vino rico tipo \"after office\". Muy muy buena ambientaci\u00f3n. Buen precio de los vinos, aunque comienzan en los $ 60. La comida me pareci\u00f3 cara, $ 65 por un plato con tres pedazos de queso fue exagerado. La atenci\u00f3n muy buena. Voy a volver."
+    }, 
+    {
+      "date": "13 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "meks", 
+      "text": "Lind\u00edsimo lugar, gran onda, buena m\u00fasica. La carta de vinos es muy amplia, a precios super accesibles. Se come muy bien, la atenci\u00f3n es amable (un poquit\u00edn despistados, pero buena actitud). Lugar para volver!"
+    }, 
+    {
+      "date": "10 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "AgustinF", 
+      "text": "El lugar esta muy bien puesto. La ambientacion esta muy buena, con la importancia en los vinos. Materiales de calidad. La carta no es nada del otro mundo pero bien preparada. Los precios de la carta estan un poco inflados la verdad por lo que son. Tienen mucho personal pero no te atienden como deberian y por la cantidad que son. Mucho personal! La ofeta de vinos es muy buena y a precio de vinoteca."
+    }, 
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "susutango", 
+      "text": "fuimos a cenar con mi marido, la comida riquisima, la ambientacion muy amena y la musica de muy buen gusto. Lo RECOMENDAMOS!!!"
+    }, 
+    {
+      "date": "7 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "davin", 
+      "text": "La carta de vinos es excelente y te presenta la oprotunidad de tomar un muy rico vino con tu comida a un precio real. Eso y el ambiente son los fuertes de este lugar. La comida es ok, rico pero no muy cuidado. Comi el rissoto de hongos, el sabor estaba bien pero el arroz casi crudo y no muy bien hecho. El servicio tambien fue una decepcion. Llegue primero y tenia que esperar 15 minutos solo hasta que me traian una carta, tambien fue que dificil que los mozos te daban bola. Con mejor atencion y comida mas cuidada seria un lugar para repitir varias veces"
+    }, 
+    {
+      "date": "12 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "patopantens", 
+      "text": "Fui al brunch del domingo y me gusto mucho. La atenci\u00f3n es esmerada y muy cordial. La carta es corta pero la verdad me convenc\u00eda mas de un plato. Voy a volver."
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bebas", 
+      "text": "Tiene onda, buena atenci\u00f3n, la comida nada del otro mundo pero los vinos!! Una cantidad de vinos m\u00e1s que atractiva!!! Es para ir a probar esa etiqueta imposible de pedir en un lugar que maneje precios de restaurante.\r\nProb\u00e9 un San Pedro de Yacochuya Malbec 2008; $130."
+    }, 
+    {
+      "date": "20 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "FranNeurologo", 
+      "text": "Excelente lugar!... Fui con mi novia y comimos un risotto con hongos (muy bueno) y un lomo con una salsa de vino tinto (muy bueno pero FRIO)... La ambientacion es la mejor que vi en BS AS... la carta de vinos es inigualable, la atencion de los mozos es muy buena (nos atendio una colombiana creo)...pero lo mejor es el tono de las luces y la musica de fondo... me encanto el lugar... me tome un vino pampeano que era de primera... medio caro para mi bolsillo pero volveria a ir sin duda... el cafe del final un buen Nespresso... gran lugar... VAYAN"
+    }, 
+    {
+      "date": "6 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Zaius", 
+      "text": "Interesante propuesta ya que no es un restaurante m\u00e1s como podemos estar acostumbrados. La cocina es prolija, el servicio amable y profesional. Los vinos son un capitulo aparte. En nuestro caso nos dejamos guiar por Adriana la sommeliere y pudimos disfrutar de un fant\u00e1stico o Montesco Parral. Recomendable lugar para disfrutar en pareja o amigos y pasarla muy bien bebiendo! Un excelente opci\u00f3n para meterse en el mundo del vino y ser bier recibido."
+    }, 
+    {
+      "date": "15 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "germanpuente", 
+      "text": "Siempre es un placer ir... Gran atenci\u00f3n, platos razonables y una carta de vinos estupenda. La ambientaci\u00f3n es muy agradables (maxime porque ultimamente han bajado un poco la luz) y los tragos realmente buenos."
+    }, 
+    {
+      "date": "21 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mysy", 
+      "text": "recomendable para tomar unos vinos a precio de vinoteca y picar algo.la comida no es para destacar, pedi osobuco braseado y no trae guarnicion.el servicio es desorganizado y la copa de despedida es solo para los amigos del \"jefe\".(vi que a la mesa de al lado le ofrecieron una copa de espumante luego de pagar, cuando pregunte me dijeron que eran amigos del jefe, a mi parecieron 4 turistas normales)"
+    }, 
+    {
+      "date": "8 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "qwerty2010", 
+      "text": "Lamentablemente tardaron demasiado para un almuerzo...\r\nComida corrrecta, buena propuesta de vinos, pero el menu ejecutivo para un almuerzo debe ser mas expeditivo y los servicios tambien."
+    }, 
+    {
+      "date": "6 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "maxych", 
+      "text": "El barrio esta en pleno crecimiento, el dia que fuimos estaba al 50%, habia movimiento, nos atendieron bien aunque no fue superlativo, lo mejor es sin duda la carta de vinos (ipad) y la ambientacion (no se el ambiente porque fui una vez solamente) me gusto bastante lastima que la carta de vinos sea tan buena pero el menu no este acorde."
+    }, 
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cauchito", 
+      "text": "El ambiente y la m\u00fasica de jazz del lugar lo tornan muy placentero. La comida es muy rica y la atenci\u00f3n de una de las personas, Agust\u00edn result\u00f3 particularmente esmerada. Quiz\u00e1s ser\u00eda interesante que Aldo, que  estaba ese d\u00eda d\u00eda en el restaurante se acerque a las mesas, aunque m\u00e1s no sea para alg\u00fan intercambio formal de palabras. En especial porque el d\u00eda en el que concurrimos no hab\u00eda tanta gente.\r\nPor otra parte es muy buena la opci\u00f3n de brunch, que incluye vinos por copas.\r\nEl ugar es el id\u00f3neo para una festejo muy especial"
+    }, 
+    {
+      "date": "20 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fugazza_rellena", 
+      "text": "Excelente propuesta gastron\u00f3mica escondida en uno de los polos tur\u00edsticos mas interesantes de la ciudad. Catalogar a este lugar es dif\u00edcil, porque es un muy buen restaurante y a su vez, una formidable vinoteca que distribuye mas de 500 etiquetas de vino, y los podes tomar en el lugar mientras comes, a precio de vinoteca y no de restaurante. La atenci\u00f3n excelente, nos atendi\u00f3 uno de los camareros Agust\u00edn, que supo asesorarnos a los 7 comensales , y supo orientarnos en los vinos. La comida, muy buena. RECOMENDACI\u00d3N: Probar el Jean Bousquet, Chardonnay 2009, Escandaloso blanco!!!"
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fer4470", 
+      "text": "Estuve un viernes al mediodia con gente que nos gustan los vinos y me parece que es lo mejor del lugar. Buenos precios por ser vinoteca y buenas recomendaciones de algunas etiquetas que no conociamos. El lugar es agradable y la comida estuvo muy bien. El servicio joven puede mejorar. Me gustar\u00eda volver para terminar de definirme pero por una visita mas que satisfactorio."
+    }, 
+    {
+      "date": "6 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "diegus", 
+      "text": "Ac\u00e1 el tema pasa por tomar vinos a precio de viner\u00eda en un espacio muy agradable y comida correcta. El servicio est\u00e1 bien aunque me hubiese gustado contar con mejor asesoramiento de parte de los sommelier. S\u00faper recomendable."
+    }, 
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "drupilin", 
+      "text": "El servicio muy correcto y servicial; la carta si bien no es extensa cubre las espectativas. Recomiendo: Las provoletas de cabra, el ojo de bife envuelto en panceta (solo le pedir\u00eda que las cebollitas caramelizadas estuvieran calientes)  postre volcan de chocolate con helado. Lo acompa\u00f1amos con un menipal malbec; calculen aprox de $150 x persona.\r\nPD La carta de vinos en un IPAD es \"el\"  toque"
+    }, 
+    {
+      "date": "16 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "transiberiana", 
+      "text": "Excelente lugar, lo recomiendo. La carta de vinos es increible, muy amplia y a muy buenos precios (el tama\u00f1o de la carta de vinos es increible, es tan grande que parece un libro!). Lugar ideal para los amantes de los vinos , se come bien y es el  lugar para probar y conocer nuevos vinos."
+    }, 
+    {
+      "date": "8 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "-micael-", 
+      "text": "Fui la semana pasada, por la curiosidad que me generaba un restaurant que esta hecha en base de la carta de vinos.\r\nQue decir de la etiquetas, excelente, por precio y variedad, bebimos un luca syrah, y un j alberto, entre 3 personas, vinos que no se encuentran en cualquier lugar.\r\nLa comida no desentono, lo peor.......la espera."
+    }, 
+    {
+      "date": "23 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "droly", 
+      "text": "Muy buen lugar, sobre todo para descubrir nuevos y buenos vinos a un precio accesible. La comida es muy buena y el servicio excelente. Incre\u00edble la carta de vinos. Muy recomendable."
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Armadura", 
+      "text": "Estuve un s\u00e1bado al mediod\u00eda y la experiencia fue en general muy buena, comimos un soufle de quesos ($50) que no result\u00f3 de nuestro agrado y un risotto con hongos, parmesano y aceite de trufas ($60) que estaba muy rico. La recomendaci\u00f3n del vino fu\u00e9 sencilla y sin estridencias, Desierto  Pampa Pinot Noir ($75). El postre fu\u00e9 un muy rico y cl\u00e1sico volc\u00e1n de chocolate ($30) acompa\u00f1ado por un rico caf\u00e9. \r\nEl ambiente es muy agradable, la m\u00fasica acompa\u00f1a y el personal result\u00f3 muy atento. El resumen es muy bueno,  sin duda volver\u00eda a probar alguna otra cosa."
+    }, 
+    {
+      "date": "18 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Lisbeth_a", 
+      "text": "este lugar lo recomiendo para ir a tomar un buen vino a un muy buen precio.\r\nsin embargo, para relajarse no es. ya que el ambiente es demasiado luminoso, hay demasiados espejos, demasiadas botellas estibadas sobre estanter\u00edas -que, cabe decir, tienen el precio puesto como lo tienen los chinos de la vuelta-, mucho blanco..\r\nla carta de comidas a\u00fan no la he probado, tendr\u00eda que ir. sin embargo, vi la carta y no me llam\u00f3 la atenci\u00f3n..\r\npero en cuanto al servicio, me parece que hay m\u00e1s personal del necesario..\r\n\r\nah! detalle: la carta de vinos, anillada??"
+    }, 
+    {
+      "date": "15 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Somalia", 
+      "text": "Se te pierde la mirada de tanto y tanto vino expuesto. La carta no refleja tanta creatividad y el ambiente muy saturado de luz y una mezcla de estilos que no se sabe que es. Un poco mas de carisma al personal. Detalles claves: mantel de papel?? carta de vinos anillada?? el precio de los vinos pegado cual almac\u00e9n de barrio??? No hay que dejar de ir y probar pero no se si lo incluyo en mis lista de 2da oportunidad."
+    }, 
+    {
+      "date": "30 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "luzie", 
+      "text": "rica comida,yo comi unas milanesitas de peseto empanadas con polenta y unas semillitas muy ricas el cordero al vino tinto se desacia yel volcan de chocolate en su pinto justo,el pollo al horno estaba seco ,lo demas muy rico,variedad enorme de vinos  a precios super razonables."
+    }, 
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "DamySasa", 
+      "text": "El lugar muy lindo un poco ruidoso, la atenci\u00f3n demasiado muy muy lenta y desprolija , de las 4 entradas trajeron primero 3 y despu\u00e9s a la media hora la que faltaba. El plato principal tardo mucho y no fue deslumbrante los precios Car\u00edsimos injustificados. Talvez volvamos a tomar revancha."
+    }, 
+    {
+      "date": "11 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Goodie", 
+      "text": "Excelente lugar. Es impactante, Vinos, de todo, increible carta de vinos. La de comida, algo escasa."
+    }, 
+    {
+      "date": "10 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "kuka1", 
+      "text": "Al entrar a Aldo\u00b4s, se siente una atmosfera diferente. Obviamente con los vinos como protagonistas de la experiencia, los precios de la carta invitan a probar de todo, mejorando la oportunidad de disfrutar toda la velada. Muuuyyy recomendable la provoleta de queso de cabra, el risotto y volvere a probar la torreja, para compararla con la que hac\u00eda mi mam\u00e1. despues les cuento!"
+    }, 
+    {
+      "date": "7 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Vivikle", 
+      "text": "Carta corta pero buena. Todo bien, vale la pena probarlo."
+    }, 
+    {
+      "date": "5 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "francisco2222", 
+      "text": "Impactan las estanter\u00edas llenas de vinos y cada uno con su precio. Mirando m\u00e1s detalladamente, con precios y precios de vinoteca real, nada inflados. La comida, un men\u00fa reducido, sin nada impactante que llame la atenci\u00f3n. El servicio a\u00fan tiene MUCHO que mejorar. 1 hostess, 1 sommelier, 1 bartender, 4 camareros, otra chica que nunca supe bien que hac\u00eda y sin embargo, tuve que servirme durante toda la cena agua y vino yo mismo, con el local con no m\u00e1s de 5 mesas ocupadas. Los principales llegaron fr\u00edos. Cobraron cubierto por mi hijo de 3 a\u00f1os y todos los platos como adulto. Un detalle."
+    }, 
+    {
+      "date": "5 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Perika", 
+      "text": "El ambiente es divino. Vinos a precios de venta de super o vinoteca a montones!\r\nLa comida es buena, aunque lleg\u00f3 bastante fr\u00eda.\r\nHab\u00eda muchos empleados (s\u00faper amables) en el sal\u00f3n que desaparec\u00edan cuando los necesitabas...\r\nLe vamos a dar otra oportunidad."
+    }, 
+    {
+      "date": "1 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Ostinciano", 
+      "text": "Menu simple y rico. Disfrute mucho los ravioles de mascarpone y aun mas el Clos de los 7 que beb\u00ec y pague a precio de vinoteca! Excelente y muy cuidada la ambientacion. Una oferta unica en Buenos Aires que hay que aprovechar!"
+    }, 
+    {
+      "date": "22 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Ladygrey", 
+      "text": "El gran tema con Aldo's es la carta, tiene solo 5 o 6 platos y todos son demasiado simples: souffle de queso, milanesa aldo's,ravioles de mascarpone etc Si voy a un restaurant donde se gasta mas de $100 x capita espero una mayor variedad y platos de restaurant no cosas que puedo cocinar en mi casa. Com\u00ed los ravioles de mascarpone y estaban correctos, perosiendo q la carta esta compuesta d platos tan simples deberian esmerarse mas en la ejecucion. De todos modos el ambiente es muy lindo, se nota que estan presentes en los detalles. El servicio es (anque un poco lento) muy amable y correcto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elcordobesbeuno", 
+      "text": "La verdad es que la puntuacion del lugar es abusrdamente baja. Para mi el lugar es excelnete. Sobre todo, el precio y la calidad de los vinos, con una carta muy buena y un servicio atento sin ser servil. Mas una ambientacion muy 60\u00b4s. Si vas a comer con agua mineral, mejor anda a Burger, si queres disfrutar de una buena cena con un vino top anda a Aldos."
+    }, 
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "e_g_l", 
+      "text": "Fuimos el miercoles y habia jazz en vivo, un ambiente genial, muy buenos tragos y la comida excelente!!!!!!!!el lugar esta buenisimo. Felicitaciones aldo!!!!!!!!!!!! Para ir muy seguido"
+    }, 
+    {
+      "date": "3 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "la_dolce_vita", 
+      "text": "El lugar esta muy bien ambientado, la atenci\u00f3n es personal y esmerada. El brunch realmente recomendable, as\u00ed como las pastas. Vuelvo seguro!"
+    }, 
+    {
+      "date": "29 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Fui temprano para participar de un evento y pens\u00e9 que era una buena oportunidad para quedarme a disfrutar la cena y conocer el lugar. El ambiente me impact\u00f3 tan positivamente por la iluminaci\u00f3n \u00edntima y c\u00e1lida, el techo en rojo vibrante, las paredes revestidas de espejos con mensajes divertidos y estanter\u00edas decoradas con botellas de todo tipo y color que la invitaci\u00f3n se hizo irresistible. El servicio amable y eficiente y la comida completaron una velada de placer: los \u00f1oquis con crema de hongos estaban deliciosos! Una experiencia genial en un lugar con mucha onda que te deja ganas de volver"
+    }, 
+    {
+      "date": "21 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "el_tete", 
+      "text": "Gran lugar. Gran idea la de los vinos a precio de vinoteca. Buen\u00edsima atenci\u00f3n. Muy buena la comida. Muy buena m\u00fasica. Recomiendo totalmente."
+    }, 
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hernanpablo", 
+      "text": "Excelente! Muy intimo y la propuesta para los amantes del vino es genial. Te rodean las botellas y la carta  de vinos es de lo mas completa que conoci (coherencia)"
+    }, 
+    {
+      "date": "8 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "GastonPI", 
+      "text": "El lugar mas cool de la argentina, felicitaciones a los creadores."
+    }, 
+    {
+      "date": "26 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "FilipeSimoes", 
+      "text": "Sou Brasileiro e tive o prazer de comer no Aldo\u00b4s algumas vezes, pois me hospedei no Hotel Moreno. Comida saborosa, ambiente agrad\u00e1vel, vinhos com pre\u00e7os justos e atendimento qualificado. Me senti muito bem acolhido. Recomendo. A decora\u00e7\u00e3o \u00e9 \u00f3tia, com centenas de vinhos espalhados pelas prateleiras do local."
+    }, 
+    {
+      "date": "14 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "feromero", 
+      "text": "excelente atencion ,ambiente, comida , vinos, postres, altamente recomendable, para repetir la experiencia!!!!!"
+    }, 
+    {
+      "date": "9 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Javier27", 
+      "text": "El lugar es super recomendable, es c\u00e1lido, con muy buena m\u00fasica, muy buenos platos elaborados y una EXCELENTE carta de vinos!!!\r\nLa atenci\u00f3n es muy buena...\r\nMi novia y yo nos quedamos sorprendidos con la gran calidad que tiene el lugar en todos los sentidos!!\r\n\r\nFelicitaciones a Aldo por el gran restaurante y gran vinoteca que puso!!"
+    }, 
+    {
+      "date": "5 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dieselem", 
+      "text": "Excelente lugar, muy bien ambientado, eramos parejas y amigos, el trato muy bien, las opciones de comida son escasas pero muy bien seleccionadas, lo que da una satisfacci\u00f3n segura en cada tipo de comida. La carta de vinos y sus precios, son excelentes. Vuelvo sin duda."
+    }, 
+    {
+      "date": "16 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pichy22", 
+      "text": "Increible el lugar! la atencion 10 puntos! los mozos son copad\u00edsimos... hay una carta de mas de 500 vinos, la carta es reducida pero riqu\u00edsimo todo lo que comimos, recomiendo el lomo con vegetales grillados y el risotto mmm uno de los mejores que prob\u00e9 en mi vida! El ambiente esta re bueno porque suena musica de jazz en la medida justa y el lugar muy bueno tambien volveremos a probar mas vinos!"
+    }, 
+    {
+      "date": "26 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "verarroyuelo", 
+      "text": "Los camareros fueron todos muy amables y serviciales. Lo que se  destaca: el vino. La comida, muy correcta, el risotto una delicia! Volveremos!"
+    }, 
+    {
+      "date": "18 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Andrada", 
+      "text": "muy rica comida con servicio 10 puntos."
+    }, 
+    {
+      "date": "24 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "e_g_l", 
+      "text": "Increible vinoteca con precios muy baratos, igual que vinoteca, muy buenos los ravioles de mascarpone y el cordero, tambi\u00e9n recomiendo la torreja y el cremoso de chocolate blanco, la atenci\u00f3n es exelente con someliers, super recomendable"
+    }, 
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "2xelmundo", 
+      "text": "Hemos adoptado este restaurante como una gran opcion de salida, tanto para ir en pareja, como con amigos o llevar gente de afuera y sorprenderlos. La comida es excelente (la carta es reducida, pero no necesitas mas), la carta de vinos es impresionante, y lo mejor las recomendaciones tanto del mismo Aldo como de cualquiera de los chicos del staff. El ambiente del lugar es inmejorable. Mande tanto a mi madre con sus amigas, como a amigos y todos quedaron encantados. Vale la pena acercarse a San Telmo para disfrutar de este lugar, en cualquier horario del dia."
+    }, 
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "steve", 
+      "text": "Bravo! El lugar est\u00e1 buen\u00edsimo, en una zona en la que no hab\u00eda muchas opciones. La carta es sencilla, nada pretenciosa y todo lo que probamos estaba muy bien. Los precios de los vinos est\u00e1n muy bien ya que tambi\u00e9n es vinoteca. Muy recomendable."
+    }, 
+    {
+      "date": "8 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vdychter", 
+      "text": "Simplemente un placer! \r\nTuve un almuerzo de trabajo y el ambiente fue ideal. El servicio es muy bueno, constantemente se estaban preocupando si necesit\u00e1bamos algo... La comida se hizo esperar pero por suerte la canasta de panes es muy rica. \r\nHamburguesa vegetariana con papas fue mi plato principal y exquisito. Los vinos son protagonistas en la decoraci\u00f3n y por supuesto que toman protagonismo en la mesa tambi\u00e9n. \r\nMuy bueno!!!\r\nPara terminar un postre imperdible...una torreja espectacular!"
+    }, 
+    {
+      "date": "3 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Elgrangatsby", 
+      "text": "El lugar es divino, una puesta en escena impactante con una propuesta original en cuanto a los vinos: mas de 500 etiquetas a precio de vinoteca, algo realmente \u00fanico. Me gusto mucho y lo recomiendo!"
+    }, 
+    {
+      "date": "28 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elvinodelmes", 
+      "text": "Impresionante la ambientaci\u00f3n de la vinoteca. Unico lugar en Buenos Aires que te cobra los vinos en la mesa al mismo precio que en vinoteca. Menu de pocos platos pero muy variados y porciones generosas. Atenci\u00f3n impecable y muy amable.\r\nEn cuanto a vinos, qu\u00e9 decir... m\u00e1s de 500 etiquetas nacionales, una cava enorme con los vinos a temperatura de servicio, y muy buena cristaler\u00eda.\r\nFelicitaciones Aldo Graziani!"
+    }, 
+    {
+      "date": "24 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Viking_a", 
+      "text": "Estoy totalmente en desacuerdo con la se\u00f1orita Lady Grey (entiendo el porque de su apodo..) \r\nAldo's se destaca con su alta gama de vinos y la idea es que la comida sea simple. \r\nLa carta de platos esta perfecta tienen varias opciones que se pueden combinar las carnes con las guarniciones, los ravioles de mascarpone estan deliciosos y son super recomendables.\r\nTambien hay una ensalada de peras caramelizadas con queso azul y avellanas muy buena y los postres realmente dejan que hablar.\r\nLos precios estan muy bien, ni cerca de gastar mas de $100 si no pedis alcohol.\r\nLa atencion es sobresaliente, el lugar esta muy bien puesto y la barra es muy acogedora y comoda para comer ahi mismo."
+    }, 
+    {
+      "date": "24 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tuchito", 
+      "text": "La particularidad de ser una vinoteca, con una cava muy bien seleccionada y de cobrar en la mesa el mismo precio que en la g\u00f3ndola lo hace \u00fanico. Permite tomar un muy buen vino y acompa\u00f1arlo de una muy buena cocina. La carta es reducida pero contundente, probamos la milanesa Aldo\u00b4s y los ravioles de Mascarpone y quedamos muy contentos. El postre tambi\u00e9n muy rico, se destaca la torreja... En conclusi\u00f3n un resto con muy lindo ambiente, muy buena cocina, servicio de primera y una excelente variedad de vinos a precios muy competitivos.  Es un resto que en muy poco tiempo dar\u00e1 que hablar!"
+    }, 
+    {
+      "date": "22 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "@guynevo", 
+      "text": "Con Imponente ambientaci\u00f3n Aldo's es una vinoteca con restaurante.\r\npresenta una novedad absoluta en Buenos Aires donde el precio del vino es igual a su precio de vinoteca.\r\nCarta sencilla y bien pensada y a dias de su inauguraci\u00f3n se nota el esfuerzo en cuidar todos los detalles y lograr la satisfacci\u00f3n de los clientes."
+    }, 
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "VOGUE", 
+      "text": "Un lugar divino, la m\u00fasica genial, muy buena atenci\u00f3n, rica la comida y fant\u00e1sticos los vinos a precios verdaderamente \u00fanicos! Felicitaciones!"
+    }
+  ]
+}

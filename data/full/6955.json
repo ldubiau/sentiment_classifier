@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CoconutSkin", 
+      "text": "Siempre desayuno con mi pareja y lo super recomiendo! La atenci\u00f3n es muy buena, Maxi (quien atiende a la ma\u00f1ana) siempre tiene la mejor onda. Lamentablemente solo he ido a desayunar, pero nos encanta hacerlo!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "truyy44", 
+      "text": "Me parecio una excelente opcion para la zona de tribunales, muy buenas opciones de ensaladas y paninis, super originales. El menu del dia son 3 o 4 opciones que varian entre pastas, pescado o carme. Esta bueno tambien xque te atienden super rapido y muy bien, fui xque me lo recomendaron y ahora lo recomiendo."
+    }, 
+    {
+      "date": "26 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carfanty", 
+      "text": "el menu me parece muy abundante y el precio es perfecto. me encanta el lugar y la atencion. lo recomiendo!!!!"
+    }
+  ]
+}

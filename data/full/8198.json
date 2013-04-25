@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "5 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "josefinacocinera", 
+      "text": "Despues de al cancha es parada obligada. El ambiente es de barrio y de trabajadores al paso. Pizzeria como las de antes para comer de parado. La masa es esponjosa, aceitosa y con muuuchoo queso, muy muy rica."
+    }, 
+    {
+      "date": "25 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "claudio_peralta", 
+      "text": "Es para comer un par de pociones de parado (aunque se puede sentar y pedirla entera) El ambiente es onda obreros y viejos, yo voy seguido con mi viejo y comemos bien y nos cag**** de la risa. El que te sirve las pizzas te atiende TAN MAL que te termina cayendo bien! Siempre est\u00e1 lleno al mediodia lo mejor la fugazza rellena acompa\u00f1ada de un vaso de moscato!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "icknaz", 
+      "text": "Una de las mejores pizzas tradicionales de Buenos Aires! Excelente lugar para comer muy bien, r\u00e1pido, de paso y sin gastar mucho. El ambiente y la atenci\u00f3n son terribles, pero con la mejor onda. El lugar es una especie en extinci\u00f3n y toda una experiencia para un extranjero. Recuerdo que el mozo casi muere de un paro card\u00edaco cuando una vez le dej\u00e9 propina."
+    }, 
+    {
+      "date": "24 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "droopybarracas", 
+      "text": "excelente, no mucho por agregar. pizeria bien de barrio al paso."
+    }
+  ]
+}

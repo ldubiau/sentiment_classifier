@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "12 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "chicho_n", 
+      "text": "No vale el precio cobrado. La calidad es mediocre y por ese dinero se puede comer comida japonesa en serio."
+    }, 
+    {
+      "date": "14 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "SW4o", 
+      "text": "Comida regular, y cara. Nada del otro mundo. No tiene nada de japones."
+    }, 
+    {
+      "date": "3 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "chani", 
+      "text": "Nada recomendable... muy malo"
+    }, 
+    {
+      "date": "11 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "hitschfeld", 
+      "text": "Mal sushi, los ingredientes no daban el tono: la palta estaba verde (dura), hab\u00eda un exceso de queso philadelphia, no se agreg\u00f3 jengibre, ni ning\u00fan otro tipo de acompa\u00f1amiento, a excepci\u00f3n del wasabi. El delivery lleg\u00f3 a tiempo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elube48", 
+      "text": "El sushu, no es un alimento economico, por lo que cabe destacar la calidad de los productos y la buena relacion entre cantidad y precio.- MUY BUENA, la atencion del personal, ya que siendo un dia domingo y a ultima hora. mos atendieron como su duese mediodia!!!A pesar del tiempo trancurrido desde mi ultima visita, la calidad y la atencion, no se han resentido en nada"
+    }, 
+    {
+      "date": "12 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bond55", 
+      "text": "considero que la calidad de los alimentos son optimos, y que por el contrario los precios son excesivos."
+    }, 
+    {
+      "date": "2 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "macaibn", 
+      "text": "La comida tarda bastante, pero es abundante y fresca"
+    }, 
+    {
+      "date": "27 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Una de las mejores opciones del patio de comidas donde, aunque parezca incre\u00edble, se puede comer bien"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Jennu", 
+      "text": "Muy rico sushi y buena atencion.Lindo ver como cocinan a la vista."
+    }, 
+    {
+      "date": "12 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "melissapalao", 
+      "text": "Siempre pedimos delivery y nunca tardan m\u00e1s de lo que te dicen, se podr\u00eda decir que es bastante r\u00e1pido y las piezas son muy buenas, frescas, variadas. Nunca falla. \r\n(el roll con philadelphia y durazno es un must)"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "9 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "banshee_007", 
+      "text": "El lugar est\u00e1 muy bien ambientado. El lomo podr\u00eda estar bastante mejor. La mini pizza con brie y el postre volc\u00e1n me gustaron mucho. Recomiendo, aunque no sea el lugar con la mejor relaci\u00f3n precio/calidad (un poco caro)."
+    }, 
+    {
+      "date": "11 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "valeriah", 
+      "text": "La cominda estaba muy bien y el servicio fue muy atento. Los domingos tienen brunch!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "veros", 
+      "text": "Excelente el ambiente, lo vamos a extra\u00f1ar cuando cierre."
+    }, 
+    {
+      "date": "17 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leticias", 
+      "text": "Carta peque\u00f1a, lo que indica que trabajan con productos frescos, exquisitas opciones con toques sofisticados, muy buena presentaci\u00f3n y delicioso desde la entrada al postre. \r\nCarta de vinos para todos los gustos. \r\nAmbiente c\u00e1lido y luminoso. Muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "15 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cindycar", 
+      "text": "La comida es deliciosa y el servicio siempre es excelente. Hemos visitado 3 veces y es unos de mis favoritos restaurantes."
+    }, 
+    {
+      "date": "30 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sofiagan", 
+      "text": "Me encant\u00f3 el lugar, muy buena la atenci\u00f3n y excelente  la carta de vinos!"
+    }
+  ]
+}

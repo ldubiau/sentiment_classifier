@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "onciote", 
+      "text": "la pizzeria qur era una excelente pizza de Bs. As. fue vendida a la una cadena quitando el 70 de variedades la pizza es p\u00e9sima si buscas un pizza tradicional esponjosa como lo era no vallas ahora si lo que buscas es una pizza aceitosa ese es el lugar, no hacen delivery. la atencion mala  conclusion NO VUELVO"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lemon1", 
+      "text": "La misma pizza y calidad desde hace 50 a\u00f1os.\r\nLa pizza es al molde y con gran cantidad de queso.\r\nRecomendada la fugazetta, muzza y la de verdura."
+    }, 
+    {
+      "date": "16 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elalber10", 
+      "text": "Reincidimos siempre por las pizzas, siempre ricas y sustanciosas."
+    }, 
+    {
+      "date": "7 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pauyher", 
+      "text": "la pizza es buenisima, esta en el barrio de flores hace a\u00f1ares, el lugar no es lindo, la atencion no es de 10, pero la pizza es buenisima. media aceitosa, pero espectacular!"
+    }, 
+    {
+      "date": "29 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "uidio", 
+      "text": "pizza muy buena mantuvo sus caracteristicas a traves de mas de treinta a\u00f1os."
+    }
+  ]
+}

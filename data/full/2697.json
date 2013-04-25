@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "17 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Justiciero", 
+      "text": "La tipica Parri de Barrio, no es linda, pero es barata y la comida en relacion al precio es excelente. en gral pido delivery."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "libertad", 
+      "text": "Todo perfecto."
+    }
+  ]
+}

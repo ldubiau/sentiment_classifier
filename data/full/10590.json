@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pauambro", 
+      "text": "Muy bien puesto, comida muy rica, especial para ir con amigos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chediack", 
+      "text": "El mejor ceviche que comi en buenos aires. La comida es excelente al igual que el ambiente y los tragos!!"
+    }
+  ]
+}

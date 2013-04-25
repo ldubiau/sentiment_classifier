@@ -1,0 +1,678 @@
+{
+  "malos": [
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "diema", 
+      "text": "El sushi es entre bueno y normal, pero demacido caro."
+    }, 
+    {
+      "date": "15 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mishi", 
+      "text": "Malo. Nos atendi\u00f3 una rubia c/ tatuajes q no sonri\u00f3 ni una vez! El sushi com\u00fan, y cuando quisimos pedir m\u00e1s (eran las 11) nos anticiparon q la barra cerraba once y media. Odiamos q nos echen! deber\u00eda cerrar cuando el \u00faltimo comensal lo desee, y no es un lugar de nivel para andar con pretenciones.\r\nLo mejor de la noche: pedir un yakimeshi (arroz c/ vegetales y...), pretender q sea de salm\u00f2n Y camarones... y nos dijeron que ten\u00eda que ser de una sola cosa(??)y encima NO TEN\u00cdA GUSTO A NADA! y pedir salsa teriyake para ponerle onda y la cobren $4.. de \u00faltima. La salv\u00f3 un poco el caipisake, genial."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ellcheff", 
+      "text": "excelente sushi, lo mas artesanal de BA, riqu\u00edsimo, atenci\u00f3n justa y ambiente muy agradable..."
+    }, 
+    {
+      "date": "5 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Lobense", 
+      "text": "Sushi normal. Sin creatividad. Atenci\u00f3n, lo indispensable. Lugar, caluroso (no andaba el AA)."
+    }, 
+    {
+      "date": "13 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "abutt", 
+      "text": "Fuimos con mi esposa un viernes por la noche.  Pedimos un \"combinado de salmon\" que tenia 30 piezas variadas (sashimi, rolls, niguiris). El salmon era bien fresco. El arroz estaba en su punto. La atenci\u00f3n fue apropiada y las chicas muy amables. Gastamos $190, de los cuales $140 correspondieron al plato de sushi y los 50 restantes a 1 agua, 1 copa de vino blanco y un porron de cerveza. La relacion precio-calidad esta en su punto justo (si uno no es amante del sushi, probablemente le resultara un poco caro). Resumiendo: recomendable."
+    }, 
+    {
+      "date": "22 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Un poco caro y chico como para lo que te sirven. Es un sushi muy tradicional, nada muy especial."
+    }, 
+    {
+      "date": "10 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chelein", 
+      "text": "excelente sushi.\r\nes una muy buena opci\u00f3n en zona norte.\r\nel lugar es lindo, el servicio es bueno.\r\nun poco lento la cocina como en general todos los lugares de sushi pero los rolls son destacables"
+    }, 
+    {
+      "date": "9 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "datta", 
+      "text": "El sushi es bastante bueno, las gyosas y los harumaki tambi\u00e9n. La presentaci\u00f3n de los platos es muy buena. La atenci\u00f3n es acorde. El ambiente bien pero la musica no me parece ir con el estilo (Bossa). Los postres son flojos (el tiramis\u00fa era un helado de vainilla con charlotte encima, ni siquiera ten\u00eda algo de caf\u00e9)."
+    }, 
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "figment", 
+      "text": "Comimos tempura de langostinos y distintos tipos de rolls.  La comida estuvo muy bien.  La atencion y la musica acompanaron.  No es el mejosr sushi, pero esta bueno conocerlo."
+    }, 
+    {
+      "date": "3 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lenchi", 
+      "text": "muy bueno el sushi.un lugar chiquito y muy calido escondido en dardo rocha. el sushi llega rapido y la atencion es muy buena."
+    }, 
+    {
+      "date": "20 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "martus3", 
+      "text": "Esta es la primera vez que fu\u00ed y la verdad que me gust\u00f3 mucho el lugar, muy limpio y ordenado. La camarera le puso mucha onda ya que se esforz\u00f3 en recomendarnos un buen surtido. Quedamos muy conformes. Vamos a volver."
+    }, 
+    {
+      "date": "9 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Marcuolo", 
+      "text": "No se si me equivoqu\u00e9 con el pedido o que pero el sushi era muy b\u00e1sico. Del 1 al 10 era un 5. De todas maneras, la atenci\u00f3n fue lo que m\u00e1s sorprendi\u00f3, las mozas est\u00e1n de mal humor! practicamente todas."
+    }, 
+    {
+      "date": "10 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lucas1977", 
+      "text": "El sushi fue normal, he comido mejores. Lo que no entiendo de este lugar es la pesima atencion. Se equivocaron con el pedido y muy mala onda de parte de las mozas. No volveria"
+    }, 
+    {
+      "date": "9 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Loubizarro", 
+      "text": "No me creo un experto en sushi pero hace varios a\u00f1os que lo tengo en mi lista de alternativas a la hora de comer afuera. Evito las \"cadenas\" de restaurantes de sushi. Definir\u00eda este lugar como \"uno mas\", no muy diferente a cualquier otro lugar famoso. No esperen ninguna sorpresa. Si estan por la zona con ganas de comer sushi es una opci\u00f3n, pero nada para destacar, no esperen mucho mas que un \"combinado de salmon\"."
+    }, 
+    {
+      "date": "26 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Roxyp", 
+      "text": "El lugar es chico pero si pedis reserva no deber\u00eda haber problema. Como fue mi primera experiencia seria con el sushi me deje guiar por una amiga experta, pero puedo decir que la calidad de la comida es razonable al precio. Un buen intermedio."
+    }, 
+    {
+      "date": "26 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Miriquiqui", 
+      "text": "me encanta la comida de ese lugar. Pero el lugar es muy chico no hay lugar nunca y no saben organizarce con las reservas, tendrian que manejarse con 2 turnos para que ganen mas gente."
+    }, 
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lenny160903", 
+      "text": "No me gusto mucho, pero no por el tipo de comida por q me encanta.....pero en gral no estoy conforme!!!!"
+    }, 
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Malele", 
+      "text": "Hace ya 3 a\u00f1os que somos clientes de Leny San. Para nosotros es el mejor lugar para comer sushi. \r\nLa comida es muy buena. Los postres no son muchos pero son de muy buen gusto y la ambientaci\u00f3n es sencilla, tranquila y tienen muy buenos discos para escuchar. \r\nLa atenci\u00f3n es excelente, las camareras son muy atentas y educadas. \r\nEs un lugar recomendable tanto para ir en pareja como para compartir con amigos. \r\nEs excelente que no se fume!"
+    }, 
+    {
+      "date": "15 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "IVIPIN", 
+      "text": "Muy bueno!"
+    }, 
+    {
+      "date": "18 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Huge", 
+      "text": "Como por razones laborales tuve que ir muchas veces a Jap\u00f3n creo que mi opini\u00f3n acerca del sushi \"argentino\" debe ser sesgada. Pero realmente la diferencia es notable (para peor). La \"american way\" de usar queso Filadelfia me parece deplorable.\r\nAtenci\u00f3n excelente, el teriyaky y las verduras estaban muy bien..\r\nEl ambiente regular"
+    }, 
+    {
+      "date": "8 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "andycook", 
+      "text": "Buen sushi para tener en cuenta en zona norte. Los pescados son muy frescos. El lugar es chico pero muy agradable y la atencion correcta. Sigan asi !"
+    }, 
+    {
+      "date": "6 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gogo54", 
+      "text": "Muy bueno el sushi, el resto para el olvido."
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Amd", 
+      "text": "La verdad el lugar est\u00e1 bueno, mala la atenci\u00f3n y la ac\u00fastica del lugar porque hab\u00eda una mesa que hablaban fuerte y yo no pod\u00eda escuchar a mis acompa\u00f1antes."
+    }, 
+    {
+      "date": "10 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "frolo99", 
+      "text": "La verdad que el precio es muy caro para lo que es la comida. \r\nEl leny-san es incre\u00edble, pero es el \u00fanico roll espectacular. \r\nEl resto es mediocre. \r\nPrefiero gastar lo mismo, romperme la cabeza en sushi club por la misma plata."
+    }, 
+    {
+      "date": "3 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gonzalo_2", 
+      "text": "Sushi muy bien preparado y un ambiente acogedor, hacen de Leny San un lugar muy recomendable. Las mozas, un encanto!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "beages", 
+      "text": "Excelente sushi y chef! S\u00faper sabroso, lugar muy bien puesto."
+    }, 
+    {
+      "date": "3 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Rozanna", 
+      "text": "La comida excelente !! Un poco caro!!!!"
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rortola", 
+      "text": "Muy buen lugar. Recomendado, mercaderia muy buena de excelente preparacion con una atencion acorde."
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "msagues", 
+      "text": "Muy buen sushi, piezas grandes, salmon fresco siempre, fui mas de 20 veces. Lo unico malo es q las 2 mozas no dan a basto, y tardan muchisimo para todo, desde traer la carta, hasta traer la cuenta(estuve esperando 15 minutos a que nos levanten la mesa para pedir la cuenta, no aparecia ninguna de las camareras).Es muy recomendable para gente con paciencia.Tardan MUCHO enserio"
+    }, 
+    {
+      "date": "14 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "javipanagua", 
+      "text": "Muy buen sushi elaborado a la vista del cliente, quizas deban mejorar un poco la atencion."
+    }, 
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CHUCHUS", 
+      "text": "Piezas grandes con buenos ingredientes, camarera muy atenta, muy buena relacion precio calidad, volveremos!!!"
+    }, 
+    {
+      "date": "12 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "solee", 
+      "text": "Muy buen sushi y las comidas calientes estan increibles tambi\u00e9n! Recomendable para ir en pareja..."
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mabucha", 
+      "text": "Muy buen lugar. Bastante reservado, como para ir en parejael.\r\nLa atenci\u00f3n es excelente, igual la ambientaci\u00f3n.\r\nLa comida es EXCELENTE, porciones abundantes con muy buena presentaci\u00f3n.\r\nAltamente recomendable, uno de los mejores en Zona Norte."
+    }, 
+    {
+      "date": "16 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vanegm", 
+      "text": "Muy buen lugar, clima, reservado, calido, atenci\u00f3n, porciones abundantes, sin quejas. las mozas muy amables y de buena onda, recomendable"
+    }, 
+    {
+      "date": "6 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "msagues", 
+      "text": "El sushi es buenisimo, al menos lo q pedimos nosotros.\r\nLo traen rapido y muy bien presentado.\r\nEl resto de los lugares de zona norte no pueden competir con este lugar, no le tenia nada de fe mirandolo desde afuera, pero el lugar es grande, tiene varios salones, es tranquilo, la verdad q muy recomendable.\r\nEl unico problema es q solo tienen tarjeta visa, y en la puerta tienen pegado las publicidades de otras tarjetas de credito, por lo q sino tenia visa nose que iba a inventar!, eso deberian avisarlo al entrar."
+    }, 
+    {
+      "date": "11 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "AndyMax", 
+      "text": "El sushi est\u00e1 dentro de los mejores sushis de buenos aires.  El lugar es muy chiquito, pero se respeta un buen espacio entre mesas. La atenci\u00f3n: podr\u00eda ser mejor.  Los precios: muy altos, pero si es el precio que hay que pagar por el mejor sushi de la zona, vale pagarlo."
+    }, 
+    {
+      "date": "22 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ritamarley", 
+      "text": "El sushi excelente, fresco, bien presentado, rolls deliciosos y de buen tama\u00f1o. Las mozas amables pero con poca onda. El lugar peque\u00f1o y silencioso, demasiada iluminaci\u00f3n. Opt\u00e9 por el delivery. Ultimamente subieron demasiado los precios. Igual termino pidiendo por la calidad del sushi."
+    }, 
+    {
+      "date": "9 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rastaman", 
+      "text": "leny es excelente. saben hacer sushi. la comida es de primera. toda la materia prima es super fresca, se prepara en el momento con una calidad increible. altamente recomendable. el ambiente es fabuloso, parece que estuviera en la casa propia. muy buena atencion, ya que son pocas mesas."
+    }, 
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "akek", 
+      "text": "Excelente calidad de sushi, muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "7 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "famanu", 
+      "text": "Es dificil decir que es el mejor sushi pero, sin duda puede pelear el primer puesto. Si pensamos en costo - calidad, creo que es insuperable. No es mi primera visita a Leny San, es para volver siempre y nunca defrauda."
+    }, 
+    {
+      "date": "30 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Musetta", 
+      "text": "Realmente excelente. Siempre fresco y sabroso. Otro punto a favor es que abren todos los d\u00edas.\r\nLos rolls son impresionantes, con mucha variedad. Mi \u00fanica cr\u00edtica es que el combinado trae solo los rolls tradicionales. Si uno quiere innovar debe pedir los rolls m\u00e1s originales por separado y el problema es que la porci\u00f3n es de 10 piezas, demasiado si vas de a dos y quer\u00e9s probar distintas variedades. Por lo dem\u00e1s, todo excelente."
+    }, 
+    {
+      "date": "25 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Laurilin", 
+      "text": "Gracias a Leny San me acerqu\u00e9 m\u00e1s al sushi y fue la mejor experiencia gastron\u00f3mica. Por lejos, es lo mejor que hay. Entiendo que haya gente que se disguste por la falta de lugar, pero creo que mantener el lugar chico es parte de ofrecer un excelente servicio. Quiz\u00e1s si fuera m\u00e1s grande, ser\u00eda m\u00e1s dif\u00edcil de controlar. La comida es fresca y sabrosa, las camareras buena onda, el precio razonable. Hace bastante que voy y cuando falto un mes lo extra\u00f1o. Diego, un genio."
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "robarrio", 
+      "text": "Excelente, del mejor sushi que com\u00ed en Buenos Aires. \r\nEl lugar es chico, el ambiente agradable, el personal muy atento y servicial."
+    }, 
+    {
+      "date": "19 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ruso_El", 
+      "text": "El precio incluye Vino."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "adri60", 
+      "text": "El mejor sushi de buenos aires....mejor usar la salsa de soja verde ya k la comun es bien salada.\r\nLa atencion es muy biena y me siento como en casa."
+    }, 
+    {
+      "date": "26 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Bramasole", 
+      "text": "El sushi es riqu\u00edsimo, fresco, bien preparado con piezas de justo tama\u00f1o. La salsa de soja estaba muy salada, para usar poquito. La atenci\u00f3n no fue muy buena, llegamos un rato antes de las 11, no habia mucha gente y era s\u00f3lo una camarera que parec\u00eda no estar de muy buen humor, ya que cuando le consultamos algunas cosas respond\u00eda como si le fastidiaran las preguntas... eso fue lo \u00fanico malo, el resto (ambiente, musica y comida) muy recomendables."
+    }, 
+    {
+      "date": "13 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carpediem", 
+      "text": "Si bien el lugar es de dimensiones chicas es muy agradable y tranquilo como para pasar una muy buena cena. No tiene modalidad de sushi libre."
+    }, 
+    {
+      "date": "20 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "negrod", 
+      "text": "Excelente, sin dudas el mejor sushi de Buenos Aires. \r\nTanto la atenci\u00f3n como el ambiente hacen que te sientas como en casa. Recomendable."
+    }, 
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Kokotxa", 
+      "text": "Excelente sushi, muy recomendable. El lugar es peque\u00f1o pero no inc\u00f3modo."
+    }, 
+    {
+      "date": "8 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chernobyl", 
+      "text": "Excelente todo, realmente espectacular."
+    }, 
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cdjonsiles", 
+      "text": "El mejor sushi de Buenos Aires. Sin exagerar, las piezas son grandes y el pescado muy fresco. Conozco otros lugares de moda, pero nada se compara. El sushiman es incre\u00edble."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "patoabu", 
+      "text": "El mejor sushi. La iluminaci\u00f3n del local no me gust\u00f3. Le falta calidez y no est\u00e1 bien organizado, ya sea si vas con reserva o sin reserva."
+    }, 
+    {
+      "date": "5 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chongo", 
+      "text": "Gracias a Hern\u00e1n, conoc\u00ed los placeres terrenales del sushi. Tiene muy buena mano para \u00e9sta disciplina. Todav\u00eda no prob\u00e9 su \"famoso maki\", pero lo dejamos para otra ocasi\u00f3n especial ."
+    }, 
+    {
+      "date": "27 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanzad", 
+      "text": "La calidad de los productos y su preparaci\u00f3n es excelente. \u00a1Ojo! con la salsa de soja para el que tenga problemas con la sal, mejor pidan la de bajo sodio."
+    }, 
+    {
+      "date": "23 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ponce", 
+      "text": "Uno de los mejores sushis de Buenos Aires.\r\nFresco y abundante."
+    }, 
+    {
+      "date": "19 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rortola", 
+      "text": "Parece que es un lugar excelente para los rolls. Los niguiris son buenos.\r\nAtenci\u00f3n correcta y la m\u00fasica e iluminaci\u00f3n son excelentes. Muy recomendable."
+    }, 
+    {
+      "date": "8 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mantay", 
+      "text": "Sin dudas el mejor sushi de Buenos Aires. El lugar es muy lindo, fue redecorado, pero siguen manteniendo la calidad, atencion y exquisitez de los platos.\r\nMuy recomendable."
+    }, 
+    {
+      "date": "8 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "morfon", 
+      "text": "Excelente la comida y la atenci\u00f3n muy r\u00e1pida. Recomendable."
+    }, 
+    {
+      "date": "5 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AcidRain", 
+      "text": "La comida es muy rica, pero lo que me sorprendi\u00f3 es que las porciones son extremadamente peque\u00f1as. \r\nTodas las mesas tuvimos que pedir un segundo plato porque es demasiado poco (y chico) por este precio. No lo recomiendo para sushi ya que por ese precio se puede ir a otro lado tranquilamente. \r\nLindo para ir una vez y con poco hambre."
+    }, 
+    {
+      "date": "22 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "valdam", 
+      "text": "El ambiente es muy bueno. M\u00fasica, atenci\u00f3n, todo b\u00e1rbaro. La comida es muy rica. \r\nLos precios no var\u00edan con respecto a otros lugares de comida japonesa. Nos fuimos muy satifechos con la elecci\u00f3n."
+    }, 
+    {
+      "date": "1 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "joa", 
+      "text": "Odio ir y no conseguir lugar sin reserva."
+    }, 
+    {
+      "date": "14 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cocunoloco", 
+      "text": "Excelente comida y muy buen servicio. Una avalancha de sabores en el paladar. Ideal para noche rom\u00e1ntica"
+    }, 
+    {
+      "date": "28 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "scarcito", 
+      "text": "Quiz\u00e1s es el mejor sushi que se pueda probar en Buenos Aires. \r\nEntradas exquisitas, rolls incre\u00edbles (recomiendo especialmente el Leny-San) y excelente atenci\u00f3n. \r\nBajando un poco la iluminaci\u00f3n, ser\u00eda perfecto. \r\nPocas mesas, peque\u00f1o, alejado de la zona complicada de Dardo Rocha."
+    }, 
+    {
+      "date": "27 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ariamoro", 
+      "text": "Excelente presentaci\u00f3n y una sutil expresi\u00f3n de sabores. Saben tratar los productos y respetan much\u00edsimo la frescura de los mismos."
+    }, 
+    {
+      "date": "15 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "patoabu", 
+      "text": "Demasiada luz."
+    }, 
+    {
+      "date": "1 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "_ELELE_", 
+      "text": "Simplemente el mejor restaurante de comida japonesa. El sushi es de lo mejor, desde la frescura de los pescados hasta la decoraci\u00f3n y la coordinaci\u00f3n en la demora de los platos. El lugar es chico pero muy agradable y con una muy buena atenci\u00f3n. Recomendado."
+    }, 
+    {
+      "date": "30 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sabrimat", 
+      "text": "el sushi incre\u00edble, el mejor sabor de todos, alta decoraci\u00f3n en los platos, tanto fr\u00edos como calientes. Excelente atenci\u00f3n."
+    }
+  ]
+}

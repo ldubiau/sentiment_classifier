@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "19 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "null", 
+      "text": "Muy buen lugar y excelente comida. platos abundantes"
+    }, 
+    {
+      "date": "6 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "gerkijel", 
+      "text": "Fui muchas veces. Es una opci\u00f3n estupenda para reuniones con mucha gente. Grandes platos, buena comida y buenos precios.\r\nEl men\u00fa es ampl\u00edsimo y la atenci\u00f3n maravillosa."
+    }, 
+    {
+      "date": "3 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Seuxta", 
+      "text": "El lugar se destaca por la relaci\u00f3n precio/calidad. La comida es muy buena, y los precios tambi\u00e9n. La mayor\u00eda de las veces que fui, hemos pedido parrilla, pero tambi\u00e9n tienen una variedad importante de platos, que incluye pescados, mariscos, minutas, etc."
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ferrarijuanma", 
+      "text": "Se come bien y barato, lo t\u00edpico es comer algo de parrilla o alg\u00fan bife de chorizo, es lo que m\u00e1s sale y lo mejorcito. No hay gamour, no es sofisticado, pero para comer el lugar cumple y para m\u00ed es lo que m\u00e1s importa. No es un lugar para llevar a tu pareja en el primer aniversario, pero lo recomiendo para festejar alg\u00fan cumplea\u00f1os con amigos si no se quiere ir muy lejos o para comer con la familia."
+    }, 
+    {
+      "date": "9 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ayegv", 
+      "text": "La comida es economica y hay gran variedad. No tiene nada muy extravagante, es un tipico lugar con comidas clasicas!\r\nTodos los dias, de lunes a lunes (dia y noche) ofrecen algunos platos mas baratos, (qe van variando)"
+    }, 
+    {
+      "date": "16 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "solcimat1", 
+      "text": "Un lugar para comer bien y economico, cuando se llena es muy ruidoso y salis con olor a comida, pero la atenci\u00f3n es excelente y platos de muy buena calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Yory.-", 
+      "text": "La atenci\u00f3n es excelente, la comida rica y abundante y los precios accesibles. Ya fui varias veces y no me arrepiento. Recomendado 100%."
+    }, 
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sebalfano", 
+      "text": "Excelente comida, muy buena atenci\u00f3n, variedad de platos y todos muy sabrosos. Los cumplea\u00f1eros reciben un agasajo especial."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "3 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Popea", 
+      "text": "La empanada de queso y cebolla era un masacote amorfo horroroso. Los \u00d1oquis a la bolognesa eran pedacitos de masa con agua coloreada en el fondo del plato y un mont\u00f3n de carne picada arriba."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "DaianaJudit", 
+      "text": "calidez y buen ambiente"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jessiandsilver", 
+      "text": "Por ser la primera vez que comemos algo en la nueva gata, a pesar de ser vecinos, quedamos muy sorprendidos por la calidad y la rapidez del servicio, realmente muy confiables, para recomendar. muy superiores a cadenas importantes que hemos conocido"
+    }, 
+    {
+      "date": "26 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "florm", 
+      "text": "Una de las mejores pizzas de buenos aires,hace 25 a\u00f1os que la hacen igual, una pena no probarla alguna vez"
+    }, 
+    {
+      "date": "18 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ivonduk", 
+      "text": "Conoc\u00eda el lugar porque tiene delivery. La calidad de la comida es excelente y abundante. El lugar en si es una pizzer\u00eda con luces de tubo y un televisor prendido. Muy prolijo. Ideal para juntarse con amigos o familia y salir del paso."
+    }, 
+    {
+      "date": "31 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fichiec", 
+      "text": "Buen servicio, mi sitio preferido en Buenos Aires para una comida familiar."
+    }
+  ]
+}

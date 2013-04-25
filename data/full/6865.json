@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "24 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ceci_zp", 
+      "text": "Excelente comida y servicio"
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "marianojaja", 
+      "text": "Para ir comer sus milanesas gigantes y bien sabrosas, de carne o pollo, acompa\u00f1adas de caseras papas fritas, todo preparado con aceite no delicada. La pinta no invita y la atenci\u00f3n no descolla para p\u00fablicos acostumbrado a lo refinado, es m\u00e1s bien una parada tachera s\u00f3lo para entendidos."
+    }, 
+    {
+      "date": "14 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "george1970", 
+      "text": "Las milanesas tanto de carne o pollo son la especialidad del lugar, gigantes y riquisimas.  (para compartir si o si), todo casero y a un muy buen precio. Muy buena atencion de los mozos (Cata una masa). Lugar ideal para ir a comer en serio!"
+    }, 
+    {
+      "date": "28 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "amadanervo", 
+      "text": "Tipico bodegon, excelente la pizza!! recomendable"
+    }, 
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "angelesjanza", 
+      "text": "bien de barrio.. linda esquina con un gran toldo para comer en la vereda.."
+    }, 
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "buchita", 
+      "text": "Muy buena atencion del personal. Buen lugar para pasar con amigos y no gastar mucho dinero."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "amorexica", 
+      "text": "Las milanesas son riqu\u00edsimas y gigantes!! Las papas fritas buen\u00edsimas tambi\u00e9n. La atenci\u00f3n de los mozos es un placer, como los mozos de antes. Una muy buena opci\u00f3n para comer rico, abundante y barato."
+    }, 
+    {
+      "date": "27 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Moshka", 
+      "text": "Super super las milanesas, las porciones de tartas son enorrrmes, las ensaladas de fruta son geniales, grandes y riquisimas as\u00ed como tambien frescas. El flan con dulce es genial."
+    }
+  ]
+}

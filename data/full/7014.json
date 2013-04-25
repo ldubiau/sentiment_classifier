@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "9 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sole_E", 
+      "text": "Pense que era mejor por la fachada, pero lo cierto es que tiene un precio medio y comida de calidad baja. Ejemplos como las rabas que estaban mal limpiadas y aceitosas, la cazuela de pulpo estaba recalentada y seca, las ensaladas no eran demasiado elaboradas (muy basicas). Nada se destac\u00f3, la parrilla es normal."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Hab\u00eda quedado pendiente el comentario de este lugar,que como todo tenedor libre tiene cosas a fevor y en contra. A favor, la abundancia de los platos que uno puede servirse y la variedad de los mismos. En contra, la incomodiad de tener que hacer colas interminables para poder lograr un plato elaborado. El ambiente es muy amplio y bien decorado. Los ba\u00f1os,amplios y tan bien puestos como el restaurante en general. Un tenedor libre como tantos, pero con precios muy altos."
+    }, 
+    {
+      "date": "5 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ferchispita", 
+      "text": "Fuimos a cenar ya que nos hab\u00edan comentado que era buen lugar y lo comprobamos. La atenci\u00f3n es excelente, los mosos muy atentos, la recepci\u00f3n y cocineros muy amables. La comida tambi\u00e9n es muy buena, faltar\u00eda m\u00e1s variedad de pastas y mariscos, pero lo que tienen esta muy bien. Otra cosas que me pareci\u00f3 buena es que hay cerveza y gaseosa libre. Algo en contra es que las mesas para 2 est\u00e1n cerca de las que comparten grupos de gente, tendr\u00eda que ser m\u00e1s alejadas. Me pareci\u00f3 un lugar de 8 puntos."
+    }, 
+    {
+      "date": "21 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "solcimat1", 
+      "text": "Siempre que fuimos nunca nos decepciono, los mozos son muy atentos y siempre buscan la comodidad del cliente, la parrilla muy buena, el men\u00fa de pastas un poco pobre."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mercury", 
+      "text": "El lugar es gigante y las mesas estan bien separadas, tiene estacionamiento y un muy buen pelotero.\r\nLos mozos y el personal con una atencion correcta.\r\nLo mejor fue la comida, la parrilla excelente, la mejor pese a ser de tenedor libre. Las pastas muy buenas y las comidas elaboradas como la cazuela de pollo excelentes."
+    }, 
+    {
+      "date": "10 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Yazmin", 
+      "text": "Excelente el lugar, es hermoso. La comida me parecio muy buena y la atenci\u00f2n tambien."
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "13 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Quantro", 
+      "text": "Buena pizza, buenos platos del dia, una de las pocas pizzerias tipo \"de barrio\" que se salvan de la ola \"fashion palermo\". Recomiendo para delivery y para comer en las mesas de afuera."
+    }, 
+    {
+      "date": "25 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "narcisadany", 
+      "text": "El lugar es tranquilo, poca gente, te atienden r\u00e1pido, y la comida est\u00e1 bien y a buen precio, sobretodo teniendo en cuenta que las porciones son bastante generosas."
+    }, 
+    {
+      "date": "4 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "flordeojos", 
+      "text": "Lindo lugar, tranquilo, fuimos a cenar de noche tarde y nos atendieron como si fueran las 3 de la tarde....sin problemas.\r\nLos fideos a la bolognesa RIQUISIMOS, los \u00f1oquis de mi novio estaban espectaculares, salimos re pipones :)\r\nLo recomiendo, econ\u00f2mico por la cantidad de las porciones, y comida muy rica."
+    }, 
+    {
+      "date": "7 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "biggest", 
+      "text": "La pizza a piedra es rica, sin demasiadas pretenciones. Buenas empanadas (aunque precocidas). La cerveza vino bien fria, buen detalle."
+    }, 
+    {
+      "date": "10 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "flopinina", 
+      "text": "pizzas riquisimas, una masa fina, a la piedra, con ingredientes de primera calidad"
+    }, 
+    {
+      "date": "18 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "hstupene1", 
+      "text": "Muy rica la pizza."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "federac", 
+      "text": "La pizza es excelente al igual que las empanadas. La atenci\u00f3n de diez."
+    }, 
+    {
+      "date": "2 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hstupene", 
+      "text": "Muy buena Pizza."
+    }
+  ]
+}

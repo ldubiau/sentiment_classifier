@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "julianadaruich", 
+      "text": "Es un agradable lugar estilo campo. acojedor. No es un lugar muy grande ni de lujo, pero es ideal para ir con amigos y/o familia. Se come bien, disfrutando un show folcklorico. Vale la pena recomendarlo, ya que por su ubicacion solo es conocido por la gente de la zona!"
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "DANIELEDGA", 
+      "text": "Muy buenas las empanadas  con masa casera y  imperdibles las pastas caseras, especialmente los \u00f1oquis rellenos.\r\nLos miercoles  a la noche: pastas libres.\r\nComida buena,casera y accesible."
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Me da alegr\u00eda encontrar este restaurante aqu\u00ed, porque est\u00e1 como escondido en un barrio popular alejado del centro de Burzaco. El estilo es gauchesco m\u00e1s que de campo con arboleda a\u00f1eja y el lugar es m\u00e1s bien chico con poca capacidad de comensales. La parrillada, las empanadas y el bud\u00edn con dulce, todo excelente. La atenci\u00f3n, buena, sin destacarse. Muy econ\u00f3mico."
+    }, 
+    {
+      "date": "14 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "halarcon", 
+      "text": "Restaurant de campo es la definici\u00f3n m\u00e1s acertada. Amable atenci\u00f3n. M\u00fasica folcl\u00f3rica de fondo y la cocina est\u00e1 a la vista. Empanada jugosa con masa casera y carne picada gruesa. Bife generoso. El flan y la crema son mi debilidad. He probado pastas otros d\u00edas y le agregan imaginaci\u00f3n la men\u00fa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lcandel", 
+      "text": "Lugar fuera de cualquier circuito conocido, en el medio del barrio, el quincho de una casa. Atencion super amable e informal: \"como en casa\". LAS MEJORES EMPANADAS DE CARNE, masa casera, fritas, bien jugosas... no pueden irse sin probarlas (y llevarse una docena a casa). Los miercoles es dia de pastas libres: tallarines (huevo o verdes), canelones, ravioles, o \u00f1oquis; Salsas varias. Las mesas est\u00e1n bastante juntas, pero la comida y la atencion sobrepasan ampliamente cualquier desperfecto. Tambien tiene parrila y pizzas otros dias, pero en mi opinion lo mejor son las pastas y las empanadas."
+    }
+  ]
+}

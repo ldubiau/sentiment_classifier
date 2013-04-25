@@ -1,0 +1,408 @@
+{
+  "malos": [
+    {
+      "date": "24 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Telmi", 
+      "text": "Es un resto chico, sencillo, m\u00e1s bien para parejas. Lamentablemente la atenci\u00f3n no fue buena, demoraron con los platos y uno vino equivocado, lo com\u00ed igual para no tener que esperar m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "BCGS", 
+      "text": "Ambiente intimo y relajado, gracias a la luz y m\u00fasica. Atenci\u00f3n al tono. Platos sin mucho riesgo pero con una vuelta adicional del Chef. Precios imbatibles para la zona y calidad. Me gustar\u00eda alg\u00fan agregado de pasta (corta o larga) y que la comida demorara solo un poco menos, pero entiendo que es el precio a asumir por todo lo anterior. Vamos a volver."
+    }, 
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maximilianom18", 
+      "text": "Excelente lugar, muy c\u00e1lido! La comida y la atenci\u00f3on muy buena, sin dudar, lo recomiendo para ir en pareja y estar tranquilos. Un saludoa a Guido, un genio!"
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "oleoleandrito", 
+      "text": "Festeje mi cumplea\u00f1os. Excelente comida y atencion de Guido\r\nUn lugar intimo y como en casa"
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Monitoespiro", 
+      "text": "Un lugar simple para los q quieren disfrutar una cena sin que nadie los moleste, la carta no es muy variada pero si muy rica...la atencion de Guido es inigualable!"
+    }, 
+    {
+      "date": "8 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "AndrewL", 
+      "text": "Una experiencia excelente. El ambiente es s\u00faper c\u00e1lido e \u00edntimo con luz tenue y velas, tipo \"hippie\" y no \"paquete\"; ideal para parejas.\r\nLa atenci\u00f3n de Guido sobresale por su dedicaci\u00f3n y ganas de lograr que comas lo que realmente quer\u00e9s. El a\u00f1o pasado la comida me pareci\u00f3 m\u00e1s \"ex\u00f3tica\", pero esta vez igualmente fue muy buena. Lo que m\u00e1s gust\u00f3 fueron las quesadillas de entrada y la torta h\u00fameda de postre.\r\nLos precios son correctos, pero con el descuento de Gu\u00eda \u00d3leo se convierte en una alternativa bastante econ\u00f3mica considerando que es de muy buen nivel. Sin lugar a dudas voy a volver."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Panchita3", 
+      "text": "Me gust\u00f3, es raro??, buena comida y servicio"
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AmiraGoo", 
+      "text": "Fui con dos amigas y la pasamos barbaro en un ambiente \u00edntimo. La comida sabrosa y el precio acorde ... un lugar MUY COOL para volver con mi pareja!"
+    }, 
+    {
+      "date": "28 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "santiago_schl", 
+      "text": "Es un lugar muy chico pero muy agradable, la comida es muy buena y rica. La ambientacion es muy linda...recomendable para una noche en pareja."
+    }, 
+    {
+      "date": "5 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "faycla", 
+      "text": "Muy buena atenci\u00f3n y cocina. El lugar est\u00e1 bien ambientado pero es un poco ruidoso y peque\u00f1o. Recomendable."
+    }, 
+    {
+      "date": "29 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar agradable, \u00edntimo y acogedor y una atenci\u00f3n esmerada. La comida es buen\u00edsima. Cenamos quesadillas de vegetales, que estaban  muy sabrosas, risotto verde con calamares salteados y pesca del d\u00eda (en este caso salm\u00f3n blanco) con costra de hierbas sobre vegetales grillados, riqu\u00edsimos. Precios muy buenos, y adem\u00e1s, con descuento de GO. O sea, a volver!!"
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Majo57", 
+      "text": "Fuimos tres amigas y nos atendieron muy bien, es un lugar peque\u00f1o y comida muy rica. Tomamos vino y bebida sin alcohol y postre."
+    }, 
+    {
+      "date": "29 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Rajope", 
+      "text": "Tal vez fui con muchas expectativas por los comentarios. De todas formas la comida es buena, al igual que la atenci\u00f3n"
+    }, 
+    {
+      "date": "19 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Kikilucero", 
+      "text": "El lugar es chiquito, ideal para ir en pareja/s. No tienen muchos platos pero la oferta que tienen es buena. Modifican el men\u00fa cada 15 d\u00edas.\r\nLa atenci\u00f3n es muy esmerada y cordial. Ampliamente recomendable."
+    }, 
+    {
+      "date": "24 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Vyvyen", 
+      "text": "Luces bajas y buena decoraci\u00f3n. Atenci\u00f3n muy buena. Los platos demoran mucho en salir, las porciones tirando a escasas. Con el descuento \u00f3leo la relaci\u00f3n precio calidad es buena."
+    }, 
+    {
+      "date": "13 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "almen", 
+      "text": "El lugar esta bien ambientado, la comida muy buena y el servicio muy bueno, la unica queja es que tardaron bastante en traer la comida."
+    }, 
+    {
+      "date": "7 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Martiniaddict", 
+      "text": "Berkana fue un muy agradable descubrimiento! La comida es muy buena y la relacion precio calidad es EXCELENTE. Los Choros de entrada, mejores que en ningun otro lugar especializado. El ceviche de salm\u00f3n es ideal para aquellos que gustan de lo peruano y sin tanto picante, el risotto con frutos de mar exquisito! Comimos un postre de chocolate inigualablemente delicioso! La ambientaci\u00f3n del lugar es c\u00e1lida y muy bonita, y la atenci\u00f3n por sus propios due\u00f1os es algo que hace la diferencia."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Zacaria", 
+      "text": "Lindo lugar, bien ambientado y atenci\u00f3n con onda.\r\nLa comida y la relaci\u00f3n comida-precio con GO es excelente."
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vivid", 
+      "text": "Agradable con buena comida y atenci\u00f3n amable. Panera deliciosa.Excelente relaci\u00f3n precio calidad. Volver\u00e9."
+    }, 
+    {
+      "date": "12 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "drno", 
+      "text": "Atencion muy buena y personalizada. La comida muy rica, carta bastante resumida. Vinos depende del dia. Muy buena relacion costo-beneficio. El ambiente es bastante romanticon, luces bajas, musica tranqui. Recomendable."
+    }, 
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tyma", 
+      "text": "aceptable, le un poco de experiencia y esta un poco escondido."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marujis07", 
+      "text": "La comida es bien casera y riqu\u00edsima, el chef logr\u00e1 versiones sabrosas de comidas simples con un toque diferente. El suspiro lime\u00f1o de postre es un manjar! Adem\u00e1s la atenci\u00f3n es muy personal, un ambiente super relajado para pasarla bien con pareja o amigos. Muy buenos precios, tanto de comida como los tragos. Seguiremos yendo!!"
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "chivov", 
+      "text": "Muy ricos los platos y muy buena la atenci\u00f3n"
+    }, 
+    {
+      "date": "6 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "almen", 
+      "text": "Lindo lugar, tranquilo, muy buena atencion, y la comida riquisima, muy gustosa, los precios estan bastante bien."
+    }, 
+    {
+      "date": "17 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vegancyn", 
+      "text": "Se come muy rico, es un ambiente muy calido, donde se puede disfrutar de una buena musiquita mientras se deleita el paladar con los sabrosos platos del lugar. Super accesible y una atencion  de lujo!"
+    }, 
+    {
+      "date": "8 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "thedrix", 
+      "text": "Muy lindo ambiente, la atenci\u00f3n es muy buena y la comida estaba muy rica."
+    }, 
+    {
+      "date": "1 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "aleb74", 
+      "text": "La verdad que nos atendieron muy bien, el ambiente es calido ( como estar en casa), linda musica de fondo, la comida hecha en el momento. La carne  super tierna y como la pedimos! ideal para ir en pareja! muy buena onda el chico que nos atendio! ah el precio  es muy accesible!"
+    }, 
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "roroita", 
+      "text": "Excelente lugar, ideal para ir en pareja, la atencion muy buena, la comida muy rica y sabrosa y los precios razonables. Lo descubrimos sin querer porque esta un poco oculto, pero vale la pena todo, es muy recomendable."
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "El Se\u00c3\u00b1or", 
+      "text": "Nos encanto el lugar. Es muy bueno para ir en pareja.\r\nLa comida muy bien elaborada y sabrosa. Y la atenci\u00f3n tranquila y buena. Todo muy c\u00e1lido."
+    }, 
+    {
+      "date": "2 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mediaramas", 
+      "text": "Excelente lugar, ideal para soprender a tu chica :), se nota desde el lugar, la atencion y la comida que todo esta muy cuidado, comida muy variada y todo muy rico!"
+    }, 
+    {
+      "date": "13 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Caronoemi", 
+      "text": "Excelente en todo, el ambiente es raro, es como estar en casa con amigos muy ameno, la comida deliciosa, la atenci\u00f3n impecable y el precio muy accesible."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marina1800", 
+      "text": "Nos encant\u00f3 el lugar, es un restaurant chiquito, preciosa la ambientaci\u00f3n, con muy buena atenci\u00f3n y comida riqu\u00edsima. De cortes\u00eda trajeron unas pizzetitas deliciosas, despu\u00e9s el solomillo con batatas al plomo estaba impecable y el lomo saltado muy bien condimentado. Lo recomiendo ampliamente!!!"
+    }, 
+    {
+      "date": "29 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CLAUDIAlapaku", 
+      "text": "La verdad todo Excelnte!\r\nListo!"
+    }, 
+    {
+      "date": "22 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Demente", 
+      "text": "Muy buen lugar. Muy \u00edntimo. La puerta est\u00e1 cerrada y habr\u00e1 6 mesas en total. La carta es muy reducida (5 platos) pero MUUUY RICO. Yo me ped\u00ed una bondiola con pure de batatas espectacular y muy abundante y mi novia se pidi\u00f3 un arroz con vegetales y mariscos, de 10 tmb. No tom\u00e9 vino, as\u00ed que no puedo opinar de eso. Muy bueno el servicio y relativamente barato (con el descuento) teniendo en cuenta que es Palermo. Recomendable"
+    }, 
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "daniel090712", 
+      "text": "La verdad que es un lugar ENCANTADOR, muy dulce y acogedaor, la musica estaba genial y  la atencion de la morochita es impecable.VOLVERE! SIN DUDA"
+    }, 
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "egar", 
+      "text": "La comida excelente. El servicio bueno,voluntarioso pero demor\u00f3 algo m\u00e1s de lo debido. Lo m\u00e1s flojo: los ba\u00f1os"
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pichoneja", 
+      "text": "La mejor eleccion que hemos hecho en mucho tiempo. La comida exquisita, la atencion super amable y el lugar, aunque un poco escondido, es muy lindo. Volvere, volvere, volvere... Lo super recomiendo. Ah! El precio adem\u00e1s, es muy conveniente. Me encanto!"
+    }, 
+    {
+      "date": "2 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Carlitamil", 
+      "text": "Recomiendo mucho este lugar. Es muy agradable y se come como en los mejores restaurantes de palermo, pero a menor precio. Realmente vale la pena ir hasta all\u00e1."
+    }, 
+    {
+      "date": "1 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mein", 
+      "text": "El lugar est\u00e1 de diez. La atenci\u00f3n es muy muy buena. Y la comida de primera. Nos sorprendimos la verdad, porque si bien est\u00e1 en una calle que no es tan linda y un poco oscura no tiene nada que envidiarle a ning\u00fan restaurante. EXCELENTE. Recien estan empezando y merecen que que les vaya bien. La relaci\u00f3n precio calidad es increible."
+    }, 
+    {
+      "date": "1 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gabycqa", 
+      "text": "Excelente lugar \u00edntimo para ir a cenar. Muy buena ambientaci\u00f3n y los platos preparados con amor.\r\nSe nota preofesionalismo y dedicaci\u00f3n en lo que hacen. 100% recomendable!!!\r\nEl ceviche es exquisitoooo"
+    }
+  ]
+}

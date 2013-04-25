@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "10 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "NAHIRMARA", 
+      "text": "Es mal\u00edsimo, hicimos un pedido delivery.  Llame a las 13:15 y lleg\u00f3 a las 15:30 hs cuando me hab\u00edan dicho que tardaban 45 minutos llegaban. La verdad es que si trabaj\u00e1s es preferible pedir en otro lado porque te dicen que ya sali\u00f3 y llegan 2 horas despu\u00e9s. No lo recomiendo."
+    }, 
+    {
+      "date": "21 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Tipio", 
+      "text": "No coman en ese restaurante. Trabaj\u00e9 en la cocina por un d\u00eda y es incre\u00edble lo sucio que est\u00e1."
+    }, 
+    {
+      "date": "31 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "JuanMRo", 
+      "text": "Falta mejorar la atenci\u00f3n. El precio y la comida est\u00e1n bien. \r\nNada para destacar, ni bueno ni malo."
+    }, 
+    {
+      "date": "26 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nicodos", 
+      "text": "La comida fue buena, pero no me sent\u00ed a gusto. Y un detalle a tener en cuenta es que la bebida gaseosa la venden s\u00f3lo en vaso, me pareci\u00f3 mal eso."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sasa77", 
+      "text": "estoy muy conforme con este restaurante, la comida es abundante, muy buena y barata"
+    }, 
+    {
+      "date": "21 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rodhesia", 
+      "text": "Yo compart\u00ed la comida con otra persona y compr\u00e9 para llevar. El men\u00fa ejecutivo sale $15."
+    }, 
+    {
+      "date": "3 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "evan", 
+      "text": "Exelente comida, muy buena la atenci\u00f3n y ambientaci\u00f3n acorde al estilo de comida."
+    }
+  ]
+}

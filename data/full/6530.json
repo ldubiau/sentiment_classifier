@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "8 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Atendida por sus due\u00f1os de una manera c\u00e1lida y dedicada,encontramos este restaurante que ofrece una comida casera con productos de muy buena calidad.Los fines de semana, variedad de cervezas y tapeos para todos los paladares. Para volver y sentirse como en casa."
+    }, 
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "roverde", 
+      "text": "El lugar es agradable, bien decorado. La atenci\u00f3n es buena. La comida es casera y rica, las porciones abundantes, las tapas tradicionales para dos est\u00e1n muy bien servidas, la cerveza la trajeron bien fr\u00eda, hay una buena carta de cervezas artesanales. Hab\u00eda pocas mesas ocupadas y eso le quita un poco de ambiente."
+    }, 
+    {
+      "date": "23 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adrichaguen", 
+      "text": "un bar de picadas,con buena calidad de los productos y abundantes. Atenci\u00f3n amable. Ambiente de barrio. Recomendable"
+    }, 
+    {
+      "date": "11 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "edu59", 
+      "text": "volveremos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "malaga", 
+      "text": "Riqu\u00edsimas picadas. Muy buena atenci\u00f3n. Un lugar para disfrutar con amigos."
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "patojugo", 
+      "text": "Es un lugar muy c\u00e1lido y las picadas son ricas y abundantes.\r\nLo recomiendo!!"
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andregago", 
+      "text": "Excelente picadas, abundantes y riquisimas.Lugar muy c\u00e1lido.\r\nMuyyy recomendable"
+    }, 
+    {
+      "date": "14 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Malevo", 
+      "text": "Excelente tapeo de Mariscos, incluye ostras gratinadas. Muy buenas picadadas y variedad de cervezas. Recomendable, en la zona hay muy pocas opciones y esta es una muy buena."
+    }
+  ]
+}

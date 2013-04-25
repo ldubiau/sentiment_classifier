@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "22 Ene 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Rodoc", 
+      "text": "se nota que le quisieron copiar la idea de los Restaurantes PANINI de Palermo y Recoleta. La verdad que les hace mala fama a los verdaderos PANINI. Al tener el mismo nombre, les hace mala reputacion."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mgf", 
+      "text": "Un lugar agradable con buena atenci\u00f3n, vale la pena."
+    }
+  ]
+}

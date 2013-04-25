@@ -1,0 +1,358 @@
+{
+  "malos": [
+    {
+      "date": "22 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Marliu", 
+      "text": "La verdad es que fuimos con una pareja amiga por la buena calificacion de la guia y no nos fuimos con ganas de volver. El ambiente: parrilla cl\u00e1sica de las de los a\u00f1os 80 y poca refrigeraci\u00f3n. La comida: Nada del otro mundo, bife algo pasado, achuras aceptables. Estacionamiento? Bastante que desear enfrente del restaurante detras de un guardrail. Lo que claramente quiero destacar es la atenci\u00f3n, empezando por el cuida coches, siguiendo por el mozo y hasta una de las cocineras que tuvo la amabilidad de preparale comida a nuestro beb\u00e9. Por lo ofrecido, precio excesivo."
+    }, 
+    {
+      "date": "19 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Clafarja", 
+      "text": "Pros: atenci\u00f3n r\u00e1pida, comida sabrosa.\r\nContras:Lugar reducido, olor a frito constante, precio caro, estacionamiento en la calle."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "hufran", 
+      "text": "Servicio. Correcto.porciones suficientes y precios razonables. Si bien tiene tarjetas, no estaban anunciadas. Hubo un descuento por pago en efectivo.... Volveremos"
+    }, 
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Molidan", 
+      "text": "Fuimos s\u00e1bado a la noche, comimos bien, muy ricas papas fritas."
+    }, 
+    {
+      "date": "22 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Adriaferran", 
+      "text": "La entra\u00f1a estuvo muy rica, jugosa y tierna. La colita de cuadril no la recomiendo, seca e insulsa. Volver\u00e9 para probar otros cortes. Panera b\u00e1sica. Servicio bien aunque demasiado acelerado, no te dan tiempo para elegir con tranquilidad. Ambiente regular, se qued\u00f3 en la d\u00e9cada de los ochenta. Carta de vinos un poco ca\u00f3tica aunque alg\u00fan buen vino tienen para acompa\u00f1ar las carnes asadas. Mousse de chocolate un desastre, hace bastante que no com\u00eda una tan mala. S\u00f3lo por la carne regresar\u00e9 en otra oportunidad."
+    }, 
+    {
+      "date": "27 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "VickManana", 
+      "text": "Fui varias veces con mi pareja y se come bien. Los mozos son todos divinos y muy r\u00e1pidos. El lugar es est\u00e1ndar, pero limpio, bien iluminado. La comida es muy buena en general y los precios no son excesivos. Lo \u00fanico que me decepcion\u00f3 hace poco fue el flan, que estaba algo quemado y seco."
+    }, 
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bony", 
+      "text": "Buena y expeditiva atenci\u00f3n. Muy bien la provoleta y aceptable la entra\u00f1ita. Considerando que en el tema parrilla no es f\u00e1cil alcanzar lo que uno puede lograr en su casa, esta me parece una opci\u00f3n razonable."
+    }, 
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Richy", 
+      "text": "La comida estuvo algo dispar. Muy bien el matambre, algo mas flojo la entre\u00f1a y las achuras. Los postres, excelentes y la atenci\u00f3n impecable. Volver\u00e9 seguramente."
+    }, 
+    {
+      "date": "8 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elverde", 
+      "text": "Una parrilla con ambiente familiar, con precios adecuados a la prestaci\u00f3n que se recibe. Tanto la calidad de la carne como las achuras var\u00eda seg\u00fan la suerte del comensales entre regular y muy buena. La atenci\u00f3n es aceptable, al igual que el ambiente. Como para probar si uno es la zona y est\u00e1 en familia o con un grupo de amigos y no se quiere gastar mucho."
+    }, 
+    {
+      "date": "17 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gourdanito", 
+      "text": "Muy buena parrilla. A pesar de ser de la zona, no la conociamos; pero creo que haremos una nueva visita. El asado, que comimos, muy tierno y sabroso, y bien jugoso como nos gusta; y no en todas las parrillas nos respetan este grado de coccion. La carta es bastante escuesta; solamente tiene cortes tradicionales; y no disponian del unico corte especial que ofrecen (chivito). Los precios son un tanto caros;y cobran $6 de servicio de mesa. Pero abonando al contado descuentan 10%; con lo cual la ecuacion final es bastante favorable. Si andas por la zona; conoce el lugar,que seguramente te agradara"
+    }, 
+    {
+      "date": "28 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "DrYaco", 
+      "text": "No la conoc\u00edamos y la encontramos por gu\u00eda \u00f3leo. Muy buen ambiente, sal\u00f3n chico con pocas plazas, poco ruido, nada de humo, la comida muy buena, en especial los postres. El servicio podr\u00eda ser mejor aunque es bueno. Muy buena opci\u00f3n en la zona."
+    }, 
+    {
+      "date": "21 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gracielaas", 
+      "text": "La verdad me desilucion\u00f3.Muy caro para lo que ofrece,carta escueta con faltantes y servicio de mesa carisimo.Creo que hay lugares mejores."
+    }, 
+    {
+      "date": "28 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sheaffer", 
+      "text": "Muy buena carne, tierna y a punto, muy buena atenci\u00f3n, desde los mozos hasta el playero. Limitada carta de vinos. Ideal para ir en familia."
+    }, 
+    {
+      "date": "10 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "patata", 
+      "text": "Nos encant\u00f2 ir con amigos y compartir en un ambiente agradable y con una atenci\u00f3n m\u00e1s que personalizada\r\nRecomendables todos los postres caser\u00ecsimos\r\nMuy buenos precios y calidad."
+    }, 
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "manumatt", 
+      "text": "Llegamos, es un lindo lugar, comimos bien con precios razonable y nos atendieron bien.\r\nVolveria con grupo de amigos"
+    }, 
+    {
+      "date": "18 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gestro", 
+      "text": "La verdad que com\u00ed el mejor bife de chorizo que recuerde, muy sabroso y de buena calidad. El lugar lindo, sencillo, acogedor, limpio y sin olor a comida. Buena comida y servicio, pero muy caro"
+    }, 
+    {
+      "date": "2 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "apolonline", 
+      "text": "Se come bien, la atenci\u00f3n es normal y el lugar, adem\u00e1s de tener las mesas muy juntas, parece que se qued\u00f3 en el tiempo. Sin pretensiones, cumple. Un detalle: te rajan temprano."
+    }, 
+    {
+      "date": "10 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Esperaba otra cosa, me habian hablado muy bien. No com\u00ed mal, pero no era nada destacable. Est\u00e1 correcto."
+    }, 
+    {
+      "date": "6 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vaca", 
+      "text": "Tiene muy buena carne y provoleta. \r\nEl servicio es famliar y ameno. \r\nExcelente el asado y matambrito, tambi\u00e9n provoleta."
+    }, 
+    {
+      "date": "7 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "lidsutd", 
+      "text": "Demasiado caro para lo que es."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Bony", 
+      "text": "Volv\u00ed. Reincid\u00ed con la entra\u00f1ita y puedo decir que es la mejor que com\u00ed en mi vida, tiern\u00edsima y en un punto de cocci\u00f3n perfecto. Muy buena la provoleta y el asado, papas fritassequitas... en fin todo bien.\r\nCarlitos es una parrilla simple pero excelente y ese es el secreto, no se pretende gourmet pero lo que hace lo hace muy bien. Carne de primera y el parrillero un verdadero maestro. La atenci\u00f3n sigue siendo amable y expeditiva."
+    }, 
+    {
+      "date": "5 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Cucacuervo", 
+      "text": "Fui con mi novia, una amiga de ella y el novio. El lugar esta medio \"oculto\" pero bien ambientado (parrilla familiar). La comida EXCELENTE. No tenian \"parrillada\" por lo cual le pedi al mozo q nos arme una entradita de parrilla e ibamos viendo. Las mollejas las mejores q comi, chorizos bien, salchicha parrillera, morcilla y chinchulines tmb muy bien cocido todo. Luego nos ofrecio Matambrito, el cual fue un gusto haber comido. Postres muy ricos, yo pedi el \"Postre borracho\" y era un estilo tiramisu, bien caserito, exquisito. Muy recomendable para ir en pareja o con amigos. Atencion muy buena."
+    }, 
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "wolfy", 
+      "text": "Excelente calidad de la comida. Se destaca la carne- isuperable -, las ensaladas preparadas con esmero por Nelly y los riquisimos postres caseros preparados por Olga."
+    }, 
+    {
+      "date": "31 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "terebeatriz", 
+      "text": "Muy buen ambiente, la carne una manteca, muy buena la atencion de los mozos estan en todos los detalles, y los postres  son los mejores, da ganas de volver pronto."
+    }, 
+    {
+      "date": "25 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Prin", 
+      "text": "Me gusto mucho esta Parrilla,la atencion del mozo(Robert)y del parrillero excelentes.La carne un espectaculo,los postres caseros imperdibles.Para ir y comer excelente.Ahora esta todo renovado lo recomiendo!!."
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aguslynn", 
+      "text": "De las mejores parrillas de zona norte. Martin, el parrillero es un grande. El local fue refaccionado hace unos meses y ahora esta mucho mas grande y con las mesas mas espaciadas. Hay que ir pensando que no es un restaurant de moda pero que se come los mejores asados."
+    }, 
+    {
+      "date": "29 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Chelein", 
+      "text": "el lugar es increible, mantiene luego de 20 anos la calidad de la parrilla, el parrillero un fenomeno y la atencion muy buena\r\nel minibife era una manteca y la mousse excelente auqneu un poquito cara.\r\nbuenos vinos y beunas achuras\r\nun lugar para ir cuando se quiere comer buena carne\u00a1\u00a1\u00a1\u00a1"
+    }, 
+    {
+      "date": "7 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "framayon", 
+      "text": "la verdad que muy bueno, desde el mozo hasta el parrillero, los dos que nos atendieron lo hicieron de 10! eso que fuimos con 30 grados de calor y el tipo estaba al lado de la parrilla...\r\nhay que pagar por comer muy bien.\r\nDesde el pan hasta el postre, todo MUY rico."
+    }, 
+    {
+      "date": "3 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "janniss", 
+      "text": "Impecable la parrilla,  El parrillero (Mart\u00edn) un capo. Los mozos muy atentos y la Sra. Olga una MASTER con sus postres caseros. Vayan a comer bien y paguen por la calidad"
+    }, 
+    {
+      "date": "15 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Mivv", 
+      "text": "la carne es buenisima, la atencion tambien. Si bien no es cool, la gente que va hace q carlitos se vea mas cool con los autos estacionados en la salida. Ambientacion sin pretensiones, donde lo que mas vale es la buena comida y el ambiente como en casa. Super recomendable. No se va a ir nunca desconforme."
+    }, 
+    {
+      "date": "25 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Porots", 
+      "text": "Muy buena calidad de la comida y el servicio. Los mozos so muy atentos. Recomendable, muy buena parrilla."
+    }, 
+    {
+      "date": "20 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lidsutd", 
+      "text": "Es un poco caro para lo que es, no en el sentido de la comida, sino en t\u00e9rminos de ambiente y de servicio... como la cocina est\u00e1 ah\u00ed nom\u00e1s, se puede hasta oler el aceite de las frituras! Una pared aunque sea, por favor."
+    }, 
+    {
+      "date": "24 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cae", 
+      "text": "Ambiente muy c\u00e1lido y familiar."
+    }, 
+    {
+      "date": "23 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "san", 
+      "text": "Excelente la parrilla y los postres caseros."
+    }, 
+    {
+      "date": "25 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jberaza", 
+      "text": "El guiso de lentejas incre\u00edble y la trucha hambrienta, mejor todav\u00eda.\r\nMuy bueno."
+    }
+  ]
+}

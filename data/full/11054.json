@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "12 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Sagan", 
+      "text": "Es una de las ultimas apariciones del barrio chino, buena relaci\u00f3n precio calidad y mucha variedad de platos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "faltanEspejos", 
+      "text": "La carta es muy variada y con platos que no vi en otros restaurantes del mismo tipo. Comimos muy bien y la atenci\u00f3n fue excelente. Relaci\u00f3n costo/beneficio de las mejores del barrio chino. Volveremos!"
+    }, 
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Soosanita", 
+      "text": "Por mucho tiempo no lo tuve en cuenta porque el lugar no llama la atenci\u00f3n. \r\nUn d\u00eda, quer\u00edamos comida chica por el barrio chino y no quer\u00edamos esperar en los lugares que solemos ir.\r\nLa comida tard\u00f3 en llegar pero los platos eran riqu\u00edsimos, me animo a decir que m\u00e1s que los lugares por ah\u00ed que se suelen llenar.\r\nVolv\u00ed varias veces m\u00e1s, siempre tardaron con los platos pero sal\u00ed siempre satisfecha.\r\nUna agradable sorpresa."
+    }
+  ]
+}

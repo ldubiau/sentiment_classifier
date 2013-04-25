@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "9 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elturco55", 
+      "text": "Muy buena atencion y muy buena comida supervisada."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fedesnieg", 
+      "text": "sumamewnte recomendable"
+    }, 
+    {
+      "date": "6 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "coconut", 
+      "text": "El mejor lugar para almorzar en los mediodias del Once, aunque los due\u00f1os nuevos son mas ortodoxos y no venden nada lacteo, por las leyes del cashrut (el rito alimenticio judio). sublimes lahmayin abiertas, keppes, sandwich de falafel, bohio de verdura o de berenjena. para comer en banquetas en la barra y transportarse a medio oriente con los aromas, los sabores y los personajes del lugar."
+    }, 
+    {
+      "date": "4 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "didi23", 
+      "text": "Voy a all\u00ed desde hace m\u00e1s de diez a\u00f1os. Las mejores empanadas \u00e1rabes que com\u00ed en Buenos Aires, al igual que el kebe cocido. Excelente materia prima."
+    }, 
+    {
+      "date": "20 Jun 2002", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "manali", 
+      "text": "Se trata de comida cara, pero dentro de este tipo de comida, es de la mejor que conoci... lejos!"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "28 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Mumeshka", 
+      "text": "El peor cafe espresso de San Telmo"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "La carta es acotada, la comida es buena y nada m\u00e1s, y tampoco llega a ser econ\u00f3mica. Yo lo tendr\u00eda para tomarse un caf\u00e9 de paso y darse la oportunidad de conocer un \"caf\u00e9 notable\" en el que Ernesto S\u00e1bato escribi\u00f3 varias p\u00e1ginas de \"Sobre h\u00e9roes y tumbas\".\r\nPorque en cuanto a comida tiene el mismo problema que el caf\u00e9 que est\u00e1 enfrente, y teniendo otras opciones por el barrio, me inclinar\u00eda por otros lugares a la hora de almorzar o cenar."
+    }
+  ]
+}

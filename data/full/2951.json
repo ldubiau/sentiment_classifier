@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "4 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "NachoAvila", 
+      "text": "Almorzamos un d\u00eda de sol en la terraza que da al r\u00edo.  A un sector del r\u00edo muy agradable y con un tr\u00e1fico de embarcaciones que te ayuda a distraerte.  La atenci\u00f3n fue muy buena (sin mucho protocolo), la presentaci\u00f3n de los platos excelente y el precio adecuando a la ubicaci\u00f3n y vistas del lugar."
+    }, 
+    {
+      "date": "11 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CarlosGM", 
+      "text": "Lugar muy relajado...vale la pena estar tan cerca del rio!!! La atenci\u00f3n es simple pero buena"
+    }, 
+    {
+      "date": "29 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FLACAARCHAIN", 
+      "text": "El lugar agradable, la vista espectacular, la deco es como que le faltaran terminaciones, la atencion un poco lenta, pero buena, la comia espectacular. y bueno no se terminen pisos y paredes, parecen que le faltara algo. principalmente a las columnas del techo, quedarian muy lindas con revestimiento en madera, y el piso, bueno por ahora no se. tmb en los ventanales que dan al rio unas cortinitas, cuando hay mucho sol.igual ta todo re faschion"
+    }, 
+    {
+      "date": "18 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Lo mejor es el lugar muy tranquilo y con vista al r\u00edo. La atenci\u00f3n, sin ser nada del otro mundo, no desentona. La comida es buena pero podr\u00eda mejorar. Si bien est\u00e1 bien preparada en general, algunos de los platos llegaron fr\u00edos a la mesa lo cual es imperdonable para el nivel al que apunta el lugar."
+    }, 
+    {
+      "date": "13 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "myaninag", 
+      "text": "Si bien al ambiente es c\u00e1lido y la zona amerita atenci\u00f3n, la comida deja mucho que desear: llego fria, sosa, carente de presentaci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Gaby33", 
+      "text": "Super rica la comida,  sabores originales, perfecta la cocci\u00f3n. Hechos en el momento. El ambiente es como resaurante de club."
+    }, 
+    {
+      "date": "31 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vamos", 
+      "text": "El lugar es muy confortable y la comida riqu\u00edsima, especialmente los platos del d\u00eda o sugerencias del cheff. Las veces que fui eleg\u00ed el men\u00fa ejecutivo del mediod\u00eda. El precio es muy accesible. Lo recomiendo"
+    }
+  ]
+}

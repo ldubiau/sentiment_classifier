@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "16 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "solcimat1", 
+      "text": "La verdad que fue un desastre, fuimos con mi marido y mis padres, las porciones muy chicas, la entra\u00f1a era de goma y fr\u00eda, tardaron mucho en atendernos y en traer los platos. No hay zona de fumadores delimitada y todos alrededor nuestro fumando, primera y \u00faltima vez."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ignep", 
+      "text": "Muy buena comida. Platos abundantes buena atencion y muy bueno para ir con chicos porque tiene un salon de juegos muy comodo"
+    }, 
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Arielooo", 
+      "text": "Muy buen lugar, muy calido. \r\nMuy buena atencion."
+    }, 
+    {
+      "date": "9 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Bytex", 
+      "text": "Muy recomendable, fui con mi se\u00f1ora y mi hija de 3 a\u00f1os, lo elegimos por el pelotero y la pasamos barbaro. El salon es amplio y limpio, la atencion barbara y en el pelotero hay una persona para cuidar a tus hijos. Los ba\u00f1os impecables."
+    }, 
+    {
+      "date": "15 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Lugar bien ambientado, r\u00e1pida atenci\u00f3n, comida de muy buena calidad, sin demasiada variedad, postres y vinos muy buenos, precios muy accesibles. Me gust\u00f3."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AleChoclo", 
+      "text": "Muy buen lugar !!!"
+    }, 
+    {
+      "date": "5 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "C25", 
+      "text": "Fui con mi familia, vamos por lo general porque queda a una cuadra de casa y la verdad que la atencion es muy buena y de la comida no tengo ningunda observacion, muy buena! la pizza es excelente!\r\n\r\nRecomendable!"
+    }
+  ]
+}

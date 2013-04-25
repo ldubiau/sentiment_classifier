@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "upite", 
+      "text": "La comida estaba saturada de sabores. La carne dur\u00edsima.  En la ensalada el fuerte gusto del queso, quitaba sabor a las aceitunas. El show fue agradable."
+    }, 
+    {
+      "date": "27 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ana01", 
+      "text": "Flojo y raro, totalmente escondido, fuimos con groupon , degustaciones 7 pasos, mala la picada , friambre que sacas de la heladera de apuro, todo entre flojo y regular, hasta que el mozo artaba preguntando si tomababamos mas ya que era adiconal, nunca ofreceron la carta de vinos , me agregaron vino con el vaso a la mitad, muy mal, y el vaso me lo cobro $ 16 eramos dos 32$"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "experiencia de rest\u00f3 a puertas cerradas con resultados no muy satisfactorios. el lugar me pareci\u00f3 agradable pero la atenci\u00f3n estaba a cargo de dos chicos muy inexpertos, sin una pizca de vocaci\u00f3n ni idea de servicio. el men\u00fa era una degustaci\u00f3n de 7 pasos de los que solo me gustaron 2: la cazuelita de mariscos y los raviolitos al verdeo; el resto, bastante olvidable, desde los dos crutones con gusto a pan viejo en la sopa hasta el lomo supuestamente thai que era una mezcla de sabores sin ton ni son. el chef ni se acordaba q hab\u00eda puesto en los platos cdo vino a describirlos. no me convenci\u00f3..."
+    }, 
+    {
+      "date": "9 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "provecho", 
+      "text": "Lo conoc\u00ed por Group\u00f3n. Luego llev\u00e9 a un grupo de amigos y qued\u00e8 genial. muy bien ambientado, lo mejor es que no hay ningua se\u00f1alizaci\u00f3n, parece que entr\u00e1s a unacasa y cuando abren la puerta te sorprend\u00e8s . Lo mejor son las explicaciones de los platos hechas por Ricardo, el cheff. Buena carta de vinos a un precio m\u00e1s que accesibleVoy a volver."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Monim", 
+      "text": "Fui 2 veces, un jueves y un s\u00e1bado que habia un show excelente. La comida expectacular y el lugar muy bien ambientado, calido y tranquilo. La atenci\u00f3n totalmente personalizada! Lo pasamos barbaro. \r\nMuy recomendable. Ya nos hicimos clientes del lugar."
+    }, 
+    {
+      "date": "30 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sofhia", 
+      "text": "me sorprendio ,el lugar,la atencion y la comida ,para recomendar e ir con amigos,tranquilo y calido,volvere"
+    }, 
+    {
+      "date": "23 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "buyin", 
+      "text": "Hermoso lugar ,la atencion y la comida ,me senti en casa,me mimaron y la comida exelente ,"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "19 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "lingalinga", 
+      "text": "La cocina esta cerrada de noche, solo se puede comer alguna picada y algun sandwich pero los tragos son excelentes y los precios muy moderados, pero no vayan a comer!"
+    }, 
+    {
+      "date": "1 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "eduv_1977", 
+      "text": "No me gusto para nada, no es verdad que no es ruidoso....."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Shmuppet", 
+      "text": "Un lugar genial, muy c\u00e1lido. Para todo el mundo. S\u00faper recomendado. Lo mejorcito de la zona."
+    }, 
+    {
+      "date": "24 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rkn", 
+      "text": "Refugio del ruido y el \"fasf\u00fa\" microc\u00e9ntrico. Buena m\u00fasica y excelente atenci\u00f3n..."
+    }, 
+    {
+      "date": "22 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "daladeli", 
+      "text": "Es una opci\u00f3n original y salvadora para almorzar en el microcentro.\r\nEl lugar es muy tranquilo, pasan buena m\u00fasica y la atenci\u00f3n es sumamente cordial."
+    }, 
+    {
+      "date": "15 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "olasmuchas", 
+      "text": "Delicados platos con genuinos sabores. Esmerada atenci\u00f3n y deliciosos tragos en la barra. El mejor lugar para almorzar por el centro, poco ruido y un ambiente muy agradable. \r\n\u00a1Muy recomendable!"
+    }
+  ]
+}

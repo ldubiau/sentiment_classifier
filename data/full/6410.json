@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "30 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "diegus100", 
+      "text": "Desayunamos unos men\u00faes que tienen ah\u00ed, muy ricas las medialunas (las hacen en el lugar) y los tostados.\r\n\r\nAdem\u00e1s te dan un jugo de naranjas exprimido real, que para estos tiempos es bastante."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Noli", 
+      "text": "Fuimos a desayunar, y nos sorprendi\u00f3 la calidad y calidez de la atenci\u00f3n, especialmente del cheff Sebastian Ventola. Volveremos a almorzar o cenar."
+    }, 
+    {
+      "date": "15 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gustave", 
+      "text": "Buen\u00edsimo todo, sandwicher\u00eda tradicional con un toque de autor. Me hicieron descubrir las c\u00e1scaras de naranja confitadas. La ambientaci\u00f3n es moderna y los precios no son altos considerando la zona. Excelente atenci\u00f3n; hay que destacar la extraordinaria calidez humana del Sr. Eduardo, el due\u00f1o."
+    }
+  ]
+}

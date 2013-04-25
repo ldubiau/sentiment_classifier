@@ -1,0 +1,54 @@
+{
+  "buenos": [
+    {
+      "date": "15 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Babete sigue siendo una de mis opciones de delivery de cabecera en el medio de la semana porque cocinan caserito, me atiende muy bien y me dan los gustos como clienta, por nombre y todo"
+    }, 
+    {
+      "date": "1 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Uno de mis lugares de confianza para delivery en la semana. Si tengo ganas de comer carne, seguro que llamo para pedir un bife de costilla que es de carne de primera y cocido como a m\u00ed me gusta. Muy recomendable para solucionar las comidas cotidianas"
+    }, 
+    {
+      "date": "22 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Comida casera, rica y opciones econ\u00f3micas; es uno de mis servicios de delivery de cabecera. Lo recomiendo para todos los d\u00edas."
+    }, 
+    {
+      "date": "10 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "piaca", 
+      "text": "Me gusta el ambiente, est\u00e1 muy bueno para comer entre semana cuando uno no quiere cocinar comida casera, bastante buena."
+    }, 
+    {
+      "date": "27 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Chez Babete es uno de esos lugarcitos triple B (bueno, bonito y barato) que nos sacan del paso con una comida r\u00e1pida, casera y rica"
+    }
+  ]
+}

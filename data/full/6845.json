@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ceciro", 
+      "text": "Buena atencion, lugar espacioso y rica comida y abundate"
+    }, 
+    {
+      "date": "1 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "los_pupitos", 
+      "text": "Siempre vamos a tomar el te, la pasteleria y las masas dulces son riquisimas! Fuimos el domingo a la tardecita despues de la feria del libro, por lo que no quedaba absolutamente nada, ni una medialuna. Recomendamos el lugar, pero vayan temprano!"
+    }, 
+    {
+      "date": "27 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "emma", 
+      "text": "Fuimos a desayunar un poco antes de las 12, lindo ambiente, el volumen de la musica justa; compartimos un desyuno muy completo y rico; vamos a volver seguramente muchas veces"
+    }, 
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Canuto", 
+      "text": "El lugar es muy agradable y a diferencia de otras sucursales es mas amplio y comodo ademas de contar con mesas en el exterior en una apacible vereda, el servicio es muy cordial y eficiente, todo rico , bien presentado tanto lo dulce como lo salado y el cafe viene acompa\u00f1ado por unas mini tarteletas de chocolate y dulce de leche deliciosas, voy a volver todas las veces que pueda en especial a esta direccion.-"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dvanu", 
+      "text": "todo super rico!"
+    }, 
+    {
+      "date": "24 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "@LuciaEsmoris", 
+      "text": "Inmejorable, ideal para ir a tomar el T\u00e9 con amigas, el \u00a8Te para compartir\u00a8es super abundante, la torta de chocolate es sublime, los chips, tostaditos,cuadrados...Cheese Cake... los bombones que acompa\u00f1an al cafe... todo exquisito... y buena relaci\u00f3n precio calidad..."
+    }, 
+    {
+      "date": "7 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "florcita16", 
+      "text": "Es TODO rico!!! vale la pena ir y volver miles de veces. Ideal para charla con amigas de horas y horas! Recomiendo la merienda para dos que trae de todo, dulce y salado.. es super abudante por lo que pueden compartir 3 o 4 personas. La pasteler\u00eda es excelente, el lugar est\u00e1 muy bien decorado, es limpio y luminoso. La atenci\u00f3n es cordial. Un poco caro tal vez para una merienda pero muy recomendable."
+    }, 
+    {
+      "date": "5 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "marysabel65", 
+      "text": "Nucha, un clasico para la hora del te, tienen pasteleria exquisita!!! El brunch Nucha, si bien es caro se puede compartir porque es super abundante. De todos modos prefiero la opci\u00f3n del te de la tarde con la exquisita pasteleria, preparada con materias primas de gran calidad.\r\nLa atencion, a cargo de mozos muy jovenes deberia mejorar, no es mala, pero tampoco se destaca por la cortesia."
+    }
+  ]
+}

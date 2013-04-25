@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "9 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ninfomana32", 
+      "text": "Descubr\u00ed este petit Rest\u00f3 por internet, fu\u00e9 un hallazgo. C\u00e1lido, la gente del lugar disfruta haciendote pasar una noche fabulosa."
+    }, 
+    {
+      "date": "2 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "godyno", 
+      "text": "El lugar esta muy bueno. Fuimos con unos amigos, la pasamos super, escuchamos muy buena musica y tomamos unos tragos espectaculares. La comida re buena y los due\u00f1os toda la onda!!!! Lo recomiendo, somos de Olivos y vamos generalmente para Palermo y este bar nos encanto."
+    }, 
+    {
+      "date": "19 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Jmd2008", 
+      "text": "Nuevo Restobar en la zona, me parecieron buenas las opciones para el mediodia (buenos pinchos de pollo y rico el rissoto), precios economicos para la zona, quisas porque es nuevo.\r\n\r\nMuy buena atencion y esmero de parte del due\u00f1o. Recomendable"
+    }, 
+    {
+      "date": "5 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Berny01", 
+      "text": "La comida buena, el ambiente muy bueno, super relajado"
+    }, 
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Homeropuri", 
+      "text": "Muy lindo ambiente y el due\u00f1o le pone onda tiene una linea de sandwich muy interesante muy recomendable para comer algo y quedarse hasta altas horas tomando unos buenos tragos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Curcu", 
+      "text": "Un lugar diferente, muy bien ambientado, c\u00e1lido donde se come muy bien, los platos son abundantes y todo de primer\u00edsima calidad. La atenci\u00f3n es excelente y lo mejor de todo a un precio super accesible. Lo recomiendo!!!!! Especial para gente joven, parejitas que recien se conocen, la van a pasar realmente b\u00e1rbaro."
+    }
+  ]
+}

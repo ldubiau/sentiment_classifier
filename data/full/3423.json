@@ -1,0 +1,428 @@
+{
+  "malos": [
+    {
+      "date": "11 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Juanix", 
+      "text": "Solia ir seguido para almuerzos r\u00e1pidos en mi trabajo. En una oportunidad las empanadas de pollo ten\u00edan un sabor muy fuerte a vinagre. Lo dej\u00e9 pasar, y luego de de varios almuerzos m\u00e1s, otra vez el vinagre, pero esta vez en las de carne. Con tanta clientela y rotaci\u00f3n de gente, no lo entiendo. No vuelvo m\u00e1s."
+    }, 
+    {
+      "date": "21 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Joco", 
+      "text": "Ni la gran picada, ni las ensaladas, ni las empanadas me parecieron buenas. Es un lugar barato pero la calidad es regular. Hay mejores opciones en microcentro."
+    }, 
+    {
+      "date": "10 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Agorreca", 
+      "text": "Comida barata, abundante al extremo. Imposible comer tranquilo o comprar tranquilo. Demasiada gente constantemente. La velocidad es lo mejor que tiene, pero no significa una buena atenci\u00f3n ya que, como est\u00e1n saturados de gente, te presionan para pedir."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "hoy descubr\u00ed con placer este cl\u00e1sico para comer al paso, cuya filosof\u00eda no apunta a la delicadeza sino al sabor con todas las letras. com\u00ed un s\u00e1nguche (y sip, no era un sandwich, es una versi\u00f3n bien porte\u00f1a) de peceto, panceta y tomate en baguete, enorme y riqu\u00edsimo. el servicio es r\u00e1pido y eficiente (a los gritos con los platos que se deslizan x la barra) y el sistema aporta un toque de personalidad que define al lugar como pintoresco y divertido, aunque hay que reconocer que no es muy c\u00f3modo, ya que apenas cabe uno en el taburete y no hay espacio para apoyar nada. vale la pena!"
+    }, 
+    {
+      "date": "27 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "karonline", 
+      "text": "buena opcion para escapar de los fast foods y entrar en un bar clasico del microcentro, sandwiches gigantes , buena calidad. vuelvo siempre"
+    }, 
+    {
+      "date": "15 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Elver", 
+      "text": "Es un cl\u00e1sico para los almuerzos en la citi. \r\nLa premisa es simple: comida rica, r\u00e1pida y abundante y un sistema que lo hace eficiente, como para no perder el tiempo esperando a que nos traigan la cuenta.\r\nEl lugar est\u00e1 siempre lleno de gente y es un espect\u00e1culo digno de admirar la habilidad y rapidez con la que el personal realiza su labor, desde cortar una milanesa pr\u00e1cticamente en el aire hasta preparar el paquete para que te lleves.\r\nEl americano completo es imperdible, as\u00ed como cualquiera de los de matambre. Las empanadas son enormes y las de verdura son muy buenas, no as\u00ed el resto."
+    }, 
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "No esperen encontrar el super lugar cool. Paulin es un lugar de oficinistas del centro porte\u00f1o. Tiene toda la onda con los mozos hiper atentos y rapidisimos. Ver como revolean los platos por la barra es parte del \"show\" del lugar. La materia prima es muy buena y no escatiman en nada. Mi preferidos son el peceto completo o un arabe tostado de pollo y queso. \r\nSi quieren sentarse en la barra sin aturdirse por el barullo de gente vayan un sabado al mediodia."
+    }, 
+    {
+      "date": "27 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SergioZimerman", 
+      "text": "Lo que destaca del lugar es la onda que tiene. No es comodo, no es relajante, no es especialmente sabroso ni particularmente barato. Grandes y variadisimos sanwiches con el valor agregado de que te los tiran por una barra cual restaurant de los 50"
+    }, 
+    {
+      "date": "8 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "MrArarat", 
+      "text": "La verdad, que ir a las 13 o 14hs es una locura, si uno pretende comer tranquilo.\r\nSi podes superar ese detalle, y no te molesta que si estas comiendo, gente pase por tu espalda y te roce mientras tratas de darle un mordisco a un sandwich delicioso, este es tu lugar.\r\nLas empanadas son geniales. Muy grandes.\r\nLos sandwichs son muy ricos realmente, tienen muy buen fiambre y son preparados en el momento, por lo que los hace muy frescos.\r\nRecomendadisimo ir un sabado.\r\nEl sandwich de Atun, con manteca y queso en pan negro se lleva todos los premios. Ah, tambien el Peceto completo."
+    }, 
+    {
+      "date": "6 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Panchiroli", 
+      "text": "tiene s\u00e1ndwiches gigantes, les recomiendo si van dos pedir dos uno pesadito (jamon crudo, manteca, queso bree) y otro man suave (miga pan negro con lever y queso danbo) y lo comparten. Y rajen a la oficina porque explota el lugar."
+    }, 
+    {
+      "date": "5 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Quiqueb59", 
+      "text": "Para comer sandwiches, tartas o empanadas, NO HAY OTRO en microcentro. Por algo, tiene la gente que tiene. y las picadas de los after office.. son LO MAS.\r\nRecomiendo que se lleven una picada para casa un viernes. EXPLOTA."
+    }, 
+    {
+      "date": "1 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "rferrari", 
+      "text": "Un peque\u00f1o microcentro dentro del otro que vale la pena visitar. Los sandwiches son grandes, todos los ingredientes que prob\u00e9 fueron buenos (peceto, milanesa, tortilla, jam\u00f3n crudo, gruyere y siguen las firmas...), no escatiman relleno y siempre van a tener una combinaci\u00f3n que todav\u00eda no probaron. Las empanadas tambi\u00e9n son para destacar. El ambiente es irrespirable pero el servicio es muy bueno: es incre\u00edble verlos trabajar a velocidad supers\u00f3nica como si estuvieran en \"Tiempos Modernos\", pero as\u00ed y todo recordar cada pedido y atenderte con buena onda. Ya no es tan barato, pero lo vale!"
+    }, 
+    {
+      "date": "3 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "A favor:si est\u00e1s de paseo por la zona del microcentro es recomendable ir temprano, sentarse al fondo y ver como es el movimiento de laburo, es muy original y barato, ideal para llevar a extranjeros a que vean el verdadero estres de la city porte\u00f1a, je, la calidad de los sandwiches es \u00f3ptima, muy acorde a su precio, hasta me animo a decir abundante. La gente que trabaja detr\u00e1s de la barra a pesar del ambiente y la cantidad de laburo son amables.\r\nEn contra:no vayas al mediod\u00eda porque se pone hasta la manija, colas y colas de gente."
+    }, 
+    {
+      "date": "24 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "La mejor opcion en sandwiches si estas en la zona de Paulin"
+    }, 
+    {
+      "date": "22 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leoA", 
+      "text": "Extraordinario, distinto, barato, r\u00e1pido, inc\u00f3modo, rico, etc. Lo mejor de trabajar por Florida y Corrientes es tener a Paul\u00edn cerca. hace a\u00f1os que como 1 o 2 veces por semana, no falla jam\u00e1s, siempre con precios razonables y respeto por la calidad de los productos. Imperdibles las empanadas de calamar y-o pedirle a \"Rober\" (el que arma los sandwichs al fondo a la derecha) que te arme lo que \u00e9l quiera.. no te vas a arrepentir."
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "JuanMB", 
+      "text": "clasico de clasicos: sanguich de peceto completo, con panceta, morron, quesos, criolla\r\nsang americano: arabe tostado con jamon, queso, huevo tomate.\r\nsang de tortilla, cantimpalo y queso y pan de cebolla. todo es muy bueno. se come en banquetas en la barra y cada tanto te apoyan un poco"
+    }, 
+    {
+      "date": "12 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "coupeitaliana", 
+      "text": "Un cl\u00e1isco microcentro, con los mejores sandwichs que hay. Comer en la barra es un show, aunque un poco inc\u00f3modo en horas pico. Tambi\u00e9n recomendado para desayunar o merendar con alg\u00fan tostado, el caf\u00e9 es de muy buena calidad. Recomendaci\u00f3n: milanesa con queso y berro en pan arabe, tostado. De postre: tarta de manzana o de ricota."
+    }, 
+    {
+      "date": "28 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fede83", 
+      "text": "Sin dudas, el mejor lugar para comer o pasar a comprar el almuerzo. Es un lugar para todos aquellos que trabajan en el centro y solo tienen una hora de almuerzo. La comida es buenisima. Todos es gigante, desde las empanadas que parecen minitarta hasta los sandwcih de milanesa. Es un espectaculo ver como vuelan los platos sobre la barra y la velocidad en que trabajan las personas que atienden. El local es muy chico, por lo que explota de gente en el horario de almuerzo. Los precios estan muy bien. Lo recomiendo!!!"
+    }, 
+    {
+      "date": "1 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Martin_Garyulo", 
+      "text": "Gran bar paulin. rico bueno y barato ( tomando en cuenta el tama\u00f1o de lo que llevas.) Ademas show.  terrible la velocidad de esos muchachos en espacios reducido armando lo que les tiren!!!!"
+    }, 
+    {
+      "date": "24 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "martinurban", 
+      "text": "Un lugar para ir antes del almuerzo y comer un sandwich que es gigante en pan frances. El espacio para sentarse en la barra es para gente de no mas de 1.85mts de altura."
+    }, 
+    {
+      "date": "28 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "piratamen", 
+      "text": "Uno de los lugares que voy a comer al mediodia en el laburo, el peyeto completo sale mas de 20 mangos y ya no viene como antes, para compratir te quedas con hambre...algunos mozos te atenden con muy buena onda y otros a la inversa"
+    }, 
+    {
+      "date": "10 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "syster", 
+      "text": "El lugar tiene dos opciones, una es pedir la comida en la barra y llevarla y la otra sentarse en unas c\u00f3modas mesas al fondo del local. Obviamente la segunda es un poco m\u00e1s cara, pero realmente recomendable para aquellos que no les moleste gastar 25$ en un almuerzo en microcentro. Ambiente tranquilo y relajado, en general siempre hay lugar. La comida, recomiendo pedir los platos del dia, son abundantes y siempre frescos y buenos. El cafe viene incluido en el menu ;)"
+    }, 
+    {
+      "date": "12 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Fripp", 
+      "text": "En esta pintoresca cueva comen todos los dias millares de oficinistas del microcentro. \r\nEs un espectaculo ver pasar platos repletos a velocidades ultras\u00f3nicas. Las porciones son abundantes y bien servidas. De todas formas, \u00faltimamente los precios han aumentado en forma desproporcionada. Ya no es tan conveniente como antes. Por otra parte, el tema seguridad ahi dentro no esta contemplado en lo mas m\u00ednimo. Hay mas gente que en el subte en horas pico y en caso de incendio se podr\u00eda producir un desastre."
+    }, 
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pbuceta", 
+      "text": "Un espectaculo \u00fanico en el Microcentro!!!\r\nUno se puede sentar en la barra (90% del tiempo est\u00e1 hasta las manos) o pasar al fondo a la derecha y hacer el pedido para llevar.\r\nLa velocidad y generosidad con la que arman los sandwiches es memorable.\r\nNo pod\u00e9s no conocerlo!!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Noel10", 
+      "text": "Fui a la nueva sucursal de Rivadavia 888. Es una replica exacta del de Sarmiento, pero un poco m\u00e1s grande. Eramos 2, un s\u00e1bado y pedimos una porci\u00f3n de vac\u00edo (super tierno, riqu\u00edsimo) con Papas Paul\u00edn (fritas en el momento, con crema de verdeo y panceta, geniales) y de postre un flan casero con dulce de leche. El servicio de 10 como siempre. La mejor opci\u00f3n para comer abundante y rico, a muy buen precio."
+    }, 
+    {
+      "date": "23 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Juancentro", 
+      "text": "Fantastico, Paulin nunca decepciona. Innovaron con el sandiwche patagonico y las papas Paulin entre otros platos nuevos, ambos excelentes"
+    }, 
+    {
+      "date": "22 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Charlito", 
+      "text": "Fui a la nueva sucursal del la calle San Martin 541 (micro-centro)."
+    }, 
+    {
+      "date": "10 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Leo83", 
+      "text": "Paul\u00edn es,  simplemente, sandwiches espectaculares. \r\nLa variedad es enorme y la calidad es excelente. Aunque vayas en plena hora pico te van a atender muy bien y no vas a necesitar estar buscando con la vista al de la barra para pedirle algo (son como los mozos viejos, hay oficio). 100% recomendable la comida."
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cluster", 
+      "text": "El mejor lugar para un verdadero sandwich"
+    }, 
+    {
+      "date": "4 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "NachoE1", 
+      "text": "Paulin = Sandwich\r\nCon eso resumo todo. Calidad de los ingredientes, abundancia, atencioin rapida, pintoresco.\r\nPodes comer en al barra como los viejos bares ( de hecho lo es) y vas a pasar una de las experiencias unicas.\r\nSi trabajs en el microcentro NO podes desconocer ESTE LUGAR"
+    }, 
+    {
+      "date": "13 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "wahkeen", 
+      "text": "El mejor lugar de Bs. As. para almorzar. Cuando ten\u00e9s solo 10 minutos vas a Paulin y comes espectacular. Te atienden 10 puntos. Vuelvo seguido."
+    }, 
+    {
+      "date": "9 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "_gns_", 
+      "text": "Trabajaba a la vuelta y era mi lugar preferido para ir a comer. Tienen una calidad de primera y una velocidad de atenci\u00f3n admirable.\r\nRecomiendo el sandwich de matambre completo - se puede compartir porque es gigante.\r\nOtra cosa que es caracter\u00edstica del lugar son las empanadas de calamar. Son enormes y muy ricas. Un cl\u00e1sico.\r\nComo negativo puedo decir que el lugar es muy chico y hay que chocarse con la gente que sale para poder entrar. Pero se compensa con la velocidad de atenci\u00f3n.\r\nUn lugar super recomendable!"
+    }, 
+    {
+      "date": "30 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fcarro", 
+      "text": "El mejor lugar para almorzar en buenos aires. La atencion clasica de un Bodegon Porte\u00f1o. Me encanta la velocidad y la forma que hacen los Sandwiches en Paulin. Si uno va al fondo del local puede ver como los hacen, no hay que perderselo"
+    }, 
+    {
+      "date": "4 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "infoxodie", 
+      "text": "Vamos siempre despues de trabajar a relajarnos y comer alg\u00fan sanguche rico, te atienden siempre de primera como la comida. Las porciones son abundantes. Lo mejor esta en las convinaciones de sanguches que no est\u00e1n en el men\u00fa, conviene hablar con los mozos y que te recomineden algo rico. Nunca nos defrauda."
+    }, 
+    {
+      "date": "13 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jloleo", 
+      "text": "Los sandwiches y empanadas son excelentes. Porciones abundantes! Recomendable."
+    }, 
+    {
+      "date": "24 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "hungaro", 
+      "text": "Excelentes sandwiches, empanadas y comidas para llevar. La atenci\u00f3n es genial. Son los m\u00e1s r\u00e1pidos del Microcentro y siempre tienen buena onda. Recomendable para ir a comer al mediod\u00eda tarde, en la barra, o a comprar comida para llevar. Es muy masivo. Todo el mundo sabe lo bien que se come en Paulin. Precio - calidad y porciones = \u00f3ptimo. Muy barato ya que la calidad es 10 puntos, y las porciones gigantes."
+    }, 
+    {
+      "date": "15 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "CHOU", 
+      "text": "Simplemente genial. En horas pico armarse con un poco de paciencia, si bien los platos salen literalmente volando, siempre esta lleno.\r\nFuera de hora es un placer ir y siempre la misma excelente calidad."
+    }, 
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nartub", 
+      "text": "Sin igual. Un lugar que est\u00e1 entre los imperdibles de Buenos Aires. Los s\u00e1nguches son los mejores del mundo, bien cargados y del pan que quieras. Pero no es cuesti\u00f3n de quedarse en los s\u00e1nguches.. cuando uno empieza a ver los platos que salen de esa cocina no lo puede creer. Ni hablar de la cancha que tienen los mozos pasandose los platos por la barra. Imposible no volver."
+    }, 
+    {
+      "date": "15 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "bragabay", 
+      "text": "Como dicen varios de los usuarios de la Guia, es el imperio del Sandwich. Podes hacer las combinaciones que quieras entre fiambres, carnes, y sobre todo los panes. Mi recomendacion es el sandich de Milanesa, Panceta, Mayonesa, Aji Morron en pan de Cebolla. Suben los precios muy seguido y eso me saca, pero hay que reconocer que la comida es abundante y de calidad. Nota de color: Uno de los mozos, Juan es ultra conocido por su habilidad para acordarse de 10.000 pedidos a la vez y su capacidad para envolver los paquetes a velocidades cercanas a la luz, una maquina. VAYAN!!"
+    }, 
+    {
+      "date": "11 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "msirera", 
+      "text": "Lejos los mejores sanguches de la ciudad!!!\r\nLos que buscan un lugar c\u00f3modo y relajado abstenerse!\r\nPaul\u00edn vendr\u00eda a ser el sin\u00f3nimo gastron\u00f3mico de la agitada vida del microcentro porte\u00f1o: comida al paso pero gustosa, poco espacio, gente apurada (y con hambre).\r\nImperdible la manera en que los empleados se \"pasan\" los platos y las bebidas, s\u00edn ning\u00fan lesionado! (hasta ahora)"
+    }, 
+    {
+      "date": "11 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martinchito", 
+      "text": "Si est\u00e1s en Microcentro y quer\u00e9s comer un sanguche, \u00e9ste es tu lugar. \r\nMemorable la mila completa en baguete tostada. No se queda atr\u00e1s el peceto completo (panceta, morr\u00f3n, criolla, ...). Hay miles de combinaciones al gusto del cliente. Venden cerveza de litro, por lo que tambi\u00e9n es una buena previa de otra salida. Es para destacar la buena onda con la que te atienden los muchachos de la barra y del fondo."
+    }, 
+    {
+      "date": "11 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Wilas77", 
+      "text": "Si usted esta caminando por Corrientes y Florida y piensa entrar en casas de comida r\u00e1pida, POR FAVOR, NO LO HAGA!\r\nTeniendo a la vuelta este imperio del \"sanguche\"!\r\nTal como dijeron en otro comentario, no podes NO conocerlo... La onda de los muchachos de la barra es excelente y los sanguches son E-S-P-E-C-T-A-C-U-L-A-R-E-S!!!...la mayor\u00eda son para compartir, Recomendados: 1) Peceto Completo en baguet, 2) Mila completa en baguet tostada y 3) tortilla de papa, cantimpalo, queso, berro en pan de cebolla tostado (Te deja del or...). \r\nLos precios estan en ascenso pero sin ninguna duda, vale la pena lo que se paga por esos sanguches COLOSALES!!...Los platos del d\u00eda tambi\u00e9n son muy buenos...Lo \u00fanico que resta es la excesiva cantidad de gente del local (Si no te gusta que te apoyen, hacelo por los sanguches!) y la jeta de piedra del cajero que tiene menos onda que bandera de chapa...Igualmente, NO SE PIERDAN EL PARAISO DEL SANGUCHE!!!!!"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "25 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasti\u00e1n11", 
+      "text": "Excelente lugar, muy buena Pizza, precios muy razonables, siempre hay promociones, cerveza tirada en jarra, muy buena atenci\u00f3n de las camareras, voy muy seguido, lo recomiendo totalmente !"
+    }, 
+    {
+      "date": "18 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Tatomix", 
+      "text": "No recomiendo el delivery. Te env\u00edan lo q ellos quieren. Tardan un mont\u00f3n y, encima la pizza llega fr\u00eda y equivocada."
+    }, 
+    {
+      "date": "27 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pidamiani", 
+      "text": "Tiene 2 problemas muy grandes. La atencion suele ser muy mala y tardan mucho en traer el pedido. Voy bastante porq vivo al lado. Pero la pizza vale la pena. Muy rica y a la piedra. Recomiendo comer afuera; el salon tiene muy poca onda."
+    }, 
+    {
+      "date": "9 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "chezz", 
+      "text": "Vivo cerca, o sea, voy bastante seguido.\r\n\r\nLas pizzas son la especialidad, muy buenas, el queso es rico, a excepcion de la calabresa que la hacen con salamin.\r\n\r\nLas medialunas son super ricas! \r\n\r\nEl resto de los platos del men\u00fa no valen la pena, son bastante horribles. Los postres no son buenos tampoco, en general son bastante ordinarios (el brownie es torta de cajita con forma de cuadradito, etc)\r\n\r\nEs buen lugar para merienda o pizza. No le pidan mas a una pizzeria de barrio!, la atencion es bastante desastrosa y si vas seguido escuchas el conventillo de las mozas atras que siempre se pelean"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cuervaloca", 
+      "text": "Una de las mejores pizzerias de Buenos Aires para el que le gusta la pizza a la piedra. Hay gran variedad de opciones de pizzas, calzones, etc. Las empanadas tambi\u00e9n son buenas. Excelente relacion precio calidad."
+    }
+  ]
+}

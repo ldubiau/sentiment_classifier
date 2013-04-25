@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "10 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lui", 
+      "text": "pedimos delivery varias veces, siempre muy ricas. El telefono que est\u00e1 aca no es el correcto. Los telefonos nuevos son: 4775-8562\r\n4773-6393\r\n4773-8364"
+    }, 
+    {
+      "date": "13 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CALP", 
+      "text": "Pukakapa, es le nombre de su empanada bandera(cebolla, calabaza, queso, picante). el resto de las empanadas muy buenas tambien (con jugo, papa, arvejas...) el  ambiente un tanto triston, aunque digno y amablemente atendido por sus due\u00f1os..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sushi", 
+      "text": "Las mejores empanadas bolivianas que he probado. Tienen un gusto que se llama: Pukakapas, que es imperdible. Algo as\u00ed como la especialidad de la casa. Las de carne picante son un lujo para los que tenemos paladar picante.\r\nNunca fuimos al lugar pero las pedimos por delivery y el tiempo de entrega es preciso y la atenci\u00f3n es cordial. \r\n\r\nBuenisimo para quedar muy bien en una cena con amigos y gastar poca plata!"
+    }
+  ]
+}

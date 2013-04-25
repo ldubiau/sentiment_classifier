@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "blanche", 
+      "text": "No cerr\u00f3? Pas\u00e9 alrededor del 2 de junio y parece en refacci\u00f3n. S\u00ed es as\u00ed, bienvenido sea ya que el ambiente estaba muy descuidado. La atenci\u00f3n \"ah\u00ed\" y la comida bastante buena. No recomiendo la ensalada de frutas, ya que parec\u00eda algo vieja."
+    }, 
+    {
+      "date": "12 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Elcritico", 
+      "text": "La comida es rica, nada de otro undo pero rica... muy buen servicio pero mejor la ambientaci\u00f2n...."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gcas", 
+      "text": "Excelente pizza preparada r\u00e1pido y con una muy buena atenci\u00f3n del mozo. \r\nLa muzzarella es de lo mejor que prob\u00e9 en Buenos Aires."
+    }
+  ]
+}

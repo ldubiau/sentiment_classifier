@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "21 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Se olvidaron la entrada. La comida tard\u00f3 unos cuarenta minutos en llegar. \r\nMi plato era grasa de cerdo con unos pocos restos de carne. \r\nEl repollo no ten\u00eda gusto a nada. Hab\u00eda s\u00f3lo dos mesas ocupadas y as\u00ed y todo la moza era lenta en todo. En traer las cartas, en traer los cubiertos, en traer el pan. Yo que ustedes, sigo de largo y ni entro."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "paddyba", 
+      "text": "\u00c9ste lugar es muy sencillo, con onda. La comida es buena pero escasa. Terminamos pidiendo una picada despu\u00e9s del plato principal."
+    }, 
+    {
+      "date": "26 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "manuc", 
+      "text": "La comida es muy rica. El lugar es chico. Es un restaurante familiar, la atenci\u00f3n est\u00e1 bien, aunque depende del d\u00eda la m\u00fasica puede ser tradicional rusa o de terror.\r\nVale la pena hacer la prueba."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Excelente comida rusa para un peque\u00f1o bodegon con atenci\u00f3n ucraniana. \r\nAconsejable para probar la comida rusa a muy bajo precio."
+    }, 
+    {
+      "date": "5 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gabilina", 
+      "text": "Excelente la comida, verdadera comida rusa. Muy amable la atenci\u00f3n de sus due\u00f1os. Faltar\u00eda un poco de esmero en la ambientaci\u00f3n, pero si se quiere disfrutar de una buena comida eslava, este es el lugar."
+    }, 
+    {
+      "date": "11 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "topisto", 
+      "text": "Es una experiencia singular visitar este lugar. El espacio es chico, pero con toques especiales. Comer ah\u00ed, es como viajar a Bratislava hace unos diez a\u00f1os. Es un lugar elegido por la comunidad rusa/ucraniana. Muy espont\u00e1neo todo. La comida es integramente casera, desde el pan y los fiambre de la entrada hasta los postres.\r\nAl finalizar, te dan un rico vodka helado con un poco de azucar y lim\u00f3n. Una atenci\u00f3n de la casa. Lo recomend\u00e9 varias veces y esas personas hicieron lo mismo luego de conocerlo."
+    }
+  ]
+}

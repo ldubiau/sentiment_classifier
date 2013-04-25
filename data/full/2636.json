@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "6 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "gesp_hotel", 
+      "text": "Pesimo, nos hicieron esperar una eternidad, deberian cuidar el higiene del local en general."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "dpmolina", 
+      "text": "Es el t\u00edpico parrillon de barrio. El delivery es muy bueno, en calidad, precio y tiempo. El horario te salva la vida, y nunca me negaorn un pedido por chico que sea. Es de esos lugares que uno espera que no cierre nunca."
+    }, 
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Lichas", 
+      "text": "Vivo cerca del restaurante y la verdad es que siempre me salva. Tiene un horario de atenci\u00f3n muy amplio y todo lo que he comido me pareci\u00f3 muy bueno. Cuenta con una carta grande que incluye gran variedad de pizzas. Est\u00e1 muy bien para ser un lugar de barrio."
+    }, 
+    {
+      "date": "5 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Cynthiabella", 
+      "text": "Siempre pedimos delivery y la comida suele ser buena, abundante y barata. Las \u00faltimas veces que fuimos a comer ah\u00ed el servicio no era bueno y el ambiente es feo. Pero el delivery vale la pena."
+    }, 
+    {
+      "date": "15 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elpol", 
+      "text": "No se puede esperar mucho m\u00e1s de lo que da. Lo que si pedir\u00eda es m\u00e1s limpieza, definitivamente."
+    }
+  ]
+}

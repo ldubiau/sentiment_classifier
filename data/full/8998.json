@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pepelepu", 
+      "text": "Fuimos por esos 3 comentarios de la gu\u00eda, y la verdad no se a donde fueron esos, nada que ver a lo que describen! no nos gusto, solo el raviolon de chocolate.\r\nel lomo seco, la salsa sin gusto, las papas rusticas eran unas fritas con cascara!!!!\r\nel panache de verduras del lenguado, era choclo brocoli y zanahoria, todo de Lata!!!\r\nel ambiente bien, solo las mesas cambiaria por que se movian todas y son muy chiquitas!\r\nla relacion precio calidad, no existe es muy caro para el servicio de comida que dan."
+    }, 
+    {
+      "date": "1 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Belina", 
+      "text": "Fui con una promoci\u00f3n de Groupon de picada p/2 l la verdad que fue abundante, la atenci\u00f3n muy buena! El lugar, la ambientaci\u00f3n y la m\u00fasica, todo de 10!! Totalmente recomendable !!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maguy", 
+      "text": "muy bueno el lugar, la comida excelente, el lomo a punto y  la salsa riquisima... para recomendar... el postre muy bueno y para comprtir... muy rico todo y el ambiente muy calido."
+    }, 
+    {
+      "date": "11 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "esdf", 
+      "text": "Verdaderamente exquisito!!!!! Vuelvo por el Raviolon de Chocolate"
+    }, 
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gaston1981", 
+      "text": "excelente comida, y la presentacion de los platos es increible, para volver, y recomendar"
+    }, 
+    {
+      "date": "8 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ana31", 
+      "text": "muy buena calidad, productos frescos, muy buena decoraci\u00f3n de platos y sabor, vajilla novedosa, ambiente c\u00e1lido, discreto, muy buena m\u00fasica y atenci\u00f3n. Altamente recomendable!!"
+    }, 
+    {
+      "date": "7 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "esdf", 
+      "text": "Me parecio excelente la comida, la atencion y el ambiente."
+    }, 
+    {
+      "date": "1 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Schiavi", 
+      "text": "Muy confortable el lugar, con buena musica de fondo y con una atencion de primer nivel de parte del encargado y de los mozos,la comida exquisita al igual que los vinos que degustamos.100% recomendable"
+    }
+  ]
+}

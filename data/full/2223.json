@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "7 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Arnaldo", 
+      "text": "Fomos pelo show. Por isso, pedimos apenas umas empanadas, muito fracas, por sinal. \r\nA apresenta\u00e7\u00e3o musical, bastante desigual. Come\u00e7a com dois casais de dan\u00e7arinos, provavelmente os piores de Buenos Aires. Pareciam alunos iniciantes de escola de dan\u00e7a. O cantor Tito Reyes \u00e9 de fato, um personagem hist\u00f3rico. Pena que canta menos do que conta suas longu\u00edssimas hist\u00f3rias. Quem n\u00e3o tem o dom\u00ednio total do Castelhano, nem \u00e9 especialista em hist\u00f3ria do tango, fica um pouco perdido. O ponto alto \u00e9 o show de Nestor Marconi. Espetacular ouvir seu bandone\u00f3n. Valeu por isso."
+    }, 
+    {
+      "date": "2 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "saulento", 
+      "text": "Excelente recital de tango de primer nivel, atenci\u00f3n personal de los due\u00f1os, exquisita ambientaci\u00f3n, para no dejar de disfrutar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vtanguera", 
+      "text": "N\u00e9stor Marconi y Tito Reyes: insuperables"
+    }, 
+    {
+      "date": "4 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "sonia", 
+      "text": "M\u00fasicos de primera."
+    }, 
+    {
+      "date": "5 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pelo", 
+      "text": "Es excelente la comida, pero lo que se lleva las palmas doradas es el show tanguero."
+    }, 
+    {
+      "date": "19 Jun 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martinza", 
+      "text": "El lugar tiene mucha personalidad y el espect\u00e1culo no desentona con eso. El servicio, sin embargo, deja mucho que desear."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "9 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Orlando", 
+      "text": "Llegar y ver a un mozo en la puerta inviatando a la gente con un descuento del 15% preocupa, m\u00e1s a\u00fan si es un viernes por la noche y hay tres mesas ocupadas. El lugar es lindo pero vac\u00edo no luce tan bien. La comida apenas aceptable, nada m\u00e1s. La carta de vinos con limitaciones y el servicio, muy amable y atento, pero con dificultades  t\u00e9cnicas (errores en la comanda y \"estate\" no es un tipo de vino...)En ese contexto el precio resulta excesivo. ser\u00e1 dif\u00edcil que sobreviva si no cambia. Una pena por la ambientaci\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leeleebee", 
+      "text": "El lugar tiene buena ambientacion. Llama la atencion que este vacio aun un viernes a la noche... De todos modos, la verdad es que la comida estaba bien, aunque la carta es un poco acotada. Le falta \"algo\" para convertirse en un lugar interesante."
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El rest\u00f3 es lindo, decorado en un estilo neto y bastante sobrio que tal vez lo hace levemente fr\u00edo. La comida es muy buena pero le falta un toque para la excelencia y la carta tal vez peca de exceso de parquedad y no s\u00e9 hasta que punto responde a lo de \"cocina norteamericana\", aunque con buenas opciones; se nota esmero en la carta de vinos. Creo que para sobresalir tendr\u00edan que terminar de definirse en cuanto a estilo, pero el lugar tiene potencial."
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Marichis", 
+      "text": "El lugar tiene una arquitectura r\u00ecgida y sobria pero a la vez c\u00e1lida. Buena m\u00fasica jazz de fondo qeu acompa\u00f1a al comensal y muy buena atenci\u00f3n. El plato de bife de chorizo The Remington, imperdible. La carta de vinos ajustada pero exquisita."
+    }, 
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "COCO10", 
+      "text": "Nos gust\u00f3 mucho el ambiente, con mesas bien separadas y una tenue m\u00fasica de jazz de fondo. La comida y la atenci\u00f3n muy buenas. Ideal para una conversaci\u00f3n tranquila. Vamos a volver."
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Tulu", 
+      "text": "Nos encanto el lugar, muy bien ambientado. me  hubiese gustado que la comida fuese mas  estilo norteamericano  ( eso pensaba que era ) pero  la verdad que los platos fueron igualmente sabrosos, abundantes  y muy bien presentados"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "21y46", 
+      "text": "Ambiente muy agradable.Servicio sincronizado que nos permitio , a 15 personas ,comer juntas y con la comida caliente.Gustos para grandes y chicos.Porciones abundantes.Altamente recomendable."
+    }, 
+    {
+      "date": "4 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Silvi39", 
+      "text": "Me encant\u00f3 todo, la comida excelente, buen ambiente, la decoraci\u00f3n muy moderna.  Com\u00ed la torta Tres Leches, que es un bizcochuelo ba\u00f1ado en tres leches, le da un sabor dulce y exquisito.  Me encant\u00f3 la salsa Malbec con hongos que rodeaba el lomo.  Buen servicio y muy buena selecci\u00f3n de vinos."
+    }
+  ]
+}

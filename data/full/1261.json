@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "13 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "bella_ana", 
+      "text": "Una adevertencia al desprevenido, al tratarse de un hostel y no un restaurant por si mismo, el dia que concurri para conocerlo me lleve un fiasco, solo habia de plato pizza libre y algunos productos de cafeteria, lo disponible depende del dia si aun quieren probarlo llamar para confirmar menu"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Lo mejor es el ambiente muy canchero y con el toque bohemio de un rest\u00f3 cool de San Telmo. \r\nLa comida estaba rica pero lamentablemente lleg\u00f3 fr\u00eda, por falencias en el servicio, un aspecto que podr\u00edan mejorar para ganar puntos porque vale la pena tener en cuenta este lugar, que adem\u00e1s tiene muy buenos precios de men\u00fa de mediod\u00eda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "t7t", 
+      "text": "Buen ambiente, comida muy buena y piola. Eso s\u00ed, el servicio es muy lento."
+    }, 
+    {
+      "date": "11 May 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GUSTY", 
+      "text": "Muy buena comida y ambientaci\u00f3n. Tiene que mejorar el servicio."
+    }, 
+    {
+      "date": "5 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "RomiMar", 
+      "text": "Hermoso lugar, tiene un parque absolutamente silencioso, lo que lo hace un oasis en pleno centro. \r\nAdem\u00e1s, al estar incorporado a un hostel, tiene un ambiente cosmopolita interesante. Lo \u00fanico bajo es la atenci\u00f3n, que podr\u00eda mejorar."
+    }, 
+    {
+      "date": "20 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tocoymev", 
+      "text": "Exelente comida y ambientacion."
+    }
+  ]
+}

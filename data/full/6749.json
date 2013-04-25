@@ -1,0 +1,458 @@
+{
+  "malos": [
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "cuquicu", 
+      "text": "Es un peque\u00f1o bodeg\u00f3n. B\u00e1sico y no muy limpio. Son  desproporcionados los precios respecto del lugar y la calidad de la comida. Atencion elemental. Los ravioles llegaron frios."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elpapa", 
+      "text": "Muy linda experiiencia, comimos muy bien, la comida casera al estilo italiano, aunque tambien hacen goulash y guiso de lentejas,  rico muy bien atendidos, fuimos solos con mi esposa y nos gusto mucho, asi que volveremos con amigos."
+    }, 
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Anarbeu", 
+      "text": "Las pastas son riquisimas, la atencion es personalizada...los precios son un poco altos. Probe la marquise de chocolate, no me gusto que la sirvieran fria. Igualemente recomiendo el lugar por las pastas!"
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elcordobesbeuno", 
+      "text": "La comida es mas parecido a lo que los argentinos piensan que es la comida italiana que parecida a la comida italiana real. Igual, comida decente, a un precio adecuado."
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "PaulitaBaires", 
+      "text": "Platos abundantes y riqu\u00edsimos, realmente casero. Los precios totalmente aceptables. Buena atenci\u00f3n. Cuando quieran comer bien, abundante y casero, no lo duden, este es su lugar!"
+    }, 
+    {
+      "date": "24 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "quiquepora", 
+      "text": "Es tipo bodeg\u00f3n frente al Parque Lezama. Especialidad en pastas de la zona italiana de Emilia Romagna: ravioles, risottos, etc. Tiene muy pocas mesas (unos 25 cubiertos aprox). La atenci\u00f3n es buena y los platos tirando a abundantes...algunos se pueden compartir (no todos como los ravioles por ejemplo). La carta de vinos es bastante acotada. Los precios quiz\u00e1s un poco altos, pero es una buena experiencia. Recomendable."
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "amapola_rosso", 
+      "text": "Riqu\u00edsimo! Comida casera, platos generosos..!"
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "edgardema", 
+      "text": "Siendo tan chico y facil de mantener est\u00e1 en malas condiciones de mantenimiento. Lo que anuncian como promedio de costo est\u00e1 equivocado: 1 plato de ravioles compartido entre dos + 1 vino mediocre de 3/4 + 1 agua con gas costaron $ 110 (sin postre ni caf\u00e9 y con servilletas de papel)"
+    }, 
+    {
+      "date": "30 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vivitoycoleando", 
+      "text": "Muy buena atenci\u00f3n, muy amigable el ambiente.  Es un lugar sencillo y es lo que lo hace distinto y lindo. La lasagna muy rica, bien casera como la de mi abuela. Le falta Carta de Vinos. Volver\u00e9 a probar la polenta"
+    }, 
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "chiquitalinda", 
+      "text": "Es emocionante el amor con que cocina esta mujer. La pasta es excelente, aunque de las dos veces que fui la chambota y mi salsa estaban muy, pero muy saladas. El lugar es chiquito y te vas con olor a comida, as\u00ec que no da para noche rom\u00e0ntica! Es servicio es esmerado pero insuficiente. Los postres son demasiado empalagosos, el panqueque de dulce de leche es una bomba y el bud\u00ecn de pan no me gust\u00f2. Aunque tienen cosas por mejorar, sigue siendo una opci\u00f2n porque la pasta es buena, casera y fresca."
+    }, 
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Juancentro", 
+      "text": "Un lindo lugar, combinado con una comida rica con pinta de casera. Me pedi una lasagna, que me gusto. Un poco alto el precio. Buena opcion para alg\u00fan mediod\u00eda si tenes ganas de comer algo un poco m\u00e1s elaborado que el sanguche o la ensalada de siempre"
+    }, 
+    {
+      "date": "6 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "verogara", 
+      "text": "Es un peque\u00f1o lugar en San Talmo, donde comer pastas caseras y ricas.  El ambiente es muy acogedor, y la lasagna es lo m\u00e1s rico que com\u00ed en mucho tiempo."
+    }, 
+    {
+      "date": "18 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Chanchi78", 
+      "text": "Acogedor lugar en los fines de San Telmo...La comida es super casera, en mi caso elegi unos ravioles de calabaza muy ricos, de porcion abundante y el queso no es de paquete!!! La atencion es cordial,, Lindo lugar para almorzar en un ambiente familiar..."
+    }, 
+    {
+      "date": "18 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "A favor:rica y bien caserita cocina italiana, con atenci\u00f3n cordial y peque\u00f1o pero agradable ambiente.La relaci\u00f3n de calidad y precio es bastante acertada.En contra:deber\u00edan mejorar la carta (en terminos grales, son 4 fotocopias escritas a mano) y la ventilaci\u00f3n del lugar ya que sal\u00eds con bastante olor a comida. La carta de vinos es casi nula.Es una buena opci\u00f3n para almorzar al mediod\u00eda si estas cerca de parque Lezama, ya que est\u00e1 justo en el l\u00edmite de los barrios de la Boca y San Telmo. Se vuelve"
+    }, 
+    {
+      "date": "4 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "Un sitio nuevo en la frontera entre San Telmo y La Boca, frente al parque Lezama. Sitio peque\u00f1o con decoraci\u00f3n poco pretensiosa, espacio adecuado entre las mesas, falto de ventilaci\u00f3n que al final se cobra con olor a grasa en la ropa. Atenci\u00f3n correcta por una sola persona. Todo bien casero y hecho en el lugar. La comida es sencilla, pero requer\u00edr\u00eda de un toque de calidad para poderla calificar como muy buena: la lasagna estaba sobrecocida, mucha salsa blanca y poca carne en la bolognesa, el pesto solo ten\u00eda aceite y albahaca, sin pi\u00f1ones. Oferta de vinos muy limitada."
+    }, 
+    {
+      "date": "3 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "zumu", 
+      "text": "un lugar que sale de lo comun en modas ..no es exotico, no es fashion.. pero esta bien marcado el objetivo ..comer bien,sentirse comodo, y tener ganas de volver"
+    }, 
+    {
+      "date": "27 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "amarello475", 
+      "text": "es como si hubiera ido a comer a la casa de amigos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "telblh", 
+      "text": "el lugar es chico, sin lujos pero prolijo. ambiente familiar pero muy atentos. la carta es muy interesante, las pastas son excelentes, hay platos dificiles de encontrar en otro lado. el precio es razonable por lo que ofrecen."
+    }, 
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "loombaron", 
+      "text": "descubr\u00ed este lugar mientras paseaba con mi novia por la calle defensa, nos gust\u00f3 la onda y nos mandamos y la verdad que fu\u00e9 un hallazgo. Los ravioles de calabaza que com\u00ed estaban m\u00e1s que ricos, deliciosos.Despu\u00e9s la due\u00f1a que es muy atenta nos recomend\u00f3 de postre una zuppa inglesa que result\u00f3 ser una delicia. La comida es magnifica y la relaci\u00f3n precio/calidad es muy acertada. El servicio es informal pero muy c\u00e1lido. Es para volver y comerse una buena pasta!"
+    }, 
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Crux", 
+      "text": "Muy peque\u00f1o lugar sin lujos frente a la vieja fabrica Canale en Parque Lezama, excelente comida casera con muy  buena atencion, buenos precios y buena calidad.\r\nLos fines de semana es mejor reservar o llegar temprano porque son pocas mesas."
+    }, 
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "rferrari", 
+      "text": "Algo escondido y alejado de las zonas m\u00e1s populares, La Emilia Romagna es una grat\u00edsima sorpresa para los que buscan un lugar informal para atiborrarse de comida casera. Aunque pr\u00e1cticamente no ofrece entradas, la carta tiene decente variedad y varios platos dif\u00edciles de encontrar (y de superar), especialmente la polenta con ossobuco, la bondiola con chutney de manzanas y las pastas caseras. Las porciones son generosas y los precios, bastante acomodados. La atenci\u00f3n es esmerada aunque familiar; puede que haya cierta espera, pero valdr\u00e1 la pena. Los postres caseros son un plus. Recomendad\u00edsimo!"
+    }, 
+    {
+      "date": "9 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mt4gonz", 
+      "text": "Muy bueno, fuimos en familia, un lugar peque\u00f1o de grandes comidas caseras."
+    }, 
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "emos", 
+      "text": "excelente las pastas, no dejen de probar lo \u00f1oquis por que en buenos aires no hay ni siquiera algo parecedo, yo los recomiendo con el ragut de osobuco IMPRESIONANTES, otro plato que se destaca es el de los ravioles de morcilla, mmmm pedirlos con una salsa suave, pesto, oliva o manteca, son una delicia!.\r\nel lugar es chico, ir con reserva o sabiendo que vamos a tener que esperar, la atencion es barbara, no tienen una carta de vinos amplia pero estan bien. El servicio es muy bueno siempre y cuando este el se\u00f1or de siempre. MUY RECOMENDABLE"
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ALCAR", 
+      "text": "Peque\u00f1o pero muy buen lugar. Exelente y abundante comida. Casera. Comimos goulash t guiso de lentejas. Ambos exelentes, mas para un dia frio. Muy buena atencion."
+    }, 
+    {
+      "date": "15 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "NonesRamones", 
+      "text": "Muy muy muy buena la comida (pedimos lasagna y ravioles con ragu de osobucco), parecvia que los hab\u00eda hecho una nonna italiana de tan casero, abundante y rico. Los precios son muy acordes a lo que sirven. La atenci\u00f3n (especialmente de Ombretta) fue excelente. Nos quedamos muy contentos, esperamos volver muy pronto."
+    }, 
+    {
+      "date": "3 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sopayalacama", 
+      "text": "Un lugar muy recomendable de tradici\u00f3n italiana. Platos abundantes y muy ricos, los ravioles de verdura se llevaron todos los premios."
+    }, 
+    {
+      "date": "3 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gonzadom", 
+      "text": "Muy buen lugar si estas buscando sabores distintos y originales.Los platos son abundantes,salvo los ravioles.El precio es tirando a elevado pero vale la pena gastar unois pesos m\u00e1s porque la calidad de la cocina es muy buena."
+    }, 
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "echiti", 
+      "text": "Lindo lugar,tranquilo,para disfrutar los platos.Fui en familia y disfrutamos el almuerzo del domingo al mediodia.Platos bien elaborados,atencion esmerada.Volveria a seguir probando otros platos!"
+    }, 
+    {
+      "date": "15 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "angelocosi", 
+      "text": "Fui anoche con 4 amigos, es en Barracas mas precisamente, lugar chico pero acogedor, el fuerte son las pastas (comi tagliatelli con salsa silvestre exquisito), despues hay pocas opciones, si vas en pareja podes compartir tranquilamente, si vas con amigos es mucho para uno y medio justo para 2 , son muy generosas las porciones, lamentablemente no pude probar el volcan de chocolate (no hab\u00eda) pero comi panqueque de manzana muy bueno, recomiendo, solo bajaria un poco la cantidad junto con el precio"
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juanitaballestrin", 
+      "text": "exquisito!!!!!! la atencion medio corta, y la carta era una fotocopia con un folio..... pero bueno...... la comida es excelente! un lugra muy acogedor, para ir en pareja y disfrutar de una noche romantica. lo recomiendo!"
+    }, 
+    {
+      "date": "19 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juanitua", 
+      "text": "Pastas caseras y muuuy ricas, ambiente sencillo pero acogedor. La lasagna es realmente muy buena y los ravioles de morcilla y espinaca -que pedimos por recomendaci\u00f3n de la gente del lugar- tambi\u00e9n muy sabrosos. El postre, un crep con manzanas flambeado al ron, hecho en el momento, s\u00faper esponjoso y rico. Volveremos a probar m\u00e1s platos."
+    }, 
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Payvals", 
+      "text": "Uno de los mejores Restaurantes de comida casera italiana de la ciudad y el mejor de San Telmo. Buenos precios, platos gigantes, lugar acogedor atendido por sus due\u00f1os, hermosa vista del Parque Lezama. Exquisita comida y riquisimas berenjenas de entrada. Carta de vino justa tirando a corta, pero nada desalentadora. voy Fin de semana por medio y aun no encontre un plato desalentador."
+    }, 
+    {
+      "date": "31 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ORFEO", 
+      "text": "Fuimos un domingo al mediod\u00eda a probar la lasagna y la polenta \"m\u00e1s ricas de buenos aires\" y en efecto asi fue. Un ambiente sencillo, atendido con calidez y buen asesoramiento, pocas mesas, platos abundantes y muuuuy ricos, ni llegamos a probar los postres. Volveremos!!"
+    }, 
+    {
+      "date": "28 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "flormuss", 
+      "text": "Es un pequeno resto (no mas de 10 mesas); lo que hace que sea un lugar muy acogedor; con linda decoracion. La comida es integramente casera, con materias primas nobles. Recomendable la pollentina con salsa bolo\u00f1esa (44 pesos); la sirven en una porcion muy generosa, ideal para compartir entre dos. Entre los postres, recomendadisimo el marquese Emilia (32 pesos); un autentico marquese casero; excelente, tambien para compartir.\r\nAclaracion: la carta es muy variada en cuanto a diferentes tipos de pastas y sus variaciones; pero no presenta opciones para quien quiere comer otras cosa (no tienen carnes; apenas guiso de lentejas, omellete, tortilla, etc).  Un dato: el servicio es buenisimo; lo atienden los propios due\u00f1os. Explican todos los platos con buena predisposicion. Y aun asi, no cobran cubierto! Buen lugar. Volvere."
+    }, 
+    {
+      "date": "23 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "CarrerasBeto", 
+      "text": "El lugar es muy chico y la atenci\u00f3n, seguramente de uno de los due\u00f1os, es muy informal. La comida es bien italiana, al probar la lasagna sent\u00ed la sensaci\u00f3n de estar en Roma; la polenta tb muy buena.\r\nSugiero realizar algunas modificaciones en ambientaci\u00f3n y servicio, como ser por ejemplo sacar la radio AM de fondo que esta en la cocina y hacer unas cartas, las fotocopias ya fueron\r\nDebe ser una muy buena opci\u00f3n para el meiodia"
+    }, 
+    {
+      "date": "3 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "crichi", 
+      "text": "La mejor polenta que comi en mi vida,no se la pueden perder. Los polpetini como los que cocinaba mi abuela estaban perfectos Muy buen precio y atencion calida y esmerada."
+    }, 
+    {
+      "date": "27 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Sil_hor", 
+      "text": "Excelente comida. Muy caserita. El local es un poco chico. Ambientaci\u00f3n y atenci\u00f3n agradables. Para recomendar."
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "traductor", 
+      "text": "Es la segunda vez que concurro a este peque\u00f1o restaurant de Parque Lezama. Me gustar\u00eda decirlo con todas las letras: pocas veces com\u00ed una comida italiana de tal calidad y con ese inconfundible sabor casero. La polentina, la lasagna de carne y de vegetales, inclusive la berenjena tipo chambota que sirve de entrada, son un calidad sin igual. Lo que quita puntos es la carta de vinos escasa y cara. La primera vez prob\u00e9 la famosa Tarte Tatin (francesa, no italiana) que result\u00f3 magn\u00edfica. Un hallazgo en el barrio Sur, felicitaciones a sus due\u00f1os."
+    }, 
+    {
+      "date": "13 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bedu", 
+      "text": "Excelente en todo sentido, es la segunda vez que voy, y Ombretta su due\u00f1a es muy amable. La comida exquisita, comi unos polpettini y parecio que los habia hecho mi abuela, los ravioles de calabaza con manteca deliciosos, en su punto.\r\nAhh y me olvidaba de entrada traen una caponatta memorable. Sugerencia, agregar algunos vinos a la lista.Volvere muchas veces mas."
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Luigino", 
+      "text": "Agradable el ambiente. La comida excelente en todo sentidos, de especial modo por ser genuina hecha con esmero y cari\u00f1o Y eso se nota al ver con cuanta dedicaci\u00f3n trabajan en la cocina a la vista de quien quiere mirar. Ombretta, la due\u00f1a, quien convers\u00f3 conmigo, es una apasionata gourmets. Todo el equipo de trabajo, Jorge, Nely etc. son personas responsables que quieren lo mejor para sus clientes. Una excelente sorpresa a precios humanos."
+    }, 
+    {
+      "date": "8 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alondra", 
+      "text": "Es un lugar super acogedor y est\u00e1 re bien ambientado. La atenci\u00f3n es 10 puntos y te sirven un aperitivo riquisimo. La comida es bien fresca y hecha en el d\u00eda, bien casera. La especialidad son las pastas, especialmente la lasagna y los ravioles de zapallo que son \u00fanicos. \r\nAdem\u00e1s no es un restaurant caro y cuenta con delivery y funciona tambi\u00e9n tipo rotiser\u00eda.\r\nPara no perderselo, todo un hallazgo frente al parque Lezama."
+    }, 
+    {
+      "date": "14 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Jack_Aubrey", 
+      "text": "Comida casera, hecha en el momento, Ya volv\u00ed varias veces y recomend\u00e9 amigos, todos volvieron fascinados. Un excelente lugar para comer pastas caseras, la lasagna recomendada, sin \\\"herej\u00edas\\\" como verdura, masa verde... la vera lasagna italiana! Uno de los secretos gastron\u00f3micos de la zona Sur, off Broadway y cero comercial, sin estridencias. Como dijo un amigo, gourmand destacado, \\\"Ac\u00e1 saben muy bien lo que hacen\\\". S\u00f3lo tendr\u00edan que mejorar la carta de vinos un poco."
+    }, 
+    {
+      "date": "7 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "eracos", 
+      "text": "es un peque\u00f1o restaurant sumamente acogedor, no solo por la decoracion sino tambien por la atencion, parece que vas a la casa de un amigo, la ensalada riquisima con una salsa muy sabrosa de mostaza y miel entre otras cosas, la pasta ligerisima y colorida, y la sopa inglesa impresionante, se nota que es casero todo, ademas de la presentacion. Se come tranquilamente en un ambiente agradable"
+    }, 
+    {
+      "date": "3 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "epeel", 
+      "text": "Descubierta una tarde que volv\u00edamos fam\u00e9licos de recorrer Parque Lezama, la due\u00f1a nos sorprendi\u00f3 prepar\u00e1ndonos una tortilla bien bab\u00e9 a las 5 de la tarde.A partir de entonces el idilio con la Emilia es s\u00f3lido. Su comida casera no tine desperdicio, sobre todos las pastas.Menci\u00f3n especial para el marquisse de chocolate. Comda y atenci\u00f3n como en casa, ambiente tranquilo,buenos precios;no hay que pedir m\u00e1s. Ah, y la opci\u00f3n de comprar comida y llev\u00e1rsela a casa. De lo mejor."
+    }, 
+    {
+      "date": "14 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ERGOT", 
+      "text": "buen ambiente , lindo lugar y muy buena comida casera a muy buen precio las porciones son muy abundantes son para compartir"
+    }
+  ]
+}

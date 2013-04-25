@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "22 Jul 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "carolina2006", 
+      "text": "Fue mi error por tratar de cenar dentro de un shopping. Como no me gustan las hamburguesas nos decidimos por Il Gatto, grave error, un Big Mac es superior. La lasagna parec\u00eda una empanada al horno nadando en algo que se supon\u00eda era salsa blanca, pero era solo harina y leche. Los ravioles eran como los que se compran congelados en el supermecado con una salsa correcta de tomate. Si uno trabaja en la zona hay lugares mejores para comer."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adraugello", 
+      "text": "La verdad se nota que es una cadena. La pasta tiene el mismo sabor en los pocos locales que fui de ellos. El servicio es bueno pero creo que es excesivo para estar cenando o almorzando en un shopping."
+    }, 
+    {
+      "date": "24 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ferfer", 
+      "text": "Es una muy buena opci\u00f3n para el horario del almuerzo . Las pastas muy ricas y nos atendieron con rapidez que es fundamental. El lugar muy agradable .\r\nRecomendable ! Para volver"
+    }, 
+    {
+      "date": "17 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "VivaElMorfi", 
+      "text": "Pastas solamente pasables. No guarda relaci\u00f3n calidad-precio. 25$ es demasiado por pastas  como las que se comen ah\u00ed. Los postres tampoco son recordables. Fuimos a comer 4, cada uno con su plato, s\u00f3lo 1 postre y gastamos 150 pesos. En fin, demasiado caro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mirna", 
+      "text": "La verdad que en mi vida habia comido tan excelente,muy rica,caliente.\r\nMe atendieron tan bien q hasta me acuerdo del mozo leonel y el encargado maravilloso lucas, muy atentos ambos.\r\nla verdad q es para un 10."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "29 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Es lindo. Especialmente la galer\u00eda. La comida no nos gusto demasiado. Las frituras (rabas y milanesa) demasiado aceitosas. Las pastas un poco mejor. La atenci\u00f3n amable pero demasiado relajada. Volver\u00eda solo para disfrutar el paisaje."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "coco9234", 
+      "text": "Muy bueno el bife de chorizo. Muy bonito el entorno con una privilegiada vista al rio desde la galer\u00eda que da sobre la calle. Bien atendido y ambiente muy familiar. Ayud\u00f3 el clima pues pasamos una jornada agradable. Vinos algo caros, pero no as\u00ed el precio del cubierto pues pagamos mucho menos que lo indicado en la gu\u00eda. Para volver por el entorno del lugar sobre todo si ayuda el clima."
+    }, 
+    {
+      "date": "7 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SILSIL", 
+      "text": "La comida es rica, el bife de chorizo sabroso y en justo punto, el matambrito a la pizza bueno, las papas fritas la porci\u00f3n un poco escasa pero muy bien preparadas, las rabas muy ricas. es un t\u00edpico lugar del tigre para comer en familia en un ambiente sencillo pero agradable. fue un dia caluroso, si bien estuve en la galer\u00eda el clima no ayud\u00f3 demasiado y tuve un poco de calor a pesar de la brisa del rio.volver\u00e9 en otra oportunidad a probar otros platos."
+    }, 
+    {
+      "date": "24 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "eliseo", 
+      "text": "Es un lugar muy agradable, muy bien decorado, la comida es excelente, en su justo punto, la atencion es personalizada, cumple los requisitos para disfrutar con la familia y amistades"
+    }, 
+    {
+      "date": "25 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Paco79", 
+      "text": "Buen restaurante: comida sabrosa y bien presentada.  Todo por 214 pesos. Me parece solo un poco raro que una botella de vino valga como una parilla de pescado...\r\nLo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LauritaCook", 
+      "text": "La comida, el servicio y el ambiente son muy buenos, el lugar es ideal para ir tanto en pareja como con familia, tiene una incre\u00edble vista al r\u00edo! Altamente recomendable el salm\u00f3n!"
+    }
+  ]
+}

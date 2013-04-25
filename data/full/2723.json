@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "1 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nipi", 
+      "text": "No es una Trattoria como lo promocionan. La comida es buena pero le falta. Con el postre igual (tiramis\u00fa) estaba bueno pero las vainillas parecian de cart\u00f3n."
+    }, 
+    {
+      "date": "22 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lolo", 
+      "text": "Me pareci\u00f3 mediocre."
+    }, 
+    {
+      "date": "1 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nisi", 
+      "text": "La comida es muy rica y las porciones grandes. Tardaron un poco en atendernos y en traernos la comida (supongo que se debe a que los platos los hacen en el momento). Los postres, ni muy abundantes, ni sabrosos.\r\nLos mozos muy amables y el lugar bastante amplio. Tienen un espacio al aire libre."
+    }, 
+    {
+      "date": "22 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lumier", 
+      "text": "Tanto el lugar como la atenci\u00f3n son excelentes, los platos son un tanto sofisticados para mi gusto de esos que lees en la carta y ten\u00e9s que pedir explicaci\u00f3n de que trae cada uno, un tanto rebuscados. Tambien hay pescados y carnes."
+    }, 
+    {
+      "date": "17 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Eddy_Best", 
+      "text": "El lugar y la atenci\u00f3n son excelentes: cuidan cada detalle. La excepci\u00f3n fue que el plato principal solicitado, que no era del men\u00fa del d\u00eda, parec\u00eda recalentado. \r\nLas sugerencias s\u00ed parecen platos hechos en el momento."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Florecita", 
+      "text": "El lugar es muy c\u00e1lido y el servicio excelente. \r\nEl precio que refiero es por un plato principal, agua sin gas y un postre."
+    }
+  ]
+}

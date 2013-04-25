@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "8 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jenny_d", 
+      "text": "S\u00f3lo recomendado para tomar tragos. Tiene una terraza c\u00f3moda pero la atenci\u00f3n de las mozos es medio deficiente, como si fueras pocas para la cantidad de mesas que hay."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "felipro", 
+      "text": "La pizza es buena, aunque por la zona hay mejores, el servicio a veces hace agua.\r\nEl men\u00fa ejecutivo si es muy bueno, con un precio s\u00faper accesible y abundante."
+    }, 
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ARIELG88", 
+      "text": "fui una vez con mi novia, el lugar es lindo las pizzas son ricas, lo unico que tiene de malo es la atencion, tardan mucho en atenderte y no son muy amables que digamos pero en si el lugar es lindo, nada del otro mundo."
+    }, 
+    {
+      "date": "28 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "madasme", 
+      "text": "Llame al delivery, un a\u00f1o despues del comentario de esta paginay siguen tomando mal los pedidossssssssssssss me mandaron otra pizza que no era!!!! y no es la primera vez!!!!"
+    }, 
+    {
+      "date": "26 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "haedo", 
+      "text": "las se\u00f1oritas que atienden el servicio de delivery dejan mucho que desear. No toman un pedido correctamente, ya me ha ocurrido en dos oportunidades. NO llamo mas"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Yaniiina", 
+      "text": "Tiene una sucursal (original) en Capital Federal, en la zona de Flores, y puedo afirmar que son mi debilidad las empanadas... geniales! El precio es un poco alto, pero lo vale. Como negativo, a veces las recepcionistas no son muy atentas, y me pas\u00b4una vez que se olvidaron de mandarme una empanada... jaja! Pero la reclam\u00e9 y me la trajeron."
+    }
+  ]
+}

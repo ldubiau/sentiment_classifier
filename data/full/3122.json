@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "26 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "freakkie", 
+      "text": "La comida es muy rica y sabrosa. El lugar muy bonito y familiar. Los mozos tienen buena onda. Tienen servicio de delivery y la calidad de la comida es la misma. Muy recomendable."
+    }, 
+    {
+      "date": "13 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cyvely", 
+      "text": "El lugar es bastante familiar y la comida muy buena. Sin embargo, la atenci\u00f3n es \"poco profesional\" por llamarlo de alg\u00fan modo. Porciones para compartir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "melangel", 
+      "text": "He ido varias veces. Tiene ambiente de cantina, muy prolijo y tranquilo. Buena separaci\u00f3n entre mesas, excelente vajilla. La atenci\u00f3n es excelente, mozos muy amables y atentos, sin demoras. El \u00fanico problema: no acepta tarjetas (me dijeron que las est\u00e1n tramitando) ni tiene estacionamiento."
+    }
+  ]
+}

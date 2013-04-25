@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "24 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rinocerose", 
+      "text": "Es un restaurante interesante para la persona con gustos mediterr\u00e1neos y que le gusten los mariscos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dec", 
+      "text": "Com\u00ed muy bien y la atenci\u00f3n fue sorprendente."
+    }, 
+    {
+      "date": "19 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Adrian27", 
+      "text": "Excelente! Uno de los mejores lugares de Buenos Aires. Un verdadero hallazgo. La atenci\u00f3n es inmejorable. Pocos platos, pero complejos, con un equilibrio de sabores extraordinario. No dejen de probar el \u201cMoscatel de Alejandr\u00eda\u201d con los postres, es un verdadero prodigio."
+    }, 
+    {
+      "date": "9 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "joma", 
+      "text": "Excelente lugar. Muy buen barman y muy buena cocina que nunca falla. Buena carta de vinos."
+    }, 
+    {
+      "date": "11 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dhazan", 
+      "text": "Muy bueno, el precio es con vino. No hay vinos baratos, lo que encarece un poco.\r\nMuy buenos postres. Probar el de man\u00ed."
+    }
+  ]
+}

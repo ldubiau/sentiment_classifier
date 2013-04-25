@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "20 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lola21", 
+      "text": "Espacio Latino logra lo que muchos lugares no pueden que es detener el tiempo para tener una gran velada. Felicitaciones!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chicaloca", 
+      "text": "Me encanto el ambiente un lugar muy original para ir a comer y me encanto la propuesta de la cocina de campo con el disco de arado.- muy buena la comida y la atencion.- El queso crema casero un espectaculo, muy bueno de verdad!!!!"
+    }, 
+    {
+      "date": "17 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "spanishgirl", 
+      "text": "Me encantaron los platos, muy original las comidas con flores."
+    }
+  ]
+}

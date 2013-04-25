@@ -1,0 +1,518 @@
+{
+  "malos": [
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "koalation", 
+      "text": "La verdad al llegar tuvimos una pesima atencion ya que en primer medida no se nos limpio la mesa y 3 veces se le pidio servilletas para poder incluso limpiarla nosotros. Osea comimos con la mesa sucia y en un principio si no se llamaba a la moza podiamos quedarnos a vivir en ese resto.- Poco recomendable."
+    }, 
+    {
+      "date": "16 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Hernus", 
+      "text": "Esto es una desgracia!!!!!! lei un comentario en el Clarin d eVicente Lopez y vi la foto d ecarlito sy fui a conocer yua que si bien siempre fui al de enfrente del Carefur al ver la foto de Carlitos pense que este era un local original, resulta que es del hermano que lo estafo hace a\u00f1os y que la nota dle diario era un error (tipico de ese diario basura) Son una verguenza"
+    }, 
+    {
+      "date": "26 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Chorizobombon", 
+      "text": "la verdad que la hamburguesa fue algo intrascendente, tenia muchas mas expectativas.\r\nTiene todo lo que uno espera en cuanto a ingredientes y tama\u00f1o de la carne, panceta, huevo y pan pero todo el conjunto no dice nada"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "JuanmaNiel", 
+      "text": "Comimos un lomito y una hamburguesa completa especia, q estabar ricar, grandes porciones q no combinan con las gaseosas de vidrio q son Muy chicas y tenes q pedirte minimo 3 para bajarte todo el plato lo q encarece demasiado el cubierto. el servicio de bueno a regular, hay q pedir muchas veces las cosas para q te las traigan. Fuera de eso en un buen lugar para comer para salir del paso."
+    }, 
+    {
+      "date": "4 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "peladopepe", 
+      "text": "Volv\u00ed luego de algunos a\u00f1os solo para lamentar los estupendos panqueques que en alg\u00fan momento servian. La hamburquesa completa es \"completa\" pero sin gusto. Al llegar la hora de la especialidad, los panqueques pedimos de manzana y dulce, otro de mezcla de queso, dulce de leche y frutas secas. Ricos y abundantes, pero muy lejos de la delicia de otros tiempos. Salvo que seas de muuuuuy buen comer, si vas ped\u00ed o hamburguesa o panqueque, como postre no lo terminas nunca. Si bien algun mozo hace varios a\u00f1os que esta, la atencion es de fast food.  Hay algunos mejores y muchos peores. Para probar."
+    }, 
+    {
+      "date": "11 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gloriaroble", 
+      "text": "Una buena opci\u00f3n para comer panqueques y hamburguesas, los  panqueques muy buenos. El servicio es un poco descuidado y el ambiente es agradable. Tiene estacionamiento propio ideal para una zona en donde es muy dif\u00edcil estacionar.  Un lugar para almorzar o cenar sin muchas pretensiones."
+    }, 
+    {
+      "date": "5 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JoXXX", 
+      "text": "He ido muchas veces y la verdad es que tiene un buen ambiente con un men\u00fa variado, ideal para concurrir con adolescentes"
+    }, 
+    {
+      "date": "9 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "melisa80", 
+      "text": "La experiencia gastron\u00f3mica, a mi entender, es una combinaci\u00f3n entre comida, ambientaci\u00f2n y servicio. Carlitos tiene una carta acotada y los precios resultan altos, apesar que la comida es abundante. El ba\u00f1o tiene una antesala compartida entre hombres y mujeres, donde est\u00e1n los lavamanos, el cual resulta incomodo y no est\u00e1 debidamente limpio. En cuanto al servicio, los camareros son espectaculares, siempre serviciales y educados. Sin embargo el encargado nocturno es mal educado y maltratador. Vivi una experiencia muy violenta con \u00e9l y he decidio dejar de ir a Carlitos por esa raz\u00f2n."
+    }, 
+    {
+      "date": "9 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ginebra", 
+      "text": "Mal\u00edsimo todo! la variedad en panqueques es s\u00faper pobre, la atenci\u00f3n un desastre (mozos desinteresados, no tienen idea de lo que tienen los platos) el precio elevado. Lo \u00fanico que zafa es el ambiente. No vuelvo."
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "andresb", 
+      "text": "por el simple gusto de comer una hamburguesa casera. muy buenas."
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Maidenfan", 
+      "text": "La verdad que si bien el lugar es muy bueno, la carta de panqueques salados y dulces que tienen muy muy pobre. De lo que tienen la calidad es muy buena y la atenci\u00f3n esta bien."
+    }, 
+    {
+      "date": "25 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mpabalf", 
+      "text": "Buena opci\u00f3n para comer en las mesas de la vereda, el panqueque de manzana muy bueno. La atenci\u00f3n es r\u00e1pida y poco dedicada."
+    }, 
+    {
+      "date": "23 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "vdychter", 
+      "text": "El s\u00e1ndwich de lomito es muy bueno!!"
+    }, 
+    {
+      "date": "24 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gloriaroble", 
+      "text": "Fui varias veces a Carlitos de V.Lopez y la \u00faltima vez fue el mes pasado. Los panqueques son muy buenos, el lugar es bastante agradable y muy espacioso ideal para ir en grupo. Creo que tendr\u00edan que mejorar un poco la atenci\u00f3n ya que se nota la falta de entusiasmo y dedicaci\u00f3n por parte de los mozos."
+    }, 
+    {
+      "date": "5 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fschlim", 
+      "text": "Los panqueques son buenos. todo lo dem\u00e1s abstenerse. la atenci\u00f3n es como en mc donalds pero a la mesa. y el ambiente creo que es lo mejor del lugar aunque tampoco sobresale."
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "INCREIBLEHULK", 
+      "text": "el lugar es moderno y especial para ir con chicos ya que tiene pantallas de tele y para los mas chicos para pintar con crayones, yo pedi panqueque salado y me vino un poco frio lo demas estuvo bien, la atencion buena, esta bueno para ir en Flia. o con amigos,al precio razonable para el tipo de comida..volveria"
+    }, 
+    {
+      "date": "16 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rafafrogone", 
+      "text": "La atenci\u00f3n podr\u00eda mejorar un poco, tardan en traerte la comida. A nosotros nos trajeron primero el panqueque y mucho despu\u00e9s los submarinos, muy mal! El sector no fumadores deber\u00eda ser mas grande que el sector fumadores..."
+    }, 
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lichas", 
+      "text": "Para comer c\u00f3midas r\u00e1pidas es una buena opci\u00f3n. Para comer panqueques es insuperable! Cuentan con una gran variedad de los mismos. \r\nEl ambiente es moderno, correcto, pero sin personalidad. \r\nLa atenci\u00f3n muy descuidada. Casi era necesario interrumpir el paso de la moz para que nos atendiera.\r\nDe todas maneras volver\u00eda siempre."
+    }, 
+    {
+      "date": "19 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "smoje", 
+      "text": "Comimos haburguesas con queso y bacon, que estaban buen\u00edsimas y papas fritas bien secas. Si bien es comida rapida, por algunos mangos que en MC y BK  comes mucho mejor. La moza creo que era paragua, un personaggio total."
+    }, 
+    {
+      "date": "16 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "javerius", 
+      "text": "La comida no es muy elaborada pero si muy rica, los platos son para compartir, pero los mozos son uno peor que el otro...\r\nDespu\u00e9s de la \u00faltima remodelaci\u00f3n quedaron mejor distribuidos los ambientes, con pantallas gigantes."
+    }, 
+    {
+      "date": "19 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "NancyP", 
+      "text": "Fuimos a ver el Superclasico Boca River en las pantallas grandes que tienen.  Fue un requisito para gastar $35 por persona que hicimos sin problema.  El lugar es muy grande con tres sectores en dentro y ademas hay mesas por la vereda.  Hay muchas opciones de comida y eligimos panqueques que pedimos por numero como hay mas que 60 tipos.  Salieron muy rapidos y fueron buenos.  Igual que fue el panqueque de postre.  El servicio fue muy atento sin interrumpir a ver el partido.  Un bonus fue que tuvieron estacionamiento valet gratis el domingo."
+    }, 
+    {
+      "date": "18 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Augusto_M", 
+      "text": "Fui un domingo por la tarde, poca gente, buena atenci\u00f3n. Los panqueques muy ricos y los precios no son caros. Buena opci\u00f3n para ir con amigos a tomar y comer algo dulce por la tarde."
+    }, 
+    {
+      "date": "27 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Matt29", 
+      "text": "Carlitos LNG es definitivamente un lugar para ir con amigos, comer algo rapido y pasar un buen rato. Dado que uno va a conseguir comida rapida y un lugar para charlar en voz alta de a varios... Hecha esta aclaraci\u00f3n, se debe tomar en cuenta que la hamburguesa completa que pedi tenia todos los ingredientes en abundancia y muy buen sabor, las papas fritas tambi\u00e9n estaban muy bien y el panqueque Maradona no fue la excepci\u00f3n, abundancia en ingredientes y gran sabor. Si el plan es una salida distendida o casual con amigos, Carlitos es la opcion ideal!"
+    }, 
+    {
+      "date": "22 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LaMonaPepa", 
+      "text": "Muy buen ambiente, agradable. Fuimos con unos amigos a ver el partido de futbol en la pantalla enorme que tienen y la pasamos muy bien. \r\nLa comida infaltable son los panqueques. Aunque algunos pidieron hamburguesas y tambien estaban buenas. Aunque si tengo que elegir me quedo con el Carlitos de Acassuso. Como ese no hay..."
+    }, 
+    {
+      "date": "31 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PaulvonAxt", 
+      "text": "Fuimos con mi pareja varias veces. Hemos estado afuera, donde estan las sombrillas, en el sector mas privado y en el sector fumador donde comimos ayer. Las sillas de ese sector, admito son muy c\u00f2modas, para tener en cuenta si uno va a estar un largo rato. La atenci\u00f3n de los mozos es regular. No hay mucha distancia entre cada mesa y si est\u00e0 muy fuerte la m\u00fasica se hace demasiado ruidoso para conversar. La comida es buena,en algunos casos abundante, salvo ayer que ped\u00ed papas fritas sonrisa y trajeron 5 nada mas.C orta la carta de vinos, pero acorde al lugar, ya que no es un restaurante de lujo. Los ba\u00f1os son limpios. La verdad que para de vez en cuando es recomendable, volveremos."
+    }, 
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "natyasta", 
+      "text": "Esta sucursal es la mas linda, no tienen tanta variedad de panqueques como las otras, pero bien lo vale la ambientacion. \r\nTiene muy buena relacion precio-calidad, les recomiendo los lomitos.\r\nLo bueno es que se puede ir a comer o solo a comer el postre o tomar un trago."
+    }, 
+    {
+      "date": "20 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Excelente opci\u00f3n, la comida es rica, los postres un sue\u00f1o. lo recomiendo."
+    }, 
+    {
+      "date": "27 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "babs", 
+      "text": "para ir a comer panqueques (las hamburguesas son medio feas). el lugar cambio muchisimo de lo que era carlitos antes, ahora parece una hamburgueseria americana, esta muy lindo. es lindo, barato, simple."
+    }, 
+    {
+      "date": "3 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aleseba", 
+      "text": "Si buscas un lugar con comidas simples y ricas, Carlitos te puede dar un poco m\u00e1s. Buenas combinaciones en los panqueques, con opciones naturistas y excelentes sanwiches. Los licudados suelen estar bien preparados. La atenci\u00f3n suele ser buena, pero no les caigas cerca de la hora de cierre, por que la mala onda de los mozos te puede arruinar la noche."
+    }, 
+    {
+      "date": "4 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "myriam", 
+      "text": "El servicio me pareci\u00f3 bueno, ya que los panqueques, que eran muy grandes y ricos, coincid\u00edan con el valor del plato. El ambiente era bueno, pero el aire acondicionado estaba muy fuerte y era un d\u00eda que hac\u00eda fr\u00edo."
+    }, 
+    {
+      "date": "2 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ivonduk", 
+      "text": "Hac\u00eda mucho que no iba a Carlitos. Hace diez a\u00f1os era otra cosa. La comida era la misma, buena, al paso, rica, pero no pretend\u00eda ser un lugar fashion como es ahora. Fui al mediod\u00eda y no se notaba el lindo d\u00eda que era afuera. \r\nMuy oscuro. Cambi\u00f3 mucho. Me gustaba m\u00e1s antes. Era m\u00e1s tipo parador y pegaba m\u00e1s con la zona."
+    }, 
+    {
+      "date": "4 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "javerius", 
+      "text": "Un lugar para ir a cenar cuando queres comer bien, simple y barato. Ideal para ir a ver algun partido en las pantallas gigantes."
+    }, 
+    {
+      "date": "10 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mosz", 
+      "text": "Los panqueques son excelentes, pero me da la sensaci\u00f3n que no es muy higi\u00e9nico."
+    }, 
+    {
+      "date": "19 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lennon", 
+      "text": "Como para hacer una pasadita ligera con familia o amigos, sin exigir demasiado."
+    }, 
+    {
+      "date": "12 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Vitto", 
+      "text": "Nada que ver con el Carlitos original en cuanto a su ambientaci\u00f3n y a sus platos. Las hambuerguesas son regulares, muchos condimentos y la inentendible necesidad de servir la cebolla salteada con salsa de tomates. El ambiente es m\u00e1s bien al estilo fashion, pantallas gigantes, buena m\u00fasica, luces ultravioletas y dem\u00e1s similares. La atenci\u00f3n result\u00f3 joven, amable y correcta. La ecuaci\u00f3n final a mi no me cierra. Me quedo con la vieja generaci\u00f3n que por suerte sigue existiendo."
+    }, 
+    {
+      "date": "25 Ago 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Pechito", 
+      "text": "Muy mala atenci\u00f3n, desorganizado, mucha demora en atendernos y traer la comida. \r\nLos aros de cebolla y el lomo estuvieron bastante mal."
+    }, 
+    {
+      "date": "9 Jul 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gus_bsas", 
+      "text": "Servicio malo y rudo.\r\nNo vuelvo nunca m\u00e1s."
+    }, 
+    {
+      "date": "30 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "mowi", 
+      "text": "Las hamburguesas no tienen nada especial, los aros de cebolla no est\u00e1n buenos. \r\nEs un lugar que vale la pena ir de a varios amigos y a comer panqueques que es lo \u00fanico que vale la pena y sale rico. \r\nEl precio es un tanto elevado para lo que te dan."
+    }, 
+    {
+      "date": "12 Dic 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Los panqueques salados o dulces est\u00e1n bien, pero es un lugar ni muy muy, ni tan tan, como tantos otros para comer algo r\u00e1pido y salir del paso..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "supertorpiandy", 
+      "text": "Excelente atenci\u00f3n, el servicio de mesa impacable, los platos abundantes, servidos todos juntos y deliciosos. los ba\u00f1os en geniales condiciones y el ambiente es super calido tanto para familias, parejas, etc"
+    }, 
+    {
+      "date": "1 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maprotti", 
+      "text": "Eramos 8 y pedimos varios platos. Todos estuvieron muy ricos y bien preparados. La chica que nos atendio era una divina, con muchisima buena onda. Volveria, y lo recomiendo a todo el mundo."
+    }, 
+    {
+      "date": "11 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mkarenm", 
+      "text": "No hay gran variedad de platos, pero son muy buenos. El ambiente es apropiado para festejos con amigos, es muy c\u00f3modo, quiz\u00e1 un tanto bullicioso. pero aconsejable si se quiere comer platos r\u00e1pidos y no tan caros."
+    }, 
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "silvialoly", 
+      "text": "muy buena comida, muy abundante, para salir de lo comun, excelente al variedad de panqueques, realmente me gusto y lo recomiendo"
+    }, 
+    {
+      "date": "24 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luczwaal", 
+      "text": "Excelente. Si te gustan los panqueques, este es el lugar para ir. Mucha variedad, a veces me cuesta elegir uno. Ambiente americano, con ese toque argentino que le dan las camisetas en la pared."
+    }, 
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sebacesario", 
+      "text": "Excelente lugar para ir con amigos, atenci\u00f3n correcta y buena comida. Recomendables los panqueques especiales."
+    }, 
+    {
+      "date": "22 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "HECVIO", 
+      "text": "Pantallas para ver partidos, las mesitas de la vereda est\u00e1n b\u00e1rbaras para comer o tomar algo al sol."
+    }, 
+    {
+      "date": "18 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bravo003", 
+      "text": "Las porciones son muy grandes y ricas. No es una comida de excelencia pero para ir con amigos a tomar una cerveza y comer algo muy rico hasta reventar, es ideal. \r\nLa atenci\u00f3n es medio floja, acorde a estos lugares. El ambiente nada del otro mundo, pero muy limpio."
+    }, 
+    {
+      "date": "1 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "raimi", 
+      "text": "Incre\u00edble, con porciones generosas."
+    }, 
+    {
+      "date": "19 Ene 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gab_026", 
+      "text": "Un cl\u00e1sico. Elaboraci\u00f3n a la vista, todo fresco. Los panqueques, las hamburguesas y los licuados son los mejores. \r\nLos mozos a veces se cuelgan y pasean sin verte."
+    }, 
+    {
+      "date": "19 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "iattadia", 
+      "text": "Muy bueno todo."
+    }, 
+    {
+      "date": "15 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanma_c", 
+      "text": "Espectacular."
+    }
+  ]
+}

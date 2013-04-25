@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "16 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Hipocampo", 
+      "text": "La carta es muy pobre. Pero volveria."
+    }, 
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "efeso", 
+      "text": "Le falto algo mas en el servicio de mesa,muy buenos los platos principales y los postres,amable atencion,aunque algo ruidoso. Volveria."
+    }, 
+    {
+      "date": "23 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "javita", 
+      "text": "La atencion muy buena. La caipiroska de sake espectacular."
+    }, 
+    {
+      "date": "17 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Orlando", 
+      "text": "Cocina correcta (corta) y sin estridencias. El servicio amable, pero algo lento al inicio, luego se recupera. El men\u00fa corto, sin grandes sorpresas. La lista de vinos, \u00bfvariada? s\u00ed. \u00bfCompleta? no. \u00bfA tono con la amplitud de la oferta de vinos en Argentina? menos. \u00bfSe puede pedir un vino aceptable o bueno a un precio correcto? S\u00ed.\r\nAmbiente agradable pero algo ruidoso, alg\u00fan toque  m\u00e1s a la decoraci\u00f3n le dar\u00eda un mayor encanto. Precio muy razonable."
+    }, 
+    {
+      "date": "7 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "danico", 
+      "text": "Hay que mejorar la acustica."
+    }, 
+    {
+      "date": "3 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "absa", 
+      "text": "Un lugar super recomendable con una atencion excelente \r\nademas la calidad de la comida es muy buena y los platos son generosos.\r\nYo lo aconsejo para pasar un muy buen rato con un toque de intimidad (mesas muy bien distribuidas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pachita", 
+      "text": "Fuimos 4 parejas y comimos exelente la atenci\u00f3n muy buena, el lugar es divino,es impecable, te sentis super relajado muy buenos tragos.\r\nConclusi\u00f3n que sacamos con mis amigos \"vamos a volver\".\r\nAguante NOUS ...exitos"
+    }, 
+    {
+      "date": "29 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cocoteiro", 
+      "text": "El lugar es muy agradable. Muy bien ambientado. Fuimos con amigos y comimos todos muy rico. Tiene una carta con pocos platos, pero muy variados. Lo mismo respecto a los vinos. La atenci\u00f3n fue bastante buena. Me gust\u00f3 la barra y los tragos que ofrecen antes de comer."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "truchisoft", 
+      "text": "Un cl\u00e1sico de Buenos Aires. Muy buena pizza, recomendable la fugazza rellena, que no entra en la caja de lo grande que es. Encima es muy rica. El ambiente es com\u00fan, de barrio, es para comer afuera con amigotas, sillas de pl\u00e1stico, mesas de madera, t\u00edpica salida de d\u00eda de semana para juntarse a charlar y gritar un rato. Tambi\u00e9n ofrecen envios."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Meryspessa", 
+      "text": "Tipica pizzeria de barrio que no se luce en ambiente pero tiene una atenci\u00f3n b\u00e1rbara y la comida genial! voy muy seguido por lo menos una vez por semana y los precios son muy econ\u00f3micos.\r\nEs perfecto para una cena de amigos al aire libre, muy rico y barato"
+    }, 
+    {
+      "date": "30 Dic 2003", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "DoctorVergatiesa", 
+      "text": "Las empanadas son entre las mejores que he probado. Buen provecho!"
+    }
+  ]
+}

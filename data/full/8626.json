@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "30 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "diffi", 
+      "text": "A  pesar de que la comida no fue lo esperado, estaba ric y buena calidad. Cerveza poco fr\u00eca, en fin...barato, para estar de pasada y muy muy informal. El lugar es lo m\u00e0s lindo porque es una casona vieja con muebles mal tratados y sillones cortajeados, pintaba un poco sucio, gran ventilador."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rodrigovco", 
+      "text": "Fui un s\u00e1bado a la noche, muy tranquilo en la parte de abajo, muy lindo ambiente, y sobre todo buena atenci\u00f3n. Pedimos picadas, papas fritas, pizza. Lo recomiendo, una buena opci\u00f3n tambi\u00e9n para vegetarianos."
+    }, 
+    {
+      "date": "30 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MaruNG", 
+      "text": "Con mi novio y amigos vamos al menos una vez por semana. El lugar est\u00e1 bueno, es tranquilo y la relaci\u00f3n precio-calidad es muy buena. \r\nHay que pedirle a la moza que la cerveza est\u00e9 fr\u00eda, si no te trae la que haya y por lo general est\u00e1 caliente. Sacando esto, tienen variedad de comidas y el lugar a m\u00ed me gusta mucho c\u00f3mo est\u00e1 ambientado."
+    }
+  ]
+}

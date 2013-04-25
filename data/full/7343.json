@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "28 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leoper", 
+      "text": "Vivo muy cerca y he ido a desayunar, con unas medialunas espectaculares, y por delivery he probado casi toda su carta, que es muy variada. Excelente pizza y las empanadas criollas dulces son altamente recomendables."
+    }, 
+    {
+      "date": "6 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Fati86", 
+      "text": "Comacchio es un restaurant que por ser de barrio tiene una muy buena especialidad en pizzas y pastas, con salsas muy sabrosas y la masa de la pizza es buenisima. El precio es razonable y los mozos son bastante atentos. Ir a desayunar tambien es muy buena idea por las medialunas tan ricas que hacen. Una muy buena opcion si estan por la zona!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "e_vanesa", 
+      "text": "Vivo a 5 cuadras, todo el tiempo pasamos por ah\u00ed a comprar las medialunas, a la hora que pases tienen!!! las dulces las mejores!!!\r\nEl Pan de Pizza de Parmesano EXCELENTE!!!!\r\nY el desayuno de una bandeja que tiene DE TODO!!!! \r\nA no perderse el lugar!!!!"
+    }
+  ]
+}

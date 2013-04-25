@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "14 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "florero", 
+      "text": "La milanesa estaba frita en aceite rancio, el pure sin sabor, no tenia ni leche ni manteca y el flan viejo y seco."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Taly", 
+      "text": "Su ambiente es simple\r\nLa comida es muy buena, es un restaurant comodo Fui varias veces y la atencion fue muy buena\r\nLOs precios son sumamente accesibles Mas para estos tiempos donde todo cuesta taantoo! Lo recomiendo para ir  con amigos"
+    }, 
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "DonViti", 
+      "text": "Deben haber tenido un mal dia... la comida tardo muchisimo. Cuando llego, el lomo estaba frio pero me queme con las papas que acompa\u00f1aban. \r\nUn par de copas sucias. El mozo con mucho mal humor. Le tuve que pedir 3 veces mi agua sin gas para que me la traiga con gas. Los \u00f1oquis estaban bien, pero la salsa cuatro quesos parecia de uno solo con mucha crema.\r\nSi no es para comer pizza, ni se gasten."
+    }, 
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Anntito", 
+      "text": "Muy bueno todo. Fuimos un lunes, y eramos la ultima mesa. Empezaron a levantar las sillas y sacar la basura mientras estabamos ahi. Pero a pesar de todo, estubimos bien atendidos y rica la comida."
+    }, 
+    {
+      "date": "21 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fetucho", 
+      "text": "Podr\u00eda mejorar bastante. Lo salva el precio, igual no volver\u00eda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "patrono", 
+      "text": "muy buena la atencion, lugar muy confortable y sobre todo muy limpio, a metros de la plaza de villa devoto. Toda la comida es excelente, por favor probar las pastas de este lugar, no creo que otro lo pueda igualar.-"
+    }, 
+    {
+      "date": "28 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mymy", 
+      "text": "me quede encantada con ese lugar la atenci\u00f2n esmuy buena esmerada y muy cordial ,el hambiente buen\u00ecsimo como en casa me hicieron sentir bueno que m\u00e0s la comida espectacular!!!! no se me volvi loca lo recomiendo al 100% doy fe de lo que digo .chau,me olvidaba soy mymy"
+    }, 
+    {
+      "date": "12 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tatoo", 
+      "text": "Un lugar tranquilo y solitario, con excelente comida y buena atenci\u00f3n. La carta es simple y b\u00e1sica, sin lujos y tal vez algo escasa. Excelentes pastas con variedad de salsas, en porciones generosas. Una l\u00e1stima que vaya tan poca gente, se merece m\u00e1s p\u00fablico. La competencia que tiene en la misma manzana es demasiado para este excelente restaurant de barrio."
+    }, 
+    {
+      "date": "26 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "quiksilver", 
+      "text": "La atenci\u00f3n es cordial y muy buena, aunque fui solo los fines de semana es un buen lugar para comer tranquilos."
+    }, 
+    {
+      "date": "22 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Almucha", 
+      "text": "Me pareci\u00f3 un lugar acogedor y me atiendieron muy atentamente. La comida es excelente."
+    }, 
+    {
+      "date": "16 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "diekran", 
+      "text": "Ambiente muy bueno y c\u00e1lido para disfrutar con otra persona."
+    }, 
+    {
+      "date": "2 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sylvinem", 
+      "text": "Tanto las pizzas como el resto de los platos ofrecidos son excelentes. \r\nPorciones abundantes. Las pastas son caseras."
+    }
+  ]
+}

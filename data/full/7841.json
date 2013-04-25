@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "JacquesD", 
+      "text": "Es la primera vez que ibamos a este lugar. El ambiente es bueno, bien decorado y calefaccionado. Lo dem\u00e1s, entre regular, malo y muy malo.\r\nComimos con olor a desinfectante ya que nos asignaron una mesa a lado del ba\u00f1o. Al mozo solo le falto agredirnos porque nos atendi\u00f3 como si nos estuviera haciendo un favor. \r\nLa comida cinco puntos, pedimos sorrentinos con jyq (recalentados en el micoondas) y con muy poco sabor. La relacion precio-calidad es nefasta.\r\nNo volvemos mas."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Christian24hs", 
+      "text": "La verdad la pase muy bien junto a mi pareja, fuimos por nuestro aniversario y nos atendieron excelente, la comida estaba riquisima y el ambiente esta bueno :)"
+    }, 
+    {
+      "date": "21 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ferlic", 
+      "text": "El lugar es muy agradable, tiene un sector interno y un patio amplio. Generalmente no suele haber chicos lo que lo hace un lugar especial para charlar y escuchar m\u00fasica. La comida muy buena!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "1piojito", 
+      "text": "El lugar es muy lindo, podes elegir cenar en el patio o adentro, cualquier opcion es tranquila como para poder charlar sin problema. La atencion es inigualable, la comida llega rapidismo y los mosos son super atentos. Los platos abundante y de muy buen sabor. Esta es la tercera ves que fuimos y siempre la relacion costo/servicio es de las mejores de la zona oeste. Con el beneficio de LN a la hora de pagar uno queda aun mas contento con el lugar."
+    }
+  ]
+}

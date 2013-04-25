@@ -1,0 +1,606 @@
+{
+  "buenos": [
+    {
+      "date": "25 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LeonelMorandini", 
+      "text": "El lugar es sencillo y tranquilo. Se destaca la calidad de las pizzas y el tama\u00f1o de las milanesas. Es barato con relaci\u00f3n a la calidad/precio. Si quieren ir afuera, en general hay unos minutos de espera. Ideal para ir en pareja o con amigos."
+    }, 
+    {
+      "date": "2 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "maripunchi", 
+      "text": "deliciosa fugazzeta rellena para compartir con amigos, en familia o en pareja para luego volver caminando al hogar. Eso s\u00ed nunca  una picada,es horrenda!!!"
+    }, 
+    {
+      "date": "18 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lolaetrigan", 
+      "text": "Se come barato y abundante. lo mejor son las pizzas y las pastas. Generalmente hay gente esperando, sobre todo si se quiere comer afuera. A la hora de la cena si te toca la moza de rulitos, es excelente y rapidisima."
+    }, 
+    {
+      "date": "20 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Buena pizza: buena masa y ricos ingredientes. El lugar tiene una buena relaci\u00f3n calidad/precio y el ambiente es agradable, sobre todo en epoca de calor, para sentarse en la calle, de noche, frente a la plaza. La atenci\u00f3n no es muy amable, al menos nosotros fuimos atendidos por un hombre que demostraba poco inter\u00e9s ante los llamados y era muy parco en su trato. Otra contra, la cerveza no vino muy fria, sumado a que la pizza tard\u00f3 m\u00e1s de media hora en llegar, lo que hizo que la bebida estuviera a\u00fan menos fr\u00eda. Es un buen lugar, pero pueden mejorar mucho la atenci\u00f3n. Bien que no cobran cubierto."
+    }, 
+    {
+      "date": "7 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "Super clasico de Belgrano R, en la zona de Plaza Castelli. Al mediodia es el lugar de referencia de varias generaciones que fueron a los colegios de la zona, a la noche es mas tranquilo y esta bueno para ir a comer unas pizzas o minutas con amigos o familia. Sigue atendiendo la misma gente de hace a\u00f1os, con muy buena onda, como siempre."
+    }, 
+    {
+      "date": "25 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "OGato", 
+      "text": "Excelente restaurant de barrio! la mejor suprema napolitana de la ciudad!"
+    }, 
+    {
+      "date": "5 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ingenia", 
+      "text": "Que mejor que estar tomando una cerveza y comiendo unas pizzas una noche de verano enfrente de la plaza? Eso es lo que te dan aqu\u00ed. La pizza finita, crocante y dorada, lo que lo lleva a nivel de cl\u00e1sico de Belgrano R. Claro, el interior no cambio desde que iba a comer con mis amigos de la primara y los mozos tienen todas las ma\u00f1as de los a\u00f1os, pero...  a quien le importa ?"
+    }, 
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "marianojaja", 
+      "text": "Aunque el lugar se caracteriza por las pizzas, me inclin\u00e9 por costillas de cerdo con papas alemanas, que me sorprendieron gratamente por su atractivo gusto a parrilla. Otra opci\u00f3n parecen ser las milanesas. El lugar es tranquilo e invita a volver."
+    }, 
+    {
+      "date": "22 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MAilroque", 
+      "text": "Comimos pizza de muzzarella. Muy rica."
+    }, 
+    {
+      "date": "5 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "gnz_ro", 
+      "text": "Pedimos delivery al mediodia de pastas y nos trajeron nada mas que 4 sorrentinos en cada porcion. Muy muy poco y eso que yo como poco, pero me quede con hambre.\r\nLa comida vino al toque que la pedimos igual."
+    }, 
+    {
+      "date": "27 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mazurat", 
+      "text": "Un excelente lugar para comer una pizza con cerveza o cenar simple. La comida es buena, como la hacian hace a\u00f1os, la mayoria de las cosas ricas. El ambiente no cambi\u00f3 despu\u00e9s de 20 a\u00f1os, la misma decoraci\u00f3n. Los mozos poco sociables, pero te atienden bien. Recomendable."
+    }, 
+    {
+      "date": "8 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "balotage", 
+      "text": "Una de las mejores pizzas a la piedra, que est\u00e1 hace m\u00e1s de 20 a\u00f1os en el barrio y se sigue llenando, especialmente los fines de semana. \r\nMasa finita, bordes crocantes y dorados, e ingredientes frescos.\r\nComimos varias veces en el lugar, pero la mayor\u00eda de veces pedimos delivery. \r\nEl local es totalmente de barrio, con muchos habit\u00faes y una atenci\u00f3n parca pero efectiva.\r\nEs muy recomendable a la hora de elegir una pizzeria."
+    }, 
+    {
+      "date": "3 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "RJVbaires", 
+      "text": "Super Recomendable. Un Lugar Calido atendido por su Due\u00f1o, un se\u00f1or ameno y positivo, con muy buenas pizzas  tipo caseras y las milanesas sabrosas y grandisimas y comida variada. Para tener muy en cuenta, para distenderse y con mesas en al vereda frente a una Plaza arbolada. El servicio es ecxelente, con personal muy atento y rapido."
+    }, 
+    {
+      "date": "11 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jmkogan", 
+      "text": "Un clasico.Muy buenas las pizzas y las milanesas gigantes y ricas.Recomendable,y en dias de calor con las mesas afuera es ideal.El servicio de primera,muy atentos y rapidos."
+    }, 
+    {
+      "date": "8 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "black_olive", 
+      "text": "Excelente relaci\u00f3n precio/calidad. Comida casera, sin pretensiones, amplia carta de parrilla, pasta y pizza. Todo rico, en una ubicaci\u00f3n inmejorable y a un precio super accesible. Supongo que por eso las mesas est\u00e1n tan pegadas y siempre est\u00e1 lleno. Los mozos son r\u00e1pidos y atentos. Lo super recomiendo para ir con hambre pero sin apetito de glamour."
+    }, 
+    {
+      "date": "15 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carlitosbeef", 
+      "text": "Voy seguido lo fines de semana, siempre me siento afuera, las minutas con muy buenas y salen rapido, la pizza es buenisimay el budin de pan de primera.La atencion es muy piola y buena onda.Me gusta mucho ir lastima cuando la gente va con ni\u00f1os mal educados..El lugar altamente recomendable y buenos precios!"
+    }, 
+    {
+      "date": "18 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jumagu", 
+      "text": "Muy rica la pizza, la atenci\u00f3n es buena y el lugar muy ameno. Ideal para comer disfrutando de la tranquilidad del barrio."
+    }, 
+    {
+      "date": "18 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "luna22", 
+      "text": "muy buena comida, y lindo el lugar, chico pero calido. Se llena mucho al mediodia. La atencion buena. Para ir con hambre y comer algo al paso."
+    }, 
+    {
+      "date": "15 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "funkiefish", 
+      "text": "Vamos con frecuencia y es una de las pocas opciones econ\u00f3micas que tenemos los vecinos por la zona. Es verdad que el ambiente no para tirar cohetes pero la relaci\u00f3n calidad-precio, de 10."
+    }, 
+    {
+      "date": "31 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Lunasalgado", 
+      "text": "Fuimos con mi pareja y compartimos una milanesa con papas fritas (que por cierto era enorme) y unos fideos con fileto mas las bebidas y nos salio $18 por persona. La pasta estaba pasada, sin embargo a el le gusto mucho y la milanesa no era tampoco muy buena pero en relacion con el precio y el ambiente es recomendable."
+    }, 
+    {
+      "date": "9 Jul 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juanacarpi", 
+      "text": "Vivo en Belgrano y hace 20 a\u00f1os que voy a Croxi. La pizza es buenisima como siempre y por eso sigo yendo.  Lo demas (servicio, carta de vinos, etc) deja mucho que desear.  Pero por el precio y la ubicacion siempre vale la pena la pizza de Croxi que no defrauda."
+    }, 
+    {
+      "date": "6 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "diegojz", 
+      "text": "La torilla espa\u00f1ola y las pizzas son muy buenas, el reto de la comida zafa, el lugar esta bien pero los mosos no son el fuerte del lugar."
+    }, 
+    {
+      "date": "11 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "E_Nano", 
+      "text": "Me pareci\u00f3 una buena opci\u00f3n para comer algo rico y rapido. El servicio fue bueno y la comida llego al instante. Para recomendar."
+    }, 
+    {
+      "date": "22 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gabyom", 
+      "text": "La atencion es rapida y muy amable. Los mozos son gentiles y saben sugerir bien al cliente."
+    }, 
+    {
+      "date": "17 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pachibool", 
+      "text": "Pizzeria de barrio y consagrada en Belgrano. Pizza bien , barata y como para ir un dia de calor a la noche si hace calor y tenes un poco de verde enfrente, que ahora que la cerraron no te afanan el rolex. Normal."
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "DAVINCHO", 
+      "text": "Es lugar sencillo, con una carta b\u00e1sica de minutas, pero coincido con otros votantes que lo mejor es el lugar. Calle de Belgrano, empedrada, frente a la plaza, arboles, poco transito... una pizza con cerveza, una buena opci\u00f3n."
+    }, 
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Stiej", 
+      "text": "Es dificil evaluar la comida. Por un lado, la pizza es excelente, y no dudaria en elegir a Croxi para ir a comer pizza. Por otro lado, los otros platos son buenos, nada mas; la carta tiene minutas, sandwich y empanadas, pero no se destaca por ninguno de ellos. El servicio es bueno. los mozos deben atender rapido, asi que los admiro por su agilidad. Sin embargo, no se toman la deferencia de pedir permiso y demas que haria la visita mas agradable. El ambiente no es lindo, pues afuera tienen sillas de plastico, y adentro es chico. Es barato. Volveria de paso para degustar una pizza."
+    }, 
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Diegote1803", 
+      "text": "Llegu\u00e9 a este lugar por las recomendaciones de la Guia y no defraudo en lo mas minimo. Es un lugar peque\u00f1o pero agradable, lindo para ir en familia. La carta no se caracteriza por tener platos \"elaborados\" pero las comidas son muy sabrosas y sobre todo, abundantes. El servicio es correcto y el ambiente acompa\u00f1a. De lo mas destacado, la relacion precio-calidad-cantidad. Vuelvo seguro."
+    }, 
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fabricio70", 
+      "text": "De barrio,t\u00edpico lugar de Belgrano R para ir tranqui y disfrutar del lugar, de la plaza, de la gente. La carta est\u00e1 repleta de minutas, pastas, pizzas y sandwichs. La comida es buena, los precios muy aceptables, la atenci\u00f3n es correcta, el ambiente del local en s\u00ed, pasable (sin nada destacable), tardan muy poco en traer la comida a la mesa. Al mediod\u00eda en fin de semana, ir temparno o tendr\u00e1n que esperar en la puerta.\r\nNo esperen grandes cosas, tengan en cuenta que es un t\u00edpico restaurante chiquito de barrio, pero se come bi\u00e9n y econ\u00f3mico.\r\nSeguro volver\u00e9 el alg\u00fan otro momento."
+    }, 
+    {
+      "date": "18 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Brunor", 
+      "text": "La pizza es muy buena, pero lo mejor de \u00e9ste lugar es su ubicaci\u00f3n. Recomendable para almorzar en la verdea frente a la plaza de Belgrano R un mediod\u00eda de principios de oto\u00f1o o en la primavera."
+    }, 
+    {
+      "date": "25 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mldm", 
+      "text": "La pizza es muy rica y el ambiente muy agradable, incluso en las mesas de la vereda, es una buena opci\u00f3n para la zona."
+    }, 
+    {
+      "date": "14 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fmach", 
+      "text": "La palabra que lo define es: efectivo, carta amplia, con clasicos y minutas, muy buena atencion con mozos que saben de su trabajo, sin esperas y buena calidad de ingredientes, recoendables: suprema napolitana, pizza y todas las minutas en general, si le molesta demasiado el bullicio elija otro lugar. Un clasico de Belgrano R para seguir volviendo y comer bien y barato."
+    }, 
+    {
+      "date": "3 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Adriano", 
+      "text": "No me defraud\u00f3, la carta es simple y la atenci\u00f3n es buena, se esmeran lo suficiente. La comida es bastante aceptable y no demor\u00f3 demasiado es ser tra\u00edda. \r\nEn conclusi\u00f3n recomendable y a precios m\u00f3dicos."
+    }, 
+    {
+      "date": "2 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LMGSM", 
+      "text": "Lind\u00edsimo lugar para comer por el barrio, ambiente de vecinos... por supuesto, de Belgrano R, comida sencilla y bien preparada, los mismos mozos de siempre, amables y simp\u00e1ticos y muy buena onda general.\r\nLos precios, muy accesibles."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ramses", 
+      "text": "Croxi tiene una excelente relaci\u00f2n precio calidad. Si uno anda por Belgrano R y no busca algo \"fashion\" puede comer minutas sencillas y bien preparadas (por ejemplo escalopes a la romana)a muy buen precio. Si la noche est\u00e0 linda conviene llegar temprano para sentarse en las mesitas de afuera. El servicio es amable y si bien el local es chico no tienen la mala costumbre actual de muchos lugares de no permitir que una pareja se siente (c\u00f3moda) en una mesa de cuatro."
+    }, 
+    {
+      "date": "25 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vjemmo", 
+      "text": "Como fui almorzar me toco cruzarme con todos chicos y adolescentes (y sus respectivos progenitores)del colegio que esta a la vuelta del resto que a menudo tambi\u00e9n comen al mediod\u00eda ah\u00ed. Debido a esto las mozas estaban muy ocupadas, sin embargo me atendieron r\u00e1pido. No hay demasiadas opciones pero la comida es agradable. De todos modos no creo que vuelva, al menos no almorzar; mucho ruido y poco lugar entre las mesas."
+    }, 
+    {
+      "date": "16 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "veriss", 
+      "text": "Un cl\u00e1sico. Suelo pedir pasta o pizza, que es muy rica y tambi\u00e9n pido a domicilio. Lo frecuento bastante seguido. La atenci\u00f3n es muy buena y el ambiente es el mismo desde siempre, con los mismos mozos."
+    }, 
+    {
+      "date": "16 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Silviafr", 
+      "text": "Muy buena pizzer\u00eda y bodeg\u00f3n de barrio. Ambiente familiar y sencillo. Siempre est\u00e1 lleno de gente. Ahora entiendo por qu\u00e9. Volver\u00e9."
+    }, 
+    {
+      "date": "11 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PaladarNedro", 
+      "text": "La mejor pizzer\u00eda de las que rodea la Plaza Castelli y alrededores. Para darse un ba\u00f1o saludable de barrio. Siempre voy y lo recomiendo."
+    }, 
+    {
+      "date": "9 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "unpibesimple", 
+      "text": "La pizza es muy buena. Lo dem\u00e1s, nunca lo prob\u00e9."
+    }, 
+    {
+      "date": "25 May 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dieguito", 
+      "text": "T\u00edpico restaurante de barrio. \r\nPoco com\u00fan en una zona como Belgrano. \r\nLas minutas est\u00e1n bien preparadas, pero no son nada extraordinarias. Los d\u00edas de semana tienen un men\u00fa ejecutivo muy conveniente. Eso s\u00ed: olvidense de los precios anteriores (todo tuvo un reajuste de alrededor del 20) ya que la carta estaba muy atrasada en valores. Para salir del paso, es recomendable."
+    }, 
+    {
+      "date": "6 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gogo", 
+      "text": "La comida es simple.\r\nUna pizza muy sencilla, de mozarella sencilla, masa excesivamente sencilla... Sin personalidad.\r\nEl servicio muy amable y correcto.\r\nEl ambiente simple tambi\u00e9n.\r\nEl lugar no super\u00f3 ninguna de mis expectativas."
+    }, 
+    {
+      "date": "27 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Paco", 
+      "text": "Los vecinos del barrio agradecidos, conserva todo lo bueno de viejas tradiciones. \r\nMucho mejor la pizza que las minutas.  Pizza para llevar o comer en la vereda con vista a la plaza, que entre primavera y verano es un placer."
+    }, 
+    {
+      "date": "15 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Equi", 
+      "text": "Un lindo restaurante de barrio que no pierde su encanto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "vladimir.img", 
+      "text": "La mejor pizza de Belgrano, m\u00ednimo!!! a mi gusto la mejor pizza!!! adem\u00e1s la atenci\u00f3n es muy buena, los que atienden trabajan hace a\u00f1os. M\u00e1s de 15 a\u00f1os comiendo pizza en Croxy!"
+    }, 
+    {
+      "date": "12 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "paubonnet", 
+      "text": "R\u00edquisimo! La comida buen\u00edsima y el servicio tambi\u00e9n. No tengo de qu\u00e9 quejarme!!"
+    }, 
+    {
+      "date": "2 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Yepes", 
+      "text": "muy rico, bueno para comer afuera pero adentro es horrible.\r\nEspecial para comer de a unos 5 o menos."
+    }, 
+    {
+      "date": "23 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "basileos", 
+      "text": "Las empanadas, sobretodo la de carne y la de tomate y queso, est\u00e1n seguramente entre las mejores de la ciudad - y las pizzas no quedan atr\u00e1s. El servicio es impecable, simp\u00e1tico y eficaz, el ambiente es de cantina de barrio, donde todos se conocen. Y no te cobran nada por la vista de la plaza Castelli."
+    }, 
+    {
+      "date": "5 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gesp_hotel", 
+      "text": "el lugar es chiquito, la demora puede ser larga. Pero la opci\u00f3n de delivery es destacable, ya que la pizza llega en las mismas condiciones que ser comida en el lugar.\r\nDentro de las mejores pizzas de Buenos Aires. Recomendable!!"
+    }, 
+    {
+      "date": "13 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fschlim", 
+      "text": "Voy a Croxi desde hace mas de 15 a\u00f1os y la pizza esta siempre sabrosa. los mozos son los mismo y dedican mucha atencion a sus clientes. la carta es simple pero todo lo que hay esta bien preparado y en el momento. el ambiente por ahi no es el mas de moda pero no por eso opaca la ocasion. no me canso de visitarlo."
+    }, 
+    {
+      "date": "22 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Nippur", 
+      "text": "Fonda de barrio, nada m\u00e1s.\r\nTodo lo que ped\u00ed estuvo bien preparado y sin pretensiones. Si bien esta en Belgrano R, no deja de ser un lugar para comerse una buena milanesa y punto."
+    }, 
+    {
+      "date": "17 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "1965", 
+      "text": "Muy lindo el aambiente familiar."
+    }, 
+    {
+      "date": "11 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariana80", 
+      "text": "El lugar es un cl\u00e1sico de Belgrano R, lo frecuento desde chica y por lo que recuerdo sigue todo igual: la ambientaci\u00f3n (ojo, no por eso el lugar se cae a pedazos), los mozos son eternos y la pizza la mejor que prob\u00e9 en mi vida. \r\nEso s\u00ed, para ir un s\u00e1bado a la noche conviene reservar antes y para el \u00e9xito que tiene el lugar qued\u00f3 un poco chico."
+    }, 
+    {
+      "date": "20 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eric1", 
+      "text": "Buen\u00edsimo y barato."
+    }, 
+    {
+      "date": "10 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alejodelacalera", 
+      "text": "Muy buen servicio, el lugar es un poco peque\u00f1o pero muy acogedor. \r\nLa masa de la pizza, la mejor que com\u00ed en mi vida."
+    }, 
+    {
+      "date": "4 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ezedomen", 
+      "text": "Excelente atenci\u00f3n pese a que llegamos casi sobre el cierre."
+    }, 
+    {
+      "date": "22 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danielav1", 
+      "text": "Compartimos opini\u00f3n, Croxi es lo mejor.\r\nRecuerdos de la infancia, adolescencia y de siempre. \u00a1Ojo con remodelar!"
+    }, 
+    {
+      "date": "13 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "miguel_g", 
+      "text": "Un buen ambiente acompa\u00f1ado de un servicio excelente y buena comida."
+    }, 
+    {
+      "date": "19 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ruleman", 
+      "text": "Muy buen lugar, muy buena la atenci\u00f3n, excelente la pizza."
+    }, 
+    {
+      "date": "24 Ene 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "alejandr5", 
+      "text": "Men\u00fa ejecutivo del mediod\u00eda muy bueno y barato."
+    }
+  ]
+}

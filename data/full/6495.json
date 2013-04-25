@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "1 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "netneko", 
+      "text": "La verdad una desiluci\u00f3n:Comimos un plato de arroz con frutos secos (que traia pasas,almendras y supuestamente pollo)que no ten\u00eda gusto a nada,le faltaba sabor en serio (nunca me lo habria imaginado en un lugar asi),una entrada compartida,dos cocas y SIN postre y gastamos 89$!!! carisimo y sin gusto.La verdad no lo recomiendo para nada.\r\nEso si,el servicio fue muy cordial y el ambiente muy cuidado."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "maet", 
+      "text": "Excelete comida, sabores muy bien logrados, excelente atenci\u00f3n y ambientaci\u00f3n. Justamente com\u00ed lo que otro usuario opin\u00f3 que era malo ... son gustos claro, ... pero .. para el que entiende de comida de oriente, es un lugar para recomendar, EXCELENTE !! El cordero sin desperdicios, sin duda volver\u00e9 !!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jryg", 
+      "text": "Muy rico... plato de cordero como recomendacion del dueno, quien amablemente nos atendio. Un deleite al paladar. Lo trecomiendo!"
+    }
+  ]
+}

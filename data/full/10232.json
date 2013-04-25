@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "2 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "JohnnyO", 
+      "text": "La combinaci\u00f3n horrible de ambiente de construcci\u00f3n, comida mediocre, y servicio horrible suma a la peor experiencia que recuerdo.  Los precios no reflejan la calidad por nada, y el mozo no reconoc\u00eda que se equivic\u00f3 varios veces (en precios, comidas, y atenci\u00f3n).  Ademas, la promoci\u00f3n del menu ejectuvo en la pagina de web por $32 en realidad cuesta $60 en persona."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lulu_18", 
+      "text": "No conoc\u00eda el lugar y fui por un groupon, el lugar es bonito pero la atenci\u00f3n es un desastre. Tardaron una hora reloj para traernos la comida (wraps de lomo con una guarnici\u00f3n de ensalada) habiendo s\u00f3lo dos mesas ocupadas en todo el sal\u00f3n."
+    }
+  ]
+}

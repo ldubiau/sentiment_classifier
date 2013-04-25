@@ -1,0 +1,116 @@
+{
+  "buenos": [
+    {
+      "date": "11 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gore", 
+      "text": "me gusto el ambiente,buena atencion y excelente comida.Para recomendar"
+    }, 
+    {
+      "date": "16 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "roxio", 
+      "text": "Una muy buena alternativa en Palermo por su relacion calidad precios. excelente el ojo de bife!!"
+    }, 
+    {
+      "date": "2 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Roberto", 
+      "text": "Pociones grandes, el mozo deber\u00eda avisar que se puede compartir."
+    }, 
+    {
+      "date": "6 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "saulento", 
+      "text": "hay un solo mozo para todo el lugar, la carne no es lo que uno espera a esta altura de la cocina, el chorizo recalentado, las fritas correctas y el postre bueno. hay opciones mas recomendables."
+    }, 
+    {
+      "date": "16 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Memita", 
+      "text": "Parrilla familiar, buena relacion precio/producto, musica tranqui, para compartir una cena entre amigos como en casa."
+    }, 
+    {
+      "date": "6 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eduardo99", 
+      "text": "4 personas quedamos satisfechas con una muy buena parrillada completa (carne tierna y achuras sabrosas) m\u00e1s 2 ensaladas abundantes. El lugar es chico pero agradable. Excelente relaci\u00f3n precio/calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DonNito", 
+      "text": "La parrillada, consistente en excelentes y exquisitos chinchulines, morcilla, chorizo, salchicha parrillera, ri\u00f1ones, bondiolita de cerdo, pollo, vac\u00edo y tira de asado, acompa\u00f1ada por una sabrosa salsa criolla y un genuino chimichurri (porque, como debe ser, es algo picante), es un verdadero placer para el paladar.\r\nLa parrillada para dos personas es abundante, de modo que bien pueden comer tres personas de moderado comer, con lo cual quedar\u00edan satisfechas.\r\nLa porci\u00f3n de papas fritas, tambi\u00e9n abundantes, son caseras, lo cual es un detalle no menor si se repara que cientos de restaurantes, por igual precio que \"Lo de Franco\", te dan papas fritas prefreezadas listas para freir.\r\nAmbiente luminoso, c\u00e1lido e \u00edntimo. \r\nComo ver\u00e1n, muy recomendable."
+    }, 
+    {
+      "date": "25 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "EstebanQ", 
+      "text": "Excelente calidad en carnes. Comimos muy pero muy rico. Los mozos son muy serviciales, lo recomiendo."
+    }, 
+    {
+      "date": "9 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "VeroPalermo", 
+      "text": "La parrillada es abundante, como para tres. Es muy recomendable porque sirven buena carne y el precio es \u00f3ptimo por la zona en la que est\u00e1 la parrilla."
+    }, 
+    {
+      "date": "9 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "desvesiculiado", 
+      "text": "Incre\u00edble la carne y a un precio b\u00e1rbaro.\r\nComimos tan bien como en los mejores lugares y gastamos la mitad.\r\nLa verdad que lo recomiendo."
+    }, 
+    {
+      "date": "3 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Hananu", 
+      "text": "Buenisimas las pastas y la parrilla, excelentes los acompa\u00f1amientos y ensaladas de verduras frescas. Buena mercaderia. La atencion de los mozos de primera"
+    }
+  ]
+}

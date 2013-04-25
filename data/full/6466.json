@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "6 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "juanchi23", 
+      "text": "fui un savbado a la noche a comer y me precio um lugar poco atractivo desde todo punto. es un lugar caro y su comida no lo vale, el servicio se le tuvo que llamr la atencion varias veces. por este precio hay en los alreddedores mucho mejores cosas."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "andie73", 
+      "text": "Para los que son son de la zona (y ya tienen unos a\u00f1itos encima), reconoceran a la gente de los restaurantes \"Munich\" y \"La cascada\".\r\nLocalizado en una antigua casona sita en la esquina de Laprida y Alvear, es una buena opci\u00f3n para escapar al ca\u00f3tico centro de lomas. De ambiente mas bien familiar y de barrio, tiene buena atenci\u00f3n y rica comida. Sugerencia: mesas para aprovechar el enorme espacio exterior para las noches de verano."
+    }, 
+    {
+      "date": "4 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lcandel", 
+      "text": "Bastante bueno. La comida era muy sabrosa, estaba bien preparada y salio en poco tiempo (a considerar: eramos solo 2 personas en todo el salon... fuimos temprano). Las porciones eran abundantes pero no en exceso. La carta MUY variada, tal vez deberian acortarla un poco para focalizarse en las mejores opciones."
+    }, 
+    {
+      "date": "31 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cdz2009", 
+      "text": "Excelente atenci\u00f3n, muy buena comida y una amplia carta de platos."
+    }
+  ]
+}

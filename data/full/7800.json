@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Anibal1234", 
+      "text": "El lugar esta muy lindo y se ve que gastaron mucho en acondicionarlo.\r\nFui varias veces y los mozos dejan mucho que desear, se olvidan las cosas te dejan comer el plato hasta la mitad y recien despues te traen la sal que le pediste.\r\nLa cocina no es buena, a pesar de que los ingredientes parecen de buena calidad. Sertia bueno que cambien el cocinero y los mozos y seria el lugar que merece ser."
+    }, 
+    {
+      "date": "21 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "SilWal", 
+      "text": "Fuimos con mi pareja por un cupon de descuento, que incluia \"picada cazuela de tortilla cazuela de milanesa patatas bravas\"... la picada no nos la dieron pese a peleas con todos los mozos.\r\nTanto la cazuela de tortilla como la de milanesas eran sobran de no se cuantos dias, muy malas.\r\nLas patatas bravas de lo picante eran incomibles... mi esposo y yo somos de comer picante, pero eran horribles.\r\nMuy mala atencion y el ambiente concuerda con lo malo que es todo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ElGloton", 
+      "text": "Comi barbaro y me atendieron muy bien. Cierra a las 20 hs. Esta muy bueno para almorzar"
+    }, 
+    {
+      "date": "14 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "mjpacin", 
+      "text": "La atencion es malisima, un almuerzo no lleva menos de 2 horas. Los mozos son insuficientes aun para un espacio tan peque\u00f1o, la comida es buena pero la mayor parte del tiempo no tienen los menues que ofrecen. \r\nTuvimos una experiencia muy desagradable en un almuerzo donde se quedaron sin postres para ofrecer. Para 14 personas nos ofrecieron 7 ensaladas de fruta y no nos quisieron reintegrar el postre. La encargada culpo a Moyano por un paro, en lugar de avisan entes de entrear que no disponia de lo necesario para dar el servicio adecuado. No pensamos volver."
+    }, 
+    {
+      "date": "8 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "satsuji", 
+      "text": "Aunque generalmente voy a la tarde a tomar unas cervezas con amigos, donde la atencion es rapida y bastante buena, esta vez fui al mediodia a almorzar  y no es lo mismo.\r\nLa comida es buena/regular, y la atencion algo lenta. Hay bastante opciones de menu ejecutivo, creo que mi eleccion no fue la mejor.\r\nEl descuento del Club La Nacion lo hace una opcion interesante a pesar de todo."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "null", 
+      "text": "muy pretencioso, la carta tenia mas cosas de las q realmente ofrecieron, y el ambiente esta helado, no se puede comer con la campera puesta, prefiero mil veces el de alvarez thomas"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aquaman", 
+      "text": "Me encant\u00e1 Le Ble, el fundge de chocolate (tort\u00e1 h\u00fameda) es adictivo al igual que el bagel de salm\u00f3n ahumado. Las infusiones y t\u00e9s en tasones .La vista al r\u00edo fant\u00e1stica. Hay que buscarlo bi\u00e9n, est\u00e1 escondido dentro del local de Peugeot."
+    }
+  ]
+}

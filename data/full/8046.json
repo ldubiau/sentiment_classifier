@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "El Canario", 
+      "text": "Lindo lugar, va, lugar com\u00fan, mala comida y atenci\u00f3n...  no hace falta hablar mas."
+    }, 
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "PabloLeonardo", 
+      "text": "El lugar es agradable, pero en lo que respecta a la comida es P\u00c9SIMO. El lomo al champignon ten\u00eda una salsa indefinida como salida de alg\u00fan dudoso pomo y la decoraci\u00f3n del plato parece una improvisaci\u00f3n de sobras de la cocina. \"Jugoso\" es un t\u00e9rmino que interpretan como \"crudo\". El bife de chorizo, que era evidentemente recalentado, lleg\u00f3 a la mesa frio. El aceite de oliva era aceite comun y el aceto era vinagre de vino o algo por el estilo. Para completarla, la atenci\u00f3n era forzadamente agradable. Los mozos no tienen la culpa de que nadie los haya instruido sobre c\u00f3mo atender una mesa."
+    }, 
+    {
+      "date": "6 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "ferleo", 
+      "text": "El lugar es muy comodo y agradable, la atencion muy cordial, pero la comida fue muuuuuy mala.  Fuimos con amigos y ninguno de los platos fueron buenos, todos parecian recalentados.  El mio particularmente era un matambre a la pizza y lleno de grasa, incomible!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "VeroLS", 
+      "text": "El lugar es muy agradable con muy buena atenci\u00f3n. Los platos son super abundantes y la comida es fresca y sabrosa. En cuanto a los precios, no son demasiado econ\u00f3micos pero son correctos para el tama\u00f1o de las porciones. Un lugar ideal para comer minutas."
+    }, 
+    {
+      "date": "22 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ianina", 
+      "text": "Es un lugar que me agrada mucho, voy frecuentemente ya que me queda cerca. Tanto el servicio como la cocina son muy buenos, adem\u00e1s de que no se demoran en hacer llegar el pedido a la mesa.Asimismo, los precios son los regulares para la zona, lo recomiendo como una buena opci\u00f3n para aquellos que andan por la zona."
+    }, 
+    {
+      "date": "13 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alys", 
+      "text": "Lugar muy agradable, muy abundantes las porciones,acorde precio-calidad Recomendable!!"
+    }
+  ]
+}

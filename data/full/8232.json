@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "30 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "leossss", 
+      "text": "El lugar es un poco incomodo y apretado. \r\nLa fondue es regular, parecia un queso adler derretido, creo que no tenia emmental y poco gruyere. Por lo que gastamos esta bien."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Matagusosa", 
+      "text": "Excelente, la verdad me encanto, me lo recomendaron y lo recomiendo. Fui a las dos sucursales. La de urquiza un sabado al mediodia, poca gente, la zona es tranqui.\r\nA la de palermo fui de noche y tambien, el lugar es lindo, bien ambientado, la comida muy rica. El servicio medio lento. Sin duda voy a volver, elgo diferente y rico para salir de la rutina de todos los dias."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Roro07", 
+      "text": "Tuvimos la suerte de poder comer afuera, por que adentro estaba lleno, habia mucho ruido y hacia calor.\r\nLa comida muy buena, te traen muchas cazuelitas con variedad de carnes, pollos, etc y la de queso es abundante."
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Bukama", 
+      "text": "El lugar es peque\u00f1o y un poco apretado. Pedimos fondue de queso, algo que he comido varias veces. Lo que nos trajeron no estaba mal pero no era fondue. Parecia hecha a base de queso cremoso y salsa blanca. Reconozco que una fondue sale cara y este lugar era bastante barato. \r\nLa fondue de chocolate era mucho mejor y de hecho estaba bastante buena."
+    }, 
+    {
+      "date": "29 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "solci2910", 
+      "text": "la verdad es que comimos 3 personas con las fondues que pedimos y muy abundante. altamente recomendable!"
+    }, 
+    {
+      "date": "26 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ignacio6443", 
+      "text": "El lugar es bastante apretado y ruidoso; la comida no me pareci\u00f3 algo demasiado destacable."
+    }
+  ]
+}

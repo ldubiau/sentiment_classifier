@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "27 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Brooklin", 
+      "text": "Muy buen ambiente,riqu\u00ecsima la comida,vuelvo."
+    }, 
+    {
+      "date": "20 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Espartano", 
+      "text": "La comida estuvo bien. \r\nEl servicio muy mejorable con respecto a la actitud y a las formas.\r\nEl ambiente no me gust\u00f3 nada, est\u00e9ticamente poco agradable y encima me fui con olor a comida totalmente impregnado!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "delu", 
+      "text": "La comida es exquisita y el ambiente y la atenci\u00f3n son muy buenos."
+    }, 
+    {
+      "date": "19 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sole", 
+      "text": "\u00a1Bravissimo!"
+    }, 
+    {
+      "date": "28 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gechito0", 
+      "text": "Excelente lugar, lo recomiendo."
+    }
+  ]
+}

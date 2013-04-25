@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "dahool", 
+      "text": "La pizza regular, no es la gran cosa. No esperaba mucho por el precio, pero pensaba que iba a ser mejor.\r\nLos ingredientes parecen buenos, pero la masa deja mucho que desear.\r\nPedi delivery as\u00ed que no puedo calificar el resto de las cosas."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "severinablue", 
+      "text": "muy buena pizza ,,eXcelente la muzzarela"
+    }, 
+    {
+      "date": "24 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "voncholtitz", 
+      "text": "Hace mucho que pido pizzas en Tomasso y son de muy buena calidad, como las empanadas. No pido puntualmente a este, sino a al de ecuador, y siempre nos quedamos conformes, mas que nada con la relacion precio calidad. Ultimamente estan tardando un poco mas en el delivery pero hace un tiempo era muy rapido y atendian muy bien. Gran pizzeria."
+    }, 
+    {
+      "date": "8 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "feragusper", 
+      "text": "Bueno tirando a regular. Nada destacable"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "16 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "negritaval", 
+      "text": "El lugar cubrio las especativas que dejo Perica cuando estaba ahi, los sabores siguen siendo los mismo que hace mas de 25 a\u00f1os. Hamburguesas completas, fritas, todo, pero todo es delicioso y a un precio super accesible, Voy seguido."
+    }, 
+    {
+      "date": "15 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "noexijomucho", 
+      "text": "Muy buen lugar para salir del paso. Vas, com\u00e9s bien a buen precio y en excelente tiempo."
+    }, 
+    {
+      "date": "20 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "luiscoro", 
+      "text": "La moza es excelente."
+    }, 
+    {
+      "date": "20 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "andre_16", 
+      "text": "Excelente servicio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablobello", 
+      "text": "Muy bueno. Es rico y con precios accesibles."
+    }, 
+    {
+      "date": "4 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "javidega", 
+      "text": "Bueno. La atenci\u00f3n es espectacular, sale todo r\u00e1pido y rico. \r\nLo califico como excelente, ya que los empleados son muy atentos."
+    }
+  ]
+}

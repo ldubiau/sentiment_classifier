@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AlejandraR", 
+      "text": "Hermoso lugar para un dia soleado, disfrutar un cafecito con buena pasteleria sentados en el jard\u00edn. Las porciones de torta muy generosas, muy frescas, vale la pena seguir probando otras opciones."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Felibel", 
+      "text": "El tazon de cafe??? enorme!!! muy de abuela, la torta cheesecake increible,lejos la mejor que probe hasta ahora,perfecta untuosidad y acidez la torta de granola y naranja, genial, una  perfecta combinacion de crocantez y dulzor. Muy esmerada la atencion de la moza y su due\u00f1o, sin duda volvere."
+    }, 
+    {
+      "date": "8 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "crazybeats", 
+      "text": "Es muy bueno!.La taza de cafe es muy generosa y que decir de la porcion de torta...bien! . Pedi la humedad de chocolate y estuvo de 10!"
+    }, 
+    {
+      "date": "1 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Flopy93", 
+      "text": "Excelente Pasteleria! todo estuvo muy rico y el lugar es hermoso!"
+    }
+  ]
+}

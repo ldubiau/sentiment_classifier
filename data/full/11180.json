@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Dia15", 
+      "text": "La verdad que no lo recomiendo. La calidad de la comida me pareci\u00f3 muy mala, por lo menos lo que pedimos nosotros que fue parrilla. Lo unico que nos gust\u00f3 fueron las papas fritas. El precio es muy accesible pero no vale la pena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juanbjusto", 
+      "text": "Excelente calidad de carne, muy tierna. Variedad de ensaladas. Muy buena carta de vinos. Atenci\u00f3n especial de Facundo, chef de la nueva generaci\u00f3n. Buen recibimiento y muy buena onda. Volveremos sin duda."
+    }, 
+    {
+      "date": "11 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Facu_Cor", 
+      "text": "Bueno, fuimos a comer a la noche con mis amigos, y salio todo muy bien ! La carne es excelente, el servicio es bueno y los precios accesibles, no nos gusto las pastas que pidio uno, pero bueno, es una parrilla, la carne era una mantequita ! Buena carta de vinos, recomiendo !"
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "julynan", 
+      "text": "excelente atencion y riquisima la carne, el due\u00f1o muy atento"
+    }
+  ]
+}

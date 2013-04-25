@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "10 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sealaugh", 
+      "text": "Lamentablemente en el sitio que estaba el angel gris actualmente est\u00e1 Il Angelo. Se extra\u00f1a la excelente atenci\u00f3n que ten\u00edan. La comida con gusto a casero y con excelentes precios. Actualmente Il Angelo tiene un servicio que apenas llega a bueno y los precios son muy elevados para la calidad de la comida. Es recomendable para tomar un caf\u00e9, pero la cocina en general deja mucho que desear."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ledlidia", 
+      "text": "a ni ne gust\u00f3 y a mis amigas tambien.....buena pizza en promo con cerveza que no utilizamos, tomamos gaseosas."
+    }, 
+    {
+      "date": "10 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rodolfito1", 
+      "text": "comi pizza bastante buena los precios razonables y la cerveza bien fria."
+    }, 
+    {
+      "date": "10 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fer3000", 
+      "text": "El precio corresponde al men\u00fa de mediod\u00eda, muy barato y rico."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "katto65", 
+      "text": "Excelente lugar, confortable y con muy buena atenci\u00f3n. Hay platos variados y para todos los bolsillos. Para recomendar."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "5 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Aliciamaravilla", 
+      "text": "Un lugar netamente para disfrutar con amigos.Muy divertidos los shows de los viernes y s\u00e1bados y un ambiente muy familiar. Muy buena la atenci\u00f3n de las camareras. Las pasatas son muy ricas y los platos con carnes son abundantes y con un buen punto de cocci\u00f3n. Ideal para cenar o disfrutar del bar con amigos."
+    }, 
+    {
+      "date": "18 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LUCELIA2010", 
+      "text": "O simp\u00e1tico atendimento do Alessandro nos fez voltar no dia seguinte e experimentar outros sabores de empanadas ...e na pr\u00f3xima vez com certeza voltaremos l\u00e1 pra experimentar as tortas e a sopa de lentilha !"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Centro13", 
+      "text": "Ricas y abundantes porciones. Fui varias veces y la pase muy bien. Muy buena la pizza especial , tanto como las empanadas y milanesas. Los due\u00f1os son muy atentos y las camareras muy buena onda y atencion."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "9 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sdistefano", 
+      "text": "Se come, pero no me parece particularmente buena. Los ingredientes son de calidad mediana a baja."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "En Parque Patricios se encuentra esta pizzer\u00eda que ofrece excelentes productos a muy buenos precios. Imperdible la fugazzeta con jam\u00f3n. La atenci\u00f3n es amable y el ambiente es bullicioso pero muy familiar. Un cl\u00e1sico del barrio que no defrauda."
+    }
+  ]
+}

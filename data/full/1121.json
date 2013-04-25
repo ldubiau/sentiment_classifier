@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "18 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Princess2011", 
+      "text": "El show decadente.Pedimos pollo con mezclum verde.Eran dos lechugas a penas lavadas.Sin duda un lugar para no ir.Y gastar inutilmente."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leomogui", 
+      "text": "Hay que tener en cuenta que el fuerte del lugar es el show, igualmente la comida estuvo bien. Lamentablemente como \u00e9ramos 2 personas la mesa estaba un poco alejada del escenario y esperamos bastante entre que llegamos y el show empez\u00f3, me hubiera gustado que sea todo un poco m\u00e1s junto. A pesar de ello estuvo bien y lo puedo recomendar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Ago 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "steve", 
+      "text": "Muy rara la experiencia, pero vali\u00f3 la pena. Es un lugar extra\u00f1o y extra\u00f1o el p\u00fablico que lo concurre. La comida fue muy buena y la atenci\u00f3n super correcta. Vamos a ver como evoluciona...."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "20 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "nanmohi", 
+      "text": "Lugar para comer de paso, la pizza es algo salada pero rica y la atenci\u00f3n es buena. M\u00e1s no se puede pedir de un restaurant estilo fast-food."
+    }, 
+    {
+      "date": "3 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PPGonz", 
+      "text": "Las costillitas de cerdo estaban muy secas y el arroz de los calamares a la valenciana estaba pasado. Los platos son muy abundantes (sobr\u00f3 la mitad), l\u00e1stima que el mozo no nos avis\u00f3 antes de pedir que eran para compartir. \r\nTambi\u00e9n pedimos no-fumadores, nos ubicaron en el l\u00edmite y antes que llegue la comida nos quejamos con el mozo por el humo que llegaba y si bien hab\u00eda otras mesas no se ofreci\u00f3 a cambiarnos."
+    }, 
+    {
+      "date": "2 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "frac", 
+      "text": "Muy rico, la pizza es aceitosa pero la comida muy bien. Atenci\u00f3n buena. Recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariana80", 
+      "text": "Recomiendo las picadas, sobretodo la \"Doble Pompeii\" que viene con salchichitas alemanas, empanaditas de carnes, tostaditos de jamon y queso y varias cosas m\u00e1s todas muy pero muy ricas."
+    }, 
+    {
+      "date": "17 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tdetomas", 
+      "text": "La primera impresi\u00f3n es que vas a comer comida normal, nada del otro mundo. \r\nPero la verdad es que encontramos una cocina muy buena, con ingredientes excelentes y sobre todo, rapidez y muy buena atenci\u00f3n."
+    }
+  ]
+}

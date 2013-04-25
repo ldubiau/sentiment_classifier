@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "3 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Maurooo", 
+      "text": "Ped\u00ed a trav\u00e9s de una conocida p\u00e1gina de pedidos de delivery, y ten\u00edan los precios desactualizados. Llam\u00e9 por tel\u00e9fono, y en lugar de reconocer su error, me cobraron la diferencia. Las empanadas son mediocres y caras. No pido nunca m\u00e1s y no se lo recomiendo a nadie."
+    }, 
+    {
+      "date": "6 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Gwzty", 
+      "text": "buena pizza, del tipo de masa alta, las empanadas de carne cortada a cuchilla muy buenas. Tiene menus y sandwiches al mediodia.\r\nEl precio es muy bueno y la relacion costo producto hace que uno vuelva. \r\nAl local no se le puede pedir mucho, esta en el medio de un quilombo de transito y demas. Igual la atencion es esmerada. \r\nIdeal estudiantes."
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Pepelacio", 
+      "text": "Sol\u00edamos ir muy seguido con compa\u00f1eros de la facultad despu\u00e9s de clases, en general comiamos piza; pero alguna que otra vez he probado otros platos y la comida en general es muy buena, aunque no muy variada. S\u00f3lo un vidrio separa a Parada Puan de la Av. Rivadavia por lo que el ambiente es muy poco tranquilo.  Pero en general, al paso, es un buen lugar. La antenci\u00f3n es buena."
+    }, 
+    {
+      "date": "15 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Pally", 
+      "text": "Muy buena atencion y a un precio moderado"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Homera", 
+      "text": "No he tenido oportunidad de visitar el local, pero las empanadas son buen\u00edsimas, tipo caseras y el servicio es muy bueno. No recomiendo las pizzas."
+    }, 
+    {
+      "date": "2 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Ouyei", 
+      "text": "Excelente relaci\u00f3n precio-calidad. En general pedimos delivery. Las empanadas son muy variadas y altamente recomandables."
+    }
+  ]
+}

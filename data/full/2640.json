@@ -1,0 +1,24 @@
+{
+  "excelentes": [
+    {
+      "date": "27 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kaman", 
+      "text": "Muy agradable el rest\u00f3 y buen nivel culinario. Excelente la bodega de vinos."
+    }, 
+    {
+      "date": "26 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Elena", 
+      "text": "La comida espectacular. Visitamos por primera vez el lugar y repetiremos seguido ya que encontramos el sabor de la comida que estabamos buscando. Delicoso."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "13 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "procedencia", 
+      "text": "un hermoso lugar, con muy buena onda. genial la m\u00fasica. la comida es aceptable y la atenci\u00f3n muy amable. para volver."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "monibu", 
+      "text": "lugar muy agradable,sobre todo el patio,muy bien atendido por sus due\u00f1os.buena m\u00fasica."
+    }, 
+    {
+      "date": "26 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pipefede", 
+      "text": "Muy buena la atencion, la comida abundante, exquisita y muy bien presentada."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "12 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "DeInformacion", 
+      "text": "Lindo lugar. No nos mat\u00f3, pero la comida es muy rica y abundante. Quiz\u00e1s hay que darle una segunda oportunidad para que me enamore de este lugar."
+    }, 
+    {
+      "date": "5 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Eltenedor", 
+      "text": "Se nota en las piezas la calidad de los ingredientes, de primera! y fue la primera vez que me llene con sushi."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "nanovich", 
+      "text": "Sin ser un fana del sushi, este me pareci\u00f3 excelente. Piezas grandes, con productos de muy buena calidad y muy buenos sabores. Especial el roll de mango y salm\u00f3n. Con la 365 me salieron 30 piezas con vino cien diez pesos por persona. La carta de vinos es corta, pero tiene buenas opciones. En particular tomamos un S\u00e9ptima Sauvignon Blanc que la rompi\u00f3. El rest\u00f3 es chiquito y la atenci\u00f3n muy buena"
+    }, 
+    {
+      "date": "27 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rbelmana", 
+      "text": "Exelente la frescura del pescado, piezas grandes muy buena calidad, muy bien ambientado, Exelente la atencion, la verdad 10 puntos"
+    }, 
+    {
+      "date": "12 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Javier4281", 
+      "text": "Fuimos a comer con unos amigos por recomendacion, y la verdad que no me mintieron. El tama\u00f1o y la frescura del sushi es excelente. Fueron muy accesible para cambiar algunas piezas de los combinados que pedimos. Muy buena atencion. Muy recomendable para ir con tu pareja, familia o amigos."
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "loli_ortiz", 
+      "text": "el sushi riquisimo, piezas de exelente calidad, mucho pescado. y buen tama\u00f1o...altamente recomendable !!!!"
+    }, 
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "luckystar", 
+      "text": "Muy buen sushi! las piezas son grandes y de muy buena calidad! Espero que sigan as\u00ed. Muy recomendable!"
+    }
+  ]
+}

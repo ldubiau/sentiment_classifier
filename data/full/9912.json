@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "2 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "dpirez", 
+      "text": "Fuimos a comer tarde, tipo 23. Nos encontramos con un ambiente agradable pero tuvimos que esperar un rato para sentarnos a comer afuera. El men\u00fa era muy reducido. No mas de 4 platos de entrada. Lo mismo para los principales. La carta de vinos tambi\u00e9n era extremadamente reducida. Intentamos pedir vino blanco, pero NO TEN\u00cdAN vino Blanco un s\u00e1bado por la noche. La atenci\u00f3n fue muy lenta. Para traer el pedido de rabas, tardaron mas de 45 minutos y las rabas no estaban para nada buenas. El chivito era aceptable. No pedimos postre y nos obsequiaron un trago. Para comer de Regular a Malo."
+    }, 
+    {
+      "date": "9 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "dgof", 
+      "text": "Muy lindo lugar, similar a un living, quizas no sea el lugar mas comodo para cenar. El servicio por demas correcto. La comida no es buena, cero elaboraci\u00f3n, mala materia prima. volveria solo a tomar algo, no a comer."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Quiz", 
+      "text": "Buen lugar para ir a comer en San Isidro. La ambientaci\u00f3n es muy linda, hay muchos linvins, super c\u00f3modos y relajados. La comida esta buena y tiene buenos precios. Tambi\u00e9n es bar y tiene una barra muy pro. Lo recomiendo, es un lugar buena onda."
+    }, 
+    {
+      "date": "1 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marclaro", 
+      "text": "Me sorprendi\u00f3 gratamente. Hab\u00eda visto otras cr\u00edticas que lo mataban. Pero me pareci\u00f3 muy rica la comida, por el precio y por tratarse m\u00e1s de un bar que de un restaurant. El servicio excelente y el lugar muy agradable."
+    }, 
+    {
+      "date": "2 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Trati", 
+      "text": "Muy bueno el ambiente, es como cenar en el living, lo mejor los tragos y la musica ochentosa buenisima"
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lokoman", 
+      "text": "Caimos asi sin saber a donde entrabamos. y todo muy bien.Lo unico es que las porciones son normales, muy normales."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jolofo", 
+      "text": "El lugar es espectacular! Fuimos de noche y nos sorprendimos con la decoraci\u00f3n y la ambientaci\u00f3n de excelente gusto. La atenci\u00f3n fue esplendida, muy cortez todo el personal y muy atentos a las mesas y sus requerimientos. La higiene y los detalles muy cuidados tanto del personal como del lugar fisico. La barra es completisima y la carta muy variada y economica. Los platos eran elavorados y muy bien preparados. Recomiendo 100% este lugar acojedor, para relajarce, pasar un buen rato y disfrutar de la calidez del restaurant. Felicito a todos los funcionarios del lugar y desde ya que voy a volver!!"
+    }, 
+    {
+      "date": "9 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ElBocha", 
+      "text": "Es un lugar muy c\u00e1lido, la atenci\u00f3n es de primer nivel ya que los mismos due\u00f1os se encargan de que todo est\u00e9 bien cuidado. La decoraci\u00f3n es impecable y el ambiente muy entretenido, una atractiva opci\u00f3n en San Isidro. La relaci\u00f3n precio/calidad de la comida es excelente. No es caro y se come muy bien."
+    }, 
+    {
+      "date": "12 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "afdenes", 
+      "text": "Excelente atenci\u00f3n, un lugar \u00fanico en el corazon de zona norte. No dejen de visitar el centro cultural!"
+    }
+  ]
+}

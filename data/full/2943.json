@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "28 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "popeye", 
+      "text": "Un resto que va cayendo poco a poco.La ensalada de hojas verdes era exclusivamente de lechuga( y muy poca)los tomatitos 4,los camarones buena cantidad..y puntoEl lomo calentado en microondas.\r\nEl ambiente es lindo, pero el chef cada vez peor. Una lastima destruir un restaurant asi"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Buen_Gourmet", 
+      "text": "El servicio fue bueno, aunque poco personalizado. Los platos fueron generosos y gustosos. La carta con pocos platos pero interesantes. El local limpio y luminoso. Vale la pena conocerlo. Buena opcion para los vecinos de Tigre."
+    }, 
+    {
+      "date": "14 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jorgesw4", 
+      "text": "Una excelente opcion para el mediodia en la zona."
+    }, 
+    {
+      "date": "7 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "angele", 
+      "text": "Un lugarcito agradable, pero caro para la calidad de la comida."
+    }, 
+    {
+      "date": "1 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Friedrich", 
+      "text": "Muy buena comida, tienen una degustaci\u00f3n de 5 pasos que vale la pena probarla. El servicio es bueno y el lugar agradable. Pocos vinos pero a muy buen precio."
+    }, 
+    {
+      "date": "26 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "famanu", 
+      "text": "Lindo lugarcito para los de la zona. Es un local tradicional y bien puesto en una zona no tur\u00edstica del tigre. Buena comida a precio razonable con estacionamiento y vigilancia. Nada que se destaque sobremanera como para ir desde capital solo para comer ahi ni es el lugar para una tarde de fin de semana. Si viv\u00eds en la zona, es una excelente opci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cook", 
+      "text": "La verdad una sorpresa, cambiaron el chef y realmente sorprende, calidad como en los mejores lugares, en un ambiente calido y familiar. Loa felicito mejoraron"
+    }, 
+    {
+      "date": "25 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chapita_22", 
+      "text": "Muy bien, los platos son riquisimos, y el ambiente es divino, recomendable!!!!!!!"
+    }, 
+    {
+      "date": "27 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rosaana", 
+      "text": "Es notoria la calidad de los ingredientes. El servicio es muy \u00e1gil y distendido. Es ideal para ir con amigos."
+    }, 
+    {
+      "date": "27 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jorgesw4", 
+      "text": "Un hermoso lugar. La atencion fue amble y la comida sabrosa. Para volver."
+    }
+  ]
+}

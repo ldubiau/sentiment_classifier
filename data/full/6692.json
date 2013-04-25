@@ -1,0 +1,728 @@
+{
+  "malos": [
+    {
+      "date": "27 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "jurujujaja", 
+      "text": "Comimos sushi.\r\nNo nos gusto en demasia. Muy caro para lo que ofrecen, las piezas de sashimi median 3 cm por 3 cm, un chiste, y salian caritas. Las 10 piezas de phila salen $50 y estaban medias desarmadas, sin sesamo...  quizas porq era tarde pero no nos gusto, parece q lo hicieron sin ganas."
+    }, 
+    {
+      "date": "3 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Chaz309", 
+      "text": "Me parecio malo el ambiente, mucho olor a pescado. Tienen servilletas de papel y agua mineral en botellas de plastico. Iba a pedir sushi, pero no solo el menu es pobre y sin los clasicos rolls si no que, ademas es mas caro que Dashi o Sushiclub. No volvi mas, obviamente."
+    }, 
+    {
+      "date": "9 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sanquero", 
+      "text": "Sinceramente el lugar deja bastante que desear. Carisimo en relacion a la calidad de la comida y la atencion(65 piezas $245). \r\nLos rolls sin variedad, fuera de temperatura, muy peque\u00f1os, y con una 1 hr de espera para que nos sirvieran... \r\nLa carta de vinos muy pobre y cara... \r\nLa atencion malisima...\r\nNo vale la pena ir, ni con el descuento del CLN\r\nEn resumen, no lo recomiendo para nada, ni pienso volver a ir"
+    }, 
+    {
+      "date": "10 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "manurecords", 
+      "text": "Llegamos a las diez de la noche 5 personas, el que se presenta como due\u00f1o, nos dice que no puede unir una mesa de 4 con otra de 2, lo piensa y nos manda a la barra hasta que se desocupe otra mesa, en la barra nos informa que el sushi man le informa q no le alcanza el salmon rosado, y nos echa, va corriendo a la puerta y muy gentilmente la abre para nuestra salida. Que sea dia de descuento del Club La Naci\u00f3n no amerita tan vergonzosa atenci\u00f3n."
+    }, 
+    {
+      "date": "30 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "faycla", 
+      "text": "Quiz\u00e1s fue una mala noche, pero fuimos ignorados totalmente por las mozas. El lugar es inc\u00f3modo, estaba lleno y nos ubicaron en la barra. Nos tomaron el pedido (dos aguas, una entrada y un combinado de 35 piezas) y despu\u00e9s de 30 minutos y de ver c\u00f3mo quienes llegaron m\u00e1s tarde que nosotros recib\u00edan sus pedidos, nos quejamos y el impresentable responsable de la caja nos invit\u00f3 a retirarnos. Posiblemenente no les gustaba que estuviera vestido con traje... En fin, lamento no poder haber disfrutado la comida que otros usuarios destacan. Comento esto sin \u00e1nimo de acusar, pero para que lo sepan."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Valle", 
+      "text": "Es la tercera vez que voy a comer al sal\u00f3n, y tambi\u00e9n he pedido delivery a mi casa. El sushi es bueno, y tambi\u00e9n lo son los dem\u00e1s platos de la carta. Lo \u00fanico que hasta ahora me result\u00f3 flojo fueron los temakis, muy suelto el arroz y se desarman. \r\nEl ambiente es agradable, aunque las mesas est\u00e1n un poco juntas unas a otras. La atenci\u00f3n es amable. Es un sushi intermedio en cuanto a precio, y de buena calidad, seguramente volveremos."
+    }, 
+    {
+      "date": "30 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Leandrittoh", 
+      "text": "Un espacio intimo ideal para ir en pareja. Buen nivel de sushi. Soberbia crema de maracuy\u00e1."
+    }, 
+    {
+      "date": "20 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "santiw", 
+      "text": "Me gusta mucho el lugar. el sushi es muy bueno y la carta de comida japonesa tambien. Lo unico criticable es que cambia un poco segun el sushiman que cocine se dia"
+    }, 
+    {
+      "date": "21 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rasa", 
+      "text": "El lugar agradable, la comida buena pero a mi entender no se destaca."
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gabrielmosca", 
+      "text": "muy buena la comida y la atencion!! recomendable"
+    }, 
+    {
+      "date": "15 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LiBra", 
+      "text": "He ido varias  veces, todav\u00eda no los hab\u00eda votado. La comida es sencillamente muy buena, no se pierdan los postres especialmente el de maracuj\u00e1. Deber\u00edan ampliar la carta de vinos. El lugar es chico pero muy acogedor y es ideal para ir en pareja o grupo de no m\u00e1s de 4 personas. La atenci\u00f3n muy Buena!"
+    }, 
+    {
+      "date": "28 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "curry", 
+      "text": "Haiku no defrauda.  Un lugarcito c\u00e1lido, con buena atenci\u00f3n y comida deliciosa.  El ceviche fant\u00e1stico.  No como sushi, aunque los que si lo hacen dicen que es muy bueno, pero igual ecuentro opciones variadas.  Todo muy fresco y recomendable."
+    }, 
+    {
+      "date": "1 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "baffoblu", 
+      "text": "es sushi es bueno, no deslumbrante y la calidad est\u00e1 ok; los rolls son chicos pero est\u00e1n bien armados. todo podr\u00eda ser mejor por el precio que tienen.\r\nhabr\u00eda que suplantar la botellita de agua de pl\u00e1stico y las servilletas de papel (ambos imperdonables), tambi\u00e9n podr\u00edan mejorar las copas de vino.\r\ntanto el servicio como el lugar est\u00e1n muy bien."
+    }, 
+    {
+      "date": "15 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gallegol", 
+      "text": "Si bien la espera es larga la comida cumple, aunque nada del otro mundo, ideal para ir con cupones de descuento, sino resulta un poco caro."
+    }, 
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MeHeEs", 
+      "text": "Fuimos por recomendaciones de la guia y nos gusto. Conincido con los comentarios anteriores, las mesas deberian estar mas separadas. La atencion amable y los platos en porciones justas. Los postres ricos. Es recomendable pero se debe tener en cuenta que no es para nada economico. La cena para dos personas 200."
+    }, 
+    {
+      "date": "11 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Fer_Baredes", 
+      "text": "Me llam\u00f3 la atenci\u00f3n de que siempre est\u00e9 lleno y quisimos probar, sobretodo aprovechando el descuento de CLN...\r\nLa verdad que no entiendo la gente que dice que el sushi est\u00e1 bueno...rolls tipicos, un sabor mediocre, nada especial... ademas estaban fuera de temperatura!\r\nEn relaci\u00f3n precio-calidad es CARISIMO, gaseosas en LATA ($8), agua en BOTELLA DE PLASTICO ($8), $8 pesos de cubierto por un idividual que atravesaba la mesa, servilleta de PAPEL y palitos de madera...\r\n\r\nCon el 40% gastamos $150 entre 2...sinceramente no volver\u00e9, NI LO RECOMIENDO..."
+    }, 
+    {
+      "date": "15 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "diepiaggio", 
+      "text": "El sushi muy bueno y fresco, aunque la variedad es poca. La atenci\u00f3n es r\u00e1pida y precisa. A diferencia de otros ususarios, la ambientaci\u00f3n me parece muy buena, simple, pero con ayuda de la iluminaci\u00f3n logran un clima c\u00e1lido. Las mesas son pocas. Siempre com\u00ed en las mesas de dos personas, que tienen una separaci\u00f3n conveniente. Le faltar\u00eda ampliar la variedad de vinos. Los postres riqu\u00edsimos."
+    }, 
+    {
+      "date": "12 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "arik", 
+      "text": "Siempre muy buen sushi. A esta altura deber\u00edan agregar un poco mas de variedad asi podremos ir mas seguido sin aburrirnos."
+    }, 
+    {
+      "date": "10 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "loolita", 
+      "text": "El sushi es muy bueno y la atenci\u00f3n aceptable. La carta de vinos tiene muy pocas opciones. Comimos tranquilos mientras hab\u00eda pocas mesas ocupadas. Cuando se llena el local, el murmullo es ensordecedor. Con el precio que se paga por el cubierto, deber\u00edan considerar invertir en aislaci\u00f3n ac\u00fastica."
+    }, 
+    {
+      "date": "6 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "choby", 
+      "text": "Muy recomendable. Fuimos por primera vez ayer domingo, y el nuevo local (que no es el que aparece en las fotos) es muy tranquilo. Al ser domingo habia pocas personas y el ambiente era muy intimo, calculo que con mas gente quiz\u00e1s las mesas estan un poco juntas.\r\nEl sushi delicioso, muy bien preparado, piezas peque\u00f1as y prolijas. Productos totalmente frescos.\r\nLos postres muy bien, en algunos casos como el del brownie abundante, para compartir.\r\nLa atencion fue buena, habia una sola moza que fue muy amable, la demora entre el pedido y el plato es aceptable."
+    }, 
+    {
+      "date": "15 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "doscomacinco", 
+      "text": "Un sushi delicioso, piezas cl\u00e1sicas y peque\u00f1as, perfectamente armadas, nada de experimentaci\u00f3n o combinaciones de autor. El ambiente es c\u00e1lido, sencillo y decorado con muy buen gusto. El \u00fanico problema es que las mesas est\u00e1n demasiado cerca, lo que lo vuelve bastante ruidoso y poco apto para los que buscan intimidad (a menos que no te importe el ruido). La carta est\u00e1 muy bien, con platos de la cocina japonesa y alg\u00fan ceviche por ah\u00ed. Martes y mi\u00e9rcoles est\u00e1 llen\u00edsimo por la promoci\u00f3n de CLN. Recomendable 100 por 100."
+    }, 
+    {
+      "date": "7 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mikeD", 
+      "text": "No me considero un experto en sushi, pero he ido a unos cuantos lugares ya, y estoy casi seguro que unos de los secretos de esta comida reside (m\u00e1s all\u00e1 de la frescura de la mat prima) en la correcta elaboraci\u00f3n del arroz. Y el de Haiku es excelente: piezas peque\u00f1as, delicadas y sabrosas. La carta ofrece adem\u00e1s otras opciones de comida japonesa con una atenci\u00f3n muy correcta. Lo m\u00e1s flojo es la carta de vinos: pocas opciones, excesiva cant de malbec y cabernet... nada de pinot noir (??). Eso s\u00ed, si les toca sentarse en el banco contra-pared de madera, lleven un almohadon: ES DURISIMO!!"
+    }, 
+    {
+      "date": "24 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pititi", 
+      "text": "Un lugar altamente recomendable! Una comida exquisita, sabrosa y diferente. De entrada, pedimos unos rolls de berro que no podr\u00edan haber estado m\u00e1s ricos. Despu\u00e9s, un salteado con pollo y verduras y por el otro lado, unos camarones gigantes fritos que no pude parar de comer! El postre, un plato con mousse de chocolate blanco y negro. Todo riqu\u00edsimo. La atenci\u00f3n tambi\u00e9n se lleva su premio, ya que la moza que nos atiende siempre, hace unas muy buenas recomendaciones! Ideal para ir de a dos, pero si es dia del descuento... reservar con anticipaci\u00f3n!"
+    }, 
+    {
+      "date": "20 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "plin", 
+      "text": "Ya fuimos varias veces y pensamos volver. Una menci\u00f3n especial para el servicio que siempre se destaca. El sushi es rico y fresco. SUele haber rolls \"del d\u00eda\". Imperdible el roll THAI con cilantro... El nuevo local es m\u00e1s bonito que el anterior (que estaba en la misma cuadra)."
+    }, 
+    {
+      "date": "8 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ganzola", 
+      "text": "Guia Oleo lo hizo de nuevo! La verdad que el lugar est\u00e1 muy escondido as\u00ed que fuimos por el excelente puntaje que ten\u00eda en el sitio. Y as\u00ed result\u00f3, el sushi es excelente!!! Coincido con los comentarios de que es minimalista y que no tienen los sushis modernos de Sushiclub, pero realmente es unos de los mejores Philadelphia que com\u00ed. Hasta el cheeze cake de postre estuvo estupendo. Por ah\u00ed la carta de vinos merecer\u00eda la incorporaci\u00f3n de un par de opciones. Estoy seguro que voy a volver!"
+    }, 
+    {
+      "date": "29 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "uchinanchu", 
+      "text": "El lugar est\u00e9ticamente es bien minimalista como todo lo japon\u00e9s, aunque no le pegaron con la m\u00fasica ya que no era nada japonesa. La atenci\u00f3n de los chicos fue buena.\r\nPuede ser que las porciones sean un poco chicas pero justamente la comida japonesa no es para llenarse hasta el hartazgo. Muy rico, vamos a volver."
+    }, 
+    {
+      "date": "28 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Xavi2008", 
+      "text": "Muy buen lugar para comer sushi. Esta un poco alejado del circuito gastronomico, lo cual lo hace mucho mas tranquilo. La antencion es esmerada asi como tambien el ambiente del lugar que invita a la relajacion."
+    }, 
+    {
+      "date": "27 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Before_Sunset", 
+      "text": "El niguiri y los postres, excelentes. El precio, caro. El lugar, inc\u00f3modo. La atenci\u00f3n, regular, la fidelizaci\u00f3n del cliente, inexistente. Les da lo mismo si uno va una vez o cien, no hay ning\u00fan esfuerzo por atender bien. Tienen suerte de tener buenos sushi men y cocineros! Pero no creo que vuelva."
+    }, 
+    {
+      "date": "11 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "sakanarok", 
+      "text": "el sushi espectacular ! servicio desparejo dias muy buenos y otros no en especial los domingos(una camarera sola y el encargado ? nervioso y desordenado)los menu de dely e imanes para cuando ? no se pierdan los postres!"
+    }, 
+    {
+      "date": "21 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "chejus", 
+      "text": "El sushi nos gusta mucho. Es lo t\u00edpico japon\u00e9s pero nos gusta como est\u00e1n hechos, los rolls no son excesivamente grandes y est\u00e1n cuidados. Los pescados parecen frescos. \r\nLa deco es muy ponja b\u00e1sica, hasta un poco baj\u00f3n. \r\nLa atenci\u00f3n es inconsistente. D\u00edas muy bien y otros no tanto."
+    }, 
+    {
+      "date": "20 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Poldis", 
+      "text": "Es un restaurante de sushi de barrio con decoracion bastante basica. El sushi y la mousse de maracuja estaban muy bien. Por la ambientacion y ubicacion, esperaria precios mas bajos en el sushi. Poca variedad de vinos, pero a muy buen precio."
+    }, 
+    {
+      "date": "17 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "arik", 
+      "text": "Muy buen sushi y los otros platos tambi\u00e9n, no tardaron en traerlo. Recomendable para comer en el local y para delivery."
+    }, 
+    {
+      "date": "6 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "karitocab", 
+      "text": "Muy buen lugar!! super recomendable para aquellos q nunca todavia probaron el sushi!!!como fue mi caso es un excelente lugar para iniciar el paladar con esta estupenda comida como lo es el sushi!!, el ambiente es calido, super tranquilo lo cual invita a relajarse y disfrutar !!."
+    }, 
+    {
+      "date": "30 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Before_Sunset", 
+      "text": "El lugar es bien simple. La comida muy buena, y cabe destacar que los postres son excelentes, lo cual no es frecuente en los restaurantes nipones. Un poco elevado el precio, pero se disfruta."
+    }, 
+    {
+      "date": "22 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MLau", 
+      "text": "Conozco este lugar desde hace ya mas de cuatro a\u00f1os, y me sigo impresionando por el ambiente y la calidez del lugar. Es como ir a otro lugar, estar en otro sitio. Ideal para amigos intimos o romanticas cenas.\r\nMuy recomendable."
+    }, 
+    {
+      "date": "13 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "foodjunk", 
+      "text": "Todo muy bien, como para volver."
+    }, 
+    {
+      "date": "10 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "nyman", 
+      "text": "El lugar es chico, con bastantes mesas, recuerda a los restaurantes del West y East Village en NY. El sushi es de buena calidad, un poco chico pero mejor que el est\u00e1ndar del sushi en Buenos Aires. El problema de este lugar es: la mala atenci\u00f3n por parte del due\u00f1o -no se si era por hom\u00f3fobo o simplemente por torpe- y que pretendan cobrar servicio de mesa a pesar de no traer ni un pan ni nada a la mesa."
+    }, 
+    {
+      "date": "5 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "notri", 
+      "text": "Sushi muy rico, pero las piezas chicas. Muy recomendable."
+    }, 
+    {
+      "date": "10 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "esteban3", 
+      "text": "El sushi es muy bueno, tienen salm\u00f3n y una buena oferta de peces blancos (abadejo, lenguado, pez lim\u00f3n, etc). Despu\u00e9s de recorrer muchos lugarres de sushi de Buenos Aires, encontr\u00e9 por lejos la mejor relaci\u00f3n precio/calidad. Un dato: delivery, 15 piezas variadas en salm\u00f3n por $21."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Alexx", 
+      "text": "El sushi es excelente, muy bien preparado y muy bien servido.\r\n\r\nLa atenci\u00f3n es catastr\u00f3fica y hay que ir mentalizado para perdonar cosas como que no te saluden al llegar, que te dejen abandonado un mont\u00f3n de tiempo, que no tengan maneras corteses, etc.\r\n\r\nPero si uno hace una abstracci\u00f3n de ell"
+    }, 
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "TomBourdaine", 
+      "text": "Muy buena la comida, el sushi es increible y la comida como salteados y demas abundantes y deliciosos. En servicio estaban desbordados y la atencion no fue muy buena. Igualmente volveria! Pd. falta variedad de piezas en los combinados!"
+    }, 
+    {
+      "date": "30 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aishi", 
+      "text": "El s\u00e1bado fui con mi pareja. Los platos son muy buenos. Pero hay detalles que fallan. con 5 dias de antelacion pedi que escriban un tarjeta y no lo hicieron. El vino decia en la carta 2009 y trajeron 2010 porque no habia. El ba\u00f1o muy peque\u00f1o. Son detalles que influyen considerando el valor que se abona. La calidad de la comida muy buena. La srta que atendio muy amable a pesar de mis cuestionamietos."
+    }, 
+    {
+      "date": "16 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ostinciano", 
+      "text": "Maestro sushiman Quique Yafuso! Manos magicas del sushi! Rolls con mango, salmon y dem\u00e0s pesca del dia...Increibles! Vale lo que cuesta!"
+    }, 
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cokiiiii", 
+      "text": "Vamos muy seguido con mi pareja. Siempre quedamos muy conformes. Yo no como sushi y aunque la carta la cocina es bastante corta, siempre como algo rico. Muy buena calidad en los ingredientes. Es caro, pero riquisimo y siempre cae bien. Las contras: las mesas estan demasiado cerca una de la otra (a 50cm) y el ba\u00f1o de mujeres (tiene dos boxes pero uno sin puerta, lo cual es ridiculo. Es preferible que hagan uno grande y no dos diminutos)"
+    }, 
+    {
+      "date": "24 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Evitacapitana", 
+      "text": "La mudanza le sent\u00f3 bien a Haiku.  El lugar es m\u00e1s amplio y agradable y la temperatura del aire acondicionado  justa (no es necesario llevar abrigo, como ocurre en algunos sitios).  La comida es fresca y sabrosa y no demora en llegar a la mesa.  El ceviche delicioso (el pulpo muy tierno) y las gyozas de salm\u00f3n inmejorables.  Las opciones de sushi incluyen propuestas originales, adem\u00e1s de las cl\u00e1sicas.  Compartimos una cheese cake so\u00f1ada."
+    }, 
+    {
+      "date": "6 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "DeniseE", 
+      "text": "Muy buen sushi, me encant\u00f3! Y un servicio atento. Recomendable."
+    }, 
+    {
+      "date": "3 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gabriella", 
+      "text": "El sushi es delicioso, otros platos que se ve\u00edan pasar eran absolutamente tentadores. El local, con estilo minimalista, est\u00e1 bien ambientado y es impecable en cuanto a orden y limpieza, la \u00fanica objeci\u00f3n es la escasa distancia entre las mesas que invade la privacidad y dificulta el servicio. Sin duda volver\u00e9 a probar otras especialidades."
+    }, 
+    {
+      "date": "11 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cocochango", 
+      "text": "El sushi es excelente, claramente se puede apreciar la calidad del sushiman.\r\nLa atencion tambien, destacable."
+    }, 
+    {
+      "date": "14 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mariobros", 
+      "text": "Delicioso sushi, respetuoso de la tradici\u00f3n: bocados peque\u00f1os, generosos de salm\u00f3n fresco y el arroz muy sabroso y no desabrido como sucede a veces. El Ebi Furai (langostinos rebozados, $56) estuvo bien pero no vale el precio. La atenci\u00f3n correcta y el lugar agradable, informal y ruidoso."
+    }, 
+    {
+      "date": "8 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "unkle", 
+      "text": "Debo haber ido no menos de 10 veces, y siempre estoy por votarlos. La comida es sencillamente muy buena, sobretodo aquel que le gusta el sushi y todas su variantes. Los temaki son mi perdici\u00f3n. Las especialidades que hacen por temporadas son altamente recomendables, juegan con los sabores de una manera muy particular. No se pierdan los postres especialmente el de maracuj\u00e1. Deber\u00edan ampliar la variedad de vinos, y varietales (falta p.e. un pinot noir). El lugar es chico pero muy acogedor y es ideal para ir en pareja o grupo de no m\u00e1s de 4 personas. Te atienden b\u00e1rbaro. Siempre nos toca Laura."
+    }, 
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Psygody", 
+      "text": "El sushi es MUY bueno. Pero muy simple. Al igual que dijo \"fschlim\" no hay variedad pero lo que hay vale la pena. El salm\u00f3n es muy fresco y se nota que est\u00e1 tratado cuidadosamente, muy limpio y los cortes muy prolijos El precio se pasa de lo justo un poquito. Ped\u00ed delivery y vino en 30 minutos, bastante rapido habiendolo pedido desde colegiales. La presentaci\u00f3n muy simp\u00e1tica (muy bueno los envases de forma de pez que tiene la soja). El wasabi era del bueno como debe ser...\r\nLo recomiendo."
+    }, 
+    {
+      "date": "11 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "senoracomida", 
+      "text": "Despu\u00e9s de recorrer muchos lugarres de sushi de Buenos Aires, finalmente encontr\u00e9 por lejos la mejor relaci\u00f3n precio/calidad.El sushi es muy bueno, tienen salm\u00f3n y una buena oferta de peces blancos. Recomendable."
+    }, 
+    {
+      "date": "29 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fschlim", 
+      "text": "El sushi es muy bueno. no hay mucha variedad, pero lo que tienen se nota que esta bien preparado. el lugar esta escondidisimo y es muy peque\u00f1o aunque calido. el rpecio me parecio un poco excesivo. vuelvo igualmente."
+    }, 
+    {
+      "date": "26 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Polita", 
+      "text": "Excelente el sushi, la ambientacion, y el servicio maso o menos."
+    }, 
+    {
+      "date": "12 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "inesky", 
+      "text": "Fuimos un mi\u00e9rcoles, hab\u00eda gente pero no estaba lleno. El lugar es muy agradable, sencillo pero con onda. La atenci\u00f3n muy buena. La comida riquisima, como dice una propaganda de una marca conocida: comer\u00eda sushi 286 veces. Es decir volveremos pronto."
+    }, 
+    {
+      "date": "4 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marce511", 
+      "text": "Muy bueno el servicio, La ambientaci\u00f3n es ideal para una salida romantica, y el sushi es excelente. He ido varias veces y siempre la paso bien."
+    }, 
+    {
+      "date": "29 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mlanglois", 
+      "text": "Exelente salmon, exelente sushi, mejor atencion, la camarera Mariana es muy simpatica y su servicio fue 10 puntos. Le bajaria un poco mas las luces ya que hay velas en todas las mesas.\r\nLa relacion precio calidad esta muy bien."
+    }, 
+    {
+      "date": "23 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "malbecar", 
+      "text": "Excelente sushi, en un lugar muy tranquilo y agradable. Caro."
+    }, 
+    {
+      "date": "8 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Llegu\u00e9 a Haiku por recomendaci\u00f3n de un sibarita porte\u00f1o y qued\u00e9 fascinado con la calidad del sushi. De los mejores que prob\u00e9 ! Eso s\u00ed, no se esperen un lugar glamouroso porque dista bastante de eso.  Pero la atenci\u00f3n es buena y los precios razonables para un sushi de calidad. Si te gusta la comida japonesa deb\u00e9s conocerlo!"
+    }, 
+    {
+      "date": "8 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mga", 
+      "text": "Debo reconocer que cuando ingres\u00e9 al local me deprimi\u00f3 un poco ya que no me pareci\u00f3 nada glamoroso, pero en el momento que pusieron las tablas en la mesa todo cambi\u00f3 ya que el sushi era delicioso y super fresco, si bien las piezas no son enormes prefiero ese tama\u00f1o ya que en muchos lugares les ponen mucho arroz y se pierde el verdadero sabor del sushi.\r\nLa atenci\u00f3n fu\u00e9 cordial y r\u00e1pida  y si bien el lugar f\u00edsico en s\u00ed no dice nada vale la pena conocerlo para deleitarse con las piezas o los que vivan por la zona hacer delivery. Lo recomiendo"
+    }, 
+    {
+      "date": "24 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El sushi es excelente en frescura, sabor y variedades. Felicitaciones al sushiman y a la moza por una atenci\u00f3n impecable. A pesar de que la zona y el local en s\u00ed no dicen mucho, Haiku es un rinconcito para descubrir y disfrutar."
+    }, 
+    {
+      "date": "24 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "figment", 
+      "text": "El sushi es incre\u00ecble; y el pollo con salsa teryaki hay que probarlo!. El lugar es muy acogedor y la atenci\u00f2n es muy buena."
+    }, 
+    {
+      "date": "6 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gonzalote", 
+      "text": "El mejor -por lejos- sushi de la ciudad. Excelente."
+    }, 
+    {
+      "date": "23 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "soni", 
+      "text": "Muy buen sushi, excelente la comida caliente. Unos postres de locura, en un ambiente \u00edntimo y muy agradable."
+    }, 
+    {
+      "date": "14 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "andycook", 
+      "text": "Muy buen sushi, uno de los mejores de Buenos Aires. La calidad es consistente. El servicio es bueno y el lugar muy acogedor."
+    }, 
+    {
+      "date": "15 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cabeson", 
+      "text": "El delivery lleg\u00f3 r\u00e1pido y bien caliente."
+    }, 
+    {
+      "date": "28 Ene 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sheeba", 
+      "text": "La comida espectacular, en especial el sushi.\r\nLocal peque\u00f1o y encantador."
+    }, 
+    {
+      "date": "20 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ibanez_ac", 
+      "text": "Muy buen sushi, buena atenci\u00f3n en el local y muy buen delivery."
+    }, 
+    {
+      "date": "6 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "patricia15", 
+      "text": "Muy buen Sushi y a precios accesibles. De lo mejor en comida japonesa."
+    }, 
+    {
+      "date": "22 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "medina_m", 
+      "text": "Excelente comida, muy buen ambiente y un servicio muy cordial. Muy recomendable."
+    }, 
+    {
+      "date": "18 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martinso", 
+      "text": "Excelente comida japonesa a precios m\u00e1s que razonables."
+    }, 
+    {
+      "date": "6 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "kali", 
+      "text": "Me sorprendi\u00f3 que un lugar chiquito y fuera del circuito habitual de lugares para comer tenga el mejor sushi de Buenos Aires."
+    }
+  ]
+}

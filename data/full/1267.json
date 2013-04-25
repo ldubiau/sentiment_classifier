@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "16 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kpcito", 
+      "text": "Todo muy correcto y agradable.\r\nLa comida es muy rica pero como que le falta algo, son como cosas sueltas en el plato que no tienen mucho que ver entre s\u00ed.\r\nEl sal\u00f3n para no fumadores est\u00e1 lindo, pero no participa del ambiente general. Parece de otro restaurante."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "obersaiz", 
+      "text": "Original propuesta y ambientaci\u00f3n. Lamentablemente no tiene tarjeta de cr\u00e9dito ni de d\u00e9bito."
+    }, 
+    {
+      "date": "17 Mar 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LadyWoodbridge", 
+      "text": "Muy original! Men\u00fa ejecutivo excelente tanto en calidad como en precio."
+    }, 
+    {
+      "date": "26 Ene 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lori", 
+      "text": "Excelente!!!"
+    }
+  ]
+}

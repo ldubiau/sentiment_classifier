@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "2 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mdmarein", 
+      "text": "Fija para los viernes con pizza, un aliado para los d\u00edas que no hay ganas de cocinar."
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "robychango", 
+      "text": "Fonda de Abasto en la esquina de Tucum\u00e1n y Anchorena. Platos ricos y abundantes, atenci\u00f3n agradable. Pizzas y pastas muy ricas. Carnes est\u00e1n bien. Carta de vino, what? Opci\u00f3n econ\u00f3mica como para ir con frecuencia o llamar al delivery."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cechu020", 
+      "text": "Es un restaurante que se come excelente, la atenci\u00f3n es muy buena y los platos son muy ricos y abundantes, incluso se pueen compartir. Tiene bebidas grandes y a muy buen precio. No cobran servicio de mesa pero te llevan pan y manteca. Super recomendable para ir con amigos y compartir los platos. La pizza tambi\u00e9n es muy rica y casera y ademas tiene platos de la casa que son econ\u00f3micos y todos ricos y variados."
+    }
+  ]
+}

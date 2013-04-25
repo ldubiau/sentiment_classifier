@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "14 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sara2008", 
+      "text": "Un lindo lugar en el Paseo Victorica para comer algo en Tigre. A pesar de ser un local chico, se destaca por la buena atenci\u00f3n y la comida que presentan. La pizza de queso Brie con tomates cherry es excelente y los precios son muy buenos. Seguramente volver\u00e9 y lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CharlyGin", 
+      "text": "El lugar es peque\u00f1o pero acogedor. La atenci\u00f3n muy bueno. Los platos se centran en pizzas, s\u00e1ndwiches, ensaladas y unas opciones de pastas. Buenos licuados y postres. Todo muy rico, muy bien armado y presentado los platos, pero el precio no es tan econ\u00f3mico. Fuimos 4 personas, plato, limonada y 2 postres para compartir nos salio cerca de 80$ per capita. Linda vista. Muy recomendable para brunchear en Tigre"
+    }, 
+    {
+      "date": "30 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Arwenkina", 
+      "text": "Exelente. Muy buena comida y muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "9 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Diyo", 
+      "text": "es un lugar muy calido, hermosa vista.. la comida es excelente, desde las pizzas caseras hasta las pastas de excelencia.. 100 % recomendable.. la atencion de diez !"
+    }
+  ]
+}

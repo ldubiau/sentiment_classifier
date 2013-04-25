@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "26 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lubesboobs", 
+      "text": "La comida fue mas o menos, pero que no me gusto es que el muchacho no puso hablar castellano o explicar los platos.  entonces, mi comida no fui que quieria y necesitaba a pagar mas que el dijo."
+    }, 
+    {
+      "date": "2 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Black2010", 
+      "text": "La verdad que muy buena pcion para comer comida china, las porciones son abundantes y a un precio razonable, lo que destaco es EL HIGIENE , lo cual  aveces es dificil encontrar en locales de este tipo de comida, en verdad todo muy bueno, lo unico un poco descuidada la moza, voy a volver."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lykmsm", 
+      "text": "Platos abundantes y deliciosos, ambientacion y servicio esmerados.  A los pocos dias volvimos a deleitarnos de sus platos con amigos."
+    }, 
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LYKMSM2", 
+      "text": "Las porciones son abundantes -ideales para compartir-, los precios modicos y excelente la calidad culinaria como tambien la frescura de los ingredientes utilizados.  La atencion es esmerada como asi lo es la ambientacion.  De hecho volvimos a los 5 dias para cenar con amigos."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "10 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "chanita", 
+      "text": "opino lo mismo al que dice \"es para sacarse el hambre\",nada de otro mundo, una tipica pizzeria de barrio."
+    }, 
+    {
+      "date": "21 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lanegri_324", 
+      "text": "pedimnos en delivery exelente comida a muy buen precio comimos los dos con postre por 30 pesos"
+    }, 
+    {
+      "date": "3 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "Vivo en la misma cuadra, as\u00ed q lo prob\u00e9 varias veces. Es un lugar familiar, los platos son tradicionales, la pizza, las pastas caseras son riqu\u00edsimas.  El resto de los platos est\u00e1n bien, pero no son nada del otro mundo, es barato, as\u00ed la relaci\u00f3n precio-plato est\u00e1 bien.  \r\nAtienden muy bien, el ambiente es tranquilo-aburrido y siempre est\u00e1 la tele encendida con canales deportivos."
+    }, 
+    {
+      "date": "22 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Foier", 
+      "text": "Es para sacarse el hambre, ya sea en el local como por delivery."
+    }, 
+    {
+      "date": "7 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Hipocampo", 
+      "text": "Es un lugar de paso, la comida es rica, los ba\u00f1os sin luz, horrible."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mumito", 
+      "text": "son los mejores!!!!!!!!!!!!!! una tiene antojo de pollo con arroz con azafran y me lo hicieron :D como me gusta!!!!!! con arvejas y zanahoria y esta tan ricoo!!\r\nles iba a postear en face pero no lo encuentro. Son lo mejor!! super recomenables!!!!"
+    }, 
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mumito", 
+      "text": "yo no fui al local, siempre pedi delivery y la verdad super recomendable todo! probe las empanadas, las de humita y carne fritas 10 puntos!!\r\nidem la lasagna con una crema de pollo y champignones, y los \u00f1okis con salsa bolognesa con mucha carne!!!! ademas siempre me cumplieron en tiempo con el delivery y la comida es abundante y se nota que casera"
+    }
+  ]
+}

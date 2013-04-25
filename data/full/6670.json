@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Martiniaddict", 
+      "text": "Excelente opcion para quien le gusta escuchar buen rock mientras degusta unas ricas pizzas acompa\u00f1adas por una happy hour de tragos bien preparados!"
+    }, 
+    {
+      "date": "9 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Nahueee1", 
+      "text": "Excelente lugar, viernes y s\u00e1bado pasan la mejor m\u00fasica, ninguna grasada, para o\u00eddos exigentes y conocedores. El ambiente es espectacular. Excelente opci\u00f3n para tomar unos drinks y despues arrancar a romper la noche. Volver\u00eda todos los viernes."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luciorucci", 
+      "text": "muy buen ambiente.  c\u00e1lido y excelente para desconectarse del ambiente  laboral.  dan ganas de quedarte a vivir ah\u00ed dentro."
+    }, 
+    {
+      "date": "26 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "np2408", 
+      "text": "fui al mediodia, muy lindo el lugar y buena la comida. buen precio"
+    }
+  ]
+}

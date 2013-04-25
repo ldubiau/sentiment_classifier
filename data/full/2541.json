@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "8 Jul 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "juliape", 
+      "text": "Como dice un profesor muy querido: no pod\u00e9s tener valet parking y un men\u00fa ejecutivo de 20 pesos.\r\n\r\nSi como una milanesa con fritas a caballo no tiene nada que ver un mozo que cuelgue los abrigos y sirva agua a cada centimetro que tomo. Faltar\u00eda que me corte la milanesa"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lauracecilia", 
+      "text": "La comida es deliciosa, el servicio fue bastante r\u00e1pido y el ambiente es muy tranquilo (para quien busca huir del ruido callejero). Los precios de los platos son razonables, quedamos muy conformes."
+    }, 
+    {
+      "date": "29 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "daniel59", 
+      "text": "Buen lugar, tranquilo. Hay un  menu fijo completo con varias opciones por plato, muy bueno y a buen precio (tipo menu ejecutivo del mediodia de muchos lugares que a la noche no lo ofrecen, aca s\u00ed)"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "efelante", 
+      "text": "Comimos dos personas, una pid\u00edo salm\u00f3n al grille y la otra risotto. Tomamos vino. Los platos son grandes y muy buena la atenci\u00f3n."
+    }, 
+    {
+      "date": "4 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rrorita86", 
+      "text": "Muy recomendable - excelente lugar para ir a almorzar"
+    }, 
+    {
+      "date": "4 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Popea", 
+      "text": "Un muy lindo rinconcito en plena Av. Santa Fe con comida bien preparada."
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Lutgarda", 
+      "text": "Mi plato incluia la bebida. La tarta la sirven con rucula fresca por arriba ... deliciosa! y el pudding superliviano y fresco, tambi\u00e9n muy rico.\r\nEl lugar tiene excelente cocina y atenci\u00f3n y los precios son superrazonables.\r\nEs la segunda vez que voy el sabado al mediod\u00eda y en ambas ocasiones comi muy bien."
+    }
+  ]
+}

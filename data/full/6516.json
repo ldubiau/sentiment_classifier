@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar muy c\u00f3modo, familiar con una excelente cocina y atenci\u00f3n amable y profesional. La carta es muy amplia con platos abundantes y muy bien elaborados. Era una mesa numerosa y todos destacamos la calidad de la comida"
+    }, 
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "arry", 
+      "text": "Ya fui varias veces, siempre me resulto la calidad muy buena e inalterable.\r\nLugar preferible visitar de dia.\r\nLa atencion es muy c\u00e1lida. Esta vez la cazuela resulto poco variada, ya que predominaban los calamares,pulpo ausente.\r\nDe todas maneras volveria una y otra vez porque en general me agrada."
+    }, 
+    {
+      "date": "21 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "miyhu", 
+      "text": "Comida buena. Pero a los postres, pedimos copa baileys que tiene helado  crema y mucho licor baileys,  Mi marido se dio cuenta de que no ten\u00eca ese licor, le pregun al mozo y dijo que  ten\u00eca otro parecido \u00bfporque la llaman copa baileys? Y que quiere, dijo  de mala gana, el baileys es caro. Hizimos la queja al encarg pero no le dio ning  importancia, dijo que el postre era as\u00ec, si le gustaba bien y si no que lo dejara, pero lo iban a cobrar igual. Mal\u00ecsima atenci\u00f2n. si ofrec\u00e8s algo ten\u00e8s que cumplir, el postre no era barato bien pod\u00ecan  poner lo que promet. La atenci\u00f2n as\u00ec saca las  ganas de ir."
+    }, 
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Restaurante en el barrio de Pi\u00f1eiro en Avellaneda, donde funcionaba hace varios a\u00f1os una cervecer\u00eda. El ambiente es c\u00f3modo, la atenci\u00f3n amable y profesional y la carta ofrece variedades de carnes, pescados, aves y pastas, todo rico y abundantemente servido. Los precios son accesibles. Es un lugar como para recomendar,sin dudas."
+    }, 
+    {
+      "date": "11 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "trasthornhado", 
+      "text": "buenas pastas, atencion optima, me resulto caro por lo que comimos pero es para volver,"
+    }, 
+    {
+      "date": "7 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Muy buena calidad y atenci\u00f3n. Carta variada. Estos lugares escondidos me sorprenden gratamente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "EVANGEL", 
+      "text": "Buen ambiente, una excelente atenci\u00f3n del mozo. La comida, riquisima,! Una parrillada de mar b\u00e1rbara, copa de camarones abundante, y los postres r\u00edquisimos, sobre todo el panqueque de manzana!!\r\nUn detalle, fuimos con chicos, nos dijeron que habia pelotero, pero solo era un rincon con algunos juguetes...de todas maneras los chicos se entretuvieron, y la chica que estaba al cuidado de ellos muy simpatica y atenta!"
+    }, 
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Romina1985", 
+      "text": "Excelente calidad, excelentes mozos!"
+    }, 
+    {
+      "date": "11 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "crfuchs", 
+      "text": "Muy linda ambientaci\u00f3n, execelente el almuerzo y una esmerada atenci\u00f3n del mozo. Le dijimos que un comensal cumpl\u00eda a\u00f1os y al final del almuerzo se aparece el  mozo con las copas de sidra y una minitorta para soplar la velita todo esto sin cargo."
+    }, 
+    {
+      "date": "1 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juli490", 
+      "text": "La comida es exquisita!!! Pollo con una salsita tipo crema con choclo, cebollas y panceta, rodeados de batatas. Sos de buen comer y pruebo de todo. Me pareci\u00f3 excelente!!! Volver\u00eda sin dudarlo. Ambiente relajado para charlar en pareja... tambien van muchas familias."
+    }
+  ]
+}

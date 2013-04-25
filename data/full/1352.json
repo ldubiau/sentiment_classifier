@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "steve", 
+      "text": "Se come bien, pero hay poca variedad de platos. Mas bien en sandwich y ensaladas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elmullo", 
+      "text": "todo muy rico"
+    }, 
+    {
+      "date": "12 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rodicepi", 
+      "text": "Es un lugar a descubrir, esta un poco escondido y el hecho que este adentro de un local de ropa(Puma) me permitio conocerlo. Lastima uqe cierra a las 20 pero la verdad lo recomiendo"
+    }
+  ]
+}

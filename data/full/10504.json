@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "20 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "AjHorus", 
+      "text": "La comida no esta mal elaborada pero es sosa, casi ins\u00edpida. sabores muy diluidos; los platos ten\u00edan exceso de arroz y muy pocos mariscos, y los mariscos eran casi todos mejillones, dos camarones y tres tent\u00e1culos de calamar. varios pedimos el mismo plato porque parec\u00eda apetitoso, y a todos nos sirvieron igual. el arroz tambi\u00e9n estaba soso, lo que tratamos de solucionar agreg\u00e1ndole la pasta de zanahorias que nos hab\u00edan dado de entrada, pero solo lo hizo tragable. el panqueque solo era comestible en los sectores que tenia las rodajas de manzana. muy caro para esa calidad. no volveremos"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "aquaman", 
+      "text": "Es una diferente e interesante conecci\u00f3n con la comida org\u00e1nica, sin adimentos, ni materia grasa , ni harinas , en un ph urbano, con un hermoso jard\u00edn de fondo desde \"nuestra habitaci\u00f3n\" para cinco comensales. De entrada pedimos una picada vegetariana, luego arroz con seit\u00e1n y de postre,flan de avena con mermelada frutillas, me qued\u00e9 con las ganas de encontrar ar\u00e1ndanos o frutillas al natural como acompa\u00f1amiento.La infusi\u00f3n de jazm\u00edn,riqu\u00edsima Lo \u00fanico no org\u00e1nico fueron los vinos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carolafm", 
+      "text": "La casa es preciosa, un ph muy bien puesto con un jardin exterior muy lindo para la primavera/verano. Ese d\u00eda hab\u00eda promoci\u00f3n de platos armados. Lo que m\u00e1s nos gust\u00f3 fue la atenci\u00f3n personalizada del chef Pablo que nos iba explicando cada uno de los platos. No somos especialistas en comida org\u00e1nica pero lo que probamos nos encant\u00f3. Entrada de pizza de arroz con tofu salteado al oliva con tomate. Riqu\u00edsima. Hab\u00eda panera con un pat\u00e9 de lentejas muy rico tambi\u00e9n. Para plato principal yo eleg\u00ed rissotto oriental y mi parejo pollo a la mostaza trigo bourgol.Riqu\u00edsimo. El postre tambi\u00e9n!"
+    }, 
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ironfish", 
+      "text": "Es una casa PH con un jard\u00edn hermoso donde se puede comer en otros ambientes, excelentemente decorado, la atenci\u00f3n esmerada...Pablo un excelente cocinero con su filosof\u00eda natural, macrobi\u00f3tica sin carnes rojas o l\u00e1cteos, todo org\u00e1nico, cocina a la vista hecha en el momento...todo una explosi\u00f3n para los sentidos! Para salir de lo habitual y comer pollo de campo, mariscos frescos, verduras con su sabor natural y muy bien condimentada. Un rubro aparte es la pizza de arroz yamani, y muzzarella de tof\u00fa, imposible describirla, hay que descubrirlo y alentar a estos noveles cocineros..."
+    }
+  ]
+}

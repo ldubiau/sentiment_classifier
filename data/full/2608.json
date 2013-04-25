@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "16 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "dallas", 
+      "text": "Por favor no vayan, la comida es mala y el ambiente tambi\u00e9n.\r\nLa carta de vinos es muy limitada y cara por dem\u00e1s. La atenci\u00f3n de los camareros es buena."
+    }, 
+    {
+      "date": "15 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Elcritico", 
+      "text": "La comida deja much\u00edsimo que desear. Carne seca, poca variedad de ensaladas. La atenci\u00f3n es buena y la ambientaci\u00f3n tambi\u00e9n."
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "bsascarla", 
+      "text": "Lo m\u00e1s recomendable: las pizzas y los helados y las mesas frente al r\u00edo.\r\nUna sugerencia: las tartas de verduras y las empanadas deber\u00edan servirse calientes."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "gustavoxp7", 
+      "text": "Un desastre. Los mozos no saben las cosas que ellos promocionan. \r\nAtienden r\u00e1pido y se olvidan la mitad de las cosas. \r\nLa comida, en algunos casos, es recalentada."
+    }, 
+    {
+      "date": "12 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "designercarol", 
+      "text": "Lo mejor es la parrilla. Los platos fr\u00edos est\u00e1n muy buenos, los postres y los platos calientes son regulares.\r\nMe sorprendi\u00f3 que los platos estuviesen todos rotos.\r\nLa \u00faltima vez que fuimos nos ofrecieron una mesa para no fumadores con vista al r\u00edo, a los diez minutos a dos mesas de donde est\u00e1bamos tambi\u00e9n en el sector no-fumadores se sentaron tres personas que fumaron durante toda la cena. A pesar de que hablamos con el mozo y el encargado nada hicieron. \r\n\u00bfPara que tienen area no fumador?"
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "juan318", 
+      "text": "Es un tenedor libre de alto precio. \r\nLos platos fr\u00edos y comidas elaboradas dejan que desear.\r\nSe destaca la parrilla, las pizzas y la atenci\u00f3n de camareros."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maruchi", 
+      "text": "Buen lugar."
+    }
+  ]
+}

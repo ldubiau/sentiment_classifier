@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "17 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "analov", 
+      "text": "aceptable para cortar en la semana al mediodia."
+    }, 
+    {
+      "date": "9 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dientes", 
+      "text": "No existe el sector de no fumadores y el acceso para discapacitados. Tampoco hay ba\u00f1os para discapacitados."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chorch", 
+      "text": "Buena atenci\u00f3n  y excelente ambiente con una muy amplia carta."
+    }
+  ]
+}

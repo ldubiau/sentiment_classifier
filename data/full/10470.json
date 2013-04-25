@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Federic0", 
+      "text": "La cazuela de cerdo, ten\u00eda realmente muy poca carne (era m\u00e1s bien una cazuela de papa, con apenas carne) y encima \u00a1\u00a1Estaba seca por haber sido recalentada al microondas!!! La verdad que puedo comer 40 pesos por comer un plato sin expectativas, pero lo de el microondas es realmente deplorable. \r\nEncima, como estaba fresco, hab\u00edan entrado mesas y sillas, y el espacio que ten\u00eda para comer era nulo. No vuelvo m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "ElvascoLuis", 
+      "text": "Fui con un cup\u00f3n, as\u00ed que no puedo decir cu\u00e1l fue el gasto real. El ambiente es muy peque\u00f1o y estaba muy caluroso. Por suerte, pude optar por una mesa en la vereda. Me recibieron con una bruschetta muy generosa. La cazuela tambi\u00e9n era muy abundante y sabrosa. Quiz\u00e1s un poco demasiado grasosa... La copa de vino no estaba a la temperatura adecuada. Corrigiendo esos peque\u00f1os detalles, es un lugar recomendable. La atenci\u00f3n, muy cordial."
+    }, 
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "null", 
+      "text": "el lugar es chico pero agradable. recomiendo pedir las cazuelas o las picadas. los sandwiches son bastante feos. el precio es acorde."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "maqui7", 
+      "text": "Voy seguido y sigo volviendo. Las picadas son muy abundantes, ideal para ir con amigos. Las cazuelas y los escabeches son muy recomendables como tente en pie si quien esperamos est\u00e1 con demora. El sector externo est\u00e1 calefaccionado, lo que permite comer en invierno tanto afuera como adentro. El ambiente arrabalero del lugar lo convierte en \u00fanico en esa zona tan caracter\u00edstica y pintoresca de la ciudad."
+    }, 
+    {
+      "date": "2 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cecines", 
+      "text": "Fui hasta ahora dos veces y pienso volver. La primera vez compramos la promoci\u00f3n de cerveza + \"La Picadita\". La segunda, \"El Tabl\u00f3n\" y cervezas, sin promoci\u00f3n. Todo excelente y gastamos nada. Quiero volver ha por el guiso de ternera con polenta. Me encanta que no se llame \"trocitos de carne tierna sobre sobre tibio colch\u00f3n de harina de ma\u00edz y coraz\u00f3n de queso\" o alguna pavada por el estilo."
+    }
+  ]
+}

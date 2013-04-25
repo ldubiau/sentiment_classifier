@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "27 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "XABIERKUKKA", 
+      "text": "Parece que han cambiado de propietarios. Servicio amable, pasteleria, panes propios y poco m\u00e1s. Barato."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "roan", 
+      "text": "Casona con aires hogare\u00f1os. El precio es muy accesible considerando la calidad y lo abundante de las porciones. Ideal para una comida tranquila y con sabores caseros."
+    }
+  ]
+}

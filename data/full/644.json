@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "28 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "florenciaprea", 
+      "text": "Me llev\u00e9 un gran decepci\u00f3n porque los precios aumentaron descomunalmente, desde la \u00faltima vez que lo visit\u00e9. La calidad de la comida, mejor ni hablar. La carne fue la m\u00e1s dura que com\u00ed en mi vida."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "sushi", 
+      "text": "Hac\u00eda a\u00f1os que no iba ... y sosten\u00eda el valorado recuerdo.\r\nVolv\u00ed. Much\u00edsimo m\u00e1s caro!!!! ($50 una carnecita dominical con ensalada me parece caro) \r\nPero sigue siendo un lugar que tiene un encanto \u00fanico en Buenos Aires. Y con eso puedo perdonar el precio aunque no vaya tan frecuentemente como antes. Ir a comer a los jardines de la c\u00e1rcova es como un cuento y yo, de vez en cuando, seguir\u00e9 visitando el cuento."
+    }, 
+    {
+      "date": "10 Nov 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "resakka", 
+      "text": "Me parece que se est\u00e1n aprovechando porque van muchos turistas extranjeros. Los precios son exageradamente altos. Hace unos a\u00f1os los precios eran m\u00f3dicos. Ahora parece que est\u00e1s comiendo en un hotel cinco estrellas. Sal\u00ed muy enojado y no pienso volver. \r\nComo ejemplo: una porci\u00f3n de papas fritas a la provenzal $8."
+    }, 
+    {
+      "date": "11 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "dimarga", 
+      "text": "Excelente lugar. Algunos pedazos de carne un poco duros."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "feam", 
+      "text": "Muy buena parrillada y las empanadas excelentes."
+    }, 
+    {
+      "date": "25 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elyrivad", 
+      "text": "Me pareci\u00f3 un lugar con muy buena onda y es muy indicado para pasar un d\u00eda al aire libre, comiendo un rico asado."
+    }
+  ]
+}

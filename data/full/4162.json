@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "15 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "pablou", 
+      "text": "muy mala la comida, fui con una chica a comer al medio dia y el precio es bastante elevado para lo que te dan de comer, mi plato estaba frio y el pollo estaba lleno de grasa."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "carcu", 
+      "text": "malisima atencion!!!! el lugar esta muy bien ambientado , pero te saca las ganas de quedarte la pesima atencion del lugar , no lo recomiendo!!!"
+    }, 
+    {
+      "date": "4 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Gz", 
+      "text": "Excelente ambiente con muy agradable vista. La calidad de los tragos es muuy buena, algo dif\u00edcil de conseguir hoy en d\u00eda... Muy recomendable"
+    }, 
+    {
+      "date": "27 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "silvia", 
+      "text": "El lugar esta bueno y tiene una vista muy linda...Puerto Madero es muy lindo en general.Los licuados estaban buenos pero tampoco una maravilla,el ambiente es muy moderno,pero el olor a comida que  hay te mata,salimos con un perfume a frito insoportable.Para ir a tomar unos tragos en pareja esta pasable."
+    }, 
+    {
+      "date": "22 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Isina", 
+      "text": "Buena opci\u00f3n para ir a picar y tomar buenos tragos en un ambiente copado."
+    }, 
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "fer28", 
+      "text": "El lugar esta en muy buena locacion y los cocteles estan a la altura del precio. El problema esta en el servicio, el cual fue pesimo."
+    }, 
+    {
+      "date": "18 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Un agradable lugar para tomar unos tragos y, tal vez, picar algo de comida r\u00e1pida (principalmente mexicana). No lo eligir\u00eda para ir a cenar. Atenci\u00f3n cordial y ambiente espacioso y moderno."
+    }, 
+    {
+      "date": "14 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Es un bar con un ambiente moderno con luces bajas y una onda quizas un poco yankee. Recomendable para ir en pareja ya que tiene unos sillones muy comodos. Eso si, fui un dia de semana y habia como mucho 2-3 mesas ocupadas y cerraron tipo 2:00-2:30."
+    }, 
+    {
+      "date": "9 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Ivo0108", 
+      "text": "La comida es buena, y la atencion tambi\u00e9n. Tomamos luego unos tragos al aire libre, algo realmente muy recomendable para todo aquel que vaya. Recomendable."
+    }, 
+    {
+      "date": "3 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adraugello", 
+      "text": "El bar puede ser una variante nueva para la noche calidas, la verda la comida no es nada del \"otro mundo\". El servicio no fue tan bueno, la moza no era argentina y no entendia bien lo que se estaba pidiendo. Tal vez es solo un bar para hacer happy hour."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nicolandes", 
+      "text": "Una vista que enamora!!! Ideal para quedar bien con tu pareja y tomar unos tragos....\n\nPedite una fondeau!!!!"
+    }
+  ]
+}

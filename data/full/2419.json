@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "5 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Cuba", 
+      "text": "El lugar es agradable para ir en pareja. Es c\u00e1lido. \r\nUn detalle: faltante de ceniceros en el piso de arriba el cual es sector fumador. El servicio es bueno, la comida es mala, al menos lo que comimos nosotros. \r\nEscasa, fr\u00eda, la bondiola por ejemplo parec\u00eda hervida m\u00e1s que asada. \r\nLas cr\u00edticas se acent\u00faan m\u00e1s cuando los precios son altos como en este caso. \r\nEstoy cansado de pagar precios desorbitantes para lo que uno recibe en el plato. \r\nPorciones m\u00ednimas y mal cocidas. \r\nSi quieren arte en la cocina que estos cocineros gourmets pinten cuadros de naturaleza muerta pero no que sirvan platos muertos para comer. El postre si es muy bueno, pero a un costo alt\u00edsimo, una bocha de helado con una peque\u00f1a porci\u00f3n de marquisse de chocolate y cuatro frutos rojos en conserva no pueden salir nunca 17 pesos. \r\nLos vinos son excesivamente caros, uno sabe lo que salen en una vinoteca y siente realmente que lo est\u00e1n robando. \r\nMala experiencia la m\u00eda, tal vez eleg\u00ed mal los platos. No volver\u00e9."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aquaman", 
+      "text": "Agradable ambientaci\u00f3n y tenue iluminaci\u00f3n hacen un lugar c\u00e1lido e interesante para una cita en pareja. La comida esa sabrosa y los precios a la par de Las ca\u00f1itas."
+    }, 
+    {
+      "date": "22 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "HECVIO", 
+      "text": "Excelente ambiente. La comida es muy buena y excelente el lugar y la m\u00fasica."
+    }, 
+    {
+      "date": "26 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "osky", 
+      "text": "Excelente servicio y ambiente cordial con \u00f3ptima degustacion de vinos de fincas rionegrinas. \r\nFuimos cinco comensales exigentes, todos satisfechos."
+    }, 
+    {
+      "date": "2 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pablofazio", 
+      "text": "Divino lugar, atendido por su due\u00f1o. Entradas y principales bien elegidos y novedosos. Una buena elecci\u00f3n para cualquier ocasi\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Jurguen_79", 
+      "text": "Realmente es el lugar que incorpor\u00e9 para cuando me quiero dar un gusto. Muy c\u00e1lido y con muy buena atenci\u00f3n, sin dejar de pasar por alto la comida y el vino. En los ultimos 2 meses los visite unas 5 veces y no deja de sorprenderme. Es lindo encontrar lugares as\u00ed."
+    }, 
+    {
+      "date": "29 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pela13", 
+      "text": "Espectacular el men\u00fa patag\u00f3nico que prepararon justo ese d\u00eda. \r\nUna combinaci\u00f3n de cordero, trucha y quesos regionales. \r\nAcompa\u00f1ando estos platos una degustaci\u00f3n de vinos de varias cepas. Un postre muy delicado y con copa de champagne. Excelente.\r\nEl ambiente es muy cool, con buenos detalles de elegancia, combinados con una agradable m\u00fasica y un buen servicio."
+    }, 
+    {
+      "date": "1 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "igolz", 
+      "text": "El lugar tiene honda, buena m\u00fasica. \r\nHay una buena variedades de vinos, la comida es especial y los panzotti a la crema ciboulette son riqu\u00edsimos."
+    }, 
+    {
+      "date": "9 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Veri", 
+      "text": "Muy buena comida, excelente atenci\u00f3n, ambiente b\u00e1rbaro."
+    }, 
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "odisea", 
+      "text": "\u00a1Impecable! Buen\u00edsimo el ambiente y la atenci\u00f3n. La carne riqu\u00edsima y tierna. \r\nMuy buenos postres."
+    }
+  ]
+}

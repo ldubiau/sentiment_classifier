@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "16 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "gabrielmosca", 
+      "text": "comida muy mala y carisima!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "pau75", 
+      "text": "El sector privado con servicio de mesa est\u00e1 muy bien, uno puede abstraerse un poco de la sensaci\u00f1on \u00a8shopping\u00a8. La comida no es gran cosa, aunque los platos calientes son realmente abundantes. La atenci\u00f3n, acorde a un servicio de shopping en horario de oficina."
+    }, 
+    {
+      "date": "24 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pau32", 
+      "text": "buena opcion del food mall del shopping, correcto servicio, comida acorde y con variedad, no se quedan solo en el sushi.\r\nel salon es peque\u00f1o pero bien ambientado y atendido."
+    }, 
+    {
+      "date": "20 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ariel_bern", 
+      "text": "No es gran cosa, el ambiente lo menos, dentro de un shopping, tiene un reservado pero es solo a la carta y no para los combos, sin esmero en la atencion, hay mejores opciones por la zona en todo sentido."
+    }
+  ]
+}

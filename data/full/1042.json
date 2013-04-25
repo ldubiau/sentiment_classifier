@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "juanbazzi", 
+      "text": "ideal para comer algo rapido al mediodia en el descanso del trabajo. El ambiente es bastante reducido, per ohay variedad de platos para elegir y los precios son razonables."
+    }, 
+    {
+      "date": "5 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bundy", 
+      "text": "Es un buen lugar para un almuerzo rapido durante el trabajo. Tienen un menu acotado pero la comida esta bien. El servicio es amigable. Redujeron un poco las porciones."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "masc", 
+      "text": "La atenci\u00f3n de la mano de Raulo es excelente!!"
+    }
+  ]
+}

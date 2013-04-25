@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "12 May 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "meli", 
+      "text": "Un horror, nunca nos atendieron tan mal. La comida es realmente incomible, tan desastrozo fue que nos tuvieron que invitar por lo mal atendidos que estuvimos. \r\nNo vuelvo nunca m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "bocalor", 
+      "text": "La comida estaba muy buena y el ambiente es muy tranquilo. Lo \u00fanico es que nos atendieron un poco mal, bah mal, regular. Se equivocaron en un par de pedidos y en vez de traer las paneras, hab\u00eda que pedirlas cada dos minutos. Al comer tablas de quesos, era importante que siempre hubiera."
+    }, 
+    {
+      "date": "12 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pufisupe", 
+      "text": "El ambiente del lugar es muy c\u00e1lido, la comida y el servicio es muy bueno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "karucha", 
+      "text": "El lugar muy bien ambientado con madera de cipr\u00e9s, ideal para comer relajado y disfrutar de la comida."
+    }, 
+    {
+      "date": "19 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Toti01", 
+      "text": "Muy buena comida en un ambiente agradable."
+    }, 
+    {
+      "date": "22 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "homero", 
+      "text": "La comida es muy buena. Muy bien presentados los platos."
+    }, 
+    {
+      "date": "19 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "unglit", 
+      "text": "Muy buena comida y buen servicio. La ambientaci\u00f3n hace rememorar a un comedor industrial."
+    }
+  ]
+}

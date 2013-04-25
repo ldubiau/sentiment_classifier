@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Panceta", 
+      "text": "buenos precios , menu economico (EXCELENTE), muy buena la atencion, HAY Mucho Lugar entre mesa y mesa . Se come muy bien."
+    }, 
+    {
+      "date": "12 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Marbet", 
+      "text": "Muy buena la comida, tambi\u00e9n la atencion...le falta un poco de calidez al ambiente...pero se puede mejorar...Volver\u00e9"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "emi_vp", 
+      "text": "Cada plato del men\u00fa principal es como para 2 personas, por $45 tenes plato ppal, bebida y postre. Com\u00ed varias veces ah\u00ed, la comida es preparada en el momento y es espectacular, todo, las pastas, las carnes, el cerdo, la parrilla TODO EST\u00c1 BUEN\u00cdSIMO y los postres son pocos pero riqu\u00edsimos. \r\nSe come extremadamente bien, rico y barato. La atenci\u00f3n es r\u00e1pida y predispuesta.\r\nAhhh, el pan en casero y calentito."
+    }, 
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Lu22", 
+      "text": "Una grata sorpresa, siendo que el ambiente no es muy lindo. Nos atendieron 10 puntos aunque llegamos sobre la hora de cierre. Mi vac\u00edo era una manteca, lo hicieron en el momento (tard\u00f3 un rato pero trajeron una panera muy rica) y estaba tiern\u00edsimo. La milanesa napolitana de mi acompa\u00f1ante tambi\u00e9n estaba muy buena y a buen precio. Los platos son super abundantes. Men\u00fa ejecutivo $27 c/bebida y postre."
+    }
+  ]
+}

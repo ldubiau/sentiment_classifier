@@ -1,0 +1,148 @@
+{
+  "malos": [
+    {
+      "date": "17 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Layla", 
+      "text": "Fue una noche perdida , estabamos entusiasmados para comer sandwich de Pavita , elegimos uno con anana , y otro con palmitos , y no tenian lo que prometia en la carta , era puro tomate y lechuga no es para recomendar . y la pavita es al escabeche y no el blanco"
+    }, 
+    {
+      "date": "4 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "losrodriguez", 
+      "text": "me hubiese encantado conocerlo, pero a fuera que estaba lindo, el mozo pasaba por al lado de mi esposa mis dos hijos y yo, como si fueramos fantasmas.\r\noptamos por entrar al salon que estaba vac\u00edo, y el de la caja ladr\u00f3, ya los atienden.\r\nnos tubimos que ir, lamentable..."
+    }, 
+    {
+      "date": "2 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "premier", 
+      "text": "Fui el s\u00e1bado a tomar un caf\u00e9 y ped\u00ed para llevar docena de sus afamados sandwiches de pavita. Me sent\u00ed estafado. Porque hasta dud\u00e9 de que le hubieran puesto la pavita, transparente y pegada al pan con unas gotas de mayonesa. No s\u00e9 si alguna vez fueron \"especiales\" pero lo que llev\u00e9 era impresentable."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Nos saco del paso en una noche que venia accidentada en materia gastron\u00f3mica. Nos armaron r\u00e1pidamente una mesa grande, y con la mejor de las ondas el mozo nos atendi\u00f3 en forma permanente. La comida estuvo  bien (especialmentelas rabas). La ambientaci\u00f3n no se destaca, pero ofrece un espacio c\u00f3modo y sin mucho ruido (a pesar de su gran tama\u00f1o). No ir\u00eda especialmente, pero podr\u00eda volver estando en la zona."
+    }, 
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "herno7", 
+      "text": "Buenos precios y 24 horas viernes y s\u00e1bado. Pero no pidas m\u00e1s."
+    }, 
+    {
+      "date": "7 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "e_vanesa", 
+      "text": "Muy buena pizza!!!, la fain\u00e1 excelente! abundante!\r\nNo nos gusta el sandwich de pavita, es al escabeche y no blanco de pavita, podr\u00edan ofrecer las 2 opciones.\r\nEl servicio es pobre, porque los mozos no hablan, no ofrecen, sirven y nada mas."
+    }, 
+    {
+      "date": "7 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Ebano2020", 
+      "text": "Es un tipico lugar de la barrio de Boedo. El lugar sencillo pero calido, querido en la zona y con mucha historia. La pasamos muy bien. Es para volver."
+    }, 
+    {
+      "date": "7 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Es verdad que los sandwiches de pavita ya no son lo que eran,pero es una delicia ir al Trianon,ahora remodelado, y sentarse en ese lugar tan pintoresco.El cafe con masitas una delicia, y ni qu\u00e9 hablar de los \"crustulli\",una confitura originaria de Calabria que me recuerda tanto los sabores de la infancia!!"
+    }, 
+    {
+      "date": "6 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Patolandia", 
+      "text": "Confiter\u00eda muy famosa por ser la creadora del sandwich de pavita. Es m\u00e1s la fama que el producto en s\u00ed. No es malo, pero tampoco gran cosa."
+    }, 
+    {
+      "date": "30 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mr_colmillo", 
+      "text": "Se come muy bien. Tanto la pizza y las minutas son buenas. La mayoria de los platos que comi son recomendables. Su fuerte es la pizza."
+    }, 
+    {
+      "date": "4 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "LuigiTrastorno", 
+      "text": "Un cl\u00e1sico de Boedo. Las pizzas volvieron a su nivel (ya que habian deca\u00eddo un poco). Imperdible no tomarse algo en la vereda. El caf\u00e9 lo encontr\u00e9 muy rico. De hecho, voy siempre a tomarlo all\u00ed. Recomendable...aunque los mozos tardan mucho (porque son pocos)"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "EDaniel", 
+      "text": "Las variedades y los sandwiches de Pavita son imperdibles."
+    }, 
+    {
+      "date": "8 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GooS", 
+      "text": "Los sandwiches americanos y los de pavita se llevan todos los aplausos. Excelentes.\r\nMuchas veces pido delivery y son precisos en los tiempos y en lo que entregan, no como otros que ped\u00eds algo y te traen otra cosa."
+    }, 
+    {
+      "date": "20 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marmol", 
+      "text": "\u00cdcono del barrio, es la sandwicheria que se fund\u00f3 con Boedo. \r\nImperdible sandwichs de pavita y el super espa\u00f1ol. \r\nNo dejen de ir, tambi\u00e9n tiene delivery y tickets."
+    }
+  ]
+}

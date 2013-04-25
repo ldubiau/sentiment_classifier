@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Malaleche", 
+      "text": "Buen lugar para comer un chivito completo con buenos ingredientes."
+    }, 
+    {
+      "date": "4 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Muy buen chivito. Se puede ir bien tarde."
+    }, 
+    {
+      "date": "11 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mlauritap", 
+      "text": "Buen servicio y comida rica y abundante."
+    }
+  ]
+}

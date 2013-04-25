@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablop", 
+      "text": "Lo conoc\u00edamos de Neuqu\u00e9n y encontramos un ambiente m\u00e1s agradable. La calidad de la comida es muy buena. Si buscan una excelente pizzer\u00eda, con alg\u00fan plato de cocina alemana, lo recomiendo. Ideal para la familia por los men\u00faes infantiles."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Juampi57", 
+      "text": "Conocemos a Franz y Peppone del sur, hace rato sab\u00edamos que estaba en Buenos Aires, pero no se di\u00f3 visitarlos antes. Nos sorprendi\u00f3 mucho que ahora figure otro nombre, pero sigue con la impronta \"pepponiana\" que ya tiene varias d\u00e9cadas. Excelente la pizza."
+    }, 
+    {
+      "date": "10 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MT10", 
+      "text": "Comimos genial, una parrillada para dos gigante. Buen\u00edsima la calidad de la carne y las achuras. Las papas fritas y las ensaladas vienen inclu\u00eddas con la parrillada, mas vegetales a la parrilla. Comimos cuatro de muy buen diente y sobr\u00f3. La atenci\u00f3n es muy buena, los precios tambi\u00e9n. Muy recomendable si no busc\u00e1s lujo."
+    }
+  ]
+}

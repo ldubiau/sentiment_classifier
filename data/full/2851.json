@@ -1,0 +1,548 @@
+{
+  "malos": [
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "orit", 
+      "text": "NO VAYAN!!!el peor restaurante japones al que fui. CARO.Comida sin sabor,porciones muy peque\u00f1as.Fui con amigas gastamos $55 sin postre y nos quedamos con hambre."
+    }, 
+    {
+      "date": "8 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jumabe14", 
+      "text": "Pobre ambientaci\u00f3n, pobre la calidad de la materia prima utilizada para elaborar los platos, pobre la presentaci\u00f3n... pobre.\r\nCon una calificaci\u00f3n de 25/30 en comida, uno espera otra cosa... Para el olvido."
+    }, 
+    {
+      "date": "24 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "sababa", 
+      "text": "Muy pobre.\r\nVariedad muy limitada, solamente las opciones tradicionales de sushi sin ning\u00fan tipo de creatividad. La calidad tampoco es de los mejores. fui con altas expectativas por los comentarios de usuarios estrellados y me desilusion\u00e9.\r\nOlvidadle."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "volterra", 
+      "text": "El local es peque\u00f1o pero muy acogedor y la atenci\u00f3n es esmerada. La relaci\u00f3n precio/calidad est\u00e1 garantizada si bien la carta no es demasiado extensa. Me hab\u00eda entusiasmado con los comentarios de otros usuarios acerca de los postres pero cuando yo fui no hab\u00eda m\u00e1s que helado. Me pareci\u00f3 excelente la idea de ofrecer como cortes\u00eda al finalizar la cena diferentes variedades de t\u00e9s con galletas de jengibre y s\u00e9samo."
+    }, 
+    {
+      "date": "20 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "mote", 
+      "text": "lugar agradable, mesas bien separadas, mozas atentas, pocos vinos y caros, platos escasos pero ricos, en fin, vali\u00f3 la pena, volver\u00e9."
+    }, 
+    {
+      "date": "5 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Polta", 
+      "text": "Excelente calidad/variedad de sushi. Suman la entrada y el t\u00e9 verde que te ofrecen sin cargo. Ambiente simple y ameno. Se suele llenar los fines de semana."
+    }, 
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Xeneize", 
+      "text": "Excelente comida, muy buen sushi, buena atenci\u00f3n y agradable lugar. Altamente recomendado: de los restaurantes japoneses que conozco, probablemente el de mejor relaci\u00f3n calidad/precio."
+    }, 
+    {
+      "date": "4 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "uruguay390", 
+      "text": "La comida est\u00e1 muy bien sin ser nada del otro mundo, la atenci\u00f3n es esmerada pero nuestra camarera ante la menor pregunta ten\u00eda que consultar, lo que denota poco profesionalismo en el servicio, pero sin perjuicio de ello, reitero, la se\u00f1orita que nos atendi\u00f3 fue sumamente amable en todo momento. El ambiente es muy luminoso para este tipo de restaurante. Lo que es excelente es la relaci\u00f3n calidad precio. Para volver."
+    }, 
+    {
+      "date": "10 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "senoracomida", 
+      "text": "Es un restaurant maravilloso. su comida excelente y se disfruta cada momento."
+    }, 
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gdecaso", 
+      "text": "Realmente muy buena la calidad especialmente teniendo en cuenta que no es un lugar particularmente caro. El delivery tambi\u00e9n es muy bueno, con una presentaci\u00f3n casi de lujo. El lugar es muy bonito, con un patio interno y las mesas bastante lejos unas de otras lo cual otorga privacidad. Reservar es indispensable para no llevarse sorpresas, ya que el lugar es peque\u00f1o. La atenci\u00f3n es muy buena y nos convidaron t\u00e9s de diversos gustos y unas galletas de gengibre y s\u00e9samo."
+    }, 
+    {
+      "date": "23 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ramses", 
+      "text": "Kizuna me result\u00f3 un buen lugar para comer comida japonesa algo distinta a lo que se acostumbra en Baires. Es que ofrecen cocina de Okinawa, que tiene algunas particularidades, como el uso de panceta. Muy buenos los platos t\u00edpicos y tambi\u00e9n el sashimi, aunque quiz\u00e1s no sea el mejor lugar para comer sushi. La atenci\u00f3n muy amable, el ambiente despojado y los precios accesibles."
+    }, 
+    {
+      "date": "14 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Lusi4ever", 
+      "text": "El lugar nos gusto mucho, una decoracion simple bien lograda. El servicio muy atento y esmerado en todo momento. De entrada, pedimos yakitoris que estaban bien pero vinieron con poca salsa. Pedimos combinado de sushi y algunos rolls. El salmon no era ese que se te deshace en la boca y los cortes del sashimi me parecieron muy grandes. Igualmente, no se si fue el ambiente, la buena atencion o quizas tb porque teniamos hambre.. pero comimos bastante bien y salimos satisfechos. Los precios, correctos."
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aleseba", 
+      "text": "Si bien no es el mejor sushi que he probado, de muy buen nivel y es fresco. Esto hace que demoren un mont\u00f3n en traerte el pedido, asi que vayan con tiempo. La atenci\u00f3n esta bien, te sirven una mini entradita de brotes de garbanzo, muy ricos. El ambiente esta bueno y podr\u00eda estar mejor si bajasen un poco las luces. De todas formas lo recomiendo."
+    }, 
+    {
+      "date": "16 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lunalu", 
+      "text": "Es un lugar en el que se respiran las tradiciones japonesas. La atenci\u00f3n es impecable. Los sabores son   \u00fanicos. Todo detalle ha sido cuidado. Altamente recomendable."
+    }, 
+    {
+      "date": "15 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hokans", 
+      "text": "Excelente, la paciencia y la atencion para comensales occidentales es increible. Explican al detalle cada plato con curso intensivo de como agarrar los palillos. No dejen de probar el sake y el te verde. Autentica comida japonesa en su maxima expresion."
+    }, 
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Archimboldo", 
+      "text": "La comida es genuinamente japonesa con novedades que exceden el ya tradicional sushi. Los sabores est\u00e1n n\u00edtidamente diferenciados, con perfecto equilibrio entre la salsa y condimentos propios de cada plato. Tal vez deban perfeccionar el rebozado del tempura que carece de crocancia.  La atenci\u00f3n es esmerada y sol\u00edcita y el ambiente es otra expresi\u00f3n de la caracter\u00edstica sobriedad oriental."
+    }, 
+    {
+      "date": "12 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "memi_o", 
+      "text": "Me gusta mucho este lugar, uno de los pocos representantes de la comida okinawense( no sabr\u00eda si decir el \u00fanico) desde el aroma de los platos, pasando por la vajilla, hasta la invitaci\u00f3n del och\u00e1 (te verde) y el sata-tempur\u00e1 (bu\u00f1uelos). Muy c\u00e1lido el lugar y muy buena la atenci\u00f3n."
+    }, 
+    {
+      "date": "2 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Niev", 
+      "text": "Ante nada Kizuna representa una ruptura altamente gratificante en el espacio geogr\u00e1fico en el cual est\u00e1 ubicado, el ambiente es c\u00e1lido, cuidado con detalles perfeccionistas. La atenci\u00f3n es inmejorable y la comida una delicia que atraviesa todos los sentidos. Sin duda, recomendable."
+    }, 
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vivid", 
+      "text": "Un lugar distinto con comida original japonesa muy buena y abundante. La atenci\u00f3n muy amable. El ambiente bien, s\u00f3lo mejoraria la iluminaci\u00f3n que es demasiado intensa."
+    }, 
+    {
+      "date": "8 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nicodos", 
+      "text": "La comida es muy buena. Lo bueno es la gran variedad y los sabores. La atencion tambien es buena, pero por momentos la moza se le mezclaron las cosas. Sin dudas lo mejor es el ambiente. Lugar recomendable."
+    }, 
+    {
+      "date": "5 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "molleaux", 
+      "text": "No fue mucho de mi agrado... la m\u00fasica japonesa pop de fondo no condec\u00eda con el ambiente, y el sushi, si bien fresco, lo sirvieron \"apilado\""
+    }, 
+    {
+      "date": "5 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "meguri", 
+      "text": "Buena la comida y la atenci\u00f3n. volver\u00eda a ir."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cris007", 
+      "text": "El lugar es muy lindo, muy tranquilo. \"Armonioso\" es la palabra. Con detalles muy cuidados. Nos han atendido muy bien. Yendo al tema comida, todo bien, aunque mi \u00fanica cr\u00edtica es al sushi, que creo puede ser mejor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ross", 
+      "text": "Muy buen restaurante! Sushi fresco, presentaci\u00f3n impecable y ambiente c\u00e1lido, atendido por los propios due\u00f1os japoneses. Lo mejor: Cheesecake de mandarina y Trufas de chocolate blanco con frutillas, imperdibles!"
+    }, 
+    {
+      "date": "12 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fuckin_gordito", 
+      "text": "Excelente lugar. La atencion fue muy buena, siempre la moza estuvo predispuesta a explicarnos cada plato. Los platos son los tipicos de la cultura japonesa y estan muy bien servidos. Te reciben con una entrada muy peculiar y te despiden con masitas y un lindo te de jazmin. Muy recomendable."
+    }, 
+    {
+      "date": "24 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Karlos66", 
+      "text": "Un ambiente minimalista. Atencion esmerada. Todo pulcro desde la entrada hasta los ba\u00f1os, excelente los detalles en esta ultima instalacion. Los platos con sus sabores se ajustan a lo que se espera. Me senti acoquinado de principio a fin. Quiero volver."
+    }, 
+    {
+      "date": "3 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Yakuzan", 
+      "text": "Odabun de entrada,luego pedimos 1 bandeja de rolls surtidos(10 piezas),mas otra bandera de 10 rolls de salmon,mas un agua sin gas,te de cortesia con masitas de postre.Un lujo realmente.El lugar tranquilo,los platos frescos y con una vasija muy cuidada y elaborada.Realmente para destacar y volver sin duda alguna.Un lugar reservado,simple pero cuidado,son MUCHOS platos de la comida okinawense muy elaborados,a base de cerdo,pescados,y lomo.Excelente y lo recomiendo."
+    }, 
+    {
+      "date": "19 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ropaubin", 
+      "text": "La atenci\u00f3n es muy cuidada. Son detallistas tanto con los platos y su decoraci\u00f3n como con la forma de poner la mesa. Adem\u00e1s son muy amables. La relaci\u00f3n precio/comida es excelente. Solo bajar\u00eda un poco el nivel de las luces, pero sin dudas es un lugar para volver varias veces m\u00e1s!"
+    }, 
+    {
+      "date": "2 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Catalexico", 
+      "text": "La calidad del sushi, es de las mejores que he probado, la frescura del salmon se notaba. Me senti muy bien atendido, con esmero y simpat\u00eda. El lugar es lindo, aunque quizas es lo unico que se podria mejorar, la ambientacion.\r\nExcelente calidad/precio."
+    }, 
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "shumi", 
+      "text": "Excelente velada en el resto, comenzando con una muy buena atencion, y una excelente comida, pedimos 2 entradas y unos philadelphia , no se si es que no teniamos mucha hambre porque nos llenamos y quedamos muy bien. Muy amablemente nos convidaron con un te de jazmin a lo cuales le agregamos un alfajor muy rico. EL precio es adecuado gastamos $74. Me hubiese gustado que la luz estuviese un poco mas tenue pero sin dudar un lugar para volver y pedir otros platos."
+    }, 
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ososibarita", 
+      "text": "Un hallazgo para la zona de Villa Crespo, atenci\u00f3n muy cuidada en todos los detalles, ambiente muy agradable ya que son pocas mesas y bien separadas (no como en otros restaurantes de sushi). Todo lo que comimos desde la entrada hasta el postre estuvo muy bueno, y nos invitaron un t\u00e9 de jazm\u00edn para terminar la velada, Excelente !!!"
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "El lugarcito es sencillo y despojado, ambientado con la t\u00edpica delicadeza y buen gusto japon\u00e9s, desde los palitos hasta las l\u00e1mparas. La atenci\u00f3n tambi\u00e9n sigue la misma l\u00ednea: servicial, amable y sonriente y la comida result\u00f3 divertida con la variedad de opciones de la bandeja, esmerada en su excelente elaboraci\u00f3n y sorprendentemente econ\u00f3mica para la buena calidad. Felicitaciones!"
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leeleebee", 
+      "text": "El lugar esta sencillamente ambientado de modo agradable aunque un poco despojado. El servicio super amable en todo momento y dispuesto a explicar el tipo de comida para alguien como yo sin experiencia en ese tipo de gastronomia. La comida (bandeja de lonjas de cerdo con guarniciones) estaba muy rico y muy bien presentado todo. Lugar recomendable y de precios muy accesibles"
+    }, 
+    {
+      "date": "3 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tamaradafne", 
+      "text": "Atenci\u00f3n impecable tanto en el restaurant como cuando pido delivery. Las chicas son super amables, atenci\u00f3n bien personalizada (pido seguido delivery y cuando fui a comer al Resto me reconocieron por la voz y me tiraron buenas sugerencias a la hora de hacer el pedido).\r\n\r\nTodo lo que prob\u00e9 hasta ahora me pareci\u00f3 riqu\u00edsimo (entradas, platos y postre) y la atenci\u00f3n, repito, es buen\u00edsima.. Quizas estar\u00eda bueno que las luces fuesen un poco m\u00e1s bajitas y  un poco m\u00e1s de ambientaci\u00f3n oriental.. Pero lo recomiendo en un 100%"
+    }, 
+    {
+      "date": "30 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Xeneize", 
+      "text": "Excelente comida, muy buen sushi, buena atenci\u00f3n y agradable lugar. Altamente recomendado: de los restaurantes japoneses que conozco, probablemente el de mejor relaci\u00f3n calidad/precio."
+    }, 
+    {
+      "date": "11 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gtamae", 
+      "text": "Excelentes platos elaborados con la autentica frescura y estetica japonesa.\r\nSabores originales como los probe en Japon."
+    }, 
+    {
+      "date": "3 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "herr_wilhem", 
+      "text": "Un lugar simple, con ambientaci\u00f3n minimalista, pero con una cocina excelente y una atenci\u00f3n muy amable y correcta. Sin duda, uno de los mejores lugares para comer sushi. La comida es abundante y garantiza la satisfacci\u00f3n. Como sobremesa, la casa invita (como deber\u00edan hacerlo TODOS los restaurantes)con una jarrita de te verde, de jazm\u00edn y/o de trigo. Totalmente recomendable. No ser\u00e1 defraudados."
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CheChunis", 
+      "text": "Sinceramente un lugar excelente. Desde la calidez del lugar y la atencion hasta los excelentes platos. Nos atendieron muy bien, explicando de que se trata cada plato en la carta y aconsejando que era lo mejor que podriamos probar (teniendo en cuenta si eran platos para compartir o no por la cantidad de los mismos).\r\nLa comida fue muy buena, absolutamente nada que envidiar a los restos japoneses mas conocidos. Mucha frescura en los pescados. Nos invitaron con un te verde o te de jazmin. La verdad que volveremos. Los precios no son desorbitantes y son acordes a los platos. Recomendable 100%"
+    }, 
+    {
+      "date": "14 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MigaJas", 
+      "text": "Excelente, ideal para aquellos paladares exigentes que desean experimentar mas alla del sushi. El mejor lugar para descubrir que \"lo japones\" ni empieza ni termina en el sushi, ademas de su variedad cultural alimentaria. Los platos estan cuidadosamente seleccionados en cuanto a cominaciones de sabores y perfumes. Delicadeza y refinamiento orientales en la gastronomia, la atencion, el servicio y la ambientacion. En tal sentido, teniendo en cuenta la relacion calidad-precio, resulta barato. Felicitaciones y todo para disfrutar!"
+    }, 
+    {
+      "date": "25 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nisi", 
+      "text": "Uno de los mejores lugares de comida japonesa al que fu\u00ed, platos variados, comida fresca, porciones abundantes y precios razonables (hasta m\u00e1s barato q en otros lugares), para q tengan idea el Sushi set variado 20pz. $45, la Asahi de 350ml $6. \r\nAtentos hasta en los peque\u00f1os detalles...\r\nEl lugar no es muy amplio, as\u00ed que es mejor reservar.\r\nMuy buena la atenci\u00f3n, muy amables.\r\nFu\u00ed varias veces..y seguir\u00e9 yendo."
+    }, 
+    {
+      "date": "22 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fejumo", 
+      "text": "Fui con mi novia y nos encontramos con un lugar muy agradable, con una atenci\u00f3n muy atenta y sin fisuras. La comida muy rica y nos sorprendimos al ver platos que no conoc\u00edamos. Comimos entrada (una especie de tortilla con camarones y verdura) realmente exquisita, sushi de principal y de postre un delicado helado de te verde. El precio no desentona para nada y vale lo que se come."
+    }, 
+    {
+      "date": "13 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jdweb", 
+      "text": "un excelente lugar con muy buena atenci\u00f3n y una inmejorable comida. Las exquisiteces japonesas que no me quiero perder estan ahi, es por eso que volvere pronto. Muy, pero muy recomendable."
+    }, 
+    {
+      "date": "13 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ingsaenz", 
+      "text": "Realmente hermoso el lugar y muy buena la comida. El mejor restaurante de comida japonesa que conozco y la atencion es genial"
+    }, 
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anitt", 
+      "text": "un lugar muy tranquilo y agradable, la comida muy buena casi como si fuera casera, la atencion fue muy cordial."
+    }, 
+    {
+      "date": "17 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lulic", 
+      "text": "la calidad de la comida es excelente, el salmon impecable y los sabores son realmente exquisitos MUY RECOMENDABLE, vayan el pareja o con amigos se puede charlar, el ambiente es re agradable"
+    }, 
+    {
+      "date": "26 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "paddyba", 
+      "text": "Muy rico todo, ingredientes muy frescas y sabores orientales muy bien presentados. \r\nTengo ganas de volver para probar mas."
+    }, 
+    {
+      "date": "25 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Maravillosa la comida. Excelente hallazgo a pocas cuadras de casa.\r\nMuch\u00edsimo cuidado en la presentaci\u00f3n de los platos y el armado de las bandejas. Todos los platos vienen en bowls hechos a mano. \r\nRiqu\u00edsimo todo, desde el arroz que nos trajeron antes de que llegara la entrada hasta el t\u00e9 verde con bocaditos de s\u00e9samo del final de la cena. Comimos Odango (albondigas), Domburi Sake Don (Bowl de arroz con salm\u00f3n) y Yakisakana Teishoku (men\u00fa completo con arroz, rolls, sopa, pescado del dia, ensalada, pickles de jengibre, etc). \r\nLa atenci\u00f3n fue tambi\u00e9n excelente. \r\nYa estamos pensando en volver para seguir probando el resto de las opciones del men\u00fa."
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JuliusCaesar", 
+      "text": "Excelente, delicado exquisito."
+    }, 
+    {
+      "date": "31 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pabfla", 
+      "text": "Excelente nivel de comida y sabores.\r\nAbsolutamente recomendable para probar otras comidas japonesas que no se SUSHI que podes encontrar en cualquier lugar."
+    }, 
+    {
+      "date": "24 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gigiyjavi", 
+      "text": "Un hallazgo: de la veces que hemos ido a comer comida japonesa, nunca hemos salido tan satisfechos! Las porciones son esmeradas, los platos muestran que no todo empieza y termina en el sushi, y todo, desde el primer bocadito hasta el postre, es delicadamente sabroso. Yakisakana para todo el mundo!!!! Antes de levantarse, el muguei-cha (te verde de arroz) es un must, acompa\u00f1ado por alguna masita o bu\u00f1uelito.\r\nPara tener bien en cuenta, y m\u00e1s a\u00fan en comparaci\u00f3n con la oferta de la zona."
+    }, 
+    {
+      "date": "3 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LauraA", 
+      "text": "Muy bueno todo. La comida excelente y bien presentada, la atencion muy esmerada y el lugar bien decorado. Todo esta cuidado hasta en los mas minimos detalles. Un lugar para ir a desenchufarse. Los platos son muy sabrosos y abundantes con sabores que salen de lo comun. Tambien es recomendable el delivery si uno vive en la zona. Relacion precio calidad muy buena. Vamos seguido con mi novio y no nos defraudo nunca. Hay opciones variadas para aquellos a los que no les gusta el pescado. A pesar de haber ido varias veces, no deja de sorprenderme el condimento de las ensaladas, el toque de sabores en las salsas y los postres."
+    }, 
+    {
+      "date": "20 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fbz67", 
+      "text": "Las porcions son abundantes (nunca com\u00ed sushi como plato principal), pero si la tabla completa que trae dos pieza de niguiri de salm\u00f3n rosado, dos de rolls, una ensalada, unos fideos de arroz, una sopa de miso y tofu, un tazon de Gohan(arroz) y el plato principal. En mi caso cerdo marinado con pesto de sesamo negro. Mi mujer comi\u00f3 un Salm\u00f3n rosado marinado con verduras y huevo salteados sobre colch\u00f3n de arroz y su hija, pollo marinado con verduras y huevo, sobre un colch\u00f3n de arroz. \r\nTanto el salm\u00f3n, como el pollo eran de lo m\u00e1s abundante (ninguna de ambas termin\u00f3 su plato). En los postres, el helado y el roll de T\u00e9 verde son incre\u00edbles."
+    }, 
+    {
+      "date": "25 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "edhiga", 
+      "text": "La atenci\u00f3n, la cordialidad y el ambiente es excelente. \u00c1ltamente recomendado para disfrutar un momento en familia o con amigos. Algo diferente que degustar para paladares exigentes."
+    }, 
+    {
+      "date": "10 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "logan670", 
+      "text": "Adem\u00e1s de ofrecer el ambiente de intimidad, el detalle de la entrada y la atenci\u00f3n de la casa con la invitacion de un t\u00e9 con bu\u00f1uelos exquisitos son maravillosos."
+    }
+  ]
+}

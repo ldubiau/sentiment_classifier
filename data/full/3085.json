@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "29 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ramses", 
+      "text": "Tiene una muy buena relaci\u00f2n precio-calidad como opci\u00f3n de mediod\u00eca en el centro. Se trata de un peque\u00f1o bistr\u00f3 de due\u00f1o franc\u00e9s que ofrece men\u00faes de comida de estilo mediterr\u00e1nea, sencilla y bien elaborada. La atenci\u00f3n es muy amable pero algo lenta para quien tiene poco tiempo para almorzar."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "morza", 
+      "text": "Comimos el men\u00fa del d\u00eda. Los platos son buenos para el precio que cobran. Buena presentaci\u00f3n de los platos. La atenci\u00f3n es buena, el postre se demor\u00f3 y tuvieron la gentileza de obsequiarnos una botella de champagne. Muy recomendable."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Farson", 
+      "text": "Excelente comida, con la cantidad justa. No vas a comer hasta reventar, y creo que tampoco es la propuesta del lugar, es para comer rico. Los postres muy buenos. Los platos bien presentados y el ambiente es tranquilo, ideal para charlar. El servicio muy atento y dedicado (Atendido por autenticos franceses)."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Dr_Khumalo", 
+      "text": "Relaci\u00f3n calidad-precio inmejorable, con platos muy sabrosos y presentaci\u00f3n cuidada. Servicio levemente lento para el stress del mediod\u00eda, pero de noche est\u00e1 de acuerdo con el promedio, y los mozos y due\u00f1os son s\u00faper cordiales. La ambientaci\u00f3n es muy buena por su ubicaci\u00f3n, pero en invierno cierran la puerta y a veces se llena de humo el lugar."
+    }, 
+    {
+      "date": "2 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Bjork", 
+      "text": "Muy linda la ambientaci\u00f3n del lugar, con una c\u00e1lida atenci\u00f3n y riqu\u00edsima la comida. Recomiendo el creme brulee y mousse de chocolate con naranjas."
+    }
+  ]
+}

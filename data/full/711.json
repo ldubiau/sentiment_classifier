@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "5 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "afro75", 
+      "text": "La parrillada no contenia todo lo que uno espera. Faltaban mollejas y chinchulines. El asado de costilla estaba durisimo, casi imposible de comer. \r\nLa porcion de papas fritas demasiado peque\u00f1a, no alcanza para dos y la ensalada demasiado cara, casi 10$. El budin de pan era regular, parecia flan.\r\nLo peor de todo es que al decirles que la carne estaba dura ni el camarero ni el administrador hicieron algo para subsanar el problema...ni siquiera nos pidieron disculpas."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "marianojaja", 
+      "text": "El lugar promete, por su aspecto de bodeg\u00f3n bien cuidado y su carta tentadora. Lamentablemente no fue una noche exitosa, donde por alg\u00fan problema interno los pedidos demoraban m\u00e1s de 1 hora para todos los comensales. Adem\u00e1s, una vez arribados, los platos estaban faltos de gracia y tama\u00f1o."
+    }, 
+    {
+      "date": "22 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vitto", 
+      "text": "Tipico resto de barrio, buena parrilla y ricas minutas con mozos de buen oficio y el due\u00f1o siempre presente. Muy rica brochette, para recomendar  sin dudarlo."
+    }, 
+    {
+      "date": "31 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alvaror", 
+      "text": "buena atenci\u00f3n, clima agradable y familiar y muy rica la comida.  precio l\u00f3gico. buenas pastas."
+    }, 
+    {
+      "date": "17 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MarinaVS", 
+      "text": "Es un restaurant tradicional con buena comida, pero precios un poco altos."
+    }, 
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Carlitos8665", 
+      "text": "Bodeg\u00f3n muy agradable, Trato muy profesional, tiempo de espera normal, mas aun siendo d\u00eda del padre.\nLa comida nada sofisticado, pero lo mismo que podes comer en tu casa.\nCasi con seguridad volver\u00edamos a comer."
+    }, 
+    {
+      "date": "31 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Restaurante familiar t\u00edpico de barrio, especializado en minutas y parrilla que ofrece buenas opciones econ\u00f3micas y cumple con lo necesario para estar lleno todos los d\u00edas (lo que siempre es un buen \u00edndice)."
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kariyory", 
+      "text": "Un restaurante tradicional sin alardes gourmet pero con ricos platillos y una buena relaci\u00f3n precio calidad y con un agradable sabor casero. El ambiente es muy original, con la decoraci\u00f3n de una vieja farmacia y ha mejorado en iluminaci\u00f3n y pintura desde la \u00faltima vez que fuimos. Una opci\u00f3n interesante para la zona."
+    }, 
+    {
+      "date": "15 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fran823", 
+      "text": "todo muy bueno. lo mejor son las pastas"
+    }, 
+    {
+      "date": "15 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "liptus", 
+      "text": "Lo que mas se destaca del lugar es el ambiente, una esquina donde antes pareciera que funciono una vieja farmacia y donde han dejado todos los muebles orginiales. La comida es abundante y bien presentada y los comensales suelen ser pesonas mayores del barrio o familias. Un bodeg\u00f3n bien cuidado de los que cada vez quedan menos. Un modesto clasico de Recoleta."
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pinazo75", 
+      "text": "Un restaurante para salir del paso. La calidad de sus comidas van de la mano con el precio: solamente buenas.\r\nCuando se llena los pocos mozos no dan abasto con la cantidad de mesas que hay."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "A1975", 
+      "text": "Muy buenos bifes y pastas caseras. Excelentes las papas rejilla, porci\u00f3n chica pero justa. Restaurante \"viejo\" pero que conserva su clientela."
+    }
+  ]
+}

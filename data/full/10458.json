@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "30 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "huracanes", 
+      "text": "Fuimos varias veces a este restaurante, y definitivamente no es para recomendar. Tardaron 1 hora para traer una provoleta derretida, posteriormente la carne estaba fria, las papas llenas de aceite, la atencion  mala.siempre nos pasa lo mismo, tardan anos en atenderte, si conseguis mesa. Es no recomendable"
+    }, 
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Cosmic", 
+      "text": "Fue nuestra primera visita. El lugar muy bien ambientado, al tono del resto del complejo. La atenci\u00f3n amable, correcta. Tuvimos mucha demora para poder acceder a una mesa. Y una demora aun mayor e innecesaria para que llegara la comida: una bondiola cortada fina (seca y medio chamuscada)  y una sandwich de lomo tambien cortado fino, aunque con mejor sabor. Tienen gaseosa grande. Solo efectivo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Best2007", 
+      "text": "Buen\u00edsima la provoleta Ley primera y el asado un cl\u00e1sico. Volver\u00e9 por mas"
+    }, 
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mariobros", 
+      "text": "Excelente atenci\u00f3n (nos trajeron un bife que no estaba en el punto justo y se lo llevaron enseguida sin ning\u00fan comentario), excelentes carnes. Todo abundante. El chef a cargo de la carta, peruano, le da un toque especial a una parrilla que no falla en su fuerte: las carnes. El vino de la casa (en ping\u00fcino) es bueno. Si les gusta innovar con las entradas pidan ceviche (muy picante, ojo)."
+    }, 
+    {
+      "date": "11 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "correopao", 
+      "text": "todas las veces que fui me atendieron muy bien y comi muy rico."
+    }, 
+    {
+      "date": "28 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "marcelo13", 
+      "text": "buena parrilla, tardan un poco y carta de vinos razonable, precio normal. el ambiente y el lugar excelente hecho con buen gusto y materiales reciclados\r\nfui varias veces, desde que me mude a la zona\r\nde noche muy buena ambientacion"
+    }, 
+    {
+      "date": "5 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Tangok", 
+      "text": "Parrilla Muy bien ambientada estilo despensa campestre. Buen servicio. Buena parrilla y horno de barro.  \r\nNos preguntaron el punto de preferencia y cumplieron a la perfecci\u00f3n, la carne vino exactamente en el punto pedido y era de muy buena calidad. Buena carta de vinos. Creo que es solo en efectivo es el pago. Volvere sin duda."
+    }, 
+    {
+      "date": "2 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Popea", 
+      "text": "Muy simp\u00e1tico lugar. La embientaci\u00f3n tiene mucha onda (todo construido con materiales reciclados, al igual que el resto del Mercado de Maschiwtz). Buena comida a precios razonables. De  noche suma puntos con una iluminaci\u00f3n bien pensada. La atenci\u00f3n puede demorarse un poco, pero el esmero del due\u00f1o (o encargado) hace dificil ponerse de mal humor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cocoti", 
+      "text": "A favor: la mejor parrilla de la zona, precios razonables, muy buena calidad de carne, atenci\u00f3n esmerada y muy linda decoracion. En contra tiene que a veces (los fines de semana sobre todo) hay que esperar y a veces mucho. Y es un poco ruidos. Es bueno para ir en pareja o con amigos. Siempre vuelvo."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mario2004", 
+      "text": "Muy bueno el pisco sour y muy simpatica la compa\u00f1ia.Recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Fernu", 
+      "text": "Excelente exponente de la comida centroeuropea, en este caso eslovena. El Goulasch es una de los m\u00e1s ricos que prob\u00e9. Le faltar\u00eda incluir un par de platos t\u00edpicos m\u00e1s y la carta no es demasiado extensa.La atenci\u00f3n es excelente.\r\nVale la pena."
+    }
+  ]
+}

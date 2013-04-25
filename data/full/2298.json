@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "23 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "zorrogrism", 
+      "text": "Una fugazzeta de muy buen nivel, media masa, buen queso, poquitin aceitosa, pero basicamente muy rica."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "GuidoII", 
+      "text": "Exelente la cocina, pedimos hace mas de un a\u00f1o y nunca nos defraudo, todo con ese gustito tan caracteristico de restoran, exelente el servicio sobretodo el envio a domicilio, desde ya recomendable!!!"
+    }
+  ]
+}

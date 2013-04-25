@@ -1,0 +1,116 @@
+{
+  "buenos": [
+    {
+      "date": "10 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Blues man", 
+      "text": "Comidas ricas y abundantes a muy buen precio.. Ambiente de barrio, no es lujoso es para una comida casual. Se recomiendan las hamburguesa, churrasquitos y sanwiches calientes del lugar..Tambi\u00e8n el locro o guisados. Todo casero"
+    }, 
+    {
+      "date": "26 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "martingrin22", 
+      "text": "comida muy rica y a un precio razonable."
+    }, 
+    {
+      "date": "4 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "voncholtitz", 
+      "text": "Muy buen lugar para pedir pizza o empandas. El delivery es rapido y la comida es buena, no es un expectaculo fuera de lo comun, pero es mejor que muchas pizzerias del lugar."
+    }, 
+    {
+      "date": "20 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Es una tipica pizzeria de barrio, no mucho mas que eso. Los platos son accesibles y con alrededor de 20 pesos podes comer cualquier cosa."
+    }, 
+    {
+      "date": "5 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nayarak", 
+      "text": "Fui dos veces a comer, es un lugar para comer barato y abundante. Pedi 1 milanesa napolitana y revuelto de gramajo y la comprat\u00ed con mi novio.La comida es buena, el ambiente es de pizzeria de barrio."
+    }, 
+    {
+      "date": "23 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fukerito", 
+      "text": "Comimos pizza libre con unos amigos. La pizza estaba muy rica, nada del otro mundo, pero rica. Buena atencion, y comimos hasta que no queriamos mas, no como en otros lugares que dejas de comer cuando no te traen mas. Barato!!!"
+    }, 
+    {
+      "date": "10 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "nachobar", 
+      "text": "La pizza no es nada del otro mundo. \r\nResalta lo barato. Recomendable cuando se quiera ahorrar. La napolitana es rica."
+    }, 
+    {
+      "date": "18 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pchemes", 
+      "text": "Muy sabrosa la comida y muy barato, pero el lugar no es muy lindo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Psiconauta", 
+      "text": "Muy buenas hamburguesas y milanesa. Caseras, enormes. Delivery lento pero muy econ\u00f3mico."
+    }, 
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maku", 
+      "text": "Este lugar es muy familiar, sencillo, la atencion es barbara, rapida cuando pueden...y muy recomendable para aquellos que desean pagar poco y comer mucho."
+    }, 
+    {
+      "date": "9 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Bruce", 
+      "text": "Gran atenci\u00f3n, muy buena comida y precios. Recomendado."
+    }
+  ]
+}

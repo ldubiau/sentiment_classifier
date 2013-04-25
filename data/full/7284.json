@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "valcach", 
+      "text": "Parrilla muy linda del centenario. Para comer bien. Excelente para ir con chicos chicos ya que tiene una peque\u00f1a \u00e1rea de juegos"
+    }, 
+    {
+      "date": "19 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mariobros", 
+      "text": "Bodeg\u00f3n familiar cl\u00e1sico. Comida que no falla aunque no descolle, atenci\u00f3n inmejorable y tradicional."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "loopinga", 
+      "text": "Este rest\u00f3 es de una familia que posee una tradicional casa de comidas \"para llevar\" en 11 y 42 (La Plata). Son los mismos platos, con la ventaja de no tener que \"lavarlos\" en casa.  El matambre al verdeo, los sorrentinos gigantes, y las m\u00e1s espectaculares milanesas (en todas sus variantes) que se puedan encontrar son sus puntos altos. Pero sin dudas, lo mejor es la atenci\u00f3n. Te hacen sentir como en tu casa. Imposible salir defraudado de este lugar. Muy recomendable!"
+    }
+  ]
+}

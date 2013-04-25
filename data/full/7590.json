@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Cari1984", 
+      "text": "Un desastre! fuimos para el dia de los enamorados, nos hicieron esperar una hora hasta que nos sentamos, hicimos el pedido de la comida yy una hora despues nos avisann que la comida que habiamos pedido no la tenian, una desorganizacion total!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "josefinacocinera", 
+      "text": "Es un restaurante correcto. La entra\u00f1a que pedi estaba muy buena, no tanto como el bife que pidio mi novio.  El servicio es esmerado y el ambiente agradable."
+    }, 
+    {
+      "date": "15 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "daconta50", 
+      "text": "Suelo ir con amigos y familia. Es un lugar agradable, con buena comida y precios razonables. Correcta ambientaci\u00f3n y buen servicio. Recomendable."
+    }, 
+    {
+      "date": "3 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "guille111", 
+      "text": "bueno para volver"
+    }
+  ]
+}

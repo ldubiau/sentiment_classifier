@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "18 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Martius", 
+      "text": "Riqu\u00edsimo! Adem\u00e1s, el ambiente es c\u00e1lido y muy agradable. La atenci\u00f3n es muy cuidada. Volver\u00e9!"
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "NicoyNaty", 
+      "text": "Los platos son abundantes y los precios muy acordes. Muy buena ambientacion y muy buen servicio.-"
+    }, 
+    {
+      "date": "2 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Pendorch", 
+      "text": "El lugar es muy comodo, tiene un buen ambiente, la musica acompa\u00f1a muy bien cada situacion. La atencion es barbara.. los chicos que atendienden tienen buena onda y son muy amables, y algo que llama la atencion es que los mismo due\u00f1oste hacen tu trago favorito.\r\nMuy lindo lugar, planta alta super comoda."
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "bichita", 
+      "text": "La comida rica y abundante, pero lleg\u00f3 a la mesa tibia, luego de una espera de mas de 50 minutos!!!. Demasiado tiempo para dos platos muy sencillos!!!!\r\nUn detalle imperdonable: sirvieron el champagne en copa de agua!!!!\r\nNo volveremos."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dieg", 
+      "text": "Buen lugar, con excelente clima."
+    }, 
+    {
+      "date": "20 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "natli", 
+      "text": "La iluminaci\u00f3n es lo que menos me gust\u00f3 del sitio, y el espacio para comer es escaso. La atenci\u00f3n es buena y tambi\u00e9n la comida, pero le falta mejorar en detalles."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vladilo", 
+      "text": "pase con el auto y nos impacto la gente tomando tragos en la puerta y nos dijimos que si habia esa cantidad de gente en la puerta sse deberia comer bien y no nos equivocamos.Una comida excelente y abundante en un clima de gran calidez amenizado por una musica suave y agradable,ideal para la cena.Me gusto mucho tambien la atencion del camarero que con un agradable acento centroamericano nos guio en la eleccion de los platos y el postre.Realmente muy recomendable.Mencion especial para los due\u00f1os que en todo momento mostraron gran amabilidad y nos invitaron el brindis (y brindaron con nosotros!)"
+    }, 
+    {
+      "date": "23 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tango2k", 
+      "text": "Realmente no hubiera entrado al lugar si no fuese por las cr\u00edticas de esta gu\u00eda, y no es porque sea feo (dado que no lo es), sino porque adentro no hab\u00eda nadie! Me cost\u00f3 asumir eso, pero acced\u00ed y no me arrepent\u00ed. La comida me pareci\u00f3 deliciosa (al igual que a los otros 3 invitados), el mozo c\u00e1lido y servicial, nos ofreci\u00f3 entrada y champagne gratis y la m\u00fasica estilo acid jazz ambientaban bien el lugar. Como contras, para mi gusto tomaron m\u00e1s tiempo del deseado en hacer la comida y la carta podr\u00eda ser m\u00e1s variada (habl\u00e9 con el due\u00f1o y me dijo que eso lo iban a modificar). Volveremos."
+    }, 
+    {
+      "date": "28 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "daniB", 
+      "text": "Excelente lugar. Mucha onda, comida buenisima y lo mejor: la atenci\u00f3n."
+    }, 
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "noee", 
+      "text": "La comida es excelente y los precios no son para nada caros, la atencion va acorde al lugar y la musica es muy buena. Volveremos."
+    }
+  ]
+}

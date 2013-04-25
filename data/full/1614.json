@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "20 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Adrian27", 
+      "text": "No es para cenar. A lo sumo se puede tomar una cerveza a la tarde. La picada de 10 ingredientes es muy mediocre,  no tiene ni jam\u00f3n, y viene con un solo tipo de queso insignificante, adem\u00e1s de man\u00edes, papas fritas de copet\u00edn, aceitunas, y otros snacks de bolsita indefinidos, mas un salame bastante malo, nada mas. No s\u00e9 c\u00f3mo ser\u00e1n los s\u00e1ndwiches, pero si buscan una buena picada este no es el lugar. Los vasos de cerveza no estaban fr\u00edos, lo que hizo que se calentara r\u00e1pido la bebida. Eso si,la cerveza artesanal que venden es muy buena y tienen tambien todas las marcas conocidas. Buenos Precios!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LuchoGS", 
+      "text": "Excelente la m\u00fasica y la atenci\u00f3n, todo impecable, un lugar para tener en cuenta."
+    }, 
+    {
+      "date": "2 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "letugris", 
+      "text": "Muy tranqui el ambiente, buena limpieza. Las pizzas muy ricas."
+    }, 
+    {
+      "date": "22 Feb 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dgaudini", 
+      "text": "Muy lindo lugar, buena musica y un ambiente muy cool. Muy buenas las tapas."
+    }
+  ]
+}

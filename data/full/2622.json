@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "17 May 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elarcangel", 
+      "text": "Restaurante con una carta peque\u00f1a pero excelente. \r\nDan ganas de probar todo. \r\nRecomiendo para todos los que vayan la tabla de chocolates. \r\nEs imperdible, lo mejor que prob\u00e9 en mi vida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Superbeamer", 
+      "text": "Una amiga alemana me recomend\u00f3. Qued\u00e9 encantad\u00edsimo! El chef de cocina alemana moderna es un genio! El precio de la comida m\u00e1s que razonable. El ambiente entre fashion y under. Y la m\u00fasica de un gusto tremendamente refinida! Hay que ir!"
+    }, 
+    {
+      "date": "16 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "andyperla", 
+      "text": "Fui con mi pareja, me parecio genial, el lugar simple minimalista, la comida exquisita, sabores especiales un deleite realmente. Cada plato es una experiencia especial, el mousse de chocolate con pimienta es extra\u00f1amente riquisimo. La camarera una mexicana con un encanto especial. RECOMENDABLE"
+    }, 
+    {
+      "date": "2 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ale_star", 
+      "text": "Excelente chef. La carta la cambian mensualmente. La calidad de los productos es excelente, el lugar es s\u00faper tranquilo y sin ruidos. La atenci\u00f3n es buena, lo recomiendo, vayan."
+    }, 
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aonikenk", 
+      "text": "Un lugar muy confortable, muy buena la carta, la variedad de sabores y texturas. Recomiendo el plato de variedad de chocolates, una exquisit\u00e9s.\r\nEl ambiente es muy tranquilo, le faltar\u00eda un toquecito m\u00e1s de intimidad."
+    }, 
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eljuanito", 
+      "text": "Simplemente lo mejor. El cheff es de lo m\u00e1s creativo y dedicado que conozco."
+    }, 
+    {
+      "date": "28 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rojoamor", 
+      "text": "Excelente cheff. Buen lugar, buena atenci\u00f3n y buen precio; siempre voy y nunca me decepcionaron."
+    }
+  ]
+}

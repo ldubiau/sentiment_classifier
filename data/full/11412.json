@@ -1,0 +1,598 @@
+{
+  "malos": [
+    {
+      "date": "19 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Alexis1978", 
+      "text": "Los precios no concuerdan con la calidad, no volver\u00e9 a ir, hay cientos de lugares con muchisima mejor comida y precios mas acordes al servicio."
+    }, 
+    {
+      "date": "13 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "quimos", 
+      "text": "Lugar muy agradable y servicio muy bueno. Lo probaremos de vuelta porque no tuvimos buen resultado con lo que pedimos. El ojo de bife ($71) resulto con excesiva grasa y las mollejas de corazon (72) tambien resultados con mucha grasa y a pesar de que se pidieron  bien cocidas  y se mando de vuelta para asar mas, no resultaron crocantes como mencionaba el menu. Vinos desde $52, servicio de mesa $13, ensaladas 25 y papas fritas 27. Un poco caro, pero con un decxuento Oleo fue mas pasable."
+    }, 
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Guada1287", 
+      "text": "Para empezar, 45' de demora para tomarnos el pedido. Nos trajeron \"asado especial\" de $125 en vez de asado normal. Papas fritas tipo McCain. Verduras asadas en una porci\u00f3n escasa, crudas y muy cara. A favor: estacionamiento sin cargo y el \"ma\u00eetre\" que se ocup\u00f3 de preguntar qu\u00e9 tal todo y nos hizo un descuento por el error del pedido. Una parrilla normalita que cobra como si fuera premium."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "HugoMachado", 
+      "text": "Correcto, es el mejor termino que explica la calidad del servicio, la ambientaci\u00f3n y la comida. Todo muy prolijo, mozos atentos en todo momento; la comida sali\u00f3 en un tiempo muy razonable, y todo teniendo en cuenta que eramos un grupo de 14 personas entre los que hab\u00eda varios chicos. Muy bueno el servicio de valet parking en una zona complicada per se para estacionar. Altamente recomendado no defrauda."
+    }, 
+    {
+      "date": "31 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "laudiez", 
+      "text": "El servicio fue excepcional! Tienen una muy buena cultura de servicio, super atentos, detallistas.\r\nLa comida sin embargo no es mi estilo, es muy cl\u00e1sica. Se nota que su fuerte son solamente las carnes. \u00c9stas estaban riqu\u00edsimas!! Pero la parte de cocina (me base en las guarniciones) estaban hechas con lo m\u00ednimo necesario; no las comimos siquiera. Los postres tampoco estaban bien logrados. Lo recomiendo por su servicio y sus carnes, pero no por algo m\u00e1s. Para ir cuando hay ganas de un bife."
+    }, 
+    {
+      "date": "31 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "madame", 
+      "text": "excelente servicio. Me gusta que pregunten si la carne vino en el punto que uno pidio. Para un carnivoro de ley el punto de la carne es tan importante como sus otras condiciones -terneza, sabor, etc.\r\nFuimos con mi hijo el viernes a la noche, usando una invitacion que recibimos. \r\nDesde que entramos me gusto. Mesas amplias, con una separacion adecuada. \r\nCoincido con los comentarios anteriores.  Todo muy rico."
+    }, 
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leioleo", 
+      "text": "La atenci\u00f3n es muy esmerada, desde el valet parking hasta el maitre y el mozo, demuestran un gran esfuerzo por agradar. La comida estuvo muy bien, en el punto pedido. Recomendable."
+    }, 
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cerminar", 
+      "text": "Muy buen lugar. Exelente atencion, valet parking, un maitre fantastico y los mozos muy buenos. Con muy buena onda y respondiendo a todas las solicitudes.  La comida excelente, muy buenas carnes respetando los puntos pedidos, muy recomendable al empanada de carne. Palabra aparte para los postrres, la lagrima de chocolate fantastica y el volcan con el punto justo! Para volver!"
+    }, 
+    {
+      "date": "24 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "La Forastera", 
+      "text": "La ambientaci\u00f3n es pretenciosa, la atenci\u00f3n forzadamente amable, la comida de razonable calidad. La relaci\u00f3n calidad precio lo hace caro. Un men\u00fa de mediod\u00eda con 13 pesos de cubierto no es un men\u00fa, como se entiende hoy, precios razonablemente m\u00f3dicos. El mozo no entend\u00eda de vinos. La organizaci\u00f3n de las mesas es tumultuosa para una caba\u00f1a q se vende que un espacio glam. No volver\u00e9 y no lo recomiendo."
+    }, 
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "RGBLS", 
+      "text": "Fuimos un s\u00e1bado al mediod\u00eda, 3 personas y compartimos 1 ensalada para armar, papas rusticas, una brochete de pollo y una entra\u00f1a S\u00e1nchez (muy buena), tomamos agua, sin postre y gastamos $300.-. Me parece que pude ser mas razonable los d\u00edas con descuentos."
+    }, 
+    {
+      "date": "17 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "fui a una degustaci\u00f3n de vinos y despu\u00e9s hab\u00eda una promo para quedarse a comer con descuento. fue la oportunidad ideal para conocer el lugar, con muy buenos resultados: la empanada de entrada estaba riqu\u00edsima y la calidad de carne, excelente, dado que la especialidad es la parrillla;  un detalle imperdible: el pan de campo caserito con queso untable, mientras esper\u00e1s, casi un plato m\u00e1s. muy recomendable"
+    }, 
+    {
+      "date": "15 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fededala", 
+      "text": "pedimos delivery y la verdad que muy buena la comida, la presentacion tambien muy correcta. Todo fue entregado en una linda bolsa y hasta traia papel aluminio como detalle para que no se enfrie la carne.\r\nNota aparte para el pan de campo, muy rico.\r\nLo unico para criticar es que la porcion de papas fritas es un tanto escasa, pero estaban muy ricas tambien"
+    }, 
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "danila_t", 
+      "text": "Excelente atenci\u00f3n y ambiente agradable. Muy buena la carne (pedimos ojo de bife). Lo \u00fanico flojo fue la entrada (mozzarella apanada con coluis de tomate)."
+    }, 
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "S.B.2009", 
+      "text": "lugar comodo, mesas separadas y excelente atenci\u00f3n: desde el parking y la recepcionista hasta el mozo muy esmerados y atentos. pedimos matambre relleno y a la pizza, matambre de cerdo, con papas, empanadas de carne, volcan de chocolate, mousse de ddleche, marquisse y panqueque, todo rico y en el punto pedido, lo cual para una parrilla es muy bueno. volveremos a probar m\u00e1s cosas! precio-calidad normal, ni caro ni barato, ciento sesenta por persona con gaseosas."
+    }, 
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "barrotalvez", 
+      "text": ". Llegamos sin reserva y nos ubicaron r\u00e1pida y amablemente. Pedimos un vino que figuraba en carta pero no ten\u00edan. El 1er plato pedimos mollejas bien cocidas y vinieron blancas y fr\u00edas. Cuando las regresaron se encontraban en su punto,  luego de este incidente el encargado se acerco reiteradas veces para ver como marchaba todo. Ojo de bife perfecto y pechito muy bueno. Parking 10 puntos!!!"
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gus013", 
+      "text": "Muy buen lugar, buena ambientacion y  servicio. La presentacion de los platos y su preparacion es muy buena. La carne en su punto justo y todo a tiempo. Las empanadas y el ojo de bife de lo mejor."
+    }, 
+    {
+      "date": "19 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pach", 
+      "text": "Es una parrilla muy linda con algunas otras opciones de comida, como ser pastas, aunque ninguna de las personas que fuimos las probaron. Puedo afirmar que la calidad de la carne es muy buena y que las porciones son abundantes. El \u00fanico problema es que es car\u00edsimo, por suerte ten\u00edamos descuento."
+    }, 
+    {
+      "date": "11 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bulich", 
+      "text": "Fui con un amigo argentino que vive en el extranjero. La reserva estaba hecha, nos dieron una linda mesa. Comimos de entrada una media porci\u00f3n de molleja que estaba bastante grasosa. Luego un ojo de bife y un bife de chorizo que estuvieron excelentes. Comimos postre los dos, un flan con dulce de leche y un parfait de maracuy\u00e1, ambos muy buenos. Acompa\u00f1amos con una ensalada mixta y dos aguas. Us\u00e9 el cup\u00f3n de descuento de 30% de la gu\u00eda \u00f3leo, sin el cual el precio me hubiera parecido excesivo (a\u00fan as\u00ed no es barato)."
+    }, 
+    {
+      "date": "11 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nando Varela", 
+      "text": "Todos los miercoles del a\u00f1o salimos a cenar cuatro amigos de la infancia (somos todos de mas de 50); (pero todav\u00eda en buen uso) y esta ves le toc\u00f3 a Caba\u00f1a Villegas, en Belgrano.\r\nY la verdad que desde los chicos del valet parquing al mozo Juan Manuel que nos atendi\u00f3 con profesionalismo y simpat\u00eda hasta las entradas , los vinos (sugeridos por Juan Manuel), las carnes y los postres, todo nos result\u00f3 absolutamente de exelencia.\r\nMuy buena la ubicaci\u00f3n del local y tambien la atenci\u00f3n del encargado.\r\nEn fin , vamos a continuar llendo asistiendo miercoles mas , por supuesto con el cup\u00f3n de Guia Oleo ."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "romemarcosca", 
+      "text": "Y bueno que puedo decir la calidad de la carne parece buena, pero no vino con el punto de cocci\u00f3n que pedimos, atenci\u00f3n correcta y el lugar esta bien cuidado. Quiz\u00e1s los valores son un poco elevados, no me termino de convencer la relaci\u00f3n precio calidad. Ah!... Por cierto la carta de vinos muy buena."
+    }, 
+    {
+      "date": "3 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "daniga", 
+      "text": "Excelente la comida, la antenci\u00f3n (especialmente la de Juan Manue) y buenos precios"
+    }, 
+    {
+      "date": "31 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ppjm", 
+      "text": "Fuimos por la puntuacion que figura en guia oleo que lo mostraba como un lugar casi perfecto. La comida si bien no es mala no puede calificarse de 29/30 que la har\u00eda inolvidable. El servicio no es ni por lejos de 30/30 con una camarera que olvidaba las cosas, derramaba el vino y hubiera estado adecuada para una pizzer\u00eda. El ambiente es aceptable pero bastante ruidoso y dificilmente compatible con 28/30. Adem\u00e1s otra desinformaci\u00f3n es el precio que est\u00e1 anunciado en 116 por persona en cenas  cuando gastamos 420 para dos personas. No vuelvo m\u00e1s."
+    }, 
+    {
+      "date": "28 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "charlyxi", 
+      "text": "Excelente parrila, buen ambiente, y atenci\u00f3n. Lo mejor es la cava con muy buenos vinos.\r\nLa carne es excelente y muy bien hecha. precio alto."
+    }, 
+    {
+      "date": "18 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pyramide", 
+      "text": "Los mozos Juan Manuel y mauricio son geniales! La carne es excelente!! Se los recomiendo!!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cmmsp", 
+      "text": "Excelente...!!!!Desde la entrada hasta el postre, pasando por su atenci\u00f3n y ambientaci\u00f3n. Las empanadas de carne fritas, buen\u00edsimas. Las carnes en su justo punto y super tiernas, muy recomendable de postre la l\u00e1grima de mousse de dulce de leche. La atenci\u00f3n esmerada. Para volver."
+    }, 
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gatidul", 
+      "text": "Mi experiencia es desde la inauguraci\u00f3n, a la cual concurr\u00ed, este restaurante es de otro planeta, la atenci\u00f3n de los mozos, la comida, el ambiente, el sal\u00f3n con mesas separadas para estar c\u00f3modos y poder conversar  con toda tranquilidad, realmente es excelente por donde lo busque, yo conozco los dos  Puerto Madero  y la calidad y calidez es igual en los dos"
+    }, 
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Andie", 
+      "text": "Fuimos (nosotros tambi\u00e9n) con una invitaci\u00f3n de GO, pensando que ser\u00eda una degustaci\u00f3n pero fue un banquete! Deliciosas empanadas, espectacular bife de chorizo y picanha con el punto pedido y postres hiper culposos, de esos que HAY que comer, el volcan con helado y la l\u00e1grima de dulce de leche, con vino Trapiche. Atenci\u00f3n excelente sin ser cargosa, super amable H\u00e9ctor. Volveremos con toda la familia!"
+    }, 
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sergiogr78", 
+      "text": "Conocimos el lugar anoche a trav\u00e9s de una invitaci\u00f3n de Guia Oleo, y probamos el men\u00fa degustaci\u00f3n. Tanto la atenci\u00f3n desde la entrada al restaurant, como durante la cena hasta que nos retiramos, fue excelente, al igual que la calidad de la comida. Muy buenas las carnes y los postres (recomiendo la l\u00e1grima de dulce de leche). Un lugar que vale la pena."
+    }, 
+    {
+      "date": "23 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pulpo", 
+      "text": "Hemos pasado con mi esposa una noche inolvidable.EXCELENTE es un t\u00e9rmino que se queda corto en cuanto a la calidad del servicio, de la atenci\u00f3n y de la comida. El ambiente insuperable. Para recomendar con entusiasmo."
+    }, 
+    {
+      "date": "16 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Excelente parrilla en Belgrano,  que ofrece productos frescos, buena calidad de carnes y riqu\u00edsimas empanadas.  Los postres exquisitos; imperdible volc\u00e1n de chocolate y la l\u00e1grima,( un postre relleno de mousse de dulce de leche) s\u00faper tentador. La recepci\u00f3n de H\u00e9ctor y la atenci\u00f3n de Leo, nos hicieron sentir como en un encuentro con amigos de toda la vida.  Bienvenida con espumante y lemoncello de despedida, completaron esta cena. Chapeau!"
+    }, 
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "INCREIBLEHULK", 
+      "text": "Fuimos mi pareja y yo invitados por guia oleo a la degustacion y la verdad que fue una noche espectacular..el lugar es excelente, la comida de primera, eso incluye entrada, plato principal y postre, todo acompa\u00f1ado por un vino trapiche varietal cabernet savi\u00f1on ...y el maitre Hector que se esmero al maximo y nos atendio como si fueramos los mejores clientes ! lugar muy muy recomendable..precios acorde a todo lo anterior...ok"
+    }, 
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Una parrilla muy bien ubicada con pretensiones de diferenciarse de muchas y lo logra con \u00e9xito. Fui invitado para una degustaci\u00f3n y qued\u00e9 realmente conforme con todo.\r\nDe entrada, como aperitivo, brindan un daiquiri de durazno. Luego como entrada ped\u00ed un chorizo y una morcilla, y mi se\u00f1ora una empanada de carne con un sabor exquisito. Como plato principal un bife de chorizo de 400 gramos que lleg\u00f3 con el punto de cocci\u00f3n pedido y mi se\u00f1ora unos sorrentinos bastante buenos para una elecci\u00f3n a alguien que no le guste la carne.\r\nLa atenci\u00f3n del mozo V\u00edctor y del encargado H\u00e9ctor es de diez puntos."
+    }, 
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anamay", 
+      "text": "Incre\u00edble la atenci\u00f3n. Desde el encargado hasta los mozos una calidez y simpat\u00eda absoluta. Las empanadas de carne son de otro mundo. La carne muy buena y los postres son INCRE\u00cdBLES! Generalmente los postres son el punto flojo de los restaurants y ac\u00e1 son de una calidad y presentaci\u00f3n absoluta. Recomiendo altamente la L\u00e1grima de Chocolate. Todo el personal a disposici\u00f3n para que uno pase una noche estupenda. Atentos a cualquier necesidad y sin ser cargosos. Ojo, mejor reservar. A las 21 ya estaba lleno medio restaurant y eso que es grande! Valet parking, imprescindible para la zona. Volveremos!"
+    }, 
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sofi2", 
+      "text": "Muy recomendable este restaurant,la carne es de excelente!!!! la atencion es de 10!!!!! todos los mozos te saludan, son muy simpaticos!!!!"
+    }, 
+    {
+      "date": "13 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DaisyBsAs", 
+      "text": "Muy buena propuesta para comer parilla. Esmerada atenci\u00f3n tanto por parte del maitre como del mozo que nos atendi\u00f3. Muy buenas las mollejas crocantes y el ri\u00f1on. El ojo de bife y el matambre a la pizza estuvieron muy buenos. Los postres no son nada fuera de lo com\u00fan pero son muy buenos! Muy buen servicio de valet parking (a tener en cuenta en una zona donde resulta IMPOSIBLE estacionar). Vuelvo seguro!"
+    }, 
+    {
+      "date": "11 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CALU_sinatra", 
+      "text": "fui el lunes, eramos 2 y cenamos lomo con papas y bife al malbec,vino malbec(y agua sin gas) y postre...todo delicioso!gastamos poco m\u00e1s de $200 con el descuento de la pagina...todo en el lugar suma: la ambientacion, valet parking, ba\u00f1os limpios, atencion excelente desde el mozo hasta el cajero...lugar para volver y probar otros platos!"
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "josepino", 
+      "text": "Ya conociamos a Caba\u00f1a Villegas de Pto. Madero. Creo que esta sucursal supera la original. Atencion super dedicada, trago de bienvenida, pan casero, queso con hierbas y salsa criolla para picar.\r\nYa fuimos tres veces, aconsejo los bifecitos de pica\u00f1a, tiernos y gustosos. Tambien el bife de chorizo y el ojo de bife estaban en su punto justo y tiernos. Las mollejas crocantes por fuera y tiernas por dentro. La carta de vinoscompleta, justifica cenar con espumante que cuesta como un buen vino promedio. Valet parking, saludos de bienvenida y despedida. Todo cuidado. Para comer buena parrilla vuelvo!"
+    }, 
+    {
+      "date": "30 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rul0", 
+      "text": "El lugar muy bueno, muy tranquilo y la parrilla excelente!!!\r\nLas papas r\u00fasticas estaban muy secas, pero fuera de eso, todos los platos riqu\u00edsimos: bondiola, entra\u00f1a, matambrito (grasoso).\r\nEl volc\u00e1n de chocolate, bueno como pocos.\r\nLas empanadas de carne de entrada muy recomendables.\r\nEl descuento de 30% de gu\u00eda \u00f3leo es un golazo!"
+    }, 
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lola-B", 
+      "text": "Fuimos por primera vez a cenar el s\u00e1bado por la noche. Realmente el lugar super\u00f3 nuestras expectativas.  La atenci\u00f3n fue excelente (nos atendi\u00f3 Luis, siempre pendiente de lo que necesit\u00e1ramos), el lugar muy c\u00e1lido y bien decorado. La comida tambi\u00e9n estuvo excelente, tanto las entradas como el asado (la carne es de primera)y los postres (volc\u00e1n de chocolate y l\u00e1grima de dulce de leche). Como tienen descorche pudimos llevar nuestro propio vino. Volveremos, sin dudas."
+    }, 
+    {
+      "date": "21 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "NoeVek", 
+      "text": "Excelente! fuimos con el 30% de guia oleo y pagamos $125 cada uno, con vino y postre. Muy linda la decoracion, impecable la atencion y la carne una delicia. Muy buena la musica tambien, relajada, crea un ambiente ideal. Muy recomendable, no tengo ni una sola queja. Volveremos!"
+    }, 
+    {
+      "date": "18 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eldecolonia", 
+      "text": "Soy cliente del local de Pto Madero y tenia pendiente conocer el nuevo en Belgrano, una vez mas me sorprendieron gratamente al ver un lugar muy comodo y calido a lo que se sumo la excelete atencion brindad por su equipo de profesionales y unos cortes de carne de primera como siempre. una gran opcion para visitar cuando uno me quiero ir hasta Madero, gracias!"
+    }, 
+    {
+      "date": "2 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rodolfo1982", 
+      "text": "Fu\u00ed con mi flia para festejar mi cumple y la pasamos barbaro. La comida muy buena y la atencion tb. Ya fui dos veces y voy a seguir yendo... Gracias a Facundo, siempre tan amable."
+    }, 
+    {
+      "date": "1 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "delfitucu", 
+      "text": "Excelente lugar. Incre\u00edble la comida y la atenci\u00f3n. Lo recomiendo totalmente. Es una opci\u00f3n para comer un buen asado donde la carne es riqu\u00edsima en un ambiente super relajado y a la vez familiar. Felicito la atenci\u00f3n de los mozos Facundo y Mauricio."
+    }, 
+    {
+      "date": "26 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ladi", 
+      "text": "Siendo la cuarta vez que visitamos este restaurante, la excelente impresion de la primera vez  se mantuvo intacta. Hemos probado diferentes cortes mereciendo el Ojo de Bife una mencion especial\r\nTodo esta organizado para que pases un muy buen momento , y\r\nde ello se encarga Juan Manuel y sus sugerencias  acertadas\r\nvale la pena conocer Villegas"
+    }, 
+    {
+      "date": "25 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marioalter", 
+      "text": "Gracias a  Oleo conocimos Caba\u00f1a Villegas, lindo lugar, bien atendido se ve el profesionalismo, desde el ingreso, pasando por la atenci\u00f3n del mozo(Facundo)pendiente de la mesa y recomendando platos para compartir(por lo abundante), la comida a punto y muy bien servida(sobre todo las carnes), buena carta de vinos algunos con muy buena oferta, el postreeeeeee una lagrima de no se que con chocolate y crema para rematar.Los precios es lo que faltaba, como est\u00e1bamos de festejo nadie se fijo en ellos pero como yo pagaba los vi al final???..y estaban muy acomodados por lo que consumimos"
+    }, 
+    {
+      "date": "24 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ExiFa", 
+      "text": "muy buenas carnes y postres, Juan Manuel mozo con mucho oficio a pesar de ser joven, te sugiere siempre lo mejor; el ambiente muy agradable tambien. Los precios solo son razonables si se paga con el descuento de la Gu\u00eca Oleo."
+    }, 
+    {
+      "date": "12 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariano01", 
+      "text": "A ver a ver... Fuimos dos pedimos el ojo de bife y el bife de chorizo. Si les gusta jugoso como a mi, comi el mejor ojo de bife de mi vida, sin lugar a dudas, era algo asi como un alfajor de carne, \u00a1Pero m\u00e1s tierno! El bife de chorizo era tierno, pero com\u00ed mejores. La carta de vino es muy buena, tiene muchas opciones. El postre compartimos un volcan estaba muy bueno tambi\u00e9n. Nos atendieron muy bien, primer nivel. Lo \u00fanico es un poco caro, con descuento  y todo abremos pagado $160 cada uno. Quiero volver a probar el asado de 1 kg. 100% recomendable."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Yakis", 
+      "text": "Para destacar la atencion de los mozos. Comimos de entrada carpaccio y una bruscheta con mollejas y de ppal tira de asado con ensalada. Las entradas superaron al plato ppal ampliam. Con el desc de guia oleo es super recomendable"
+    }, 
+    {
+      "date": "2 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fdstrn", 
+      "text": "Excelente! fuimos el lunes feriado con mi familia tras haber le\u00eddo las altas puntuaciones que hab\u00eda recibido en la gu\u00eda oleo y comprobamos que son correctas. Obtuvimos una muy buena atenci\u00f3n tanto de nuestro mozo Juan Manuel como todos los mozos. Los chicos del valet parking son muy serviciales. Comida abundante y de primera calidad, todo en su punto justo, buen ambiente, silencioso. Definitivamente volveremos. Ojala mantengan el nivel!"
+    }, 
+    {
+      "date": "28 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gatidul", 
+      "text": "Fui el 28-03-12, no lo conoc\u00eda me qued\u00e9 asombrada por la c\u00e1lida recepci\u00f3n, el lugar super lindo invirtieron, la carne algo espectacular, la cocina muy buena, el mozo que nos toc\u00f3 Alejandro algo de otro mundo conocedor del metier, supo recomendarnos a la perfecci\u00f3n, amable,atento   a  que no faltase nada, el ambiente muy bueno lo pasamos de maravillas todo para rerecomendar."
+    }, 
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Bonza", 
+      "text": "Fuimos el sabado pasado a la noche con mi mujer basandonos en las muy buenas criticas de la guia oleo, y pudimos comprobar que era todo cierto. Excelente la atencion del mozo Juan Manuel asi como el resto del personal, todo el tiempo muy sol\u00edcito. Gran ambientacion y exquisista y abundante la comida. Con copa de bienvenida y estacionamiento propio. Volveremos esperando que mantengan el nivel de excelencia."
+    }, 
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vivid", 
+      "text": "El ojo de bife muy bien hecho y la provoleta excelente. El pan es una tentaci\u00f3n. La atenci\u00f3n es amable y el ambiente es agradable."
+    }, 
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Raulius", 
+      "text": "Fuimos cuatro personas. Comimos mollejas y bifes, que estaban muy bien cocidos, al punto justo. Tienen buena carta de vinos.\r\nAfortunadamente, ten\u00edamos el cup\u00f3n de promoci\u00f3n de Gu\u00eda Oleo, de 30 %. De otra manera, resultar\u00eda un poco caro.  Pero es recomendable."
+    }, 
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Liaprotto", 
+      "text": "Buenisimo!!!! nos encant\u00f3!, tanto la comida como la atenci\u00f3n del los mozos!, vamos a volver seguido!"
+    }, 
+    {
+      "date": "12 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "YoManuMartin", 
+      "text": "Siempre fuimos clientes de Puerto Madero, y ahora que est\u00e1 cerca de casa y de la oficina estamos encantados.\r\nAltamente recomendado!"
+    }, 
+    {
+      "date": "12 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "josefinaespe", 
+      "text": "Inmejorable, todo excelente!"
+    }, 
+    {
+      "date": "11 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariarivaldioto", 
+      "text": "Fuimos con Mi marido por la noche. EL lugar est\u00e1 impecable, muy espacioso y bien iluminado. Adem\u00e1s cuenta con estacionamiento.\r\nNos recibieron muy atentos, con copa de bienvenid.\r\nPedimos unas mollejas para empezar, y luego mi marido comi\u00f3 Pica\u00f1a y yo un Ojo de Bife, simplemente estupendo, tanto el punto de cocci\u00f3n solicitado como el corte de la carne, el mozo que nos atendi\u00f3, Juan Manuel, estuvo atento a la mesa toda la noche, nos sugiri\u00f3 con amplio conocimiento, y siempre con mucha simpat\u00eda. Lo recomiendo ya que vamos a volver seguido!!!"
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "morena3", 
+      "text": "Somos vecinos y estamos felices de que Villegas haya llegado a nuestro barrio. Fuimos varias veces al local de Madero y nos encant\u00e1!. Aqui conservan la calidad y la excelente atenci\u00f3n. El local es hermoso. Felicitaciones, nos veremos seguido!"
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Vito55", 
+      "text": "Mantiene la excelente calidad de materia prima que en madero, el lugar amplio y luminoso. Excelente la atencion del maitre Hector. Volvere ya que me queda mas cerca !"
+    }
+  ]
+}

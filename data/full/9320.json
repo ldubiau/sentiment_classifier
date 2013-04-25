@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sebalfano", 
+      "text": "No se come bien. Es barato pero todo es  de calidad media a baja. El ambiente es bueno y la atenci\u00f3n regular"
+    }, 
+    {
+      "date": "2 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "cronopiofurioso", 
+      "text": "Fui varias veces y la verdad es una loteria... a veces las mozas pasan a cada rato y con buena carne y variedad, otras veces no hay buena comida, de postre ped\u00ed flan y le faltaba frio, un flan tibio no se puede disfrutar... es cuestion de suerte..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Dani_ares", 
+      "text": "Parrilla libre. la calidad de la carne es buena, achuras no nos ofrecieron. gastamos 95 por persona a la noche. el ambiente es ruidoso, es para ir con amigos o familia"
+    }, 
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "apfernandez", 
+      "text": "Fui una vez. Es parrilla libre. La comida me pareci\u00f3 buena, la carne tierna, las achuras, solo chinchulin nos dieron, fue bueno. chorizo y morcilla aceptable. Como lechon nos dieron una carne muy fina que parecia cerdo.La comida la traen toda a la vez, con poco margen para comer tranquilo. La atenci\u00f3n fue buena. El ambiente es mas bien familiar y para comer con amigos. Muy ruidoso."
+    }, 
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Una parrilla popular en la zona, las mozas pasan ofreciendo distintos cortes de carne, achuras, provoleta, no siempre en forma ordenada, mesas muy juntas, pero hacen lo posible para que uno salga satisfecho."
+    }, 
+    {
+      "date": "11 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "silgra", 
+      "text": "Un lugar calido y familiar! Si bien no es muy amplio, uno se siente confortable. Constantemente pasan ofreciendo achuras, carne, pollo, etc. La atenci\u00f3n de las mozas es con mucha amabilidad. Haylugar para que los mas chiquitos se diviertan. Me gusto y ya fui varias veces con amigos y familia."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Elenita87", 
+      "text": "El servicio consta de parrilla libre. Las camareras recorren las mesas ofreciendo  diferentes insumos tales como, asado, vacio, anchuras, matambre a la pizza, etc. S\u00f3lo las guarniciones como papas fritas y ensaladas se piden aparte, aunque tambi\u00e9n son de consumo libre. La bebida es una por persona.\r\nEs un ambiente familiar y muy concurrido, especialmente los fines de semana. La atenci\u00f3n de las camareras es muy buena as\u00ed como tambi\u00e9n la calidad del insumo.  Mi experiencia fue satisfactoria  en todas las ocasiones. A pesar de ello, considero un solo aspecto negativo, que es la frecuencia con la cual las camareras traen la comida, es decir, el servicio no es pausado, y  esto en muchas ocasiones suele apresurar al comensal."
+    }
+  ]
+}

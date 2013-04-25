@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "claudiaghio", 
+      "text": "Pedimos parrillada, las carnes fuera de punto. Solo las ensaladas valieron la pena. De postre, panqueque de manzana bueno."
+    }, 
+    {
+      "date": "3 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Criss74", 
+      "text": "Es un restaurante t\u00edpico de la zona, buena opci\u00f3n al salir de teatro. Los mozos son profesionales. La parrilla es buena, pedimos un ojo de bife y estuvo bien, en su punto y jugoso. La bondiola bastante normal, nada para destacar. La carta de postres algo limitada. La panera es mala. El lugar es agradable. Lo considero una opci\u00f3n m\u00e1s dela zona, pero prefiero otros en su lugar."
+    }, 
+    {
+      "date": "12 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jdweb", 
+      "text": "buena comida, buena atencion, no es un lugar gourmet, pero se come bien al viejo estilo de los restaurantes argentinos. La carta de vinos era mas cara que la que se puede encontrar en restaurantes gourmet de palermo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mmcg13", 
+      "text": "Fuimos invitados mi esposo y yo. Hoy lunes, que es el d\u00eca siguiente al que concurrimos a la cena show, ya lo hemos recomendado. Felicitamos tambi\u00e9n a la cantante, a los m\u00fasicos y a los bailarines. Excelentes."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Solo para delivery. Buen suchi, ricos woks."
+    }, 
+    {
+      "date": "3 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nickolete", 
+      "text": "Los productos son frescos. Precio calidad aceptado. Unico punto critico es que las piezas tiene demasiada cantidad de arroz, lo que los hace complicados de comer, y a su vez uno se satisface rapidamente. Entrega en tiempo y forma. Buena opcion para delivery. Por 150 pesos comen 3 personas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Mapacita", 
+      "text": "Muy buena la atenci\u00f3n, las piezas de sushi son grandes. Pedimos ceviche mixto y nos encanto! Muy sabroso todo. El lugar les queda chico. Excelente relaci\u00f3n precio/calidad! Volveremos!"
+    }, 
+    {
+      "date": "26 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vandrea", 
+      "text": "Ingredientes frescos, las piezas grandes muy bien elaboradas, la presentaci\u00f3n excelente dejaba ver el esmero del chef, \u00e9l Personalmente nos sugiri\u00f3 el men\u00fa y lo arm\u00f3 a nuestro gusto. El lugar es chico, super recomendado para llevar la comida o pedir delivery, sin embargo volveremos a visitarlos porque la atenci\u00f3n fue buen\u00edsima."
+    }
+  ]
+}

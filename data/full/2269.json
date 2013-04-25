@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "11 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Lugar para ir a comer algo de paso ya que las porciones son abundantes, o para aprovechar e ir a tomar un caf\u00e9 con vista al Parque Centenario comiendo una rica porci\u00f3n de torta."
+    }, 
+    {
+      "date": "2 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "XABIERKUKKA", 
+      "text": "Raciones y platos abundantes y poco m\u00e1s. Las sugerencias y la realidad del plato son mundos diferentes, aunque todo en tama\u00f1o grande. Bien situado para toma un caf\u00e9."
+    }, 
+    {
+      "date": "12 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Buena comida. Lugar para comer si estas en la zona, no para visitalo esperando alguna novedad. La carta basica, el servicio atento, casi no tiene ambientacion y no hay nada muy destacable. Lugar normal que responde a la media."
+    }, 
+    {
+      "date": "10 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "aleburin", 
+      "text": "Fui con compa\u00f1eros del trabajo y me pareci\u00f3 una buena opci\u00f3n para almorzar. La carta tiene platos diferentes... se podr\u00eda decir que son minutas pretenciosas, con platos internacionales y la comida termin\u00f3 siendo muy rica. Lo recomiendo para un almuerzo, no se si da para ir de noche por el ambiente."
+    }, 
+    {
+      "date": "25 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nicodos", 
+      "text": "Muy lindo lugar para tomar un buen caf\u00e9. Y por los platos que se ve\u00edan servir en las otras mesas es para ir a probar."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "comelotodo", 
+      "text": "Concurrimos asiduamente con mi marido, nos gustan mucho los cortes de carne que tienen, las pizzas, y los licuados de frutas, son excelentes y a un precio mas que razonable. La atencion es muy calida y para nada cargosa."
+    }, 
+    {
+      "date": "5 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rominaG", 
+      "text": "La atenci\u00f3n en el lugar no es muy buena, pero siempre llamo al delivery. La comida es muy rica y depende lo que se pida es abundante."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maryflower", 
+      "text": "esta bueno para ir a tomar algo...la torta mousse de chocolate es muyyy rica! ademas hermosa vista al parque!"
+    }
+  ]
+}

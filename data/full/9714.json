@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Facu73", 
+      "text": "Excelente delivery. Buenos precios y platos para compartir."
+    }, 
+    {
+      "date": "20 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "mozoteodio", 
+      "text": "La peor atencion que vi en una parrilla en mi vida, un mozo que parece no entender castellano, tenes que hacer esfuerzo para que te atiendan y si lo conseguis parece que el mozo te estuviera haciendo un favor al atenderte....desastre, para colmo el precio tampoco es barato"
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "chezz", 
+      "text": "La comida como siempre excelente y porciones generosas, comimos mollejas de entrada + porcion de asado con papas fritas para dos personas y la verdad podr\u00edamos haber comido 4! Lo \u00fanico malo es el ambiente, que es chico adentro y la higiene deja que desear, am\u00e9n que los mozos te chocan todo el tiempo al pasar entre las mesas. Y la atenci\u00f3n es p\u00e9sima. Hay un mozo que se esmera un poco pero hacer que se detengan 2 segundos en tu mesa para escuchar tu pedidos luego de tomar la orden es imposible! Y muy de mala gana te cambian algo, Con la buena comida no alcanza, yo no vuelvo."
+    }, 
+    {
+      "date": "20 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ramires", 
+      "text": "Parrilla de barrio, como EL Bagual pero m\u00e0s escondida y alejada del ruido. Mesas en la vereda ideales ideales para almorzar un domingo (se llena!). Todo como debe ser: Mozos con oficios, porciones grandes, carta de vinos tradicional (con el Crotta de la casa en jarrita de metal) ... Relaci\u00f2n precio/calidad insuperables, y el ambiente en las mesas de afuera tambien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Pato_regia", 
+      "text": "Es una parrlla de barrio muy recomendable por la excelente calidad de su carne- la entra\u00f1a es mortal-\r\nSi bien no es fashion, en las mesas de afuera se est\u00e1 muy c\u00f3modo, ideal para ir en verano, comer como reyes y pagar muy poco. La relaci\u00f3n precio/calidad es insuperable."
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "10 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "llsun", 
+      "text": "La comida sirve para matar el hambre pero no es gran cosa. La porci\u00f3n es justa, ni m\u00e1s ni menos. El servicio es un tanto lento."
+    }, 
+    {
+      "date": "27 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "dieguis", 
+      "text": "Desde que nos sentamos en la mesa, tardaron aproximadamente 45 minutos en traernos un vino tinto y una soda. La comida no es nada abundante y el servicio de mesa es muy malo ya que hay una sola camarera para todo el sal\u00f3n, y es lent\u00edsima. Lo \u00fanico rescatable es la ambientaci\u00f3n del lugar, ideal para ir en pareja."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nicolasr", 
+      "text": "Muy buena comida. Distinto a lo tradicional. El ambiente es muy acogedor."
+    }, 
+    {
+      "date": "28 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marina.p", 
+      "text": "Ambiente muy c\u00e1lido. Excelente comida (la mejor empanada de carne) y atenci\u00f3n."
+    }, 
+    {
+      "date": "27 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fleonhar", 
+      "text": "Original propuesta."
+    }, 
+    {
+      "date": "13 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "also1", 
+      "text": "Excelente la atenci\u00f3n que me hizo sentir en casa desde el principio. Me fui muy contento de haber ido a cenar all\u00ed."
+    }
+  ]
+}

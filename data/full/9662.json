@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Furer", 
+      "text": "Muy buena ambientaci\u00f3n, buena comida y precios accesibles siempre vuelvo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ramiroferrando", 
+      "text": "Excelentes pastas. Muy buenas salsas. Pedimos una porcion de ravioles de verdura y unos fideos con pesto. Ambas cosas resultaron espectaculares. El ambiente es muy lindo, y la carta de vinos est\u00e1 muy bien. De los mejores lugares de Quilmes"
+    }
+  ]
+}

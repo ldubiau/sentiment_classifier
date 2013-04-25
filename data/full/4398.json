@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "1 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kiddo", 
+      "text": "buen\u00edsima opci\u00f3n para comer al mediod\u00eda, las tartas del d\u00eda siempre son ricas, y la ensalada de verdes, tomates secos y queso es de las mejores. las porciones son bastante grandes a comparaci\u00f3n de lo que se ve \u00faltimamente.\r\nel delivery tambi\u00e9n es una buena opci\u00f3n"
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Deno", 
+      "text": "Me encanto el lugar! muy relajado y la gente muy buen onda!"
+    }, 
+    {
+      "date": "17 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "beli01", 
+      "text": "Un lugar muy c\u00e1lido,la comida rica, naural, simple y abundante. La atencion muy buena, informal y distendida. Es como estar en el living de tu casa..........podes leer tranquila mientras disfrutas de un plato rico y barato!!!"
+    }, 
+    {
+      "date": "16 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Vera08", 
+      "text": "Me gusto mucho el lugar, super tranquilo, luminoso. Tienen revistas de yoga, esta bueno para hacer una pausa. Los platos son abundantes, ricos y el servicio cordial."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Andybeni", 
+      "text": "Me encanto el lugar!"
+    }, 
+    {
+      "date": "26 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "miris", 
+      "text": "Me encanto este lugar.. ademas comi muy bien. Totalmente recomendable..."
+    }
+  ]
+}

@@ -1,0 +1,988 @@
+{
+  "malos": [
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "foton", 
+      "text": "A fines del a\u00f1o pasado fuimos con mi esposa 3 veces a cenar. La experiencia fue buena. Pagamos, en promedio, por 1 plato ppal. cada uno, 1 vino y 1 postre a compartir: $200.\r\nVolvimos en la primera semana de marzo. Las cosas cambiaron: (1) la mesa que hab\u00edamos reservado estaba ocupada (nos dieron una en un rinc\u00f3n), (2) s\u00f3lo 1 plato ppal. cada uno y 1 vino (ahora sin postre) : $208, (3) las papas fritas se doblaban de lo cruda que estaban y el lomo que ped\u00ed estaba tibio, (4) tardaron much\u00edsimo en cobrarnos. \u00bfComenz\u00f3 la declinaci\u00f3n?"
+    }, 
+    {
+      "date": "15 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "zeeker", 
+      "text": "Fuimos con amigos un domingo a la noche, y si bien la atencion es muy buena como las otras veces que fuimos, la verdad es que la comida estaba mas o menos, le faltaba algo. En lo personal pedi un ojo de bife argento de $82 y no soy de comer mucho, sin embargo me fui con un sentimiento de 'estafa'. No creo que vuelva."
+    }, 
+    {
+      "date": "13 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "hgr", 
+      "text": "Un lugar con buena infraestructura (valet parking, copa de bienvenida, personal entusiasta aunque no del todo profesional) pero con 2 graves limitaciones: la lentitud de la cocina - 1:10 hora para nuestros unicos platos y la calidad de la comida, al menos en nuestra experiencia, claramente mediocre. Es una pena, somos del barrio y nos hubiese encantado incorporarlo pero no va ser posible."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pugui", 
+      "text": "si tenes tiempo de esperar una hora o mas cada plato, y si te viene pasado y estas dispuesto a esperar otra hora mas, ni asi te lo recomiendo, pedimos una bondiola, y ravioles de salmon, tardaron una hora en trarlos, y la masa de los ravioles eran de carton, se disculparon diciendo que tenian q coincidir el tiempo de cada plato, por eso se les quemaron!(un chiste de mal gusto) a la hora de pagar querian cobrar mi cubierto, cuando solo habia comido unas migas de pan, conclusion termine cenando en mi casa, despues de estar 2 horas en ese reataurant de cuarta"
+    }, 
+    {
+      "date": "22 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Caleb", 
+      "text": "La materia prima es excelente, las carnes son increibes, las porciones son muy abundantes. Pero la preparacion deja bastante que desear... El tbone con salsa de barbacoa estaba incomible. Buena carne, pero sobrecargado de una salsa extremadamente fuerte. Nunca vi arruinar asi un glorioso trozo de bife de chorizo. La entrada de lomo tenia tres minusculas tiritas de lomo en un plato colmado de pan, queso, hojas verdes, y tomatitos cherry (una evidente addicion del cocinero que los pone hasta en la sopa). La ambientacion es sencilla y con luces tenues. Muy tranquilo. Tiene valet parking."
+    }, 
+    {
+      "date": "29 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "didi23", 
+      "text": "fuimos por promoci\u00f3n Club LN. el famoso T-bone es un simple bife de costilla, m\u00e1s grande que lo com\u00fan, que lo sirven con una parva de papas r\u00fasticas. Lo mejor? el pan casero y caliente servido con dos dips, y un trago al principio. la atenci\u00f3n es buena pero el verdadero t-bone no es el que sirven. al momento de pagar, pedimos factura \"A\" y se negaron al cobrar con el descuento del Club LN."
+    }, 
+    {
+      "date": "23 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Ezed", 
+      "text": "La carne era incomible,muy pretencioso y claramente malo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Krruth", 
+      "text": "Fuimos a eso de las 22hs  no muy concurrido, buen servicio, entrada mollejas crocantes y muzzarela muy buenas, PPrincipal Ojo de bife argento con canasta de papaass geniales. $87.\r\nCarta de postres limmitada."
+    }, 
+    {
+      "date": "3 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mmrg", 
+      "text": "Muy buen servicio, nos recibieron con un trago que de tan rico lo pedimos como bebida. El pan casero estaba muy rico. al igual que el resto de los platos. Recomiendo las lasagnas! Ambiente relajado, aunque a veces la musica estaba un poco alta."
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PALICHEFF", 
+      "text": "La ambientacion es muy biena, la atencion tambien, la comida inmejorable, entre el trago de bienvenida, la panera con la salsita ya hacen un comienzo muy agradable, de entrada pedimos patatas bravas, exiquisitas. de plato principal peidmos bondiola a la BBQ y Lomo spring, muy buenos, y de postre la tarta de manzana con helado de canela, IMPECABLE, definitavenmente VOLVERIA, LO RECOMIENDO"
+    }, 
+    {
+      "date": "21 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "OrneSur", 
+      "text": "Muy buena la comida y el ambiente, pero fundamentalmente el servicio. Ped\u00ed un Ojo de Bife, insist\u00ed en que por favor sea extremadamente jugoso pero vino cocido por dem\u00e1s. La camarera lo not\u00f3 antes de que yo dijera algo, y se acerc\u00f3 a decirme que si lo hab\u00eda pedido jugoso, as\u00ed tendr\u00eda que ser. Llev\u00f3 el plato de vuelta a la cocina (por motus propia) y a los 5 minutos, me trajo un ojo de bife nuevo, al punto deseado. La mesera se llama Carolina, se llev\u00f3 todos los aplausos e hizo de nuestra velada una experiencia \u00fanica!"
+    }, 
+    {
+      "date": "12 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "J1C8G", 
+      "text": "Fuimos con mi mujer y mi hija de 4 a\u00f1os, domingo al medio dia. Excelente la atencion de la camarera del salon Lounge, la musica, la limpieza del lugar. Aperitivo, entrada platos pricipal y postre colmaron nuestras expectativas. La relacion costo / beneficio nos parece aceptable. Lo recomendamos porque realmente la pasamos muy bien."
+    }, 
+    {
+      "date": "3 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Allegra1983", 
+      "text": "Excelente comida y atenci\u00f3n. Precios razonables. Como han remarcado ya algunos usuarios de la gu\u00eda Oleo, el valet parking es un plus! Volveremos."
+    }, 
+    {
+      "date": "17 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "williamg", 
+      "text": "Comparado con otros lugares de ese rango de precios la comida dejo mucho que desear ..."
+    }, 
+    {
+      "date": "8 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "null", 
+      "text": "Muy buen la  atencion por parte del cameraro, la porciones son abundantes. Mejoraria la carta de vinos."
+    }, 
+    {
+      "date": "27 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Hades", 
+      "text": "Tres o cuatro veces al mes voy a T-bone, tiene una cocina de muy buena calidad, las entradas, como las tapas de salm\u00f3n ahumado o las mollejitas crocantes o la g\u00edrgola rellena, son riqu\u00edsimas, el ojo de bije o el resto de las carnes excelentes, las ensaladas con delicados condimentos, todas las porciones de los platos principales son para compartir, a mi gusto. La atenci\u00f3n es excelente, de todos, pero especialmente de Laura. El lugar es amplio y muy c\u00f3modo, con la suficiente separaci\u00f3n de mesas y se ve la cocina, donde un par de cocineros llevan adelante todas  esas cosas ricas."
+    }, 
+    {
+      "date": "5 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Cuka", 
+      "text": "Incre\u00edble!!!!! La verdad que fui con un cup\u00f3n de la empresa de MKTG Pez Urbano y no pod\u00eda creerlo. Es de esos restaurantes que toda la vida dije \"tengo que ir\" y cuando vi la publicaci\u00f3n en Pez fui. Despu\u00e9s, volv\u00ed con mis padres y mi novio en una tercera oporunidad. Hay una chica q atiende los domingos a la noche q es incre\u00edble de simp\u00e1tica y atenta. Recomiendo: pinchos de bondiola, pinchos de salm\u00f3n, portobellos crocantes y unas Gambas al Ajillo exquisitas."
+    }, 
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ogui", 
+      "text": "Fuimos con un amigo, m\u00e1s q nada para ver si hab\u00edan mejorado un poco, pero no fue as\u00ed. El servicio podr\u00eda haber sido mejor. La comida fue regular, el precio MUY alto (ofrecen descuentos q luego desaparecen entre otros items de la cuenta). No vuelvo m\u00e1s"
+    }, 
+    {
+      "date": "14 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "gc1990", 
+      "text": "Fui con mi familia a almorzar. Entramos de casualidad y la verdad que el lugar sorprende para bien. Te reciben con un aperitivo (jugo de maracuy\u00e1 y duraznos con un toque de ron) y la atenci\u00f3n del mozo fue excelente en todo momento, por encima de la media de restaurantes del mismo precio.\r\nLa comida es muy buena, las papas fritas estaban un poco aceitosas para mi gusto.\r\nEl ambiente es excelente, tanto para ir en familia al mediod\u00eda como en pareja o con amigos por la noche. Volver\u00e9."
+    }, 
+    {
+      "date": "6 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "campesino", 
+      "text": "excelente opcion en palermo"
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kalva", 
+      "text": "Fuimos con la promocion de directv 2x1,los platos son abundantes y muy ricos, la atencion fue de cyntia atentisima,tienen un menu de 3 pasos muy conveniente, es para recomendar"
+    }, 
+    {
+      "date": "27 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "psp23", 
+      "text": "Me gusto el lugar, excelente el aperitivo de maracuya que nos sirvieron y el pan casero calentito con el queso untable muy bueno tambien.La comida estuvo muy rica, las porciones no son abundantes, pero estan muy bien  para 1 persona.La atencion fue muy buena (fui un lunes por la noche) y el ambiente tambien, muy buena separacion entre mesas y ambientes divididos. Lo unico es el precio, no es del todo economico (yo fui por una promocion de directv)."
+    }, 
+    {
+      "date": "26 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Amarty", 
+      "text": "Excelente comida, el pan de la casa es espectacular. Los platos llegaron muy bien presentados y con una calidad \u00f3ptima. El servicio muy agradable, el local espacioso con las mesas suficientemente separadas. Lo recomiendo!"
+    }, 
+    {
+      "date": "20 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tuti_Forbe", 
+      "text": "Fuimos un lunes por la noche, la comida estaba muy buena, sabrosa y a punto,recomiendo el Lomo Malbec! buen servicio, hay espacio entre las mesas."
+    }, 
+    {
+      "date": "18 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "KaniKama", 
+      "text": "Excelente clima y muy buena atenci\u00f3n. El lugar es super c\u00e1lido y sent\u00eds que est\u00e1s en otra ciudad... Tardan un poco en salir los platos, pero eso me hace sentir que es preparado en el momento y no me molesta esperar porque te reciben con un aperitivo muy rico y un pan reci\u00e9n horneado super especial! Cada vez que quiero comer rico, que me atiendan bien sin pagar fortunas y sin meterme en Palermo de locos lo elijo sin dudas."
+    }, 
+    {
+      "date": "29 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "faycla", 
+      "text": "Buena carta."
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tufacu", 
+      "text": "Lindo lugar, al igual que la atenci\u00f3n. Comida muy bien lograda. Ahhhhhhh, la panera excelente"
+    }, 
+    {
+      "date": "4 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ptancre", 
+      "text": "un lugar muy bien ambientado, con buena comida y porciones abundantes. La atencion suma para que a uno le den ganas de volver"
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kryku", 
+      "text": "Es un resto agradable, con buena atenci\u00f3n y muy buena comida. Un detalle para tener en cuenta es que tiene valet parking lo que facilita la llegada ya que por el lugar se dificulta conseguir estacionamiento. Volveremos"
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "chicho_n", 
+      "text": "Las entradas, mollejas y papas bravas, estaban demasiado secas y mal preparadas (e insulsas) respectivamente. La ensalada de rucula y frutos rojos, la bondiola y t-bone con barbacoa estaban bien (no asi sus guarniciones), pero no guardan relacion con los precios. La atenci\u00f3n fue muy buena y el ambiente agradable. Hay opciones mejores en el rango de precios."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Constanzafern", 
+      "text": "muy rica la comida. buena la atencion. para volver."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Roxi72", 
+      "text": "Comimos muy bien! El pan es estupendo, imposible parar de comer. De entrada comimos \\\"Ruculeta\\\", excelente combinaci\u00f3n de sabores. Los platos muy bien presentados, bastante generosas las porciones y servidos en su punto justo. Muy buena elecci\u00f3n! Lo recomiendo! Para volver..."
+    }, 
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bebotito", 
+      "text": "Lo primero que destaco es la excelente atenci\u00f3n. Sin embargo, el servicio fue lento (estimo que por la demanda del d\u00eda del padre). Los platos muy bien preparados, sabrosos y abundantes. Buena opci\u00f3n de men\u00fa por $58.- con copa de vino Coir\u00f3n, realmente exquisito. El ambiente muy cuidado, aunque un poco caluroso por momentos. Me gustar\u00eda volver de noche. Muy recomendable."
+    }, 
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bebotito", 
+      "text": "Lo primero que destaco es la excelente atenci\u00f3n. Sin embargo, el servicio fue lento (estimo que por la demanda del d\u00eda del padre). Los platos muy bien preparados, sabrosos y abundantes. Buena opci\u00f3n de men\u00fa por $58.- con copa de vino Coir\u00f3n, realmente exquisito. El ambiente muy cuidado, aunque un poco caluroso por momentos. Me gustar\u00eda volver de noche. Muy recomendable."
+    }, 
+    {
+      "date": "13 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "buba21", 
+      "text": "muy lindo el lugar, la comida es rica y abundante.\r\nbuena relacion precio calidad. muy rico el pan casero que te traen,y de postre pedimos tentacion de chocolate si mal no recuerdo. era una torta de chocolate con dulce de leche y una bocha de helado..la porcion era ENORME,no miento. 150 pesos para dos personas con agua mineral y postre..."
+    }, 
+    {
+      "date": "27 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "vaninaedul", 
+      "text": "Excelente opci\u00f3n para el mediod\u00eda. El salad bar es muy variado y completo. Los platos y los sandwiches tambi\u00e9n est\u00e1n muy bien. Vuelvo cuando puedo."
+    }, 
+    {
+      "date": "16 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Slisse", 
+      "text": "voy a menudo, ya s\u00e9 que hay que pedir porque algunos platos son muy pesadas con demasiado crema (las pastas) sino otros muy ricos; por ejemplo la milanesa napolitana es el mejor de capital,\r\nlas ensaladas tambien son ricas. Algo que no entiendo es que ponen en casi cada plato un guarnicion de puerro frito que realmente es indigerible"
+    }, 
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dactork", 
+      "text": "Muy buena alternativa para los que viven cerca del Bot\u00e1nico y quieren probar un restaurante lejos del mundo fashion (y mucho m\u00e1s caro). Ambiente sencillo (casi despojado), sin ruidos molestos, amplio, bien climatizado, correctamente atendido, con una apropiada luz tenue y con la cocina a la vista. Men\u00fa bien armado para todos los gustos, donde las estrellas son los grillados (carnes rojas, blancas, pescados), al punto que uno lo solicita y siempre los platos bien acompa\u00f1ados. La carta de vinos es generosa en opciones y precios.Vale la pena tenerlo en cuenta.Bebidas de cortes\u00eda."
+    }, 
+    {
+      "date": "26 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Fran2", 
+      "text": "Estamos yendo a comer casi todos los jueves con amigos a este lugar. Encontramos un lugar muy ameno, comida muy buena y mozos de primer nivel."
+    }, 
+    {
+      "date": "20 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "andre801", 
+      "text": "El ambiente es muy agradable. La comida es abundante y deliciosa. La atenci\u00f3n de los mozos es muy buena tambi\u00e9n. El precio es elevado pero el lugar y la comida lo ameritan."
+    }, 
+    {
+      "date": "17 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JollyRoger", 
+      "text": "Muy buena la comida y la atenci\u00f3n"
+    }, 
+    {
+      "date": "23 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ramiro_Ignacio", 
+      "text": "Muy buen servicio. Riqu\u00edsima la comida. En precio, no muy caro. Los platos son originales."
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Nos sorprendi\u00f3 gratamente encontrar este restaurante donde el ambiente est\u00e1 logrado con muy buen gusto.La atenci\u00f3n del mozo fue correctisima y la comida muy buena.Ofrecen una copa de bienvenida y una panera con un exquisito pan de campo.Realmente un gusto descubrir lugares como T-Bone,donde todos los detalles est\u00e1n tan cuidados."
+    }, 
+    {
+      "date": "19 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Me sorprendi\u00f3 gratamente la ambientaci\u00f3n c\u00e1lida y con onda y la variedad de platos de la carta. Muy bueno el coctail de bienvenida y la panera con pan de campo. Servicio cuidado y buena comida. Muy bien, me gust\u00f3!"
+    }, 
+    {
+      "date": "19 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Bohemio1983", 
+      "text": "Lindo lugar, muy buena ambientacion, poseen servicio de Desayuno, Almuerzo y Cena. Correcta atencion de los mozos, y muy buena calidad de comida, porciones abundantes y de buena calidad; Carta variada, con opciones novedosas que sin duda vale la pena probar en futuras ocasiones!"
+    }, 
+    {
+      "date": "30 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "leoA", 
+      "text": "Lindo lugar, mesas separadas, todo nuevo, buena atencion de mozos preparados, precios bastante elevados. Comi el menu de $58 que tenia chorizo con ensalada, tira de asado con papas, helado con frutos rojos y una copa de vino... todo mas que respetable. Voy a volver."
+    }, 
+    {
+      "date": "23 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "Un lugar muy lindo para ir a comer y poder conversar tranquilamente. Muy buena atenci\u00f3n y ambientaci\u00f3n. Poca variedad de platos pero sabrosos."
+    }, 
+    {
+      "date": "8 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ximple", 
+      "text": "Los platos abundantes y excelente servicio. Todo muy bien, excepto por el trago que te sirven al final de boldo! Muy recomendable."
+    }, 
+    {
+      "date": "31 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "perrodumas", 
+      "text": "me gusto el lugar,el lomo al malbec en su punto,y rica la guarnicion aunque se noto muy poco la panceta,muy rica la ensalada de salmon los ravioles y el mascarpone.para mejorar,PEDI UN COSECHA TARDIA y no habia nigun vino dulce en la bodega., no me ofrecieron carta de vinos y el que tome me parecio un poco caro. la atencion fue muy cordial desde el valet hata la srita. que me atendio."
+    }, 
+    {
+      "date": "16 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "doutreval", 
+      "text": "Muy buena opci\u00f3n en Palermo, con servicio de valet parking. Atenci\u00f3n y ambiente agradables (aunque falt\u00f3 un toque de fr\u00edo en el aire acondicionado). La comida muy buena, excelente la especialidad: T-bone de 500 gr, en el punto pedido, m\u00e1s papas r\u00fasticas. Muy bueno tambi\u00e9n la opci\u00f3n con salsa barbacoa (viene con ensalada de verdes), y las pastas al dente, en buenas porciones. El pan es casero, reci\u00e9n sacado del horno! Postres: ricas crema de mascarpone y parfait de lim\u00f3n; regular tentaci\u00f3n de chocolate. Carta de vinos aceptable, deber\u00edan ampliarla un poco. Muy recomendable."
+    }, 
+    {
+      "date": "11 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "isalva", 
+      "text": "Muy buen lugar, ambiente comodo sin mesas amontonadas unas con otras. Atenci\u00f3n muy buena, la comida correcta en precio - calidad, amplias porciones que pueden ser compartidas, especialmente los postres! El vino tinto llego a la mesa con la temperatura correcta!! Para recomendar y volver a visitar."
+    }, 
+    {
+      "date": "30 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cari50", 
+      "text": "Varias cosas para resaltar, area fumadores, ambientacion mas que adecuada, excelente el pan de campo y el sorbette de limon al final para limpiar. Mesas comodas para charla.mub pero muy buena atencion, cordial,pero sin molestar.\r\nla comida de muy buena a optima.Precios logicos. Les recomiendo una visita realmente vale la pena"
+    }, 
+    {
+      "date": "24 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "alecuadrado", 
+      "text": "Es dificil encontrar un local dentro de la zona palermo que se coma bien. T-Bone lo logra. Es un buen restaurant, que no sobresale de la mayoria de los de palermo, salvo por los detalles que lo hacen resaltar. El pan de campo caliente, el sorbet de limon para limpiar, y la justa cantidad de porcion. Con precios bastantes razonables, una atencion impecable, hacen de este alejado restaurant, un logar para conocer al menos una vez. El unico inconveniente, que no me avisaron lo que no habia. Fue justo lo que pedi. Lo cambie por ravioles de salmon y recivi salmon a las brasas, que estaban bien."
+    }, 
+    {
+      "date": "21 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chani", 
+      "text": "Muy buena comida y bien servida... recomendable. A\u00fan le falta crecer con p\u00fablico joven (El hombre que toca el saxo noooo ayuda)."
+    }, 
+    {
+      "date": "17 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "theeruso", 
+      "text": "La comida estuvo muy buena, la cocci\u00f3n acorde a la elecci\u00f3n, la atenci\u00f3n y el lugar bien."
+    }, 
+    {
+      "date": "14 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lgsaez", 
+      "text": "Excelente lugar, una buena opci\u00f3n. Los platos muy bien servidos...."
+    }, 
+    {
+      "date": "3 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "santisenador79", 
+      "text": "Muy rica la comida!!! los detalles a la entrada y al final.. la atenci{on de 10!! ya volvimos!"
+    }, 
+    {
+      "date": "19 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sfornarini", 
+      "text": "Excelente atencion, ambientacion y la comida abundante y muy buenos sabores"
+    }, 
+    {
+      "date": "10 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "banfield33", 
+      "text": "nos encanto el servicio,te reciben con un aperitivo y al final de la comida, un sorbete de limon.siempre muy atentos a todo sin resultar molesto.la comida es muy buena,abundante. muy buena relacion calidad-precio. volveremos."
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rana_Gourmet", 
+      "text": "Se trata de un restaurant muy bien ambientado y con atenci\u00f3n esmerada.Les recomiendo el T Bone con salsa barbacoa una combinacion exquisita para los amantes de la buena carne.El lomo al Malbec es otra opcion interesante, mas modesto en tama\u00f1o pero no se queda atras. La carta es variada hay para todos los gustos.Realmente nos sorprendio el lugar, ideal para compartir con amigos o pareja y disfrutar de una buena velada. Para volver."
+    }, 
+    {
+      "date": "31 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lo_k", 
+      "text": "Elegi el lugar por la interesante carta y propuesta. Los sabores impecables, las cocciones correctas y algunos platos hasta me sorprendieron gratamente como el solomillo con queso brie, super recomendable. El servicio muy atento y los precios se condicen totalmente con lo que ofrecen. Para visitar y revisitar!!"
+    }, 
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "nolita", 
+      "text": "Moderno, buena atencion, buena comida. La ubicacion es dificil para ir con auto, pero vale la pena conocerlo."
+    }, 
+    {
+      "date": "2 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Arrayanes", 
+      "text": "El brie tibio no viene derretido adentro, como debe ser. Las dos veces que lo ped\u00ed, tuvimos que mandarlo de vuelta. Excelentes la provoleta y las empanadas. Todos los cortes de carne son buenos, pero el T-Bone es lo m\u00e1s. L\u00e1stima que sacaron el rack de carne vacuna que ten\u00edan el a\u00f1o pasado. Ahora tienen rack de cordero, pero no viene tan bueno, un poco seco. La torta tibia de manzanas con helado de canela (creo) es excelente. El servicio puede mejorar."
+    }, 
+    {
+      "date": "1 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aconcagua17", 
+      "text": "Nos encanto el lugar muy buena la ambientacion, muy bueno el postre y el t bone para recomendar"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "richardm", 
+      "text": "fui a comer con mi falia el domingo 19, tanto pollo como las carnes, todo de exelente sabor y presentaci\u00f3n los postres recomendables, sobretodo el volcan de chocolate, carta de vinos completa y el ambiente y atenci\u00f3n muy  agradables, los precios correctos por el tipo de comida y servicio, definitivamente vamos a volver."
+    }, 
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "miki62", 
+      "text": "Excelente la atencion, siempre te reciben con algun aperitivo y te traen un pan de campo muy rico. Comimos pollo y lomo y los platos eran abundantes y exquisitos y muy buena la tarta de manzana con helado de canela, hacia bastante que ni ibamos, me alegra que no haya bajado para nada la calidad del lugar"
+    }, 
+    {
+      "date": "28 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carolynbck", 
+      "text": "Excelente atenci\u00f3n! muy lindo lugar, muy buenos platos, ambiente c\u00e1lido, tranquilo y comodo. Muy buena ubicacion. Para conocer y volver."
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "GMeglio", 
+      "text": "Fui un domingo con mi novia y una pareja amiga. La atencion es excelente, muy atentos. Pedimos ojo de bife pero no tenian. Como recompensa nos regalaron el postre"
+    }, 
+    {
+      "date": "26 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "susi56", 
+      "text": "muy bueno , compartimos platos ,tambien algo muy positivo tiene valet parking , excelente trato recomendable"
+    }, 
+    {
+      "date": "20 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cyngold", 
+      "text": "La atenci\u00f3n es excelente, la camarera Cynthia es sinceramente una joya. La comida excelente, el aperitivo y los postres excelentes tambien. EL ojo de bife riqu\u00edsimo, las pastas con vegetales de 10. El postre de mouse de Baileys con helado de caf\u00e9... sin palabras. Es para recomendar y para volver una y otra vez. Yo fu\u00ed con amigas, con mi familia, hasta con mis padres... siempre la atenci\u00f3n de 10 y la comida a\u00fan mejor."
+    }, 
+    {
+      "date": "14 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MaruB", 
+      "text": "festej\u00e9 mi cumplea\u00f1os con dos parejas de amigos. pedimos una entradas compartidas, un plato principal cada uno y postres compartidos, TODO estaba muy rico; \u00e9ramos 6, pedimos 5 variedades de principales y todos salieron en su punto! los felicito"
+    }, 
+    {
+      "date": "11 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "anest", 
+      "text": "Fuimos de casualidad,luego de ver las recomendaciones de la guia oleo y la verdad es que no nos equivocamos.Excelente comida,y muy buena atencion.Precios normales.Volveremos"
+    }, 
+    {
+      "date": "11 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Deborah_", 
+      "text": "Estuvimos anoche festejando el cumplea\u00f1os de mi hija y de mi marido y realmente pasamos una velada maravillosa. Comenzando por la atencion que es excelente, la comida riquisima y el lugar bellisimo, con una onda espectacular.  Todos los platos exquisitos, desde la entrada hasta el postre, la carne excelente y tuvieron la atencion a la hora del brindis de de exquisiteses dulces a cargo de la casa. Salimos felices felicitandonos por haber eligido a TBone. Recomendable absolutamente."
+    }, 
+    {
+      "date": "11 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Popea", 
+      "text": "B\u00e1sicamente me gust\u00f3 todo. Que haya valet parking para desentenderte de estacioionar en un lugar complicado; la ambientaci\u00f3n, la m\u00fasica, la atenci\u00f3n, el aperitivo de bienvenida, el vino y, sobretodo, la comida."
+    }, 
+    {
+      "date": "23 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bulich", 
+      "text": "Fuimos a comer con nuestra hija, realmente una experiencia excelente que sin duda vamos a repetir! Aparte de lo rico de la comida, la esmerada atenci\u00f3n y el buen ambiente, por fin un lugar donde el cubierto cobra sentido. Te dan un riqu\u00edsimo trago mini, pan de campo con queso untable y un mini helado de caf\u00e9 delicioso, a\u00fan si no ped\u00eds postre. Adem\u00e1s 20% descuento con Tarjeta La Naci\u00f3n, lo cual nos hizo recordar la moza antes de traer la cuenta."
+    }, 
+    {
+      "date": "13 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rul0", 
+      "text": "La carne buen\u00edsima y los platos son MUY sabrosos. Los aperitivos que te sirven apenas llegas para cenar son siempre muy ricos."
+    }, 
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pchu", 
+      "text": "Excelente, fui con mi novio con una promoci\u00f3n, ya desde que llame para reservar la atenci\u00f3n fue excelente, en el lugar, servicio impecable, comida super abundante y riquisima, para recomedar y obviamente volver!"
+    }, 
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "beb\u00e9gourmet", 
+      "text": "Buena opci\u00f3n si est\u00e1s en la zona de Santa F\u00e9 y Armenia. ocina de autor bien presentada, platos abundantes pero no para compartir. Mozos atentos. Ambiente agradable con m\u00fasica suave para compartir un grato momento"
+    }, 
+    {
+      "date": "21 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Agustinobulffer", 
+      "text": "Este lugar lo descubri caminando y llamo mi atencion. Fue un gran hallazgo, la verdad que la comida es muy buena,  asi como la calidad de la misma (Recomiendo los langostinos con risotto crocante) La atencion es de lo mejor, muy cordial, calida y agradable. Ypor utimo el ambiente realmente muy lindo, todo esto sumado a un buen precio."
+    }, 
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "facundocalegari", 
+      "text": "ca\u00edmos diez amigos a almorzar: no s\u00f3lo la atenci\u00f3n de la camarera (Laura) fue terriblemente solvente y muy amena, sino que la comida fue rapid\u00edsima e inmejorable: los diez comimos el ojo de bife con papas fritas y estuvieron los 10 perfectos (cada persona comi\u00f3 el ojo de bife en su punto de preferencia....y las papas fritas eran sublimes). En el postre, el bud\u00edn de pan y el helado de canela fueron inmejorables.... y todo esto en una hora ya que ten\u00edamos que volver a la oficina!!!! SENSACIONAL!  volver\u00e9 todos los viernes!"
+    }, 
+    {
+      "date": "23 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yanilore", 
+      "text": "Todo excelente, la atencion, el lugar, la ambientacion, me encanto!"
+    }, 
+    {
+      "date": "17 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "albertow", 
+      "text": "Excelente lugar con muy buena comida y excelente atenci\u00f3n. Ni bien llegamos nos dieron un aperitivo muy delicioso y nos trajeron un pan casero caliente con queso.Los platos estuvieron servidos muy bien,l\u00e1stima el acompa\u00f1amiento de la bondiola con papas espa\u00f1olas que no lo eran, pero el resto excelente. Los platos no tardaron en venir, unos 20 minutos para un tbone me parece muy buen tiempo ya que es muy grueso y llegaron los 2 platos juntos. Tanto el mozo como todo el personal muy atento.Vamos a volver."
+    }, 
+    {
+      "date": "30 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "JollyRoger", 
+      "text": "En ocasi\u00f3n anterior com\u00ed mejor. La carne bastante cocida, si bien se pidi\u00f3 a punto.\r\nEl postre de chocolate sin gusto"
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luzy", 
+      "text": "muy bueno todo. el cubierto vale lo que te cobran: te traen un pan de campo caliente que es increible de rico. las porciones abundantes, algunas creo que se pueden compartir pidiendo una ensalada simple extra (ya que uno se llena bastante con el pan que te sirven y que es imposible no comerlo). todo muy rico."
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "techsupport", 
+      "text": "Muy buena relaci\u00f3n precio - calidad.\r\nExcelente atenci\u00f3n y servicio en general.\r\nPara mejorar, la carta de postres podr\u00eda tener m\u00e1s opciones."
+    }, 
+    {
+      "date": "22 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ososibarita", 
+      "text": "Excelente opci\u00f3n para un almuerzo(siempre y cuando se tenga suficiente tiempo), platos abundantes y bien presentados con productos de calidad. Ambiente c\u00e1lido con obras de arte en sus paredes y m\u00fasica suave que permite una grata conversaci\u00f3n. La atenci\u00f3n es lo \u00fanico a mejorar, ya que con buena voluntad no alcanza. Para volver."
+    }, 
+    {
+      "date": "23 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nirius", 
+      "text": "Con un ambiente ameno, \u00edntimo, es un buen lugar para ir con una pareja. El servicio es desde el primer momento impecable, siempre atentos al cliente. \r\nBa\u00f1os limpios, buena distribuci\u00f3n de mesas, variedad de platos.\r\nEl precio es accesible. Es un lugar que me gust\u00f3 mucho y seguramente voy a volver."
+    }, 
+    {
+      "date": "15 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rul0", 
+      "text": "Fuimos varias veces, y siempre nos gust\u00f3. La calidad de las carnes es muy buena, as\u00ed como el servicio, ya que sirven un rico pan de campo, y un aperitivo al llegar. Al finalizar te convidan con un helado digestivo. Y el ambiente es excelente. Si ten\u00e9s suerte, pod\u00e9s disfrutar de un m\u00fasico en vivo."
+    }, 
+    {
+      "date": "14 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "shatvadhani", 
+      "text": "El restaurant es muy c\u00f3modo y la carta si bien no es espectacular, es correcta y tiene algunos toques de originalidad, como en el caso de los sorrentinos sobre un medall\u00f3n de lomo. La comida estuvo muy rica, es un buen lugar, lo \u00fanico negativo es el precio, ya que es bastante caro."
+    }, 
+    {
+      "date": "15 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rubinoce", 
+      "text": "Desde la atenci\u00f3n esmerada del mozo, pasando por el ambiente agradable. tranquilo y ordenado,hasta la comida exquisita, todo el almuerzo estuvo excelente. Es para repetir porque adem\u00e1s fue muy buena la relaci\u00f3n precio calidad atenci\u00f3n"
+    }, 
+    {
+      "date": "7 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nuil", 
+      "text": "Fuimos a cenar con un grupo de amigas y nos quedamos todas muy admiradas por la atencion,la calidad de los platos (no escatiman en cantidad es para destacar),los postres,la ambientacion del lugar,para destacar los sanitarios la limpieza radiante(algo bastante dificil de encontrar) un lugar para volver y disfrutar de una velada sin sorpresas desagradables totalmente recomendable volveremos\"!!!!!!"
+    }, 
+    {
+      "date": "5 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CALU_FLO", 
+      "text": "La verdad que prest\u00e9 atencion a los comentarios, y es un lugar que obligatoriamente hay que ir!!! y donde verdaderamente precio/calidad tienen que ver!! excelente!! no tengo m\u00e1s palabras para halagar este lugar sin caer en obviedades!!"
+    }, 
+    {
+      "date": "4 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Conozco muchos lugares buenos pero ninguno con la calidad de T-Bone, ya desde el comienzo te encontras con un ambiente calido en tonos blancos negros y rojos y musica tranquila. Te reciben con un peque\u00f1o contel de gancia con almibar de maracuya increible, que acompa\u00f1a a una tabla de un pan de campo calentito con 2 salsitas, esperando la comida.\r\nComi un 1/4 de pollo al limon ( a la parrilla) ya que pedi el T- bone con barbacoa y no habia ( unica falla)con papas rusticas, crocantes y con una salsita de hierbas,Con la cuenta te llega un heladito para limpiar paladar. Todo Increible!!!!"
+    }, 
+    {
+      "date": "10 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "birke", 
+      "text": "excelente atencion, muy buen punto en la carne, de acuerdo a lo pedido, el lugar muy bien decorado"
+    }, 
+    {
+      "date": "29 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DaniM", 
+      "text": "Fui por una invitaci\u00f3n y realmente fue una grata velada. El T-Bone con barbacoa es muy abundante y los postres son espectaculares (tarta de queso con frutos del bosque y textura de chocolate). Lindo ambiente, un poco salado el precio."
+    }, 
+    {
+      "date": "22 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hatti", 
+      "text": "Fue una experiencia muy agradable, en todo sentido, cenar en T-Bone."
+    }, 
+    {
+      "date": "27 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martuna", 
+      "text": "Excelente. No es habitual poder comer buena carne en Palermo en un ambiente moderno como \u00e9ste. El T-BONE no tiene desperdicio y las mollejitas crocantes son crocantes de verdad."
+    }, 
+    {
+      "date": "27 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jdweb", 
+      "text": "muy lindo lugar con buena comida , la carta es variada. Buena atenc\u00edon. Es para volver."
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "1 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lacoqui", 
+      "text": "atencion golosos,no dejarse llevar por el nombre de este lugar,no se hagan ilusiones al leer la lista de tortas por que s\u00f3lo tienen unas pocas disponibles y,la de manzana que com\u00ed era HORRIBLE.\r\nComimos 2 sandwiches(ricos),1 agua,1 cerveza chica,2 tortas de manzana chicas y un caf\u00e9 $80,debut y despedida"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alejo13", 
+      "text": "Es un lugar para desayunar o almorzar. Ideal para tomar cafe, te, tortas y leer el diario y estar con amigos. \r\nUna esquina tranquila de Belgrano."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nely79", 
+      "text": "EL ambiente de la dulce esquina es muy familiar, donde siempre te atienden con la mejor onda. No es un lugar para gente apurada. EL que ya fue sabra de lo que estoy hablando. La comida es casera, el pan de campo, las pizzas.. como las tortas que son riquisimas! Yo la pase muy bien y siempre voy...gracias dulce esquina, por saber seleccionar a la gente q valora lo que es este lugar..."
+    }
+  ]
+}

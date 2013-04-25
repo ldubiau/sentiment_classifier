@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "9 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "le_grognard", 
+      "text": "Muy buenas pizzas, variadas y sabrozas, en un ambiente relajado y sin pretensiones. Ideal para compartir con la pe\u00f1a de amigos. Las tres B.\r\nBueno, bonito y barato."
+    }, 
+    {
+      "date": "31 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "loli26", 
+      "text": "Est\u00e1 muy bueno y la comida sale r\u00e1pido."
+    }, 
+    {
+      "date": "5 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "abarsellini", 
+      "text": "Excelente la pizza a la piedra. Las mozas a veces est\u00e1n un poco desbordadas. Recomendable."
+    }, 
+    {
+      "date": "12 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Filipo", 
+      "text": "La moza esta b\u00e1rbara, pero como toda rubia se la cree y atiende muy mal, viene cuando quiere. No es recomendable para almorzar con tiempo limitado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "la_malvada", 
+      "text": "excelente comida y servicio nos gusto tanto que comimos 4 veces y cuando regresemos esperamos volver extra\u00f1amos la delciiosa pizza!!!"
+    }, 
+    {
+      "date": "5 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ZUMBIDO", 
+      "text": "Hasta este momento, es el \u00fanico lugar de comidas con un men\u00fa bien completo, variado y sabroso que mantiene un precio razonable de $17. Muy recomendable. Muy buena Atenci\u00f3n."
+    }, 
+    {
+      "date": "14 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "TitoK", 
+      "text": "El lugar es una pizzeria de barrio que quedo descolocada de los restaurant que est\u00e1n alrededor. La pizza es a la piedra , y eso es lo que la hace interesante ya que no hay muchas pizzerias que continuen con esto, las empanadas son peque\u00f1as pero idealmente como uno las har\u00eda para si. La atencion de las mozas es agil , pareceria estar en un bar en la costa atlantica. Recomendable sin dudarlo"
+    }, 
+    {
+      "date": "22 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LaFondaDeBaco", 
+      "text": "La pizza es excelente, altamente recomendable las empanadas, especialmente la \"Valderrama\".\r\nTiene mesitas afuera son ideales para el veranito. En estos d\u00edas de fr\u00edo se complica."
+    }, 
+    {
+      "date": "27 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lopikulo", 
+      "text": "Ningun comentario apreciable."
+    }
+  ]
+}

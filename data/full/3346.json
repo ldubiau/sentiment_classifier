@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "15 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "vkam", 
+      "text": "Me parecio espantosa la atencion... pedimos licuados de durazno con agua y me lo trajieron natural y el sabor era mas agua que fruta, como nos quejamos le agregaron un poco de hielo y azucar pero no mejoro en nada... encima me trataron mal diciendo que si un licuado le ponian hielo el sabor va a ser ese sini que pidiera con leche! Malisima atenci\u00f2n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Es un caf\u00e9 bien ubicado frente al Parque Centenario con una ambientaci\u00f3n sencilla y unas c\u00f3modas sillas por fuera.\r\nSe puede ir a tomar un caf\u00e9 con leche y tres medialunas, riqu\u00edsimas por cierto, por $15. Y si se quiere ir en familia se puede ir a comer algo tranquilo ya que la carta no es escasa, y lo que brindan no resulta caro por la calidad de la comida."
+    }, 
+    {
+      "date": "17 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "shakes", 
+      "text": "Comi con mi novia una parrillada para 2 personas, muy bien servida, bastante pasable y el precio incluia las papas fritas, la verdad digno para recomendar\r\nsaludos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gallego23", 
+      "text": "muy buena atenci\u00f3n, buenisima la comida, y especialmente agradecido como espa\u00f1ol que hayan sabido servirme un caf\u00e9 con hielo. Nota: los sandwiches tostados (se dice asi?) seg\u00fan vi en la mesa de al lado, bastante m\u00e1s rellenos que en el resto de lugares en los que par\u00e9 en mi visita a Buenos Aires."
+    }, 
+    {
+      "date": "18 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lorib", 
+      "text": "El lugar esta muy buien ubicado enfrente al parque centenario, tiene mesitas fuera, para comer, el lugar por dentro esta muy lindo, tonos calidos y con simbologias celtas, muy bien pensadas, la carta muy bonita el dise\u00f1o.\r\nEs un lugar para recomendar a los tuyos, ir con la familia y pasar el rato, la comida casera de casa, los posstres exisitos, el cafe muy bueno, se nota que los productos son de calidad insuperables, ni que decir de la atencion,excelente trato y servicio."
+    }, 
+    {
+      "date": "18 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chufac", 
+      "text": "Muy buen ambiente, la comida excelente, estan valorados la calidad precio sin lugar a dudas. Tienen que probarlo, muy lindo todo! Se come muy bien."
+    }, 
+    {
+      "date": "17 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MPRIMA", 
+      "text": "Excelente atenci\u00f3n y muy buena relaci\u00f3na precio calidad."
+    }, 
+    {
+      "date": "10 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "agdamonte", 
+      "text": "El lugar est\u00e1 frente al parque Centenario y es el cl\u00e1sico bar-confiteria, Pero la carta sorprende, es amplia y ofrece muchas opciones. Recomiendo especialmente la pizza que hacen. La atenci\u00f3n es buena."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "9 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Filipo", 
+      "text": "No comi porque la comida nunca lleg\u00f3. Tardaron 50 minutos y me trajeron los escalopes crudos (era la carne completamente cruda, ni siquiera rosa, toda cruda con harina frita arriba) y me pusieron la excusa de que bajo la temperatura. Las papas fritas parecian de 3 d\u00edas atras. Me pagando solo la bebida."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mariano34", 
+      "text": "Buna gente. Una cantina como las de antes, con mozos educados y el esmero para que uno se vaya contento."
+    }, 
+    {
+      "date": "20 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tbone", 
+      "text": "Ambiente familiar, relajado y mozos con experiencia. Sencillo, sin pretensiones: a la vieja usanza."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gomar05", 
+      "text": "muy buena comida, recomendable."
+    }, 
+    {
+      "date": "10 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fanthem7", 
+      "text": "muy buena comida"
+    }, 
+    {
+      "date": "10 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ferzappa", 
+      "text": "Se come muy bien, comida de buena calidad."
+    }
+  ]
+}

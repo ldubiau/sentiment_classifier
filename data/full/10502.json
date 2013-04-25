@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Rasa", 
+      "text": "Es una l\u00e1stima que una carta amplia, con muchos platos espa\u00f1oles, termine en una mala cocina Comenc\u00e9 con un jam\u00f3n cortado a cuchillo y me dieron pedazos de jam\u00f3n cercano a los huesos perfecto para una buena sopa. El plato principal y el postre eran porciones grandes, pero muy mal elaborados."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "titomargalef", 
+      "text": "fui con mi sra. la atencion y la comida es buena, tal como lo era en la ex plaza espa\u00f1a (av de mayo y sgo del estero),  el due\u00f1o de este local es el ex encargado del resto antes mencionado."
+    }, 
+    {
+      "date": "13 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "WilliamTAF", 
+      "text": "Discreto, atenci\u00f3n suficiente y tradicional, copa de jerez al empezar limoncelo al final. Men\u00faes econ\u00f3micos. Buenas pastas, ambiente sin prentenciones. Ahora si lo relacionamos con el precio y andas por la zona necesitando una cena r\u00e1pida, abundante y suficientemente no dejes de considerarlo."
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "uruguay390", 
+      "text": "Para almorzar al mediod\u00eda est\u00e1 bien. r\u00e1pido, barato, atenci\u00f3n correcta y comida aceptable. buena relaci\u00f3n calidad / precio. no lo recomendar\u00eda para una cena ."
+    }
+  ]
+}

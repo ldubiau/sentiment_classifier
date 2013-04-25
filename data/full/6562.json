@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "20 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "PechiyDipa", 
+      "text": "Excelente lugar en Quilmes, muchisima variedad de cerveza tirada e importada, tambi\u00e9n de whisky para lo que hay una carta aparte. Pero a parte se come muy pero muy bien, y no solo picadas, sino que hay muy buenos platos elaborados, es un men\u00fa muy amplio, desde carnes, pollo, pastas, tambi\u00e9n hay gran variedad de tapas. Com\u00ed siempre muy bien. Recomendaci\u00f3n: no dejen de probar  las papas taberna. Muy buena atenci\u00f3n y simp\u00e1ticas meseras. Detalle: tienen una cerveza creada por Ferran Adri\u00e1, que aun no prob\u00e9 por su elevado precio ($120 la pinta). No es un lugar barato."
+    }, 
+    {
+      "date": "6 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "cucurucho", 
+      "text": "Ideal para tomarse una cervecita acompa\u00f1andola de algo rico. El lugar es agradable y la atencion es amable. El ambiente es juvenil. Lo recomiendo."
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Verk", 
+      "text": "Me encanta Taberna Bier! Tienen varias cervezas internacionales (aunque antes tenian mas) y cerbeza artesanal tirada.\r\nLas papas de Rocco y las papas tabernas son riquisimas.\r\nLa atencion es excelente.\r\nRecomendable 100%."
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "_gns_", 
+      "text": "Muy buen lugar para comer picadas y tomar cervezas artesanales de todo tipo. Siempre est\u00e1 lleno y si no vas temprano ten\u00e9s que esperar porque el lugar no es muy grande. Pero el servicio y la comida son muy buenos. Recomendable!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PradaGirl", 
+      "text": "El lugar es muy bueno. La comida es de primera calidad y la atenci\u00f3n es excelente. Gran variedad de cerveza tirada, GRAN. Picadas incre\u00edbles, con ingredientes normales y otras con ingredientes poco comunes en el mercado; una maravilla. Tambi\u00e9n tienen variedad en pastas, carnes y vinos.\r\nRecomendado para ir a cenar o a tomar unas cervezas con amigos para charlar de la vida."
+    }
+  ]
+}

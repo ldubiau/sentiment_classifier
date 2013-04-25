@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "3 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "galimberti", 
+      "text": "El lugar es muy lindo, lamentablemente la comida dejo mucho que desaer, no s\u00f3lo por la escacez de platas a la hora de eligir sino tambi\u00e9n por la calidad del plato elegido (cordero con salsa de cerveza negra) el cual distaba mucho de ser un plato que valga 50 pesos. Le falta mucho, esperemos que mejore por que est\u00e1 en una ubicaci\u00f3n que si al menos no cocinan mal les va a ir muy bien."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Jumar", 
+      "text": "No lo conoc\u00edamos y llegamos por indicaci\u00f3n de amigos, la pasamos muy bien, en una ambiente agradable, distendido. Hasta los sanitarios son un chiche. \r\nComimos muy bien, pero un comentario: hay una entrada, una cazuelita, que esta a mitad de camino, entre una entrada y un plato principal,\r\nun poquito mas y es un excelente plato principal."
+    }, 
+    {
+      "date": "7 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "silvia01", 
+      "text": "Un lugar muy agradable para disfrutar de una muy buena comida. Se destaca la limpieza del sal\u00f3n, especialmente de los ba\u00f1os."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "omarpetrola", 
+      "text": "La comida es de muy buena calidad y el ambiente muy agradable, lo que permite disfrutar de un momento grato.\r\nSugiero una mayor oferta de bodegas"
+    }, 
+    {
+      "date": "20 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cjknoch", 
+      "text": "Muy buena atencion y muy rica comida"
+    }
+  ]
+}

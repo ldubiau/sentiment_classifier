@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "toreto2", 
+      "text": "no lo recomiendo por que la atencion es mala y las carnes duras se tendrian que dedicar a hacer pizzas ."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vdorza", 
+      "text": "Lo descubrimos hace poco y estamos muy conformes. La atenci\u00f3n es muy buena, r\u00e1pida y eficiente. Los precios son razonables, y la comida est\u00e1 muy bien. Es un lugar para volver y para recomendar. Dato: Las empanadas son imperdibles"
+    }, 
+    {
+      "date": "18 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jorgerre", 
+      "text": "Excelente ambiente -turf\u00edstico, por supuesto- y muy buena atenci\u00f3n, con la salvedad de que un mi\u00e9rcoles al mediod\u00eda hab\u00eda pocas mesas ocupadas. Buena carta de vinos. El asado, bueno y nada m\u00e1s. Pero excelente el matambre arrollado y los chorizos. Un salad bar  bien surtido, complet\u00f3 un almuerzo m\u00e1s que satisfactorio. Los postres quedan sin calificar porque terminamos con una ronda de caf\u00e9. Recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "VANEFA", 
+      "text": "El promedio del cubierto, que estan publicados son elevados, e incorrectos.. El promedio del cubierto con un vino va desde $120 $130 y los precios son iguales en cualquier horario."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "30 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sergiogr78", 
+      "text": "He ido algunas veces a almorzar, y tiene un men\u00fa ejecutivo con buenas opciones y platos abundantes."
+    }, 
+    {
+      "date": "8 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dhponc", 
+      "text": "Muy buen lugar, lo unico para criticarle es que lo mozos podr\u00edan ser mas amables."
+    }, 
+    {
+      "date": "21 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Skip", 
+      "text": "The empanadas were very good and cooked to perfection.  Decor was plain but open and airy.  The waiter was unfriendly and had too many churros up his rear end.  Would have been a better experience if he would have removed the churros and smiled."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Roqueo", 
+      "text": "Excelente lugar, muy buena atencion, precios razonables y platos enormes. Lo recomiendo 100%"
+    }, 
+    {
+      "date": "13 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "bocuse", 
+      "text": "Exquisita pizza a la piedra NO precocida.-"
+    }
+  ]
+}

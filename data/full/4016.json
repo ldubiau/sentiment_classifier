@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "11 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "baffoblu", 
+      "text": "fui a tomar algo nada mas, el lugar muy lindo y relajado, con mucha onda.. tiene una terracita con un par de mesas. pedi un trago del lugar en jarra para compartir por $34, alcanza para 2 vasos chicos y el maracuya parecia tang.... la proxima me pedire una cerveza nada mas."
+    }, 
+    {
+      "date": "16 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MartinEzcurra", 
+      "text": "Fui con un amigo dispuesto a tomar un vino y acompa\u00f1ar con alguna comidita la verdad que el rosti de papas sorprendi\u00f3 con un sabor particular. \r\nEl vino estaba bien por el costo, y se destaco el servicio con una atenci\u00f3n dedicada pero que no molestaba. Muy lindo el lugar aunque pondr\u00eda mas luz."
+    }, 
+    {
+      "date": "18 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ilijoe", 
+      "text": "Linda ambientacion, le falta un poco de luz - no habia mucha gente. Buenamisica, y buen servicio!"
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nieve", 
+      "text": "Muy lindo lugar, muy ricos tragos!!! La pasamos super bien"
+    }, 
+    {
+      "date": "1 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Polibrat", 
+      "text": "Realmente las terrazas del lugar son increibles y se disfruta mucho un almuerzo all\u00ed porque se puede disfrutar del sol muy relajadamente y con absoluta privacidad. Es altamente recomendable almorzar en este lugar. \r\nTambien recomiendo los jugos de fruta y vegetales."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mikaela", 
+      "text": "Es un lugar especial, discreto y particular. Sorprende la distribuci\u00f3n de los espacios y la personalidad de cada detalle. Quiz\u00e1s bohemio, quiz\u00e1s clandestino! A mi particularmente me encant\u00f3!!!!! La atenci\u00f3n incre\u00edble y los domingos hay musica en vivo. Los tragos tipo cocteles son bueniiiiisimos!"
+    }
+  ]
+}

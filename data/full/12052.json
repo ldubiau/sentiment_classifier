@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ferly", 
+      "text": "Deben mejorar la atenci\u00f3n se demoraron mucho en etendernos y no habia tanta gente"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "caritosala", 
+      "text": "Las mejores cookies!!!!"
+    }
+  ]
+}

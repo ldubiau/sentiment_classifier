@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "7 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lolepalo", 
+      "text": "Ayer a la noche fuimos a cenar 12 personas y la comida estuvo horrible- el asado recalentado y lleno de grasa y las papas fritas recalentadas tambien, parecia que estabamos comiendo las sobras del fin de semana. la verdad un desastre! no lo recomiendo."
+    }, 
+    {
+      "date": "20 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Sabor", 
+      "text": "Decidi ir con mi novio ayer a almorzar y fue lamentable TODO.\r\nCuando llegamos la se\u00f1ora que nos recibio nos dijo que no tenia lugar directamente, fue iniciativa nuestra preguntar cu\u00e0nto tenia de demora para poder esperas. Por suerte estuvimos 15`nada mas esperando. Cuando fuimos al salad bar no habia quedado casi nada. Pedimos una entrada que no tenian, quisimos pedir un vino en botella chica y tampoco tenian, como plato pcipal queriamnos cordero y tampoco tenian!! La gaseosa era tirada, no en botella. Nos trajeron las papas fritas y los chorizos por separado y mucho tiempo despues la carne. Parece que el mozo no sabia que las papas fritas eran para acompa\u00f1ar el asado. Tuvimos que devolverlo y que nos traiga todo junto, muy molesto el mozo apoyo los platos en la mesa de muy mal modo. A todo esto tenia un pelo en el plato. Muy molestos decidimos dejar de comer  e irnos sin el postre. Cuando llega el momento de pagar nos dicen que no aceptan mas ticket. Despues de hablar con la encargada del restaurant y explicarle el gran disgusto que fue para nosotros haber almorzado ahi, finalmente acepto cobrarnos los tickets. Pero terminamos pagando $88 por algo que no lo vale."
+    }, 
+    {
+      "date": "13 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "GGerR", 
+      "text": "Entr\u00e9 a las 23:30 y quer\u00eda comer algo de entrada, pero por sorpresa no hab\u00eda nada.\r\nNi siquiera para hacer una ensalada de tomate y lechuga. La carne que pedimos, estaba fr\u00eda y era de madera. No lo recomiendo para nada. Es m\u00e1s, no vuelvo."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "tano1", 
+      "text": "Error en el tema de la reservaci\u00f3n, ya que nos cancelaron la nuestra equivocandose con otra. Muy mala atenci\u00f3n del mozo, las porciones eran equivocadas y de un tama\u00f1o despreciable cuando se le hac\u00eda un pedido para seis personas. Muchas veces nunca trajo lo que se le pidi\u00f3, la bebida estaba caliente y no trajo la botella de donde la sirvi\u00f3. El postre fue p\u00e9simo y el mozo siempre respond\u00eda de mala manera frente al comentario del servicio mediocre."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Parrilla tradicional que tuvo su \u00e9poca de esplendor pero que ha bajado notoriamente la calidad"
+    }, 
+    {
+      "date": "12 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bubo", 
+      "text": "Buen lugar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Arum", 
+      "text": "El ambiente es agradable, amplio y c\u00f3modo y la atenci\u00f3n del personal es impecable. La calidad de la carne y dem\u00e1s alimentos es de primera. Merece una especial felicitaci\u00f3n por su dedicaci\u00f3n, la persona a cargo del asador que desde antes de las 8 de la ma\u00f1ana comienza a preparar las carnes para el asador a fin de que lleguen a la mesa en su punto justo, tierna y sabrosa."
+    }
+  ]
+}

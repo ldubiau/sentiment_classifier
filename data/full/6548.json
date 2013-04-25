@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "18 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "quimos", 
+      "text": "No es un restaurante, si no un cafe glorificado, donde sirven una carta acotada de comida de regular para abajo y si la fortuna no acompa\u00f1a, hay que aguantarse algun artista amateur (hay que pagar $10 adicionales por persona) que atrae a sus amigos y familiares para alentar, pero que puede atormentar a los comensales con su actuacion. Los ravioles de espinaca ($30) estaban bien, la milanesa de peceto era una feta de peceto con mas pan rayado que otra cosa; escasa la panera. Nos escapamos del tormento artistico apenas terminamos de comer. No volvemos ni con descuento."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Lucilaf", 
+      "text": "Muy buen lugar! Super original y tranquilo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Borja", 
+      "text": "El pat\u00e9 de entrada estaba exquisito.Que ricos ravioles caseritos !\r\nLa mejor opcion de la zona, excelente atencion, muy cordial, primer nivel, super tranquilo y agradable.\r\nMe gust\u00f3 mucho!"
+    }, 
+    {
+      "date": "22 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MRiva", 
+      "text": "Es uno de los pocos lugares atendidos por sus due\u00f1os donde uno encuentra la perfecta combinacion de comida casera con excelente ambiente.\r\nOpci\u00f3n muy recomendable para aquellos que buscan una excelente relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "20 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ito2", 
+      "text": "un lugar muy calido, de precios accesibles y la comida sin palabras..... EXCELENTE"
+    }
+  ]
+}

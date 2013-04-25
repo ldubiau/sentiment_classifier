@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "28 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mpacheco", 
+      "text": "Si es el que yo creo que era, antes era conocido como \\\"La Martina\\\" y hac\u00eda muy ricas pizzas a la parrilla. Fui pensando que era este y entr\u00e9. Muy buenas pizzas. Volver\u00e9 para reconfirmarlo."
+    }, 
+    {
+      "date": "28 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "evisarg", 
+      "text": "Se come pizza y nada mas me parece. No est\u00e1 mal, para salir con amigos antes de ir a bailar. No es muy para parejas"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "katto65", 
+      "text": "Recomendable. La pizza es muy buena, el lugar y la atenci\u00f3n son buenos. Lo \u00fanico es que es un poco ruidoso, pero da para una salida con amigos."
+    }
+  ]
+}

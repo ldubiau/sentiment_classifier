@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "5 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "ariana07", 
+      "text": "Muy lindo lugar, ubicado sobre una calle tranquila con mesas al aire libre en el  frente. Mi \u00fanica cr\u00edtica con respecto a la ambientaci\u00f3n, es que las mesas para dos son MUY chicas. En cuanto a la comida, muy buenas la rabas y correctas las pastas. Volveremos para probar la picada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "caly", 
+      "text": "Correcto, lugar bonito, traquilo, la comida normal y los precios tambien. Pude utilizar el servicio de WIFI sin problemas y a una muy buena velocidad. Para recomendar."
+    }, 
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rotulau", 
+      "text": "Fuimos a cenar 10 personas un viernes y nos ubicaron enseguida al ingresar, eran las 23 y no estaba lleno. La decoraci\u00f3n del lugar es muy arm\u00f3nica.\r\nLa picada fue buena y muy variada pero extremadamente cara. Respecto de la pizza, realmente no se las recomiendo, lleg\u00f3 casi fr\u00eda y la mozzarella no era de calidad, m\u00e1s bien era un queso cremoso de media a baja calidad.\r\nLa atenci\u00f3n desastrosa: llev\u00e9 mi notebook y ped\u00ed en tres oportunidades una silla para apoyarla y tuve que tomarla yo porque no me daban bolilla. \r\nAlgunos pidieron vino, el mozo lo abri\u00f3 y se retir\u00f3 antes de que lo probaran."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rinocerose", 
+      "text": "La gastronom\u00eda del barrio de Ramos Mej\u00eda est\u00e1 en pleno auge; se han abierto muchos restaurantes en los \u00faltimos 2 a\u00f1os. Lo extra\u00f1o es que, con una saturaci\u00f3n de oferta, la misma sea de gran calidad y todos los restaurantes trabajen casi al 100 mismo, los d\u00edas de semana. Este es uno de esos restaurantes para comer bien, con una excelente cocina de sabores tanto aut\u00f3ctonos como refinados. La ambientaci\u00f3n es muy buena y el servicio tambi\u00e9n. Sin dudas es un restaurante que bien podr\u00eda estar situado en Recoleta o Puerto Madero, pero a favor del p\u00fablico de la zona oeste, est\u00e1 muy bien ubicado en la \"San Isidro de La Matanza\"."
+    }
+  ]
+}

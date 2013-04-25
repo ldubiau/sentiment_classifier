@@ -1,0 +1,76 @@
+{
+  "malos": [
+    {
+      "date": "14 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Florenciafel", 
+      "text": "Parece un muy buen lugar, pero el servicio es malo, demoran en traer los platos y en cobrar. Eramos 20 personas que hab\u00edamos llamado con antelaci\u00f3n, y trajeron la mitad de los platos y la otra mitad, cuando el resto ya hab\u00eda terminado de comer. Platos fr\u00edos, insulsos, desabridos, no respetan lo que prometen en la carta...fui tres veces pero no voy mas...una lastima porque hicieron una gran inversi\u00f3n para refaccionar esa esquina"
+    }, 
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Nur28", 
+      "text": "P\u00e9simo servicio, p\u00e9sima comida y encima, tardan tres horas para traer cada cosa. Al mediod\u00eda, cuando uno s\u00f3lo tiene una hora para almorzar. El lugar es lindo, pero no vale la pena."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Guillee2", 
+      "text": "El ambiente es comodo, las mesas de lso laterales tienen las sillones altos que dan mas privacidad.\r\nLa comida es del tipo rapida, y la carta no es muy extensa. Es una buena opcion para ir con amigos o pareja, pero el menu no es su fuerte."
+    }, 
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "majo", 
+      "text": "Muy lindo el ambiente. Atenci\u00f3n cordial. Rica comida y a buen precio. \r\nFue una opci\u00f3n nueva para el almuerzo de oficina. Vuelvo seguro."
+    }, 
+    {
+      "date": "5 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "daconta50", 
+      "text": "Excelente ambiente y gente muy amable. Show de tango con orquesta de 9 m\u00fasicos. Alternativa recomendable."
+    }, 
+    {
+      "date": "3 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Canuto", 
+      "text": "El lugar es amplio y c\u00f3modo con m\u00e1s estilo de pub que de restaurante,los platos son simples salen con alguna demora,tienen buenos tragos, se torna m\u00e1s agradable cuando le incorporan funciones teatrales y/o musicales"
+    }, 
+    {
+      "date": "4 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "MatoM", 
+      "text": "Ambiente muy calido y amistoso. Gente muy accesible, atenta a los clientes. Un muy buen lugar para comer, y mejor aun para hacer una larga sobremesa con amigos."
+    }
+  ]
+}

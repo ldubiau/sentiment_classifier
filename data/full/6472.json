@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "17 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Emepol", 
+      "text": "Buena comida y atenci\u00f3n. Amplia variedad de opciones, aunque si uno va algo tarde puede encontrarse con que hay platos que ya no est\u00e1n disponibles."
+    }, 
+    {
+      "date": "17 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ward", 
+      "text": "Muy buena opci\u00f3n, tanto como delivery como para quedarse a comer. Tienen una gran variedad de platos vegetarianos frios y calientes, la atenci\u00f3n es amable y el lugar es simple, pero c\u00f3modo."
+    }, 
+    {
+      "date": "19 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lcandel", 
+      "text": "Mi tenedor libre favorito hasta el momento. Todo es muy rico y fresco. Las sopas son excelentes. Es economico y super recomendable."
+    }, 
+    {
+      "date": "13 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "javotv", 
+      "text": "Un clasico tenedor libre vegetariano en Palermo. Muy sabroso y variado, ensaladas y platos calientes. El precio fijo incluye postres. Siempre con bastante gente. No venden bebidas con alcohol. Fuimos muchas veces y nunca nos defraudo. Rico, sano y barato."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "maria_e1", 
+      "text": "Uno de mis favoritos. Tenedor libre vegetariano a un excelente precio. \r\nLa comida fresca. Los hongos agridulces son deliciosos. \r\n\r\nL\u00e1stima no tienen varieda de jugos frescos, pero se puede pedir en botella t\u00e9 verde con jazmin o ciruela."
+    }
+  ]
+}

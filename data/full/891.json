@@ -1,0 +1,638 @@
+{
+  "malos": [
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "EL_CUCO", 
+      "text": "Me pareci\u00f3 absolutamente sobrevalorado.\r\nPara probar un buen lugar no hace falta m\u00e1s que pedir algo sencillo y en mi caso ped\u00ed una entra\u00f1a que si la tiraba al piso, seguro rebotaba hasta el techo y una papa con aceite de oliva que no ten\u00eda ni sabor.\r\nNo  vale la pena agrar nada m\u00e1s. Los precios est\u00e1n muy por arriba de la calidad. la calidad"
+    }, 
+    {
+      "date": "30 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "BMOBRICI", 
+      "text": "Ya no es lo que era, nada m\u00e1s."
+    }, 
+    {
+      "date": "3 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "comogusanitos", 
+      "text": "El lugar muy lindo y agradable, pero la comida ya no es lo que era. La carne de regular calidad. Mala relacion precio/calidad ya que tiene precios para turistas que pagan con euros. Fuimos ocho personas y nadie qued\u00f3 conforme. No pienso volver."
+    }, 
+    {
+      "date": "12 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Mavs", 
+      "text": "Hicimos una reserva con 1 d\u00eda de antelaci\u00f3n. Al llegar nos ubicaron en una mesa a 3 metros de la puerta, y compartida con otras dos personas. Una verg\u00fcenza. Adem\u00e1s el lugar es muy ruidoso. Nos fuimos a comer a otro lado"
+    }, 
+    {
+      "date": "31 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Vadarkablar", 
+      "text": "El lugar muy lindo  y agradable, pero la comida ya no es lo que era. La carne de regular calidad. Mala relacion precio/calidad ya que tiene precios para turistas que pagan con euros. Fuimos ocho personas y nadie qued\u00f3 conforme. No pienso volver."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "brooklynite", 
+      "text": "Es muy recomendable para almuerzo de negocios. Un puntazo a favor: estacionamiento sin cargo por dos horas en una zona donde no hay lugar para estacionar."
+    }, 
+    {
+      "date": "21 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andy88", 
+      "text": "Siempre llevamos amigos turistas y se van encantados, es caro si pero la atencion es de primera.\r\nYa nos sentimos como de la familia.\r\nLas carnes muy buena,me gusta mucho el bife mariposa,me gusta mucho,nos atienden muy bien desde el primer dia que fuimos."
+    }, 
+    {
+      "date": "23 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Miwa", 
+      "text": "Un manjar espectacular para llevar clientes extranjeros y turistas  que gustan saborear la carne Argentina y llevarse los premios."
+    }, 
+    {
+      "date": "14 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "chiquitalinda", 
+      "text": "Voy cada tanto a comer empanadas o carne. La parrilla es buena pero a nada le ponen sal, el servicio es cordial pero hasta ah\u00ed, podr\u00eda ser mejor con lo que cobran. La panera es mal\u00edsima, trajeron los bu\u00f1uelos de espinaca de aperitivo cuando terminamos de comer, las papas fritas no estaban ricas, ped\u00ed un t\u00e9 que jam\u00e1s vino y no me cobraron la ensalada porque encontr\u00e9 una gomita el\u00e1stica dentro. Lo \u00fanico que vale es la carne/achuras. el ambiente es ruidoso e inc\u00f3modo."
+    }, 
+    {
+      "date": "18 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "lucioala19", 
+      "text": "Car\u00edsimo, las comida esta muy bien pero es muy exagerado el precio de toda la carta, una porcion de tira de asado muy finita sale 120 pesos. No vale la pena el costo, y el ambiente es viejo, feo y menemista. No es un lugar para comer comodo, esta lleno de gente mostrandose y hay mucho  mucho ruido. Las mesas estan muy juntas y la atencion del mozo es muy buena pero los demas te tratan muy mal. Hay lugares mucho mejores para disfrutar buena carne."
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chinocapote", 
+      "text": "Excelente parrilla de nivel. Toda la carne es de calidad premium, recomiendo las mollejas. Te fajan con el vino y se llena de turistas."
+    }, 
+    {
+      "date": "14 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "faycla", 
+      "text": "Si bien es caro, vale la pena. La calidad de la mercaderia se nota en cada bocado."
+    }, 
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Efficient", 
+      "text": "Como siempre digo, parrillas donde se come realmente bien se cuentan con los dedos de una mano. El Mirasol es una de esas pocas parrillas de Buenos Aires donde la calidad de la materia prima es excelente y los cortes salen en el punto solicitado.  No pretenden hacer mas de lo que pueden y deben. La experiencia es siempre mas que satisfactoria. Muy recomendado."
+    }, 
+    {
+      "date": "26 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "JuanMRo", 
+      "text": "No muchos lugares pueden jactarse de tener la mejor carne argentina, El Mirasol si lo tiene y adem\u00e1s la saben cocinar a la perfecci\u00f3n en la parrilla. Excelente casi todo, el precio alto es para mantener cierta exclusividad, algo innecesario tal vez. Para lograr la excelencia, mejorar\u00eda la presentaci\u00f3n y preparaci\u00f3n de las ensaladas. Lo merecemos."
+    }, 
+    {
+      "date": "13 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guillesonrisa", 
+      "text": "Evidentemente me toco un mal dia. Habia mucha gente y estaba muy ruidoso. El servicio fue muy lento y tardaron bastante en traernos todo ( hasta la panera !!). El bife de chorizo estaba muy bueno, pero la carne que comio mi pareja, nada tierna y no respetaron el pedido de coccion. Bastante caro por lo que comi. Es para turistas"
+    }, 
+    {
+      "date": "12 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "muchomorfi", 
+      "text": "Excelente la parrila, servicio bueno y el ambiente esta bueno pero comes muy pegado a la otra mesa. El precio es razonable para la calidad de comida."
+    }, 
+    {
+      "date": "18 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "elgrankoko", 
+      "text": "Algo paso este mediodia. La atencion fue HORROROSA!!!!!!!!! Mesa de 10 personas y entre el primer plato que sirvieron a uno de los comensales y el ultimo pasaron 35 minutos. Imperdonable en un lugar de este nivel y sobre todo de este precio.estaba repleto de gente y MUY ruidoso. He ido varias veces y en general es bueno aunque suele no ameritar los precios pero esta vez fue MUY FLOJO. Atencion totalmente discordinada. Las carnes como siempre, buenas, nada mas que eso.No estoy seguro de volver aunque fue tan malo que deberia darle otra oportunidad....creo."
+    }, 
+    {
+      "date": "7 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Julialh", 
+      "text": "La ateci\u00f3n es excelente. La parrilla y las carnes perfectas. Recomiendo los chinchulines de cordero.El \u00fanico detalle es que las mesas estan muy juntas. Los precios me parecen acordes a la calidad y la carta de vinos es muy interesante.Sin dudarlo, volver\u00eda"
+    }, 
+    {
+      "date": "14 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gnicolas", 
+      "text": "Un lugar con buen ambiente y muy buena comida, aunque la colita de cuadril no era del todo tierna. La selecci\u00f3n de vinos es correcta y el servicio muy profesional y agradable. Obviamente, precios para turistas."
+    }, 
+    {
+      "date": "27 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "meriii", 
+      "text": "Sin duda una de las mejores parrillas de Buenos Aires. La ensalada macrobiotica es imperdible ademas de sus excelentes cortes de carne. El servicio muy cordial como siempre. Volveria."
+    }, 
+    {
+      "date": "10 Jul 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "coco9234", 
+      "text": "La comida es buena y nada mas. La atenci\u00f3n mala y despersonalizada:el mozo no se acerc\u00f3 ni a servir el vino ni pregunt\u00f3 el punto de cocci\u00f3n pues debimos informarlo nosotros con sorpresa. El precio muy alto en relaci\u00f3n a la calidad de los productos y ni hablar del servicio. No lo recomiendo."
+    }, 
+    {
+      "date": "15 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fedcar", 
+      "text": "Sigue siendo uno de los mejores lugares de Buenos Aires, para comer carne, mozos con experiencia, mesas un poco juntas, pero en general uno sale conforme"
+    }, 
+    {
+      "date": "12 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Efficient", 
+      "text": "No es casualidad que una parrilla que nacio en Boedo tenga presencia en dos de las zonas mas importantes de restaurantes de la Capital Federal. Esta entre las mejores parrillas. La atencion es muy buena, los mozos son de la vieja escuela. Recomiendo las empanadas de carne, el vacio del fino y los pastelitos para terminar. Hay pocas posibilidades de que la comida no supere las espectativas."
+    }, 
+    {
+      "date": "6 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SW4o", 
+      "text": "Son muy recomendables las mollejas y la crema de Sambayon tibia!"
+    }, 
+    {
+      "date": "3 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "balrogen2", 
+      "text": "Esperaba un poco mas de este lugar, la carne no estaba muy tierna, la relacion precio calidad no existe. La seleccion de vinos es buena y hay alguno que otro en buen precio, el servicio es muy correcto y agradable."
+    }, 
+    {
+      "date": "7 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "avedepresa", 
+      "text": "Muy buena comida aunq nada del otro mundo. El servicio bastante berreta, el mozo ue nos toco no nos dejaba elegir con libertad, cada cosa que pediamos era bastardeada y luego recomendaba con una insistencia bastante pujante e incomoda lo que teniamos que comer. ELegimos la mitad nosotros y la otra mitad el. El ambiente cumple. La calidad de la comida es mas que correcta, bien servida y buenas porciones. Creo que se come la misma calidad con un preico mucho mas bajo."
+    }, 
+    {
+      "date": "20 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "caviar", 
+      "text": "La atenci\u00f3n muy profesional. Las carne y achuras en su punto, de muy buena calidad. Una de las mejores parrillas de Buenos Aires."
+    }, 
+    {
+      "date": "11 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Buscocalidad", 
+      "text": "El maitre fue agresivo con los comensales, a tal punto que antes de terminar la comida pidi\u00f3 que tres mozos retiraran los platos a la misma mesa. \r\nEl motivo de la inquina: la demora en llegar respecto del horario de la reserva.\r\nEl encargado del restaurante pidi\u00f3 disculpas, pero ning\u00fan resarcimiento p\u00fablico ni moral.\r\nEs incre\u00edble que un lugar en donde se brinda un servicio tenga como cara visible a un energ\u00fameno. Nos agu\u00f3 la cena, nos perjudic\u00f3 a nivel profesional, y nos dej\u00f3 una gran ense\u00f1anza: en la Argentina, todav\u00eda hay personas que no saben lo que significa \"atender a un cliente\"."
+    }, 
+    {
+      "date": "4 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "VIAJERO", 
+      "text": "He ido varias veces y lo he recomendado much\u00edsimo. \u00daltimamente he constatado que la calidad de la carne ya no es la misma. Tampoco los precios que subieron un cuarenta por ciento. \r\nPregunt\u00e9 al mozo y me respondi\u00f3 que \"lo de la carne anda muy complicado\". \r\nNo me parece una buena explicaci\u00f3n."
+    }, 
+    {
+      "date": "24 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Llev\u00e9 un italiano a probar carne argentina y qued\u00e9 muy bien. \r\nVolvi\u00f3 s\u00f3lo varias veces reconociendo que manten\u00edan su calidad."
+    }, 
+    {
+      "date": "22 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Equi", 
+      "text": "La carne es de lo mejor que hay. Las ensaladas son muy buenas. Faltar\u00eda mejorar un poco el ambiente."
+    }, 
+    {
+      "date": "14 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Poe", 
+      "text": "El d\u00eda 14 de Julio fui junto con mi novia a cenar a \"El Mirasol de la Recova\". Qusiera comentar que, pese a haber hecho la reserva con\r\nantelaci\u00f3n, la mesa que nos asignaron no estaba bien ubicada, ya que se\r\nencontraba demasiado cercana a una columna, con casi nula privacidad por estar pr\u00e1cticamente al lado de otra mesa. Por lo tanto, el sentido de la reserva qued\u00f3 as\u00ed desvirtuado. El ambiente era bueno, aunque daba la sensaci\u00f3n de que hab\u00eda demasiadas mesas. La atenci\u00f3n fue correcta y la comida muy buena.\r\nLamentablemente, ninguna de las dos variantes de profiteroles anunciadas en la p\u00e1gina web del restaurant (y tambi\u00e9n en la de Gu\u00eda Oleo) se hallaban incluidas en la carta de postres.\r\nEn s\u00edntesis: un lugar con buen ambiente y muy buena comida, pero para el que\r\nsugiero hacer la reserva dando indicaciones m\u00e1s que espec\u00edficas sobre lo que\r\nse desea, porque de lo contrario la asignaci\u00f3n de ubicaci\u00f3n es aleatoria."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ateneax", 
+      "text": "Excelente lugar para almuerzos de trabajo y para llevar a amigos extranjeros. La carne es de muy buena calidad. La atenci\u00f3n y ambientaci\u00f3n justifican el precio final. Altamente recomendable."
+    }, 
+    {
+      "date": "16 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "FeGui", 
+      "text": "Excelente lugar para llevar clientes y turistas ... la atenci\u00f3n es muy buena. Recomiendo las mollejas de corazon y la entra\u00f1a."
+    }, 
+    {
+      "date": "4 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lbevi", 
+      "text": "excelente atencion, eso lo mas destacable de un lugar q no baja la nota en ningun momento. pedimos de entrada mollejas (increibles) y de principal un ojo de bife jugoso increible acompaniado con un buen malbec. destaco nuevamente el servicio q aunque no habia mucha gente en ese momento siempre estuvo atento y rapido. un gran lugar para cenar."
+    }, 
+    {
+      "date": "7 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LeNoir", 
+      "text": "Ten\u00eda que quedar bien con amigos extranjeros ansiosos de degustar la promocionada carne argentina. Me recomendaron este lugar y fue un \u00e9xito."
+    }, 
+    {
+      "date": "24 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marigus", 
+      "text": "Siempre tienen calidad en la carne que sirven, esta vez no pedimos el Lomo entero que para mi gusto es lo mejor, pero igualmente la carne nos encanto. La atencion es excelente, recomiendo a todos el restaurante aun cuando reconocemos que no es economico. Casi nunca llegamos al postre por quedar muy satisfechos antes. Comimos 2 personas $ 467 total, no recuerdo el detalle de precios."
+    }, 
+    {
+      "date": "10 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alphapub", 
+      "text": "Realmente vale la pena pagar 150 el cubierto porque uno siente que lo que recibi\u00f3 a cambio lo val\u00eda."
+    }, 
+    {
+      "date": "1 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "caw777", 
+      "text": "Para comer muy buena carne.  Algo caro pero se nota la calidad de las carnes. El servicio profesional de mozos de carrera, aunque por momentos sin demasiado entusiasmo.\r\nDefinitivamente recomendable para el que busque una parrilla de buena calidad."
+    }, 
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "delmonico", 
+      "text": "La parrilla por excelencia para llevar a extranjeros. Carne de primera calidad. Recomiendo el matambre asado. Gran surtido de ensaladas. Igualmente, las mollejas. Buena variedad de vinos, de todo precio. El ambiente, bueno, la atenci\u00f2n es muy buena. Caro pero lo vale."
+    }, 
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "El Mirasol ocupa un lugar indiscutido en la elite parrillera porte\u00f1a. Qu\u00e9 m\u00e1s se puede pedir que materia prima de excelencia cocinada a la perfecci\u00f3n...desde las ensaladas hasta los principales, que pueden ser acompa\u00f1adas por vinos para todos los gustos. Los precios son altos, pero lo valen. La atenci\u00f3n est\u00e1 a la altura y aunque no resalte no dejan espacio para que uno se preocupe por nada. El \u00fanico espacio para la mejora podr\u00eda ser la ambientaci\u00f3n, separando o quitando algunas mesas y modernizando el mobiliario. Un lugar para sentirse orgulloso de los frutos de nuestra tierra."
+    }, 
+    {
+      "date": "14 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Neyba", 
+      "text": "Una de mis parrillas favoritas de la ciudad, por no decir que la mejor... el servicio es excelente, aunque se llena bastante... en mi top 3 sin duda alguna."
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rominayp", 
+      "text": "muy buen lugar, excelente atencion, los mozos muy correctos, para recomendar las EMPANADAS DE CARNE, muy buenas!! lugar muy recomendable"
+    }, 
+    {
+      "date": "15 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "javipalo", 
+      "text": "Excelente parrilla. En mi opini\u00f3n la mejor de Buenos Aires. Al menos de momento no encontr\u00e9 otra igual. Ideal para llevar compromisos."
+    }, 
+    {
+      "date": "4 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sancci", 
+      "text": "Todo muy bueno,primer nivel,de platos,carne justo a punto,no tardo para nada,sin detalles,nos atendieron de mil maravillas,el lugar y su ubicacion,sin discusion,carta de vinos surtida,solo la cuenta es salada.\r\nPara ir de vez en cuando,no tiene margen de error."
+    }, 
+    {
+      "date": "1 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "morg", 
+      "text": "La comida excelente, lo mismo que la atenci\u00f3n muy profesional. S\u00ed es ruidoso y falto de espacio pero vale la pena.\r\nCarta de vinos muy buena, hay de todos los precios."
+    }, 
+    {
+      "date": "26 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JEAS", 
+      "text": "Restaurante excelente,seguramente la mejor parrilla que hay en Buenos Aires, vez que muchas de las indicadas no merecen estar ah\u00ed.\r\nEl sector fumador es perfecto para los d\u00edas amenos, pero el interior tiene problemas de espacio.\r\nLas carnes llegaron en el punto solicitado, y la carta de vinos es diversificada y con precio muy razonable.\r\nLa atenci\u00f3n de los mozos es destacada."
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Koche", 
+      "text": "Fui me invitaron por trabajo sin palabras EXCELNTE"
+    }, 
+    {
+      "date": "5 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "josem", 
+      "text": "Aunque las mesas estan demasiado juntas, nada impide disfrutar de la calidad de la carne y la atencion esmerada de los camareros. Un capitulo aparte la variedad de eensaladas, muy recomendable el 1/4 de organica para compartir entre 2 o 3 personas. Las albondigas de espinacas, un manjar y EL MEJOR TIRAMISU DE BUENOS AIRES."
+    }, 
+    {
+      "date": "6 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ckuc", 
+      "text": "La carne realmente tiernisima y cocinada la perfeccion. Todo muy profesional, \"para exportacion\". Ideal para reuniones de trabajo e invitaciones a extranjeros."
+    }, 
+    {
+      "date": "16 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "calixtocarbone", 
+      "text": "Una muy buena comida (por no decir excelente). Carta con varias opciones, buenos precios para lo que se recibe. Muy bien elaborada y destacable parrilla. \r\nAunque las mesas est\u00e1n un poco juntas, el lugar esta muy bien ambientado. \r\nTrabaja mucho, por lo que es posible se tenga que esperar para conseguir una mesa (igualmente siempre muy atentos, le brindan a uno una copa de champagne para aguardar).\r\nEl servicio es realmente destacable, camareros con experiencia (se ve poco en muchos lugares de moda en Buenos Aires), que saben muy bien el oficio.\r\nMuy buena carta de vinos.\r\nRecomendable 100"
+    }, 
+    {
+      "date": "27 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "larrusa", 
+      "text": "Es un cl\u00e1sico. La entra\u00f1a a punto, su especialidad. La atencion es sumamente profesional. Los mozos siempre se acuerdan de sus clientes. Es un placer volver y volver, tanto al mediodia como a la noche."
+    }, 
+    {
+      "date": "4 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Numero12", 
+      "text": "Me encant\u00f3 este restaurante. La comida es b\u00e1rbara y vuelvo encantado cada vez que regreso a Buenos Aires."
+    }, 
+    {
+      "date": "24 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "el3131", 
+      "text": "Servicio y comida perfecta, mozo verdaderamente profesional."
+    }, 
+    {
+      "date": "1 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rosey79", 
+      "text": "One of my favorites. This place gives meaning to the word professional."
+    }, 
+    {
+      "date": "4 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pacm01ar", 
+      "text": "Un poco ruidoso, pero la comida fue muy buena."
+    }, 
+    {
+      "date": "19 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Muy buena comida y atenci\u00f3n esmerada del mozo que hizo una excelente recomendaci\u00f3n de vino y recordaba a la comensal despu\u00e9s de un par de d\u00edas. \r\nA la persona extranjera a la que llev\u00e9 le encant\u00f3 y piensa volver. \r\nA m\u00ed como \"local\" lo \u00fanico que no me convenci\u00f3 del todo son los precios un tanto elevados."
+    }, 
+    {
+      "date": "9 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ralphg88", 
+      "text": "I travel a lot and taste a lot of different restaurants in one year. \r\nThis one is one of the best in quality and\r\nservice i have ever had. \r\nBetter \"parilla\" than a lot of famous ones, i went to taste over the last few days in Buenos Aires! Quality is just excellent! Outstanding service even they were very busy. \r\nWill go back there tomorrow!"
+    }, 
+    {
+      "date": "20 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "HOPE", 
+      "text": "La carne excelente, el servicio muy bueno, el gerente un dulce, una de las\r\nmejores parrilas de Buenos Aires."
+    }, 
+    {
+      "date": "20 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mozamb", 
+      "text": "Excelente comida. Muy buena la carne y las ensaladas.\r\nRecomiendo la colita de cuadril entera."
+    }, 
+    {
+      "date": "2 Feb 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gfrers", 
+      "text": "muy buena comida (carne), muy buenas ensaladas, buen precio para el vino. mal servicio"
+    }, 
+    {
+      "date": "13 Ago 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "arielu", 
+      "text": "Se puede esperar siempre excelente carne, muy buen lugar."
+    }, 
+    {
+      "date": "12 Ago 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "maxi_mar", 
+      "text": "El servicio estuvo OK pero peor de lo que sol\u00eda ser: el mozo tardaba en aparecer, etc. La comida como siempre excelente. Recomiendo el lomo o el matambrito de cerdo."
+    }
+  ]
+}

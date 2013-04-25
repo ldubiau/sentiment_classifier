@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "22 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Elgabo5002", 
+      "text": "El lugar este bien, caluroso, pero bueno. No se si lo que pedimos (lomo alquimia, ya que no hab\u00eda cordero) es el mejor plato, pero honestamente, si lo preparamos en casa nos sale mejor. En s\u00edntesis no pudimos disfrutar de una cena en un lindo lugar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "chinavarela", 
+      "text": "Es un lugar muy calido, intimo, la atencion fue muy buena, pedimos una variedad de tapeo, y resulto muy rica y abundante. Para recomendar."
+    }, 
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mariposa1984", 
+      "text": "S\u00e1bado a la noche un hombre en la calle nos acerca un folleto para este resto y nos invita a conocerlo,fuimos con desconfianza.Pero resulto muy bueno! Un lugar q se divide en terraza y sal\u00f3n(luz baja) decorado con elementos d qu\u00edmica:libros, botellones, etc.Atenci\u00f3n muy completa: te convidan vino dulce, pan caliente y ajies en aceite;pedimos pollo alquimia (pollo con malbec,hongos d pino y papas noisette) muy rico y abundante! Lugar con onda y buena atenci\u00f3n. Lugar econ\u00f3mico y limpio, apto para ir con amigos o pareja. Volver\u00e9!"
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "her_sigloXXI", 
+      "text": "El restaurante es una muy buena opci\u00f3n en San Telmo. Agradable y cuidada atenci\u00f3n en un lugar refaccionado recientemente. Carta de vino corta y cara."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Potyw1", 
+      "text": "Excelente la degustacion de tapeos, la atenci\u00f3n y el ambiente. Muy recomendable."
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tururu", 
+      "text": "Muy buen restarurante, muy buenos platos junto con su elaboracion, muy bueno el ambiente  y variado , lo recomiendo"
+    }
+  ]
+}

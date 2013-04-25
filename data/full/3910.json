@@ -1,0 +1,718 @@
+{
+  "malos": [
+    {
+      "date": "6 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mr_olias", 
+      "text": "Muuuuuuuy lento todo (y eso que casi no habia gente). Es un bajon !!! Lo mejor que tiene es la decoracion, pero no te la podes comer..."
+    }, 
+    {
+      "date": "2 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "nahuelv", 
+      "text": "Esperaba comer la mejor hamburguesa de mi vida, era casera y la verdad le faltaba amasado y un poco de especias. Aburr\u00eda comerla. Bastante ruido en el lugar, el estacionamiento caro para un jueves al mediod\u00eda que est\u00e1 todo vac\u00edo, deber\u00edan hacer un descuento por comer ah\u00ed al mediod\u00eda. Me encant\u00f3 la ambientaci\u00f3n retro"
+    }, 
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "acrobata", 
+      "text": "Las porciones son peque\u00f1as y la calidad de la comida es regular si la comparamos con otros lugares como el Hard Rock Caf\u00e9. La atenci\u00f3n es mala y lenta. Cabe acotar tambi\u00e9n que est\u00e1 ubicado en un lugar poco accesible con medios de transporte p\u00fablico, lo mejor es ir en auto."
+    }, 
+    {
+      "date": "9 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ELMILA", 
+      "text": "Es muy mala la atenci\u00f3n porque llegas y no te atienden,estuvimos esperando mas de 15 minutos y me tuve que levantar a pedir por favor que me tomen el pedido. y ademas no tenes que ir con chicos porque se nota que les molesta demasiado al personal que me pareci\u00f3 incompetente. no tienen buena atencion para al cliente. en definitiva fuimos a pasar un buen momento ynos paso todo lo contrario. el menu infantil es deplorable. gracias por brindarnos este espacio."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "stelli2012", 
+      "text": "El s\u00e1bado 25/08/2012  festejamos el cumple de mi hija, eramos 35 personas fuimos atendidos de manera excelente. La comida y los postres abundantes y riqu\u00edsimos.Todos quedamos muy conformes."
+    }, 
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Fui a cenar un s\u00e1bado a la noche y me encontr\u00e9 con un lugar muy bien ambientado. Visitado por j\u00f3venes o por personas mayores de 35 a\u00f1os intentando aparentar tener 15 a\u00f1os menos.\r\nAprovech\u00e9 a pedir el refill de gaseosa por $18 (te llenan una vez el vaso) y de entrada nos decidimos por unos escasos y comunes bastones de muzzarella ($32). Como plato ped\u00ed la Super Trixie ($52) y mi se\u00f1ora la Trixie Chicken ($42) bastante buenas. De postre opt\u00e9 por un cheesecake bastante flojo ($28) y mi se\u00f1ora por un waffle ($32) muy pero muy bueno.\r\nLa atenci\u00f3n deja bastante que desear. Nada del otro mundo."
+    }, 
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gise27", 
+      "text": "Muy buen ambiente, atenci\u00f3n y comida!!! platos abundantes y postres buen\u00edsimos!! Aprovechamos el 30% con ClubLN, igualmente sin el descuento los precios siguen siendo acordes!"
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Hinhen1", 
+      "text": "Riquisimas las hamburguesas y abundante la porci\u00f3n. La ambientaci\u00f3n buena tb, muy yanqui :P"
+    }, 
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Xeneize", 
+      "text": "Muy buenas las hamburguesas, la atenci\u00f3n deja un poco que desear. El lugar, hermoso."
+    }, 
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "apeluso", 
+      "text": "Fuimos un sabado a la noche con mi novia con una reserva que no sirvio porque cuando llegamos no habia mucha gente. Pedimos unos tacos que la verdad estaban muy buenos y despues unos sandwiches para compartir que estaban riquisimos. La atenci\u00f3n, floja. Los ba\u00f1os en buen estado. Lo que se lleva mis aplausos es el ambiente y la onda del lugar. No me parecio tan caro si lo comparo con lo que podria salir comer en cualquier otro lugar de comida norteamericana. Quizas vuelva..."
+    }, 
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Florcitaa", 
+      "text": "Fuimos con mi novio ayer sabado a la noche. Hermosa la ambientacion!! Hacia un monton que queria conocer y quede muy muy conforme. La comida super abundante y el servicio de 10. La bebida no viene incluida en el menu como en las famosas cadenas de comida rapida, pero tienen sistema de \"refill\", o sea que te vuelven a llenar el vaso cuando se te acaba.. y no lo tuvimos que pedir, sino que la camarera gentilmente se ofrecio a llenarlo..un lujo! Resumiendo, ME ENCANTO y voy a volver prontito!!!!"
+    }, 
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "army1201", 
+      "text": "Muy buen ambiente, la comida abundante y rica, la gaseosa se paga aparte pero tiene un refill, un buen lugar para ir con amigos.\r\nel servicio no es de lo mejor, el mozo cero onda y la m\u00fasica estaba excedida en volumen para un restauran, pedimos que la bajaran pero a los pocos minutos aturd\u00eda nuevamente"
+    }, 
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Las hamburguesas estan buenas, de estilo caseras y con varias opciones para elegir pero tampoco es que son la gran cosa. Los platos vinieron todos muy rapido pero la atenci\u00f3n podria ser mejor. Hay que tener en cuenta que si vas en auto si o si tenes que estacionar en el estacionamiento de enfrente. Con el descuento del club la nacion el precio esta bien."
+    }, 
+    {
+      "date": "28 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "chechomumo", 
+      "text": "Es un sitio diferente, ambientaci\u00f3n t\u00edpica de los diner americanos. La hamburguesa est\u00e1 buena, y sus varias guarniciones la hacen \u00fanica (coleslaw + papas fritas + aros de cebolla todas en el mismo plato). Los waffles, \u00a1supremos! ... Destaca el refill de gaseosa. Vuelvo a destacar el detalle que no tienen estacionamiento y hay que pagar por el del complejo."
+    }, 
+    {
+      "date": "17 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "FLAKY2011", 
+      "text": "no me gusto para nada. un lugar con aspecto de falta de limpieza, un espanto!. la comida regular, la atenci\u00f3n de la moza excelente pero no alcanza...."
+    }, 
+    {
+      "date": "24 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Heaven84", 
+      "text": "Mi\u00e9rcoles por la noche, pocas mesas ocupadas a pesar del dto del Club La Naci\u00f3n del 30 % (que utilizamos y redujo en 100$ la cuenta, muy bueno!).\r\nCumple con lo que ofrece, buena comida r\u00e1pida en un lugar creo que \u00fanico en Buenos Aires por su ambientaci\u00f3n.\r\nLa comida estaba rica, los precios podr\u00edan parecer un poco caros pero con el dto antes mencionado termin\u00e1s pagando menos que en la cadena l\u00edder de hamburguesas.\r\nLo \u00fanico que no me gust\u00f3 fue la atenci\u00f3n, un tanto desganada. Y el hecho de que te den una sola servilleta de papel de las buenas en un lugar donde casi todo se come con las manos."
+    }, 
+    {
+      "date": "2 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Gabyxxx", 
+      "text": "La \u00faltima vez que estuve por ah\u00ed fue el d\u00eda 2 de Abril. Llegamos con mi novio pasadas las 1400 horas, despu\u00e9s de media hora de espera tuvimos que pedirles a los mozos que nos atendieran. No s\u00e9 qu\u00e9 pas\u00f3 con Trixie porque he ido otras veces y no era as\u00ed, el ambiente es s\u00faper ruidoso, tardan un siglo en atender y encima despu\u00e9s atr\u00e1s ten\u00edamos a un tipo con una netbook conversando a los gritos por webcam con otra persona.No se fijan en esos detalles? Est\u00e1 buena la comida que hacen, pero no vuelvo."
+    }, 
+    {
+      "date": "23 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "antom87", 
+      "text": "comimos dos personas (aros de cebolla, dos hamburguesas completas, un waffle, una cerveza y dos aguas), y con el descuento de los martes de club la nacion pagamos $77 en total. muy rico todo, para recomendar. el lugar me encanto, el tipico bar de ruta yanqui.."
+    }, 
+    {
+      "date": "29 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fugazza_rellena", 
+      "text": "Muy buen lugar para comer hamburguesas... Una de las mejores de Bs As... Estilo norteamericano, Exelente la decoracion y muy buena la atencion de los mozos...  No dejen de probar los panqueques y los wafles... Hay un panqueque con manzana y canela increible..."
+    }, 
+    {
+      "date": "31 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fukerito", 
+      "text": "Pase la peor noche de mi vida. El servicio es el mas lento y el peor de todos los restaurantes al que fui.\r\nLa comida estaba bien, pedi una entrada y un plato principal, que me trajeron con 5 minutos de diferencia, por lo cual, termine comiendo fria la comida. Pedi un sundae, que luego de 30 minutos no me trajeron, me canse, pedi la cuenta con el descuento de la nacion y quise pagar con un banco que tambien tiene descuento, que el 21/08 un usuario conto que le combinaron las promos y a mi tambien ya me las habian combinado y ayer me dijeron que no, que raro no? Que antes si, y justo ayer no!"
+    }, 
+    {
+      "date": "24 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "BelR", 
+      "text": "La reseva que habia hecho no la tomaron y nos dieron una mesa cualquiera en el peor lugar que encontraron. La comida esta bien, no es gran cosa, vale la pena ir con el descuento del Club la Naci\u00f3n, sino es caro y realmente no es nada que se destaque. Si no tenes auto es muy complicado ir, y si lo tenes el estacionamiento sale $9 pesos la hora! recomendable solo los dias de descuento."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "micha_ster", 
+      "text": "Fuimos por el descuento de club la naci\u00f3n, y nos enteramos de que ten\u00edamos un 20% adicional con la tarjeta de citi. Impresionante!! Para aprovechar los descuentos, y comer mucho muy barato (terminamos pagando 20$!!). \r\nMuy buenos aros de cebolla y hamburguesas, y geniales los milk shakes. Las ensaladas y tortas son olvidables. \r\nLa \u00fanica contra es el estacionamiento, que cobra 9$ LA HORA! Una l\u00e1stima, encima no es una zona donde pasen muchos colectivos."
+    }, 
+    {
+      "date": "24 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "carsfan", 
+      "text": "Muy buena la ambientaci\u00f3n del t\u00edpico Dinner Americano. Las porciones de los postres y tortas son abundantes y bien presentados. Recomendable, para volver."
+    }, 
+    {
+      "date": "24 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Salemnation", 
+      "text": "Las hamburguesas y todo en general son excelentes. En esta ocasi\u00f3n fui a merendar, y ped\u00ed una promo de Cheesecake con caf\u00e9. Excelente todo, hasta el precio de la promo.\r\nVoy a volver hasta que me haga vegetariano!!!"
+    }, 
+    {
+      "date": "20 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "jenny_d", 
+      "text": "Trixie es un lugar divertido, lleno de gente joven que quiere comer comida \"americana\" y probablemente haya oido hablar de Trixie como opci\u00f3n. La comida est\u00e1 bien, la atenci\u00f3n es adecuada y me gust\u00f3 la carta, que si bien ronda por el mismo tipo de comida, es amplia."
+    }, 
+    {
+      "date": "16 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bautistoe", 
+      "text": "Las hamburguesas son muy buenas, el lugar es un tipico bar americano, esta bueno para ir cada tanto, a los mediodias hay menu ejecutivo."
+    }, 
+    {
+      "date": "26 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Ir a Trixie es trasladarse en tiempo y lugar. Vale visitarlo tan solo por la est\u00e9tica del sal\u00f3n, que emula un bar de ruta de la USA de los 50"
+    }, 
+    {
+      "date": "22 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Martineos", 
+      "text": "Buen lugar para viajar en el tiempo e imaginarse en una cafeteria americana de los 50. Elvis de fondo, gente comiendo en la barra huevos revueltos con tostada. Muy linda experiencia. Vuelvo."
+    }, 
+    {
+      "date": "16 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Buena ambientaci\u00f3n del lugar. Boxes independientes con mucho espacio entre mesas. musica acorde. Servicio atento, aunque no muy amable. Los platos llegaron a tiempo y bien servidos. La comida es solo aceptable y no se compara en calidad y sabor con otros restaurantes de comida \"norteamericana\". Gana en precio, ya que es mucho m\u00e1s econ\u00f3mico que sus competidores. El postre defraud\u00f3: helado de mala calidad y grandes cantidades de crema artificial. no fue mala la experiencia, pero no se si volver\u00eda. Quienes vayan en auto deber\u00e1n sumar a la cuenta $9 por hora de estacionamiento."
+    }, 
+    {
+      "date": "15 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ezetripa", 
+      "text": "muy bueno el ambiente, tipicamente de cafeterias americanas de ruta, como las que se ven en las peliculas"
+    }, 
+    {
+      "date": "30 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CandeCaroCris", 
+      "text": "La comida es buena y precios razonables, muy bien ambientado el lugar.\r\nLa atencion fue mala, nos sentamos afuera porque adentro no habia lugar, no nos venian a atender, tuvimos que ir a buscar a la moza para que nos atienda."
+    }, 
+    {
+      "date": "29 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "aguscla", 
+      "text": "Excelente lugar, nunca habiamos ido a comer, siempre a desayunar o al brunch. Estaba lleno, pero la atenci\u00f3n fue rapid\u00edsima y muy atenta, muy buena onda la camarera. El ambiente es incre\u00edble, realmente te sentis en los 50 o en una pel\u00edcula americana. Y la comida es muy buena,la relacion precio calidad es razonable. Volver\u00edamos a ir totalmente! el super waffle es imperdible!"
+    }, 
+    {
+      "date": "25 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "SOLEMA", 
+      "text": "Confiteria fast food, ambientada como en los a\u00f1os 50, identico al bar donde trabajaba la novia del hombre ara\u00f1a, pelicula norteamericana. Lugar muuuuuy caluroso, se negaron a prender el aire con la excusa que no andaba.Afuera solo habia 22 grados , lo que pasa es que tiene el formato de caja de aluminio con techos muy bajos. las mesas estaban realmente muy sucias, y las camareras desinteresadas de atender bien al cliente.Pedimos hamburguesa con queso y panceta,rica y casera.Y huevo revuelto con papas fritas,panceta y tostadas con manteca.Tienen que mejorar bastante el servicio\r\n."
+    }, 
+    {
+      "date": "17 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida muy buena, el lugar es excelente como en una pel\u00edcula norteamericana."
+    }, 
+    {
+      "date": "21 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "chamacote2004", 
+      "text": "Excelente para ir con el descuento de la Nacion. La comida es muy rica y los waffles son geniales. La ambientacion es de diez. la atencion podria mejorar un poco. Lo unico malo, es que si vas con auto, tenes que ir al estacionamiento que te cobra 7 mangos la hora, una estafa. Pero no es culpa de ellos creo."
+    }, 
+    {
+      "date": "20 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "vik770", 
+      "text": "Es genial! Fuimos a comer con los descuentos del Club LaNaci\u00f3n, y comimos muy rico por $20, postre incluido. \r\n\r\nMe encanta el lugar, no era demasiado caro, la atenci\u00f3n es buena y la comida muy rica y vistosa. Es para ir y volver porque uno no se aburre de probar. Se la pasa muy bien."
+    }, 
+    {
+      "date": "19 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Cecioasis", 
+      "text": "Lo mejor de Trixie es la ambientaci\u00f3n, uno se siente verdaderamente en los 50 y creo que es uno de los \u00fanicos lugares de la ciudad con esa decoraci\u00f3n. La relaci\u00f3n precio-calidad es muy buena y es realmente asombroso que ofrezca los precios tan accesibles a\u00fan a pesar de estar en Costa Salguero. La comida es muy rica y la variedad es lo mejor porque dan ganas de volver para probar todo. Con la promoci\u00f3n de descuento se hace muy recomendable."
+    }, 
+    {
+      "date": "12 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "TheDuke", 
+      "text": "Ambiente de diez! la hamburguesa casera y me sorprendieron las papas fritas gratinadas. Las papas no eran nada de otro mundo pero con el queso quedaban muy bien. Deliciosos(al igual que aceitosos) aros de cebolla.\r\nme qued\u00e9 con ganas de probar el postre Banana Split (ten\u00eda una pinta...)\r\nRecomendable por su ambientaci\u00f3n de dinner americano de los 50 y por la comida!"
+    }, 
+    {
+      "date": "12 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cheffxhobby", 
+      "text": "Las hamburguesas estaban buenas, un poco secas, pero bien. Lo mejor de todo es la ambientaci\u00f3n y la posibilidad de comer comida bien americana tal y como se sirve all\u00e1. El milk shake es buen\u00edsimo y los postres son de diez. Vale la pena hacerse un lugarcito para probarlos. La moza nos antendi\u00f3 muy bien. MUY RECOMENDABLE"
+    }, 
+    {
+      "date": "10 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "rayval", 
+      "text": "Las hamburguesas son muy buenas, no las mejores.El lugar es fantastico, como dicen muchos, salido de una peli. Fuimos al mediodia, sorpresa entre las 13 y las 14,30 solo 3 mesas ocupadas.Se puede volver."
+    }, 
+    {
+      "date": "21 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "DACstyle", 
+      "text": "Excelente, es el lugar mejor ambientado de la ciudad de Buenos Aires (junto a HRC). La comida es muy buena, los postres excelentes, y los precios dentro del genero estan bastante bien. Realmente MUY RECOMENDABLE, es un lugar con muy buena onda."
+    }, 
+    {
+      "date": "27 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "eldoto", 
+      "text": "Un lugar distinto para comer hamburguesas y algunas otras costumbres norteamericanas.Es solo correcto."
+    }, 
+    {
+      "date": "21 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Chupito", 
+      "text": "El pancho estaba medio ins\u00edpido. Pero los postres y el ambiente me encantan m\u00e1s cada vez que voy!"
+    }, 
+    {
+      "date": "28 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "verodemir", 
+      "text": "Fui con mi novio a comer unas hamburguesas y resultaron riquisimas. el ambiente esta muy bueno, algo distinto a lo de siempre. los precios acordes a lo que comimos. una buena opcion para salir con amigos. para recomendar"
+    }, 
+    {
+      "date": "9 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "dollarsandcents", 
+      "text": "El ambiente es increible, el servicio muy bueno y la comida es la mejor comida \"chatarra\" que se peude elegir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Z10561", 
+      "text": "Muy buen Lugar, lo unico malo es lo que tardan en servirte. todo lo demas muy bueno!!"
+    }, 
+    {
+      "date": "30 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gastonee", 
+      "text": "La verdad que me quede Impresionado, porciones todas para compartir! Fui a Merendar, TREMENDO! Wafles, MilkShake, Copa de Frutas y Tostadas Francesas ($100) Todo lo compartimos, y no pude terminar ni las tostadas ni la copa. Todo generos, y sabroso. Eso si, si vas con hambre moris, xq queres todoo! Tienen muy buena oferta en comida, desayunos y postres. Bien de eeuu. La ambientacion impresionante. Atencion de 10 y los precios son accesibles, por $70 puede comer una persona, lo mas caro para comer creo que es de $50. Volvere a cenar o almorzar sin duda!"
+    }, 
+    {
+      "date": "22 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "camilorojas", 
+      "text": "Excelente! La comida, muy buena, y la ambientaci\u00f3n, bueno, los comentarios lo dicen todo. La atenci\u00f3n, a pesar de lo que dijeron aqu\u00ed, no me pareci\u00f3 particularmente mala. Y tienen buenos precios. Muy dif\u00edcil ir sin auto."
+    }, 
+    {
+      "date": "19 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hernaneugenio", 
+      "text": "Muy buena atencion, y ambientacion, pero la comida no tiene palabras. Una hamburguesa con carne adobada con abundante salsa barbacoa, con feta de jamon, de queso comun (no el chedar), Panceta, huevo frito, lechuga tomate y cebolla; acompa\u00f1ado de Salsa Coleslaw, aros de cebolla frito, y papas fritas. La felicidad en un plato! La Gaseosa tiene un refill gratis."
+    }, 
+    {
+      "date": "5 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ronpau", 
+      "text": "las mejores hamburguesas que prob\u00e9! la atenci\u00f3n es regular , pero muy recomendable, voy a volver!!!"
+    }, 
+    {
+      "date": "30 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Koalamon", 
+      "text": "Pedimos unos milkshakes y unos waffles para merendar. Las chicas nos atendieron muy bien y r\u00e1pido. Los milkshakes (uno de chocolate y otro de dulce de leche) son los mejores que probamos en nuestras vidas: esponjosos, espesos y con excelente sabor. Los waffles, exquisitos. Tienen una textura y espesor correctos como los americanos. Los sirvieron calentitos. Lo \u00fanico malo (desde mi punto de vista completamente subjetivo) es la ubicaci\u00f3n. Es medio complicado llegar a Costa Salguero con el transporte p\u00fablico, no hay muchas opciones, pero igualmente volver\u00edamos una y mil veces"
+    }, 
+    {
+      "date": "10 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "DACstyle", 
+      "text": "Excelente! Cada vez mejor. Porciones grandes, comida rica y fresca. Las hamburguesas y los nuggets sensacionales. No hablar de los excelentes nachos caseros y los dedos de mozarella de entrada con una salsa exquisita. Espectacular ambientaci\u00f3n que le encanta a los chicos en un ambiente muy distendido y tranquilo.\r\nBuenos precios. Unico punto a mejorar, la limpieza deber\u00eda ser un poco mas profunda."
+    }, 
+    {
+      "date": "7 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Arana", 
+      "text": "Muy buena ambientaci\u00f3n, un clima distinto, acompa\u00f1ado con la m\u00fasica.. la comida muy abundante. La moza nos recomend\u00f3 pedir de menos y estuvo bien. Buena experiencia."
+    }, 
+    {
+      "date": "6 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "beremota", 
+      "text": "Fui m\u00e1s de una vez y nunca defraudan. Las hamburguesas son tremendas, exquisitas las papas con queso y los aros de cebolla. Lo mejor son los waffles !!! Super recomendable!!!"
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "marquezmmm", 
+      "text": "Llegamos a las 22:30 hicimos el pedido y la comida realmente tardo. La moza se disculpo muy coordialmente. La comida riquisima y super abundante!!! hay refaill de las bebidas. Pedimos postre, un panqueque con dulce de leche. Tambien excelente!!! y vino de regalo!! fue cortesia de la casa por la tardanza de la comida!!! crei que no se usaba mas ser cortez!!! super recomendable. Y con el descuento del club la nacion es un 1000 ptos.!"
+    }, 
+    {
+      "date": "4 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "raulii", 
+      "text": "Simplemente excelente! Fui en varias oportunidades y siempre comi barbaro. La ambientacion es genial y el servicio es normal. A veces toca esperar por la mesa por la cantidad de gente que va los fines de semana pero la comida es tan buena que vale la pena. No dejen de comer los waffles de postre que son increibles."
+    }, 
+    {
+      "date": "28 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CRIOLLO", 
+      "text": "Vine a una expo, siempre pasaba por la puerta y decia guauuu!!!!. hoy entre. estaba a pleno. espere lo normal. me ubicaron desde la recepcion. la ambientacion es lo mas. todo bien a la epoca. dio gusto!!!!! super trixie burger, y banana split para todos, pagamos con citi y comimos por $50 cada uno. nos fuimos y ya queremos volver......."
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "villafaca1", 
+      "text": "la verdad que lo recomiendo al 100 % el lugar es hermosisimo, ME ENCANTAA!!! la comida es la mejor con un super mix,  la super trixie , coca  y me quede con las ganas de un waflesito, pero estabamos muy llenos!!! La atencion muy buena y ni hablar de la ambientacion es muy igualito al de las peliculas!!! ME ENCANTAAA , asi que voy a volver.."
+    }, 
+    {
+      "date": "12 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "PepiKai", 
+      "text": "Muy muy buena opci\u00f3n los martes con Club La Naci\u00f3n. Uno vi\u00f3 siempre el restaurant pero nunca pas\u00f3. La Super Trixie Burguer es FANTASTICA. Altamente recomendable. La atenci\u00f3n normal. El lugar el \u00fanico inconveniente que tiene es la ubicaci\u00f3n, no te queda otra que dejar el auto enfrente, lo cual te cuesta unos 15 pesos m\u00e1s.\r\nVolveremos."
+    }, 
+    {
+      "date": "8 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ouutsider", 
+      "text": "Las hamburguesas y los aros de cebolla son sublimes! Es un lugar caro por el tipo de comida, pero con el 50% de descuento con Club La Naci\u00f3n los martes es altamente recomendable."
+    }, 
+    {
+      "date": "7 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rockabillygal", 
+      "text": "Excelente el lugar, la ambientaci\u00f3n es realmente espectacular y los platos van en sinton\u00eda con los t\u00edpicos diners americanos. Muy recomendable!!"
+    }, 
+    {
+      "date": "16 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "e_vanesa", 
+      "text": "Muy buena la comida! la hamburguesa buena, casera, a punto. Buen\u00edsimo el Super Waffle con bananas, frutillas, dulce de leche, salsa de chocolate y crema!!!!! (PARA DOS, JA!!)\r\nLas mozas son jovencitas y se les nota que hacen lo que pueden, les falta experiencia, pero todo muy bueno! Hermoso para disfrutar una tarde al solcito sin ruido y tranquilos. \r\nObservaci\u00f3n: podr\u00edan cubrir al menos una hora de parking porque no hay d\u00f3nde estacionar, y si o si tiene que ser pago el del complejo."
+    }, 
+    {
+      "date": "26 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "freddiem45", 
+      "text": "Excelente opcion para usar con Club LaNacion..sino, debe ser un poco caro, pero con CLN es un regalo. Muy buena comida norteamericana, hamburguesas, papas fritas, onion rings, milkshakes, etc, ambientado como un diner de los"
+    }, 
+    {
+      "date": "18 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Comida bien Americana. Hecha con mucha dedicacion y amor. El servicio me sorprendio. En vez de haber muchas vueltas, nos atendieron bien y con todo el humor del mundo. Clasico ambiente 50 pero muy chiquitito. Es una casa rodante en si."
+    }, 
+    {
+      "date": "24 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jiq", 
+      "text": "Un lugar para recomendar y volver. Fuimos con el descuento de La Nacion y gastamos $48 entre dos. Excelente la comida, la ambientaci\u00f3n y la atenci\u00f3n."
+    }, 
+    {
+      "date": "17 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elvis76", 
+      "text": "me encanto todo en general muy frescas las cosas"
+    }, 
+    {
+      "date": "2 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lucho", 
+      "text": "Mi lugar favorito para comer hamburguesas."
+    }, 
+    {
+      "date": "17 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Meyyis", 
+      "text": "Excelente! A la hora de pensar en comida r\u00e1pida esta es mi primer opci\u00f3n. La comida es increible. A la carta solo le agregaria algunos clasicos que faltan como las ribbs y pollo frito. Recomiendo los aros de cebolla! El ambiente no podria estar mejor logrado, tipico dinner de los 50/60, excelente. El servicio muy bueno. Lo recomiendo!"
+    }, 
+    {
+      "date": "24 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "EmmanuelKeenan", 
+      "text": "Genial, excelente ambiente, ideal para pasar un buen rato entre amigos luego de un match de golf o una super carrera de kartings (Costa Salguero)"
+    }, 
+    {
+      "date": "18 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cmarenna", 
+      "text": "El clasico Dinner Norteamericano!, excelente lugar para disfrutar con amigos.\r\nEsta muy bien ambientado te hace sentir como si estuvieras en una pelicula norteamericana de los anos 50 (las meseras podrian estar vestidas de epoca, algo para tener en cuenta!).\r\nLa comida es muy buena para quienes disfrutan de una las hamburguesas tipo casera muy sabrosa.\r\nLa relacion precio calidad es justa. Recomiendo lo aros de cebolla y huevos revueltos."
+    }, 
+    {
+      "date": "8 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chupito", 
+      "text": "Es un lugar hermoso, muy bien ambientado en la \u00e9poca."
+    }
+  ]
+}

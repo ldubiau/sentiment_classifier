@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "20 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hoadar", 
+      "text": "Fuimos un grupo de 9 personas con cupones para pizzas. Las mismas eran muy ricas y no tuvieron problemas en cambiarnos algunas cervezas por aguas o gaseosas. Muy buena honda y lindo lugar"
+    }, 
+    {
+      "date": "3 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "INCREIBLEHULK", 
+      "text": "muy ricas las milanesas...ambiente rustico y bohemio, atencion muy buena..esta bueno sin pretenciones...y muy economico.."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Juani1975", 
+      "text": "Genial el lugar. Los fines de semana siempre hay alg\u00fan show con entrada gratuita. El ambiente b\u00e1rbaro para ir con amigos y pasar un buen rato."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "patoferguson", 
+      "text": "Excelente atenci\u00f3n. Las papas w son imperdibles! y la carta de tragos muy variada. Para el mediod\u00eda inolvidables las milanesas. Muy recomendable!!"
+    }
+  ]
+}

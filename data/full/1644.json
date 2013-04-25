@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "7 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "sot975", 
+      "text": "No se puede ver el espect\u00e1culo, la comida es car\u00edsima y la musica est\u00e1 tan fuerte que no se puede conversar."
+    }, 
+    {
+      "date": "12 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "caranda", 
+      "text": "No sirve el lugar para una despedida de soletro/as, dado que los shows no los pod\u00e9s ver. Te cobran el plato de oro que es, en verdad, un horror."
+    }, 
+    {
+      "date": "4 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "cecilia4", 
+      "text": "Nosotros reservamos una cena con show inclu\u00eddo y, a pesar de que est\u00e1bamos dentro de lo que se denominaba \"espacio para la actuaci\u00f3n\", el recinto es tan grande que los \"actores\" no llegaron nunca adonde estaba nuestra mesa. \r\nPor supuesto que no nos quedamos a terminar de ver el espect\u00e1culo por que ya no daba para m\u00e1s. \r\nLa encargada del local nos pidi\u00f3 mil disculpas, pero ya era tarde, desde ya que no volveremos nunca m\u00e1s y tampoco lo recomendaremos a nuestros conocidos. \r\nLa m\u00fasica, estridente. No se pod\u00eda conversar absolutamente nada y terminamos af\u00f3nicos y ensordecidos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "comotesu", 
+      "text": "Muy bueno, es un complejo gigante donde hay de todo. \r\nHay combinaciones ya armadas o tambi\u00e9n se puede pedir a la carta. \r\nPosee 3 barras que tienen de todo.\r\nEl servicio buen\u00edsimo, todos los camareros son j\u00f3venes y con muy buena onda.\r\nPosee distintos shows, hay strippers, odaliscas y una chica que literalmente \"se cuelga de las telas\" y hace un show espectacular.\r\nM\u00fasica marchosa y de los a\u00f1os 90."
+    }
+  ]
+}

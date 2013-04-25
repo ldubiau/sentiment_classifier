@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "15 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "toqueltimbre", 
+      "text": "Me cay\u00f2 muy mal que este restaurant se emplazara en la misma ubicacion que otro, tambien mexicano que estuvo muhos a\u00f1os en el local. Entr\u00e8 confundida, pensando que era el anterior y no lo desmintieron. La comida es sosa y la onda tambien."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leogp", 
+      "text": "Comimos bien. Platos mexicanos tipicos (algo argentinizados por tener poco picante).\r\nNegativo: carta de vinos pobre"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "florcele", 
+      "text": "Nos gusto mucho muy sabroso el guacamole y las salas como asi tambien los platos principales muy bien condimentados,tod de buena calidad, muy ricas las margaritas.\r\nVolveremos"
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yopau", 
+      "text": "Guacamole excelente. Los tacos deliciosos. Especiales las salsas caseras. La atenci\u00f3n muy esmerada."
+    }
+  ]
+}

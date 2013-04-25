@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "palermovich", 
+      "text": "es la segunda vez que voy y el servicio y calidad han sido superado notablemente, la picada impresionante. Anteriormente fui y tome un trago del barman que nombran abajo y dejo mucho que desear. En esa oportunidad tuve que dejar el trago era intomable. Sin contar la arrogancia y falta de conocimiento en atencion al cliente. Mucha pirueta de esquina pero poco sabor y calidad. Por suerte tomaron gente nueva y la calidad y gusto de los tragos...excelente, muy buena decision!!!! Cuando las cosas son buenas o malas hay que decirlo, mas cuando se realizan cambios para mejorar al 100%.Se recomienda!"
+    }, 
+    {
+      "date": "10 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "El lugar es nuevo,chiquito, sin mucha onda, pero lo pero seguro que desde que se fue el flairbartender Edu Gomez, el lugar perdi\u00f3 uno de los mejores exponentes de Buenos Aires. Ojala tengan suerte"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danielguzman", 
+      "text": "Excelente lugar, ambiante muy bueno!. recomiendo el carpaccio de lomo, y los montaditos.\r\nSiempre el ambienta con muy buena m\u00fasica, los mozos muy atentos y serviciales. Fuimos con amigos y tomamos tragos, muy bien elaborados por el bartender.No olvidarse de las picadas que tienen bien nutridas."
+    }
+  ]
+}

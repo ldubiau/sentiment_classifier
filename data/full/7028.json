@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "comenzal2012", 
+      "text": "Muy mala atenci\u00f3n, el mozo te atiende de mala gana, te apuran para comer. No es recomendable bajo ningun concepto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chonio", 
+      "text": "El servicio es bueno.  Buen ambiente familiar, aunque el lugar es un poco chico y las mesas estan muy pegadas.. Buena relacion precio / servicio. Demoran bastante en traer los platos principales, pero la comida es buena y los platos abundantes."
+    }, 
+    {
+      "date": "21 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pedro Pablo", 
+      "text": "Hac\u00eda mucho que no iba (3 \u00f3 4 a\u00f1os), y me volv\u00ed a sorprender y muy gratamente. La comida es riqu\u00edsima, cl\u00e1sica y los platos son abundantes sin ser excesivos. Algo para destacar: los platos llegan a la mesa a una temperzatura perfecta, y no hay que apurarse para que no se enfr\u00eden, como suele pasar en tantos otros lugares. La carta de vinos podr\u00eda ser m\u00e1s amplia, pero est\u00e1 acorde al p\u00fablico de Bella Vista."
+    }, 
+    {
+      "date": "18 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alfredoeme2006", 
+      "text": "Hac\u00eda tiempo q no iba. El servicio es bueno, atento y servicial, sin ser pesado. Tiene una ambientaci\u00f3n muy agradable, la cantidad de mozos es adecuada para la cantidad de mesas, la comida es sabrosa y tiene los ingredientes indicados en el men\u00fa. Hay q tener en cuenta q las porciones son muy abundantes y, en general, son como para compartir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "evangymorena", 
+      "text": "El mejor lugar de la zona San Miguel-Bella Vista.Mu\u00f1iz para comer lomo.  Hay much\u00edsima variedad de lomos, pescados y pastas.  Recomiendo exclusivamente los lomos, son abundantes y deliciosos.  El servicio es muy bueno y la relaci\u00f3n precio-calidad tambi\u00e9n. Deber\u00eda mejorar la carta de vinos."
+    }
+  ]
+}

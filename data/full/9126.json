@@ -1,0 +1,126 @@
+{
+  "buenos": [
+    {
+      "date": "19 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Carols", 
+      "text": "Adentro el espacio es un poco apretado, pero hay mesas en la peatonal que son ideales  para los d\u00edas de sol. Las ensaladas riqu\u00edsimas y super frescas, los crepes finitos y muy  ricos tambi\u00e9n, super recomendable!"
+    }, 
+    {
+      "date": "5 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Antito", 
+      "text": "Me encanta este lugar, voy a almorzar seguido. La calidad de los productos es muy buena, siempre frescos. lo recomiendo."
+    }, 
+    {
+      "date": "7 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pampa1", 
+      "text": "Hacia bastante que me hab\u00edan hablado de este \"rinc\u00f3n de Francia\" en Buenos Aires, reci\u00e9n lo conoc\u00ed estos dias, fuimos un grupo de cuatro y nos encanto el lugar, la calidad de las ensaladas, los sandwiches, excelentes los jugos. Un lugar recomendable en Microcentro, bueno, bien atendido y con comida sencilla pero de mucha calidad. Adem\u00e1s podes tomarte un Nespreso por $12."
+    }, 
+    {
+      "date": "8 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AnitaCristiani", 
+      "text": "Excelente opcion para almorzar en el centro. Las ensaladas son increibles, de las mas ricas que probe. Los jugos son muy ricos y los postres frances tambine super recomendables."
+    }, 
+    {
+      "date": "21 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Dr_Khumalo", 
+      "text": "Muy buena opci\u00f3n para el almuerzo. Las ensaladas son muy frescas y muy ricas, y los postres son muy buenos. Si consegu\u00eds mesa afuera, excelente, porque adentro est\u00e1n muy pegadas las mesas."
+    }, 
+    {
+      "date": "18 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "carola63", 
+      "text": "Excelente opci\u00f3n de comida sana para el mediod\u00eda, ubicado en el microcentro, tiene mesas sobre el pase de la Reconquista para poder disfrutar del sol porte\u00f1o, y un men\u00fa que, aunque no muy variado, muy fresco y natural. Recomendable."
+    }, 
+    {
+      "date": "19 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "malditomushi", 
+      "text": "Una excelente opcion para un almuerzo en microcentro. \r\nEl sandwich que probe realmente estaba muy bien y sus ingredientes muy frescos (pan crocante, jamon crudo, tomates secos dulces y tiernos, queso brie, rucula y pesto). Tome un jugo de naranja y zanahoria natural que me sorprendio gratamente.\r\nPienso volver."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mau", 
+      "text": "me encanta Mineral para el mediod\u00eda, por alguna raz\u00f3n me relaja, y el crepe de salm\u00f3n y r\u00facula me puede. No es para todos los d\u00edas, pero es una muy buena opci\u00f3n para almorzar en Microcentro."
+    }, 
+    {
+      "date": "7 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "merimeri", 
+      "text": "Agradezco haber conocido Mineral, entre tantos pizza-caf\u00e9 y bares de mala muerte que abundan en microcentro. La calidad de los platos es excelente, los productos s\u00faper frescos, el scon es simplemente delicioso. Volver\u00e9 a probar m\u00e1s platos."
+    }, 
+    {
+      "date": "27 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GoodTaste", 
+      "text": "Es un lugarcito con onda y muchas cosas buenas: las ensaladas, los aderezos, los sandwiches, los cr\u00eapes, los jugos. Todo tiene calidad gourmet a un excelente precio. Atendido por sus due\u00f1os franceses siempre muy atentos."
+    }, 
+    {
+      "date": "7 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "alefdc", 
+      "text": "Excelente TODO, sandwiches excepcionales, ensaldas deliciosas con vinagretas perfectamente confeccionadas, quiches, rolls, genial. \r\nMuy bueno tambien el jugo de zanahoria y naranja para acompa\u00f1ar un almuerzo saludable y delicioso."
+    }, 
+    {
+      "date": "1 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Pataymuslo", 
+      "text": "Es excelente la comida y servicio, la calidad de la comida y frescura es insuperable, todo natural y sano (hay jugos buen\u00edsimos, \u00a1el de zanahoria y naranja la rompe!).\r\nEl sabor es buen\u00edsimo, desde las sopas (de calabaza, papas y cebolla condimentada a la perfecci\u00f3n) hasta sus tartas, creppes, rolls y ensaladas. Todo es genial. Ni hablar de los postres, sobre todo el \"canel\u00e9\", t\u00edpico de la cocina francesa, \u00a1una delicia!\r\nUna objeci\u00f3n ser\u00eda que el local es peque\u00f1o y las mesas de adentro est\u00e1n muy juntas, en verano es muy lindo comer en la vereda, pero en invierno s\u00ed o s\u00ed adentro.\r\nRespecto a la atenci\u00f3n, es muy esmerada, los chicos y los due\u00f1os franceses son muy amables."
+    }
+  ]
+}

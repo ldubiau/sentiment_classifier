@@ -1,0 +1,136 @@
+{
+  "buenos": [
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Una propuesta honesta a precios razonables.  Valido para comer rapido algo al mediodia."
+    }, 
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "T\u00edpico bar porte\u00f1o, tradicional sin dejar de ser por ello limpio, agradable y con buena comida. Recomendable"
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Veterano", 
+      "text": "Un rinc\u00f3n de la historia de Bs As en este peque\u00f1o y tranquilo restaurante. Carta de comidas con alternativas variadas y pocos platos pero suficientes  por variedad. Platos abundantes. Carta de vinos algo pobre. La calidad de las comidas y la atencion son muy buenas. Lo recomiendo. Vale la pena conocerlo."
+    }, 
+    {
+      "date": "19 Abr 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "AlfonsoRe", 
+      "text": "Lindo lugar, bien ambientado y rica comida. Los platos tardan demasiado! aunque te da la confianza que son preparados en el momento. La atenci\u00f3n es p\u00e9sima, los mosos te tratan muy mal y te acomodan donde quieren."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fedcar", 
+      "text": "lamentablemente cerro"
+    }, 
+    {
+      "date": "19 May 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Magda", 
+      "text": "Voy desde hace tres a\u00f1os. Antes la atenci\u00f3n era mejor, ahora si sos dos y tienen una mesa de cuatro libre linda, te mandan al fondo. \r\nTardan mucho en traer los platos. Si pag\u00e1s con tickets restaurante sale m\u00e1s caro que pagar en efectivo."
+    }, 
+    {
+      "date": "25 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "inesita", 
+      "text": "El Tu\u00f1\u00f3n y su cocina sin pretenciones son el mejor refugio para el que debe estar en  el downtown porte\u00f1o obligado a sus convenciones."
+    }, 
+    {
+      "date": "1 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Luzverita", 
+      "text": "Excelente."
+    }, 
+    {
+      "date": "9 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "miriamaj", 
+      "text": "Estuve en Tu\u00f1on en reiteradas ocasiones. Siempre la comida es casera y fresca. El personal es sumamente atento, cada vez me siento m\u00e1s en casa. \r\nEl tango tiene presencia y distinci\u00f3n."
+    }, 
+    {
+      "date": "23 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "x_dadi", 
+      "text": "Me encant\u00f3. Buen\u00edsimo el lugar, la comida y la gente. \r\nSi me quieren encontrar, pasen por Bar Tu\u00f1\u00f3n."
+    }, 
+    {
+      "date": "24 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "iruya200", 
+      "text": "Un lugar de un Bs. As. que no debe desaparecer."
+    }, 
+    {
+      "date": "8 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Before_Sunset", 
+      "text": "Me encant\u00f3 el ambiente y much\u00edsimo la comida."
+    }, 
+    {
+      "date": "8 Dic 2003", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "stank", 
+      "text": "Todo bien"
+    }
+  ]
+}

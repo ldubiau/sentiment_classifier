@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "20 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Difergo", 
+      "text": "No lo recomiendo en absoluto!!!! El servicio, un desastre!! El mozo recomend\u00f3 la provoleta \"las ca\u00f1as\", y sinceramente desastroza... y ademas muy peque\u00f1a. Jamas volveremos a este lugar!"
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "EvilGod666", 
+      "text": "Ubicado en el Paseo La Plaza, el ambiente principalmente afuera es bueno.  El mozo fue amable, y tuvo la atenci\u00f3n de traernos una frappera para la cerveza a pesar de que esta estaba bien fr\u00eda. \r\nAhora, la comida es otro tema. Pedimos un lomo a la pimienta (correcto), y un lomo Las Ca\u00f1as, para nada recomendable. Por ser el plato de la casa dejaba mucho que desear. La carta de vinos es escasa y con precios elevados. Y la relaci\u00f3n precio/calidad es muy alta, gastamos  60 pesos por platos comunes y poco elaborados. Para nada recomendable"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "la recomendaci\u00f3n es hasta ah\u00ed, ya que se trata de un lugar de esos t\u00edpicos de la noche del centro porte\u00f1o que no ofrecen una propuesta muy gourmet que digamos, sino m\u00e1s bien una opci\u00f3n pasable a la salida del teatro si no quer\u00e9s caer en las pizzer\u00edas de Corrientes. en mi \u00faltima visita la ensalada estaba aguada y la carne ok pero nada m\u00e1s. vale para ir en grupo, tarde y sin reserva previa cuando los comensales prefieren algo no tan caro y sin pretensiones"
+    }
+  ]
+}

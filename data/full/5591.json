@@ -1,0 +1,658 @@
+{
+  "malos": [
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nanoli", 
+      "text": "La comida es sumamente escasa y cara, nos cobraron un plato con 4 tortillas medianas y relleno de pollo $51, el cual solo alcanzo para 2 tortillas. Los nachos son de paquete, literalmente. Los postres son solo correctos, la presentacion deja que desear, mi pareja pidio torta 3 leches y le sirvieron una porcion de bizcochuelo en un plato, sin absolutamente nada mas.Si quieren comer comida mexicana, este no es el lugar. Quizas es apto para ir a tomar algo y acompa\u00f1ar un  trago con algun que otro taco, pero nada mas."
+    }, 
+    {
+      "date": "1 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "datahop", 
+      "text": "Simplemente el peor lugar de comida mexicana que haya ido. El ambiente no esta mal pero la comida es muy mala y el guacamole ni siquiera es pisado, esta cortado en cubos. No lo recomiendo para nada"
+    }, 
+    {
+      "date": "30 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Alejandro72", 
+      "text": "Las porciones son peque\u00f1as y llegaron fr\u00edas, y muy sosas, m\u00e1s all\u00e1 de los condimentos que se les puede poner. Le faltaba gusto a todo. Y cuando pedimos la cuenta tard\u00f3 cerca de 25 minutos en traerla. El lugar est\u00e1 bueno, pero de nada sirve si la comida no funciona como debe ser."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CandeFerrari", 
+      "text": "muy buen lugar , muy agradable ,si bien nunca tuve que esperar demasiado  no hay demasiado espacio asi que recomiendo ir tamprano o reservar"
+    }, 
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Dcogorno", 
+      "text": "Lindo lugar, con buena atenci\u00f3n y rica comida. Los tacos y dem\u00e1s comidas son peque\u00f1as, no enga\u00f1arse. Pero con picada para dos (96$) te llen\u00e1s si sos de comer sin reventar. Si vas en hora pico ten\u00e9s que esperar."
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cmg_80", 
+      "text": "muy rica la comida, en especial las margaritas!"
+    }, 
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lore36", 
+      "text": "fuyi con amigas y realmente la pasamos genial muy rico todo lo que comimos y el precio tambien justo. para comer en ramos es algo novedoso"
+    }, 
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Liniang", 
+      "text": "Los tacos son ricos. Los nachos parec\u00edan de paquete, no estamos seguros, pero el queso derretido estaba en el punto justo, muy bueno. Los postres son demasiado abundantes y empalagosos para m\u00ed. Mi novio, por su lado, prob\u00f3 la torta tres leches, un postre mexicano t\u00edpico, y le gust\u00f3. El lugar es chico, se llena r\u00e1pido y la gente suele ser muy ruidosa, as\u00ed que no esperen hablar tranquilos. El servicio es muy lento. De todos modos, no es una mala opci\u00f3n para comer en Ramos."
+    }, 
+    {
+      "date": "13 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marysabel65", 
+      "text": "Situado en un chalet, en la parte delantera hay muy pocas mesas, pero cuenta con un patio techado y calefaccionado con mas mesas en la parte trasera. La atenci\u00f3n de los mozos muy amable, supieron orientar en las opciones.  Las porciones, son para mujeres que comen normal o poco, en nuestro caso, que comemos mucho resultaron demasiado justas, pero por el precio que se abona est\u00e1 super bien.  Calidad, precio, atenci\u00f3n, lugar austero pero lindo, hicieron un buen combo.  Los tragos muy buenos, lo unico para mejorar es el postre denominado copa golosa, a la cual le faltaba sabor dulce... no me gust\u00f3, eso no lo recomiendo."
+    }, 
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mlgrimoldi", 
+      "text": "La comida es buena, y el ambiente tambi\u00e9n pero en nuestro caso, reservamos el lugar para 30 personas para festejar un evento, posibilidad que se nos ofreci\u00f3 del modo mas amable y sin ninguna restricci\u00f3n (\"el espacio es de uds., pueden utilizarlo como quieran\"), pero al llegar la situaci\u00f3n era diferente. LLevamos un karaoke con la autorizaci\u00f3n de Tacuba y nos dijeron que solo podriamos usarlo cuando ya no haya gente en el lugar, una locura. Una pena, pasamos un mal momento innecesario y sin ninguna explicaci\u00f3n coherente.\r\nUna pena, para este tipo de contrataciones no lo recomiendo en absoluto"
+    }, 
+    {
+      "date": "19 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Vyvyen", 
+      "text": "Pedimos una picada Tacuba para dos y una cerveza de litro. Buena relaci\u00f3n precio calidad. L\u00e1stima que permitan que un joven en la cuadra te cobre 10 $ por \"cuidarte\" el auto, por ese motivo no vuelvo."
+    }, 
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "yagi", 
+      "text": "el lugar es chico para mi gusto, y en el fondo tiene  un espacio un  poco mas amplio pero es para fumadores y parece un ahumadero ; La comida esta buena pero no es tan abundante, los tragos muy bien y los postres para atras, pero es una opcion piola para ir con amigos.\r\nUna recomendacion para tacuba la musica esta muy altaaaaa y no se puede casi charlar"
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PepinCascaron", 
+      "text": "Fue una mi primera experiencia en este tipo de comidas y realmente me gusto. La presentaci\u00f3n de la comida realmente muy cuidada. La atenci\u00f3n muy buena. Lugar agradable. Recomendable."
+    }, 
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Touting", 
+      "text": "El lugar se encuentra limpio. La atencion es buena. Tiene una buena carta de tragos y los sirven de excelente factura. Los platos salen rapidos y son muy buenos. Quizas, las porciones podrian ser un poco mas generosas, pero tampoco es que son minimas. Ya hemos ido varias veces y seguiremos llendo."
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Howard", 
+      "text": "EL lugar es chico y bien decorado, los platos son economicos y muy buenos. Las Margaritas destacan, la barra es muy buena!! Vuelvo siempre que puedo."
+    }, 
+    {
+      "date": "2 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Avatar777", 
+      "text": "Excelente comida, la sirven sin picante y cada uno le pone a su gusto. A mi me encanta muy picante mientras a mi novia solo apenas picante y ambos salimos conforme. Recomiendo ir temprano porque el lugar es chico y se llena."
+    }, 
+    {
+      "date": "18 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "CeciliaG", 
+      "text": "El lugar es peque\u00f1o. la comida estaba rica pero no es la mejor comida mexicana que he probado.\r\nLa atencion fue lenta."
+    }, 
+    {
+      "date": "17 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "buba21", 
+      "text": "tardan para mi gusto en traer la comid.a.y no es anda guauuuuuuuuu, rica pero no super sabrosa. hasta ahorano encontre un mexicano que me guste mucho."
+    }, 
+    {
+      "date": "30 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pamaluchita", 
+      "text": "Me gusto!"
+    }, 
+    {
+      "date": "28 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Zeus", 
+      "text": "Muy ruidoso. Desde el ba\u00f1o se escuchaba a la gente. La comida es normal. Bastante cara para la cantidad que ofrecen."
+    }, 
+    {
+      "date": "10 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "alexis_lemonde", 
+      "text": "muy rica la comida, excelente la relacion precio/calidad, muy amable la moza, ricos tragos.\r\nEs para ir con miagos y comerse mil fajitas o tacos ya que no son muy abundatnes, muy rico la tarta de manzana con helado y ese caf\u00e9, raro, rico e intenso\r\nVolver\u00e9!!!"
+    }, 
+    {
+      "date": "1 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Barola", 
+      "text": "Muy buena comida Los tacos ya viene preparados y en abundante cantidad Muy buena relacion calidad precio Muy atenta la camarera Se desorganizo un poco cuando se lleno el resto Rica la margarita   Muy recomendable"
+    }, 
+    {
+      "date": "3 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rome_83", 
+      "text": "Es un muy buen lugar de comida mexicana! Todo es muy rico y lo bueno es que el picante se lo pones vos. Lo unico malo es que solo abre jueves, viernes y sabados y que solo se acepta efectivo. Pero se los recomiendo, se come muy bien!"
+    }, 
+    {
+      "date": "6 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leito_2731", 
+      "text": "La comida y la atenci\u00f3n fue muy buena, la ambientaci\u00f3n no es gran cosa pero lo recomiendo si se quiere comer comida mejicana simple pero bien hecha. Los tragos estuvieron un poco aguados."
+    }, 
+    {
+      "date": "24 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "eli_lam", 
+      "text": "Conozco otros restaurant de comida mexicana y puedo decir que este esta entre los mejores, la ambientacion y calidez del lugar hacen que te sientas muy comodo, los chicos que atienden tienen muy buena onda y te explican en detalle como es cada plato. La comida es muy rica, de buena calidad y los precios son accesibles. Las margaritas que hacen son las mas ricas que probe, podria decir que son exelentes!! \r\nEn sintesis este restaurant es sumamente recomendable, vale la pena probar y conocerlos!"
+    }, 
+    {
+      "date": "21 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "seba_surround", 
+      "text": "Es Una Casa Hecho Restaurant. Buen Ambiente. La Mesera Muy Simpatica, Se Esmeraba Por Hacernos Sentir Comodos Y Explicarnos Cada Plato. La Calidad De La Comida Es Muy Buena. Y Los Precios Son Accesibles. Un Lugar Para Ir A Pasar Un Momento Tranquilo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elgryego", 
+      "text": "Hace algunos a\u00f1os conocimos este resto, que nos sedujo desde ese instante con la calidad de los productos, los precios acordes (m\u00e1s que accesibles) y la predisposici\u00f3n de todo el personal para atender; hoy nos sigue sorprendiendo que a pesar de los a\u00f1os, la calidad, los precios y el servicio sigue intacto, se los recomiendo."
+    }, 
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PaMe_DaRo", 
+      "text": "EXCELENTE REST\u00d3!!! Comida de primera, riqu\u00edsima siempre! Carta variada con precios accesibles y ahora renovada!! Pueden ir a cenar en flia, con amigos y tomar algo a la noche!! \r\nEl ambiente es excelente, atienden muy bien! Mujeres: El ba\u00f1o siempre est\u00e1 limpio y completo, asique, es super recomendable :)\r\nVoy desde que abri\u00f3 y siempre mantienen sus cualidades!"
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Estrella_A", 
+      "text": "Suelo ir a este bar mexicano con amigos que viven en Ramos. Lo hemos tomado como \"nuestro punto de reuni\u00f3n\". La comida sigue siendo riquisima y la relaci\u00f3n precio-producto es m\u00e1s que correcta. Hay que saber elegir: si van varias personas (por ej 4) hay que pedir platos variados, asi se puede comer de todo y no gastar mas de 60/70 pesos per capita (con postre). Los tragos son buen\u00edsimos. No se vayan sin probar una margarita de Tacuba."
+    }, 
+    {
+      "date": "16 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pulpo", 
+      "text": "A la excelente comida se le agrega una increible predisposicion para  atender de todo el personal."
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lujan07", 
+      "text": "Que lindo lugar!! Ideal para ir en pareja, amigos o en familia. Tuve la posibilidad de conocerlos hace una semana, y me encanto! Fuimos al sal\u00f3n de atr\u00e1s. Un ambiente ameno, una excelente atenci\u00f3n y los platos.. muy buenos, exquisitos!!! otra cosa para destacar es la limpieza en general y de los ba\u00f1os. Un lugar recomendable en Ramos, sin lugar a dudas. Volver\u00e9!"
+    }, 
+    {
+      "date": "23 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "NAPPO", 
+      "text": "Somos clientes frecuentes y nos encanta estar\u00e1 propuesta en Ramos Mejia."
+    }, 
+    {
+      "date": "3 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maruwallace", 
+      "text": "La"
+    }, 
+    {
+      "date": "21 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jorge_T", 
+      "text": "La comida es de primera y los tragos excelentes al igual que la atenci\u00f3n del personal. Fuimos en grupo a festejar el d\u00eda del amigo (un d\u00eda despu\u00e9s porque estaba todo reservado para el 20) y la atenci\u00f3n fue muy buena a pesar que estaba todo lleno. Los precios son muy razonables. Un lugar muy recomendable."
+    }, 
+    {
+      "date": "7 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Avefragata", 
+      "text": "La verdad que muy bueno, precio, sabor y atenci\u00f3n. Solo una cr\u00ectica que lamentablemente me tira para atr\u00e0s al momento de volver, es el baruyo, entre las mesas, el ruido de la licuadora a cada rato, y la musica. Con el ruido de los comensales no se puede hacer nada, tal vez con la musica, el volumen de la tele yla licuadora (llevarla m\u00e0s adentro) se pueda mejorar. Por lo demas esta muy bueno, incluso la estetica del lugar"
+    }, 
+    {
+      "date": "11 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rialgo", 
+      "text": "Amabilidad en el servicio y muy buena predisposici\u00f3n de los chicos que atienden, los platos son excelentes a precios razonables, recomiendo los tragos, son elaborados de excelencia."
+    }, 
+    {
+      "date": "4 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pratt", 
+      "text": "Las veces que fuimos percibimos comida muy fresca y buena atenci\u00f3n a cambio de precios normales, muy accesible. Para destacar tambi\u00e9n son los tragos, que para nosotros soy muy buenos, lo recomendamos y sigui\u00e9remos yendo."
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elrodo", 
+      "text": "La mejor comida mexicana de zona oeste, la atenci\u00f3n es esmerada, los platos muy ricos, y los precios son acordes.\r\nVolveremos para seguir conociendolo."
+    }, 
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MarujaM", 
+      "text": "Un lugar ameno y confortable para disfrutar. Exclente atenci\u00f3n!! S\u00faper recomendable para ir con pareja o amigos. Se come muy bien. Buen\u00edsima opci\u00f3n en el oeste!!"
+    }, 
+    {
+      "date": "1 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "villanueva.arg", 
+      "text": "Con un ambiente muy bueno (no excepcional, pero aun asi notable) y una atencion bastante buena, es un lugar donde la comida es excelente. Platos realmente mexicanos, pero sin el estigma de ser \"picantes\", como siempre se cree. En cambio, los ingredientes picantes vienen aparte, asi que, es a gusto de cada uno.\r\nTambien esta muy buena la opcion de platos vegetarianos."
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "capello", 
+      "text": "Excelente opci\u00f3n en Ramos. La comida es de primera calidad, la atenci\u00f3n amabil\u00edsima y el ambiente es tranquilo (mejor ir temprano, despu\u00e9s se llena) y los precios m\u00e1s que razonables. Muy simp\u00e1tico el \"patio de atr\u00e1s\". Muy reomendable. No dejar de probar los mojitos y la margaritas."
+    }, 
+    {
+      "date": "25 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "karum", 
+      "text": "Hemos ido varias veces y la verdad luego de ir a varios restaurantes mexicanos es el mejor de toda la zona oeste, la comida es excelente, la presentacion de los diferentes picantes ofrecidos es \u00fanica, la atenci\u00f3n y el servicio son muy buenos y el precio es accesible. Felicidades!!"
+    }, 
+    {
+      "date": "9 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "NAPPO", 
+      "text": "Nos encanta esta propuesta, merecen nuestras felicitaciones.\r\nCon mi marido les recomendamos ir temprano, entrada la noche se llena y mucho.\r\nRecomendable."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "monicdesosa", 
+      "text": "Excelente todo, fuimos a festejar el cumplea\u00f1os de mi marido, no solo el ambiente era perfecto sino, que la moza muy agradable me realizo comida para celiacos y le trajo velita y todo!!!! la verdad vamos a ir muy seguido!!!!!!excelente"
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Henry37", 
+      "text": "Muy buena opcion. La realidad es que fui por los comentarios de este sitio y es tal cual. Un ambiente muy ameno, excelente atencion y muy buena comida. Pedimos 1 entrada, y dos platos pricinpales y quedamos satisfechos. Excelente opci\u00f3n. Volveremos para seguir probando otras variantes y algun traguito."
+    }, 
+    {
+      "date": "22 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "TitoL", 
+      "text": "Un lugar de primera. La comida es excelente y la atenci\u00f3n amabilisima. No te matan con los precios y los tragos merecen una menci\u00f3n especial. Muy recomendable."
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "li_ch", 
+      "text": "Todo hace disfrutar de este resto mexicano, la calidad de los productos, la atenci\u00f3n amena, la calidez del lugar. Nos encanto la variedad de salsas que proporcionan para los platos."
+    }, 
+    {
+      "date": "1 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fermadeira", 
+      "text": "Me habian hablado de este mexicano, pero no lo conoc\u00eda a pesar de vivir cerca. Realmente me sorprendi\u00f3 la calidad de la comida. Es excelente. El servicio m\u00e1s que correcto y el ambiente es muy copado. Yo fui un jueves y estaba tranquilo. El patio de atr\u00e1s esta muy bueno, para quedarse tomando margaritas (que adem\u00e1s las hacen de primera). Segurmante volver\u00e9 a seguir probando los platos que me quedaron pendientes del men\u00fa."
+    }, 
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Igan", 
+      "text": "La comida es riqu\u00edsima y los meseros tienen muy buena onda. Al momento de la cuenta tambi\u00e9n la sorpresa es agradable. Buen\u00edsimos los tragos !!!"
+    }, 
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "elgryego", 
+      "text": "Agradable atencion, rica la comida y precios mas que acorde.y como plus muy buenas margaritas.uno se siente muy comodo."
+    }, 
+    {
+      "date": "12 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gladysR", 
+      "text": "Festej\u00e9 mi cumplea\u00f1os en ese restaurante. Destaco la buena predisposici\u00f3n para armar un men\u00fa a medida (de mis gustos y de mi presupuesto). La calidad de la comida y del servicio, excelentes. El lugar tiene mucha onda. Me hicieron quedar como una reina."
+    }, 
+    {
+      "date": "2 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "EstefiPrieto", 
+      "text": "Me encanta este lugar!! Super tranquilo, varios salones paa elegir (afuera en la calle, patio trasero y salon pricipal), bien informal, SUPER LIMPIO!!!!, atenci\u00f3n excelente, e explican todos los platos, te recomiendan y cambian los platos a pedido del comensal. La comida es una adaptaci\u00f3n con picantes a gusto del consumidor. Me encanta, siempre vuelvo."
+    }, 
+    {
+      "date": "3 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Estrella_A", 
+      "text": "Excelente relaci\u00f3n entre calidad y precio. Es, junto con Samurai, una de las mejores opciones para comer bien y pasar un buen rato entre amigos en Ramos. (Gracias Guia Oleo, los vengo siguiendo y no me est\u00e1n fallando en las recomendaciones)"
+    }, 
+    {
+      "date": "6 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yamigo", 
+      "text": "Se come muy rico y se disfruta, te hacen sentir muy comodos, nos sentimos atendidos como amigos."
+    }, 
+    {
+      "date": "5 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Alexia82", 
+      "text": "Buenas! me encanta este bar! por fin algo con onda en la zona, exelente servicio, si quieren un buen plan recomiendo: amigos, nachos de entrada, fajitas, una buena margarita y a disfrutar!"
+    }, 
+    {
+      "date": "2 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diegoalejo15", 
+      "text": "Muy pero muy rica la comida, el lugar es peque\u00f1o y agradable.\r\nLo unico que agregaria es que podrian ambientarlo con onda mexicana pero es un lugar muy recomendable."
+    }, 
+    {
+      "date": "25 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Anis1977", 
+      "text": "Muy buen lugar!! Lo recomiendo...Vale la pena."
+    }, 
+    {
+      "date": "12 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chipa", 
+      "text": "Excelente lugar."
+    }, 
+    {
+      "date": "2 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "clauveros", 
+      "text": "La comida de excelente calidad, la atenci\u00f2n muy r\u00e0pida, y servicial.S\u00f2lo falt\u00f2 algo de m\u00f9sica mexicana, s\u00f2lo como detalle de ambientaci\u00f2n."
+    }, 
+    {
+      "date": "2 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Kevin_M", 
+      "text": "La verdad que 10 puntos. La comida mexicana no me gustaba hasta que conoc\u00ed Tacuba. La verdad es demasiado rica. Y la atencion es genial tambien, los tragos muy ricos, un espectaculo."
+    }, 
+    {
+      "date": "25 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "turu_flowers", 
+      "text": "todo lo que comimos alli fue exelente el trago margarita que me hicieron espectacular pedimos 3 platos para compartir un postre 2 tragos  y cafe a la olla  y en total salio 100 pesos  la atencion de la chica super amable lo recomiendo"
+    }, 
+    {
+      "date": "18 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dpcd", 
+      "text": "Soy un fan\u00e1tico de la comida mexicana y he recorrido muchos restaurantes de buenos aires que se dedican a preparar platos de esta nacionalidad. Por este motivo puedo opinar que Tacuba Bar ha sido por lejos el mejor de todos, debido principalmente a la calidad de sus productos, el servicio y la ambientaci\u00f3n. Sin olvidar los precios accesibles que \"ayudan\" en esta \u00e9poca de crisis. Visitarlo es ser cliente. (A+++)"
+    }, 
+    {
+      "date": "27 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gracesusan", 
+      "text": "He tenido la suerte de visitar m\u00e9xico y qued\u00e9 seducida por su comida,pero al conocer tacuba bar super\u00f3 ampliamente el sabor y la calidad de los platos mexicanos,am\u00e9n de estar elaborados acorde a nuestro paladar,es excelente la calidad,sabor y presentacion de los platos"
+    }, 
+    {
+      "date": "23 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "serpost", 
+      "text": "Grata experiencia. Nos atendieron muy bien y la comida result\u00f3 estupenda y a precios razonables.\r\n\r\nMucho respeto por los sabores mexicanos, muy recomendable."
+    }, 
+    {
+      "date": "14 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hectorps", 
+      "text": "Muy buena comida y atenci\u00f3n. Y el precio muy razonable. Ambiente muy agradable y buena decoraci\u00f3n."
+    }
+  ]
+}

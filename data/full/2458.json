@@ -1,0 +1,918 @@
+{
+  "malos": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ElVisitador", 
+      "text": "Me gustaba ir seguido cuando las porciones eran para compartir (siguen siendolo en la otra sucursal), ahora al achicarlas aumentaron los precios (ej: asado para compartir era 5 tiras, hoy porcion = 2 tiritas).\r\nAdios 22"
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "claracla", 
+      "text": "NO pidan el vino de la casa, es muy malo. Pedimos una parrillada para compartir y era bastante chica, aunque llenaba. La carne dura y mala. Lo \u00fanico que se puede comer son las achuras. Papas fritas fre\u00eddas con aceite viejo. NO VAYAN!"
+    }, 
+    {
+      "date": "23 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mila84", 
+      "text": "Llegamos al mediodia para almorzar y tuvimos que esperar 50 minutos para que nos llegue la comida. Sunado a eso la carne estaba cruda y dura. Las papas fritas estaban buenas, y la atencion del mozo fue acorde a la espera del plato.  A lo ultimo nos obsequiaron un postre  de crema y dulce de leche para enmendar la tardanza que no alcanzo para cambiar mi opinion. NO VOLVERIA A COMER AHI"
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "carlo", 
+      "text": "Era una mi mis parrillas de barrio preferida (bueno - bonito - barato) sin embargo la ultima experiencia fue muy negativa: mas que vacio lo que comi era chicle de masticar quemadito! Lo peor de todo es que antes de cenar me acerque a la parrilla para pedirle recomendaciones sobre la carne al parrillero (un pibe muy joven...habra sido el sostituto espero). Pues, ententare una vez mas, pero si se repite lo mismo no vuelvo mas"
+    }, 
+    {
+      "date": "24 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "kaine", 
+      "text": "Hace bastante que no iba, fuimos con mis amigos (7) y la verdad que me sorprend\u00ed porque decepciono y mucho, primero que los precios se fueron a las nubes, \u00e9ramos 7 y pagamos casi 500 pesos y solo tomamos 2 vinos. A la vaca la  mataron de un susto la entra\u00f1a parec\u00eda de goma, incomible, el vac\u00edo duro, la morcilla pura grasa y las papas fritas nadaban en aceite, incomibles, lo \u00fanico que se salvo es la especialidad el flan con crema y dulce, pero no repito mas, por la plata que gastamos me voy a otro resto que hay mejor calidad, muchachos, se subieron al caballo, es una lastima,me gustaba"
+    }, 
+    {
+      "date": "28 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "PiponPipon", 
+      "text": "La botella de vino $10 m\u00e1s cara que en cualquier otra parrilla de boedo o almagro, por ejemplo. Car\u00edsimo para la mala calidad de la comida, le entra\u00f1a seca y pasada, el bife de chorizo tambi\u00e9n, la morcilla llena de grasa. En cualquier parrilla de barrio com\u00e9s mejor carne que aca por un 30% menos de precio. A\u00fan as\u00ed, la atenci\u00f3n de los mozos fue muy amable y atenta. El flan muy bueno, para tres personas como m\u00ednimo. El peor pecado de esta parrilla es estar en Palermo y cobr\u00e1rtelo."
+    }, 
+    {
+      "date": "21 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "francoc22", 
+      "text": "Baj\u00f3 mucho la calidad de la parrilla. Las mollejas ya no son de lo mejor de las parrillas porte\u00f1as y parece que les est\u00e1 faltando paciencia a la hora de asar una carne que ya no sale tierna."
+    }, 
+    {
+      "date": "26 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Chonta", 
+      "text": "La carne muy, pero muy dura. No hay relaci\u00f3n precio calidad. El ambiente est\u00e1 bueno para ir con amigos y el trato de los mozos es cordial."
+    }, 
+    {
+      "date": "2 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Christian74", 
+      "text": "Muuuuuuy flojo! gastamos 60 p, para comer maso, era muy abundante, pero de algo que no me gust\u00f3!... Lo peor, tardaron 1 hora y cuarto para traer la comida!!!"
+    }, 
+    {
+      "date": "26 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "aquaman", 
+      "text": "La excusa para ir a este restaurant es s\u00f3lo el precio y que fui invitado. El resto mal igual que su hermano de Palermo ,ambiente desprolijo,servicio regular, y mucho olor a aceite quemado y humo que no se te va en todo el d\u00eda."
+    }, 
+    {
+      "date": "26 May 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "betinaja", 
+      "text": "Lo peor es la falta de ventilaci\u00f3n."
+    }, 
+    {
+      "date": "18 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Castelabre", 
+      "text": "Una decepci\u00f3n. Pedimos vac\u00edo y nos trajeron tapa de asado (muy evidente). \r\nA las 22:00 de un s\u00e1bado ya no ten\u00edan chinchul\u00edn, ni entra\u00f1a, ni bife de chorizo. Para quien quiera comer hasta matarse, sin fijarse la calidad, vale."
+    }, 
+    {
+      "date": "18 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "gush829", 
+      "text": "Si se busca comer mucho a precio razonable este es el lugar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Sagan", 
+      "text": "Parrilla cl\u00e0sica de barrio, tiene todo para ser un gran punto de encuentro con amigos todas las semanas pero como lei en otros comentarios la comida no termina de cerrar, fui 3 veces antes de votarlo. Tiene potencial y mucho para mejorar. Volver\u00e9."
+    }, 
+    {
+      "date": "24 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Ezekam", 
+      "text": "Hac\u00eda tiempo que no iba, pero las porciones se han achicado (y mucho!), y la calidad me parece que tambi\u00e9n baj\u00f3. La mayor\u00eda de los cortes de carne no alcanzan para una persona, ni hablar de compartir (la entra\u00f1a es apenas para probar). La calidad de la carne no es gran cosa (tirando a mala). El servicio muy lento (estaba lleno), nos sirvieron los chorizos y las morcillas fr\u00edos. El precio no es caro, hasta que te das cuenta que ten\u00e9s que pedir entrada, plato, guarnici\u00f3n, postre y picar de los platos de las chicas para no quedarte con hambre."
+    }, 
+    {
+      "date": "4 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Maddie", 
+      "text": "Parrilla bodeg\u00f3n de barrio al que no se puede ir con m\u00e1s pretensiones que comer minutas y parrilla. Las porciones est\u00e1n m\u00e1s chicas, pero nunca tuve un problema con la carne..., las papas fritas son buenas aunque tienen sus d\u00edas. La atenci\u00f3n es correcta la mayor parte del tiempo. Cl\u00e1sica parrilla de barrio conocida por un postre m\u00e1s cl\u00e1sico a\u00fan: el flan con crema y dulce (que si lo piden, compartanlo entre 4). Los fines de semana al mediod\u00eda se suele llenar y tienen bastante delivery."
+    }, 
+    {
+      "date": "3 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "mattsorum", 
+      "text": "Se come bastante bien y barato, pero no es nada de otro mundo ni mucho menos..."
+    }, 
+    {
+      "date": "7 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ReymonK", 
+      "text": "Me hablaron mucho y muy bien, FUI CON MUCHAS EXPECTATIVAS.\r\n Me desilusionaron,. Comi carne cruda(DESAGADABLE). Lo unico que se rescata es son las papas y la atencion del pobre mozo que tuvo que escucharme.\r\n VOTO NOPOSITIVO!!!"
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ElVisitador", 
+      "text": "Que se puede decir del 22..clasico de clasicos,.hay que ir con hambre, la comida sale rapido, las porciones para compartir si o si, el ambiente super familiar, los precios ok, las fritas buenisimas.los mozos siempre atentos y con buenas recomendacionesy el flan /tarantela espectacular. siempre vuelvo"
+    }, 
+    {
+      "date": "6 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Guada1287", 
+      "text": "El lugar no es gourmet ni nada pero no es necesario que tenga un aspecto de \"suciedad remanente\" como tiene. La comida de medio pelo para abajo, por la misma plata en otros lugares se come mucho mejor. Fui con un amigo buscando puramente \"comer una buena parrillada\" y decepcion\u00f3. No vuelvo."
+    }, 
+    {
+      "date": "18 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "mcmaux", 
+      "text": "Las papas fritas a la provensal son muy buenas!!!! Para accompagnar cualquier carne"
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Solchuz", 
+      "text": "Eramos 5 y comimos a reventar. Bife de chorizo, matambre a la pizza y papas a la provenzal (muy buenas papas)! Super abundantes los platos que dicen para compartir, o al menos para chicas. Un flan mixto excelente lleno de dulce de leche y crema. Es un bodeg\u00f3n as\u00ed que el aspecto o es de los dioses, pero se come muy bien. Super recomendado"
+    }, 
+    {
+      "date": "25 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tobias", 
+      "text": "Fui con turistas y optamos por afuera, ya que hab\u00eda algo de sol. Tuve que pasarle un trapo a la silla, porque ten\u00eda una ro\u00f1a incre\u00edble. Pedimos parrillada, que zafaba, fritas ok y una entra\u00f1a que estaba MUY buena. Pero todo lleg\u00f3 algo fr\u00edo y no nos dieron una parrillita para mantener la carne caliente, por lo que se enfri\u00f3 enseguida. La moza ten\u00eda cero onda y ten\u00edamos que estarle pidiendo cosas a cada rato. Comimos bien, no tomamos vino pq est\u00e1bamos con auto. Pueden ir a probar la entra\u00f1a con fritas, MUY BUENA. Cobran $2 de cubierto, no s\u00e9 por qu\u00e9. El lugar... de barrio... onda bodeg\u00f3n. Quiz\u00e1s vuelva."
+    }, 
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sespino", 
+      "text": "Ideal para ir con amigos. Las porciones de asado son abundantes, el vino de la casa es bastante bueno y los precios accesibles. La carne est\u00e1 bien asada, las guarniciones son buenas y los postres contundentes, para compartir. Accesible para el bolsillo."
+    }, 
+    {
+      "date": "10 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "malegria", 
+      "text": "Para ir al 22 hay que saber  las siguientes reglas: el lugar es feo, ruidoso, el servicio es lento, a veces olvidadiso, pero la carne es muy buena y esta bien asada, con buenas porciones (y medias porciones) y con precios correctos. En definitiva, se come bien, muy bien si se sabe elegir. Una parrilla que tenemos en cuenta cuando el cuerpo pide atracon de carne!"
+    }, 
+    {
+      "date": "3 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jurka", 
+      "text": "Muy buena carne y achuras, ensaladas completas de excelente calidad. No defrauda ya que las porciones son para compartir., postres basicos pero de porciones generosas. Lo mas flojo es su carta de vinos  Es para ir con amigos  en un ambiente bien de barrio nada sofisticado"
+    }, 
+    {
+      "date": "10 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carbunclo", 
+      "text": "Hac\u00eda tiempo que no visitaba esta parrilla y, a pesar de algunos comentarios le\u00eddos, no me defraud\u00f3, comida rica y abundante como siempre, buena atenci\u00f3n y un ambiente de bodeg\u00f3n que combina bien con lo ya mencionado. En tren de ser quisquilloso tal vez disminuy\u00f3 la relaci\u00f3n calidad precio, m\u00e1s por incremento de precios que por bajar la calidad. Estacionamiento en la calle y el lugar se vuelve ruidoso con mucha gente."
+    }, 
+    {
+      "date": "1 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ward", 
+      "text": "El servicio fue amable, pero bastante lento en general, a pesar de que el sal\u00f3n estaba casi vac\u00edo. La comida es rica y las porciones son super abundantes, aunque resulta un poco caro si se tiene en cuenta la experiencia en general. Una nota a favor del servicio: Como eramos varios, nos ofrecieron varios postres (flan con dulce de leche y crema) para compartir. Volver\u00eda, pero con tiempo."
+    }, 
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "shumi7", 
+      "text": "comimos bien. eramos un grupo grande. las porciones son buenas y grandes. nos regalaron un delicioso flan como postre. buena atencion."
+    }, 
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sibaritatrip", 
+      "text": "La relacion precio calida es muy buena. La calidad de la carne es muy buena y las porciones son para compartir. El lugar no desentona con la idea que se quiere transmitir, el servicio es discreto.Es un buen exponente de parrilla de barrio."
+    }, 
+    {
+      "date": "7 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ALenOleo", 
+      "text": "Como muchos comentan, la relaci\u00f3n precio-calidad es p\u00e9sima! Gastamos 80 pesos cada uno... por esa plata, como en lugares mejores!\r\nCaimos de casualidad y ni de casualidad volvemos!"
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "silvioernesto", 
+      "text": "volvio a ser el 22 de antes, buena calidad y precios razonables"
+    }, 
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Cecile1", 
+      "text": "Fuimos con una amiga al medio d\u00eda por el flan, con los jugos g\u00e1stricos comi\u00e9ndonos el est\u00f3mago del hambre. Pedimos un chorizo, papasfritas provensal y matambre a la pizza para uno. Comimos tan bien que no pudimos llegar al postre. Volveremos por \u00e9l."
+    }, 
+    {
+      "date": "21 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Elgordi", 
+      "text": "Fuimos de noche durante semana, no tuvimos que esperar. Atenci\u00f3n de la camarera, muy buena. Comida, buena, platos para compartir y postres grandes. Precio aceptable. Ambiente...parrilla de barrio, c\u00f3modo, informal. Volver\u00eda a ir"
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "nandoo", 
+      "text": "Ya no es lo que era antes...caro en relacion al producto y servicio..con lo que se paga por persona $ 80 aproximadamente uno puede acceder a muchos restos de mucho mejor nivel...nostalgicos por el otrora 22...busquemos otros rumbos..a este solo le queda el nombre.."
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "leokohan", 
+      "text": "Fuimos en busca de un poco de carne en una parrilla barata y sin pretenciones. Nos encontramos con precios alt\u00edsimos por los que podr\u00edamos haber comido en los restaurantes m\u00e1s concurridos de Palermo (incluso sushi). La carne estaba bien, pero pagamos tan caro que nos qued\u00f3 un sabor amargo."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "vafe", 
+      "text": "Comimos el menu ejecutivo del mediodia y cada vez viene mas corto, el flan es lo mejor que tienen, espectacular."
+    }, 
+    {
+      "date": "24 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "polluxxt", 
+      "text": "El tama\u00f1o de la carne esta bien, no estas abundante como antes, las porciones de papas si contin\u00faan con buen tama\u00f1o"
+    }, 
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "agustinsp", 
+      "text": "Muy buena la comida, el lugar estaba bastante lleno por ser un jueves pero no era ruidoso. La carne muy buena y las papas fritas excelentes!. El tradicional flan con dulce de leche muy bueno tambien."
+    }, 
+    {
+      "date": "22 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "zxyx", 
+      "text": "para zafar esta muy bien pero no es lo que dicen. buena relacion calidad:precio. no vale la pena ir especialmente pero si andas por la zona zafas bien."
+    }, 
+    {
+      "date": "2 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Micenas", 
+      "text": "Porciones dentro de todo muy abundantes, a veces no estan en el punto justo de cocci\u00f3n, pero si uno lo solicita te cambian enseguida por lo pedido. Muy cordial la atencion, no hay esperas interminables... Lo mejor del lugar: la abundancia de los postres, increible!!!"
+    }, 
+    {
+      "date": "19 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "danielabreno", 
+      "text": "Festeje mi cumple, me hicieron reserva para 25 personas, acordamos horario por el tema de la cantidad de gente, y salio todo perfecto, la comida, la atencion, todo re bien. El precio fue total por persona. Muchas gracias, muy recomendable"
+    }, 
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "@guynevo", 
+      "text": "La entra\u00f1a estuvo muy buen, la ensalada fresca y el pan tambi\u00e9n.\r\nUn bodeg\u00f3n simple que cumple con las expectativas."
+    }, 
+    {
+      "date": "28 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "santisenador79", 
+      "text": "una parrilla bien de barrio! porciones bien abundantes y de calidad. el flan con dulce imperdible!"
+    }, 
+    {
+      "date": "7 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Juancentro", 
+      "text": "No pienso volver. Aumento m\u00e1s de 50% en menos de 1 a\u00f1o. Antes era una fonda bien de barrio para comer mucho, bueno y barato. Por suerte mantuvieron lo mucho y bueno (buena milanesa napo, excelente el flan) pero se les fue la mano con los precios. Piensan que porque estan cerca del sector fashion de Palermo (encima estan en una zona de mala muerte) y porque pusieron el menu en ingl\u00e9s pueden casi duplicar los precios. No lo voy a recomendar m\u00e1s"
+    }, 
+    {
+      "date": "21 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "carlo", 
+      "text": "El servicio es regular, tirando hacia abajo, el ambiente es decadente, la carta de vinos es humilde....pero la carne es buena y generosa y los precios son baratos! Esto es lo que espero de una parrilla de barrio, y espero que se mantenga asi a pesar de la cercania con Palermo y sus \\\"parrillitas fashion\\\" donde se come mal y se paga mucho! Sigan asi por favor"
+    }, 
+    {
+      "date": "19 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablokus", 
+      "text": "Fui con amigos a despedir el a\u00f1o y la pasamos genial. El \\\"22\\\" es la parrilla de barrio donde uno va a MORFAR, y as\u00ed lo hicimos. Muy buena la comida. Los chinchulines bien crocantes y las fritas provenzal estaban para deleitarse. El asado y la entra\u00f1a se encontraban muy tiernos y las porciones eran abundantes. P\u00e1rrafo aparte merece el FLAN MIXTO, un exquisito y sabroso flan cubierto a m\u00e1s no poder por crema y dulce de leche. Una autentica bomba gastron\u00f3mica. Sin duda alguna recomiendo esta Parrilla a todos los que disfrutan de la comida abundante, rica y no light.-"
+    }, 
+    {
+      "date": "26 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Ideal para ir con amigos y comer en abundancia. La entra\u00f1a es muy buena y el flan con dulce de leche es de los mas grandes de Buenos Aires."
+    }, 
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mumi222", 
+      "text": "Muy buenos los canelones de jam\u00f3n y queso, pero una bomba. La morcilla no es de tan rica, el chorizo es muy bueno, el vac\u00edo nunca falla y la tira, generalmente muy sabrosa, a veces s\u00ed. Porciones abundantes y rendidoras. A esta parrilla, si no sos muy quisquilloso, volv\u00e9s. Ojo con las papas fritas que a veces se pasan de fritas."
+    }, 
+    {
+      "date": "11 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "aletouson", 
+      "text": "El lugar es muy sencillo, tipica parrilla de barrio, varias mesas, pedimos un bife de chorizo mariposa p/ compartir y fue relamente generoso y muy tierno, las papas fritas a la provenzal buenas y el almendrado de postre tambi\u00e9n. Destaco el chimichurri y la salsa criolla , muy bien hechas ambas cosas. Muy ruidoso, t\u00edpico lugar para charlar a los gritos, atienden rapidos y bien. Puede que salgan con un poco de olor a comida en la ropa. Para ir entre amigos a charlar pasarla bien."
+    }, 
+    {
+      "date": "5 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "miamia", 
+      "text": "Muy buena carne. Las fritas provenzal vienen con mucho ajo, genial. No s\u00e9 c\u00f3mo ser\u00eda antes el flan mixto, pero a m\u00ed me pareci\u00f3 enorme, y aparte muy rico. Para volver."
+    }, 
+    {
+      "date": "1 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "rferrari", 
+      "text": "El 22 se ha ido desdibujando con el correr del tiempo. Ya no es tan bueno (la morcilla y el vac\u00edo estuvieron flojos), el servicio no mejora (tuvimos que pedir dos veces que llevaran la carne a la parrilla para terminar de cocinarla) y el precio (a\u00fan si se comparte) ya no me parece accesible. La bondiola, el lomo y las provoletas dobles completas salvaron la noche, pero tambi\u00e9n costaron un ojo de la cara. El flan mixto, antes gigante, ahora solamente es grande, y un semejante encogimiento alcanz\u00f3 a todas las porciones y guarniciones que pedimos. Si encuentro un sustituto cerca, dejar\u00e9 de ir."
+    }, 
+    {
+      "date": "5 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "BCGS", 
+      "text": "Parrilla sencilla y sin aspiraciones: buena carne a precios accesibles. No es el lugar mejor ambientado, ni la mejor carne, pero cumple su funcion para aquellos dias que no se tienen grandes pretensiones."
+    }, 
+    {
+      "date": "5 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Afipan", 
+      "text": "No falla. Siempre que vuelvo quedo conforme. Se come bien y muy barato. Es para eso, no pidamos nada especial. Muy buena carne."
+    }, 
+    {
+      "date": "16 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "leito_2731", 
+      "text": "El ambiente es el t\u00edpico de una parrilla de barrio. La comida es buena en relaci\u00f3n al precio pero muy abundante."
+    }, 
+    {
+      "date": "7 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "BORGES", 
+      "text": "El lugar es sencillo con ambiente bastante agradable.  Un t\u00edpico lugar de barrio.  Hay varios mozos con lo cual la atenci\u00f3n es bastante r\u00e1pida.  Los platos son muy abundantes y la comida es buena.  Tiene la opci\u00f3n de pedir medios platos o platos para compartir.  Es un lugar econ\u00f3mico.  La relaci\u00f3n precio-calidad es muy buena.   Es para volver a ir."
+    }, 
+    {
+      "date": "10 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Nebrija", 
+      "text": "Bodeg\u00f3n de barrio que tiene buenas carnes. El lomo y el vac\u00edo sabrosos y cocinados a punto tal cual lo pedimos. Tiene mesas afuera y tanto all\u00ed como adentro se puede conversar muy bien porque es una zona tranquila. Buenas salsas para acompa\u00f1ar la carne. Es una aceptable parrilla de barrio."
+    }, 
+    {
+      "date": "7 Sep 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "nrossi", 
+      "text": "A mi modo de ver, el ambiente deja mucho que desear y no est\u00e1 en l\u00ednea con el precio. No hay opci\u00f3n de \"parrillada para 2\", y las porciones suelen ser abundantes, con lo cual para comer de todo un poco se gasta un dineral y sobra mucha comida. Si fuera barato ser\u00eda una buena opci\u00f3n."
+    }, 
+    {
+      "date": "26 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Pepe5ger", 
+      "text": "Bueno,antes de hacer \u00e9ste comentario,he le\u00eddo algunos que hicieron otros usuarios.Hay qui\u00e9nes sencillamente le dan con un ca\u00f1o al restaurante,y hay qui\u00e9nes no.Yo sinceramente,cu\u00e1ndo fu\u00ed admito que era un domingo al mediod\u00eda y por lo t\u00e1nto hab\u00eda un ambiente muy ruidoso,pero me pareci\u00f3 muy bueno el lugar,muy agradable la comida,o sea es decir,me pareci\u00f3 aceptable.Cada uno que piense lo que quiera,no?Cada uno es libre de pensar lo que quiera,pero yo sinceramente creo que la pas\u00e9 bien y en un momento agradable de familia."
+    }, 
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Afipan", 
+      "text": "Una muy buena parrilla, para comer muy buena carne y gastar muy poco. Nos atendieron bien. Hay mucha gente, pero es razonable por el tipo de lugar.Lo recomendaria para ir solo a comer."
+    }, 
+    {
+      "date": "10 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "silvioernesto", 
+      "text": "El lomo a la parrilla es la especialidad del 22 junto con las abundantes papas fritas, hace muchos a\u00f1os que vamos y la calidad es siempre la misma. El lugar aun este que es nuevo es caotico pero la verdad, que el lomo es UNICO en el planeta vale la pena bancarse el resto."
+    }, 
+    {
+      "date": "13 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elsebra", 
+      "text": "Muy buena carne, lo que para una parrilla es esencial. La porci\u00f3n de papas es abundante y el flan es exquisito. El lugar es un poco ruidoso, pero aguantable."
+    }, 
+    {
+      "date": "22 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Rosita30", 
+      "text": "me parecio buena la relacion precio calidad de la comida. No asi el ambiente , un poco simple . Los mozos me parecieron muy profesionales, no improvisados. ESta bien por lo que cobran pero tampoco es algo muy deslumbrante"
+    }, 
+    {
+      "date": "20 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Mur2k", 
+      "text": "Vamos a comer siempre con la banda y no hay manera de gastar m\u00e1s de $30... Es para ir con amigos, tomarte unas cervezas y comer en un t\u00edpico parrill\u00f3n. \r\nDestacado: Flan con dulce de leche (creo que comen 4)\r\nLa clave: si es verano sentate afuera porq sal\u00eds con fritas...\r\nIgual: NO FALLA!"
+    }, 
+    {
+      "date": "10 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "NAKATA", 
+      "text": "La mejor opcion por precio calidad de la zona, carne de primera y buena atencion. El flan con dulce es tremendo."
+    }, 
+    {
+      "date": "5 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Del ambiente no esperen mucho porque no es m\u00e1s que una t\u00edpica parrilla bodeg\u00f3n de Palermo Viejo. \r\nPero la relaci\u00f3n precio-calidad me pareci\u00f3 extaordinaria. La parrillada es m\u00e1s que buena y realmente llamativo el tama\u00f1o de los postres.  Ideal para ir con amigos enemigos de los platos minimalistas. Ah, deben saber que de recuerdo se van a llevar demasiado olor a comida en la ropa."
+    }, 
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jumagu", 
+      "text": "Tipica parrilla de barrio"
+    }, 
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Goose", 
+      "text": "Super abundante y barato en una parrilla bien de barrio."
+    }, 
+    {
+      "date": "28 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "massinga", 
+      "text": "Sol\u00edamos ir al 22 que estaba en la calle Fitz Roy porque somos de la zona y siempre nos parec\u00eda dentro de todo bueno y barato. Hoy fuimos al de la calle Jufre por el recuerdo de nuestro viejo lugar y la verdad es que me decepcion\u00f3 bastante. Pedimos matambrito y asado y vinieron muy grasosos y no muy bien cocidos, si no fuera por el cabern\u00edcola que tenemos por amigo que se lo comi\u00f3, lo hubieramos mandado de vuelta. \r\nLo que si reconozco es que las porciones son abundantes y baratas.\r\nEl servicio fue rapido ya que no habia mucha gente, por lo que me llama m\u00e1s a\u00fan la atenci\u00f3n la mala calidad de la carne.\r\nSeguro volver\u00e9 para otra degustacion, pero si no vas no te perd\u00e9s de nada."
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Clauchina", 
+      "text": "Muy buena comida!!muy buen precio, las mozas no atienden tan bien como atienden los mozos!\r\nPERO POR FAVOR PONGAN UN PAR DE VENTILADORES!!!!"
+    }, 
+    {
+      "date": "7 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elarquitecto", 
+      "text": "Debo haber ido con amigos en m\u00e1s de 15 ocasiones, casi siempre nos volcamos por la parrilla, diferentes cortes, achuras, etc. Hasta hoy siempre fue de bueno a muy muy bueno. Las porciones son muy abundantes, y aqu\u00ed me refiero a todo lo que hemos pedido. Desde milanesas hasta el flan con dulce que enorme. La atenci\u00f3n siempre correcta y la ambientaci\u00f3n es la de un bodeg\u00f3n que podr\u00eda mejorar en su categor\u00eda bodeg\u00f3n. Por la noche est\u00e1 siempre lleno, a\u00fan d\u00edas de semana como los martes. Ten\u00e9s ganas de comer bien, abundante sin dejar la vida, \u00e9sta puede ser una buena opci\u00f3n. El tipo de comensales es variado, aunque nunca un traje."
+    }, 
+    {
+      "date": "1 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ales", 
+      "text": "Muy buena la relaci\u00f3n calidad precio. Muy buena la carne, que acumula el gusto de otros cortes en la parrilla. y los precios son muy econ\u00f3micos."
+    }, 
+    {
+      "date": "25 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "M_Bracco", 
+      "text": "La mejor parrilla para ir con amigos en Buenos Aires. La relaci\u00f3n precio/calidad no tiene comparaci\u00f3n, m\u00e1s si uno comparte las porciones entre muchos (son muy grandes).\r\nEl bud\u00edn es incre\u00edble, comen tres."
+    }, 
+    {
+      "date": "4 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "federombo", 
+      "text": "Casi siempre pido parrilla, pero la ultima vez q fui mande de vuelta una porcion de tira de asado q estaba incomible (raro, no se q paso).\r\nAsi q esta vez fui a la clasica milanesa napolitana (para compartir) q es una fija del 22.\r\nFritas provenzal con muuuucho ajo y vino de la casa (dulzon pero pruebenlo).\r\nNo podes dejar de pedir el flan mixto (mas casero q en casa, ojo q comen 3.\r\n\r\nSalu2"
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ngoldstein", 
+      "text": "Una gran parrilla de Buenos Aires. Es ir a lo seguro, se come muy bien por poco dinero ya que no es para nada caro. \r\nEs la tercera o cuarta vez que voy. Ideal para ir con amigos."
+    }, 
+    {
+      "date": "26 Jun 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "FILUCHO", 
+      "text": "Cambi\u00f3 de ubicaci\u00f3n agrand\u00e1ndose y parece que todav\u00eda no pudo acomodarse a su nuevo tama\u00f1o, los mozos te atienden cuando pueden y la carne no llega en su punto adecuado. \r\nLo rescatable: el flan mixto... \u00a1Es monstruoso!"
+    }, 
+    {
+      "date": "17 Jun 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "momo", 
+      "text": "Muy buena carne, atenci\u00f3n lenta y falta de sincronismo, las papas fritas (excelentes) llegaron para el postre. \r\nIgual recomendable."
+    }, 
+    {
+      "date": "15 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "joav", 
+      "text": "Es una parrila aceptable, \"flash back\" es un exagerado. No se que quer\u00e9s flaco, vas a una parrilla de veinte pesos. Si quer\u00e9s ir a una parrilla bien, ten\u00e9s otras en otro rango de precios. \r\nMal no la pasamos. \r\n\u00bfAlguien sabe que pasa con la entra\u00f1a? No venden en ning\u00fan lado. Saludos, amigos parrilleros."
+    }, 
+    {
+      "date": "22 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Flash_back", 
+      "text": "Aclaro que yo voto seg\u00fan el servicio del delivery, ya que no conozco el nuevo local del 22 (el anterior restaurante dejaba mucho que desear). \r\nLa comida es bastante mala, la carne viene generalmente seca y hace poco aumentaron bastante el precio. \r\nLa porci\u00f3n de tira de asado aument\u00f3 y muchas veces se olvidan de traer pan. Inaceptable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leticiaquirque", 
+      "text": "Muy buena comida, abundante y de calidad, cabe destacar que no es un restaurant gourmet, es una parrilla de barrio. La atenci\u00f3n correcta, muy buena, eramos varios y nos regalaron el postre. El ambiente, bien, nuevamente teniendo en cuenta que es una parrilla de barrio. Relacion calidad/precio MAS QUE BUENA! Lo mejor de todo, los postres!"
+    }, 
+    {
+      "date": "27 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "el_gloton", 
+      "text": "la carne estaba como la pedimos  a punto el budin excelente, muy abundantes las porciones todo es para compartir comimos muy bien,  pero el lugar podria mejorarse un poco asi encuadra mas con el precio, por ejemplo cambiando las mesas y sillas que son de plastico blancas"
+    }, 
+    {
+      "date": "7 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lulirosset", 
+      "text": "La parrilla en general es muy buena. Comimos chorizos, vac\u00edo y bife de chorizo. La calidad de la carne ha disminu\u00eddo un poco pero sigue siendo muy buena.\r\nNo hay mucha variedad de vinos pero se rescata alguno de los m\u00e1s caros de la carta.\r\nEl flan mixto es, sin duda, el mejor de Buenos Aires.\r\nSuper recomendable para ir con amigos."
+    }, 
+    {
+      "date": "30 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hellorod", 
+      "text": "Hace tiempo que busco encontrar una buena parrilla y ac\u00e1 la encontre. Es cierto lo que dicen todos los demas comentarios, es para comer hasta tener un paro cardiaco y caer. Fui con un amigo y nos pedimos 2 chori, 1 bife de chorizo (que es p/ 2), unas papas fritas y un litro de vino de la casa...88 mangos. A mi me parecio un toquesin caro...mas por los 4.30 de cubierto por persona. Supongo que esta parrilla de barrio se aprovecho un poco del turismo y del renombre para meterte esos gastos de a poco, pero todo bien. La carne 10 puntos y todo lo demas muy tranca, vuelvo seguro."
+    }, 
+    {
+      "date": "24 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "silvioernesto", 
+      "text": "el lugar es sencillo, no hay lujos, los lujos estan en los platos.IMPERDIBLE EL LOMO."
+    }, 
+    {
+      "date": "22 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mauricioaziz", 
+      "text": "Fui 3 d\u00edas a Buenos Aires de visita y me organizaron un asado aqu\u00ed. No podr\u00eda tener una sola queja, todo estuvo excelente, el personal muuuy amable y muertos de risa con nosotros, servicio 100% maraviloso, muchas gracias! La pr\u00f3xima vez que vaya seguro caer\u00e9 aqu\u00ed!"
+    }, 
+    {
+      "date": "10 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Bodie45", 
+      "text": "buenisima la comida.\r\nlos que votan enn contra no los entiendo, \r\nvayan a comer a puerto madero...."
+    }, 
+    {
+      "date": "29 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cuty", 
+      "text": "muy  buen lugar para  pasar  con amigas...la  comida  es  muy sabrosa.la  carne muy fresca  y tierna la  verdad es un lugar exelente para ir a cenar con amigos...totalmente recomendable."
+    }, 
+    {
+      "date": "4 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Damasco", 
+      "text": "Realmente se come muy bien, la calidad de la carne es excelente al igual que la ensalada. Las porciones son para compartir y el precio es muy accesible. El ambiente es el de una fonda limpia pero sin ning\u00fan tipo de cuidado. Si la idea es comer barato y muy bien, sin importar el confort, viene bien."
+    }, 
+    {
+      "date": "14 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PxHx", 
+      "text": "Excelente lugar, excelente comida y a muy buen precio."
+    }, 
+    {
+      "date": "16 Abr 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sylvinita", 
+      "text": "Van tres veces cuando pido delivery me dicen que no tienen moto. Y eso que vivo a tres cuadras."
+    }, 
+    {
+      "date": "25 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "AKI", 
+      "text": "Excelente parrilla."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "buenos": [
+    {
+      "date": "7 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "cerminar", 
+      "text": "El lugar es modesto, la comida razonable, pero fue aqu\u00ed donde comimos por primera vez con mi mujer, volveremos simpre."
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "anamay", 
+      "text": "El local es sencillito pero tiene una vista increible. Buena atenci\u00f3n La comida est\u00e1 bien, no es pretenciosa. Ah\u00ed me enamor\u00e9 de verdad..."
+    }, 
+    {
+      "date": "2 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Laurakis", 
+      "text": "la comida correcta pero tampoco impresionante. es la segunda vez que voy y me parece que es un poco caro para el producto que brindan, lo mejor del lugar es la vista al r\u00edo."
+    }, 
+    {
+      "date": "19 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Una muy buena opcion para probar comida arabe que promete satisfacer a cualquier paladar. En si, el ambiente no es lindo, pero la vista al rio es impresionante. El servicio es muy atento. Lo recomiendo mientras paseas por el puerto."
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Laurakis", 
+      "text": "Un interesante lugar de Shawarmas, con la ambientacion justa y una vista incre\u00edble al r\u00edo. Nos atendieron de primera y comimos en la terraza reci\u00e9n remodelada. Shawarma en su punto justo, ni crudo ni quemado, como sucede a veces. Y la picada de variedad de platos \u00e1rabes, muy buena!"
+    }
+  ]
+}

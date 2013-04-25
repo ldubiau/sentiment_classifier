@@ -1,0 +1,208 @@
+{
+  "malos": [
+    {
+      "date": "19 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "MexicanoenBaires", 
+      "text": "Fuimos a comer la semana pasada. Ordenamos empanadas, pollo y pescado. Tardaron 25 minutos en llevarnos las empenadas y los otros platos nunca llegaron, los tuvimos que cancelar despu\u00e9s de esperar 45 minutos. El lugar estaba semivac\u00edo."
+    }, 
+    {
+      "date": "10 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "eatalot", 
+      "text": "Sobrevalorado. La pizza no era muy bueno. No nos sirven el plato que pedimos. Y luego se enga\u00f1\u00f3 sobre el precio de las bebidas."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marmore", 
+      "text": "Muy buena la pizza. Ambiente agradable y precios normales. Volveremos a probar otras variedades de pizza."
+    }, 
+    {
+      "date": "24 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "banfield33", 
+      "text": "Los platos son muy buenos y las pastas deliciosas en todas sus variedades, el servicio es r\u00e1pido y atento.\r\nEs un lugar al que siempre volvemos."
+    }, 
+    {
+      "date": "25 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gabo_Almafuerte", 
+      "text": "Sorprendio para bien, un lugar chico pero con buena onda , la comida realmente sabrosa se notan los buenos ingredientes que utilizan. En cuanto al precio por la zona cara en que esta es barato. Para volver sin dudas"
+    }, 
+    {
+      "date": "6 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Koche", 
+      "text": "No nos decepciono, entramos de casualidad. Los postres estaban tentadores para volver a la tarde. La comida tampoco nos resulto tan sabrosa. pero las pizzas se veian bien...volvere si ando por alli de nuevo."
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Joluvi", 
+      "text": "Caimos de casualidad. La verdad es que nos fuimos muy contentos, por la calidad de comida, la atenci\u00f3n esmerada de los mozos, la limpieza que vimos y el precio, a nuestro entender muy bueno. Fue un buen debut y ya lo recomendamos a un par de parejas amigas."
+    }, 
+    {
+      "date": "25 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "johng", 
+      "text": "Es un lugar al que siempre voy a comer pastas y pizza.\r\nLas pastas me parecen muy buenas, al igual que las salsas. El ambiente es agradable. Los precios son justos.\r\nEl pan que sirven es casero (es riquisimo)\r\nPara la tarde tambien hacen unos tostados de jamon y mozarella en Pan arabe (casero) muy buenos, bien cargados."
+    }, 
+    {
+      "date": "5 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Gustave", 
+      "text": "Lindo bar, bien arregladito, sin demasiadas pretensiones. Caf\u00e9 aceptable. L\u00e1stima el mala onda que me atendi\u00f3, tuve mala suerte en ese sentido y no quiero hacer general el mal servicio."
+    }, 
+    {
+      "date": "29 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ine_fini", 
+      "text": "Buen\u00edsimas las pastas. La pizza tambi\u00e9n. Atenci\u00f3n t\u00edpica de barrio. Nos gust\u00f3 mucho."
+    }, 
+    {
+      "date": "28 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "comensal", 
+      "text": "Correcto...no sobresale y no desentona...cuenta con un peque\u00f1o y util salon fumador"
+    }, 
+    {
+      "date": "20 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RubenG", 
+      "text": "Buen lugar, mejor atendido y una variedad de comida adem\u00e1s de las muy buenas empanadas y pizzas. Ambiente agradable."
+    }, 
+    {
+      "date": "10 Jun 2003", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Lindo lugar, la comida es buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Castelabre", 
+      "text": "Voy bastante seguido, porque vivo en el barrio. Siempre tuvieron muy buenas pizzas, y ni qu\u00e9 decir las medialunas: de las mejores de Bs. As. Pero hoy escribo para recomendar con may\u00fasculas la pizza de r\u00facula, panceta y parmesano. Exquisita. R\u00facula fresca sobre una masa perfecta de pizza, con abundante panceta y queso parmesano. Es la pizza del momento en Palermo"
+    }, 
+    {
+      "date": "16 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "crisquinto", 
+      "text": "Ambiente genial, la pizza romana de la carta antigua es fenomenal, aunque la sacaron de la carta todav\u00eda se puede pedir."
+    }, 
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gise27", 
+      "text": "Muy buena atenci\u00f3n y platos!!!. El lugar es tranquilo, recomendable para ir en compa\u00f1\u00eda de amigos, familia o pareja."
+    }, 
+    {
+      "date": "20 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Estefi_y_Tucu", 
+      "text": "Es el lugar a recomendar para diferentes momentos: Desayuno (sus medialunas son imperdibles) - Almuerzo o Cena ya sea eligiendo pastas (todas) o su variedad de pizzas.\r\nDurante bastante tiempo vivi muy cerca de este lugar y fue el lugar habitual para pedir comida o disfrutar en su sal\u00f3n. Hoy viviendo mucho m\u00e1s lejos sigo acerc\u00e1ndome a comer, al menos una vez a la semana."
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Dione", 
+      "text": "Me encantaran las medialunas. Las mejores que ya prob\u00e9. Vale la pena ir a probarlas. Buen atendimiento. El lomo con papas es espetacular. Recomendavel"
+    }, 
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "freakkie", 
+      "text": "Muy buena pizza, quiz\u00e1 una de las mejores de Palermo. La de muzzarella tiene todo el queso que uno puede querer. M\u00e1s que recomendable la de pasta de anchoas."
+    }, 
+    {
+      "date": "16 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ivordonez", 
+      "text": "Muy buena pizza. Mala ambientaci\u00f3n."
+    }
+  ]
+}

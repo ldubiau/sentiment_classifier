@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "juanchigabriel", 
+      "text": "un desastre la comida y muy caro. Se come mucho mejor en cualquier restaurant de Puerto Madero y es mucho mas economico. \r\nNo se lo recomiendo ni a mi peor enemigo."
+    }, 
+    {
+      "date": "14 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "germanm", 
+      "text": "Carta demasiado extensa. La comida deja mucho que desear. El servicio, no es adecuado, por momentos se torna negligente. \r\nCar\u00edsimo para lo que ofrecen."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "malditomushi", 
+      "text": "La comida no destaca sin ser mala.\r\nLos dias de semana la atencion es sensiblemente mejor pero los fines de semana es imposible. Aun reservando se corre el riesgo de quedar confinado a una mesa al lado de la puerta del ba\u00f1o. Por esto ultimo, no volveria."
+    }
+  ]
+}

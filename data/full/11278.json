@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "shumi7", 
+      "text": "Lindo lugar para comer un sandwich y merendar. No tiene demasiado de especial. Pedi el sandwich de salmon que estaba bien, pero nada del otro mundo. Vuelvo porque esta cerca de mi trabajo, de otro modo no lo haria."
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "flr3008", 
+      "text": "Fui una tarde de s\u00e1bado a merendar.  El lugar es muy chico para la cantidad de mesas que tiene.  Es imposible mantener una charla sin que las mesas de al lado se enteren.  Un poco intimidante.  Tomamos dos cortados con una copita de marquise.  Rico, pero muy caro para su tamanio.  Los banios estan mal ubicados, con mucho olor a humedad, que se deja ver en las paredes.  Desentonan con la buena decoraci\u00f3n del lugar."
+    }, 
+    {
+      "date": "18 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nycteris", 
+      "text": "Pasamos apurados a tomar jugos y a comer un sandwich. El local muy bonito y los mozos atentos. La comida nada especial, pero correcta."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Carlosnik", 
+      "text": "Muy bien atendido, comimos unos sandwiches naturales, muy buenos, acompa\u00f1ados y presentados de excelente forma. Los costos estan ajustados a la realidad que nos acontece en nuestros dias, por lo que, sin ningun tipo de descuento, quizas a algunos, les resulte algo caro. \r\n\r\nCRITICA CONSTRUCTIVA: El espacio para recibir comensales es moderada a baja, pero los Ba\u00f1os, tienen una pesima ubicacion, y estan de algun modo en Refacciones. El de Hombres, no disponia de Luz en la parte del inodoro, con una puerta sin respiracion, ni perchero. NO APTO para Claustrofobicos."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "13 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "valecach", 
+      "text": "Fuimos a comer con un cupon de descuento y realmente fue muy buena la comida. El lugar es muy lindo, los menu realmente deliciosos. La panera lo m\u00e1s!!! Panes caceros y calentitos. Un lugar para volver"
+    }, 
+    {
+      "date": "1 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lucila_ph", 
+      "text": "Adhiero al comentario anterior, me encanto el ambiente de ese salon! Se transformo en mi cafe platense favorito."
+    }, 
+    {
+      "date": "5 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pablovlar", 
+      "text": "Nos parecio un lugar con una onda lind\u00edsima, es una casa antigua reciclada, hasta el sector fumadores es bonito porque parece una especie de vagon de tren de lujo, los licuados y cafes especiales son una maravilla y la atenci\u00f3n muy correcta. Volveremos en cualquier momento!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lauquita", 
+      "text": "Muy buen ambiente, los platos son abundantes y la calidad es muy buena. Falla algunas veces en la atenci\u00f3n. Recomendable"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "andyto", 
+      "text": "Fuimos para merendar, por cafe y esas espectaculares tortas que sirven. Muy bueno el cheesecake con mousse de dulce de leche!"
+    }, 
+    {
+      "date": "22 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "mimita", 
+      "text": "Hace un tiempo hab\u00eda una casita con libros y juegos para chicos, ibamos mucho a desayunar los fines de semana con nuestra primer hija. Hace tiempo que sacaron esa opci\u00f3n. Ahora solo va mi esposo a trabajar porque tienen wi-fi..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Oct 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "laulau_l", 
+      "text": "El bagel noruego es una exquisitez"
+    }
+  ]
+}

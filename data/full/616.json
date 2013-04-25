@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "7 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "vlahuta", 
+      "text": "Caro."
+    }, 
+    {
+      "date": "11 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lucho", 
+      "text": "Las costillas de cerdo tenian mas hueso que carne y el precio no justifica la calidad. Faltaban postres en la carta. La limpieza est\u00e1 descuidada: debajo de la mesa que ocupamos habia un pedazo de hamburguesa que alguien no termin\u00f3 de comer y la tir\u00f3 ahi. Tambi\u00e9n habia un chicle pegado al costado de mi asiento. En un lugar de Recoleta, estas cosas no pueden suceder."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "quitos", 
+      "text": "Muy buena la atenci\u00f3n. Y el lugar muy agradable..."
+    }
+  ]
+}

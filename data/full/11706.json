@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "DaVinciCook", 
+      "text": "Fui unas 3 o 4 veces a este lugar. Muy buenos los platos, muy sabrosos y abundantes. Precio...normal, nada del otro mundo pero no es barato. El shawarma creo que es el plato fuerte del lugar, y el falafel tambien es bueno, ya que no es un masacote de garbanzos, sino se desgrana y es sabroso. La pulcritud deja un poco que desear. Pero bueno, esperemos que mejoren esos detalles."
+    }, 
+    {
+      "date": "7 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Polixa", 
+      "text": "Una fast food de comida \u00e1rabe en el que tanto la comida como el servicio tienen noches mejores que otras, pero en general esta bien, te tratan amablemente y los precios son razonables. Ideal para salir del paso r\u00e1pido sin caer en las garras de la hamburguesa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "freddiem45", 
+      "text": "Fija de fin de semana es pasar por ac\u00e1 a buscar unos shawarmas y un hummus para comer en casa viendo una pel\u00edcula. Si bien hay d\u00edas que est\u00e1 mejor que otros, siempre es muy pero muy rico todo y a un muy buen precio. El lugar es peque\u00f1o y m\u00e1s bien feo, lo mejor que podes hacer es llevartelo a casa o pedir delivery."
+    }
+  ]
+}

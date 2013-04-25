@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "3 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "HeGoAlSo", 
+      "text": "Pedi al mediodia promo 2 muzza, faina y chop de cerveza, 23 pesos... oferta increible, el sabor es bueno ya que la pizza esta recien sacada del horno, recien cortada. Para comer al paso cuando uno anda sin mucho tiempo, la atencion de todos los chicos fue buena y se nota que hay buen hambiente. Recomiendo comer de parado y cerca de la ventana. El ba\u00f1o esta medio pelo."
+    }, 
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Muy buena pizza, para salir del paso o comer cuando est\u00e1s con hambre y pocas ganas de esperar. Tienen muy aceitado el sistema, con buenas promociones de pizza + gaseosa o cerveza, y en menos de 5 minutos est\u00e1s sentado (o parado) comiendo tu pizza caliente, con mucho queso y media masa bien argentina. El personal es muy atento. El ambiente es aceptable, limpio,  no muy lindo tampoco, pero es lo que uno sabe que se va a encontrar en este lugar. El precio es m\u00e1s que accesible."
+    }, 
+    {
+      "date": "16 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lovelyrita", 
+      "text": "Precio imbatible, la pizza zafa bastante, atienden rapid\u00edsimo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "ElVisitador", 
+      "text": "Ya es un clasico, para ir de  pasada a comer unas porciones de pizza tradicional riquisimas de molde, muchas opciones y buenos postres. Autoservicio con bastantes mesas al fondo, una gran idea de esta cadena de pizzerias que se sigue expandiendo. El lugar es muy ruidoso pero vale la pena ir."
+    }, 
+    {
+      "date": "27 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "alan_d53", 
+      "text": "Es nuevo y riquisimo, es para ir a comer de parado o sentado pero sin exigencias. Perfecto para ir un rato entre amigos a comer pizza y cerveza y no gastar tanto comiendo rico. Ideal para cuando uno esta apurado. (ojo, si comes light ni te acerques)"
+    }
+  ]
+}

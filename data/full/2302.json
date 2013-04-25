@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "23 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Mercury", 
+      "text": "Fuimos con las compa\u00f1eras el instituto de danzas de mi sra y la comida fue un desastre. En la mesa eramos catorce personas y las chicas habian convenido un precio fijo por persona de cincuenta pesos.\r\nNos sirvieron unas aceitunas, un tabule horrible, unas empanadas tibias y algun otro plato mediocre.\r\nLa gaseosa aguada o mejor dicho agua con gaseosa.\r\nDe postre un helado con pedazos de hielo\r\nLa atencion inexistente, ni nos daban bolilla, el lugar mediocre.\r\nTal vez fue mala idea pactar el precio antes y pagar fijo, pero nosotros no volvemos jamas."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "El ambiente es bueno. La atenci\u00f3n fue un poco lenta y desorganizada. Dentro de todos los restaurantes de comida \u00e1rabe este es el mejor. Lo recomiendo para ir con un poco de paciencia(por la atenci\u00f3n)."
+    }, 
+    {
+      "date": "1 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Samia", 
+      "text": "Es muy bueno y recomiendo que lo conozcan. Pod\u00e9s encontrar todo lo m\u00e1s rico de la cocina \u00e1rabe. Las personas del restaurante son muy amables."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pepeluis", 
+      "text": "Comida muy fresca, bien hecha pero un poco cara para ser en su mayor\u00eda casi vegetariana."
+    }, 
+    {
+      "date": "10 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Dandun", 
+      "text": "Muy buena comida, t\u00edpica libanesa. Es un lugar en el que se come al estilo casero de ese pa\u00eds. Los platos son abundantes y la atenci\u00f3n es cordial y r\u00e1pida."
+    }, 
+    {
+      "date": "13 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "laupesta", 
+      "text": "Realmente me pareci\u00f3 una comida excelente con una muy buena atenci\u00f3n. \r\nDe todos los restaurantes \u00e1rabes que he conocido, sin duda me quedo con \u00e9ste."
+    }, 
+    {
+      "date": "12 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vferment", 
+      "text": "Un lugar muy familiar con comida muy buena y lindo show."
+    }
+  ]
+}

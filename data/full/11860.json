@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "NeyOcampo", 
+      "text": "la comida muy buena y los precios un poco caros. la atenci\u00f3n buena aunque un poco excesiva la confianza, pero amables, la parrilla no la probamos porque nos pareci\u00f3 muy cara, pero pedir los platos esta bien.\r\nTOMAMOS 2 AGUAS\r\nno comimos postre y solo tomamos un caf\u00e9.\r\nDETALLE MALO, NO AVISAN NI FIGURA EN NINGUN LADO EL CUBIERTO QUE TE COBRAN 14 PESOS"
+    }, 
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tastevin", 
+      "text": "Parrilla de barrio pero pretenciosa. Nos cayo bien de entrada. El lugar, una esquina acogedora, muy limpia y con detalles bien de bien. Le sacar\u00eda la tele, no pega con el lugar. La atenci\u00f3n sobresaliente, a lo vieja escuela. Materiales frescos, todo al tiempo, no te fajan, pocos vinos. dale!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lamonalisa", 
+      "text": "fuimos por un cupon que hab\u00edamos comprado. La parrillada era un poco peque\u00f1a pero sabrosa. Nos atendieron muy bien. Muy amable el personal. Volveriamos s\u00ed los precios bajaran un poco.  El lugar es muy lindo y tranquilo."
+    }
+  ]
+}

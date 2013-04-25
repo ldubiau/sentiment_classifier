@@ -1,0 +1,136 @@
+{
+  "buenos": [
+    {
+      "date": "3 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Fito", 
+      "text": "La pizza es simplemente aceptable para el precio que tiene. Deber\u00edan estar mas atentos a la higiene en los ba\u00f1os. Atenci\u00f3n amable del mozo."
+    }, 
+    {
+      "date": "23 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MAGNUS", 
+      "text": "la pizeta de muzarela estaba muy rica, lo mismo que la empanada Me senti bien atendido. Es un lugar para recomendar."
+    }, 
+    {
+      "date": "26 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "frank88", 
+      "text": "la verdad q bueno, volveria a ir"
+    }, 
+    {
+      "date": "18 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FREDEEP", 
+      "text": "Trabaj\u00e9 tres a\u00f1os en el shopping Abasto y las empanadas de Pizzabasto fueron realmente unas compa\u00f1eras a la hora del almuerzo o la cena. Son realmente incre\u00edbles y muy contundentes, la verdad que existen pocas empandas que se les igualen. Recomiendo especialmente las de Jam\u00f3n y Queso y las de Carne picante: un \u00e9xito total."
+    }, 
+    {
+      "date": "28 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Christian", 
+      "text": "Muy buena atencion. Las pizzas son muy buenas en su mayor\u00eda, ya que como fu\u00ed con muchos amigos, pude degustar casi todas. Un lugar para seguir yendo."
+    }, 
+    {
+      "date": "11 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Las empanadas de jam\u00f3n y queso son una bomba. \r\nLa pizza de espinaca y salsa blanca deber\u00eda ser de espinaca y no de acelga."
+    }, 
+    {
+      "date": "8 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fabbar1", 
+      "text": "Recomendable para comer pizza y cualquier plato de las t\u00edpicas cartas de estos lugares. \r\nExcelente la sidra tirada. Esmerada atenci\u00f3n del personal. Abierto las 24 hs."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "onlymar", 
+      "text": "Comimos pizza de palmitos y calabresa. La verdad fue exquisita. Perfecta la masa y deliciosos los productos utilizados generosamente. El ambiente es adecuado y los precios correctos. Buena la atenci\u00f3n."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "JA", 
+      "text": "Las pizzas son buenas, la atenci\u00f3n es regular, con demasiados detalles molestos por la deficiente atenci\u00f3n de los camareros y cocina. Volver\u00e9 por la pizza y a conocer las empanadas, aunque me gustaria recibir un mejor servicio."
+    }, 
+    {
+      "date": "18 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "paddyba", 
+      "text": "Las empanadas para mi, son las mejores que he probado.  Las de Jamon y Queso son muy buenas, y de Carne Picante tiene aji molido arriba. Todas con masa divina."
+    }, 
+    {
+      "date": "10 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Campa", 
+      "text": "Muy buenas pizzas, todo es abundante, y las empanadas de jam\u00f3n y queso son PODEROSAS. Es un lugar para gente que le guste comer mucho y bien."
+    }, 
+    {
+      "date": "14 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "roque", 
+      "text": "Es muy buena la atenci\u00f3n y la carta. Eligiendo bien, es barato por la abundancia de sus platos."
+    }, 
+    {
+      "date": "18 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sergiosu", 
+      "text": "Excelentes pastas para compartir."
+    }
+  ]
+}

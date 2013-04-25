@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "13 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "el_ariel", 
+      "text": "tenia mejores recuerdos de este lugar, las papas fritas estaban aceitosas, la provoleta un poco fr\u00eda. La carne, nada del otro mundo"
+    }, 
+    {
+      "date": "24 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Ojitos", 
+      "text": "Para olvidar. La comida es mala, la atenci\u00f3n regular y el lugar nada especial."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Pimpolla", 
+      "text": "Muy mala la comida en general. Desde los platos principales, pasando por el asado y el pollo, ambos crudos hasta el postre (almendrado). No es recomendable."
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "acepitas", 
+      "text": "Mal\u00edsimo, pura grasa, carne dura recalentada. Una parrillada para dos personas $54  m\u00e1s una ensalada (dos hojas de lechuga y un cuarto de tomate) $8! \r\nComo parrila, de terror. Usted puede ir y comprobarlo pero no se lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gourdanito", 
+      "text": "Fui cliente asiduo de esta parrilla en sus epocas de esplendor. Volvi despues de un buen tiempo. Realmente la encontre muy venida a menos. La carne muy pasada e insulsa. Porciones regulares y atencion esmerada. El lugar, por su ubicacion, se ha vuelto un tanto peligroso. Existen muchas mejores opciones por la zona"
+    }, 
+    {
+      "date": "9 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SirCharles", 
+      "text": "Las empanadas est\u00e1n entre las mejores que he comido. El matambrito a la pizza estaba excelente. Las porciones son muy abundantes, para compartir. En cuanto a los precios, la relaci\u00f3n precio calidad es de lo mejor."
+    }, 
+    {
+      "date": "7 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "PAOAR", 
+      "text": "Se recomienda al mediodia, menu ejecutivo, de otra forma los precios no son acordes al lugar y a la calidad."
+    }, 
+    {
+      "date": "14 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Voy desde chico. Siempre como bien. Lo que sobresale es la comida. Pero ahora la zona est\u00e1 un poco peligrosa, tuve problemas en las inmediaciones. \r\nNo creo que vuelva. Adem\u00e1s dejaron caer demasiado el ambiente."
+    }, 
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Do\u00f1a Emilia es una parrilla para ir con la familia y comer un asado como en casa. No deslumbra pero cumple. No recomiendo que pidan la parrillada porque incluye poco de cada cosa y no en su punto de coccion exacto. Recomendable la bondiola con morron y papas. Las inmediaciones son peligrosas, tener cuidado si se visita por la noche."
+    }, 
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "RichiRichi", 
+      "text": "Es un desastre. El chorizo vino crudo despues de esperar cuarenta minutos mientras com\u00edamos pan duro del d\u00eda anterior esquivando las gotas de chimichurri que hab\u00edan dejado los que estaban antes en nuestra mesa. \r\nLa moza me pregunt\u00f3 los componentes de la ensalada como cuatro veces. Igual la trajo mal, me cobraron \"cubiertos\" y estacionan los coches en un terreno con olor a podrido. \r\nNo vayan por nada del mundo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adrian00", 
+      "text": "excelente parrillada y servicio"
+    }, 
+    {
+      "date": "19 Sep 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carlos.l", 
+      "text": "Parrilla de barrio de ambiente muy familiar y tranquilo."
+    }
+  ]
+}

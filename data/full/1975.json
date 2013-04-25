@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "13 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jul", 
+      "text": "Lindo lugar, comida rica, muy bueno el sushi y mejor aun que se pueda comer otra cosa, porque por ejemplo a mi novio no le gusta el sushi."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "doniasol", 
+      "text": "Muy bueno."
+    }
+  ]
+}

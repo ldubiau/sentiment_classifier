@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "28 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bimhernandez", 
+      "text": "La verdad es que por fuera no llama la atencion, por suerte entramos igual la primera vez porque esta cerca de nuestra casa.\r\nLos mozos son muy simpaticos y te recomiendan con acierto que comer. Todos los dias hacen un plato del dia diferente que solemos pedir y siempre obtuvimos buenos resultados.\r\nSi bien el lugar es chico, la comida es excelente con muy buenos precios. Ideal para comprar y llevartelo para tu casa"
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fukerito", 
+      "text": "Nos llevamos una grata sorpresa con este lugar, lo conociamos porque vivimos a 2 cuadras pero nunca habiamos ido. El lugar es mas bien chico, pero siempre notabamos que esta bastante lleno.\r\nDestaco al mozo que nos atendio muy bien y fue muy simpatico.\r\nProbamos el plato del dia, que estaba muy rico, pero la porcion me parecio escasa.\r\nDestaco tambien que los precios son economicos, la carta tiene comidas de todos los dias, pero muy ricos.\r\nSeguramente volvere!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leslita", 
+      "text": "Un lugar acogedor donde se come bien y econ\u00f3mico, siempre que quiero comer ensaladas vy a este lugar porque tiene muy buenas propuesta sy son muy ricas y bien hechas, la atencion es inmejorable, tiene un mozo a la noche que es muy copado y buena onda, dan ganas de ir siempre por el servicio personalizado y el ambiente esta bien logrado."
+    }, 
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aina", 
+      "text": "La comida es muy sabrosa y muy sana. La atenci\u00f3n, excelente. La comida es fresca y se cocina en el momento y demora lo m\u00ednimo necesario. Voy todas las semanas y siempre la comida es espectacular. Lo recomiendo!!!"
+    }
+  ]
+}

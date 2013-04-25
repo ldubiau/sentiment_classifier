@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "9 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "ElleM", 
+      "text": "La comida es rica, las porciones son abundantes, y el precio muy accesible. Con respecto al a\u00f1o pasado mejoraron mucho todo lo que es el packaging, que est\u00e1 m\u00e1s presentable. Mi \u00fanica cr\u00edtica es lo que tarda el delivery, sea el d\u00eda que sea, cosa que hace que el pedido llegue fr\u00edo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juancampo", 
+      "text": "muy buena calidad y cantidad de relleno, la tortilla que envuelve al burrito en su punto justo, y muy abundante, excelente relacion calidad precio, uno queda realmente satisfecho."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "14 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "faycla", 
+      "text": "No se si es mala suerte o qu\u00e9, pero la atenci\u00f3n fue mal\u00edsima, los platos tardaron una barbaridad y llegaron fr\u00edos y crudos (se nota que el microondas no andaba) y el mozo se nos escapaba para no dar la cara. Da la impresi\u00f3n que funciona mejor como bar que como restaurante, ya que los tragos estaban buenos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "maru010", 
+      "text": "Mala experiencia. Los mozos no estaban enterados del happy hour que promocionan en la web del resto. Al insistir, solo me hacian 2x1 en cerveza Quilmes, como excepci\u00f3n!. La tabla con variedad de fiambres estuvo bien. La pantalla gigante no existe, solo un plasma de 32"
+    }, 
+    {
+      "date": "8 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nebrija", 
+      "text": "Muy buena atenci\u00f3n y muy rica la comida, tanto el camembert tibio como los pescados. Los postres un poco caros ($25 a $30) y poca variedad de tes. Lo recomiendo, se pod\u00eda conversar muy bien, ideal para parejas o grupos de amigos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pau32", 
+      "text": "fui varias veces, es una excelente opcion, para ir con amigos o en pareja.\r\nplatos abundantes y sabrosos, buenos vinos y musica acorde y en su nivel auditivo justo. el servicio es muy correcto y amable. \r\nrecomendable 100%"
+    }
+  ]
+}

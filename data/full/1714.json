@@ -1,0 +1,518 @@
+{
+  "malos": [
+    {
+      "date": "17 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Cantina", 
+      "text": "La peor paella que comi en mi vida. Tenia muchos mariscos, eso si, pero super aceitosa y pesada, fuimos dos y ninguno la pudo temrinar. Que pena, no vuelo."
+    }, 
+    {
+      "date": "1 Ago 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "COMANDANTE", 
+      "text": "Realmente no me gust\u00f3, comi un bife de chorizo que no era este corte, sino que era un churrasco com\u00fan, se lo advertimos al mozo y coincidi\u00f3 con nosotros. Los platos los trajo a destiempo y por el servicio y la calidad el precio nos pareci\u00f3 caro."
+    }, 
+    {
+      "date": "26 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Mercury", 
+      "text": "El lugar es una casona hermosa con mesas separadas y agradable clima.\r\nLa atencion correcta o muy buena dependiendo el mozo.\r\nEsta vez pedi pastas, raviolones y fueron horribles. duros y con casi nada de relleno flotando en un caldo que no tenia nada de salsa.\r\nSiempre pido cazuela de mariscos y me encanta pero esta vez me defraudo."
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Andie", 
+      "text": "Restaurant marr\u00f3n por excelencia. Viejo, que no es lo mismo que antiguo. Atenci\u00f3n de floja a mala. Comida regular, con suerte. La mousse de chocolate que nos hab\u00edan asegurado que era casera, era artificial y espantosa. El brownie era de m\u00e1rmol o del a\u00f1o pasado y \u00bfpor qu\u00e9 dicen que viene tibio si viene fr\u00edo de la heladera? El sabayon malo. La ensalada C\u00e9sar con huevo duro picado y una tonelada de ajo? Ravioles, pollo, todo flojo y escaso. Es verdad que hay pocas opciones en el barrio pero por la puerta del Larreta seguir\u00e9 pasando como si no existiera."
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "DiegoPonti", 
+      "text": "No me sent\u00ed c\u00f3modo. Fuimos dos parejas cenando y tuvimos que comer a destiempo porque 2 de los 4 platos llegaron fr\u00edos (mi pollo de hecho crudo). La ambientaci\u00f3n es tranquila, pero muy inc\u00f3modo el acceso a los ba\u00f1os ya que est\u00e1 frente a la cocina y hay que pasar entre los mozos que entran y aquellos que est\u00e1n preparado las servilletas y dem\u00e1s cosas en la entrada de los ba\u00f1os (no me pareci\u00f3 higi\u00e9nico).\r\nPoca atenci\u00f3n del mozo, a quien hubo que llamarlo reiteradas veces hasta que se acerc\u00f3 a la mesa.\r\nSupongo que estos errores se debieron a que fuimos a cenar tarde y el personal estaba cansados."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "barrigudito", 
+      "text": "Es un cl\u00e1sico, en Belgrano no hay muchos restaurantes como este donde uno sabe que lo que pide malo no va a ser. Los d\u00edas de mucho p\u00fablico la atenci\u00f3n es muy lenta y m\u00ednima. Las mesas est\u00e1n muy pero muy juntas"
+    }, 
+    {
+      "date": "19 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Marusarmiento", 
+      "text": "Es un cl\u00e1sico. No es riqu\u00edsimo, pero est\u00e1 bien. No es barato ni caro, y la atenci\u00f3n es muy correcta. Muy buenos mozos. Hay platos cl\u00e1sicos de abuela y el sabor es de abuela. Para ir y probar."
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Manu_C", 
+      "text": "Lugar muy ruidoso, no es para ir en pareja. Los platos son abundantes pero no hay todo lo que figura en la carta."
+    }, 
+    {
+      "date": "5 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Manu_C", 
+      "text": "Carta extensa y no ten\u00edan lo que pedimos. Falta de renovaci\u00f3n. Los mozos son atentos y tratan de salvar las falencias del lugar. Precios caros en relaci\u00f3n a lo que ofrecen"
+    }, 
+    {
+      "date": "17 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "simbolo2203", 
+      "text": "Un lugar a la antigua. No es de los mas nuevo, ni de lo mas vanguardista... La carta no ea fuera de este mundo... Pero aun asi esta perfecto. Porque? Porque aunque esta detenido en el tiempo, esta detenido en una epoca bella. La comida es correcta y grande, el servicio es impresipnante ( me cubrieron con un mantel mis perteneciad para q no se ensuciara). Para no perderse: las milanesas y las pastas. Si te gusta el pulpo es tierno y divino. La carta de vino es abudante y los postres enormes. Te reciben a la antigua con jerez. Cero musica pero mucho ambiente"
+    }, 
+    {
+      "date": "4 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cdec", 
+      "text": "Evidentemente va mucha gente del barrio, bastante mayores. y son habitu\u00e9s, saludan al personal con un beso. El lugar nos gust\u00f3 La comida es buena. relativamente abundante, pedimos entrada, principal y postre todo para uno y compartimos, no salimos \"pipones\" pero si satisfechos. Buena atenci\u00f3n"
+    }, 
+    {
+      "date": "15 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alfman", 
+      "text": "La comida muy sabrosa y en proporci\u00f3n (era paella para 2 personas). Los precios acordes para el lugar (se encuentra en pleno Belgrano, a metros de Cabildo y Juramento). El lugar es tranquilo y se puede hablar sin problema. La atenci\u00f3n de los mozos es buena. Hemos ido ya unas 15 veces y siempre correcto. Muy recomendable."
+    }, 
+    {
+      "date": "9 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Trilce", 
+      "text": "Es la primera vez que voy y me pareci\u00f3 muy bueno. Tiene un men\u00fa con varias opciones, con precios acordes a distintos bolsillos. REspecto a las porciones, por ejemplo mi marido comi\u00f3 un omelette bastante peque\u00f1o, mientras que yo ped\u00ed un goulash de pollo super abundante. De lunes a jueves hay una promo de men\u00fa completo por $44, as\u00ed que voy a volver para probarlo."
+    }, 
+    {
+      "date": "26 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "VickyDar", 
+      "text": "Lugar tradicional con buenos platos, a la antigua  y buena atenci\u00f3n"
+    }, 
+    {
+      "date": "23 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Cris74", 
+      "text": "Un cl\u00e1sico de Belgrano, buena comida, no es abundante. Bien."
+    }, 
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "naoah", 
+      "text": "Un clasico de barrio,restaurante estilo colonial,el menu es bastante variado, tal vez me esperaba mas por los precios. La misma comida o mejor se puede comer en otros lugares. Los vinos tambien me parecieron un tanto elevado los de alta gama para ese lugar casi igual que restos fashion. De todas maneras comi bien, tuve que pedir que me calienten la panera. Un lugar para ir sin grandes pretensiones."
+    }, 
+    {
+      "date": "3 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "flavio_giannico", 
+      "text": "Fui muy recomendado y el hecho de que se mantenga en el tiempo a priori me daba buen pron\u00f3stico, pero las porciones no son nada abundantes como dicen, justo y punto, menos para compartir. El precio es de razonable tirando a elevado por lo que brindan. Fuimos un jueves a \u00f1a noche y estuvo muy tranquilo. Que el mozo haya anotado en una libreta el pedido si bien es un detalle ya hac\u00eda pronosticar que las cosas no eran como las pintaban. No volveremos pues hay mejores opciones por ese nivel de precio como ser \"El rey del vino\" o \"El Trapiche\" que hasta ahora nunca en 7 a\u00f1os nos decepcionaron."
+    }, 
+    {
+      "date": "5 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rmarti", 
+      "text": "normal, algunos platos estaban tibios (abdejo, pollo).atencion sin esmerarse. no son platos para compartir"
+    }, 
+    {
+      "date": "4 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "isabel", 
+      "text": "un lugar agradable para ir con amigos. Hay platos para todos los gustos y el men\u00fa del mediod\u00eda tiene es muy completo."
+    }, 
+    {
+      "date": "31 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chilin57", 
+      "text": "El ambiente es tranquilo, los mozos saben su oficio, la comida es abundante y en su punto justo, el costo teniendo en cuenta que comimos con vino y postre es totalmente razonable. Volveremos cada vez que podamos."
+    }, 
+    {
+      "date": "4 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "stella78ar", 
+      "text": "El lugar es una casona antigua muy bien puesta, con una decoracion colonial. Va casi toda gente grande, pero tambien es familiar, la comida es abundante y muy rica, nada extravagante y de muy buena calidad, la atencion es tambien muy cordial, te reciben con una copita de jerez y una empanadita.\r\nPara recomendar y volver."
+    }, 
+    {
+      "date": "1 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "osquito", 
+      "text": "buena onda antiguo restaurante. buen servicio y ambientacion . Comida muy buena."
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ELABUELO", 
+      "text": "Es la primera vez que vamos a comer a este lugar, nos encanto a los dos, ambiente muy bueno, buena atencion y buena calidad de comida, volveremos de seguro, recomendable."
+    }, 
+    {
+      "date": "26 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Bronto", 
+      "text": "Me encanta el lugar, esa onda restaurante antiguo que me recuerda a los almuerzos familiares. La atenci{on es correcta y la paella me parecio buena. Me agrada cada vez que voy."
+    }, 
+    {
+      "date": "26 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Alicita", 
+      "text": "A\u00f1os que vamos alli por quedar cerca de casa( en Belgrano no hay demasiadas opciones que se conozcan)Y es cierto: TENDRIAN QUE MEJORAR un poquito cada cosa. Emoezando pir la CALIDAD de la comida. Mis hijos se quejan de las sillas! son tan rectas!!!inc\u00f2modas."
+    }, 
+    {
+      "date": "5 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ramses", 
+      "text": "Ya se sabe que hay pocas opciones para comer bien en la zona de Cabildo y Juramento, y eso se siente a la salida de los cines. Por eso volv\u00ed a Larreta despu\u00e9s de varios a\u00f1os y me encontr\u00e9 con que el tiempo all\u00ed se detuvo. La misma ambientaci\u00f3n de hace 25 a\u00f1os, la misma manera de servir los platos, la misma carta (cocina tradicional porte\u00f1a) y hasta los mismos clientes que ya promedian los 60 a\u00f1os.\r\nDada la oferta de hoy en d\u00eda (en otros barrios, claro) la comida es correcta y mantienen una buena relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "1 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MDB", 
+      "text": "Muy bueno, fuimos por b\u00fasqueda en la gu\u00eda y por la zona. Excelente atenci\u00f3n y muy rica la comida. Para volver, la pr\u00f3xima pido la paella... vi salir 3 mientras almorz\u00e1bamos, seguro que eran para clientes de siempre."
+    }, 
+    {
+      "date": "30 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "labella", 
+      "text": "Muy buena atenci\u00f3n, \u00e1gil el servicio, a punto los platos tal como los pedimos. Es para recomendar y volver."
+    }, 
+    {
+      "date": "15 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elgordoH", 
+      "text": "Hace muchos a\u00f1os que con mayor o menos frecuencia vamos al Larreta... nada ha cambiado desde entonces, excepto algunas mejoras edilicias, los mozos son simpre los mismos, la atencion es siempre la misma, y (unica critica) la carta es siempre la misma, despues de concurrir varias veces si bien hay una gran cantidfad de platos, se pierde la capacidad de eleccion por falta de modificaiones. Seria preferible una carta mas reducida y variarla cada tanto.de cualquier manera es MUY RECOMENDABLE, BUENA RELACION PRECIO CALIDAD"
+    }, 
+    {
+      "date": "20 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lastoflast", 
+      "text": "Tradicional y para gente grande, la comida es muy buena y abundante, no es refinada pero saben hacerla. La carta de vino no es de las mejores pero ordenada. los mozos profesionales y justo amables. El precio aceptable. Esto cambia de los restaurantes pretenciosos de palermo, donde uno no come nada a pesar de los nombres rimbombantes de los platos, donde es mal atendido por jovencitas inexpertas y sale con la sensaci\u00f3n de haber sido estafado."
+    }, 
+    {
+      "date": "1 Jul 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "tafari", 
+      "text": "Desastrozo. El mozo, con falta de tacto increible retando a una beb\u00e9 por jugar con una servilleta, el revelto gramajo crudo, el ambiente pauperrimo y apagado."
+    }, 
+    {
+      "date": "31 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "agusmariani2", 
+      "text": "El restaurante es agradable (sin ning\u00fan lujo), la carta es amplia pero sin platos novedosos, guarda un estilo entre tradicional y conservador. Los mozos atienden bien y te sirven la comida.  \r\nEl m\u00e9rito principal del lugar es el precio ya que considero que es bastante accesible."
+    }, 
+    {
+      "date": "12 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gigiyjavi", 
+      "text": "Ambiente colonial-familiar, casi como trasplantado desde Av. de Mayo a Belgrano. Platos y porciones correctos y mozos (varones y de media edad para arriba) que saben atender a la gente. \r\nTodo m\u00e1s que razonable para lo detestable que puede llegar a ser el caretaje de Belgrano. \r\nUn gancho adicional: Excelente opci\u00f3n para after cine despu\u00e9s de las funciones."
+    }, 
+    {
+      "date": "1 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "liso68", 
+      "text": "Buena comida y a precios accesibles, en un ambiente familiar. Excelente la paella."
+    }, 
+    {
+      "date": "13 Mar 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "megf26", 
+      "text": "Un lugar para ir en familia. Se come bien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Vonder", 
+      "text": "Sin lugar dudas uno de los mejores restaurantes en los que he estado. La atenci\u00f3n es sumamente amable y consoderada. Los platos son abundantes y permiten de disfrutar una entrada y un postre sin tener que dejar comida. Sin embargo el precio general es bastante elevado y no rinde para ir mas de una vez al mes."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alely", 
+      "text": "Un lugar agradable,  limpio con atenci\u00f3n correcta. Buena relaci\u00f3n precio calidad. Fuimos dos parejas y nos gust\u00f3 mucho a los cuatro, se nota que trabajan con mucha clientela fija del barrio y cuando la gente regresa es por algo. Me gust\u00f3 voy a volver. Calculen gastar $100.- c/u con postre y gaseosa."
+    }, 
+    {
+      "date": "9 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diegobonetto", 
+      "text": "Realmente el lugar esta detenido en el tiempo pero las cosas est\u00e1n muy bien mantenidas.\r\nLos mosos muy bien conocen los sabores de cada plato lo cual te hacen elegir bien el plato.\r\nLos precios son acordes voy a volver.\r\nDe lo mejor en Belgrano"
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pteroto", 
+      "text": "Es un cl\u00e1sico de Belgrano. Servicio a la antigua, variedad de platos, sabrosos, \"llenadores\". Lindo lugar"
+    }, 
+    {
+      "date": "18 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carbunclo", 
+      "text": "Excelente lugar, ambientado y atendido como \"antes\", mozos diligentes que conocen su oficio. En nuestro caso fu\u00e9 Julio con una impecable atenci\u00f3n en un ambiente relajado y poco ruidoso. Cocina orientada hacia la espa\u00f1ola, comimos y compartimos entre dos, gambas a la milanesa, una \"paellita\" y un panqueques de manzana. Todo en su justo punto y muy sabroso. Precios razonables, los de la gu\u00eda est\u00e1n atrasados y estacionamiento a dos cuadras que cubre 1 y 1/2 hs. Recomendable, seguramente volveremos."
+    }, 
+    {
+      "date": "19 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CFGoldberg", 
+      "text": "Yo suelo ir seguido con mis abuelos que son habitue del lugar y tambien con mi novia ya que tienen una muy buena relacion precio/calidad y la atenci\u00f3n es mas que atenta, cordial y por sobre todo amistosa. Si bien soy bastante \"clasico\" con los platos que elijo, hasta el momento, todo lo que probe fue bastante bueno!"
+    }, 
+    {
+      "date": "9 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nachodelapor", 
+      "text": "Muy buena la calidad de los platos. Pedimos una paellita valenciana para compartir, y los dos quedamos saciados (y eso que somos de buen comer). La carta de vinos poco extensa, pero lo que hay es bueno. Muy buena atenci\u00f3n los mozos y la maitre, recuerdan el nombre de los habitu\u00e9s. Un promedio de gente de arriba de 50 a\u00f1os, y varios octogenarios, lo cual indica que es un lugar tranquilo y donde se come bien y se atiende bien al cliente."
+    }, 
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Silviafr", 
+      "text": "Es un lugar excelente!! Se come b\u00e1rbaro, hay gran variedad de platos, no es tan caro y la atenci\u00f3n es muy buena. Los viernes y s\u00e1bado por la noche se llena. RECOMENDABLE."
+    }, 
+    {
+      "date": "28 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mercury", 
+      "text": "El lugar es una vieja casona de Belgrano muy agradable y bien ambientada.\r\nLa atencion correcta nada del otro mundo pero aceptable.\r\nPedimos una suprema pero le pedimos que no la hagan sin hongos porque a mi sra no le gustan y no hubo ningun problema, estaba rica, las papas deliciosas. Yo me pedi una cazuela de mariscos y hace tiempo no comia algo tan rico. Espectacular mucho pulpo y excelentemente preparado , calamares tiernos, verduras de primera y una salsa inolvidable.\r\nDe postre pedimos una ensaldad de frutas y un charlote delicioso, perfectamente preparado y como debe ser con la vasija de chocolate caliente para tirar sobre el helado, y no como sirven en muchos lugares un helado con un poco de salsa de chocolate a temperatura ambiente arriba.\r\nVamos a volver y seguido, por la calidad y los sabores me parecio barato.\r\nSi se paga en efectivo tiene un 5 % de descuento."
+    }, 
+    {
+      "date": "18 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elube48", 
+      "text": "Despues de algunos a\u00f1os de no concurrir, que grato!!!!, es reencontrarse von las generosas porciones y la excelente calidad de siempre; recomendable y repetible este clasico de belgrano, !!!VALE LA PENA!!!!!!"
+    }, 
+    {
+      "date": "2 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "milito", 
+      "text": "Excelente calida de la comida, algo que desear respecto a la atenci\u00f3n, puede ser que nos toco un mozo inexperto, pero en general muy recomendable."
+    }, 
+    {
+      "date": "28 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ogue", 
+      "text": "Excelente, lejos lo mejor de Belgrano. La atenci\u00f3n es muy precisa y personalizada. La maitre muy cordial y efic\u00e1z (recuerda el nombre de los habitues del lugar, cosa que no es com\u00fan en otros) y tiene personalidad. La carta de comidas es amplia y variada, desde ranas, hasta cazuela de mariscos, pasando por pastas, pollos y paellas, la carta de vinos tambi\u00e9n es buena y econ\u00f3mica. La relaci\u00f3n calidad precio es insuperable. Es realmente para los amantes del buen comer y vivir (por la atenci\u00f3n). El sal\u00f3n es cl\u00e1sico y de \u00e9poca colonial. Una vez tuve un peque\u00f1o altercado con un mozo, que al otro dia fue suspendido. Eso es considerar al cliente."
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Golandi", 
+      "text": "Es un cl\u00e1sico de Belgrano, el cual conozco desde hace muchos a\u00f1os. A pesar de no haber ido en mucho tiempo, contin\u00faa inalterable la atenci\u00f3n y calidad de la comida."
+    }, 
+    {
+      "date": "28 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "copala", 
+      "text": "Excelentes mariscos, muy buen servicio."
+    }, 
+    {
+      "date": "12 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "isabel", 
+      "text": "Se disfruta de un ambiente agradable, con una amplia carta de comida y vinos. Muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "20 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Bajativo", 
+      "text": "Los mozos realmente se dedican a dar una buena atenci\u00f3n y la comida es muy bien preparada (las porciones son abundantes). Sumado a los excelentes precios es una de las mejores opciones en el area de Cabildo y Juramento. Muy recomendable."
+    }
+  ]
+}

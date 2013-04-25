@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "22 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Dileo", 
+      "text": "Fuimos con un grupo de amigos lo pasamos muy bien.   Nos deleitamos con un buen show.   La comida mala.  Habria que mejorarla para cerrar una buena noche ya que el show vale la pena"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "osvaldoarango", 
+      "text": "El lugar hermoso, el show de Javier Santamaria espectacular, muy ameno, gran cantante, buen sonido, volver\u00e9!"
+    }, 
+    {
+      "date": "4 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "comensal", 
+      "text": "sin dudas para recomendar a los amantes del tango,muy buen show,como asi tambien el menu y el amable servicio"
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lunayjazmin", 
+      "text": "EXCELENTE. Lo recomiendo porque tuvieron una atenci\u00f2n muy cordial y nos hicieron sentir muy bien todos. El espectaculo todo es \"buen\u00ecsimo\" Los porte\u00f1os tenemos  un verdadero lugar para escuchar y ver bailar el verdadero tango. Vayan con amigos,familia o pareja y lo pasar\u00e0n de maravillas. La comida tambien estuvo inmejorable. Felicitaciones a la conductora Mirta."
+    }
+  ]
+}

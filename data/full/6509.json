@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "27 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leandroux", 
+      "text": "Buena relaci\u00f3n precio calidad. Recomiendo las ensaladas, muy ricas y abundantes."
+    }, 
+    {
+      "date": "1 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "vdychter", 
+      "text": "La panera es una cosa que no te podes perder! Todo lo dem\u00e1s es muy normal...un t\u00edpico restaurante de barrio."
+    }, 
+    {
+      "date": "22 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sancci", 
+      "text": "Me parece un lugar muy de palermo,comi bien,buena calidad del plato,no entiendo por que no toman mozos PROFESIONALES,al mediodia desbordan de gente y no llegan,se olvidan de la mitad de las cosas,tenes que mendigar hasta panera.\r\nEl precio es buenisimo,comes bien por poca plata,destaco sandwicheria,pastas,pescados y mariscos,platos de cacerola,ensaladas y platos de horno."
+    }, 
+    {
+      "date": "2 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Augusto_M", 
+      "text": "La comida no es nada del otro mundo, la atenci\u00f3n y el lugar es correcto. No es un lugar que me invite a volver"
+    }, 
+    {
+      "date": "26 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sancci", 
+      "text": "Excelente servicio de mesa con panes artesanales y pan de pizza exquisito,excelente presentaci\u00f3n de los platos,abundantes y deliciosos.\r\nEl servicio es regular,por que hay 4 mozos pero se desbordan con salon lleno,ambiente muy palermoso,\r\nDESTACO QUE LO QUE PIDAN SALE MUY BUENO,ENTRA POR LOS OJOS Y TAMBIEN POR EL PALADAR,NO ES CARO,\r\nPICADAS,EMPANADAS,PIZZAS,PLATOS CASEROS CON PRESENTACION GOURMET PERO ABUNDANTES.\r\nPara ir con familia y amigos,es un poco ruidoso el salon pero la vereda,es muy entretenida,VAYAN TRANQUILOS QUE NO SE ARREPIENTEN"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "frodozzz", 
+      "text": "la verdad que lo mejor que tiene este lugar es la cocina. es un restaurante de barrio,  pero se come bien. eso si, a los mozos hay q pedirles por favor que te atiendan. que te traigan la bebida correcta y la comida correcta es un milagro. y que como casi todos lis dias ah\u00ed."
+    }
+  ]
+}

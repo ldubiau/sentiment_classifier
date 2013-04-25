@@ -1,0 +1,918 @@
+{
+  "malos": [
+    {
+      "date": "6 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "charlene", 
+      "text": "A parte el carpaccio que comi como entrada y que me parecio muy rico, el resto de la comida estubo \"mas o meno\". En particular el risotto al vino tinto muy malo y pesado.\r\nRespecto a la atencion, tenendo en cuenta que el restaurant era vacio, me parecio regular.\r\nL'ambientacion buena."
+    }, 
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "telramud", 
+      "text": "Desilusi\u00f3n. Antipasti y pastas frescas, bien. Pero, el risotto al vino rosso? Despachado 50 minutos despu\u00e9s del debarase de la entrada. S\u00ed, es un plato que no debe marcarse, pero la cocina requiere timming. Lo peor no fue la espera: sirvieron una \"sopa de arroz\"; nada de la untuosidad ni del punto adecuado. El camarero, desbordado para atender su plaza, hizo un manejo ejemplar de la queja. Lamentablemente, la cena ya estaba arruinada. No vuelvo ni lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gus5000", 
+      "text": "Exelente las pizzas y sorrentios una delicia, muy buena atencion. El lugar sobre una galeria, pintoresco."
+    }, 
+    {
+      "date": "10 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "droly", 
+      "text": "La verdad es que la comida ni el ambiente valen lo que cobran. Es un restaurant de pastas normal, nada del otro mundo, pero con precios exhorbitantes. Gastamos $ 360, dos personas, entrada y postre compartidos, dos platos de pastas y una botella de vino del m\u00e1s econ\u00f3mico. Demasiado caro para mi gusto."
+    }, 
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "hern83", 
+      "text": "Fui a cenar el \u00a8Dia de los enamorados\u00a8, donde se supone que esperan bastante gente.  En principio, hacia bastante calor dentro del resto. Pero lo mas indignante fue la tardanza, la bebida la trajeron cuando habiamos terminado unos pancitos. La entrada tardo 30 MINUTOS !!, el plato principal otros 20 MINUTOS y eran solo unos panzottis. Pedimos la cuenta y tardaron otros 15 minutos, UN DESASTRE !!! Pudimos escuchar de casualidad que les \u00a8habia faltado gente\u00a8 pero no se gasten en ir a este resto que encima me parecio bastante caro por lo que ofrecian..."
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Peregrino", 
+      "text": "Muy buena atenci\u00f3n. La comida es excelente y el d\u00eda que fuimos habia un tenor cantando."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jazzymiel", 
+      "text": "El lugar es bonito, comimos en un balconcito que daba a la plaza Dorrego. Las pastas muy buenas, bien hechas, buena materia prima. Fue un poco caro ya que no comimos entrada, volveria por el sabor pero no por el precio"
+    }, 
+    {
+      "date": "4 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "baffoblu", 
+      "text": "comida rica, recomiendo mas los risottos que los otros platos. entradas muy buenas. debe ser de los mejores restaurants italianos de bs as. esta en plena zona turistica por lo que es caro (risotto $80 aprox).. la ambientacion podria mejorar un poco, el servicio es amable y correcto."
+    }, 
+    {
+      "date": "19 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "marguti33", 
+      "text": "Es, sin dudas,, un lugar para turista. Lindo, caro, autoctono. Se come bien, pero nada del otro mundo.La atencion esuvo desbordada, se ve que debe haber faltado alguien."
+    }, 
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "brunojb", 
+      "text": "Fui a cenar en pareja y la experiencia fue excelente. Nos sentamos en una mesa en el balcon a puerta cerrada con vista a la Plaza Dorrego, total privacidad.. quede fascinado. El servicio excelente, todo explicado con lujo de detalles y con rapidez. La comida muy buena. Super recomendable."
+    }, 
+    {
+      "date": "4 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "totalmente recomendable,pura cocina italiana con toques tanto clasicos como de autor.servicio excelente,desde el chef,servicio de mesa y el due\u00f1o,todos muy atentos.recomendacion muy buenas,cocina de alta calidad en una atmosfera muy buena y agradable.carta muy bien armada, con opciones fuera de las pastas tambien muy buenas.ambiente muy bueno,opcion mesitas de 2 en los balcones,para grupos mas grandes tambien y salon privado para eventos.cocina y panaderia a la vista,todo super casero.porciones justas sin abundar demasiado.calidez total recomendable evitar los domingos al mediodia,mucha gente."
+    }, 
+    {
+      "date": "17 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Huge", 
+      "text": "Las pastas son muy buenas,el antipasto est\u00e1ndar, los postres muy ricos, vinos escasos, la atenci\u00f3n cordial pero hay que ir buscando al mozo al menos en el sector fumador. Nos pareci\u00f3 caro."
+    }, 
+    {
+      "date": "7 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fernandopeche", 
+      "text": "Muy, pero muy rico el risotto al funghi, no asi las berenjenas a la parmesana. \r\nEl servicio excelente y el lugar divino."
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pablopatri", 
+      "text": "hola queriamos contarles nuestra buena experiencia llendo a comer a este lugar, eramos dos parejas cenamos unas pastas riquisimas, las cuales llegaron al dente, el lugar es muy calido y es verdad que sin ser cargosos estan atentos a todo, los postres son exquisitos no se los pierdan vayan a amici miei."
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rhr955", 
+      "text": "Me parece un lugar aut\u00e9nticamente italiano, no solo en lo gastron\u00f3mico, sino tambi\u00e9n en lo cultural, y concurrido por italianos.\r\nUna sola visita no alcanza para conclusiones definitivas, pero creo que la cocina tiene muy buen nivel con preparaciones cuidadosas y muy ricas. La atenci\u00f3n es profesional, esmerada pero no cargosa. La ambientaci\u00f3n c\u00e1lida y agradable. Quiz\u00e1s por sus caracter\u00edsticas desentone para bien en una Plaza Dorrego sin ofertas de este nivel, mas centrada en lo \"very typical\" enfocado en las billeteras del turismo extranjero que en la gastronom\u00eda de nota. Saldo positivo."
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lady_Ryk", 
+      "text": "Llegu\u00e9 al restaurant por comentarios de Guia Oleo. Este lugar tiene todo lo que se espera de un restaurant: Desde las 2 horas sin cargo de estacionamiento a metros del lugar, la atencion amabilisima, los platos deliciosos: Comimos Tagliatelle saltados con camarones y zucchinis al sauvignon blanc y Panzottis de mozzarella de bufala con tomates cherrys asados y albahaca. La ambientaci\u00f3n, r\u00fastica pero muy correcta la vajilla y manteler\u00eda. Eso s\u00ed: Cuidado aquellos que se tomen alguna copita dem\u00e1s porque la escalera es larga! Ojal\u00e1 mantengan siempre esta calidad."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "loop", 
+      "text": "La comida es excelente, todo preparado en la casa con ingredientes muy cuidados. Muy buenas opciones. El servicio es atento, amable y prudente, manejan muy bien los tiempos y no son entrometidos. Quizas la ambientaci\u00f3n necesite un poco mas de cuidado, el lugar es amplio y respetuoso del espacio como para estar c\u00f3modo y tener una larga cena, pero hay algunos detalles visibles de deterioro. Lo unico a mejorar! Volver\u00eda sin dudarlo."
+    }, 
+    {
+      "date": "6 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Dami74", 
+      "text": "Muy buena propuesta en San Telmo. El sal\u00f3n es amplio lo que da privacidad y permite conversar tranquilamente. Para los que van en pareja esta la opcion de cenar en el balc\u00f3n pero hay que reservar ya que apenas hay cuatro mesas. La carta es muy variada, con las pastas como fuerte a pesar de que en mi caso pedi un risotto de ossobuco espectacular. Recomendables tambien los malfatti y los fucciles. Carta de vinos bastante amplia pero algo cara. Lo unico criticable en mi caso fue la atenci\u00f3n del mozo de turno: parecia distraido, interrumpia las conversaciones y equivocaba los pedidos."
+    }, 
+    {
+      "date": "6 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ivordonez", 
+      "text": "Llegamos bien tarde para la hora del almuerzo (tipo 3) y nos atendieron b\u00e1rbaro, muy buenas las pastas rellenas con un rosado (herej\u00eda de d\u00eda de calor) barato. Muy recomendable."
+    }, 
+    {
+      "date": "12 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "narcisadany", 
+      "text": "si bien a primera vista los precios pueden parecer algo caros, los platos son excelentes, dan ganas de problarlos todos. El lugar es muy lindo y est\u00e1 bien ambientado, lo \u00fanico que le resta puntos es un cantante que hace fragmentos de \u00f3peras por momentos,  lo cual imposibilita la conversaci\u00f3n...afortunadamente, no dur\u00f3 lo suficiente como para arruinar la cena. Altamente recomendable para una noche especial."
+    }, 
+    {
+      "date": "6 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablo9000", 
+      "text": "Lugar muy recomendable, en una vieja casona frente a Plaza Dorrego. Se puede comer en el balc\u00f3n a la calle frente a la plaza, adentro, o en una muy linda terraza (fumadores agradecidos). Los ingredientes son excelentes, as\u00ed como la cocina en s\u00ed. Todos los platos son muy buenos, de modo parejo y constante, todas las veces que fu\u00ed.  Es una muy buena opci\u00f3n de comida italiana en un lugar \u00fanico. Ideal para invitar a alg\u00fan visitante extranjero."
+    }, 
+    {
+      "date": "13 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "Fui con muchas expectativas y aunque comimos bien he probado mejores pastas en otros lugares. La carta es tentadora y prometedora, pero despues la comida fue buena, pero no increible. El servicio que nos toco fue muy bueno y el ambiente tranquilo y relajado. No se si vuelvo pero admito que se come bien igualmente."
+    }, 
+    {
+      "date": "10 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "josem", 
+      "text": "Cuidada atencion desde que uno ingresa al restaurant, muy buenas recomendaciones del camarero,varias opciones de vino por copa y tambien de antipastos, principales y postres. Sin dudas lo mejor de Amici Miei son las pastas caseras, muy buenos los ravioles de salmon y los tagliatelli con camarones. Las opciones de postres que probamos (tiramisu, crepe caliente de frutos rojos y volcan de chocolate) bajan el promedio de la cocina,"
+    }, 
+    {
+      "date": "11 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Dr_House", 
+      "text": "A favor: platos sabrosos, presentaciones sobrias, ambiente tranquilo\r\nEn contra: servicio lento (un solo mozo por rango para casi 50 mesas es poco)adem\u00e1s deber\u00eda saberse minimamente los platos. Carta super extensa, y precios mas bien \"for export\", una grappa nacional no vale $30 la copa ni en el mejor bar de Buenos Aires. No vuelvo ni recomiendo"
+    }, 
+    {
+      "date": "10 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Chanchi78", 
+      "text": "Un lugar pensado para atender al turista, la atencion tiene que mejorar...solo ponian atencion al extranjero.En cuanto a la comida fue buena, sin detalles pero con buen gusto, el carpaccio de hongos estuvo muy bien..En conjunto resulto ser un poco caro.."
+    }, 
+    {
+      "date": "11 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ruben39", 
+      "text": "La verdad que pasamos un momento muy agradable, la atencion es exelente y la comida tambien todos los platos muy bien elaborados 100 % recomendable."
+    }, 
+    {
+      "date": "6 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gigiyjavi", 
+      "text": "Bueno. Lindo. Muy \"for export\". Los platos estaban muy bien y la carta est\u00e1 bien armada. Resaltar\u00eda la ambientaci\u00f3n que, si bien minimal, resulta c\u00e1lida y combina el acceso en planta alta por el paseo por la galer\u00eda, con la balconada con vista a la plaza Dorrego. Es una excelente opci\u00f3n para cuando uno sac\u00f3 a pasear turistas y quiere cerrar el circuito Sur (La Boca- San Telmo - su ruta)."
+    }, 
+    {
+      "date": "3 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "La comida es muy buena. Quizas algo escasa, pero muy apetitosa en su presentacion y degustacion. Los platos son elaborados a conciencia con materias primas de primerisima calidad, cuidando los detalles, se puede percibir. Los panzottis de muzzarella de buffala con salsa pomodoro y albahaca creo que fueron lo mejor de la noche, junto con algun risoto. La ambientacion es excelente, lugar calido con musica tenue y un tenor que se pasea por las mesas cantando opera, hay una linda exhibicion de pinturas. Las parejas tienen mesas de 2 en el balcon, el servicio de los mozos es bueno. Muy recomendable"
+    }, 
+    {
+      "date": "22 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "meister", 
+      "text": "el ambiente es muy lindo y la atenci\u00f3n es esmerada. La carta est\u00e1 centrada en las pastas por lo cual hay muy buena variedad. En cuanto al gusto de las que prob\u00e9 (tortelli de papa con crema de hongos  y penne rigatte con estofado de verduras), me pareci\u00f3 bastante bueno aunque no llegaron a maravillarme. El volc\u00e1n de chocolate no estaba en su punto adecuado."
+    }, 
+    {
+      "date": "28 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "Regresamos despu\u00e9s de casi un a\u00f1o, para escribir esta evaluaci\u00f3n revis\u00e9 mi anterior. Para mi el restaurante ha bajado calidad: la carta de vinos es corta y sobre cargada en precios, pero su temperatura contin\u00faa siendo alta, lo que dificulta su apreciaci\u00f3n; un solo mozo para atender todas las mesas, lo que influ\u00eda en la calidad de la atenci\u00f3n; la comida estaba correcta pero su calidad ha disminuido notablemente. En resumen un restaurante que promet\u00eda bastante, localizado en una zona muy tur\u00edstica que hoy no logra cumplir con lo que sus propietarios predicaban en su inicio respecto a calidad."
+    }, 
+    {
+      "date": "5 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Mendizabal", 
+      "text": "Un lugar muy bien logrado. Amplio..distintas zonas.  Una situac\u00edon de privilegio, frente a la plaza.\r\nAtenci\u00f3n esmerada, con visita del cocinero inclu\u00edda.\r\nY el leit motiv..?...la comida, por supuesto.\r\nCaprese, con toamte seco hidratado, en torre, correcta...a $ 27.\r\nPastas...panzotti bien....noqui normal.....\r\nPostres ? Bien los profiteroles Gianduia.\r\nDomingo muy turistico para mi gusto.\r\nPero eso fue un problema m\u00edo.\r\nLe doy otro cr\u00e9dito."
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Richy", 
+      "text": "Fui a ra\u00edz de una invitaci\u00f3n que nos hab\u00edan hecho y el restaurante no defraud\u00f3. Tanto el servicio y como la comida estuvieron muy bien."
+    }, 
+    {
+      "date": "24 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar muy acogedor.Muy atento el personal,aunque no profesional,pero hay cositas para mejorar.La carta casi totalmente de pastas y risottos.Con respecto a \u00e9sto, ped\u00ed un plato de risotto con jam\u00f3n crudo, una de las especialidades de la casa;era algo as\u00ed como un plato de arroz escaso con apenas de jam\u00f3n y con una elaboraci\u00f3n tan elemental como lo que uno logra cuando llega cansado y cocina algo para salir del paso.El arroz, pasado de punto, se asemejaba m\u00e1s a una sopa de arroz que a un plato  de $48.La carta de vinos buena y los postres muy buenos.Caro,muy caro para esa cocina.No vuelvo"
+    }, 
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vivid", 
+      "text": "Lindo lugar, la comida estuvo muy bien se nota que incluyen ingredientes de calidad. La primera panera no fue muy buena pero la segunda estuvo al nivel de la comida. La lista de bebidas incluye vinos para todos los bolsillos. La atenci\u00f3n fue cordial pero necesita profesionalizarse.El cierre fue con una copa de champagne y otra de lemoncello."
+    }, 
+    {
+      "date": "18 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "formus", 
+      "text": "Anoche fui a Amici Miei siguiendo los comentarios del sitio. Ped\u00ed un Rissoto, no muy bueno, pedimos unos Pipe a la carbonara, estaban ricos.\r\nEs un lugar para ir una vez, conocerlo, probarlo, pero no para volver. En resumen, dos platos, un postre para compartir y el vino m\u00e1s barato de la carta sali\u00f3 $162, la comida normal, no mejor que un buen delivery de pastas. El ambiente muy bueno, y la atenci\u00f3n muy buena tambi\u00e9n."
+    }, 
+    {
+      "date": "17 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Canuto", 
+      "text": "Tipico conventillo de san telmo muy bien reciclado,tiene la opcion de un hermoso patio al aire libre y tambien un peque\u00f1o balcon sobre la plaza,la carta es variada y tentadora,los risotos imperdibles, muy buena panera,y una cordial invitacion de licores al finalizar la cena,los precios son acordes a la calidad del servicio,es para recomendar y volver.-"
+    }, 
+    {
+      "date": "17 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Santohijo", 
+      "text": "La comida es realmente deliciosa, muy sabrosa para aquel que tiene buen paladar al degustarla. La atenci\u00f3n es muy buena aunque deber\u00eda confirmarla cuando el lugar este mas lleno. Recomiendo, si van en pareja, reservar una mesita del balc\u00f3n, tiene muy linda vista a la plaza. Sin duda volver\u00e9 a visitar el lugar."
+    }, 
+    {
+      "date": "3 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ferrusto", 
+      "text": "La comida muy buena como as\u00ed la atencion,el pan recien horneado es exquisito.Las 4 ocaciones que hemos ido en todas ella comimos muy bien,siempre encontramos novedades en la carta .\r\nMuy buena la atencion del chef ,el cual recorre las mesas con atinada sugerencio"
+    }, 
+    {
+      "date": "9 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maulens", 
+      "text": "El ambiente es agradable y tranquilo; se puede charlar placidamente. La atenci\u00f3n es excelente, el mozo siempre atento sin avasallar. La comida est\u00e1 cuidada y cada plato cuymple lo que promete."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Silviaasl", 
+      "text": "Muy buena la comida, el servicio tambi\u00e9n y la cocina  italiana de 10!!"
+    }, 
+    {
+      "date": "8 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mayfair", 
+      "text": "El mejor restaurant italiano de la zona, pastas hechas a la vista acompa\u00f1adas de salsas elaboradas con los mejores ingredientes de cada temporada. Carta de vinos selecta y con una atenci\u00f3n impecable. Si bien sus precios son un poco altos bien vale la pena darse el gusto de vez en cuando."
+    }, 
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "oli7", 
+      "text": "IMpecable toda la expericia. Si bien el menu es relativamente acotado... el GUSTo de cada plato es excepcional. Pedi penne rigate con langostinos... IMPECABLE !"
+    }, 
+    {
+      "date": "2 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Caropina", 
+      "text": "Excelente!!! Qued\u00e9 encantada con el malfatti, lo recomiendo mucho! Comimos en el balc\u00f3n mirando a la plaza. Creo que de todos los que miran a la plaza es el mejor. El resto son \u00bd pelo. Lo malo (solo por decir algo malo, que para eso critico?) es que al estar en el balc\u00f3n atr\u00e1s de una puerta estas fuera del radio visual del mozo y eso es medio molesto cuando quer\u00e9s pedir algo y tardan un poco m\u00e1s en darte bola. El plato con el queso ahumado, la albahaca, los tomates fueron una combinaci\u00f3n explosiva! Volver\u00e9 por los malfatti, y si piden otro plato pruebo, pero eso lo vuelvo a comer."
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "smoke2smoke", 
+      "text": "Pros: La cocina es excelente y variada (girgolas excelentes), est\u00e1 a la vista, la atenci\u00f3n es muy buena y cuidada, nos convidaron con lemoncello casero.\r\n\r\nContras: Ubicado en un primer piso y hay que subir una escalera muy larga. Tienen estacionamiento al lado pero no tienen convenio. El plato principal es menos abundante que la entrada, pedi panzotis y la verdad que me esperaba un plato mas grande. Los postres son muy chicos para lo que los cobran. Nos prometieron a un tenor cantando a partir de las 22, pero nunca apareci\u00f3, luego me dijeron que depend\u00eda de la cantidad de clientes."
+    }, 
+    {
+      "date": "19 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "RODODEQUILMES", 
+      "text": "Por las recomendaciones de Fernando Bravo ya fuimos dos veces y siempre comimos bien (la entrada con langostinos: imperdible y riqu\u00edsimas pastas). Si est\u00e1s apurado o quer\u00e9s comer r\u00e1pido abstenete. Volveremos!"
+    }, 
+    {
+      "date": "27 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alescha", 
+      "text": "Hac\u00eda tiempo que no com\u00eda unas pastas como en este lugar, exquisitas. Fui a comer con mi mujer por su cumple, junto a nuestro hijo y realmente lo disfrutamos. La panera, la insalata tiepida di mare y los linguine nere al frutti di mare resultaron inmejorables en un ambiente tranquilo y excelente atenci\u00f3n. Pagamos 370 con entrada, plato, vino, postre y cafe........sinceramente un precio muy adecuado para la propuesta exquisita."
+    }, 
+    {
+      "date": "25 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "WilliamTAF", 
+      "text": "Exelente para disfrutar una comida compartida de 4 pasos estilo \"Asagio\" y compartir una conversaci\u00f3n amena con amigos. Para parejas hay unos balconcitos particularmente interesantes. la presencia de un tenor le da un toque de distinci\u00f3n que por la brevedad y calidad asent\u00faa las bondades del lugar."
+    }, 
+    {
+      "date": "2 Ene 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Helen_88", 
+      "text": "Fuimos con un grupo de turistas, paseando por San Telmo, descubrimos este resto, que nos sorprendio mucho.Riquisimo todo, pedimos un antipasto de buena calidad,los tallarines con salsa picante y albahaca eran una delicia!La pizza era de destacar tambien.Lo unico malo fue que no pudimos almorzar adentro ya que habia mucha gente, y el mozo estaba desbordado, eran 2 solos.Cuando quisimos tomar una segunda tanda de cerveza dijo secamente NO HAY MAS.Sin ofrecer nada a cambio.Me parecio poco amable de su parte.Por lo demas es un lindo restoran con comida italiana para visitar.Recomendable"
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Amadeus", 
+      "text": "Excelente todo, desde la comida (las g\u00edrgolas salteadas con r\u00facula y parmesano impagables), pasando por la excelente atenci\u00f3n y el ambiente tranquilo pero que no llega a ser de esos que hacen que uno se acartone. Lo que s\u00ed me parece que los precios son algo excesivos, lo que noto que de a poco se convierte en constante entre todos los restaurantes de cierto prestigio. Un plato de risotto (exquisito, por cierto) a m\u00e1s de $80 me parece un desprop\u00f3sito."
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lolia", 
+      "text": "Vamos siempre con mi marido y amigos. El mejor servicio de Buenos Aires, excelente comida. Recomendamos la pizza a la piedra, el bife de chorizo, los vinos, la pasta casera. Un restaurant unico en su especie. Los jueves y viernes canta opera \"Gianni\" un tenor del colon, no hay comparacion en restaurantes."
+    }, 
+    {
+      "date": "18 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Claude1960", 
+      "text": "Excelente, todo, desde la recepci\u00f3n, el lugar, la comida, la calidez que brinda todo el grupo de profesionales!!Los viernes adem\u00e1s de degustar excelentes platos se disfruta de un tenor en vivo que es maravilloso escucharlo!! Muy recomendable, no esta para perd\u00e9rselo, si quieren pasar una hermosa velada!!"
+    }, 
+    {
+      "date": "12 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Dami74", 
+      "text": "Simplemente espectacular!. La ubicaci\u00f3n inmejorable en pleno San Telmo, cenamos en una mesa de balc\u00f3n frente a la plaza. Carta muy variada y renovada, como en Italia se sugiere un primer plato de pastas y un segundo de carnes o pescado. La comida de excelente preparaci\u00f3n, para recomendar la entrada la ensalada de frutos de mar y las pastas. Los postres tambien merecen un parrafo aparte. En fin, no hay que perderse la oportunidad de probarlo!"
+    }, 
+    {
+      "date": "18 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "eltito", 
+      "text": "realmente un muy buen lugar la atencion es muy buena desde la llegada hasta el final estan pendientes de detalles ,una copa mientrsa se espera ,lugar para dejar la ropa , controlar que no falte bebida o pan ,buenos detalles sin ser cargosos .La comida en su punto justo  sobre todo el arroz.Yo festejaba mi cumplea\u00f1os y creo que la eleccion fue excelente."
+    }, 
+    {
+      "date": "17 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jaime52", 
+      "text": "Muy bueno la comida e ambiencia. El servicio atento."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Toots", 
+      "text": "Riquisimo... Increible atencion"
+    }, 
+    {
+      "date": "29 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alsara13", 
+      "text": "Muy buena comida, la calidad es excelente y muy buen servicio. Muy poca gente, pero creo que es precisamente un restaurante para disfrutar m\u00e1s cuando no hay multitudes, como entiendo que es durante el fin de semana."
+    }, 
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leerte", 
+      "text": "Un lugar especial y bueno, muy bueno. Me encant\u00f3. Para gozar y quedar bien(Nada que ver con los restaurantes for export, como los de puerto madero o balcarce y belgrano)."
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Danyell", 
+      "text": "Un lugar increible. Los platos valen lo que cuestan (gastamos 80$ por persona incluyendo postre, bebida y propina). Cenamos en un lindo balcon con vista a la plaza Dorrego. El mejor restaurante Italiano. Alguna sugerencia? NINGUNA! Todo excelente."
+    }, 
+    {
+      "date": "24 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bibi1", 
+      "text": "Todo fue excelente, como siempre, solo para volver..."
+    }, 
+    {
+      "date": "25 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "traductor", 
+      "text": "Excelente la pasta, tal vez una de las mejores que he probado en Buenos Aires. Las mesas est\u00e1n bien separadas. Pero un cantante \"italiano\" irrumpi\u00f3 en la tranquilidad de la cena y arruin\u00f3 el momento. Si uno va a comer, s\u00f3lo va a comer. El show queda afuera. Los precios, demasiado altos para tratarse de pastas. Pocos vinos accesibles..."
+    }, 
+    {
+      "date": "19 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lilica", 
+      "text": "Excelente la comida,la atencion, el lugar. Un resto para repetir.Todo en su puntos justo:temperatura del vino,pasta al dente,limpieza de los ba\u00f1os,de la cocina (que esta a la vista). Mejor no ir los domingos pq hay mucha gente. Prefiero los dias de semana donde se esta mas tranquilo."
+    }, 
+    {
+      "date": "27 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "demi77", 
+      "text": "Muy buen lugar para disfrutar una buena charla sobre todo si es acompaniado con buan comida, buenos vinos y muy buena atencion. Para recomendar, sigan asi!!"
+    }, 
+    {
+      "date": "2 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martinique", 
+      "text": "La verdad uno de los mejores restaurantes de Buenos Aires, combina excelencia en la materia prima de sus platos, excelente coccion, buen servicio, buena ambientacion, y la atencion personalizada de sus due\u00f1os, que siempre estan presentes para satisfacer a sus clientes, voy siempre y nunca me han defraudado. suerte y que sigan asi"
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "puccini", 
+      "text": "El restaurante mantiene la calidad de siempre.\r\nLas porciones son muy equilibradas.\r\nMuy buena calidad de los platos. Cocci\u00f3n precisa.\r\nAtenci\u00f3n excelente, especialmente en una zona (San Telmo) donde los lugare\u00f1os corremos en desventaja con los turistas. Esto no es una cr\u00edtica a los turistas, al contrario, me alegro mucho que tengamos tantos, sino hacia los restaurantes que equivocadamente discriminan la atenci\u00f3n de sus clientes."
+    }, 
+    {
+      "date": "22 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juan23", 
+      "text": "Excelente lugar, un ambiente recomendable con un se\u00f1or que cantaba por las mesas con una voz incre\u00edble y, sin molestar a los comensales.\r\nDetalle del chef que se acerc\u00f3 a la mesa para corroborar el servicio. Volveremos con gusto."
+    }, 
+    {
+      "date": "26 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Feson", 
+      "text": "muy buen lugar, muy calido y muy buena la atencion. La comida excelente, soy un fanatico de la cocina italiana y no he comido en otro lugar a este nivel."
+    }, 
+    {
+      "date": "24 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FAD1994", 
+      "text": "Me animo a decir que es el mejor restaurante de comida Italiana en Capital Federal, ya fui cuatro veces y realmente la calidad de los alimentos y materias primas son excelentes, adem\u00e1s de que las recetas son de denomincaci\u00f3n de origen como en Italia. Realmente para recomendar la extensi\u00f3n de su carta."
+    }, 
+    {
+      "date": "20 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Anuchita", 
+      "text": "Excelente lugar! Un hallazgo a trav\u00e9s de Gu\u00eda Oleo. La comida fue fant\u00e1stica, lacarta de vinos extensa y el vino blanco bien fresco como corresponde. la ambientaci\u00f3,  agradable y Nessun Dorma y La Donna E Mobile sonaron maravillosos.\r\nUn lugar recomendable. Para volver seguido."
+    }, 
+    {
+      "date": "11 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Judith", 
+      "text": "Excelente la atenci\u00f3n del mozo, tambien del chef que nos recomendo platos de acuerdo a lo que buscabamos y muy interesante la intervenci\u00f3n  del cantante lirico que paso por las mesas cantando 2 temas y celebrando con las diferentes mesas los motivos de las reuniones. La comida es excelente y el ambiente y la limpieza y cuidado del lugar son muy diferentes a los que se ve hoy dia."
+    }, 
+    {
+      "date": "7 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cari50", 
+      "text": "Espectacular la comida, muy bueno el servicio, muy bueno el ambiente salvo en la galeria calefaccionada de fumadores un poco de frio, cuando fui hacia 4 grados.\r\nPlato principal un poco escaso, para estar bien hay que comer entrada, primer plato y postre, Hay un cantante de canciones italianas excelente ."
+    }, 
+    {
+      "date": "10 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jenky111", 
+      "text": "Fuimos un Domingo recomendado por un amigo y la verdad es que el lugar nos gusto mucho.La comida muy bien lograda el ambiente bonito.Vomos a volver para la buena attencion y comida!"
+    }, 
+    {
+      "date": "29 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Arrayanes", 
+      "text": "Empezando por la panera, todo estuvo buen\u00edsimo. El mejor risotto que he comido \u00faltimamente, cremoso, perfecto. A pesar de estar todas las mesas ocupadas, nos atendieron muy bien. Lo \u00fanico que cambiar\u00eda ser\u00eda el punto del volc\u00e1n de chocolate, tendr\u00eda que venir un poco menos cocido, pero por lo dem\u00e1s, altamente recomendable. Un poco caro, pero vali\u00f3 la pena."
+    }, 
+    {
+      "date": "4 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martinique", 
+      "text": "Realmente hace mucho que no voy a un resto donde la comida es de exquisita calidad, bien italiana, pero como en Italia misma, y la atencion excelente y muy atentos a las mesas, puesta la mirada en el cliente, ya que a veces cuesta encontrar algun mozo que mire a ver si uno necesita algo, estaban siempre atentos, para volver y recomendar"
+    }, 
+    {
+      "date": "10 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cabernet777", 
+      "text": "Estuve en septiembre del 2007 y esta vez fui con amigos italianos que estaban por el tema de las elecciones aqui en Buenos Aires .\r\nRealmente impresionante lo que comimos , a veces una va a un restaurant y cuando vuelve a los meses no encuentra la misma calidad pero creo que mejoraron en atencion ,sobre la comida ,reto a alguien a encontrar un mejor risotto que el que ahi preparan, los papardelle para los italianos estaban increibles , estuvimos en la terraza luego de la cena fumando unos puros acompa\u00f1ados de una grapa italiana , esas noches que cuesta olvidar y voy a volver ."
+    }, 
+    {
+      "date": "4 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mixxer", 
+      "text": "Imposible no reincidir. Vuelvo a este restaurante para probar una nueva exquisitez de su carta aut\u00e9nticamente italiana, el ambiente es perfecto, la comida superlativa y como corolario, me lleve la sorpresa de que esa noche habia m\u00fasica en vivo, un brasilero con su guitarra cantando bossa. Mejor no pod\u00eda ser, as\u00ed que tomamos un cafe escuchando esa maravillosa m\u00fasica. FELICITACIONES !!!"
+    }, 
+    {
+      "date": "29 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Freddie", 
+      "text": "Mejor de lo esperado, muy recomendable."
+    }, 
+    {
+      "date": "2 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pachito11", 
+      "text": "Tipico lugar de San Telmo, muy bien reciclado. El serivicio es tango agil como personalizado, y la comida, en especial las pastas son excelentes. Lugar altamente recomendable."
+    }, 
+    {
+      "date": "30 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "valito", 
+      "text": "muy buen ambiente.atencion impecable. las pastas son muy buenas!!"
+    }, 
+    {
+      "date": "22 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Pekin", 
+      "text": "Hac\u00eda mucho tiempo que no iba a comer a un lugar, donde el chef se acerca a la mesa a explicar los platos con tanto cari\u00f1o. Comimos un escabecha de conejo con habas muy bueno y un rissoto tartufo con trufas realmente excepcional. El lugar es muy lindo la atenci\u00f2n correcta. No dejen de ir."
+    }, 
+    {
+      "date": "22 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fontinalis", 
+      "text": "Es un lugar excelente. La comida incre\u00edble, y no dejo de asombrarme con el chef, que siempre que voy se acerca a la mesa a recomendarme platos, est\u00e9n o no en la carta. La calidad de la comida es muy notable.\r\nLugar m\u00e1s que recomendable. Precio acorde a la calidad de la comida."
+    }, 
+    {
+      "date": "21 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "AMESA", 
+      "text": "Me enter\u00e9 de este sitio por la gu\u00eda y fue una agradable sorpresa encontrar en San Telmo un restaurante de esta categor\u00eda. La carta colocada en la entrada invita a pasar y descubrir lo que ofrece verdaderamente este restaurante de \"primer piso\". \r\nLes aseguro que vale la pena atreverse! El local en si mismo es agradable con una decoraci\u00f3n simple, sin ostentaciones. El servicio de los mozos competente y amable. La carta hace referencia a la comida tradicional de Italia matizado con el toque de autor de su chef; incluye 7 opciones de antipasti, 5 de insalate, 19 de primi piati, 5 de secondo piati, 7 de pizze individuale, 6 de formaggi e salumi y 7 de dessert d`autore. Las porciones son grandes y se pueden compartir, por lo que hacer el recorrido tradicional italiano antipasto, primi piati, secondo piati, insalate y dolci se convierte en una gran aventura gastron\u00f3mica. Todo lo que comimos estaba muy bien preparado, hecho con cuidado, con los sabores equilibrados y con materiales de primera calidad. Destacables fueron las girgolas del antipasto, el uso sin avaricia del tartufo y de los funghi porcini. El chef pas\u00f3 en varias oportunidades a escuchar nuestros comentarios sobre la calidad de la comida. Un detalle para mejorar, la temperatura de los vinos, el Sangiovese que ordenamos estaba caliente, hubo que enfriarlo para que mostrara su calidad. En resumen: Un restaurante altamente recomendable."
+    }, 
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jcroatto", 
+      "text": "La atenci\u00f3n personalizada del chef es uno de los elementos a destacar al momento de visitar este lugar, asi como la presentaci\u00f3n de los platos y la ambientaci\u00f3n."
+    }, 
+    {
+      "date": "7 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Loly07", 
+      "text": "La comida espectacular. Nos atendieron barbaro y el Chef en persona se acercaba a las mesas ayudando a los clientes con la eleccion del plato. \r\nMuy buen ambiente, tranquilo y bien decorado. \r\nLos risotos son exelentes pero les recomiendo Tortiglioni con mejillones, langostinos y br\u00f3coli al azafr\u00e1n...."
+    }, 
+    {
+      "date": "2 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "valelamaestra", 
+      "text": "El viernes mi marido, me sorprendi\u00f3 llevandome a comer a Amici. Soy hija y nieta de italianos y he tenido la suerte de conocer platos de ese hermoso pa\u00eds que los encontr\u00e9 en este restorante, muy buena atenci\u00f3n siendo los mozos correctos.\r\nLas entradas espectaculares y el risoto como lo hacia mi abuelo, con verdaderos hongos italianos, fue una noche rom\u00e1ntica y la pasamos de diez, un lugar para recomendar."
+    }, 
+    {
+      "date": "21 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "maryhe", 
+      "text": "La comida excelente. Se nota que preparan cada plato con dedicaci\u00f3n y profesionalismo. Pero el servicio p\u00e9simo: quice minutos esperando que te tomen el pedido; una hora esperando la comida; y otra media hora para que te cierren la cuenta. Un desastre. Era el d\u00eda de la madre pero no se justificaba tanta espera, un domingo cualquiera deber\u00edan de estar preparados para recibir gran cantidad de p\u00fablico. Por otra parte los precios no se justifican en general con el lugar: no tiene el m\u00e1s m\u00ednimo \"lujo\". Podr\u00eda decirse que se trata de un lugar puesto \"con dos pesos\". Est\u00e1 pensado para turistas que pasean por San Telmo: lugar sencillo y de buen comer, con precios en \"euros\" muy econ\u00f3micos. Pero en pesos es mucho!! Fuimos tres, comimos dos risottos y una ensalada; bebimos un vino y un agua y NO comimos postre. La cuenta: \r\n$ 180 .Repito: LOS PRECIOS NO JUSTIFICAN EL LUGAR!!\r\nSolo para probar la buena comida lo recomiendo, pero ir con la idea de cargar la tarjetita de cr\u00e9dito!!"
+    }, 
+    {
+      "date": "20 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dragi", 
+      "text": "Fuimos con otra pareja a festejar mi cumplea\u00f1os y nos antendieron de maravilla.  El chef en persona saludo por todas las mesas. La comida riqu\u00edsima con porciones abundantes. Imperdibles los rissotos. Volver\u00eda. Es un lugar para disfrutar."
+    }, 
+    {
+      "date": "29 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leveriano", 
+      "text": "El lugar es encantador. Muy buen ubicado sobre la plaza, con la ventaja de la vista, la luz y la perspectiva de estar en un 1er piso - y el encanto de los balconcitos. Ambiente muy relajado, como para  disfrutar de la buena comida y la compa\u00f1\u00eda. El servicio impecable de parte de todos. Nos sentimos cuidados pero no sofocados!\r\nLos productos todos de primer\u00edsima calidad. Todos los detalles cuidados.\r\nSe podr\u00eda agregar alg\u00fan pescado a la carta quiz\u00e1s?"
+    }, 
+    {
+      "date": "21 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elapostol", 
+      "text": "Realmente fui a pocos restaurants donde todo el servicio esta al mismo nivel. Amigos que inician y lo hacen con todo, a nivel de cualquier restaurante internacional en Buenos Aires.\r\nNo abstenerse, hay para todos los gustos y presupuestos. \r\nUn ambiente muy acogedor, amigable ..que mas se puede pedir. \r\nEs la primera vez que opino en una p\u00e1gina y realmente lo merece."
+    }, 
+    {
+      "date": "14 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cabernet777", 
+      "text": "Cada vez que voy a este restaurant y no es la primera vez me siento muy muy bien , los mozos atienden muy bien sin ser invasivos , el ambiente es tranquilo como me gusta y la comida es definitivamente italiana ,fui en tres oportunidades y la comida siempre es lo que uno espero , espero se mantengan en esta linea"
+    }, 
+    {
+      "date": "14 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Simon2007", 
+      "text": "Respecto al risoto debo decir que es algo que no habia comido en Argentina y es algo que recomendaria a todo el mundo. En general, sobre este Restaurante creo que es uno de los pocos, sino el unico, en Buenos Aires que respeta las tradiciones italianas en cuanto a las comidas y los postres. Debo recomendar tambien las pizas y las pastas que son excelentes.\r\nUno se siente en Italia ya que ademas de las tecnicas los productos tambien se respetan."
+    }, 
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mixxer", 
+      "text": "Excelente comida y ambientaci\u00f3n. no recuerdo haber comido tan bien en los \u00faltimos a\u00f1os. Muy buen servicio.\r\nPara destacar: El cheff vino especialmente a presentarse y recomendarnos platos. inigualable."
+    }
+  ]
+}

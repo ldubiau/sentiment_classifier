@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marysabel65", 
+      "text": "Pizzeria de barrio con una de las mejores pizzas a la piedra. El ambiente nada especial, bullicioso tipico de pizzeria,  pero la pizza excelente, la masa, la muzarella, la cantidad de palmitos por ejemplo y el precio muy acomodado $ 53 la grande que incluida jamon, palmitos, morrones y huevo."
+    }, 
+    {
+      "date": "26 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sernatber", 
+      "text": "muy buena pizza, tradicional y antigua de barrio\r\nbuena en molde y buena  a la piedra\r\nbuenas pastas tambien"
+    }, 
+    {
+      "date": "6 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "CocoBasile", 
+      "text": "Pizzer\u00eda de barrio sin pretenciones, en que tambi\u00e9n se sirve comida porte\u00f1a. Los precios son medios (aunque relativamente altos en la bebida). La pizza a la piedra (en el local) es buena. La pizza al molde no. Las porciones en lo que no es pizza son generosas. La calidad es pasable. El ambiente es \"sin ambiente\". La atenci\u00f3n no es buena, aunque algunos de los mozos son peores que otros.\r\nDelivery: La pizza que env\u00edan por delivery es muy inferior a la que sirven en el local y suelen mandarla cruda. Lo que no es pizza tampoco suele llegar bien.\r\nContras: En las \u00faltimas semanas bajaron la calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "dgc09", 
+      "text": "La Pizza es excelente!!!, la masa es deliciosa y crocante, el queso es abundante en relaci\u00f3n a la masa, es la mejor pizza a la piedra que he probado (soy habitu\u00e9 de Guerr\u00edn, Banchero que son de las mejores pizzer\u00edas de Capital, as\u00ed que tengo un buen punto de comparaci\u00f3n).\r\nEso si, si quieren comer pizza al molde, vayan a una de las anteriormente mencionadas, en el Griego solamente coman pizza a la piedra.\r\nLos precios son razonables, no es de lo m\u00e1s caro.\r\nEl trato es bueno y el ambiente es anticuado, se mantiene como siempre.\r\nLos potres son t\u00edpicos de pizzer\u00eda, son buenos."
+    }
+  ]
+}

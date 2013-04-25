@@ -1,0 +1,428 @@
+{
+  "malos": [
+    {
+      "date": "13 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "latimer", 
+      "text": "Hab\u00eda ido a comer pizza y me hab\u00eda gustado.Anoche probamos (8personas) distintos platos , y quedamos muy decepcionados! Las pastas estuvieron bien. El\" plato del mes\" parec\u00eda muy tentador: lomo c salsa de hongos y rosti...El lomo dur\u00edsimo, tanto que no parec\u00eda lomo, el rosti demasiado salado. Otro plato con milanesa...finita y dura , no se pudo comer. reclamamos una ensalada repetidas veces que nunca lleg\u00f3, y nos quisieron traer cuando todos hab\u00edamos terminado ya. Ah! nunca pidan la tortilla! mucha pinta y grande pero con una costra dura e incomible. Mucho malhumor en la mesa, garantizado!"
+    }, 
+    {
+      "date": "16 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Amarela", 
+      "text": "Nunca entr\u00e9 al sal\u00f3n, solo lo conozco de afuera, pero como vivo en la zona una vez pedimos comida a domicilio.\r\nEl salm\u00f3n estaba sobrecocido hasta la tristeza y se hab\u00edan olvidado de los condimentos, no ten\u00eda gusto a nada.\r\nLa carne era seca, dura, ins\u00edpida. La guarnici\u00f3n de ambos platos estaba excesivamente salada.\r\nMuy amable quien atendi\u00f3 el tel\u00e9fono pero la comida era indigna de un restaurant."
+    }, 
+    {
+      "date": "24 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Alito70", 
+      "text": "En esta ultima oportunidad me defraud\u00f3, o cambiaron el cocinero o algo pas\u00f3, es una lastima porque definitivamente no vuelvo mas. \r\nPor \u00faltimo cuando uno sale del local perdura el olor a comida en la ropa."
+    }, 
+    {
+      "date": "26 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Mauser", 
+      "text": "Las tres sugerencias del chef (gigot de cordero con pure de batata) muy duro, la carne con nervio, vino medio crudo, pedimos que lo cocieran un poco mas, vino repasado, comimos muy poco del plato. \r\nLas ribs a la barbacoa, no eran costillas de corderito, parecian de oveja, pero estaban bien, el agnolotti muy rico, el crocante de faina con salmon muy rico, el brioche de hongos muy rico, los postres muy bien. \r\nEn resumen la sugerencia del chef que tendria que ser lo mejor resulto realmente lo peor."
+    }, 
+    {
+      "date": "28 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Huge", 
+      "text": "La comida horrible. Los agnolottis parec\u00edan esponsoreados por la industria del caucho, y las pechugas no ten\u00edan gusto a nada (aparte de estar fr\u00edas). Nos fuimos malhumorados sin comer postre.\r\n\u00bfC\u00f3mo es posible cocinar tan mal? La atenci\u00f3n buena."
+    }, 
+    {
+      "date": "16 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "tincho_101", 
+      "text": "Aclaro que s\u00f3lo probe la pizza a la parrilla del lugar, pero me parecio muy mala. El queso y los ingredientes no son buenos y la masa deja mucho que desear. Tardaron demasiado en atendernos y las pizzas vinieron todas a destiempo (\u00e9ramos varios) y comimos todos separados. La \u00faltima tuvo problemas y se demoro MAS DE UNA HORA. Increible. Mala organizaci\u00f3n y mala pizza."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Syrigma", 
+      "text": "Fui dos veces, las dos ped\u00ed pastas: la primera vez unos ravioles de verdura con salsa 4 quesos, muy ricos. La segunda unos de ricota con salsa rosa; no tan rica como la anterior de 4 quesos pero bien. Los ravioles bien ambos. Esta \u00faltima vez prob\u00e9 el volc\u00e1n de chocolate con helado de maracuy\u00e1: el volc\u00e1n de chocolate muy rico, pero el helado estaba algo duro y congelado. De todos modos, teniendo en cuenta que sale $ 22 no me pareci\u00f3 tan grave :P\r\nLa ambientaci\u00f3n es pintoresca, supongo que ese es su mayor atractivo en este sentido. A m\u00ed mucho no me importa pero para los que s\u00ed, puede ser ruidoso."
+    }, 
+    {
+      "date": "13 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SILSIL", 
+      "text": "Una cena de pizzas con amigas, una buena elecci\u00f3n, adem\u00e1s nos acomodamos en una salita en la planta baja muy agradable y privada. las pizzas las elegimos de 12 porciones y sabores variados, tanto la masa como los gustos solicitados fueron bien satisfechos. algunas comieron postres que eran muy ricos. volver\u00eda a probar los platos de cocina."
+    }, 
+    {
+      "date": "12 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "hadespablo", 
+      "text": "El lugar tiene una ambientaci\u00f3n que cumple, pero las mesas se encuentran demasiado cerca quitandole privacidad. Los platos son en general buenos, pero la calidad vari\u00f3 dependiendo el d\u00eda en el que asistimos. La atenci\u00f3n regular."
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Virr", 
+      "text": "Esta bien. No es para ir en una cena rom\u00e1ntica, pero si es para limitarse a comer es suficiente. La atenci\u00f3n es regular. Las pizzas a la parrilla muy buenas, El postre regular, pedimos crumble de manzanas con helado y lo mandaron frio y mucho m\u00e1s tarde que el resto de lo que ordenamos. Es para pensar en ir a comer una buena pizza a la parrilla, nada m\u00e1s."
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Abel1204", 
+      "text": "Las pizzas son excelentes, a la parrilla y con unos ingredientes riqu\u00edsimos!! Altamente recomendables. Las empanadas estaban correctas. El lugar es muy agradable y se puede comer y charlar tranquilo tranquilo. La atenci\u00f3n de las mozas es correcta."
+    }, 
+    {
+      "date": "16 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "@LuciaEsmoris", 
+      "text": "Muy rica la piza a la piedra !! volveremos !!"
+    }, 
+    {
+      "date": "18 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Eduardoagustin", 
+      "text": "Lindo lugar. El apple pie con ar\u00e1ndanos y helado de lim\u00f3n excelente. La bondiola con pur\u00e9 de batatas regular."
+    }, 
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "clau61", 
+      "text": "Muy rica la comida,sabrosa, las porciones eran abundantes, la panera podr\u00eda mejorar. el servicio muy atento. La decoraci\u00f3n del lugar muy agradable. Volveremos."
+    }, 
+    {
+      "date": "15 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Jennu", 
+      "text": "Muy lindo lugar, ameno, lindo para ir en pareja de noche o con muchos amigos al mediodia. La atencion es buena, cordial y te traen los platos a tiempo. La comida es muy rica y tiene una linda presentacion. Es lindo para aprovechar el menu del mediodia que incluye todo, es barato y rico."
+    }, 
+    {
+      "date": "14 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Chemichaux es una buena opci\u00f3n para una comida entre amigos. Definitivamente la pizza a la parrilla es la especialidad de la casa y resaltan sus sabores en el men\u00fa. Recomendable la variedad de r\u00facula. Atenci\u00f3n y ambientes correctos."
+    }, 
+    {
+      "date": "16 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "natilici", 
+      "text": "Comida variada, muy rico, como tardaron en traer la cuenta nos invitaron con unas copitas de licor casero que hacen ellos, estaba todo muy bien."
+    }, 
+    {
+      "date": "11 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Elverde", 
+      "text": "Buena opciones para una cena en familia o con amigos para quienes no buscan lujos, variedad de platos, buena calidad de comida, precios accesibles. La pizza es muy buena, faltar\u00eda cerveza tirada."
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ganzola", 
+      "text": "Fuimos a cenar una noche porque nos llam\u00f3 la atenci\u00f3n lo bien ambientada que estaba esta casona de afuera. Con solo 10 minutos de espera nos dieron una linda mesa afuera. Al ver que todas las mesas ped\u00edan pizzas nos inclinamos por esa opci\u00f3n cosa que realmente nos encant\u00f3. Tienen una extensa variedad de pizza a la parrilla y al menos las que pudimos probar estaban estupendas. La atenci\u00f3n tanto como la ambientaci\u00f3n tambien son para destacar. Sin lugar a a dudas, voy a volver."
+    }, 
+    {
+      "date": "2 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gabriella", 
+      "text": "Men\u00fa ejecutivo correcto, carnes y guarniciones en su punto justo de cocci\u00f3n; servicio apurado, poco atento; pobre la panera, tostadas h\u00famedas, incomibles, bien la manteler\u00eda; linda casona pero descuidada, detalles que no reflejan aseo ni prolijidad a la vista del cliente, todos f\u00e1cilmente mejorables tanto en el sal\u00f3n como en el toilette y har\u00edan del lugar un \u00e1mbito mucho m\u00e1s agradable. Bien el precio en relaci\u00f3n a la calidad"
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "luligra28", 
+      "text": "fuimos con mi pareja el s\u00e1bado por la noche . yo conoc\u00eda el lugar por fuera pu\u00e9s vivo cerca pero nunca nos decidiamos a ir . el lugar nos pareci\u00f3 encantador y muy bien decorado y conservada la casona. a mi pareja le sorprend\u00edo el precio pens\u00f3 que era caro simplemente por la fachada de la casona y oh!!! sorpresa ya lo eligi\u00f3 como lugar apropiado para disfrutar una cena . la atenci\u00f3n no es muy brillante pero el lugar es limpio y confortable . Los precios nos parecieron accesibles . La comida buena . Sin lugar a dudas , volveremos ."
+    }, 
+    {
+      "date": "23 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ingridbsi", 
+      "text": "Hermosa la casona y bien conservada, muy buena la atenci\u00f3n y lo fundamental, exquisitos platos, abundantes y precios accesibles. Un lugar para recomendar. Sin dudas!"
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ales", 
+      "text": "muy rica la comida. plato normal/abundante. buen ambiente. limpio. voy a volver."
+    }, 
+    {
+      "date": "15 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Vischi", 
+      "text": "La verdad es que fui varias veces al medidod\u00eda, por comodidad (trabajo en la zona) y nunca com\u00ed muy bien. Pero esta vez me sorprendi\u00f3. No s\u00e9 si hubo cambios en la cocina o si fue casualidad, sigan as\u00ed."
+    }, 
+    {
+      "date": "10 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "javerius", 
+      "text": "Un excelente lugar para ir, chiquito pero muy bien ambientado. Los platos son sofisticados y para nada caros. 100 recomendable"
+    }, 
+    {
+      "date": "12 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "La ambientaci\u00f3n es preciosa, es una casona remodelada que conserva la divisi\u00f3n en habitaciones, de modo que se puede comer en un espacio \u00edntimo y nada ruidoso. Recomiendo especialmente el volc\u00e1n de chocolate como postre, \u00a1riqu\u00edsimo!"
+    }, 
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "schcristian", 
+      "text": "El cerdo estuvo muy bueno, los fideos estuvieron bien pero le falt\u00f3 que la salsa sea realmente caprese, se puede mejorar. Tiene precios muy buenos para platos en cierto punto sofisticados."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Anushy", 
+      "text": "La comida fue muy rica, de postre el cheesecake fue bastante feo. El ambiente muy lindo, y la atenci\u00f3n nada fuera de lo normal."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "snupy", 
+      "text": "Muy recomendable.La comida es excelente : se nota que el/la que cocina sabe lo que hace.Hay un menu de 3 pasos que incluye entrada, plato , postre y copa de vino (uno puede elegir entre algunas variantes)  por un precio  accesible.La carta de vinos e minima.El servicio podria mejorar, pero no esta mal .El lugar es una casa de 2 pisos muy linda y bien ambientada. Fui varias veces y tambien pedi a domicilio y voy a volver!!"
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "paladarblanco", 
+      "text": "hace rato que vamos y la calidad es pareja cosa rara hoy en dia , el lugar tiene una decoracion muy particular, el servicio es bueno ( podria ser un poco mejor ) lo mas flojo es la carta de vinos y entre los platos hay varias perlitas para destacar : la ensalada tibia de mollejas , una rara combinacion fe faina con salmon y los sorrentinos de cordero, entre los postres el volcan de chocolate : en su punto justo y el helado de maracuja tambien ( raro porque ahora que esta de moda se cometen crimenes en nombre del maracuja )\r\nla pizza a la parrilla tambien muy recomendable"
+    }, 
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lulyla9", 
+      "text": "Excelente lugar! Muy tranquilo y bien atendido!"
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maidenfan", 
+      "text": "La verdad que el lugar es muy bueno, la calidad de la Pizza es excelente, totalmente recomendable de la jam\u00f3n crudo con rucula.\r\nLugar ideal para ir con amigos o en pareja."
+    }, 
+    {
+      "date": "19 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "luzy", 
+      "text": "excelente la pizza...muy rico gusto a parrilla...la mejor que prob\u00e9!"
+    }, 
+    {
+      "date": "2 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lulivainillie", 
+      "text": "Vamos siempre, al menos una vez al mes.\r\nEL servicio y el ambiente es excelente.\r\nLas pizzas son unicas, especialmente la de salmon."
+    }, 
+    {
+      "date": "17 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MaJimena", 
+      "text": "Excelente el lugar, la comida, la atenci\u00f3n.\r\nCelebre el almuerzo despues del civil, se sumaron invitados a ultimo momento y lo resolvieron sin ning\u00fan inconveniente.\r\n\r\n10 puntos!"
+    }, 
+    {
+      "date": "25 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Vanita1972", 
+      "text": "Realmente muy bien, me sorprende como han cambiado la calidad de los platos al mediod\u00eda. Almuerzo all\u00ed con mucah frecuencia y han dado un vuelco impresionante, sigana s\u00ed muchachos. Excelentes las sugerencias!!!!!!"
+    }, 
+    {
+      "date": "28 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Merilu", 
+      "text": "Excelente! Me encanta el ambiente y sobre todo la comida! Los platos me parecen muy originales y acorde en precio."
+    }, 
+    {
+      "date": "12 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "francho", 
+      "text": "Muy bueno, su chef Javier Ceballos, es un muy talentoso cocinero y de inigualable experiencia. Sus gerentes siempre est\u00e1n presentes y atentos a las necesidades del comensal. Diez puntos todo."
+    }, 
+    {
+      "date": "7 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "osquito", 
+      "text": "La casona es excepcional, \u00edntima con mesas aisladas. La presentaci\u00f3n de la comida es excelente en todos sus platos. El servicio es menos eficaz. Hay que volver. Los precios, incluso el vino, son muy adecuados."
+    }, 
+    {
+      "date": "13 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dato", 
+      "text": "La bondiola estaba incre\u00edble."
+    }, 
+    {
+      "date": "19 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "moro72", 
+      "text": "Excelente la pizza a la parrilla, s\u00faper abundante los ingredientes que la saborizan. El ambiente es familiar."
+    }, 
+    {
+      "date": "7 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MDB", 
+      "text": "Muy buen lugar. El cheesecake, \u00a1espectacular!"
+    }
+  ]
+}

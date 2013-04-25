@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "2 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "belus85", 
+      "text": "Preferentemente para delivery. No son muy amables con el trato hacia el p\u00fablico, y entre el staff del restaurant tampoco. Hay buenas pizzas econ\u00f3micas para comer en casa."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Laracamp", 
+      "text": "Muy ricas pizzas. Sobre la atenci\u00f3n en sal\u00f3n, no s\u00e9 porque s\u00f3lo utilizo el servicio de delivery."
+    }
+  ]
+}

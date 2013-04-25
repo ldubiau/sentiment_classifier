@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "18 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "CocoSilly", 
+      "text": "La verdad es que el servicio fue pobre y la ambientaci\u00f3n es muy mala. \r\nEs como un maxikiosko o el comedero de una estaci\u00f3n de servicio. Regular tirando a malo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "caritola", 
+      "text": "Muy buenas empanadas."
+    }
+  ]
+}

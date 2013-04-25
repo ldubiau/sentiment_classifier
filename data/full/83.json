@@ -1,0 +1,578 @@
+{
+  "malos": [
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "liliso", 
+      "text": "El servicio regular, mucha falencia desde la reserva al cafe, parecian desbordados!!! menos mal que era un menu!!!!, panera que llega con el ultimo plato, comida MUY mala. verduras del primer plato espantosas!! Carne cobe de terror, grasa pura!!! postre horrible! NUNCA MAS!"
+    }, 
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "AndyMax", 
+      "text": "Otro restaurante m\u00e1s dentro de un hotel del monton que \"dan mal de comer\".  Una pena."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Andie", 
+      "text": "En el 2010 era la mejor cena de San Valent\u00edn en relaci\u00f3n precio/calidad. En 2012, es un sal\u00f3n de mesas apretadas, un despacho de platos leeento (mortal un martes), un violinista que desafina y un men\u00fa que se ve mejor en papel que en el plato. Te preguntan qu\u00e9 festej\u00e1s cuando reserv\u00e1s y despues ni un \"Feliz aniversario\"\" El servicio es amable y eficiente pero no compensan la espera o las cocochas duras o el kobe soso y con gusto a grasa. Por 920 pesos espero m\u00e1s. No vuelvo."
+    }, 
+    {
+      "date": "2 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Vitto", 
+      "text": "Cl\u00e1sico restauran de hotel 5* sin demasiados galardones. El ambiente es muy prolijo y agradable, la atenci\u00f3n es profesional y sin pretensiones y la comida es en general rica pero desafortunadamente no mucho mas que eso. Pulpo regular, mollejas normales, risotto rico y \u00f1oquis rellenos absolutamente inentendibles. La relaci\u00f3n precio/calidad de la comida es sin embargo muy buena porque los ingredientes son de calidad y los precios son quiz\u00e1s hasta demasiado contenidos, cosa que se deteriora en la carta de vinos remarcada al 400% promedio. Sigue siendo un buen lugar para un desayuno de negocios."
+    }, 
+    {
+      "date": "11 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "tomito1", 
+      "text": "exelente los platos a tiempo y coccion punto exacto, buena carta de vinos , panera adictiva , personal exelente , volvere!!"
+    }, 
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lau2190", 
+      "text": "Fui con mi pareja un viernes por la noche. La atenci\u00f3n es excelente, el lugar muy agradable y la comida realmente buena.  Sabiendo que no es un lugar para comer hasta el hartazgo, sino para pasar una hermosa velada, resulta una excelente opci\u00f3n. En cuanto a la relaci\u00f3n precio calidad, no s\u00f3lo es buena, sino que resulta a\u00fan mejor con el descuento CLN. Muy recomendable!"
+    }, 
+    {
+      "date": "22 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rotulau", 
+      "text": "Altamente recomendable LE MISTRAL. Un espacio gastron\u00f3mico donde abunda la buena comida (eramos 7 y todos nos fuimos realmente conformes), reina la calidez y el profesionalismo de parte de las camareras, en un contexto sumamente confortable.\r\nAntes de la cena, pedimos unos tragos y nos sugirieron uno a c/u por los gustos que les coment\u00e1bamos.\r\nUn dato: Con el Club La Naci\u00f3n hay 20% de descuento.\r\nD i v i n o!"
+    }, 
+    {
+      "date": "15 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "melgriff", 
+      "text": "Restaurant de hotel en un muy buen ambiente, armado con cuidado y (infrecuente en estos lugares) calidez.\r\nAtenci\u00f3n destacable, sutil y numerosa, que a\u00fan debe afinar detalles.\r\nLa cocina tuvo un nivel parejo superior. No sorprendi\u00f3 como otras cocinas de autor, pero los platos estuvieron bien preparados y presentados.\r\nCarta de vinos para todos los gustos.\r\nEn s\u00edntesis, recomendable."
+    }, 
+    {
+      "date": "21 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AMESA", 
+      "text": "La puesta del restaurante (mesas, manteler\u00eda, cubiertos, cristal) es de muy buen nivel, pero hay algo en el ambiente que le quita la elegancia pretendida. Destacable la atenci\u00f3n impecable que se brinda a los comensales. Cocina de muy buena factura, con largos tiempos entre el momento de la orden y la hora de servir la comida,lo que en mi opini\u00f3n afecta negativamente el recuerdo que uno se lleva del sitio: algo que podr\u00eda haber sido perfecto, por este detalle no lo logr\u00f3!"
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Inga", 
+      "text": "El plato de conejo era muy escaso, 3 fetas como de fiambre con 5 chauchas... puro plato y nada de comida... pero el lomo con papas rusticas era impecable y riquisimo. Los postres escasos tambien.. mucha decoracion y poco contenido."
+    }, 
+    {
+      "date": "11 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Agradezco a mi amiga que invit\u00f3 a conocer este restaurante. Es todo tan impecable que es dif\u00edcil no repetirse en la descripci\u00f3n de su excelencia. La atenci\u00f3n de todas y cada una de las camareras/os, la comida, la originalidad en la presentaci\u00f3n de un postre obsequio, su decoraci\u00f3n que combina los colores desde los vasos, ara\u00f1as, flores,velas. Para recomendar y volver a disfrutar del placer."
+    }, 
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "carocoria", 
+      "text": "excelente atencion"
+    }, 
+    {
+      "date": "18 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "CP19", 
+      "text": "Comida correcta por el precio. Servicio lento: nos sentamos 21:15 hs. y trajeron la comida 22:40 hs., la espera fue s\u00f3lo con pan... \u00e9ramos muchos y comimos a la carta, pero de todos modos la espera fue excesiva. El servicio correcto tambi\u00e9n, los postres no se destacan. Quiz\u00e1 un hotel 5 estrellas (Four Seasons) merezca algo m\u00e1s..."
+    }, 
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sedfriviere", 
+      "text": "Fuimos con mi pareja para san valentin, muy buena propuesta. La comida era rica, sin ser pretensiosa, muy bueno pero nada fuera de lo normal. El ambiente comodo, bien presentado, la carta de vinos algo excasa. Pero como han mencionado antes el servicio se lleva todos los premios, 10/10 no hay critica para hacerles, no hay un solo error para marcar, perfecto. Precio muy acorde."
+    }, 
+    {
+      "date": "12 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Ministry", 
+      "text": "Tanto la entrada como el primer plato estuvieron bastante bien, pero merece capitulo aparte tanto la atencion de los camareros (Aprox 2 por mesa) como los postres.Como festejamos nuestro aniversario pedimos una tarta tibia de chocolate que mas que un postre parecia un monumento, no contentos con esto nos agasajaron con otro postre (taten de frutos rojos) y nos convidaron finalmente con dos copas de champagne.La verdad es que la atencion de c/u es supremamente esmerada, el lugar es magico e ideal para festejos de este tipo. Excelente !!!"
+    }, 
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "noradebartolo", 
+      "text": "El lugar es incre\u00edble pero la comida no logr\u00f3 sorprenderme. No me pareci\u00f3 nada del otro mundo."
+    }, 
+    {
+      "date": "13 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Caroline77", 
+      "text": "Fuimos a festejar nuestro aniversario y cumpli\u00f3 con nuestras expectativas. La comida \"exquisita\".\r\nPara pasar un momento especial, super recomendable !!!"
+    }, 
+    {
+      "date": "21 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Plui", 
+      "text": "Muy buena atencion, la variedad de tapas muy buenas y ricas. Nos invitaron 2 copas de vinos. Imperdibles las trufas de chocolate que acompa\u00f1an el cafe y el tasting dee postres."
+    }, 
+    {
+      "date": "20 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "clumar", 
+      "text": "Amplia variedad para comer; sin embargo, las entradas d\u00e1n la impresi\u00f3n que no es todo fresco, algunas cosas se ven como de d\u00edas anteriores. El buffete de postres, bastante inc\u00f3modo para servirse, coloc\u00e1ndolos sobre copas y vasos con agua de color, en un mueble con repisas de vidrio; muestras de postres, que parecen viejos y poco apetesibles. No recomendable el buffet de medio d\u00eda."
+    }, 
+    {
+      "date": "4 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "any", 
+      "text": "Excelente la comida y la atenci\u00f3n. Muy bueno el lugar aunque algo ruidoso.\r\nNos invitaron el vino de una bodega de primer nivel asi que lo recomiendo"
+    }, 
+    {
+      "date": "7 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "drk", 
+      "text": "Baj\u00f3 la calidad de la comida y subieron enormemente los precios. Si tuviera que opinar por la relaci\u00f3n calidad-precio, dir\u00eda que es muy malo. Cambi\u00f3 para peor."
+    }, 
+    {
+      "date": "3 Sep 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fernando8", 
+      "text": "La presentaci\u00f3n de los platos es tal vez la m\u00e1s trabajada de Buenos Aires, el\r\nservicio debe mjorar a\u00fan m\u00e1s. Imperdible el rissotto con cordero."
+    }, 
+    {
+      "date": "2 Sep 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sababa", 
+      "text": "Casi toda la comida estuvo muy buena pero el pollo Thaine estaba duro y seco. La sopa de langostinos a pesar de ser muy rica me cay\u00f3 muy mal.\r\nTodos los platos estan muy bien presentados, el ambiente es todo lo que uno puede esperar en un restaurant de lujo en un Hotel de este tipo.\r\nEl servicio muy deficiente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MatiasL", 
+      "text": "Pagar caro pero muy bien es una combinacion que no se da siempre, aca paso.El pulo de entrada y la merluza negra de 2 plato estan excelentes."
+    }, 
+    {
+      "date": "23 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "NICODEBOSCH", 
+      "text": "Es un lugar hermoso, c\u00e1lido, atenci\u00f3n perfecta, comida inmejorable, precio l\u00f3gico"
+    }, 
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ser14", 
+      "text": "La atenci\u00f3n realmente muy buena atentos a cada necesidad del cliente, la calidad de la comida excelente aunque tarda un poco en llegar a la mesa, el lugar bonito aunque algo impersonal  de todos modos muy tranquilo y permite disfrutar de la cena sin el bullicio de otros rest\u00f3. El valor acorde a la categor\u00eda, para ir en situaciones especiales."
+    }, 
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mongue21", 
+      "text": "Fuimos con mi se\u00f1ora  un jueves. Es un t\u00edpico restaurante de hotel 5 estrellas. Muy lindo todo el ambiente, con muy poca gente cenando. El men\u00fa es peque\u00f1o, pero los platos eran excelentes. Todo muy bueno, coronando con postres excepcionales y muy bien presentados. Los precios son bastante altos, con um promedio de $ 100 cada uno. El vino mas econ\u00f3mico estaba a $ 125 la botella, y la copa $ 40/55. Es muy recomendable para algo especial en donde se pueda afrontar una cena de alrededor de $600/700 (2 personas). El Valet Parking te lleva al aun estacionamiento que hay que pagar aparte"
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "matiasnesi", 
+      "text": "Excelente el lugar, digno de un hotel como el Four Seasons. Atenci\u00f3n impecable, comida buen\u00edsima y el ambiente 10 puntos para ir en pareja."
+    }, 
+    {
+      "date": "29 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Adalberon", 
+      "text": "Este a\u00f1o tiene nuevo cheff y se nota (para bien). El men\u00fa tiene un sector \"parrilla\" para extranjeros. Del sector gourmet:Excelentes ensalada tibia de pulpo, at\u00fan rojo en su punto, y bud\u00ecn de coco. Muy buenos la ensalada de gravlax y los ravioles de conejo. El servicio tiene un estilo decontract\u00e9 sin llegar a informal.. Proveen lo que se necesita sin ser detallista (no siempre llenan las copas de vino). El ambiente es de hotel internacional, con ba\u00f1os impecables. Descuento de 20 % con La Naci\u00f3n. Una novedad simp\u00e1tica: dos horas de estacionamiento gratis, con valet parking."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ramsy", 
+      "text": "Realmente uno de los mejores lugares de Buenos Aires para cenar en pareja. Lo hace el lugar en si, su ambientaci\u00f3n. Una esmerada atenci\u00f3n en todo . Panera : no debe haber otra igual!. La comida excelente a precios justo y acordes a entorno."
+    }, 
+    {
+      "date": "12 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cachi", 
+      "text": "Excepcional comida y servicio."
+    }, 
+    {
+      "date": "27 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luzie", 
+      "text": "Muy bueno r,realmente vale la pena ir y ni que hablar si tenes la targ.de la nacion que te hacen un 20% de descuentos ,comimos  de entrada unas mollejas crocantes espectaculares,ensalada gravlax,plato principal merluza negra con un pure de zanahoria con un perfume de mandarina que es una experiencia superior, de postre como un volcan de coco con helado y unos pedazos de ananaperfumados con cardamomo uhhhhhhhhhhy .vayan."
+    }, 
+    {
+      "date": "23 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CrazyHorace", 
+      "text": "Excelente! Merecida calificaci\u00f3n. Un lugar para ir en pareja o sorprender a tu invitado. Esmerada y correcta atenci\u00f3n. Lugar tranquilo y agradable. Buena relaci\u00f3n calidad-precio. Al menos una vez ten\u00e9s que ir. 100% recomendado!"
+    }, 
+    {
+      "date": "11 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "FLAKY2011", 
+      "text": "excelente todo!. El lugar exquisito. Una atenci\u00f3n destacada y los platos impecables. La panera digna de destacar por su originalidad. un lugar ideal para pasar una velada \u00fanica , vuelvo sin dudar!!!"
+    }, 
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jbertellotti", 
+      "text": "La comida,la atencion y el ambiente excelentes,de 8 personas ,todos salimos encantados,la carta de vinos me parecio que estaba remarcada excesivamente(x 3 del precio. De vineria)lo que hace por 6 del precio de compra del restaurant.\nDe todas formas la relacion precio calidad general  es excelente\nSin dudas lo adoptare como uno de los habituales."
+    }, 
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ALenOleo", 
+      "text": "Ambiente agradable y refinado... silencioso para disfrutar un grato momento en pareja o en familia. Servicio cordial y atento. La comida, exquisita y de presentaci\u00f3n \u00fanica! Le Mistral super\u00f3 nuestras espectativas y cumpli\u00f3 con el objetivo de la noche... la alegr\u00eda de mi abuela en el festejo de sus ochenta y tantos.. Gracias!"
+    }, 
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Indementicabile", 
+      "text": "Excelente atenci\u00f3n en un ambiente intimo y que permite conversar. Las presentaciones de las entradas y los platos son excelentes. Nos prepararon un postre que no figuraba en lista."
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "florl", 
+      "text": "Excelente esperiencia. El lugar hermoso, la atenci\u00f3n espectacular y la comida inmejorable. para recomendar y volver!!"
+    }, 
+    {
+      "date": "25 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gastonfan", 
+      "text": "Excelente en todo sentido. Los platos espectaculares con combinaciones muy originales del chef, con una carta completisima. El servicio muy cordial. El lugar es hermoso. Que mas? 100% recomendado."
+    }, 
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MgabrielitaC", 
+      "text": "La comida fue de un nivel superlativo, as\u00ed como la atenci\u00f3n. Tanto el mozo, como la maitre, estuvieron pendientes del servicio, sin ser cargosos. El postre lo ordenamos seg\u00fan sus recomendaciones y super\u00f3 ampliamente nuestras expectativas. El detalle a resaltar fue el petit four de algod\u00f3n de az\u00facar, chocolates y frutas secas con el que nos invitaron antes del postre. En resumen, si est\u00e1n buscando un restaurant con un ambiente \u00edntimo, una carta con opciones variadas y a un precio razonable esta deber\u00eda ser su elecci\u00f3n."
+    }, 
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "La calidad del Four Seasons se destaca en todos los aspectos: la decoraci\u00f3n del ambiente impecable en compos\u00e9 con la vajilla, la atenci\u00f3n excelente cuidando hasta el m\u00e1s m\u00ednimo detalle, siempre con una sonrisa y una cordialidad extrema, la calidad de los productos, la elaboraci\u00f3n de los riqu\u00edsimos platos, la originalidad de la presentaci\u00f3n de la panera y del plato de petit furs... Todo excelente!"
+    }, 
+    {
+      "date": "28 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "josepino", 
+      "text": "Grata sorpresa! El servicio atento ,bien dispuesto, y el ambiente relajado predisponen a la comida. Los panes artesanales presentados en una tabla vertical es una novedad.El vacio Kobe impecable y sabrosisimo, y la pasta a punto con verdaderos langostinos.Los precios no son excesivos por la calidad del restaurante, los hay mas caros por menor desempe\u00f1o.Para regresar."
+    }, 
+    {
+      "date": "8 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ArielC", 
+      "text": "El ambiente es muy agradable y justo para una cena de a dos sin caer en algo totalmente rom\u00e1ntico (no lo descarto como opci\u00f3n para ir en grupo). Los platos tienen la medida justa sin caer en porciones extremadamente peque\u00f1as cuando uno sigue un men\u00fa de 3 platos queda totalmente satisfecho. Las opciones son originales, la bondiola marinada con salsa de langostinos y el volcan de chocolate fueron excelentes. Definitivamente lo recomendar\u00eda."
+    }, 
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Andie", 
+      "text": "El men\u00fa de San Valent\u00edn mas en precio de la ciudad. Ceviche de salm\u00f3n y vieyras, una delicia. Sopa fr\u00eda de palta y lima, la suavidad y cremosidad en verde con ma\u00edz peruano crocante, buena combinaci\u00f3n. Lomo con pur\u00e9 de zanahorias con jengibre muy bueno. Sorbete de rosas para despertar al paladar y de postre un mini volc\u00e1n de chocolate con helado de champagne. Tragos como siempre excelentes, atenci\u00f3n de primera, poema de amor, una rosa, brindis con champagne, bombones de chocolate exquisitos y la suma da una noche perfecta incluyendo el precio. Yo me anoto para el 2011!"
+    }, 
+    {
+      "date": "12 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elmarce", 
+      "text": "Ahora tienen un descuento con el carnet de La Nacion y ademas una lista de vinos de primera calidad con el 50% de descuento.  Por lo tanto la relacion calidad precio es muy buena. Considero que pocos lugares tienen un ambiente tan elegante y una atencion tan diligente."
+    }, 
+    {
+      "date": "23 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carola63", 
+      "text": "El restaurant es excelente en todos los aspectos, la comida, el servicio, y el ambiente, que se destac\u00f3 a\u00fan m\u00e1s esa noche que coincidi\u00f3 con una \"cena a la luz de las velas en defensa del planeta\" creando un ambiente rom\u00e1ntico inigualable. La carta de vinos sublime."
+    }, 
+    {
+      "date": "15 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Andie", 
+      "text": "Excelente la comida y la atenci\u00f3n, mucha simpat\u00eda y toda la voluntad del mundo para dar satisfacci\u00f3n a nuestros deseos, un placer ver gente tan motivada, tan orientada a la atenci\u00f3n del cliente. Ricas tapas, fiambres excelentes. Ojo de bife tierno, cocci\u00f3n exacta, ossobucco maravilloso, tragos perfectos, pancitos hiper tentadores, y champagne y bombones invitaci\u00f3n de la casa. Ambiente agradable, mesas separadas, se puede conversar o tener una velada rom\u00e1ntica, buena relaci\u00f3n precio/calidad y de yapa, tango en vivo en el bar. Nos gust\u00f3, volveremos."
+    }, 
+    {
+      "date": "13 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "robertinomarino", 
+      "text": "la verdad que la relaci\u00f3n precio calidad me pareci\u00f3 excelente. Es un lugar donde la atenci\u00f3n y el men\u00fa se llevan todos los laureles.\r\nsaludos\r\ngracias"
+    }, 
+    {
+      "date": "6 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Clau1507", 
+      "text": "Fuimos al mediod\u00eda, inmejorable la atenci\u00f3n y la calidad de la comida. Es caro, pero realmente vale la pena visitarlo."
+    }, 
+    {
+      "date": "11 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pela71", 
+      "text": "Excelente ambientacion, servicio impecable. Las tapas abundantes y una gran variedad. Los principales en su punto justo. La degustacion de postres muy buena tambien. Desde el staff, pasando por la ambientacion y la materia prima de los productos, Le Mistral supero mis expectativas. Vale la pena conocerlo. La carta de vinos muy variada. El precio mas que razonable dada la excelente calidad del lugar. Si lo conocen, seguro vuelven (y lo recomiendan)."
+    }, 
+    {
+      "date": "14 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "conde", 
+      "text": "Las tapas son imaginativas y vienen en raciones abundantes, tal vez demasiado, aunque no todos los sabores est\u00e1n conseguidos por igual. \r\nEl cordero en muy buen punto, muy jugoso, tal como lo hab\u00edamos solicitado. Correcto el servicio, aunque algo insistente de mas. La bodega. \r\nLo peor a mi juicio: vinos mal seleccionados y no muy bien aconsejados."
+    }, 
+    {
+      "date": "20 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marianoff", 
+      "text": "Lo elegimos para celebrar un aniversario y realmente no nos equivocamos. La ambientaci\u00f3n supera con creces la expectativa que uno puede tener respecto de un restaurante de un hotel cinco estrellas; el servicio est\u00e1 a cargo de gente joven pero super eficiente; y la comida est\u00e1 a la altura del lugar. Para completar una noche especial: el chef Matthias Zumstein vino a saludarnos a la mesa y nos trajo dos copas de champagne -vale decir que en total fueron cuatro copas y una torta de invitaci\u00f3n por parte de la casa-. En pocas palabras, pasamos una noche inolvidable y, en gran medida, fue gracias a la gente de Le Mistral. Absolutamente recomendable para momentos de \u00edntima celebraci\u00f3n."
+    }, 
+    {
+      "date": "5 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lennon", 
+      "text": "debo admitir que en la anterior oportinidad no me sent\u00ed c\u00f3modo, pero ahora algo hizo cambiar mi opini\u00f3n, todo muy diferente, hasta la diferente ambientai\u00f3n e iluminaci\u00f3n fue favorable, todo muy bi\u00e9n."
+    }, 
+    {
+      "date": "21 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lennon", 
+      "text": "La comida es de muy buena calidad, lo mismo la atenci\u00f3n: joven y eficiente. L\u00e1stima la ambientaci\u00f3n del restaurante, no corresponde con un cinco estrellas, ya que hay bastante para mejorar. Fui gracias a una promoci\u00f3n de norton, creo de otro modo no ir\u00eda. Agradable la confiter\u00eda."
+    }, 
+    {
+      "date": "13 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "VIAJERO", 
+      "text": "Muy buena comida. El men\u00fa es amplio, de buena elaboraci\u00f3n. El servicio es joven y  eficiente. El ambiente es parecido a un hotel de lujo, pero podria ser mejor. Los precios son altos."
+    }, 
+    {
+      "date": "27 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jsegura", 
+      "text": "Muy buena la comida acompa\u00f1ada por el vino DV Catena Malbec - Malbec 2002. \r\nSon platos complejos, pero vale la pena animarse a probarlos as\u00ed como el gasto. \r\nFui despu\u00e9s de las 11:00 pm con lo cual no hab\u00eda casi nadie y el servicio fue muy eficiente."
+    }, 
+    {
+      "date": "4 Sep 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ochoa111", 
+      "text": "Tomando en cuenta que se posicionan como un lugar muy exclusivo, generan una expectativa que no es alcanzada por la percepci\u00f3n. Uno esperar\u00eda la excelencia en todos los aspectos y en mi opinion solo es casi alcanzada en la comida."
+    }
+  ]
+}

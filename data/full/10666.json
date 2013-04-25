@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Andy88", 
+      "text": "Un restaurante que miente sobre lo que ofrece no va.\r\nVend\u00edan la chicha morada como una bebida natural y no era mas que una bebida artificial, esas en polvo tan populares en Peru tambi\u00e9n. 30 pesos la jarra de litro.\r\nEntonces me quedo la duda si en realidad usaron Mero, o si en realidad usaron lomo.\r\nLa comida de saz\u00f3n no estuvo buena.\r\nPedimos un lomo saltado muy regular, las papas fritas muy feas.\r\nLos platos son abundantes pero el sabor no es nada relevante.\r\nEl ambiente tampoco me gusto y la m\u00fasica tecno a todo volumen no es mi preferida\r\nNo volver\u00e9,y no lo recomendar\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Maxbleukim", 
+      "text": "Es un restaurant peruano muy lindo y limpio, la comida es t\u00edpica, muy delicioso todo lo que hacen, recomiendo el chicharr\u00f3n de pollo, aji de gallina y las tablas variadas de degustaci\u00f3n que tienen. Los due\u00f1os del lugar est\u00e1n en la caja y son muy amables. Los precios son normales y acorde a lo que ofrecen."
+    }, 
+    {
+      "date": "14 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "miquele1948", 
+      "text": "Si bien la comida  fue buena, no puedo recomendarlo.  Muy mala la relaci\u00f3n calidd-precio y muy - demasiado - corta la carta de vinos, pr\u00e1cticamente limitada a la bodega San Huberto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "AdaB", 
+      "text": "Excelente lugar para los amantes de la comida peruana. Volvimos hace poco de Lima y la comida de Nazca nos hizo acordar a la aut\u00e9ntica peruana. Buena relaci\u00f3n precio/calidad y una c\u00e1lida atenci\u00f3n."
+    }, 
+    {
+      "date": "12 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "FernandoMR", 
+      "text": "Excelente comida y servicio. El mozo fue de lo mas amable y atento con toda la mesa. Una atenci\u00f3n que no se suele ver hoy en d\u00eda."
+    }
+  ]
+}

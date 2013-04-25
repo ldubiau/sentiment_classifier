@@ -1,0 +1,528 @@
+{
+  "malos": [
+    {
+      "date": "22 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Patan75", 
+      "text": "Me defraudo , lo primero fue el clima bastante apagado.Nos recibio el mozo con unos panes y aceite de oliva hasta hora bien, luego siguio con la ensalada donde prevalecia el sabor al queso , el vino bien para este plato,  continuamos con los medallones de lomo que primero se hab\u00edan pasado y en el cual prevalecia el salado horrible y por ultimo pensaba un final feliz pero era una tarta cortada en tri\u00e1ngulo con una bocha de helado.No vale el precio de lo que pagamos."
+    }, 
+    {
+      "date": "17 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "rag11", 
+      "text": "Mucho menos de lo que esperaba. La ambientacion es pobre y poco cuidada, de alguna manera presagia lo que sucedera despues. La comida es a lo sumo regular y si tenemos en cuenta el rango de precios y la modalidad ea directamente mala. Los platos. sin imaginacion y mal confeccionados, hasta tuvimos que mandar a calentar el plato principal. Eramon 6 a nadie le gusto, Obviamente no volvere."
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "flotando", 
+      "text": "Una gran desilucion.\r\nLa comida muy floja,\r\nLa sopa de cebollas sin gusto, los ravioles servidos estaban salados,crudos y frios. El postre con peras sin madurar\r\nTodo presentando sin esmero ni imaginacion.\r\nEl ambiente no condice con el sitio web. El lugar es triste y sin ninguna propuesta."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Dadelos2004", 
+      "text": "Nos tent\u00f3 el men\u00fa del d\u00eda y no nos defraud\u00f3. El sal\u00f3n no tiene mucha gracia (me mat\u00f3 que las sillas del nombre fueran de algarrobo), pero la comida es rica y la atenci\u00f3n amable. Una grata experiencia."
+    }, 
+    {
+      "date": "27 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "drupi", 
+      "text": "Es un grato lugar para ir relajado, sin tener que pensar qu\u00e9 platos elegir porque la propuesta del lugar es la de un men\u00fa por pasos que invita a que el comensal descubra los sabores que el chef propone para su degustaci\u00f3n. En uno  de los pasos no fue feliz la elecci\u00f3n del maridaje con el vino, \r\nEs una experiencia recomendable y original."
+    }, 
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Ebar", 
+      "text": "No es f\u00e1cil quedar satisfecho para los que conocemos algo de cocina. Mas este lugar, sin pretensi\u00f3n alguna, logra satisfacer el paladar con excelentes materias primas y propuestas sencillas. En esta oportunidad: carpacho de lomo, sopa de cebollas, un original risotto, y un escueto pero magnifico brownie de chocolate con sorvette de mandarina. Destacable la atenci\u00f3n. Recomendable."
+    }, 
+    {
+      "date": "28 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "laura1977", 
+      "text": "El men\u00fa consta de 4 pasos. Me gust\u00f3 aunque sin ser exepcional. La comida abundante aunque a mi parecer le falt\u00f3 algo de innovaci\u00f3n en los platos, servicio y ambiente correcto.\r\nComimos pat\u00e9 de foie, ensalada calabaza, cazuela de cerdo  (algo recargada) y tiramis\u00fa. de chocolate blanco (muy rico)."
+    }, 
+    {
+      "date": "28 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "PabloMi", 
+      "text": "Fui con mi pareja, cenamos en el patio nos toco una excelente noche, con ambientacion colonial, una casa donde desde la calle no se sabe que es un restaurant, hasta el ba\u00f1o tiene ba\u00f1era y bidet creando la sensacion de comer en la casa de un amigo. Un lugar preparado para pocas personas con atencion muy buena y cordial. El menu es fijo y no incluye vinos, si agua y gaseosa libre. Por el puntaje de la guia fui con muchas espectativas de la comida la cual no alcanzo a cubrirlas. El pan parecia humedo del dia anterior, y el arroz del risotto estaba \"al dente\" por demas. Lo mejor la privacidad."
+    }, 
+    {
+      "date": "8 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Chonta", 
+      "text": "La comida era aceptable, aunque no muy sofisticada. Demasiado cocido el ojo de bife para mi gusto. Lo que me pareci\u00f3 inadmisible fue el aroma a comida reinante en el ambiente. Detesto irme con olor a churrasco. Me decepcion\u00f3. No volver\u00e9 ni lo recomiendo."
+    }, 
+    {
+      "date": "17 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "silos", 
+      "text": "Lugar muy intimo. Lindo y distinto"
+    }, 
+    {
+      "date": "7 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maraque", 
+      "text": "el precio total fue 150 incluyendo una degustacion de espumantes que variaba con cada plato. Excelente!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Leodehaedo", 
+      "text": "Muy buena experiencia la de Treinta Sillas. Muy buen servicio, ambiente agradable y muuuy buena cocina!!"
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Naster", 
+      "text": "Volvimos con mi esposa y comimos de maravillas. La comida rica, creativa y abundante. La carta de vinos bastante acotada, pero con bodegas chicas con buenos ejemplares. No dejen de probar este lugar ... ideal para ir con tu pareja y poder charlar mientras disfrutan de una MUY buena comida. Gracias y volveremos!!"
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nebrija", 
+      "text": "Como siempre Ezequiel Gallardo te sorprende con distinguidos sabores y una atenci\u00f3n muy esmerada. Excelente carta de vinos, peque\u00f1a pero selecta. Todos los platos estaban exquisitos y con la medida justa. El ambiente muy bien climatizado a pesar de haber comido en la galer\u00eda del fondo. Se nota una vocaci\u00f3n muy esmerada en todo lo que hacen. Muy recomendable la experiencia de comer en Treintasillas. Es la segunda vez que vamos y siempre muy satisfechos."
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Camiles", 
+      "text": "Fuera de serie gracias a lo \"simple\" de la propuesta y el resultado final que logran estos chicos. La comida? Sin secretos, buenos productos, bien tratados con toques gourmet, listo. El servicio muy atento, el lugar calido, con onda. Vayan"
+    }, 
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "telramud", 
+      "text": "Cocina de buen nivel; platos sencillos, con equilibrio de sabores y t\u00e9cnica. Inclinarse por una alternativa a \"puertas cerradas\" no implica s\u00f3lo la b\u00fasqueda de intimidad, tambi\u00e9n genera expectativas especiales para el paladar. La propuesta fijada (men\u00fa de 4 pasos que var\u00eda semana a semana) me tent\u00f3 y cumpli\u00f3 con las esperanzas. El amuse-bouche (roll crocante de cerdo, con salsa de paltas), excelente precalentamiento para las papilas. Carpaccio de lomo incuestionable; risotto con pesto de r\u00facula, jam\u00f3n crudo y langostinos, bien logrado en textura y gusto. La sopa crema de cebollas no sobresali\u00f3, pero tampoco me sent\u00ed defraudado. Agradable el sorbet de mandarinas sobre biscuit de chocolate. Servicio y ambiente b\u00e1sicos (la est\u00e9tica es discutible, aunque no la higiene ni prolijidad). Atenci\u00f3n amena y correcta. Acotada, aunque interesante oferta de vinos. Excelente ecuaci\u00f3n precio/calidad. Ninguna mancha que impida repetir la experiencia."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Campalito", 
+      "text": "Gran lugar, a pesar de ser chico! La comida es muy rica y el servicio s\u00faper personalizado, esa creo es la gran diferencia con el resto. Muy buenos los vinos q encontr\u00e9 ah\u00ed y muy bueno el patio para tomarse un whisky pos cena o fumarse un habanito."
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Paraiso79", 
+      "text": "Maravillosa la comida y la atencion. El ambiente simple pero muy calido hacen que todo cierre a la perfeccion. Lo simple y bueno es lo mas dificil de conseguir y estos chicos lo lograron"
+    }, 
+    {
+      "date": "2 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Naster", 
+      "text": "La verdad que vale la pena pagar para comer asi. Los platos exquisitos, bien presentados y explicados por el chef. Rico y para salir con la panza llena.\r\nEl ambiente es super tranquilo, 5 mesas y buena musica. Cambiaria la ambientaci\u00f3n, pero como esta ahora le da un toque familiar.\r\nSin dudas volvere."
+    }, 
+    {
+      "date": "14 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tentisimo", 
+      "text": "Fuimos para San Valentin y la pasamos increible!, que buen lugar!, muy tranquilos, comimos un menu de 4 pasos que para esa fecha incluia espumante, vino y vino dulce para el postre. Super atentos en todos los detalles, los chios de ahi, nos hicieron sentir fantastico. Volvere sin dudas."
+    }, 
+    {
+      "date": "11 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nebrija", 
+      "text": "El lugar es muy acogedor, lindo ambiente y bien preparado para un restaurante tranquilo y donde comer y degustar vinos se transforma en un placer. Te recibe Ezequiel Gallardo, el chef propietario y luego te va sirviendo los platos que va haciendo. Comimos un men\u00fa especial de 4 pasos con vino incluido. El chef luego te va consultando como va todo y est\u00e1 muy predispuesto para hablar de la comida y comentar distintas an\u00e9cdotas de su experiencia culinaria. Excelente en todo sentido. Sabores muy bien logrados. Se nota su experiencia y destreza con la cocina. Buen servicio. Muy recomendable."
+    }, 
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eugele", 
+      "text": "Fuimos 2 parejas y realmente que nos parecio un lugar magico. Super intimo con un ambiente muy calido, una atencion cuidada y lo principal, la comida fantastica. Cenamos en el salon y despues nos tomamos unos tragos en patio colonial de atras. Gran propuesta."
+    }, 
+    {
+      "date": "20 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nonstop09", 
+      "text": "Que buena onda un lugar como ese! fue la primera vez que fuimos a un puertas cerradas y resulto una experiencia maravillosa. La comida estuvo increible y nos encantan los menues de pasos.\r\nEsperamos volver pronto"
+    }, 
+    {
+      "date": "6 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "giuse75", 
+      "text": "Gran lugar, el menu de pasos era delicioso. Nos encanto la atencion de las chicas y que nos inviten a comer el postre en el patio que tienen. Es hermoso. Fue toda una experiencia."
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dani79", 
+      "text": "Que buena propuesta, al fin algo distinto. Desde el, el servicio y la comida, todo fue super impecable. La gente del lugar es divina, muy agradables. Las chicas que atienden siempre estan pendientes de uno. El chef, muy macanudo. Comimos en un patio increible, la noche fue perfecta."
+    }, 
+    {
+      "date": "30 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chichenow", 
+      "text": "Nos encontramos con un menu de pasos con maridaje que estuvo increible. Todo muy cuidado, fue un verdadero placer. Mucha onda el patio de atras para tomar tragos y fumarse un habano."
+    }, 
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rrabbit", 
+      "text": "Simple, gustoso, impecable. Que mas?, una noche perfecta. Comida en su punto, servicio super amable y un ambiente calido. Ideal. No dejen de ir"
+    }, 
+    {
+      "date": "7 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "vero1000", 
+      "text": "El menu de pasos estuvo excelente. El servicio muy bueno.El lugar muy bueno, tal vez faltaria un poco de luz\r\nEs altamente recomendable"
+    }, 
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "delo79", 
+      "text": "Buen menu de pasos !, fui con mi novia y quedamos encantados. Es una excelente opcion romantica o para ir con grupos de amigos para estar tranquilos. Lindo ambiente, personal servicial y comida impecable."
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mjacobs", 
+      "text": "Men\u00fa de la noche de 4 pasos. Todo muy rico, la atenci\u00f3n excelente y muy personalizada. El chef salio varias veces a preguntar como nos gustaba. Muy buenos vinos a buenos precios."
+    }, 
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yene78", 
+      "text": "Un buen lugar para descubrir, ambiente simle y calido y una comida que es muy buena. Nos toco un menu de 4 pasos realmente rico, es una excelente alternativa ante tanta oferta parecida."
+    }, 
+    {
+      "date": "16 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "laserva", 
+      "text": "Fuimos por unos amigos que ya lo conocian y la verdad que nos sorprendio. Super calido el ambiente y el personal. La comida estuvo increible y los vinos que nos recomendo el cocinero estuvieron fantasticos. Un lugar para pasar un buen rato."
+    }, 
+    {
+      "date": "6 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hot76", 
+      "text": "Fuimos porque vinos que armaron una degustacion de pasos con 5 vinos diferentes. Fue un momento extraordinario. Buena comida con buenos vinos en un ambiente calido y gente muy amena. Que rico el solomillo con el syrah !, gran combinacion."
+    }, 
+    {
+      "date": "5 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maddie", 
+      "text": "Esta muy bien puesto, la atenci\u00f3n es incre\u00edble. Todo el servicio es muy personalizado y estan todo el tiempo atentos a lo que uno necesita. La comida fue deliciosa y las porciones justo lo que uno necesita comer para saciar las ganas de seguir comiendo algo exquisito, no quedarse con hambre y poder seguir comiendo el plato que falta. La carta de vinos es muy buena y con muy buenos precios. Un lugar que no dudar\u00eda en recomendar para una ocasi\u00f3n especial!"
+    }, 
+    {
+      "date": "17 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "compumas", 
+      "text": "Un lugar para descubrir, nos encanto el ambiente y la onda de la gente. La comida fue muy buena, una bondiola de cerdo que era lo mas tierno que probe en mi vida y de postre nos comimos una mousse de chocolate y manteca de mani que era increible. Que buen momento pasamos. Volveremos sin lugar a dudas"
+    }, 
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jujogal", 
+      "text": "Hemos ido a varios lugares como estos \"puertas cerradas\" pero la verdad que este nos parecio el mejor. Tiene esa ambiguedad de estar en la \"casa\" de alguien pero con un servicio muy cuidado y una calidad de comida unica. Es divino el lugar. Valio la pena."
+    }, 
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "negrobarman", 
+      "text": "Este lugar es encantador! Que bueno el menu de pasos, nos toco un carre de cordero marinado en un curry casero que estaba impresionante. Y tambien comimos una original torta de chocolate con chiles. Muy buenas las opciones en vinos, tenian de todo. El camarero fue muy atento y el chef nos recibio de maravillas. Nos encanto la propuesta."
+    }, 
+    {
+      "date": "18 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "berna46", 
+      "text": "Llegamos ahi por los comentarios que vimos del lugar. Es una joya afuera de los tipicos circuitos gastronomicos. Vale la pena cambiar un poco. Fuimos sin saber lo que ibamos a comer y salimos fascinados por los sabores y la presentacion de los platos. Nos encanto el quincho con parrilla que tienen atras! muy bueno para hacer asados con amigos."
+    }, 
+    {
+      "date": "12 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "reina20", 
+      "text": "Fuimos a pesar de algunas criticas no muy felices que vimos. Sinceramente o fuimos a otro lugar o han cambiado radicalmente. La comida es de lo mejor que probamos en Buenos Aires y el ambiente es super calido, tanto como su cocinero y camareros. Gran lugar."
+    }, 
+    {
+      "date": "12 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "danialon", 
+      "text": "Que lindo momento nos hicieron pasar los chicos de este lugar! pasamos un aniversario perfecto ! el mero con papas y mascarpone era impecable, muy originales los pancakes de coco y los vinos que nos recomendaron cerraron una velada para el recuerdo.Nos encanto poder comer el postre en patio, es precioso!. La atencion fue muy correcta y calida."
+    }, 
+    {
+      "date": "27 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dantodo", 
+      "text": "Que linda experiencia !!, buena comida, lindo lugar y excelente musica !! muy buena seleccion de soul y jazz. El risotto que que comi era increiiiible y ni hablar del souffle de dulce de leche que me dejo sin palabras.\r\nSuper recomendable"
+    }, 
+    {
+      "date": "30 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "susy65", 
+      "text": "Una experiencia buenisima. Eramos 2 parejas y todos quedamos conformes. El punto del salmon, excelente y el postre fue lo mejor de todo. Muy buena atencion y nos encanto que el chef nos explique cada paso."
+    }, 
+    {
+      "date": "30 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rubcat", 
+      "text": "Un lugar totalmente diferente, buena comida, buen ambiente, gente muy atenta para atender. Me encantan los menues de pasos, toda una experiencia!"
+    }, 
+    {
+      "date": "9 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "esp10", 
+      "text": "Fuera de lo comun !! somos de Espana y nos los habia recomendado un amigo argentino. La verdad que fue todo una gran sopresa.Muy bueno, cuando estemos por Buenos aires de nuevo, volveremos."
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Micenas", 
+      "text": "la comida es excelente, sin palabras; las porciones, si bien no son grandes, al ser 3 pasos uno queda m\u00e1s que satisfecho, de hecho tuve que hacer un esfuerzo para comer el tentador postre. El servicio es muy personalizado y se ocupan de que uno est\u00e9 a gusto y disfrute de cada paso. El ambiente es muy prolijo, pero bastante sencillo, no es acorde al nivel de la comida."
+    }, 
+    {
+      "date": "30 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "kika_sil", 
+      "text": "La comida excelente, mor\u00ed con el soufle de puerros\r\nPara repetir"
+    }, 
+    {
+      "date": "4 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ve78", 
+      "text": "Me encanto el lugar !! un casa barrio de afuera y adentro la sorpresa de un lugar divino !! la comida acompano totalmente la velada. Volveria"
+    }, 
+    {
+      "date": "20 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "abu45", 
+      "text": "La comida me encanto, fue mas de lo que me esperaba. Platos simples pero con gustos fuera de serie. Altamente recomendable. Es una esxperiencia distinta. Me gusta la idea del menu de pasos, para nosotros funciono. Volveremos"
+    }, 
+    {
+      "date": "28 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ezanardi", 
+      "text": "El lugar me encanto, la atenci\u00f3n fue muy buena, platos sabrosos, muy bien presentados..El postre era espectacular, era como una  bomba de diferentes chocolates.."
+    }, 
+    {
+      "date": "11 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Talento", 
+      "text": "Ideal para cenar con absoluta discresi\u00f3n.\r\nUn ambiente \u00edntimo pero agradable.\r\nMuy recomendable"
+    }, 
+    {
+      "date": "8 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Baldi", 
+      "text": "La comida me parecio exquisita, una mezcla de sabores perfecta.\r\n\r\nEl servicio me parecio muy bueno, siempre atentos a la necesidad de cada mesa.\r\n\r\nEl ambiente propicio con buena musica de fondo y la tranquilidad necesaria para poder disfrutar de la comida."
+    }, 
+    {
+      "date": "19 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sandrodeamerica", 
+      "text": "el menu consiste en 5 pasos o sea incluyen postres y bebidas sin alchol los vinos son abuen precio con una carta peque\u00f1a pero buena"
+    }
+  ]
+}

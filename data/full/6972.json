@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "3 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "LaYolideloeste", 
+      "text": "Realmente mal\u00ed sima la atenci\u00f3n, la comida. Sinceramente creo que deber\u00edan mejorar much\u00edsimo la atenci\u00f3n y algunos costos."
+    }, 
+    {
+      "date": "27 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mamonec", 
+      "text": "P\u00e9sima atencion, camarero maleducado, cero simpatia, cero amabilidad, parecia como que me estaba haciendo un favor al atenderme, la ambientacion de una tipica pizzeria y minutas, nada sobresaliente y la comida: Comun... La Diva... de diva no tiene nada"
+    }, 
+    {
+      "date": "9 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "blopaul", 
+      "text": "el lugar en si no es malo pero es una confiteria de lujo y nada mas. Las comidas que hay son tipicas (pizzas, milanesas etc etc etc) el servicio es carisimo pero dada la clase de gente que va te matan con los precios. El lugar en si es excelente ideal para tomar un cafe o un trago, algo rapido, No es especialidad la comida."
+    }, 
+    {
+      "date": "18 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "buho_TV", 
+      "text": "Ninguna visita fue satisfactoria pero hoy fue el colmo, por d\u00eda de la madre su poca variedad de carta solo fue reducida a 5 opciones (muy b\u00e1sicas)lo mas acorde y r\u00e1pido para salir de ese lugar era comer sorrentinos como se cayo mi panera esta nunca fue remplazada, la limpieza de la vajilla era pesima, copas, los platos vinieron sucios de comida anterior y lo mas parecido a las pastas era unos sorrentinos de p\u00e9sima cocci\u00f3n"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Liniang", 
+      "text": "Demasiado caro para el servicio y la comida que ofrecen. He ido muchas veces y nunca qued\u00e9 conforme. Tiene m\u00e1s nombre que otra cosa."
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ianina", 
+      "text": "Es un cl\u00e1sico para los que andamos por Ramos, muy buena la comida y el servicio. El pedido llega con rapidez a la mesa, aunque por otro lado cuando hay mucha gente se hace un poco dif\u00edcil conversar. De cualquier manera, no deja de ser una excelente opci\u00f3n para comer o simplemente tomar un caf\u00e9 durante casi todo el d\u00eda."
+    }, 
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "buba21", 
+      "text": "lindo lugar, buena atencion. muy rica las pizzas y cafe con leche y medialunas!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Flooree", 
+      "text": "Durante anos fui a la Diva, y el servicio y la comida son excelentes. DEJE DE IR POR RAZONES ECONOMICAS. Una cena en la Diva no esta $32 sino alrededor de $60\r\nLo recomiendo, tiene un espaco para cada ocasion,"
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lino45", 
+      "text": "Un lugar que aparenta ser mas una confiteria que un restaurant, pero tiene una cocina excelente, con porciones abundantes, atenci\u00f3n dedicada de los mozos y una ambientaci\u00f3n muy interesante con una sala de juegos en el piso superior con Wi instalada. Un lugar muy recomendable para comer en la Zona Oeste y a precios razonables."
+    }
+  ]
+}

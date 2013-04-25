@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "6 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "fbrugale", 
+      "text": "El lugar es realmente poco serio, fuimos a festejar fin de a\u00f1o con la gente de la empresa y a ninguno nos gusto. La comida es escasa y de mala calidad, la atenci\u00f3n muy poco profesional. Es una lastima porque el lugar fisico es agradable."
+    }, 
+    {
+      "date": "27 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "poporocks", 
+      "text": "Mi peor experiencia por lejos! La comida tardo exactamente 55 minutos en llegar a la mesa, y encima trajeron el pollo crudo! Lo volvieron a traer luego de 30 minutos mas, con un sabor espantoso y sin ningun condimento! Tuvimos que irnos sin cenar. Ademas, anunciaban un show de blues a las 21 hs (motivo de mi visita), el cual comenzo 22.35... Realmente una verg\u00fcenza!!! Una pena, porque la onda de lugar y la ambientacion son muy buenos..."
+    }, 
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "gust75", 
+      "text": "Comimos parrillada. No es buena la calidad. Los chinchulines parec\u00edan chicles, y en gral las achuras no parec\u00edan frescas. La carne dejaba mucho que desear.\r\nEl servicio en gral bien. La banda de funky muy buena. El ambiente est\u00e1 muy bien. Tiene varios sectores si no se quiere estar encima de la banda. Si mejoraran la calidad de la comida el lugar ser\u00eda ideal."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida no era muy sabrosa y las porciones chicas, habia una banda que tocaba a excesivo volumen y despu\u00e9s te daban un sobre para colaborar. Los precios mas altos de lo que dice la p\u00e1gina."
+    }, 
+    {
+      "date": "25 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lolia", 
+      "text": "Muy buen lugar. La banda me sorprendio, la pizza muy buena y el ambiente rustico mas el buen servicio cerraron el trato. Recomiendo el lugar para un domingo a la noche con buenos amigos."
+    }, 
+    {
+      "date": "5 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "emisosa", 
+      "text": "Muy lindo lugar, me han sorprendido las excelentes bandas en vivo si es que apetece un poco de BUEN blues y funk. Si bien no fui a cenar, la atencion fue buena. El ambiente muy lindo, acorde a San Telmo. Chico el lugar, pero no est\u00e1 sobre-vendido."
+    }, 
+    {
+      "date": "2 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Nycteris", 
+      "text": "Llegamos bastante, as\u00ed que pr\u00e1cticamente nos sirvieron lo que les quedaba. Teniendo en cuenta eso, la comida no estaba mal; lo que s\u00ed, hab\u00eda much\u00edsimo ruido y la atenci\u00f3n no fue muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fmaga", 
+      "text": "Muy buen ambiente y el precio es acorde a la ubicaci\u00f3n y el ambiente."
+    }, 
+    {
+      "date": "31 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ferchali", 
+      "text": "Es un lugar muy agradable, para compartir con amigos y disfrutar de muy buena m\u00fasica en vivo."
+    }, 
+    {
+      "date": "5 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gustavow", 
+      "text": "Muy buen servicio y comida de primera calidad."
+    }
+  ]
+}

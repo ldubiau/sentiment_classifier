@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "12 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "El sitio est\u00e1 muy bien puesto, mesas grandes y espaciosas en un ambiente minimo e inmaculadamente blanco, lugar tranquilo donde se puede disfrutar de una conversaci\u00f3n distendida; una atenci\u00f3n agradable que trata de complacer los desesos del cliente, una carta de vinos variada con precios moderadamente altos y oferta muy limitada de vinos de un precio inferior a $50;la calidad de la comida est\u00e1 bien, pero la cocina tendr\u00e1 que trabajar para lograr una mejor calificaci\u00f3n. De todas maneras, estimo que es un buen lugar para almuerzo en una zona de por s\u00ed altamente tur\u00edstica."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nuchi", 
+      "text": "Ya conoc\u00eda el de la calle Posadas pero este es inmejorable y mas tranquilo. Excelente servicio, muy atentos los camareros, la comida como siempre mas que buena, tanto entradas como platos principales. Siguen siendo las mejores \"cuerds de guitarra\", solo hay que recomendarlas . Para volver siempre"
+    }, 
+    {
+      "date": "23 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sigi", 
+      "text": "excelente , la verdad algo diferente en el tamano de las porciones, para mi muy bueno eso, porque soy de poco comer, pero es Piegari, que para mi es el mejor restaurante argentino"
+    }
+  ]
+}

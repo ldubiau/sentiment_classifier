@@ -1,0 +1,488 @@
+{
+  "malos": [
+    {
+      "date": "13 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ariel36", 
+      "text": "por que no avisan que cerro hace seis meses"
+    }, 
+    {
+      "date": "15 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "GOYO2309", 
+      "text": "Pro:Buena atenci\u00f2nBastones de queso venezolano muy recomendableBien la fondue. Precio adecuado.Contras:El ambiente es oscuro lo que impide ver la cartaLa fondue de carnes es de las regulares que deguste: el recipiente no calentaba el aceite y ello demoraba o directamente imped\u00eca comer. Las salsa son simple (fileto, fileto fuerte, mayonesa con aceituna, mostaza). Les recomendar\u00eca que visiten Charly Fondue en este sentido, un placer de aromas.El ambiente no cuenta con una adecuada ventilaci\u00f2n con lo cual todos salimos con un importante olor a aceite en ropas"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "chiche2", 
+      "text": "Es lindo, nos quedamos con ganas de probar las picada y volveremos. Las fondues fueron \"normales\" no wow, pero su precio asi lo indicaba como premisa. La moza la puso mucha voluntad pero demostro poca experiencia."
+    }, 
+    {
+      "date": "20 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sofia_88", 
+      "text": "agradable el lugar! muy buena atencion y la picada muy completa y la fondue muy rica!!!\r\nlo recomiendo para la familia!"
+    }, 
+    {
+      "date": "7 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Lindo lugar, sencillo pero acogedor. Fuimos bien recibidos y el servicio fue atento en todo momento. La fondue de queso es muy rica, con una buena variedad de ingredientes y la cantidad exacta para comer 2 personas bien. Pedimos un vino que \"no ten\u00edan\" y obviamente nos ofrecieron un par similares, pero m\u00e1s caros. El precio final es razonable pero no econ\u00f3mico, ya que la fondue no es un plato barato. Una pena que cobren cubierto ($5) a cambio de nada (una panera). La experiencia fue buena y para recomendar."
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "palermo71", 
+      "text": "Llegamos gracias a la guia ya que buscabamos el mejor lugar para comer Fondue y no nos defraud\u00f3. Vali\u00f3 la pena el viajecito desde Capital. Reservar y pedir las directivas para llegar facil. De entrada probamos los bastoncitos de queso y seguimos a la Fondue Premium que fu\u00e9 m\u00e1s que suficiente para 4 personas. No quisimos irnos sin probar la Fondue de Chocolate donde todos comimos con la que viene para 2 personas. Excelente atenci\u00f3n y predisposici\u00f3n. Precios accesibles. Volveremos pronto con el calorcito a probar las Picadas en el parque que est\u00e1 en el frente. Seguiremos confiando en la Guia."
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "edumen", 
+      "text": "Fuimos el sabado al mediodia y pedimos una fondue de quesos premiun. La sirvieron bien variada y abundante de verdad ya que por lo general en otros lugares la sirven muy escasa. No pueden dejar de pedir de entrada los bastoncitos de queso, son riquisimos!"
+    }, 
+    {
+      "date": "16 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MarceloJuan", 
+      "text": "La verdad que las fondue son muy buenas con una buena calidad. La carta de vino no tiene variedad de uvas y el precio es caro. El ambiente es bueno, pero le falta un poco. En definitiva una buena opcion, pero tiene que mejorar sus precios, para no ser una opcion cada tanto."
+    }, 
+    {
+      "date": "13 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Richy", 
+      "text": "Muy buena atenci\u00f3n y muy bueno el asesoramiento en cuanto a las cantidades. Las porciones eran abundantes. A mi criterio, el \u00fanico punto a mejorar ser\u00eda el de las salsas: algunas ten\u00edan muy buen sabor, pero otras dejaban bastante que desear. Un lugar para tener en cuenta."
+    }, 
+    {
+      "date": "2 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SoySibarita", 
+      "text": "Muy lindo lugar, la comida muy buena, eramos 4 y pedimos una picada Helvetia para 2 que en realidad comimos los 4 lo m\u00e1s bi\u00e9n y una fondue de queso Helvetia tambi\u00e9n para 2, que como el caso de la picada comian 4 lo m\u00e1s bi\u00e9n... inclusive no la pudimos terminar... muy buena relaci\u00f3n costo/calidad/cantidad... VOLVERE."
+    }, 
+    {
+      "date": "7 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Gaby_Torres", 
+      "text": "Me gust\u00f3 el servicio pero los comentarios me parece que exageran, es mas bajo el estandar del que imaginaba."
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Emi_Nievas", 
+      "text": "Nos encanto el lugar, la comida y la atencion. Una salida distinta. Altamente recomendable para los que quieran fondue de queso, volveremos por la de chocolate.\r\nRealmente la comida fue abundante para 2 personas, las picadas son muy buenas solo las vimos pasar ya que pedimos fondue, pero deben ser excelentes, era abundante y sabroso."
+    }, 
+    {
+      "date": "6 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "andreyernest", 
+      "text": "muy recomendable. las picadas de primera. la fondue no pudimos probarla de lo abundante que era la picada helvetia para 2. relacion precio-calidad excerlente. muy buena atencion y ambientacion. se nota que recien empiezan, espero que mantengan el esmero en el futuro. muy dedicados. muy recomendable. para volver."
+    }, 
+    {
+      "date": "10 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pouppe", 
+      "text": "Muy buena comida y servicio, todavia a lo mejor les falta un poco de experiencia en este tipo de restaurant, para comer fonduee lo mejor seria tener mesas redondas, o elementos giratorios para que todos puedan comer sin molestarse, pero es para volver varias veces no falta nada de lo que ofrecen Fuimos con una nena de 2 a\u00f1os a la cual se la atendio con mucha delicadesa y la comida para ella fue espectacularVolvere a probar la picada"
+    }, 
+    {
+      "date": "6 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ponce", 
+      "text": "Muy buen servicio, impecable la atencion. Esmerandose al maximmo por complacer al cliente, es muchas veces tan importante saber que los mismos due\u00f1os estan en los detalles que aqui, se nota.Recomendable para la zona ya que no hay algo similar en toda zona norte, con parque, intimidad o salon central. Todo en uno. Para volver"
+    }, 
+    {
+      "date": "8 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bonitinhos", 
+      "text": "Fuimos por la buena cr\u00edtica de otros usuarios, y result\u00f3 mejor a\u00fan de lo esperado. Una atenci\u00f3n excelente, y muy buena calidad de productos. Nos qued\u00f3 por probar la de chocolate. Todo muy prolijo desde el sal\u00f3n al ba\u00f1o. Que mejor que una buena fondue y cerveza?. Para volver seguido."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mardiblas", 
+      "text": "Fui por los comentarios leidos en la pagina y la verdad que excelente, eramos 7 y pedimos una picada premium para 2 y una fondeau de queso para 4 y sobro algo... La atencion tanto telefonica como personalmente muy buena!! Recomendado para ir"
+    }, 
+    {
+      "date": "21 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yeipi", 
+      "text": "Muy lindo lugar, con una atenci\u00f3n cordial y amable. Es tranquilo e \u00edntimo.\r\nLa comida muy buena. Los palitos de queso son adictivos y la fondue de queso premium para dos puede ser tranquilamente para tres. Todo muy fresco. De postre, otros comensales me recomendaron la degustaci\u00f3n, pero tuve que optar por el helado porque la degustaci\u00f3n era para dos.\r\nExcelente lugar."
+    }, 
+    {
+      "date": "11 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "german_pablo", 
+      "text": "Un lugar muy lindo, una fondue riquisima,una atencion excelente nos recomendaron muy bien,y de postre nos recomendaron una degustacion de los postres de la casa q estuvo buenisima-"
+    }, 
+    {
+      "date": "17 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Familia_Acevedo", 
+      "text": "Un excelente lugar, fuimos a comer y nos terminamos quedando toda tarde disfrutando del lindo parque q poseen, Excelente comida y atencion.. Un lugar para volver seguido..."
+    }, 
+    {
+      "date": "6 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pdiaz72", 
+      "text": "Fuimos recomendados y quedamos muy conformes. No hay este tipo de opciones por la zona. El salon es sencillo pero acogedor. Esta bueno que tienen salones privados, 3 o 4 mesas, no mas. La fondue de queso y la de chocolate fueron un 10. Volveremos a probar las picadas."
+    }, 
+    {
+      "date": "5 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Hugh", 
+      "text": "Muy rica la comida y muy buena la atenci\u00f3n, Los palitos de queso de entrada son muy ricos, el pat\u00e9 casero que dan de cortes\u00eda con pan calentito antes que llegue la comida tambi\u00e9n es muy sabroso, la fondue de queso Helvetia es muy completa nos alcanz\u00f3 tanto que nos quedamos con las ganas de pedir postre. Volveremos con mas personas para compartir entre cuatro y as\u00ed poder pedir una fondue de chocolate de postre."
+    }, 
+    {
+      "date": "2 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bonita80", 
+      "text": "excelente lugar,recomiendo la picada, pedimos una que no podimos terminar,pero picamos de todo un poco,viene una tabla con diferentes fiambres y despues una interminable cantidad de cazuelitas riquisimas,todo esto acompa\u00f1ado de una esmerada atencion y una riquizima cervezita helada...volveremos para repetir la experiencia!"
+    }, 
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "palermosoho", 
+      "text": "eramos cuatro, de entrada pedimos unos bastoncitos de quesos...que estaban geniales luego comimos en primel lugar una fondue de queso para 2 y despues una fondue de carne para 2 la verdad es que todo muy rico,muy fresco,mucha variedad y el precio muy bien comento esto porq comi fondue en otros lados y no eran tan variadas,lo recomiendo por la calidad,la variedad y el precio."
+    }, 
+    {
+      "date": "26 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "filomenalopez29", 
+      "text": "Fuimos por los comentarios de la guia y pedimos una picada premium para 2! Venia una tabla con diferentes fiambres y quesos y unas interminables cantidad de cazuelitas... q no pudimos terminar! Nos encanto.. igual q la atencion. Comimos adentro y despues nos ofrecieron sentarnos en unos silloncitos q tienen en el parque.. Lo recomendamos!!"
+    }, 
+    {
+      "date": "25 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fiidodido", 
+      "text": "Una fondue riquisimaaa!!! \r\nUna atencion excelente..\r\nUn lugar confortable... Nos encanto, volveremos!!"
+    }, 
+    {
+      "date": "18 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nacho80", 
+      "text": "Fui con mi novia a probar las fondue"
+    }, 
+    {
+      "date": "22 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "estrella05", 
+      "text": "todo muy rico,excelente servicio, me encanto el parque,comimos en unos silloncitos muy lindos al aire libre."
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carlayclau", 
+      "text": "fuimos con mi novio, buscabamos un lugar diferente y lo encontramos,nos gusto mucho la fondue de queso, era nuestro aniversario y nos ofrecieron una copa de champang...un excelente gesto acompa\u00f1ado de muy buena atencion, el lugar es muy acojedor."
+    }, 
+    {
+      "date": "13 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rocio_marine", 
+      "text": "Fui porque me lo recomendaron unos amigos, la verdad la mezcla de quesos es riquisima igual que los ingredientes, las meseras super atentas, pasamos una noche barbara estuvieron en todos los detalles, volveremos!"
+    }, 
+    {
+      "date": "10 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gus13", 
+      "text": "Fuimos por primera vez a probar una alternativa nueva. Nos recibieron amablemente, siempre dispuestos a explicar las opciones del menu. La fondue premium para 2 alcanza bien, no se queda corta. El ambiente puede ser un poquito ruidoso segun quienes te toquen cerca y en una noche de mucho frio la calefaccion puede ser un poco insuficiente."
+    }, 
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gonzo2904", 
+      "text": "Fui por los comentarios leidos en la pagina y la verdad que excelente, eramos 7 y pedimos una picada premium para 2 y una fondeau de queso para 4 y sobro algo...\r\nLa atencion tanto telefonica como personalmente muy buena!!\r\n\r\nRecomendado para ir!!!"
+    }, 
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "momis", 
+      "text": "Es la segunda vez q los visito.. Eramos 5 y esta vez optamos por comer una picadita helvetia para 2 personas para empezar q estuvo excelente, mucha variedad y cantidad(quedamos super satisfechos) pero no queriamos irnos sin dejar de probar la bourguignone que estuvo barbara tambien, una experiencia para no perdersela! Se los recomiendo.. la atencion muy amable y el ambiente muy confortable."
+    }, 
+    {
+      "date": "24 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "angelica_g", 
+      "text": "fuimos a festejar un cumplea\u00f1os eramos 10 personas,nos atendieron 10 puntos,la comida excelente muy abundante y de buena calidad,nos encanto el lugar nos dieron un ambiente privado para nosotros y la verdad la pasamos genial. estan en todos los detalles comimos picada y bourguinogne...excelente...sigan asi volveremos muy pronto!"
+    }, 
+    {
+      "date": "16 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "peladopepe", 
+      "text": "Si quiere pasar un momento agradable con una picadita o una fondue este es el lugar ideal. Lindo pero sin pretensiones ni lujos, pocas opciones de menu pero ricas, abundantes y frescas. Atencion no profesional pero c\u00e1lida. Precios muy razonables para la comida y el lugar. Un tironcito que vale la pena recorrer para un momento tranquilo con una buena cerveza y una rica picada. Lo \u00fanico lamentable es que en un restaurante de fondue no hab\u00eda bourguignonne. Esperemos que vuelva al menu. Para disfrutar con poco y salir satisfecho."
+    }, 
+    {
+      "date": "13 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Augusto_M", 
+      "text": "Excelente lugar. Aunque cost\u00f3 un poco encontrarlo (deber\u00edan poner el cartel m\u00e1s grande o alg\u00fan cartel en la colectora que indique donde est\u00e1), la comida fue un 10. La foundue para dos personas es muy completa y sabrosa. El lugar es muy c\u00e1lido y bien decorado; la atenci\u00f3n fue muy amable."
+    }, 
+    {
+      "date": "10 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Akila", 
+      "text": "Maravilosa comida, una experiencia divertida para ir con amigos y probar y probar!\r\nVolveremos"
+    }, 
+    {
+      "date": "6 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leonelGD", 
+      "text": "fuimos por los comentarios y la verdad es q el lugar es lindisimo y la atencion excelente,los chicos que te atienden son super atentos,nos recomendaron una picada que nos sorprendio por la variedad.nos encanto!!!vamos a volver!"
+    }, 
+    {
+      "date": "16 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "plumitas", 
+      "text": "excelente lugar,parque para aprovechar,linda vista,excelente atenci\u00f3n, agregar algo en el frente para que se visualize desde la panamericana.Lugar intimista y decorado con muy buen gusto,muy limpio y cuidado."
+    }, 
+    {
+      "date": "5 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "toberal", 
+      "text": "Muy buena la atenci\u00f3n, el lugar y la comida. Un lugar con mucho futuro, eso espero!"
+    }, 
+    {
+      "date": "27 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Hu_Gui_To", 
+      "text": "Espectacular. Fui por comentarios de esta p\u00e1gina y com\u00ed b\u00e1rbaro, nos atendieron re bien y el lugar es muy bonito, en un ambiente reservado para las 8 personas que eramos con vista al parque. Muy bueno todo. Lo \u00fanico que puedo criticar es que la espera se hizo larga, capaz porque es muy nuevo y no le tienen los tiempos aun. Pero salimos todos satisfechos. Lindo gesto que suma mucho la copa de champagne invitaci\u00f3n de la casa y el caf\u00e9 tambi\u00e9n invitaci\u00f3n. Recombendable para una noche tranquila en familia si buscan comer algo diferente."
+    }, 
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JONATANDG", 
+      "text": "Les recomiendo este exelente restaurante llamado HELVETIA.La verdad q es de lo mejor,las comidas son muy buenas!! la atencion es exelentes de parte de los mozos y su cheff!! Se los recomiendo !! vayan......No lo duden."
+    }, 
+    {
+      "date": "12 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chai", 
+      "text": "Fuimos a conocer este restaurant por las calificaciones que tenia y la verdad que me encanto.. la comida excelente, me sorprendio la variedad de ingredientes que tenia la fondue y tanto el servicio como el ambiente son muy buenos.. lo recomiendo."
+    }, 
+    {
+      "date": "11 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nununi", 
+      "text": "Este restaurante me parecio excelente en cuanto a la comida,el ambiente y el servicio son muy buenos.La Bourguignone estuvo exquisita."
+    }, 
+    {
+      "date": "9 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "normagigi", 
+      "text": "Se pueden compartir platos, adem\u00e1s la cafeter\u00eda es muy buena,ni que hablar de una cerveza fresca artesanal en medio de la naturaleza."
+    }, 
+    {
+      "date": "1 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "isanchez", 
+      "text": "Unas de las mejores fondues de queso.\r\nMuy buena ambientacion."
+    }, 
+    {
+      "date": "30 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "momis", 
+      "text": "La verdad que solo una vez habia probado fondue y estuvo buena... pero esta supero todas mis expectativas estuvo riquisima!!! \r\nRecomiendo ir a este lugar porque a parte de comer muy bien esta muy lindo el ambiente, tenes para elegir comer afuera, que es super tranquilo y relajante, como para comer adentro en distintos salones..y la atenci\u00f3n es muy buena!"
+    }, 
+    {
+      "date": "25 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "estrellita80", 
+      "text": "la verdad q es un lugar sorprendente,muy calido familiar y romantico a la misma vez. los due\u00f1os y los empleados con muy buena onda,q aveces es raro ver un lugar asi.me encanto d verdad comimos un monton y la verdad nos fuimos re contentos,lo recomiemdo es para ir en cualquier momento,muchas muchas gracias me encanto..."
+    }
+  ]
+}

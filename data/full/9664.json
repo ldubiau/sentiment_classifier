@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "silvina_sb", 
+      "text": "Nos dieron de entradas porciones de pan de pizza frias y sin sabor. Despu\u00e9s pedimos pizzas de muzarella y fugazetta y la verdad nos desilusionamos, horrible estaban, incomibles y llegaron fr\u00edas a la mesa. Y la carta muy pobre. No volver\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Desde hace varios a\u00f1os, este bar pizzer\u00eda ofrece a sus clientes platos sencillos,  pizzas y picadas. Fui varias veces a desayunar y sus medialunas son muy buenas. La atenci\u00f3n es formal, t\u00edpica de los lugares que cuentan con varias d\u00e9cadas en su haber. Un lugar de paso, pero que cumple con su  propuesta."
+    }, 
+    {
+      "date": "24 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Es una cruza entre cervecer\u00eda, bodeg\u00f3n y cafet\u00edn que ofrece un men\u00fa tradicional de minutas y pizzas bastante decente; para almorzar solo cualquier d\u00eda de semana no est\u00e1 mal, siempre y cuando no tengamos ninguna pretensi\u00f3n de refinamiento u opciones de platos cinco tenedores."
+    }
+  ]
+}

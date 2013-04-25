@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "2 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "paseocolon", 
+      "text": "Lo mejor es el ambiente. La comida un poco aburrida, estandar. Buen y agradable servicio"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "demianx", 
+      "text": "Ambiente muy agradable, buena comida, atenci\u00f3n... te levantan los platos antes que termines de comer."
+    }, 
+    {
+      "date": "25 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Erchi", 
+      "text": "muy buena comida y reposteria"
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Verorita", 
+      "text": "Muy buen ambiente, toilettes impecables, todo nuevo y agradable y cordial"
+    }, 
+    {
+      "date": "20 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "DragonRojo", 
+      "text": "Muy buen lugar en pleno San Telmo, la comida es muy buena, bien presentada y abundante, sin demoras,no hay olor a comida cosa poco comun en San Telmo.El lugar es espectacular con un patio vidriado y climatizado que no dan ganas de irse.\r\nVolveremos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "roroita", 
+      "text": "Excelente ambiente, la atenci\u00f3n muy buena, la comida riquisima un lugar muy recomendable para ir en pareja o en grupo, es para volver."
+    }, 
+    {
+      "date": "18 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gramer", 
+      "text": "me encanto exelente comida, el lugar es muya cogedor, silenciosa, tranquilo, muy buen servicio volveria siempre"
+    }, 
+    {
+      "date": "14 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "guille1308", 
+      "text": "Excelente calidad y cantidad de comida, las porciones son abundantes y a punto, ambiente agradable y buena atenci\u00f3n ."
+    }, 
+    {
+      "date": "23 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ilchelo", 
+      "text": "Realmente estar en el centro de la ciudad en un oasis de disfrute para todos los sentidos, muy buena la ambientaci\u00f2n, y el sitio en s\u00ec invita al dejarnos ir de la rutina de la oficina."
+    }
+  ]
+}

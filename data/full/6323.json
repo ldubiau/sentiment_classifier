@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "17 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Muy lindo el sector de mesas de afuera, con un jardincito hermoso. Pero eso es lo \u00fanico bueno del lugar (sin hablar del museo que es muy lindo y suele tener muestras interesantes, pero ese es otro tema). La comida no me gust\u00f3 para nada. Ped\u00ed un escalope al marsalla que era el plato del d\u00eda, y no ten\u00eda nada que ver con la receta original (vino una carne con salsa de puerros y crema \u00bf\u00bf\u00bf???). La atenci\u00f3n mejor\u00f3 un poco, pero sigue siendo pobre. Caro por lo que comimos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lcastiglioni", 
+      "text": "Es un lugarcito hermoso, muy pintoresco, escondido y c\u00e1lido. Fui con amigas a tomar el t\u00e9, pero me parece hermoso para ir en pareja (es muuuy tranquilo). Sirven unas tortas riqu\u00edsimas y el frapp\u00e9 a base de caf\u00e9 es muy muy rico (caf\u00e9 del bueno). Es para destacar el compromiso social ya que hay gente con capacidades diferentes trabajando ah\u00ed, que se esmera much\u00edsimo en atender y lo hacen realmente bien. 100 % recomendable"
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "TamArg11", 
+      "text": "Est\u00e1 buena la experiencia de comer algo en el jard\u00edn, fue lo que m\u00e1s me gust\u00f3. Lo que si son muy ricas son las tortas!! Vale la pena volver!!"
+    }, 
+    {
+      "date": "21 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "kariyory", 
+      "text": "Un muy lindo lugar en uno de los museos mas lindos de la ciudad. Muy buenas tortas. Un lugar para conocer"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Epose", 
+      "text": "un lugar muy recomendable, la comida casera es excelente, destacando las tortas tambien caseras. Muy amable la atencion, pero los fines de semana hay que ir con tiempo para disfrutar, no fue la primera vez que fui y sin dudas voy a volver"
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nuncafuefacil", 
+      "text": "Muy recomendable para los que gustan disfrutar de la comida casera. La polenta un tipico plato argentino se disfruta en su dimension exacta de simpleza y renovado sabor. Imperdible el locro del 25 de mayo y demas fechas patrias, acompa\u00f1ados por los deliciosos huevos kimbos un postre que deleita con su reminiscencia a aquellos postres de la abuela. La amabilidad de la atencion se ve desbordada por el publico lo que a veces alarga la espera mas alla de lo aconsejable. CONSEJO: No vaya apurado: distiendase y disfrute"
+    }
+  ]
+}

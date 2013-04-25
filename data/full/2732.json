@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "17 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "el_bocha", 
+      "text": "Una pizza m\u00e1s. Ahora, la fugazza es una pieza que hay que respetarla. Es genovesa o napolitana, pero cualquiera de las dos son un santuario de la pizza cl\u00e1sica boquense. Eso de ponerle \"parmesano\", es un error. En el barrio hay mejores opciones y de mejor precio. El delivery (como casi siempre ocurre), te llega la pizza con la escasa muzzarella amontonada sobre uno de los bordes."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La pizza es muy rica y a la piedra"
+    }, 
+    {
+      "date": "20 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lo_k", 
+      "text": "La pizza es rica y esta bien lograda la masa, ni muy gruesa ni muy fina, con el punto de crocantez justo. Vale aclarar que en esta sucursal no hay lugar para quedarse a comer, es una sucursal delivery."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aspirineta", 
+      "text": "Las mejores empanadas de jam\u00f3n y queso y capresse que prob\u00e9."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "2 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Mercury", 
+      "text": "El lugar es agradable particularmente las mesas que estan en la calle.\r\nLa atencion de los mozos correcta.\r\nLa comida llego muy rapida pedimos salmon con vegetales al wok que era comible aunque insipido y un pollo al ajillo, que no tenia sabor alguno pero cuando se le sacaba la salsa se notaba que el pollo habia sido grillado.\r\nNo nos gusto y no pedimos postre"
+    }, 
+    {
+      "date": "20 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "paulstanley", 
+      "text": "T\u00edpico del Village Recoleta: Comida p\u00e9sima, atenci\u00f3n sobreactuada, ambiente pretencioso y precios rid\u00edculos. Que decepci\u00f3n, por favor."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fjtu", 
+      "text": "no s\u00f3lo hay pizza. han incorporado una variedad acotada de platos de cocina tradicional/moderna incluyendo cerdo, trucha, salm\u00f3n, pollo, lomo y bife de chorizo en varias presentaciones. la atenci\u00f3n es buena porque a pesar de ser un lugar muy concurrido, disponen de muchos mozos."
+    }, 
+    {
+      "date": "28 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "labella", 
+      "text": "Hemos ido muchas veces a tomar caf\u00e9 o cerveza y es hoy la primera vez que nos atienden en forma amable y esmerada. Las empanadas son grandes, de masa casera y realmente apetitosas. La pizza es rica y el ambiente, como siempre, agradable."
+    }, 
+    {
+      "date": "19 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Astarte", 
+      "text": "Es un lugar al que sol\u00eda concurrir con frecuencia, pero baj\u00f3 su calidad y subieron sus precios. Pedimos unos bastones de muzzarella con dos gancias y llegaron primeros los bastones y 10 minutos despu\u00e9s el gancia. Encima los ingredientes que acompa\u00f1aban los tragos eran unos m\u00edseros man\u00edes. Cuando les pedimos unas pap\u00e1s, nos cobraron aparte, como si los tragos no fueran suficientemente caros. Adem\u00e1s, como nos pusieron mantel nos cobraron el cubierto. Pretencioso, caro y no lo justifica en absoluto. Solo para extranjeros."
+    }
+  ]
+}

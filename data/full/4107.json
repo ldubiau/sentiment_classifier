@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "31 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Guiguinho", 
+      "text": "Este peque\u00f1o restor\u00e1n re\u00fane condiciones escasas de encontrar hoy en d\u00eda; lugar tranquilo, sin barullo, lejos del turismo, sobre todo por los costos, atenci\u00f3n esmerada y un men\u00fa tradicional, con los nombres de las comidas sin adjetivos. \u00a1Albricias!\r\nLa carta de vinos no es extensa pero si suficiente y con precios razonables.\r\nTiene unas mesas en la vereda y, como como la zona no tiene mucho tr\u00e1nsito, ni pedestre ni automovil\u00edstico, se puede comer all\u00ed sosegadamente.\r\nPor la tabla de frutos de mar, la tortilla de papas bab\u00e9 \u00a1bien hecha!, la parrillada sin desperdicios y por lo barato, volver\u00e9."
+    }, 
+    {
+      "date": "5 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Buena opcion para cuando queremos cenar por el barrio."
+    }, 
+    {
+      "date": "30 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Peque\u00f1a cantina con un ambiente agradable y bien cuidado, comida casera bien elaborada y buena atenci\u00f3n. No derrocha lujos y la carta es sencilla pero con una excelente relaci\u00f3n precio calidad. La zona es algo inh\u00f3spita pero vale la pena para comer rico y tranquilo."
+    }, 
+    {
+      "date": "24 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "Comida bastante buena. Comi pastas, y las mismas eran de buena calidad. El lugar es muy esmerado en todo, y es destacable que es llevado adelante por jovenes que lo hacen de una forma muy prolija, con detalles muy buenos desde la decoracion hasta el servicio mismo. El lugar no tiene nada de cantina ni de ristorante, pero igual encuentra una buena ambientacion, en un lugar que pasaria mucho mas como un resto mexicano que por cantina. El servicio es excelente y la moza muy atenta al desarrollo de la velada. El descuento Oleo colabora a una cena muy economica."
+    }, 
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "caludio", 
+      "text": "El lugar es chico pero las mesas estan bien separadas, la comida bastante buena, la atenci\u00f3n correcta. Buenos precios. La ventaja que tiene sobre el otro local es que acepta tarjetas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "miiisk", 
+      "text": "Muy buena la comida y el ambiente."
+    }, 
+    {
+      "date": "19 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leansmash", 
+      "text": "Muy buen servicio, la comida exelente, me encanto la decoracion y la carta de vino MAMA MIA!!!"
+    }, 
+    {
+      "date": "6 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "distinto", 
+      "text": "el lugar es exelente y la comida inmejorable"
+    }
+  ]
+}

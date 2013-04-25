@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "14 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sasita", 
+      "text": "Muy buena opci\u00f3n para pedir y/o comer por el centro al mediodia. Todos los productos son frescos y bien elaborados. Las ensaladas son la mejor opci\u00f3n! y la gente que atienden tienen muy buena onda."
+    }, 
+    {
+      "date": "27 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AnaJuan", 
+      "text": "Muy recomendable para los mediodias. Ricos y originales sandwiches y ensaladas."
+    }, 
+    {
+      "date": "10 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Monochino", 
+      "text": "Buena opci\u00f3n en la zona para los d\u00edas de semana al mediod\u00eda, con buenos ingredientes, naturales y sabrosos, y una excelente relaci\u00f3n precio calidad."
+    }, 
+    {
+      "date": "1 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gms", 
+      "text": "Si no tenes mucha plata y quer\u00e9s evitar el PBT de jam\u00f3n y queso o los panchos, te lo recomiendo. \r\nSandwichs y ensaladas variadas muy ricos y originales y por un precio muy accesible. El lugar es peque\u00f1o, pero es una buena opci\u00f3n para almorzar los dias de trabajo."
+    }, 
+    {
+      "date": "4 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dieguistico", 
+      "text": "Una buena opci\u00f3n para el mediod\u00eda de trabajo. \r\nMuy buena atenci\u00f3n, ensaladas y sandwiches ricos y originales (prestar atenci\u00f3n a los nombres) y buen precio. \r\nEn esa zona, y para el almuerzo de todos los d\u00edas, mucho m\u00e1s no se puede pedir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pcanone", 
+      "text": "Muy buenas ensaladas."
+    }, 
+    {
+      "date": "4 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "santiagoIII", 
+      "text": "Muy buena comida. \r\nCasera y original. Gran variedad en el rubro sandwiches."
+    }, 
+    {
+      "date": "23 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mery_t", 
+      "text": "Es un lugar muy agradable, con una comida novedosa. En el centro, en donde uno est\u00e1 acostumbrado a comer lo t\u00edpico, sobresale \u00e9ste espacio agradable. Aqu\u00ed, se puede comer algo especial sin dejar de ser sandwiches y tartas. Realmente es excelente."
+    }, 
+    {
+      "date": "28 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fusilier", 
+      "text": "Excelente opci\u00f3n para el mediod\u00eda de trabajo. Tiene alternativas naturales y creativas en porciones abundantes. \r\nEs atendido por gente amable con onda y muy buena m\u00fasica. \r\n\u00a1Soy habitu\u00e9!"
+    }
+  ]
+}

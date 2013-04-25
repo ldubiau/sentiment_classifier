@@ -1,0 +1,126 @@
+{
+  "buenos": [
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Estely", 
+      "text": "Un excelente ambiente  muy buena y calidad atencion"
+    }, 
+    {
+      "date": "12 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Astarte", 
+      "text": "El restaurante se encuentra dentro de un hotel. Lindas mesas blancas con detalles delicados y decoraci\u00f3n armoniosa. Muy buena la opci\u00f3n de men\u00fa al mediod\u00eda, con precios accesibles. Carta interesante y atenci\u00f3n cuidada y sumamente amable. Muy recomendable. Me encant\u00f3. Volver\u00e9."
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "QuesoAzul", 
+      "text": "Fui solo a tomar un cafe con un browni pero la verdad es que me gust\u00f3 mucho, la atenci\u00f3n es maravillosa, muy agradable Laura que me atend\u00edo y el ambiente es muy especial con la musica acorde. Voy a volver para cenar y lo voy a recomendar."
+    }, 
+    {
+      "date": "14 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eos301", 
+      "text": "Excelente cocina y atenci\u00f3n. Muy creativo el cheff y con muy buena onda para la atenci\u00f3n personalizada.\r\n\r\nEl lugar tiene una est\u00e9tica muy elegante y diferente, es esa rara mezcla de un lobby de hotel y restaurante, muy creativo!\r\n\r\nVale la pena conocerlo y dejarse recomendar."
+    }, 
+    {
+      "date": "10 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Fiokiller", 
+      "text": "Me parecio muy corta la carta de vinos. La comida muy buena con toques gourmet, platos muyy abundantes y bien decorados.\r\nNo estaba prendido el aire acondicionado, hacia mucho calor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CriticodelGhetto", 
+      "text": "Increible la relacion precio calidad!!Platos abundantes y bien decorados."
+    }, 
+    {
+      "date": "31 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "julietadb", 
+      "text": "Excelente la carta, platos abundantes, y propuestas diferentes....Muy Bueno!!! Volvere...."
+    }, 
+    {
+      "date": "15 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "@LuciaEsmoris", 
+      "text": "La comida es exquisita, el ceviche de camarones, es incre\u00edble!, muy bueno el servicio. Me sigue sorprendiendo! sigan asi."
+    }, 
+    {
+      "date": "30 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "@LuciaEsmoris", 
+      "text": "Me senti muy c\u00f3moda, la comida fue deliciosa, la decoracion de los platos me encant\u00f3.El restaurant me pareci\u00f3 impecable, me senti muy c\u00f3moda, lo recomiendo."
+    }, 
+    {
+      "date": "28 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rolo23", 
+      "text": "Realmente felicitaciones al chef!!!!\r\nla calidad de los productos, la presentaci\u00f3n de los platos, la originalidad es excelente.Super recomendable.Ambiente exquisito.Para volver y degustar otras especialidades.Nuevamente felicitaciones!!!"
+    }, 
+    {
+      "date": "18 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cristin", 
+      "text": "Excelente y original carta. realmente cocina de autor a un precio increible....un verdadero hallazgo ..."
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "julietadb", 
+      "text": "Un nuevo restaurante en la zona, verdaderamente excelente!! La carta no tiene desperdicio, sinceramente para recomendar. Volveremos,para seguir disfrutando su carta! Muy buena relacion precio/calidad!"
+    }
+  ]
+}

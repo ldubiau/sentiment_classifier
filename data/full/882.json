@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "30 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "luchis", 
+      "text": "fuimos con amigas a festejar un cumple\r\ncomimos pizza libre la verdad muy buena, la mejor una de rucula. Despues de comer nos quedamos tomando unos tragos que hay variedad .Se puede escuchar muy buena musica remontada a los 80, 90. Atencion buena"
+    }, 
+    {
+      "date": "22 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "campanita", 
+      "text": "Fui una vez a cenar. He ido m\u00e1s veces a bailar la m\u00fasica tiene mucha onda y me gusta mucho que se remonte a los ochenta."
+    }, 
+    {
+      "date": "5 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Piazzolla1983", 
+      "text": "Fui a la disco, los tragos son malos, alcohol barato y los precios son razonables al producto final. M\u00fasica funky, electr\u00f3nica. \r\nMuy lindo ambiente, mucha onda, cero tensi\u00f3n. \r\nLibertad y una tele para ver los telettubies."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dragoncito", 
+      "text": "Exelente , lo recomiendo , ya no existen lugares asi IMPERDIBLE!!!\r\nVAYAN LO RECOMIENDO ENERGIA Y BUENA ONDA"
+    }, 
+    {
+      "date": "10 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hernan22", 
+      "text": "exelente la atencion , los precios, los tragos y el ambiente sobre todo, 100 por ciento recomendable."
+    }
+  ]
+}

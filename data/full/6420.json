@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "25 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "KARMINA", 
+      "text": "Excelente la pizza de muzzarella.\r\nLa fugazetta con muzzarella, muy buena masa pero la cebolla le faltaba un poco de cocci\u00f3n.\r\nDe todos modos, muy recomendable desde la comida hasta la atenci\u00f3n y el local.\r\nMuy buen precio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marianol", 
+      "text": "Vale+la+pena+se+come+muy+bien%2C+la+atencion+es+muy+buena+y+la+pizza+riquisima.+Ideal+para+no+gastar+no+tener+que+lavar+platos+en+casa"
+    }
+  ]
+}

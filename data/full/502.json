@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "miguelia", 
+      "text": "Refaccionaron el lugar y mantiene el buen nivel de cocina pero con un ambiente renovado muy lindo. Entre semana es un lindo lugar para ir sin apuros."
+    }, 
+    {
+      "date": "2 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pbuceta", 
+      "text": "Menu muy variado y todo es rico. Sin pretenciones gourmet. Es recomendable."
+    }, 
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sebacesario", 
+      "text": "Atenci\u00f3n adecuada, el lugar OK, buena relacion precio/calidad."
+    }, 
+    {
+      "date": "12 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pipin", 
+      "text": "Muy buen lugar y comida. La gente lo elige. Muy buenos precios: accesible. Felicitaciones."
+    }, 
+    {
+      "date": "15 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "JA", 
+      "text": "Muy bueno todo, con toques de originalidad y buen humor. La enorme afluencia de comensales presagia lo que se confirma despu\u00e9s en cuanto a su calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gaby_1280", 
+      "text": "La atenci\u00f3n de los mozos es excelente, vamos bastante seguido por la calidad de la comida. \r\nEl ambiente es muy familiar. \r\nUn lugar para recomendar."
+    }, 
+    {
+      "date": "12 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ARFELI", 
+      "text": "Fuimos varias veces, el promedio es el indicado."
+    }, 
+    {
+      "date": "25 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Juanchi", 
+      "text": "No recuerdo los valores que gast\u00e9, pero no es un restaurante que sea caro."
+    }, 
+    {
+      "date": "16 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gusafort", 
+      "text": "muy bien."
+    }
+  ]
+}

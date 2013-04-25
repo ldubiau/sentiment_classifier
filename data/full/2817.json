@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "17 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nyka", 
+      "text": "Comimos muy bien y el lugar esta muy bien y servicio correcto."
+    }, 
+    {
+      "date": "5 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tinto", 
+      "text": "Una cl\u00e1sica comida del centro al mediod\u00eda. Esta bien para matar el hambre pero nunca va a ser mejor que la de otros lugar."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "9 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "uyrd", 
+      "text": "Mala atenci\u00f3n mala comida. No acorde  con el precio"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Haruchin", 
+      "text": "Fui por el happy hour, y result\u00f3 que s\u00f3lo era en cerveza y dos tragos m\u00e1s; encima era un 2x1 por persona, asi que de haber dos personas se ten\u00edan que tomar dos cosas cada uno. El problema es que no te enterabas hasta que ven\u00eda la moza (muy mala onda) a avisarte que a cada uno le quedaba una cerveza!!! Para lo dem\u00e1s al menos hab\u00eda descuento con c. la naci\u00f3n, ya que los precios son excesivos (una pi\u00f1a colada -vaso 200ml- $60). Lo \u00fanico que rescato son los bastoncitos de muzzarella.La salsa de los nachos dejaba que desear.Te cobran $40 de servicio de mesa y aclaran que no incluye propina"
+    }, 
+    {
+      "date": "18 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lucasminu", 
+      "text": "muy buen lugar. excelente la picada mosquetera  y las papas con cheddar"
+    }
+  ]
+}

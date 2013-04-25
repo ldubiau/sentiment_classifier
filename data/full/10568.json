@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "3 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "alejg32", 
+      "text": "Fui con un cup\u00f3n de promoci\u00f3n, al precio de promoci\u00f3n s\u00ed volver\u00eda, al precio de lista seguramente no, la comida es bastante regular para el precio que cobran."
+    }, 
+    {
+      "date": "13 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "INCREIBLEHULK", 
+      "text": "la parrillada muy mala y mo trae lo que te marcan antes de pedirla...no volveria..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "31 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "pinazo75", 
+      "text": "No son ricos los platos. Ya desde la salsita que te dan de entrada, viene mal la cosa..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Maryflower", 
+      "text": "genialllllll el lugar, muy lindo ambientado, tipo clasico. la atencion 10 puntos. igual que la comida muy rica , l parrillada esta muy buena y la panera tambin!!! los postres son muy ricos. hay volcan de chocolate!!!!!"
+    }
+  ]
+}

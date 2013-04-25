@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "29 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "vita", 
+      "text": "Pedi parrillada, fueron r\u00e1pidos y atentos. L\u00e1stima que la carne estaba dura. \r\nPodr\u00eda mejorar buscando otro proveedor de buena carne, de ternera de ser posible."
+    }, 
+    {
+      "date": "20 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Flash_back", 
+      "text": "El lugar es chico pero no me pareci\u00f3 feo, no est\u00e1 mal ambientado. \r\nLa comida es muy barata y no es de mala calidad; me sorprendi\u00f3 que por el bajo precio se pudiera comer tan bien. Recomiendo la tabla de carne vacuna y de cerdo: barata, incluso alcanza para tres personas. \r\nEs ideal para ir con un grupo de amigos, hablar y pasarla bien, comer abundante, barato y rico. \r\nLos mozos parecen atentos, al ser un lugar chico pueden estar pendientes de los pedidos de los cientes."
+    }, 
+    {
+      "date": "21 Ene 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Ferchussss", 
+      "text": "El lugar feo, sal\u00eds de ah\u00ed y parece que vos fueras el parrillero: No tiene ventilaci\u00f3n. \r\nEl servicio es lamentable, poco m\u00e1s y te ten\u00e9s que ir a buscar la comida vos."
+    }, 
+    {
+      "date": "21 Oct 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gragrosm", 
+      "text": "Buena atenci\u00f3n y buena comida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cachi", 
+      "text": "Cambi\u00f3 de nombre se llama El Bompland. Excelente relacion precio/calidad y atenci\u00f3n."
+    }, 
+    {
+      "date": "15 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "A1975", 
+      "text": "Excelente relaci\u00f3n precio/calidad. Una linda parrila de barrio para almorzar tarde los domingos."
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "adriel", 
+      "text": "Parrilla sencilla, como para almuerzos r\u00e1pidos. Mi experiencia no fue de lo mejor. Le ponen voluntad, pero habr\u00eda que ajustar varios puntos, sobre todo en lo que se refiere al ambiente."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pjrp", 
+      "text": "Parrilla al paso, muy sencilla, pero la carne muy buena y bien hecha."
+    }, 
+    {
+      "date": "9 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lee_Pancho", 
+      "text": "buena parrilla de barrio para mediodia (porque a la noche esta cerrada). Lastima porque no abre a  la noche."
+    }, 
+    {
+      "date": "23 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "XCALABAZA", 
+      "text": "Una maravilla de la gastronomia argentina, simple y efectiva. No dejar de probar el vacio-pan o la inigualable hamburguesa con queso y cebolla.\r\nNo se recomienda probar el chimichurri"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "adriuka", 
+      "text": "Excelente la carne, de lo mejor en parrilla"
+    }, 
+    {
+      "date": "26 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ckuc", 
+      "text": "Es una cl\u00e1sica parrilla porte\u00f1a con la mejor carne hecha a la brasa.\r\nSe recomienda el vaciopan en la barra al mediod\u00eda. Nada mejor que saborear ese suculento y delicioso plato en un momento de relax del trabajo."
+    }, 
+    {
+      "date": "8 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriuka", 
+      "text": "Muy buena la calidad de la comida, la carne es espectacular y las fritas son las verdaderas."
+    }, 
+    {
+      "date": "14 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gueler", 
+      "text": "La parrilla 83 es un cl\u00e1sico."
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sushisan", 
+      "text": "los gyoza muy buenos, el udon una sopa de ceb\u00fa con fideos berretas. El sushi medio pelo, ideal para el desayuno si te gusta el queso untable con tostadas"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "anannia", 
+      "text": "Con una pareja de amigos concurrimos frecuentemente. Nos interesa el Sushi libre, pedimos 100 piezas para los 4, y si nos quedamos con hambre pedimos m\u00e1s piezas o algo de la carta que se encuentre dentro del menu. En este momento el precio del libre es de 95 pero rondaba los 80 hace algunas semanas y actualmente escasea el salmon. Comida de calidad. El ambiente es un poco oscuro y si no se reserva antes puede haber demoras."
+    }, 
+    {
+      "date": "9 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "gisegaby", 
+      "text": "Buena relacion precio/calidad...pero hay sushis mejores!!!"
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Avatar777", 
+      "text": "Muy buena relaci\u00f3n calidad/precio. Muy lindo ambiente y servicio. No aceptan tarjetas de d\u00e9bito o cr\u00e9dito."
+    }, 
+    {
+      "date": "20 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "OrnellaBe", 
+      "text": "La atencion y el ambiente son calidos, el sushi es muy bueno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Delo", 
+      "text": "Excelente Sushi! recien hecho, muy muy sabroso, la atencion MUY buena, Volvemos seguro, y vamos a aprovechar el delivery tambien, LO RECOMIENDO 100%"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "jenny_d", 
+      "text": "Es un lugar muy relajado con una m\u00fasica muy buena. Lo que m\u00e1s me gust\u00f3 fue la atenci\u00f3n de las mozas."
+    }, 
+    {
+      "date": "28 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sergio_nicholas", 
+      "text": "Buena m\u00fasica, ambiente c\u00e1lido, buena atenci\u00f3n y predisposici\u00f3n. Buenos tragos y platos distintos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leticiaquirque", 
+      "text": "Es un EXCELENTE lugar para ir con amigos, a comer algo diferente y quedarse a escuchar buena musica y tomar algo. Personalmente voy seguido, hay muy buena onda en el lugar, no es el t\u00edpico de Palermo de moda. Recomiendo las empanadas jamaiquinas excelentes!! y la copa Instinto. No dejen de ir!!"
+    }
+  ]
+}

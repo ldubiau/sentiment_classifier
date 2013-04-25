@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chyspita", 
+      "text": "Es la segunda vez que vengo, primero con amigos y ahora en pareja.De entrada traen unos panes caseritos increibles y la comida es justa y muy rica!muy buena atencion y de precio razonable."
+    }, 
+    {
+      "date": "8 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Carobro", 
+      "text": "Fuimos con muchas expectativas por comentarios recibidos.\r\nMala relaci\u00f2n precio-calidad. Esperabamos encontrar mas variedad de pescados pero solo habia brotola y salmon. Respecto de mariscos, solo rabas y camarones. Pedimos gambas al ajillo de entrada, ven\u00eca con papas hervidas de acompa\u00f1amiento."
+    }, 
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "ComandanteG", 
+      "text": "Lugar para ir a comer como en casa, casi todos eran habitu\u00e9s. Platos muy abundantes, en nuestro caso con una entrada cada uno comimos de m\u00e1s. La fritura saludable, pero para las rabas usaron aceite con gusto a pescado. Los Calamarettis a la Lionesa eran Calamarettis a lo Mario, estaban ricos, los calamarettis duros. Los pancitos buen\u00edsimos. No pudimos comer postre."
+    }, 
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fotosgrises", 
+      "text": "hallazgo en medio de Panamericana..."
+    }, 
+    {
+      "date": "17 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pau32", 
+      "text": "Un lugar para comer como en casa, sin estridencias ni lujos. Comida y servicio correctos, precio acorde. Muy buena opcion."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Hu_Gui_To", 
+      "text": "Que bien se come en este restaurante familiar. Buena variedad y precios l\u00f3gicos. Un hallazgo. Volvimos varias veces y lo seguiremos haciendo."
+    }
+  ]
+}

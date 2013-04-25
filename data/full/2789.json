@@ -1,0 +1,44 @@
+{
+  "excelentes": [
+    {
+      "date": "28 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "latiti", 
+      "text": "Excelente el lugar, me encanto"
+    }, 
+    {
+      "date": "28 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lucita", 
+      "text": "Muy buen ambiente, lind\u00edsimo para comer afuera si hace calor. Todo rico, me encant\u00f3."
+    }, 
+    {
+      "date": "18 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chiffo", 
+      "text": "El lugar es muy lindo, muy bien ambientado. La comida es excelente."
+    }, 
+    {
+      "date": "6 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "armando", 
+      "text": "La comida es excelente. Es muy lindo el lugar. Los precios son acordes con lo que ofrecen."
+    }
+  ]
+}

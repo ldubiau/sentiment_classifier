@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "RAG74", 
+      "text": "Buen\u00edsimas las empanadas, recomiendo las de aucauciles."
+    }, 
+    {
+      "date": "17 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lysy", 
+      "text": "Muy buen lugar y excelentes productos y atencion"
+    }, 
+    {
+      "date": "26 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Squidward", 
+      "text": "El lugar es ideal para comer unas ricas picadas a un excelente precio. No hay una gran variedad de opciones y el lugar es muy chiquito pero est\u00e1 muy bien para una picada con una cervecita en una mesa afuera."
+    }, 
+    {
+      "date": "14 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "joacodamico", 
+      "text": "muy buena atencion, ambiente tranquilo con buen gusto musical, tabla de fiambres y quesos con muy buena presentacion."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mariumac", 
+      "text": "una decepci\u00f3n el maltrato de la encargada: el viernes estaba con 2 amigas pas\u00e1ndola muy agradablemente, encantadas con las empanadas de alcauciles, mirando qu\u00e9 lindo era el lugar y a la hora de pagar, por un malentendido -nos cobraron 5 cervezas cuando tomamos 4- la encargada nos mand\u00f3 a decir con la camarera -de terror- \"que no volvi\u00e9ramos mas\" (?) asi, de la nada! por supuesto fuimos a donde est\u00e1bamos a decirle que era una desubicada. una verdadera pena!"
+    }, 
+    {
+      "date": "6 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yamilet", 
+      "text": "Es todo muy muy rico y de alta calidad!"
+    }, 
+    {
+      "date": "5 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marian", 
+      "text": "La comida es super casera, la tabla de fiambres es de muy buena calidad, son la mayor\u00eda de mendoza al igual que los vinos, muy deliciosos, las conservas y vinagres son un manjar, voy seguido con amigos, o en familia, es peque\u00f1o el lugar pero muy c\u00e1lido, y considerando los platos abundantes los precios son mas que satisfactorios"
+    }, 
+    {
+      "date": "15 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Maricota", 
+      "text": "Nunca prob\u00e9 las picadas pero son muy lindas de ver y parecen completas.. Las empanadas de alcaucil son riqu\u00edsimas y novedosas. Las de humita deliciosas. Los sandwiches tambi\u00e9n valen mucho la pena. Todo muy fresco y rico. Para almorzar liviano y picar algo a la tardecita, ideal."
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "24 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "MRaquelita", 
+      "text": "Ca\u00edmos por casualidad con un grupo de amigas, no suelo ir a este tipo de restaurantes: siempre busquen referencias para evitar grandes disilusiones. La ambientaci\u00f3n se qued\u00f3 en el tiempo, hay macetas que s\u00f3lo tienen tierra seca y transmiten una muy fea sensaci\u00f3n. La comida es la misma que una encontrar\u00eda en cualquier tenedor libre \"chino\". Hay muchos lugares igual de baratos o un poco m\u00e1s caros en los que se come mejor. La atenci\u00f3n deja mucho que desear, excepto seas cliente regular: nos negaron un corte de la parrilla \"porque estaba reservado\" (\u00a1Y era muy grande!). No lo recomiendo."
+    }, 
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "geoma", 
+      "text": "Hay bastante variedad pero toda la comida estaba fr\u00eda."
+    }, 
+    {
+      "date": "20 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Don_Pato", 
+      "text": "Lo peor que he conocido y comido en a\u00f1os. P\u00e9sima atenci\u00f3n, poco falt\u00f3 para nos tirar\u00e1n por la cabeza el pan y los vasos.\r\nEl asado desabrido, lleno de grasa y hueso. Me toc\u00f3 una empanada medio rancia, al igual que unos postres. Las guarniciones se ve\u00edan muy feas. Punto y aparte lo asqueroso de los ba\u00f1os, hediondos, inundados y con el piso lleno de papel higi\u00e9nico. nunca m\u00e1s."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "don_alen", 
+      "text": "Es un tenedor libre economico con buen ambiente y buena atencion, la comida no es mala, por el precio vale la pena, comiendo de todo con gaseosa , cerveza y vino gastamos $ 50 x persona."
+    }, 
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fuckin_gordito", 
+      "text": "Interesante lugar para ir en epoca de vacas flacas y bolsillos vacios. Tipico tenedor libre chino, pero con algunas cosas que sobresalen respecto al modico precio q se abona, como ensalada de mejillones o salpicon de pulpo. La carne de la parrilla era realmente buena. Solo faltaria que las mesas no esten tan juntas y los ba\u00f1os sean un poco mas limpios, pero tampoco podemos demandar tanto por ese precio."
+    }, 
+    {
+      "date": "5 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nenitos", 
+      "text": "Es un tenedor libre, econ\u00f3mico y aunque no existe demasiada variedad de platos, en relaci\u00f3n calidad/precio est\u00e1 muy bien. Si estas apretado a fin de mes y queres salir a cenar, esta es una buena opci\u00f3n."
+    }, 
+    {
+      "date": "27 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "stella78ar", 
+      "text": "Fuimos varias veces con amigos a cenar, es un lindo lugar, comes bien de todo un poco y a buen precio, lo que si es conveniente hacer reserva ya que si no la espera se hace tediosa.Recomendable"
+    }, 
+    {
+      "date": "22 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "NickoG", 
+      "text": "Todo en orden. \r\nNo es para destacar, pero es una buena opci\u00f3n para una cena arreglada en el momento."
+    }, 
+    {
+      "date": "16 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pipa0077", 
+      "text": "Est\u00e1 buen\u00edsimo, morf\u00e1s de todo, pero si no reserv\u00e1s te mor\u00eds de hambre en la puerta."
+    }, 
+    {
+      "date": "16 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cissy_72", 
+      "text": "Muy buenos precios y atenci\u00f3n. Variedad en la comida y en el postre."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "walllyy", 
+      "text": "En un rest\u00f3 chino pero la comida es de primera calidad. El servicio es muy bueno."
+    }, 
+    {
+      "date": "14 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "yuyo", 
+      "text": "Imperdible para turistas."
+    }
+  ]
+}

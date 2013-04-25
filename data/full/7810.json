@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ogayol", 
+      "text": "mala atenci\u00f3n, fuimos luego del teatro a las 23 hs y 23 45 aun estabamos cenando y el mozo por motus propio acerco la cuenta\r\na todos los que estabamos en el 1er piso a fin de que nos vayamos\r\nretirando"
+    }, 
+    {
+      "date": "26 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar que cumple,  con comidas caseras y de buena elaboraci\u00f3n. Atienden muy bien y los platos salen r\u00e1pido lo que lo hace una buena opci\u00f3n para cenar antes o despu\u00e9s del  teatro.  Muy bueno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MARISALUZ", 
+      "text": "Una muy buena opci\u00f2n en pleno centro!  Excelente precio y variedad. Recomendable!"
+    }
+  ]
+}

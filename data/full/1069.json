@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "23 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "baterilla", 
+      "text": "La comida es mal\u00edsima, ped\u00ed mil hojas de peceto con papas a la crema y las papas estaban viejas, las mil hojas de peceto eran cinco fetas con acelga y jam\u00f3n, desabrido y recalentado. \r\nAbst\u00e9ngase."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "28 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "BCGS", 
+      "text": "Es agradable estar un ambiente bien cuidado y recibir la visita del due\u00f1o en cada mesa. Mejor ser\u00eda que la comida acompa\u00f1ase a esto y, lamentablemente, no es as\u00ed. Bruschetas quemadas y sin ninguna particularidad; costillas glaseadas que empalagaban sin l\u00edmite. Considerando lo primero, una l\u00e1stima."
+    }, 
+    {
+      "date": "21 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leioleo", 
+      "text": "Es un lugar tranquilo para sentarse a charlar y esperar pacientemente la cuidada comida de perfil casero."
+    }, 
+    {
+      "date": "28 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ugemitch1", 
+      "text": "Muy rica comida preparada en el momento, ambiente tranquilo.\r\nHay un vidente que lee las manos por $10"
+    }, 
+    {
+      "date": "24 Jul 2004", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "stank", 
+      "text": "Un lugar que subraya la idea de \"slow food\", lo que hace muy bien porque los platos tardaron una eternidad. El servicio, m\u00e1s digno de una pizzer\u00eda tradicional que de un restaurant casero. La comida, grasosa y recargada."
+    }
+  ]
+}

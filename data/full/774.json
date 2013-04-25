@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "18 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ropo", 
+      "text": "El buffet frio muy variado y rico. Solo dos platos calientes con poca elaboraci\u00f3n. Los postres muy buenos."
+    }, 
+    {
+      "date": "7 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jjg008", 
+      "text": "El buffet es de buena calidad pero de limitada variedad. Deber\u00edan ampliar la cantidad de platos fr\u00edos."
+    }, 
+    {
+      "date": "30 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Bueno el bufette, tanto el fr\u00edo como el caliente, pero sin mayores novedades. Los postres muy ricos y variados. \r\nTanto el maitre como los camareros muy atentos a los tiempos del comensal sin invadir. No vi el toque de Ennio que critica siempre buscando la perfecci\u00f3n. La \u00fanica critica es que me parece excesivo que cobren $7 la botella de agua com\u00fan."
+    }, 
+    {
+      "date": "29 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "La propuesta del buffet no est\u00e1 mal, pero tampoco es deslumbrante. Se destaca el ambiente c\u00f3modo, tranquilo y agradable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "miquele1948", 
+      "text": "Una experiencia que compensa tantas otras. Realmente una cena estupenda: lengua a la sal, langostinos empanados ( ambos con guarnici\u00f3n ) y risotto ai frutti di mare. La carta de comida es de las que yo apruebo: cubre todas las variedades tanto fr\u00edas como calientes pero sin ser sobreabundante. En cuanto a la de vinos la encontr\u00e9 un poco pobre y cara pero, con la impagable asistencia de Nicol\u00e1s, conseguimos equilibrar calidad y precio. Con el descuento del 20% del Club La Naci\u00f3n result\u00f3 un precio absolutamente normal para el excelente momento que pasamos. Para volver y volver ?"
+    }, 
+    {
+      "date": "23 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Piscu", 
+      "text": "Excelente la comida y la atenci\u00f3n. Realmente se nota el toque de un cheff como Ennio Carotta."
+    }, 
+    {
+      "date": "14 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "polo04", 
+      "text": "Se nota la mano de Ennio Carota en la comida. Muy recomendable."
+    }
+  ]
+}

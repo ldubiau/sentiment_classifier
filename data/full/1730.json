@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "23 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "julio.gr", 
+      "text": "Tenedor libre bastante variado aunque no de gran calidad. La parrilla es realmente muy buena. La mejor carne que comi."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "graciela8", 
+      "text": "Realmente la comida es muy fresca y rica, de una factura atrayente para la vista."
+    }, 
+    {
+      "date": "22 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "silvanag", 
+      "text": "Espectacular todo."
+    }
+  ]
+}

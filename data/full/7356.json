@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "elsurfero", 
+      "text": "LLegue por comentarios de unos amigos y me impresiono gratamente, sobre todo por la onda del lugar y los personajes que alli habitan. La comida es buena y el precio esta por debajo de la competencia. Ademas siempre hay un guitarrero entre los presentes. Volvere."
+    }, 
+    {
+      "date": "23 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Teod", 
+      "text": "Excelente espacio para disfrutar un mediod\u00eda con amigos, escuchando m\u00fasica y pispeando las mesas de los parroquianos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marce_Achaval", 
+      "text": "La pase muy bien, fuimos un sabado a la noche, la esquina estaba muy linda y el clima acompa\u00f1o para estar un rato largo, adentro habia una mesa grande y estaban cantando. La comida es muy rica y para nada caro, muy linda la decoraci\u00f2n."
+    }
+  ]
+}

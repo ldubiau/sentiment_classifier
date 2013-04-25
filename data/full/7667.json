@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "26 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carrocc", 
+      "text": "Muy buenos platos paar cuando uno quiere comer algo de autor sin alejarse del barrio"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Maruxa", 
+      "text": "Muy buen lugar. Sencillo, nada pretencioso, pero con muy buena comida y una gran vocaci\u00f3n de servicio en todo el personal.  La calidad de la materia prima, la preparaci\u00f3n esmerada de los platos y la abundancia de las porciones, lo distinguen ampliamente sobre la mayor\u00eda de los restuarantes de  la zona. Recomiendo las especialidades del chef y los platos del d\u00eda."
+    }
+  ]
+}

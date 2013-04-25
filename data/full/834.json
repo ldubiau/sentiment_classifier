@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "9 Jul 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "mr_olias", 
+      "text": "Detestable que haya que esperar un monton para ser atendidos y otro tanto para que traigan los platos. NO parece parrilla, , ni tampoco es comida alemana. Sencillamente es comida porte\u00f1a buena, pero todo realmente muy caro teniendo en cuenta el ambiente y atencion. Si uno es del barrio, lo mejor en el delivery."
+    }, 
+    {
+      "date": "17 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Verogon", 
+      "text": "Pedi pasta y me la dieron fria. Milanesa nada del otro mundo, los precios realmente caros  y los mozos atienden de mala gana"
+    }, 
+    {
+      "date": "27 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "MARLOV", 
+      "text": "Fui hace muchos a\u00f1os, cuando realmente se com\u00eda comida alemana, ahora s\u00f3lo es el nombre. La comida tard\u00f3 un horror. Pedimos picada para dos y cont\u00e9 cuatro fetas de fiambre, incre\u00edble. Encima hay un pelotero, lo que crea un ambiente ruidoso de chicos insoportables. El mozo no daba abasto con tantas mesas, mientras otros dos mozos no serv\u00edan y miraban alegremente. Lo peor: es car\u00edsimo para lo que comimos. No volver\u00e9."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Judi", 
+      "text": "El servicio es realmente muy malo, desde los mozos hasta los que dan las \u00f3rdenes m\u00e1s arriba. P\u00e9simo. L\u00e1stima porque la comida es buena y el lugar agradable."
+    }, 
+    {
+      "date": "9 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ncgardel", 
+      "text": "Los mariscos no son su especialidad pero los platos tradicionales funcionan bien. Porciones abundantes (para compartir algunas) son las que se destacan en este restaurant bueno y accesible."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nancita", 
+      "text": "Muy buena atencion y el ambiente es calido, excelente para ir con amigos y charlar tranquilos."
+    }
+  ]
+}

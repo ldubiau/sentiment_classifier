@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "11 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "turu_flowers", 
+      "text": "malisimo no vuelvo el plato de pastas era un chiste la salsa aun peor, fui por estar estar este lugar  cerca del hospital fleni"
+    }, 
+    {
+      "date": "4 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "gabriel10mdq", 
+      "text": "llamamos por telefono y nos dijeron que el menu al mediodia costaba $18 con bebida incluida. al pedir la cuenta nos cobraron $25. no se entendio. por no discutir lo pagamos. no lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sarcastico", 
+      "text": "Posibilidad de armar las ensaladas a antojo, con ingredientes poco habituales. Muy buena idea."
+    }, 
+    {
+      "date": "24 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "fresh", 
+      "text": "La comida es muy rica, pero la atenci\u00f3n es mal\u00edsima,  ni hablar del delivery, tardan mil horas."
+    }, 
+    {
+      "date": "10 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CynChichita", 
+      "text": "Es muy copado el lugar. Recomiendo: la mousse de chocolate, la prob\u00e1s y te hac\u00e9s adicto. Es impresionante, obviamente caser\u00edsisma."
+    }, 
+    {
+      "date": "26 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "joro", 
+      "text": "La atenci\u00f3n es muy buena y el lugar es muy familiar."
+    }, 
+    {
+      "date": "19 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Piazzolla1983", 
+      "text": "El arroz resulta ins\u00edpido, lo mismo pasa con las pastas y otras comidas.\r\n\u00a1Pidan que le pongan sal! Cuando le ponen sal es otra cosa, cambia considerablemente y logra platos riqu\u00edsimos. El pan casero es muy rico pero muchas veces falta o llega con el postre. Muy recomendable los \"varenikes\", excelentes. \r\nLa atenci\u00f3n (por sus due\u00f1os) tiene d\u00edas en el que es un tanto ca\u00f3tica,  m\u00e1s all\u00e1 del tema de la sal la comida suele ser muy rica y econ\u00f3mica. \r\nEs un muy buen lugar para almorzar, pero requiere bastante tiempo que uno no siempre dispone."
+    }, 
+    {
+      "date": "7 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Montecristo", 
+      "text": "Muy buena comida. El servicio no fue muy bueno, tardan mucho y siempre falta pan. De vez en cuando los perritos andan por el sal\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nickita", 
+      "text": "Un rest\u00f3 al que concurro casi todos los mediod\u00edas, lindo, c\u00e1lido, muy bien atendido. Un lugar ideal para hacer el corte al mediod\u00eda y despejarse del trabajo.\r\nComida rica y accesible.\r\nInclusive te mandan el men\u00fa del d\u00eda por mail para que estes informado. Buen\u00edsimo."
+    }, 
+    {
+      "date": "19 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PaiMei", 
+      "text": "Todo muy bien."
+    }, 
+    {
+      "date": "12 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Diegarciabb", 
+      "text": "Muy buena cocina y muy variada."
+    }, 
+    {
+      "date": "8 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Saimon", 
+      "text": "Excelente lugar, muy recomendable. Excelente atenci\u00f3n tambi\u00e9n."
+    }
+  ]
+}

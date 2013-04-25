@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "27 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ignaciobelgrano", 
+      "text": "Ambiente joven.\r\n\r\nLugar de barrio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tinogar", 
+      "text": "Por Dios! Que buen lugar! nada de pretensiones y todo excelente!!!"
+    }, 
+    {
+      "date": "18 Oct 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alfi_99", 
+      "text": "muy bueno"
+    }, 
+    {
+      "date": "29 Abr 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "xmartin", 
+      "text": "ambiente muy relajado, comida muy rica y barata"
+    }
+  ]
+}

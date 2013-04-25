@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "14 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Gusre", 
+      "text": "Un lugar sin ninguna virtud destacable. La carne de cocci\u00f3n despareja (Permanece en la parrilla por mucho tiempo sin que nadie la pida). Quiz\u00e1s de destacar la paciencia del mozo.\r\nSolo para los que llegan tarde a casa sin ganas de cocinar y/o viven en el barrio."
+    }, 
+    {
+      "date": "9 Mar 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "fender", 
+      "text": "No me gust\u00f3 la atenci\u00f3n, ni la comida, ni el lugar. \r\nMe recuerda esos sitios que abren algunos aventurados por tres meses en la costa sin tener idea de lo que hacen."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "n1qqqq", 
+      "text": "Reservo mi opini\u00f3n para la visita."
+    }, 
+    {
+      "date": "18 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "julian_", 
+      "text": "Porciones abundantes, pero comidas sin preparaci\u00f3n. \r\nLos ravioles parec\u00edan nunca cortados y la salsa, una verg\u00fcenza. La atenci\u00f3n es buena."
+    }
+  ]
+}

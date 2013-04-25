@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "30 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "VivianaG", 
+      "text": "Siendo que fui a tomar un t\u00e9 con un tostado a la hora de cenar, me atendieron muy bien. Me gust\u00f3 mucho la ambientaci\u00f3n y el esmero del mozo para atendernos, aunque tardaba un poco. Algo para destacar: nos sorprendimos con la cuenta, cre\u00edmos que por la zona y la onda del lugar nos iban a cobrar much\u00edsimo m\u00e1s. Lindo."
+    }, 
+    {
+      "date": "1 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nicky", 
+      "text": "Unos buenos fideos, coloridos. Los mozos atentos, pero el tema es que el lugar est\u00e1 siempre vacio. Nunca hay nadie.\r\nA\u00fan as\u00ed, recomendable."
+    }, 
+    {
+      "date": "9 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Xtinch", 
+      "text": "Muy buen ambiente. La comida es buena, con productos frescos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pulpo", 
+      "text": "Excelente comida con magn\u00edfica presentaci\u00f3n y muy buen servicio. \r\nRecomendable."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "3 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "valeria_r_b", 
+      "text": "Est\u00e1 bueno para ir a comer algo sencillo a la hra del almuerzo, tienen ricos sandwiches y risotto."
+    }, 
+    {
+      "date": "28 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lu_2010", 
+      "text": "Gracias a un cup\u00f3n de descuento descubr\u00ed este lugar! El sandwich de salm\u00f3n ahumado es muy rico, lo recomiendo."
+    }, 
+    {
+      "date": "14 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "Una lastima que suban tanto los precios y achiquen notablemente el tama\u00f1o de las porciones. Tambi\u00e9n cambi\u00f3 la proporci\u00f3n de las ensaladas y ahora pr\u00e1cticamente no figura el salm\u00f3n, las alcaparras o los langostinos. \u00cdbamos muy seguido a almorzar por que ofrecen buenas ensaladas mediterr\u00e1neas y algunos platos copados, pero nos cansamos que constantemente empeore la relaci\u00f3n precio-cantidad-calidad. Si suben los precios pero mantienen el tama\u00f1o y la proporci\u00f3n de productos diferenciados se acepta, pero q encima cambien las proporciones y achiquen el tama\u00f1o ya es inaceptable. Nos volveremos mas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Las mejores ensaladas de la city porte\u00f1a!\r\nLa mediterranea es con fideos tirabuz\u00f3n y la rompe."
+    }
+  ]
+}

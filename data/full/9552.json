@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "8 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nanuk", 
+      "text": "El lugar es agradable, una buena opci\u00f3n para almorzar pastas dentro de un shopping. La atenci\u00f3n es esmerada.La comida realmente muy buena, se nota la calidad de La Juvenil. Tal vez la carta de vinos es escasa. Los postres buenos, pero podr\u00edan ampliar la variedad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "craioveanu", 
+      "text": "Es muy bueno si uno quiere una comida al paso pero de calidad. Y si uno es fan de La Juvenil, ya es algo ideal. Esas pastas no tienen comparaci\u00f3n."
+    }
+  ]
+}

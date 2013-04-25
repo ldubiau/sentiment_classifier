@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "7 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Chechu72", 
+      "text": "El ambiente excelente, las luces y la atenci\u00f3n. \r\nAl plato que eleg\u00ed le faltaba algo m\u00e1s de condimento o sabor, la carne de cordero ten\u00eda gusto a hervida. \r\nAdem\u00e1s me lo sirvieron algo fr\u00edo.\r\nLa carta de vinos es excelente."
+    }, 
+    {
+      "date": "5 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "joma", 
+      "text": "Nos gust\u00f3 el lugar, la atenci\u00f3n y la cocina. \r\nMuy buenos postres y carta de vinos. Sugerimos no priorizar tanto en el men\u00fa los platos ahumados que son amplia mayor\u00eda y no a todos les gustan. Deberia ser m\u00e1s equilibrado. Volveremos de noche para probar la carta m\u00e1s \u00e1mplias que a los mediod\u00edas."
+    }, 
+    {
+      "date": "21 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chinisima", 
+      "text": "Ricas opciones al mediod\u00eda y el sandwich de trucha exquisito. Muy buena atenci\u00f3n, mozas muy amables."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "oslar", 
+      "text": "Muy buena la atenci\u00f3n y todo lo que prob\u00e9 del men\u00fa ejecutivo era muy rico. \r\nTienen buenas opciones de carne o pastas. El postre es excelente. Muy recomendable."
+    }, 
+    {
+      "date": "15 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "info19", 
+      "text": "Lugar super c\u00e1lido, justa iluminaci\u00f3n, atenci\u00f3n personalizada.\r\nMateria prima de excelente calidad."
+    }, 
+    {
+      "date": "10 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "psuarez1", 
+      "text": "\u00a1Muy buen servicio!"
+    }
+  ]
+}

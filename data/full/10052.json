@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "5 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "fedesadovsky", 
+      "text": "El ambiente: El lugar es lindo, adentro y afuera. Amplios ventanales y lindo deck.\r\nLo destacado: Est\u00e1 en una zona con escasa oferta de restaurantes y su horario es relativamente amplio\r\nEl servicio: La atenci\u00f3n de los mozos es informal, los encargados, depende del turno tambi\u00e9n, el pibe de la noche es un copado igual. Delivery NUNCA HAY AL FINAL.\r\nLa comida: Buena, las porciones no son abundantes, las chesseburger roberta , la pizza y las pastas, de lo mejor.\r\nEl precio: Est\u00e1 muy por encima del adecuado. No solo por el cubierto, los precios en general. una hamburguesa con queso con guarnici\u00f3n $60"
+    }, 
+    {
+      "date": "21 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Amoreuse", 
+      "text": "Coincido que la atenci\u00f3n es demasiado informal, la comida es buena pero escasa, pedi pastas y me trajeron cinco ravioles, el cubierto me pareci\u00f3 car\u00edsimo para un restaurant de barrio y el resto de los precios tambien, ah! y no pidan postre, es carisima hasta la ensalada de frutas. Me queda cerca de casa, pero no vuelvo m\u00e1s"
+    }, 
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "El lugar es lindo,  con un amplio deck como para disfrutar de una cena en verano. Tiene una carta variada;  pizzas,  pastas, comida americana y mexicana,  pero optamos por la especialidad de la casa: pizza  hecha en horno de le\u00f1a, que estaba bien.  Pero tiene detalles que mejorar; la atenci\u00f3n es sumamente informal,  casi descuidada, y la sorpresa mayor  fue a la hora de la cuenta;  el cubierto de dos personas sum\u00f3 el 30 % del precio de la pizza. No se si volver\u00eda a probar platos de cocina,  pero hasta ac\u00e1, no me gust\u00f3."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chaconis", 
+      "text": "fuimos los ultimos en llegar y nos atendieron genial. los precios un poco elevados pero muy rica comida. No hay mucha variedad pero los platos tienen el t\u00edpico sabor americano."
+    }, 
+    {
+      "date": "4 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Coruch", 
+      "text": "Muy buena la pizza y la pasta, lindo deck para ir en verano. Un poco caro para una salida tranquila."
+    }
+  ]
+}

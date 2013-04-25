@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "4 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ElCucoArg", 
+      "text": "Pense que era mucho mejor por los comentarios que v\u00ed pero la verdad la masa de la pizza me parecio una prepizza comprada en el super."
+    }, 
+    {
+      "date": "26 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marluna", 
+      "text": "Una excelente pizzeria con muy buena proporci\u00f3n de precio/calidad de la pizza. Buen ambiente y mozos cordiales."
+    }, 
+    {
+      "date": "23 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marialdepalermo", 
+      "text": "exelente para salir del paso en la semana esta bien"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "meccia74", 
+      "text": "la pizza muy buena ! fina y crocante. Las empanadas creo que son lo mas del lugar !!!!!!"
+    }, 
+    {
+      "date": "16 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fortun", 
+      "text": "Muy buena pizza al molde pero bien crocante. Muy buena la comida en general y muy buen servicio. muy buena onda todos."
+    }, 
+    {
+      "date": "18 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FLAKY2011", 
+      "text": "muy lindo lugar. la pizza excelente y atendido por mozo experimentados. s\u00faper recomendable!!!!"
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "daniel_b18", 
+      "text": "La pizza es a la vieja escuela, alta y de muy buena masa y abundante muzza. La atenci\u00f3n es muy buena y los precios acordes a una pizzeria premium. Si vas un fin de semana a la noche las mesas estan muy juntas, hay mucha gente y se torna ruidoso."
+    }
+  ]
+}

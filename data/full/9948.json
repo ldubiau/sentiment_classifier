@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "20 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FBernabei", 
+      "text": "Fonda y pizzeria de barrio.  Muy correcta, con las salvedades propias de este tipo de restautantes.\r\nSe come bien y muy barato.  Se atiendo relativamente bien, aunque en horas pico hay demoras.\r\nSi quieren comer rico y abundante por poco dinero este es un lugar muy recomendable.\r\nSi buscan refinado ambiente y atencion se van a desilusionar."
+    }, 
+    {
+      "date": "29 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "mldm", 
+      "text": "Muy buen lugar para comer bien y barato. Sin pretensiones de gran despliegue est\u00e9tico para la gente del barrio resulta \u00f3ptimo cuando no hay ganas de cocinar."
+    }, 
+    {
+      "date": "29 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dieguistico", 
+      "text": "No por nada Pin Pun est\u00e1 abierto hace m\u00e1s de 40 a\u00f1os en un lugar bastante oculto de Villa Urquiza. Es una suerte de restaurant de pueblo, con decoraci\u00f3n pr\u00e1cticamente inexistente (aunque limpio) y clientela fiel en el barrio. La comida es sabrosa y casera, como si la hiciera una abuela. El otro d\u00eda prob\u00e9 una carne al horno con papas y, aunque quiz\u00e1 la carne no fuera de la mejor calidad, estaba tierna y sabrosa. Las pizzas son buenas, te sirven la gaseosa en botella de litro y hasta aceptan tarjetas. \u00bfQu\u00e9 m\u00e1s se puede pedir para comer con amigos o zafar un domingo sin ganas de cocinar?"
+    }, 
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Charos", 
+      "text": "Cl\u00e1sica del barrio, excelente la pizza y la fain\u00e1. Tambi\u00e9n las empanadas! Buena atenci\u00f3n y la mejor calidad!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pupes", 
+      "text": "Tipico bodegon! Me encanta ir a comer ahi, se pueden compartir los platos, los chicos que atienden son muy buena onda, y lo mejor de todo es que el ambiente es familiar, amiguero etc etc!"
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "delpa", 
+      "text": "Me encanta ir a Pin Pun y est\u00e1 buen\u00edsimo que cada d\u00eda est\u00e9 m\u00e1s lindo sin perder ese clima de bodeg\u00f3n de barrio. La pizza es buenisimaaaa, se convirti\u00f3 en un cl\u00e1sico familiar!!"
+    }
+  ]
+}

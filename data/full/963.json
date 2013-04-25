@@ -1,0 +1,308 @@
+{
+  "malos": [
+    {
+      "date": "3 Mar 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "TheFig", 
+      "text": "Realmente lamentable, mala la atenci\u00f3n, no entienden lo que es una carne \"a punto\".\r\nMuy poco profesionales y demasiado pretenciosos."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "DanyV", 
+      "text": "La ambientacion es muy buena. Un lugar c\u00e1lido, ideal para ir en pareja. Pero todo queda ah\u00ed. \r\nLa atenci\u00f3n: regular, la camarera demasiado ocupada con tantas mesas. \r\nLa comida: un desastre, pedimos un ojo de bife cuya salsa ten\u00eda tantas aceitunas, que tapaba absolutamente todo. El pescado en papillote, insulso, con gusto a nada y con un hinojo demasiado invasivo. \r\nHay que mejorar mucho el equilibrio de los platos. El postre bien, pero no vuelvo."
+    }, 
+    {
+      "date": "25 Abr 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "nacho23", 
+      "text": "Siempre iba a comer sushi porque me encantaba como lo hac\u00eda el sushiman oriental. Ahora tomaron a gente inexperta, que no sabe ni como darle forma a un roll. Encima tarda much\u00edsimo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "simbapeg", 
+      "text": "El lugar est\u00e1 excelentemente ambientado, con la cava de vinos a la vista. Algo para destacar es la atenci\u00f3n de los mozos, siempre muy bien predispuestos. La comida es buena, aunque la carta no es muy variada."
+    }, 
+    {
+      "date": "18 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Excelente ambiente que no logra compensar la pesima atencion y mediocre calidad de la comida."
+    }, 
+    {
+      "date": "3 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "chani", 
+      "text": "El sushi es malo (lo hacen con Kani Kama). El ojo de bife regular. Lo \u00fanico realmente bueno es el postre."
+    }, 
+    {
+      "date": "22 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "colores", 
+      "text": "Realmente no me gust\u00f3 el lugar. Las porciones son absurdamente chicas y la atenci\u00f3n no es muy buena. Tienen un lindo lugar, pero no vale la pena por el precio excesivo."
+    }, 
+    {
+      "date": "18 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "serge", 
+      "text": "El servicio me pareci\u00f3 bastante bueno, la camarera al preguntarle que nos recomendaba de entrada demostr\u00f3 que sab\u00eda de lo que hablaba. \r\nCom\u00ed unos portobellos saltados con queso de cabra y hierbas que estuvo realmente muy bueno y lleg\u00f3 muy r\u00e1pido. De plato principal ped\u00ed un gigot con salsa de d\u00e1tiles. La salsa estaba muy buena, pero el cordero no. De postre ped\u00ed un tiramis\u00fa que era rid\u00edculamente peque\u00f1o. \r\nEl ambiente era bastante bueno, s\u00f3lo cometieron un error en la poca luz que hab\u00eda ya que iluminaban m\u00e1s las luces de afuera que las del restaurante. Los tragos estaban buenos aunque el Bellini parec\u00eda m\u00e1s un daikiri ya que estaba muy batido. Los precios no me parecieron muy altos."
+    }, 
+    {
+      "date": "1 Jul 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "GHILLE", 
+      "text": "Las pastas son horribles, el sushi peor. Las camareras no tienen una cuota de gracia y son desprolijas. El restaurante es hermoso, l\u00e1stima que est\u00e1 mal atendido y descuidado\r\nEs el m\u00e1s lindo de La Recova."
+    }, 
+    {
+      "date": "9 Mar 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sergio", 
+      "text": "T\u00edpico lugar que en verdad la vocaci\u00f3n por la atenci\u00f3n al cliente no existe. \r\nMozos desordenados y sin experiencia, poca predisposici\u00f3n y sobre todo exageradamente caro. La cocina es en general buena, aunque tardan una eternidad, y la carta de vinos es amplia (aunque salad\u00edsima).  \r\nEso s\u00ed, super fashion."
+    }, 
+    {
+      "date": "9 Mar 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "drk", 
+      "text": "La comida es buena, la atenci\u00f3n en las mesas es buena tambi\u00e9n, pero la atenci\u00f3n en reservas es bastante mala. \r\nReserv\u00e9 una buena mesa y cuando llegu\u00e9 el restaurante estaba lleno y me dieron una mesa en la entrada, que nadie quer\u00eda. \r\nMe quej\u00e9 y ni bolilla. \r\nMuy descort\u00e9s la recepcionista."
+    }, 
+    {
+      "date": "4 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Matu", 
+      "text": "Una experiencia decepcionante. Primero ped\u00ed un vino (bastante com\u00fan pero rico) y no les quedaba, el problema era que reci\u00e9n eran las 21 hs. \r\nEse mismo vino lo pidieron las personas de la mesa junto a la m\u00eda (este comentario lo hago para que vean que era un vino que no puede faltar). \r\nDespu\u00e9s lleg\u00f3 la hora del plato principal (junto con mi novia no comemos entrada porque preferimos comer postre y no da matarse comiendo) realmente decepcionante, platos muy comunes (y el plato que ped\u00ed era uno de los mas caros de la carta), la presentaci\u00f3n de estos no se destaco. \r\nEl lugar es lindo, est\u00e1 ubicado en una esquina muy linda de Buenos Aires. \r\nSi tendr\u00eda que hablar del servicio tendr\u00eda que poner un adjunto ya que me toc\u00f3 una chica con muy poca paciencia. \r\nPor suerte luego nos sigui\u00f3 atendiendo un chico que nos atendi\u00f3 muy bien.\r\nLamento haber elegido este restaurante para una fecha tan importante para m\u00ed como es el cumplea\u00f1os de mi novia."
+    }, 
+    {
+      "date": "5 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "robiraim", 
+      "text": "Muy agradable y el sushi me encant\u00f3."
+    }, 
+    {
+      "date": "14 Feb 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gsagel", 
+      "text": "Lindo lugar, rica la comida, horrible el servicio. Se escuchaban los insultos por la tardanza desde las mesas aleda\u00f1as. No fueron capaces de invitar con una aceituna para matizar la espera de una hora y media por 8 piezas desparejas de sushi. No basta con ser fashion o llamarse Bianchi: adem\u00e1s hay que saber del negocio. La f\u00f3rmula perfecta para pasar un D\u00eda de los Enamorados lamentable."
+    }, 
+    {
+      "date": "25 Ene 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Verin", 
+      "text": "Tardan en la cocina. El servicio en las mesas es muy bueno."
+    }, 
+    {
+      "date": "11 Ago 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maxi_mar", 
+      "text": "Caro y nada del otro mundo. El risotto no puede competir con el de Piegari. El ambiente enmascara el viejo \"Primera Plana\"."
+    }, 
+    {
+      "date": "8 Jul 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "stank", 
+      "text": "La comida estuvo un poco floja, pero un gran gesto del chef salvo la noche cuando nos regal\u00f3 los postres."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nano00", 
+      "text": "La divisi\u00f3n de espacios y la iluminaci\u00f3n generan un ambiente muy agradable. La atenci\u00f3n se torna muy buena cuando hay poca gente. Punto flojo: la carta de vinos tintos no ofece opciones por menos de cuarenta y pico."
+    }, 
+    {
+      "date": "20 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maie", 
+      "text": "Excelente, comida muy sabrosa aunque medio escasa (sobre todo la entrada). La atenci\u00f3n de 10. El lugar es hermoso. Para recomendar e ir con pareja o amigos."
+    }, 
+    {
+      "date": "13 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "msn", 
+      "text": "La verdad que lo v\u00ed en un art\u00edculo y fui un poco cautelosa, pero cumpli\u00f3 con todas mis expectativas. El sushi es uno de los mejores de Buenos Aires, con una variedad incre\u00edble. La persona que sabe comer sushi sabr\u00e1 que el pescado y la variedad es bastante  completa, la mezcla de oriente y occidente est\u00e1 muy bien controlada. \u00a1Felicitaciones al chef!. El ambiente y la atenci\u00f3n son \u00fanicas. La verdad que lo recomiendo ampliamente, pienso que es un lugar donde se puede escapar de la rutina y probar cosas nuevas, espero con \u00e1nsias los cambios en la carta."
+    }, 
+    {
+      "date": "16 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ands", 
+      "text": "Creo sin lugar a equivocarme que es el mejor sushi que he comido en toda mi vida. Deber\u00edan activar los \"after office\" lo antes posible ya que el lugar es espectacular."
+    }, 
+    {
+      "date": "1 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gima", 
+      "text": "El sushi es excelente. Mi novia comi\u00f3 langostinos y estaban de lo mejor. \r\nAdemas tienen una muy amplia carta de vinos. Y el ambiente es fashion."
+    }, 
+    {
+      "date": "28 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fer", 
+      "text": "Excelente lugar, uno de los pocos que se puede comer un buen pac\u00fa. Cuenta con una buena carta de vinos."
+    }, 
+    {
+      "date": "21 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maxim64", 
+      "text": "A m\u00ed gust\u00f3, una de las mejoras opciones a la hora de comer. La carta es variada se puede comer sushi, tapas, carnes, pastas y pescados frescos. Tiene un lindo clima, distendido; un buen servicio. Para recomendar la entrada Spring rolls con la salcita. Si piden carnes, y est\u00e1n con hambre, pidan una entrada porque los platos se preparan en el momento y pueden tardar."
+    }, 
+    {
+      "date": "9 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "quiquepora", 
+      "text": "Buena cocina, la entrada, un plato oriental muy bien logrado. \r\nConsistentes los platos principales y el postre fue muy original.\r\nUn comentario sobre una pol\u00edtica de la casa que no comparto (se repite en otros rest\u00f3s de Buenos Aires) es negarse a proveer copas de vino si los vinos pedidos no superan un determinado precio (\u00a1$89 en este caso!). \r\nYo ped\u00ed un vino de $39 y me explicaron la pol\u00edtica. La excepci\u00f3n es ser amigo del due\u00f1o, seg\u00fan nos explic\u00f3 la camarera... \u00a1Incre\u00edble! Suficiente raz\u00f3n para no volver."
+    }, 
+    {
+      "date": "22 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "agulloma", 
+      "text": "Fu\u00ed de noche con la familia y luego al mediod\u00eda con clientes. \r\nSiempre todo estuvo muy bien: servicio, comida y precio en un ambiente muy agradable. \r\nPara quedar muy bien con el invitado. \u00a1Volveremos!"
+    }, 
+    {
+      "date": "29 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carolina11", 
+      "text": "Me gust\u00f3 mucho el lugar. \r\nEstuve sentada en la parte vidriada, desde donde se puede ver la recova de noche. \r\nTodos eran turistas menos mi mesa de 5 personas."
+    }, 
+    {
+      "date": "17 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gima", 
+      "text": "Resto ideal para la gente de la recova. Fashion y con estilo propio. Muchos pol\u00edticos y gente del establishment industrial. Servicio bueno y comida muy buena. La carta de vinos es excelente."
+    }, 
+    {
+      "date": "25 Mar 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "kingshasa", 
+      "text": "Muy buena propuesta que contra resta el viejo ambiente que se vive en la Recova. Y para los hinchas de boca tenemos la oportunidad de ver a Bianchi."
+    }, 
+    {
+      "date": "31 May 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "robertal", 
+      "text": "Bien por los Bianchi. Falta un toque de cuidado en el pan y variedad en las aguas minerales. El resto, impecable."
+    }
+  ]
+}

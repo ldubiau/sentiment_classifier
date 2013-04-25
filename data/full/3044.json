@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "15 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "King_of_Spirits", 
+      "text": "Aparentemente lo re-reciclaron y tiene la pinta de los t\u00edpicos resto de Palermo, incluido los precios. Cuenta con men\u00fa ejecutivo de $25 al mediod\u00eda.\r\n\r\nEs una buena opci\u00f3n para la zona aunque podr\u00eda ajustar los precios a la misma."
+    }, 
+    {
+      "date": "27 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "javierleonardo", 
+      "text": "bien,"
+    }, 
+    {
+      "date": "23 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Miamiman", 
+      "text": "El lugar tiene much\u00edsimo potencial. El problema es simplemente que el servicio es extremadamente lento (aunque el restaurante estaba vac\u00edo) y la entrada (que en \u00e9ste caso era una pata de pollo) ven\u00eda solo en el plato..No hab\u00eda nada m\u00e1s...ni siquiera un pur\u00e9 o vegetal ni nada."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Astarte", 
+      "text": "Fui con unas amigas ya que me queda a una cuadra de mi casa. \r\nEs un viejo cine remodelado que en su parte de adelante cuenta con un caf\u00e9 y atr\u00e1s con el sal\u00f3n principal. Es un enorme galp\u00f3n donde proyectan pel\u00edculas. Buena m\u00fasica y clima. El men\u00fa es limitado pero la pizza era buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Fvidal", 
+      "text": "Muy buen lugar y atenci\u00f3n."
+    }, 
+    {
+      "date": "11 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rego", 
+      "text": "Lugar extra\u00f1o dentro de la propueta de Buenos Aires, cuando llegas, no dice nada, adentro un viejo cine de la zona, tansformado en un gran remate de anticuario."
+    }
+  ]
+}

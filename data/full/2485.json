@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "15 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "apollo", 
+      "text": "Se trata de un restaurante tipo pub con una barra espectacular con varios menues ejecutivos para todos los gustos. Los platos son abundantes y la atencion es muy buena"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nicolbono", 
+      "text": "El lugar es muy acogedor y agradable para comer en hora del mediodia. Tiene un menu variado y abundante a muy buen precio."
+    }, 
+    {
+      "date": "16 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "scg100", 
+      "text": "La comida es muy buena pero el servicio de delivery, no."
+    }, 
+    {
+      "date": "8 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Alejandra", 
+      "text": "Estilo pub ingl\u00e9s, chico. Se puede almorzar hasta tarde en las mesas (que son pocas) o bien en la barra. La comida es excelente. El men\u00fa es super variado. Hay cerveza en chopp. Muy buen caf\u00e9."
+    }
+  ]
+}

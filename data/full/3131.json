@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "2 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Andie", 
+      "text": "Ambiente feo, oscuro, viejo. Mozos capaces y eficientes. Comida maso, poca y nada extraordinario. Lo bueno es que hay lugar cuando el resto de los lugares por la zona estan completos."
+    }, 
+    {
+      "date": "18 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "rabanito", 
+      "text": "La atenci\u00f3n bien.\r\nLa comida, medio pelo. En otro barrio el mismo plato te lo cobran la mitad y encima ni estaba rico.\r\nRelaci\u00f3n precio calidad: Muy caro."
+    }, 
+    {
+      "date": "12 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "visg", 
+      "text": "Muy buena relacion precio-calidad. Son muy recomendables las pastas y empanadas. Prefiero pedir delivery que ir a comer al lugar aunque lo hice en algunas oportunidades y la atencion es buena."
+    }, 
+    {
+      "date": "15 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Dami74", 
+      "text": "En general es el lugar de encuentro de los mediodias con compa\u00f1eros de la oficina. Muy buenas pizzas, en especial la de provolone y la fugazzeta rellena con jamon y queso. La atenci\u00f3n es muy cordial y esmerada y los platos salen con rapidez. Hay tambien una carta con platos variados y muy buenos pero que resultan algo caros si se trata de almuerzos sin muchas pretensiones. La carta de vinos es extensa y el ambiente, si bien lo han ampliado, puede llegar a ser bastante ruidoso."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gaby2300", 
+      "text": "La comida era una de las opciones de men\u00faes que tienen al mediod\u00eda que incluyen plato pricipal, bebida (gaseosa, agua o vaso de vino) y postre \u00f3 caf\u00e9, o t\u00e9.\r\n No cobran cubierto.\r\nA la noche no hay men\u00faes, cobran cubierto y resulta un poco caro.\r\nLo m\u00e1s destacable es que voy bastante seguido al mediod\u00eda y hay men\u00faes de los m\u00e1s variados y SIEMPRE, pida lo que pida, desde pizza hasta mollejitas al verdeo, es todo riqu\u00edsimo."
+    }, 
+    {
+      "date": "30 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mariodom", 
+      "text": "Muy buenas las empanadas."
+    }
+  ]
+}

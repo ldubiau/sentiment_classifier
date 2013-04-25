@@ -1,0 +1,488 @@
+{
+  "malos": [
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ibottero", 
+      "text": "Un desastre. La comida de lo peor que comi en este ultimo tiempo. El servicio malisimo, se equivocaron en el pedido varias veces, no sabian nada del menu. Las comidas sin ningun tipo de sabor, las croquetas no eran bravas ya que no picaban, las pastas como si fueran compradas en supermercado y muy saladas.\r\n\r\nMe sorprenden los comentarios anteriores y fue la razon por la que decidimos ir. Nos llevamos una mala sorpresa. No lo recomendamos para nada ni volveriamos."
+    }, 
+    {
+      "date": "3 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "antoCV", 
+      "text": "Los precios son accesibles, pero los platos dejan mucho que desear.\r\nPedimos de entrada Nachos con Guacamole y realmente no volveria a repetirlo."
+    }, 
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Nadias", 
+      "text": "El ambiente es simp\u00e1tico y si la comida hubiese sido buena volver\u00eda. Lamentablemente, esta cena fue una de las peores experiencias gastron\u00f3micas de mi vida. Me iba a pedir las milanesas de soja y el mozo, muy sincero, me avis\u00f3 que eran de una marca (hiper mediocre) que se consigue en los supermercados. Entonces opt\u00e9 por los \u00f1oquis con salsa rosa y me llev\u00e9 la desagradable sorpresa que tambi\u00e9n eran de supermercado. Los reconoc\u00ed por la forma, la textura pegote y lo salado. Por los precios que tienen no esperaba nada impresionante, pero, sinceramente, me sent\u00ed muy est\u00fapida."
+    }, 
+    {
+      "date": "7 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "masacote", 
+      "text": "Safa, no es la locura. La atencion es buena y la comida aprueba. La empanada gallega es de atun en vez de caballa/jjurel, el pan de las tapas estaba viejo, la tortilla es buena igual q la ensalada Ruculuna. La birra tibia y no tiene aire acondicionado. Por el mismo preco recomiendo Preferido."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GuiameH", 
+      "text": "Lugar sencillo, con un servicio alogo lento y comida sabrosa"
+    }, 
+    {
+      "date": "6 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lidsutd", 
+      "text": "Sinceramente, esta vez que fui a El Dorinda me decepcion\u00f3. No es lo que era hace unos dos a\u00f1os, cuando fui por primera vez. Los pintxos estaban con pan pasado y ablandado, no crocantes y calentitos. La tablita de 5 gustos no ten\u00eda el leberwust prometido! Lo que salv\u00f3 la noche fue la tortilla que estaba PERFECTA Y BAB\u00c9 como a mi me gusta. L\u00e1stima que estaba un poco salada. De las veces anteriores que fui, hab\u00eda distintos tipos de cervezas, ahora s\u00f3lo hay un litro de Stella Artois. S\u00e9 que es un negocio chico, pero media pila! Que no decaiga, tienen cosas ricas. Le voy a dar otra oportunidad."
+    }, 
+    {
+      "date": "10 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "brunovi", 
+      "text": "Rico, pero le faltaba algo.. no se q.\r\nla proxima sera... si vuelvo"
+    }, 
+    {
+      "date": "9 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "El lugar es chico, pero c\u00f2modo y tiene buena onda. La atenci\u00f2n es excelente y la comida es muy buena, la relaci\u00f2n precio calidad es correcta. Lindo lugar para tomar algo y picotear"
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Zacaria", 
+      "text": "Lo mejor es el precio, pero el resto .....debe mejorar, ni la comida, ni la atenci\u00f3n satisfacen. Que l\u00e1stima."
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GuiameH", 
+      "text": "Comimos bien y barato. La atenci\u00f3n fue simp\u00e1tica, lugar ameno. Es para volver"
+    }, 
+    {
+      "date": "10 Jul 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "barrigudito", 
+      "text": "No esperes la variedad. Tengan en cuenta que tienen una sola freidora, lo que hace muy lento el servicio, si no piden nada frito igual es lento(pinchos, emp. gallega)"
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gabbs", 
+      "text": "Hicimos una reserva en el restaurant en forma telef\u00f3nica. Omitieron  decir que tenian un gran grupo familiar que estaba haciendo un ruidoso festejo. Dado el limitado espacio del restaurant, la mala acustica y  peque\u00f1a cocina, esperamos literalmetne una hora para que nos trajeran nuestro plato, que ni siquiera precisaba coccion. Era la primera noche que la moza quien no tenia oficio. El vino estaba caliente y nos trajeron papas fritas (de las de cumplea\u00f1os infantil!) para alivianar la espera. El plato fue bueno y precio muy razonable. No pensamos volver por la descuidada atencion de los due\u00f1os."
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "baram", 
+      "text": "muy rica empanada gallega. pinchos sabrosos. natilla lo mas!!!"
+    }, 
+    {
+      "date": "1 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "renoir", 
+      "text": "fui con toda la ilusion de tener una variedad de tapas y una verdadera experiencia espa\u00f1ola en palermo, y termine comiendo un bocado de queso y pan. un viernes de noche y eramos los unicos ahi. tenia poca onda y la mosa no era muy atenta a pesar de eso."
+    }, 
+    {
+      "date": "16 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pepena", 
+      "text": "ambiente sencillo, servicio aceptable juntos con los platos, destacable la empanada gallega."
+    }, 
+    {
+      "date": "3 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gabito", 
+      "text": "Simpatico, agradable y tranquilo para charlar y picar algo. Los mata la lentitud"
+    }, 
+    {
+      "date": "5 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Neuk", 
+      "text": "Muy buen lugar para picar algo. La comida era abundante y rica, a un precio muy accesible. La atenci\u00f3n fue muy buena, aunque un poco lenta. Falta variedad en la carta de vinos para acompa\u00f1ar el tapeo. El lugar es muy agradable, y por ser jueves fue raro que no haya mucha gente."
+    }, 
+    {
+      "date": "15 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lidsutd", 
+      "text": "muy rico! la verdad todo muy fresco y sencillo. lo recomiendo!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "djuan", 
+      "text": "Excelente. Comimos pintxos y tortilla, todo muy rico!"
+    }, 
+    {
+      "date": "13 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "clipomen", 
+      "text": "Muy lindo lugar, las tapas riquisimas, probamos pinchos, gambitas y empanada gallega. Todo rico y atencion amable."
+    }, 
+    {
+      "date": "14 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarabuntaRebe", 
+      "text": "Lugar muy agradable, excelente atencion y comida muy rica, muy recomendable."
+    }, 
+    {
+      "date": "30 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ClariGom", 
+      "text": "Fuimos con amigos y comimos muy bien, buena relacion calidad precio y la atencion fue muy agradable tambien. Recomiendo los pintxos, son ricos frescos y de buen tama\u00f1o."
+    }, 
+    {
+      "date": "19 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "susanavetti", 
+      "text": "El lugarr es peque\u00f1o  pero muy acogedor, la atencion es buena, y la comida (tortilla espa\u00f1ola, gambas al ajillo y croquetas bravas) nos parecio exquisita."
+    }, 
+    {
+      "date": "11 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Polinn", 
+      "text": "Buen precio, buen lugar, buena atencion, la comida muy rica y fresca."
+    }, 
+    {
+      "date": "10 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rponte", 
+      "text": "Muy rica toda la comida, en especial la cazuela de marisco, muy completa. El servicio ha sido rapido y atento, lo recomiendo."
+    }, 
+    {
+      "date": "9 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "diegacha", 
+      "text": "Excelentes tapas, como siempre."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "roluke", 
+      "text": "Me resulta extra\u00f1o tanta sa\u00f1a en el comentario anterior. Hemos ido este fin de semana y hemos comido pasta, precisamente \u00f1oquis, y teniendo en cuenta que no es la especialidad de la casa, nos han parecido de muy buena calidad, frescos y no de supermercado. Con respecto a las tapas, que es a lo que realmente se dedican, estuvieron fenomenal. Comimos pintxos vascos y tortilla a la espa\u00f1ola y estuvo todo riquisimo.\r\nY si, las croquetas no son bravas por si solas, llevan una salsa picante para mojarlas....\r\nLa atencion estuvo bien, nosotros volveremos."
+    }, 
+    {
+      "date": "30 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pepemaitre", 
+      "text": "Excelente la comida, comimos revuelto de setas y gambas de entrada y \u00f1oquis caseros a los cuatro quesos, todo barbaro, al igual que la atencion y el lugar, que para los que gustamos de sitios peque\u00f1os es ideal. Muy recomendable."
+    }, 
+    {
+      "date": "2 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lukon", 
+      "text": "Bueno, la comida esta riquisima, probamos una tablita con cinco pintxos que estaba buenisima con los ingredientes super frescos, la empanada gallega tambien, la masa casera la diferencia.\r\nEl servicio muy amable, nos trataron muy bien."
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JorAlza", 
+      "text": "Muy buen lugar para comer tapas espa\u00f1olas, en Palermo, y los precios son accesibles. La tortilla hecha al instante imperdible, y la cazuela de marisco (solo mariscos) esta mas que bien. El lugar es calido y acogedor. Volveremos."
+    }, 
+    {
+      "date": "12 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rikigo", 
+      "text": "Comimos barbaro, muy buena relacion calidad/precio/cantidad. la tortilla deliciosa, las gambas ni que hablar. Nos atendieron muy bien, volveremos."
+    }, 
+    {
+      "date": "3 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "daurich", 
+      "text": "Muy buena la comida, comimos pintxos vascos de entrada, y despues canelones y \u00f1oquis caseros, que estaban muy ricos. El servicio muy bien, y al ser lunes imagino, estaba muy tranquilo."
+    }, 
+    {
+      "date": "1 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "djuan", 
+      "text": "La comida excelente, comimos ampanada gallega, gambas al ajillo y una tablita de pintxos muy sabrosos. El lugar estaba lleno, pese a eso salio todo en tiempo y forma."
+    }, 
+    {
+      "date": "19 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SoniV", 
+      "text": "Muy lindo lugar, diferente a lo que se encuentra en Palermo, la empanada gallega es muy sabrosa y la cazuela de mariscos estaba muy bien preparada. Los precios tambien son accesibles."
+    }, 
+    {
+      "date": "17 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MiramRob", 
+      "text": "Excelente atencion pese a que el lugar estaba lleno, la comida riquisima, la tortilla hecha al instante merece un parrafo aparte. Voy a volver!"
+    }, 
+    {
+      "date": "7 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Juangab", 
+      "text": "Excelente tapeo, es su especialidad, al Dorinda se va a tapear, la atencion es correcta, y el ambiente nocturno intimo. Volvere."
+    }, 
+    {
+      "date": "7 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ivancito", 
+      "text": "Excelente la comida espa\u00f1ola que sirven en este lugar fui atendido`por su due\u00f1o Diego y eso me hizo recordar al tipico lugar de barrio y bien casero.la empanada gallega y sus pintxos son de los mejores que he probado en distintos bodegones.Desde ya muy agradecido por haberme echo tener una degustacion gastronomica superlativa."
+    }, 
+    {
+      "date": "23 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Pilita16", 
+      "text": "Muy, pero muuuy buena comida. Se toman su tiempo para servirla pero vale la pena la espera. Los pintxos y tapas me encantaron todos, las rabas buen\u00edsimas y los ingredientes de la picada super frescos. La atenci\u00f3n es muy buena y el ambiente normal, es un lugar chico pero confortable. Es destacable el precio de todos los platos, muy buena relaci\u00f3n precio-calidad. Lo recomiendo para los seguidores de la comida espa\u00f1ola y de las picadas y tapeos, no se lo pierdan! Yo cuando pueda vuelvo seguro."
+    }, 
+    {
+      "date": "9 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dydaq", 
+      "text": "Muy buena opcion presenta este lugar al que solo habia ido a comer tapas, de platos del dia super abundantes y ricos, para el que esta por la zona al mediodia y no sabe donde comer rico y accesible."
+    }, 
+    {
+      "date": "9 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diegacha", 
+      "text": "He vuelto a este lugar luego de algun tiempo y lo encuentro mucho mejor. Excelentes los pintxos vascos, todo muy fresco y con gran variedad. La empanada gallega excelente, y la atencion ha sido muy buena y atenta."
+    }, 
+    {
+      "date": "5 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tincho_ba", 
+      "text": "excelente atenci\u00f3n y calidad de la comida, el mozo cuenta con poca experiencia pero lo compensa con su total predisposicion a los comenzales"
+    }, 
+    {
+      "date": "6 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "leeleebee", 
+      "text": "Los sandwiches correctos, no m\u00e1s, pero la empanada gallega DELICIOSA!!!! El servicio amable, aunque a veces falta q est\u00e9n m\u00e1s atentos a ver si el cliente necesita algo. La ambientaci\u00f3n despojada y agradable, aunque podr\u00eda mejorar. Sin duda la vedette es la empanada gallega."
+    }, 
+    {
+      "date": "29 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Kenta", 
+      "text": "La atencion muy buena, al igual que la comida!!\r\nLastima los fleteros del frente que le sacan la tranquilidad del lugar. Fuera de eso no me quejo de nada. Mucha suerte!!"
+    }, 
+    {
+      "date": "14 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jaibuk", 
+      "text": "Excelente! un lugar imperdible! se los comento a todos mis amigos porque las veces que fui estaba casi solo y tengo miedo q cierre!\r\nEs super barato..\r\nLos Pintxos son barbaros.. pero la reina del lugar es la empanada gallega IM-PER-DI-BLE. Juro que la masa tiene sabor a galletitas REX! jajaja"
+    }, 
+    {
+      "date": "9 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "djuan", 
+      "text": "Excelente lugar para comerse uno ricos pintxos vascos, y una empanada gallega mortal por su tama\u00f1o y sabor. Altamente recomendable. Ademas realizan varias actividades artisticas muy interesantes."
+    }, 
+    {
+      "date": "15 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "damislo", 
+      "text": "Muy buena comida y atencion, lo recomiendo!!!"
+    }, 
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "djuan", 
+      "text": "riquisimo todo, pero mencion especial para el brownie, delicioso!"
+    }, 
+    {
+      "date": "31 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diegacha", 
+      "text": "Excelentes canelones, bien caseros, de espinaca y ricotta, con una salsita de puerros muy buena.\r\nMuy calido el lugar y gran atencion.\r\nAdemas, se puede ver una muestra diferente cada vez por lo que me dijeron."
+    }
+  ]
+}

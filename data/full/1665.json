@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "16 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LeBigMac", 
+      "text": "La atenci\u00f3n es muy buena y el lugar muy lindo y tranquilo."
+    }, 
+    {
+      "date": "16 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cerrasab", 
+      "text": "Muy recomendable. El personal se muestra atento y cordial con los comensales."
+    }, 
+    {
+      "date": "12 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "a_mestre", 
+      "text": "Buen equilibrio entre precio y calidad."
+    }, 
+    {
+      "date": "14 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mperasso", 
+      "text": "El lugar es muy agradable, la comida se sirve en porciones para compartir o media porci\u00f3n.\r\nEl inconveniente es la atenci\u00f3n, ya que solo cuentan con dos camareras para atender todo el sal\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "huemul", 
+      "text": "Somos habitu\u00e9s del Sauco, y debo decir que el parrillero Cacho es un mago de la parrilla. Su provoleta es perfecta, de hecho, la utilizamos como \"provoleta patr\u00f3n\" para comparar con la calidad de otras parrillas. La carne es muy buena y la cocci\u00f3n siempre viene como uno la pide.\r\nAhora bien, acabo de pasar por el lugar, y ya no est\u00e1n. \u00bfNo hay un cartel que indique si est\u00e1n remodelando o se mudaron? \r\nPor lo tanto, agradecer\u00eda cualquier dato acerca del paradero del Sauco y su parrillero Cacho. \u00a1Ser\u00eda una pena perderlos!"
+    }, 
+    {
+      "date": "24 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "circa", 
+      "text": "El lugar es hermoso, la comida exelente, los precios buenos. Algo para mejorar es la atenci\u00f3n cuando hay mucha gente."
+    }
+  ]
+}

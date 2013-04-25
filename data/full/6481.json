@@ -1,0 +1,958 @@
+{
+  "malos": [
+    {
+      "date": "3 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "baltasound", 
+      "text": "La carta es muy amplia y super tentadora, demasiado pretenciosa, pero el lugar es lo m\u00e1s chico que se puedan imaginar y la comida no es gran cosa. Las quesadillas sincronizadas ten\u00edan pollo que parec\u00eda molido y muy poco queso. Los mojitos ten\u00edan demasiado jenjibre y ron nacional ($18)"
+    }, 
+    {
+      "date": "6 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "sebic", 
+      "text": "Realmente, una pena. Pedimos dos fajitas dobles, supuestamente para 4, y nos trajeron 2 platos como para una persona. Fue relativamente car\u00edsimo, el lugar lleno de humo y calor.\r\nHab\u00edamos ido con mejores expectativas."
+    }, 
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "El dicho dice que quien mucho abarca poco aprieta. Creo que el problema con la comida de Melao es que quisieron abarcar demasiados platos y no lograron perfeccionar ninguno. Mi tandoori no tenia mucho gusto, el picante inexistente. El resto de los platos que pedimos esta noche tampoco nos impresiono."
+    }, 
+    {
+      "date": "18 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "salatinoa", 
+      "text": "no me termino de gustarno aestaba a la temperatura q me gusta. quizas la proxima"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "lovelyrita", 
+      "text": "Muy rico, buena variedad internacional y una carta original con mucha comida tentadora. Me gust\u00f3 mucho el plato de Marruecos, con adecuado picante. El lugar apunta a ser c\u00e1lido, pero es demasiado informal: peque\u00f1o, mesas pegadas, vi que en algunos casos hab\u00eda banquitos inc\u00f3modos y el ba\u00f1o un desastre. Los precios no son tan bajos como para obviar el ambiente. Lo recomiendo pero para llevar."
+    }, 
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GordoWallace", 
+      "text": "Una propuesta diferente. Fuimos a probarlo por los comentarios de la gu\u00eda y nos gust\u00f3 mucho. La atenci\u00f3n es muy c\u00e1lida y la comida es muy rica. No es muy abundante pero es muy sabrosa."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "natycalis", 
+      "text": "La propuesta es muy interesante. La carta incluye platos de todas partes del mundo que se cocinan al momento. Hay tanta variedad, es todo tan fresco y bien hecho que dan ganas de volver s seguir probando. Las porciones son abundantes: ideal para pedir distintos platos y compartir. Excelentes los woks. Muy c\u00e1lida la atenci\u00f3n. Dato importante: hay pocas mesas (el lugar es muy chico) y como la cocina es abierta y no tiene campana, hay olor a comida y se impregna en la ropa. El que avisa, no traiciona!"
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dallor4", 
+      "text": "El lugar es peque\u00f1o, pero c\u00f3modo. Y eso lo hace c\u00e1lido y familiar. La m\u00fasica acompa\u00f1a bien el momento. La atenci\u00f3n es correcta, ni \"muy muy\" ni \"tan tan\". La comida excelente. Variedad de platos y estilos. De calidad y hecha en el momento. Los precios est\u00e1n bien, considerando su abundancia. Pero no es barato.\r\nBuen\u00edsima opci\u00f3n la de descorche. \r\nDefinitivamente volveremos."
+    }, 
+    {
+      "date": "2 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cvescina", 
+      "text": "Muy buena la comida, es todo muy casero y la atenci\u00f3n excelente, el lugar es muy chiquito pero muy acogedor (es como estar comiendo adentro de la cocina), fui con mi pareja y tanto los platos principales como el postre fueron muy buenos."
+    }, 
+    {
+      "date": "8 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "JuanMRo", 
+      "text": "Esperaba mucho mas. Sabia de la escasez de espacio y de la atenci\u00f3n entre artesanal y rudimentaria pero esperaba descubrir sabores intensos y memorables. Esta bien, volver\u00e9 pero pidiendo Delivery."
+    }, 
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Goose", 
+      "text": "El lugar es chiquitito con la cocina encima, esa es parte de su gracia.\r\nLa carta es muy larga con platos latinos y de otros lados (comimos uno irland\u00e9s y otro de Madagascar, muy ricos).\r\nDan ganas de volver a probar otras cosas."
+    }, 
+    {
+      "date": "22 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Tincho99", 
+      "text": "Los platos a\u00fan cuando son sabrosos, son muy escasos y caros. El lugar es diminuto con ausencia de ventilaci\u00f3n. Te vas con el olor a comida impregnado."
+    }, 
+    {
+      "date": "14 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "martinquee", 
+      "text": "La comida es muy rica, hay mucho para elegir y el menu va cambiando cada tanto. No es lo mas comodo comer ahi, pero si era una excelente opcion de delivery, lastima que ya no tienen mas ese servicio."
+    }, 
+    {
+      "date": "3 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "RRector82", 
+      "text": "Lugar muy peque\u00f1o. Los ba\u00f1o me parecieron sucios y con ropa de empleados por todos lados. No hay ba\u00f1o para damas y caballeros, solo un ba\u00f1o compartido. La atenci\u00f3n terrible. El olor que dejo en la ropa la comida y el calor del lugar por la falta de corriente de aire no dejan ganas de volver. Comida recalentada."
+    }, 
+    {
+      "date": "3 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Guada1287", 
+      "text": "Los platos muy ricos, en l\u00edneas generales. Tal vez un poco grasosa la carne molida para mi gusto, pero buenos sabores. La carta es simp\u00e1tica por los nombres de los platos y de los ingredientes, pero como la atenci\u00f3n fue poco esmerada se hizo dif\u00edcil elegir. No fueron demasiado amable, lo de la chica que nos recibi\u00f3 roz\u00f3 el maltrato, eso nos rest\u00f3 algunos puntos. Los precios son los de un rest\u00f3 de palermo pero el lugar est\u00e1 lejos de eso...un poquito altos"
+    }, 
+    {
+      "date": "26 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ginebra", 
+      "text": "Fuimos por un cup\u00f3n. La verdad es que el lugar es distinto a lo que uno se espera: peque\u00f1o, casero. Daban ganas de pararse y ver c\u00f3mo cocinan (estaban a un paso)\r\nLos Nachos Rancheros exquisitos! (Cheddar, salchichitas, pepinos y dem\u00e1s!). El arroz con mariscos tambi\u00e9n! Sabores distintos y un ambiente peque\u00f1o pero agradable. Lo recomiendo tambi\u00e9n para delivery! l\u00e1stima que vivo lejos, si no pedir\u00eda.\r\nVolver\u00eda!"
+    }, 
+    {
+      "date": "17 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "bebotito", 
+      "text": "Es la 3\u00aa vez que vamos para festejar algo. Lamentablemente, la calidez y buena onda de las dos primeras no se not\u00f3 en la tercera. La comida, como siempre sabrosa. Me gust\u00f3 mucho la arepa de carne. Las taquizas (tipo fajitas) ricas, pero nada especial. Las tortillas estaban recalentadas en el microondas y se hab\u00edan pegado bastante entre si. Porciones correctas y platos para compartir. Honesta la actitud de la due\u00f1a que sali\u00f3 a la puerta corriendo porque pens\u00f3 que le hab\u00edamos dejado $100 de m\u00e1s. Precios algo altos para el lugar. No se si vale la pena volver."
+    }, 
+    {
+      "date": "20 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Majigo", 
+      "text": "Fuimos con un cup\u00f3n. Nos dieron una carta especial para la gente que compr\u00f3 cup\u00f3n. Despu\u00e9s de pedir contra la voluntad de la moza, vimos la otra carta que se ve\u00eda atractiva por su variedad de platos. (Parece que no quisieran que la gente que va con cup\u00f3n compre m\u00e1s cosas aparte de lo que incluye la promo. ). La atenci\u00f3n regular, pero la due\u00f1a fuera de serie. Una mujer completamente grosera, con mala cara, trataba mal a sus empleados. Brusca, tiraba la puerta del microondas en que recalentaba la comida, y lo ten\u00edamos casi encima de la cabeza. L\u00e1stima la due\u00f1a tan desagradable!"
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Marcelito33", 
+      "text": "Muy rico Ped\u00ed una burra norte\u00f1a y agua con lim\u00f3n y gengibreExcelente calidad de la comida, fresco original y rico, con un excelente servicio Que mas se puede pedir? Para volver o pedir delivery"
+    }, 
+    {
+      "date": "14 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "VasaSy", 
+      "text": "una joyita... comida muy rica, caserita, muy variada y condimentada... el lugar es chico, pero bonito y acogedor. Yil\u00e1n, la due\u00f1a, cubana, \u00a1tiene la mejor onda! charl\u00e1s ah\u00ed con ellos mientras te preparan la comida ?todos extranjeros, todos simp\u00e1ticos, educados y atentos... al toque te sent\u00eds en casa."
+    }, 
+    {
+      "date": "2 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Zorak_20", 
+      "text": "Compre para llevar Taquizas para 2, basicamente son fajitas con arroz, pollo y 4 salsas. Todo nos salio 84, si bien la comida era rica, no tenia diferencia a las fajitas caseras que suelo hacer, nada de otro mundo para ser un lugar especializado en ese tipo de comida. Encima no fue abundante, en la bandeja que nos diero el 70 % era arroz y solo un 30 % de pollo, lo cual hizo que hubiera que racionarlo para comer 2 fajitas cada uno. \r\nResumen, rico pero demasiado caro y no abundante, no vuelvo a pedir."
+    }, 
+    {
+      "date": "4 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "malegria", 
+      "text": "Melao sorprende! Es muy chico (muy, no se puede ir de a mas de dos personas!!) a tal punto que ni parece del todo un restaurant. \r\nEso hasta que empieza el ritual. Ya la carta tiene esa peque\u00f1a y justa dosis de misterio que ti\u00f1e de adrenalina el momento de la elecci\u00f3n.\r\nY con la llegada de los platos esa imagen de rotiseria de barrio a medio armar se va desvaneciendo casi definitivamente.\r\nCon sabores muy ricos, bien logrados y platos abundantes que logran que uno viaje con el paladar, la experiencia de Melao se resume como muy satisfactoria! \r\n(mas all\u00e1 de su pol\u00e9mico menu de $135)"
+    }, 
+    {
+      "date": "24 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "salsina", 
+      "text": "todo un descubrimiento gracias a la guia oleo, el lugar es super chico asi que a reservar con tiempo, pero lo mejor es la onda y la comida super recomendable, y volveremos"
+    }, 
+    {
+      "date": "23 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Vilory", 
+      "text": "El lugar es muy peque\u00f1o, s\u00f3lo 3 mesas tiene, pero es coqueto, el servicio es muy atento y amable y la comida es buena, el fuerte son los postres.\r\nEl dato a tener en cuenta es que la zona no es muy segura, no hay estacionamiento."
+    }, 
+    {
+      "date": "15 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "colombianito", 
+      "text": "Buena comida"
+    }, 
+    {
+      "date": "12 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GLADYCHUS", 
+      "text": "Muy buena opcion si queres sentirte como en la cocina de  tu casa y que pasen las horas entre charla con amigos y platos de distintos puntos..buenisima la pakistani..los tragos y los postres..exelente el de crema helada de tequila y frutas  muy ricas..sorprendente la combinaci\u00f3n de sabores..acompa\u00f1ado del vino que uno puede llevarse..porque no hay carta de vino..pero la buena onda de ahi ..te permite esto justamente acoplarte en el contexto del lugar ..relajado..simple y rico..hay que ir con ganas de dejarse llevar por los sabores..precio: bien....mojito cubano..otro dia voy...!!!"
+    }, 
+    {
+      "date": "6 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "la_pipi", 
+      "text": "Fui por las recomendaciones de Guia Oleo. No me gust\u00f3 para nada, la comida nada extraordinario, probamos comida mexicana en mejores lugares y a mejor precio. Muy caro por el servicio que ofrecen. Una entrada que compartimos entre dos, un plato principal para una persona, un postre (muy malo) y dos cervezas de litro, todo $150. Y ni siquiera es un restaurant. No vayan!! no lo recomiendo. Puede ser que fin de semana tenga mejor onda."
+    }, 
+    {
+      "date": "19 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kandie_128", 
+      "text": "Las quesadillas son riquisimas, tambi\u00e9n las fajitas. La comida pakistani no tanto pero igual buena. El servicio es bueno, la gente es muy amable. El lugar es un poco apretado, creo que es mejor para delivery. Y si van no lleven su mejor ropa porque van a salir con olor a comida porque la cocina est\u00e1 junto a las mesas."
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jose_la_linda", 
+      "text": "El lugar chico (no mas de cinco mesas) te hace sentir que estan cocinando s\u00f3lo para vos - Gracias a todos por el trato y la buena onda. La cocina a la vista nos permitio ver como se preparan los riquisimos platos que luego comimos - PARA REPETIR Y RECOMENDAR"
+    }, 
+    {
+      "date": "7 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "llnn", 
+      "text": "Hay solo 4 mesas, pero hay espacio suficiente.\r\nMe parecio un poco caro para lo que eran los platos, queria comer comida mexicana y los platos que queria no habia, una lastima.\r\nUna de las mozas me atendio con mala onda, la otra muy bien.\r\nNo creo que vuelva."
+    }, 
+    {
+      "date": "6 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ramirez", 
+      "text": "fui con mi familia a comer a este peque\u00f1o lugar cuando entramos nos sorprendi\u00f3 que eran pocas mesas y que la cocina estaba a la vista, nos sentamos y nos atendieron muy amablemente dos personas explic\u00e1ndonos los platos ya que era la primera vez que \u00edbamos.\r\nme pareci\u00f3 interesante y agradable esperar mi comida mientras iba viendo como la preparaban.\r\nlos platos son muy abundantes y ricos al igual que los postres.\r\nvolver\u00e9 a ir a esta fondita la recomiendo!"
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Klama", 
+      "text": "Comida mejicana cara sin muchas pretensiones."
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "balotage", 
+      "text": "Eleg\u00ed este restaurant por el estilo de los platos de su men\u00fa. Mi primera impresi\u00f3n fue que el que mucho abarca poco aprieta, pero sin embargo, y por los comentarios positivos, le di una oportunidad. El lugar era min\u00fasculo, s\u00f3lo 6 mesas muy apretadas y la cocina integrada al sal\u00f3n sin ning\u00fan tipo de ventilaci\u00f3n. El humo hac\u00eda arder los ojos. Nos llevamos el olor de todos los platos en nuestra ropa. El mojito, intomable, hecho con el peor ron nacional. La comida, regular. Los ingredientes no eran frescos, parec\u00eda todo preparado industrialmente y recalentado. No lo recomiendo, no vuelvo m\u00e1s."
+    }, 
+    {
+      "date": "13 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CapuTo5", 
+      "text": "Muy buena onda, l\u00e1stima que es muy chico. Buena atenci\u00f3n. La comida muy rica"
+    }, 
+    {
+      "date": "27 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "habitue", 
+      "text": "Muy rica la comida y bien casera. Ojo que es un poco picante, pero los gustos son muy originales y muy bien condimentada. El lugar es super chiquito, pero simp\u00e1tico."
+    }, 
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Marcosfanu", 
+      "text": "fui a comer a la noche con 2 amigos m\u00e1s (en total 3 personas) uno de ellos ya hab\u00eda ido el mes pasado y decidimos volver ya que nos recomend\u00f3 por el buen precio y la comida, pero esta vez fue mucho m\u00e1s caro, pedimos un solo plato para compartir entre tres con dos jarras de jugo y sin postre y pagamos $60 por persona, por una comida mexina, no increible que se encuentra en cualquier otro bar de Palermo, por menos costo. Resumen: la comida est\u00e1 bien, pero es muy CARO. sin vino y sin postre aprox $60 por persona."
+    }, 
+    {
+      "date": "15 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "matbogui", 
+      "text": "El lugar es re chiquito. Hay como 5 mesas nada m\u00e1s y no esta separada la cocina. Fui en invierno, afuera hac\u00eda un fr\u00edo b\u00e1rbaro y adentro la temperatura era cerca de los 35\u00b0, un calor insoportable. La comida no fue tan especial, parec\u00eda bastante com\u00fan. No pienso volver."
+    }, 
+    {
+      "date": "9 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "SurferRosa", 
+      "text": "El lugar es muy chiquito, solo 4 mesas, lo que permite una muy buena atenci\u00f2n, pero la m\u00f9sica est\u00e0 muy alta para ser un lugar tan peque\u00f1o, rebota mucho el sonido, es incom\u00f2do mantener una conversaci\u00f2n. La comida es rica, est\u00e0 bien, pero al abarcar varios estilos de comida no le prestan mucha atenci\u00f2n a los detalles q hacen interesantes las diferencias entre estos platos internacionales. Los tragos no estaban bien logrados, pero los postres si, eran muy ricos."
+    }, 
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lcandel", 
+      "text": "Muy lindo lugar... pero MUY peque\u00f1o. La atencion es la estrella, segun mi punto de vista. Cuando llegue estaba todo (las 3 mesas) reservado. Pedi un Tandoori para llevar y como no tenian cubiertos descartables para darme, me prepararon una messita con una banqueta DENTRO de la cocina, y comi alli. El Tandoori estaba muy rico, pero no fue tan picante como me lo imaginaba. Seria buenisimo si se pudieran conseguir un local con mas lugar. De todos modos es super recomendable."
+    }, 
+    {
+      "date": "2 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Paula77", 
+      "text": "Nos escanto el lugar, el servicio es excelente, Yil\u00e1n y las chicas que atienden te explican con lujo de detalle todo lo q precises saber.\r\nLa comida muy rica y abundante, hay de todo para probar y saborear, no elegimos platos marcados como picantes, pero nos parecio q todos estaban pensandos para el gusto argentino!\r\nLos felicito y seguiremos degustando sus platos!"
+    }, 
+    {
+      "date": "23 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Verdil", 
+      "text": "A pedido del lugar, al que va mucha gente por los buenos comentarios que hay en la gu\u00eda, pero esa gente no comenta despu\u00e9s, dejo mi opini\u00f3n: la atenci\u00f3n es de lo m\u00e1s cordial que pueda haber, las aguas saborizadas me encantaron y disfrut\u00e9 mucho de combinaciones de sabores muy interesantes. Dado que en el men\u00fa aparecen platos nuevos cada 3 meses, seguro vuelvo a probar otras cosas!! El ambiente es s\u00faper relajado, ideal para ir con amigos. OJO! Reserven el d\u00eda anterior que hay MUY poco lugar (tuvimos suerte)!"
+    }, 
+    {
+      "date": "20 Ene 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "gladysR", 
+      "text": "La comida se ve que esta hecha con buenos ingredientes, pero puede ser que la entrega a domicilio le quite merito(tortillas gomosas, rellenos \\\"apelotonados\\\"). Vamos a tener que ir a comer al local para probar realmente como es."
+    }, 
+    {
+      "date": "18 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "bebotito", 
+      "text": "Excelente todo!!! Desde la atenci\u00f3n, la calidez, lo at\u00edpico del lugar, hasta la originalidad de los platos. Comimos botanitas: RIQU\u00cdSIMAS!!! Adem\u00e1s somos casi vecinos, asi que me parece que vamos a ir seguido. Recomendaci\u00f3n: reservar mesa, dado que el lugar es muuuuy chiquito."
+    }, 
+    {
+      "date": "12 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Suspiros", 
+      "text": "EL lugar es muy particular, tiene su encanto y no responde en absoluto al formato tradicional de restaurantes; es casi como comer en la cocina de una casa -con forma de isla- y as\u00ed de c\u00f3modo se siente. Los platos en general y los postres son sumamente sabrosos, arom\u00e1ticos y fuera de lo com\u00fan. El lugar tampoco es de cocina tanto cubana como latinoamericana; hay platos mejicanos, peruanos, venezolanos, etc. Las porciones son muy abundantes y dan para compartir y degustar entre todos. La atenci\u00f3n es muy buena y explicativa. Definitivamente, es una cocina rica, divertida y da para volver."
+    }, 
+    {
+      "date": "24 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "hambrientos", 
+      "text": "Muy buena la atenci\u00f3n, llegamos cuando cerraban y nos prepararon algo igual (unas genias las chicas)l acomida nos gust\u00f3 mucho."
+    }, 
+    {
+      "date": "23 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SoliTulip", 
+      "text": "Me encant\u00f3, buena cantidad en las porciones, quedamos super satisfechos, volveremos a pedir!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "marianne30", 
+      "text": "La comida de Melao es espectacular, vale la pena ir a probar!! comimos el curry jamaiquino que es una delicia y un saltado vietnamita que estaba muy bien. El lugar, como todos dicen, es peque\u00f1o, con las mesas muy juntas y el ba\u00f1o es deja mucho que desear; pero la comida es su gran fuerte. Una pena que no haya carta de vinos, s\u00f3lo se vende por copa el vino que tengan abierto."
+    }, 
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "laupovich", 
+      "text": "Lo bueno.. la comida es excelente y tiene estilos muy variados. hay aguas frescas.. como en el chavo!\r\nlo malo.. el lugar es muy chiquito (20 personas y muy apretadas), algunas mesas son plegables y con banquitos. el local esta muy descuidado esteticamente. en cuanto a las bebidas alcoholicas no hay gran variedad.\r\nen resumen, un lugar para ir a comer muy rico sin preocuparte q te vas a poner."
+    }, 
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Polixa", 
+      "text": "No"
+    }, 
+    {
+      "date": "10 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "veroponi", 
+      "text": "fui dos veces, me atendieron muy bien.\r\nla comida es excelente"
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DAVIDVALDETE", 
+      "text": "La atenci\u00f3n muy amena , divertida y personalizada , realmente te hacen sentir que est\u00e1s en la cocina de tu casa \" degustando gourmet \" , se puede llevar su propio vino y solamente cobran el descorche y muy racional ( $ 5 por persona ). Hace 3 s\u00e1bados consecutivos que vamos y seguiremos yendo porque la carta es EXCEPCIONALMENTE VARIADA Y ANTOJADIZA. Felicitaciones !!! , el lugar es peque\u00f1o y nada lujoso , PARA ENTENDIDOS EN DEGUSTAR UNA EXCELENTE COCINA"
+    }, 
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "amelie5", 
+      "text": "Es un lugar muy chiquito, pero acogedor, la comida es exelente.\r\nVoy a volver con seguridad."
+    }, 
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "romaedu", 
+      "text": "Acabo de volver de Melao. La verdad que muy bueno, comimos chimichanga y otro plato tipo tacos de pollo muy buenos, muy ricos. El trago medio pelo.. un que era con ron pero era medio medio con soda. El ambiente de 10, la comida muy buena, muy chico es verdad, pero es parte del encanto.\r\nUna cosa interesante, es que como la cocina esta bien pegada, cada plato que se hace,se puede oler y todo huele muy rico.. vuelvo %. Punto importante, tiene descorche."
+    }, 
+    {
+      "date": "31 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Monitekel", 
+      "text": "El lugar es super chiquito y acogedor, fui con mi pareja y la pasamos genial. La comida riqu\u00edsima, ideal para los que les gusta comer comida bien condimentada y sabores contrastantes. La atenci\u00f3n es muy buena."
+    }, 
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cecizeta", 
+      "text": "El lugar es chiquito pero super c\u00e1lido.La atenci\u00f3n es excelente, la misma chef atiende las mesas, sugiere platos y tragos con una onda b\u00e1rbara.  La comida es deliciosa, super variada y abundante. Fui varias veces y seguir\u00e9 yendo para seguir probando nuevos platos ya que carta va variando de tanto en tanto. La musica cubana de fondo da a este lugar un toque especial."
+    }, 
+    {
+      "date": "15 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Liladelu", 
+      "text": "Fuimos por recomendaci\u00f3n.  La atenci\u00f3n fue buena, mejorando con el transcurso de la cena. La carta nos pareci\u00f3 muy variada y nos cost\u00f3 decidir qu\u00e9 pedir. La comida nos pareci\u00f3 DELICIOSA, las porciones m\u00e1s que correctas. No s\u00f3lo lo recomendamos sino que esperamos convertirnos en habitu\u00e9s!"
+    }, 
+    {
+      "date": "21 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "kufy", 
+      "text": "Es uno de esos lugares para ir seguido porque todo lo de la carta es atractivo. El sal\u00f3n es chiquit\u00edsimo, apenas un par de mesas, pero el servicio es bueno y la comida sale a punto y r\u00e1pido. Mientras com\u00ed el delivery no par\u00f3 un segundo, asi que la pr\u00f3xima voy a pedir para probar si les sale tan bien como en el lugar. La \u00fanica contra es que no tiene una buena circulaci\u00f3n de aire por lo que probablemente salgas con olor a comida."
+    }, 
+    {
+      "date": "17 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gea77", 
+      "text": "Es un lugar chico, por lo cual  da esa sensaci\u00f3n de estar comiendo en casa, pero con una calidad de cocina impresionante. Yil\u00e1n te explica cada plato, te cuenta las historias y est\u00e1 super atenta de que est\u00e9s a gusto.  Disfrutamos mucho no solo la comida sino unos jugos de fruta espectaculares."
+    }, 
+    {
+      "date": "2 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Stafford", 
+      "text": "Es un lugar con mucha alma. La comida riqu\u00edsima, lugar simple pero divertido con la cocina abierta. Mas importante los personas que trabajan all\u00ed son divinas con los pies en la tierra. Sent\u00ed como un amigo en casa."
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "celi1281", 
+      "text": "la verdad, que aunque el lugar es chico, fue una de las mejores comidas que comi en todo buenos aires, y quiero volver pronto!! muy lindo para ir en pareja y tener una cena tranquila!"
+    }, 
+    {
+      "date": "15 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "topoychu", 
+      "text": "La comida es buenisima, el ambiente no llama la atenci\u00f3n, pero te aseguro que te vas contento y muy satisfecho. Hay variedad de platos y el mojito, es bastante distinto a lo tradicional."
+    }, 
+    {
+      "date": "27 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "JoaoPauloBarroso", 
+      "text": "El local es chico y la comida es deliciosa. Son tantas opciones, de tantos lugares del mundo, que la elecci\u00f3n no resulta f\u00e1cil. El mole es imperdible, excelente comfort food. Platos muy bien condimentados y buenas porciones. Muy recomendable."
+    }, 
+    {
+      "date": "13 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "corita", 
+      "text": "Este restaurante es lo que en ingl\u00e9s se llama \"a hole in the wall,\" o sea muy chiquitito casi improvisado. Queda a criterio de cada uno gozar o no de este tipo de presentaci\u00f3n. Lo indudable es que est\u00e1 todo pensado con amor y los sabores son ricos. Te da la impresi\u00f3n de que el staff realmente quiere que lo disfrutes al m\u00e1ximo. Cuando ped\u00ed una recomendaci\u00f3n de bebida, me trajeron las tres aguas frescas para probar. En resumen: es un lugar \u00fanico, sin pretensiones, con men\u00fa de distintos sabores del mundo y postres riqu\u00edsimos. Todo lo que hemos probado del men\u00fa hasta ahora estaba rico."
+    }, 
+    {
+      "date": "4 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ibottero", 
+      "text": "Me parecio genial el lugar ya que te cocinan un grupo de jovenes ahi al lado tuyo como si estuvieran en su casa, muy relajado todo, muy peque\u00f1o y los sabores muy ricos. Seguro que volveremos."
+    }, 
+    {
+      "date": "29 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jaibanez", 
+      "text": "Fuimos ocho amigos por recomendaci\u00f3n de mi hijo. Pedimos ocho platos distintos bajo el atento asesoramiento de Yilan. Sencillamente excelente la comida y la atenci\u00f3n. Volveremos"
+    }, 
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ojoculinario", 
+      "text": "Siempre pido delivery. Esta vez una ensalada muy completa con productos que nunca hab\u00eda probado, un choclo de colores verdes azules y rojos delicioso que adem\u00e1s tiene pollo con man\u00ed y papas andinas. Tambi\u00e9n el plato de pescado muy fresco, algo extra\u00f1o el arroz con sabor a coco, pero muy sabroso. Ir\u00eda a cenar a su fondita pero vivo tan cerca que es m\u00e1s c\u00f3modo pedir por tel\u00e9fono. Un men\u00fa extenso que hace que repitas para seguir probando. Lo recomiendo aunque deba esperar 45 minutos."
+    }, 
+    {
+      "date": "27 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lunette", 
+      "text": "Un lugar hermoso, intimo para deleitar el paladar, super recomendable."
+    }, 
+    {
+      "date": "23 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pany123", 
+      "text": "\u00a1Gran hallazgo esta fondita, con riqu\u00edsimos platos, tragos y aguas frescas imperdibles! La atenci\u00f3n de lo mejor, muy explicativos y con excelente predisposicion. El lugar es chiquito, no mas de 5 mesas y la cocina esta pegadita a uno, as\u00ed que le quedan los olorcitos. Gran varidad de platos latinoamericanos, pero tambi\u00e9n del resto del mundo. Los precios acordes a la calidad y cantidad. Ya he ido varias veces y Yilan, la chef, no deja de sorprenderme \u00a1Altamente recomendable!"
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cositarica", 
+      "text": "Fuimos el S\u00e1bado y nos llam\u00f3 la atenci\u00f3n a mi marido y a mi que eran s\u00f3lo 2 chicos para la gran variedad de platos del men\u00fa y lo lleno que estaba. Luego nos explicaron que estaba el resto del equipo en un evento, pero as\u00ed todo nunca perdieron la calma o al menos eso demostraban y nos atendieron super bien y la comida riquisima. Yo lo recomiendo, y ojal\u00e1 que vaya poca gente para que siga siendo muy selecto."
+    }, 
+    {
+      "date": "11 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PedroV", 
+      "text": "La carta es increible por la variedad y la perfecci\u00f3n con la que cada plato est\u00e1 ejecutado. Los ingredientes son siempre sencillos pero los condimentos y las preparaciones son de un nivel envidiable, incluso por los mejores lugares de capital que preparan este tipo de comidas. El precio est\u00e1 bien, es acorde a la oferta del barrio."
+    }, 
+    {
+      "date": "19 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "walterdr350", 
+      "text": "muy bueno, muy buena comida"
+    }, 
+    {
+      "date": "3 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cariniomalo", 
+      "text": "Exquisita comida, porciones generosas, la chef se acerca a consultar sobre los platos, te hace sentir como en casa, y ademas aconseja impecablemente. Lo unico negativo es que el lugar sea tan chiquito, pero igual no molesta a la experiencia de comer en este lugar. El postre de la jinetera es: ex-qui-si-to!"
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Bertacome", 
+      "text": "Impresionante, me encant\u00f3. Llevamos el vino porque cuando reserv\u00e9 me dijeron que no ten\u00edan y si quer\u00edamos pod\u00edamos llevarlo sin que se nos cobrara el descorche. Es algo inusual esto, pero a cambio te piden que consumas alguna bebida de all\u00ed. Tom\u00e9 un agua de guayaba muy rica y com\u00ed Botanitas que no terminamos porque era abundante el plato. Da para comer 3. Est\u00e1 bueno el lugar, es raro porque se ve todo lo que hacen, pero el ambiente es relajado y estilo fonda. Voy a volver porque la carta es muy variada y quiero probar todo. Lo recomiendo, y con olor a fritura inclusive."
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "luckpapurro", 
+      "text": "Es de lo mejor que visit\u00e9 ultimamente... el lugar es super comodo y acogedor (aunque muy peque\u00f1o), la comida es deliciosa, la atencion es muy buena pero sobre todo tienen esa cosa casera que ya casi no se ve en ningun lugar. Excelente!"
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "nachodelapor", 
+      "text": "Excelente la comida. Comimos un Curry y Callalao y un Irish Gaelic Steak, uno mejor que el otro. La atenci\u00f3n es muy buena, s\u00f3lo hay 4 mesas, atendidas por quien entiendo es su due\u00f1a. Lo \u00fanico negativo es que, al estar la cocina junto a las mesas, queda un olor a fritura bastante considerable en la ropa. Pero si se quiere comer MUY BIEN y por un precio ultra razonable, no dejen de ir. Volver\u00e9."
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "julioguzman", 
+      "text": "Un hallazgo. No s\u00e9 si pagando muy caro se pueda comer tan rico. Fuimos 3 veces y siempre, del primer plato al \u00faltimo, los tragos, los postres; excelente. La atenci\u00f3n por la due\u00f1a es super acogedora. El lugar es chiquito y simple. Quien busque lujos o vidriera pierde el tiempo. Quien quiera comer muy rico y pasar un momento bien ameno pierde el tiempo si no va."
+    }, 
+    {
+      "date": "16 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Mariamagdalena", 
+      "text": "El lugar chico pero acogedor. Lo atiende la due\u00f1a junto a sus empleados. La comida es variada y gustosa. Por suerte me asesoraron con el pedido porque los platos eran muy abundantes. Un lugar para ir con tiempo porque est\u00e1 rebueno ver como cocinan a la vista. Lo recomiendo."
+    }, 
+    {
+      "date": "5 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mvillacrespo", 
+      "text": "Miren, la comida es absolutamente excelente. en pocos restos de BsAs comi tan bien. En realidad, el curry (curry de Jamaica) fue el mejor que he comido aca en 5 anios. El lugar es chico, es simple, es de barrio. Pero vas a comer como un rey. Ah, yo pedi un pescado a la catalana que no me puedo sacar de la cabeza. volvere."
+    }, 
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Nini30", 
+      "text": "Justo entr\u00e9 para dejar mi comentario y le\u00ed el que hicieron m\u00e1s abajo. Quiz\u00e1 la carta de Melao es muy extensa y genera desconcierto porque a uno le cuesta elegir entre tantos platos, pero es eso justamente lo que los marca, lo que los hace diferentes. Conoc\u00ed el lugar por un amigo y la verdad que no es decepcionante como plantean, por el contrario. Melao es ese tipo de locales para gente que no busca lo comercial, y que est\u00e1 dispuesto a probar cosas muy distintas a las que comemos cotidianamente, que se dejan llevar por los que cocinan. Si es uno de esos con gusto popular, NO VAYA ALL\u00cd porque le har\u00e1 perder tiempo a los cocineros y a usted mismo. Deje que vayan los que saben apreciar, el lugar es muy chico y no cabe todo el mundo.Totalmente recomendable. Hagan reserva siempre.."
+    }, 
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "marita5789", 
+      "text": "Excelente restaurante. La comida, sabrosisima, es un compendio de platos de distintas etnias. El local no tiene division entre las pocas mesas y la cocina. Por ello uno disfruta todo el tiempo de los distintos olores que invaden el ambiente; alcanzandose el climax en el momento que podemos disfrutar el platillo que elegimos. En este lugar tan peque\u00f1o es muy normal un\r\ntrato directo con el personal de cocina. La chef Yilan, en ese sentido es muy amable y comenta atentamente los deliciosos platos que elabora. Obligatorio conocer este restaurante para todo amante del buen comer"
+    }, 
+    {
+      "date": "2 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rusa", 
+      "text": "Comida muy original, gran variedad de platos de diferentes partes del mundo muy bien elaborados, exquisitos. Lo que hay que tener en cuenta es que son todos platos muy especiados, y la mayor\u00eda picantes para el gusto argentino. La atenci\u00f3n es muy atenta; la due\u00f1a explica c\u00f3mo est\u00e1n hechos los platos, muestra las especias que hacen y venden en el lugar y comenta para que es cada una. El ambiente si bien es muy chico, es agradable; amerita pensar en una mudanza a un lugar m\u00e1s grande. Volveremos y adem\u00e1s lo recomend\u00e9 ampliamente."
+    }, 
+    {
+      "date": "27 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "gabriella", 
+      "text": "En un espacio peque\u00f1o de apenas cuatro mesas tambi\u00e9n peque\u00f1as se puede disfrutar de una excelente cocina, sabores del mundo ex\u00f3ticos y exquisitos, combinaciones perfectas y equilibradas con un asesoramiento impecable y absoluta calidez  Gracias. Nuestras felicitaciones y obviamente, volveremos."
+    }, 
+    {
+      "date": "22 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "rferrari", 
+      "text": "\u00danico en su tipo, Mel\u00e3o reluce gracias a una gran relaci\u00f3n calidad/precio, la atenci\u00f3n de los compadres y la originalidad de los platos. Su comida mexicana se destaca, pero la ecl\u00e9ctica carta internacional es lo verdaderamente excepcional. El hecho de tener la cocina a pasos de la mesa es un plus (con una \u00fanica dificultad asociada, que se subsana con un lavarropas). Las porciones son normales, pero las ganas de probar algo mas que la ropa vieja y el tandoori nos hicieron pedir dos platos m\u00e1s. Miren la carta online antes de ir si no me creen. \u00a1Otro gran lugar que conoc\u00ed gracias a la guia!"
+    }, 
+    {
+      "date": "31 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sybarita", 
+      "text": "S\u00f3lo he utilizado el servicio delivery, pero a\u00fan as\u00ed, me parece de lo mejor que hay en Villa Crespo. Las porciones son generosas, los platos exquisitos, y los postres originales y deliciosos. Las aguas saborizadas est\u00e1n buen\u00edsimas, tambi\u00e9n... Y la atenci\u00f3n, al menos telef\u00f3nicamente, es amable y atenta... siempre dispuestos a sugerir alg\u00fan plato de su particular y amplio men\u00fa."
+    }, 
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "gourdanito", 
+      "text": "Excelente. Un lugar donde se puede dar rienda libre al sentido del gusto; y dejarse llevar por los sabores que se te ofrecen. Quien tiene alma de gourmet, no necesita ir a distintos restaurantes a probar distintas comidas etnicas; en Melao podes probar platillos de distintas nacionalidades con un nivel de calidad superlativo (atencion que algunos vienen con un buen nivel de picor). Yilan, la chef, un fenomeno que te asesora muy convenientemente. Lastima que el lugar es minusculo (solo 4 mesas). Precios normales y raciones bien servidas. Lugar muy recomendable"
+    }, 
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "gi88", 
+      "text": "La comida es de excelente calidad, con mucho sabor. El servicio es ejemplar ya que si no hay mucha gente viene la due\u00f1a a atender la mesa, te hace sentir muy comodo y te ayuda con la elecci\u00f3n de la comida. El lugar es hiper peque\u00f1o, solo cuenta con 3 mesas adentro junto a la cocina, pero te ofrecen sacar la mesa a la calle, asique es apto para una noche mas o menos fresca"
+    }, 
+    {
+      "date": "22 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Glass", 
+      "text": "No sab\u00edamos que existiera en Buenos Aires un lugar as\u00ed, especializado en comidas de todas partes del Mundo. Un verdadero rinc\u00f3n gastron\u00f3mico de culto. Como existen pel\u00edculas de culto, aqu\u00ed tienen en buenos aires un diminuto lugar gastron\u00f3mico. Un restaurancico de culto. Es una suerte que la chef te gu\u00ede por la carta, dado que adem\u00e1s se come en lo que pr\u00e1cticamente es la cocina. Eso s\u00ed, olvida de acompa\u00f1ar con alg\u00fan vino digno. Volveremos varias veces, as\u00ed seguir viajando."
+    }, 
+    {
+      "date": "17 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ebergm", 
+      "text": "El lugar es peque\u00f1o pero imposible no reincidir cuando la cocina y la atencion son tan buenos."
+    }, 
+    {
+      "date": "16 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "despeinada", 
+      "text": "Impecable atenci\u00f3n, ya que estaban pendientes de cada uno de nosotros. Exquisita comida con ingredientes super frescos y de calidad. Tendr\u00eda que  ser de goma el local para que haya capacidad para m\u00e1s gente. Felicitaciones!!!!!!!"
+    }, 
+    {
+      "date": "26 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "guadamay", 
+      "text": "El lugar es min\u00fasculo, por lo que nos limitamos al delivery. La carta es m\u00e1s que interesante, con un plato de cada parte del mundo. Todo lo que probamos hasta ahora fue riqu\u00edsimo, y nos proponemos probar el men\u00fa entero. Recomendad\u00edsimo!"
+    }, 
+    {
+      "date": "18 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ojocomilon", 
+      "text": "Me atendieron y explicaron muy bien porque el men\u00fa es muy complicado por la variedad de platos de todas partes del mundo. Es muy chiquito el lugar, fuimos sin reserva pero nos atendieron igual. No es para paladares cl\u00e1sicos porque todos los platos tienen productos muy extra\u00f1os. Lo recomiendo."
+    }, 
+    {
+      "date": "18 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ososibarita", 
+      "text": "Excelente atenci\u00f3n de todo el personal, comida original, sabrosa y variada desde las entradas hasta los postres (platos de distintos paises). El lugar solo tiene 3 mesas pero el delivery es excelente. Para seguir disfrutando y conociendo."
+    }, 
+    {
+      "date": "12 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CUATES", 
+      "text": "La opcion mas interesante en cuanto a variedad de sabores y de aromas. Se ha vuelto una cita obligada los fines de semana y en reuniones con amigos. Y como Yilan no para de innovar en los platos, seguiremos probando y disfrutando."
+    }, 
+    {
+      "date": "8 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ELNONO10", 
+      "text": "El lugar es super recomendable,desde que entramos la atencion y la calidez de las personas fue muy buena, la comida fue una sensacion de sabores que en muy pocos lugares se puede encontrar. ademas de una diversidad de gustos y comidas etnicas en el menu, con una excelente atencion, degustacion y explicacion de los productos que se encuentran en el menu.un lugar economico y muy bueno."
+    }, 
+    {
+      "date": "27 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Trapecios", 
+      "text": "Ya desde los nombres es toda una experiencia. Nos guiaron ellos y realmente result\u00f3 un viaje por sabores encantadores e inusuales. Eramos tres y uno de nosotros pidi\u00f3 un plato africano riquisimo."
+    }
+  ]
+}

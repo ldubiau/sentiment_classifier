@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "20 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "malusa", 
+      "text": "Tiene una muy buena relaci\u00f3n precio/calidad. Es ideal para ir entre amigos."
+    }, 
+    {
+      "date": "13 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "La carne estuvo rica y las guarniciones bien pensadas como complemento; una l\u00e1stima que no tengan cuchillos para carnes. \r\nLos postres me resultaron excesivamente elaborados al punto de ser complicados por dem\u00e1s."
+    }, 
+    {
+      "date": "2 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "petdriver", 
+      "text": "Es un lugar para descubrir nuevos y muy buenos sabores. \r\nMe gust\u00f3 la atenci\u00f3n y el ambiente. Atenci\u00f3n, si es de mucho comer, pique algo en casa primero. \r\nSepa que cualquier plato cuesta $25."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mariaveronica01", 
+      "text": "El personal no sabe atender, la comida hace que se lo perdone."
+    }, 
+    {
+      "date": "19 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "spaats", 
+      "text": "La barra est\u00e1 muy buena, las chicas que atienden son excelentes, el lomo c/ espinacas y las pastas \u00a1buen\u00edsimas! (podr\u00edan agregar alg\u00fan raviol m\u00e1s al plato (a veces es escaso) Ah, faltan buenos vinos rosados en la lista. \u00a1Felicitaciones!: Sonia"
+    }
+  ]
+}

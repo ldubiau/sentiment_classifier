@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "flopib", 
+      "text": "Todo es relativo, depende como te gusta la pizza, nosotros fuimos con mi equipo de trabajo, pedimos las pizzas a la piedra, son ricas tampoco espectaculares, lo que si me gusto mucho fueron las empanadas. La atencion muy correcta."
+    }, 
+    {
+      "date": "8 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "El_rafa", 
+      "text": "Pizza a la piedra, muy finita y crocante. Gran variedad y sabor. Para ir con amigos. El lugar es lindo, sobre todo en verano donde se puede aprovechar la terraza o las mesas en la vereda. La atenci\u00f3n es normal y suele estar desbordada."
+    }, 
+    {
+      "date": "11 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Buena pizza y lindo ambiente. Pizza de las finitas."
+    }, 
+    {
+      "date": "10 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Osoloco", 
+      "text": "Hace a\u00f1os que vamos a Romario, un t\u00edpico lugar de buenas pizzas en Buenos Aires. Mucha variedad y posbilidad de combinarlas, todas son buenas y los ingredientes de primera calidad. Las empanadas tambi\u00e9n son ricas. La cerveza la sirven como se debe, bien helada!!!! Super recomendable desde hace a\u00f1os."
+    }, 
+    {
+      "date": "3 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Matt29", 
+      "text": "El ambiente es bastante grande pero (al menos en invierno) se achican mucho las mesas posibles de tomar dado que las de afuera quedan virtualmente anuladas. El servicio dej\u00f3 mucho que desear, nos hicieron esperar casi una hora por una mesa y varios pasaron antes que nosotros, no habia organizaci\u00f3n. Luego a modo de reprimenda por habernos quejado de esta injusticia en la asignacion de mesas, las mozas casi no nos atendieron y nos trataron con indiferencia toda la noche. La pizza es normal pero tarda mucho en salir. La zona donde esta ubicado es excelente, le queda muy grande a este restaurante."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Debido a la recomendaci\u00f3n de unos amigos, decidimos ir 6 personas a Romario. Llegamos y nos atendieron super r\u00e1pido y muy bien. El mozo muy simp\u00e1tico, nos recomend\u00f3 la Fugazzeta Rellena. Pedimos esa y 2 m\u00e1s, una de Peperonni y otra de Vegetales. Estas \u00faltimas 2 ricas pero la Fugazzeta Rellena, IMPERDIBLE! Riqu\u00edsima, parecida a la de Banchero. Adem\u00e1s es grande y muy llenadora. No tiene jam\u00f3n pero igual deliciosa! Los precios son medios elevados, pero en comparaci\u00f3n de Los Inmortales y Pizza Cero, bastante aceptable."
+    }, 
+    {
+      "date": "1 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "shinobi26", 
+      "text": "Sol\u00eda ir porque la pizza es realmente rica (las empanadas, la provoleta y los calzones tambi\u00e9n). Pero la verdad la atenci\u00f3n deja much\u00edsimo que desear y los precios aumentaron, con lo cual considero que vale m\u00e1s la pena ir a otra pizzer\u00eda, o gastar apenas un poco m\u00e1s por persona e ir a un restarant de calidad superior."
+    }
+  ]
+}

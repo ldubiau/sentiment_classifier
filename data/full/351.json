@@ -1,0 +1,178 @@
+{
+  "malos": [
+    {
+      "date": "27 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Meilin", 
+      "text": "La comida deja much\u00edsimo que desear y por ese mismo precio,pueden conseguirse platos excelentes. Pura fachada. No volver\u00eda, ni lo recomendar\u00eda."
+    }, 
+    {
+      "date": "11 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "nno", 
+      "text": "Muy malo, la atenci\u00f3n fue mal\u00edsima, tardaron una hora de reloj para traernos los platos. Lo peor de todo es que el m\u00edo no lo pude comer porque el pescado estaba en mal estado, ten\u00eda gusto a desinfectante. Sin decir nada me lo retiraron y ped\u00ed otro plato. Cuando me lo trajeron, ya hab\u00edan levantado toda la mesa. Entonces lo cancel\u00e9 porque me aburr\u00ed de esperar. Un desastre."
+    }, 
+    {
+      "date": "30 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "La comida deja mucho que desear para el valor de los platos. \r\nCostaba encontrar los ravioles en un mar de salsa. \r\nLo mejor es el ambiente muy tranquilo y con buena m\u00fasica pero solo para tomar algo."
+    }, 
+    {
+      "date": "21 Oct 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Fad774", 
+      "text": "Realmente no vuelvo m\u00e1s, la comida no tiene nada del otro mundo y por este mismo precio se consiguen mejores opciones. Lo peor: la atenci\u00f3n, deplorable. No vayan."
+    }, 
+    {
+      "date": "14 Jul 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "john_dur", 
+      "text": "Servicio malo y la comida fria.\r\npedi hablar con el cheff y nunca respondio mi llamado."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "27 Mar 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PumPum", 
+      "text": "Muy rica la comida, p\u00e9simo el servicio. Siempre me toca el mismo mesero mala onda."
+    }, 
+    {
+      "date": "12 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "efeso", 
+      "text": "Regular. No me agrad\u00f3 la atenci\u00f3n y fue regular la comida. Precios m\u00f3dicos."
+    }, 
+    {
+      "date": "13 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Judith", 
+      "text": "Poca variedad de platos. Un poco oscuro por sectores, los ba\u00f1os est\u00e1n en el primer piso, no son accesibles. Por la poca variedad de platos, podr\u00edan esmerarse un poco m\u00e1s en los que tienen en el men\u00fa. Los postres son mejores que la comida."
+    }, 
+    {
+      "date": "18 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "DanielG", 
+      "text": "Pedi calamarettis que llegaron frios y luego un sandwich de pollo, palta y rucula pero cuando lo veo, le faltaba la palta; al reclamar, me dijeron que ya no tenian palta, pero me lo cobraron igual."
+    }, 
+    {
+      "date": "11 Ago 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Jalu", 
+      "text": "La decoraci\u00f3n del lugar tiene mucha onda, lindo ambiente, pero la atenci\u00f3n fue p\u00e9sima: tuvimos que reclamar varias veces el pedido y lleg\u00f3 todo fr\u00edo. Pedimos mesa de no fumadores, nos mandaron a un rinc\u00f3n a una mesa con cenicero y todos alrededor fumaban. Tuvimos que reclamar la factura a la hora de pagar."
+    }, 
+    {
+      "date": "27 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sonicata", 
+      "text": "Los platos que elegimos estaban muy ricos y eran abundantes, el lugar lo recomiendo, es muy bueno."
+    }, 
+    {
+      "date": "21 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "demarchip", 
+      "text": "El lugar lindo, aunque un poco fr\u00edo porque tienen mucho vidrio. La comida buena y al atenci\u00f3n regular porque 3 mozos distintos pasaron por nuestra mesa. Ah y pidan factura porque te dan un ticket muy parecido a una."
+    }, 
+    {
+      "date": "25 Feb 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "roversa", 
+      "text": "Cuando comenz\u00f3 cocina m\u00e1s selecta. Ahora est\u00e1 m\u00e1s popular."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Christian", 
+      "text": "Muy \u00edntimo el lugar, ya que est\u00e1 alejado de todo el caos que es Plaza Serrano. Se come rico y los tragos son muy buenos. La atenci\u00f3n es excelente. Un lugar para recomendar e ir con amigos, tanto como para tomar algo o cenar."
+    }, 
+    {
+      "date": "19 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "RopziiRop", 
+      "text": "la verda es que fui un dia de fin de semana,a eso de las 22 hs,la etencion fue muy buena,la comida espectacular, fue recomendacion de la camarera, y el ambiente muy calido, solo una queja; a eso de las 23hs, la musica estaba muy fuerte..."
+    }, 
+    {
+      "date": "30 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gabrielmosca", 
+      "text": "El ambiente es maravilloso. Siempre me gusta venir con amigos.\r\nMuy buena m\u00fasica, muy buena onda y la comida muy rica."
+    }, 
+    {
+      "date": "29 Dic 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ezegutt", 
+      "text": "Hermoso lugar, comida exelente."
+    }
+  ]
+}

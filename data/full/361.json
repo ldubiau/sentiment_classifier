@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "14 Mar 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "nojo", 
+      "text": "\u00a1Muy caro! Treinta gambas y un poco de papa por cincuenta pesos. No pidas esta porci\u00f3n en este lugar."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "copala", 
+      "text": "Muy caro por la porci\u00f3n que te dan. La Relaci\u00f3n precio/cantidad/calidad es baja. Veinte camar\u00f3nes chicos con un poco de papa no puede salir eso."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "El Nono", 
+      "text": "Como siempre, \"Pepe\" hace que comer en Dor\u00e1 sea un placer.\r\nLa comida espectacular y el servicio muy cordial. Siempre vuelvo cuando quiero frutos de mar."
+    }, 
+    {
+      "date": "19 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alcagc", 
+      "text": "Con sus setenta a\u00f1os de existencia y su tercer generaci\u00f3n ya trabajando en el local, Dor\u00e1 mira hacia el futuro."
+    }, 
+    {
+      "date": "22 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "victola", 
+      "text": "Seguramente el mejor para pescado."
+    }, 
+    {
+      "date": "20 Ago 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rafadevi", 
+      "text": "A mi criterio el mejor lugar para pescados, mariscos y las dificiles ostras frescas en Baires"
+    }, 
+    {
+      "date": "6 Ago 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carlos.l", 
+      "text": "Las porciones son para compartir.\r\nEl lugar est\u00e1 ambientado como los viejos restaurantes espa\u00f1oles de hace d\u00e9cadas."
+    }
+  ]
+}

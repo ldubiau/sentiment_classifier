@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "22 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "PapaFoxtrot", 
+      "text": "Aparentemente y por la informacion de unos de los mozos, cambio de due\u00f1os (y creo q hasta de nombre). El lugar es muy chico. El local podria funcionar como maxikiosko. Habia olor desagradable. La decoracion lejos de lo que uno espera de un restaurant \"peruano\". Los precios excesivamente altos - promedio $30 pesos un plato - en relacion a lo que ofrece el lugar. Recomendacion: no vayan!"
+    }, 
+    {
+      "date": "3 Sep 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "diegodon", 
+      "text": "Tard\u00f3 mucho la comida y dej\u00f3 mucho que desear."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "leslita", 
+      "text": "Un lugar familia,, la duenia es muy buena onda y simpatica, la atencion es un poco lenta pero correcta, la comida es lo mejor, por lo menos en lo q se refiere a las jaleas, tambien sugiero ir a almorzar."
+    }, 
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "doschanchitos", 
+      "text": "La comida es tipica de Per\u00fa, muy abundante. Se puede pedir una entrada y un principal para compartir entre 2. Consejo: ir con ropa informal porque salis con mucho olor a frituras. Es para ir a disfrutar de un abundate plato sin grandes expectativas de la ambientacion y servicio. Se la pasa bien y tiene buena relacion precio/calidad."
+    }, 
+    {
+      "date": "21 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "marca", 
+      "text": "El lugar es chico pero agradable. Se come muy bien la t\u00edpica comida peruana! Fue la primera vez que fui pero pienso volver seguro! Imaginens\u00e9 qu\u00e9 tan bueno es que hasta lo vimos a Gustavo Ceratti comiendo alli!"
+    }, 
+    {
+      "date": "1 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sashaveblin", 
+      "text": "La comida es t\u00edpica peruana, nada de adaptaciones locales. Me encant\u00f3 como ex\u00f3tico. Los precios insuperables. Los ba\u00f1os, dejan mucho que desear, no recomiendo usarlos. Para ir s\u00f3lo y sentirse transportado a un suburbio popular de Lima. No pretendan mucho m\u00e1s, pero bien vale la experiencia."
+    }, 
+    {
+      "date": "18 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chochosan", 
+      "text": "Muy buenos los tamales: muy caseritos. La comida es muy buena, adem\u00e1s muy barata sobre todo los men\u00faes de mediod\u00eca por $4, entrada principal y bebida. \r\nEl local es un poco chico y el ba\u00f1o est\u00e1 muy cerca de las mesas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fgoldoni", 
+      "text": "Es la comida casera peruana. \r\nExcelentes platos, gente muy simp\u00e1tica y buen precio."
+    }
+  ]
+}

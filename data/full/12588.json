@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "fui a conocer el lugar gracias a la promo de GO de descuento por el mes de apertura. la ambientaci\u00f3n y el servicio fueron buenos pero la espera hasta que lleg\u00f3 la bandeja de sushi se extendi\u00f3 por casi 45 minutos por una confusi\u00f3n en la cocina. finalmente cuando pudimos degustar los rolls hubo aciertos y no tanto en las combinaciones, que son bastante jugadas: los rolls de causa con huevo de codorniz, no me gustaron tanto y s\u00ed voto por las varidades calientes con langostino."
+    }, 
+    {
+      "date": "14 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vdorza", 
+      "text": "Fuimos sin saber que hab\u00eda cambiado de due\u00f1o y de nombre, y nos sorprendimos un poco. Hay que decir que la comida est\u00e1 muy muy bien, y los tragos son correctos, pero la atenci\u00f3n es lent\u00ediiiiiiisima. Tienen descuentos muy convenientes. En resumen, lo recomiendo para ir con paciencia, aunque yo esperar\u00eda un tiempo m\u00e1s a que ser terminen de asentar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "aleuri", 
+      "text": "el lugar excelente. un poquito lento el plato principal de sushi pero realmente excelente un abrazo a todos con el descuento de GO pagamos 180 por persona"
+    }
+  ]
+}

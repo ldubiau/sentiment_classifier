@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Donatona", 
+      "text": "Con mi novio pedimos cerdo tonkatsu y fishcake y nos quedamos con hambre! Las porciones son muy chicas y los platos no ten\u00edan nada especial. De postre hab\u00eda pedido arroz con leche, coco y crocante, pero de coco no ten\u00eda nada y el arroz estaba duro. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Feddao ", 
+      "text": "Excelente ambientaci\u00f3n, excelente servicio. Ideal para ir en pareja.\r\nPedimos tendon (arroz con langostinos fritos y una salsa muy buena ) y unos fideos con carne que estaba apenas dura. No recuerdo el nombre del plato pero era sabroso.\r\nDe postre un mousse de chocolate con crocante. le faltaba un poquito de crocante, pero estaba muy bien.\r\nPocas meseas, poco ruido, ideal para estar tranquilo y comer sano y rico.\r\n$200 con propina: est\u00e1 m\u00e1s que bien para pasar un buen momento en pareja."
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "germanm", 
+      "text": "Me gust\u00f3 la comida. Acept\u00e9 gustosamente las recomendaciones del camarero. Sobresali\u00f3 el cerdo tonkatsu y fishcake. Volver\u00e9 pronto. Ideal para los que gustan de la sobriedad de pocas mesas y una atenci\u00f3n muy esmerada."
+    }, 
+    {
+      "date": "21 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "drciruja", 
+      "text": "Muy buena la comida, y bastante abundante los platos para la calidad; pedimos Udon con langostinos y Cerdo tonkatsu. Recomendable, buenos platos, precios acordes. Volver\u00e9."
+    }, 
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "countryboyseba", 
+      "text": "Buena opci\u00f3n para comer algo de estilo oriental. De todas formas yo creo que podr\u00edan extender un poco la carta, agregando la sopa de Udon cl\u00e1sica, bolitas de pulpo, el cl\u00e1sico yakittori, y alg\u00fan postre t\u00edpico japon\u00e9s no estar\u00eda mal tampoco."
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cantinflas", 
+      "text": "Es un bar chico, muy personalizada la atencion. Se come de diez, y el ambiente muy tranquilo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Flaviten", 
+      "text": "La verdad es que el ambiente era muy c\u00e1lido y ten\u00eda mucho detalle t\u00edpico japones. La comida era muy deliciosa. La atenci\u00f3n era esmerada y el ambiente agradable. Da para ir con amigos o en pareja. Lugar chiquito pero muy bonito. Para recomendar y pasarla bien :)"
+    }, 
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "acrobata", 
+      "text": "Si te interesa la comida japonesa m\u00e1s all\u00e1 del sushi palermitano, es un deber visitar este restaurante. Excelente udon y ramen, una atenci\u00f3n destacada en un ambiente \u00edntimo y c\u00e1lido. Para volver y recomendar!"
+    }, 
+    {
+      "date": "30 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gastrica", 
+      "text": "Espectacular! Un lugar muy chiquito con impecable atenci\u00f3n, la comida riqu\u00edsima, varias opciones de entraditas, noodles, sopas, muy bueno tambi\u00e9n para ir con amigos vegetarianos y adem\u00e1s muy buenos precios!"
+    }, 
+    {
+      "date": "18 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mvictoria", 
+      "text": "Exelente! Un lugar en palermo, con una ambientacion y una comida increible. La atencion no se queda atr\u00e1s.\r\n\r\nEs una muy linda experiencia ir a coer ahi y dejar que el due\u00f1o te sorprenda con los platos fuera de carta...cada cosa que comi fue esquisita.\r\n\r\nEl ramen , los fideos de arroz, el arroz con leche, la mousse. Una cosa m\u00e1s rica que la otra, mas que recomebdable. soy habitue del lugar y cada vez que voy me sorprendo mas, de precios es normal. Por 200$ por pareja comen super bien!"
+    }, 
+    {
+      "date": "26 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ferlo", 
+      "text": "Simplemente buenisimo. Excelente emprendimiento de un cocinero con amplia experiencia como Lucio QK. Muy buena comida y detalles sin acartonamiento. Volvere muchas veces. \r\nExcelente opcion para el mediodia.\r\nCon entrada, plato, bebida y cafe, $42."
+    }, 
+    {
+      "date": "11 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carlosmarias", 
+      "text": "Fui a almorzar varias veces. Comida insuperable, y la asesor\u00eda del Chef Lucio le da un toque personal muy bueno. Lo recomiendo!!"
+    }
+  ]
+}

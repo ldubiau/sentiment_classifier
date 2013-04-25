@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "quijote", 
+      "text": "Muy buenos los fideos en todas sus combinaciones, los trozos de pollo fritos y las gyozas. El sushi correcto, no sobresale. No recomiendo el arroz, para mi gusto siempre pasado. Buena opci\u00f3n de comida japonesa, lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "beaches", 
+      "text": "pedi comida a casa. llegaron de acuerdo a lo pactado. la presentacion de la comida se ve cuidada y es muy buena. el sushi exquisito. y la variedad del combinado, excelente. seguire comprando. lo recomiendo!"
+    }
+  ]
+}

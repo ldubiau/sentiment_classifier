@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "saracino", 
+      "text": "Es un restor\u00e1n para tomar algo y picar porque la comida es de mala calidad y cara. Lo que vale la pena es comer alguito mirando el r\u00edo, por eso sigo yendo a pesar de la comida."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Baunu", 
+      "text": "No vuelvo!! Es un lugar tranquilo pero en frentr hay un boliche q se pone bueno y te queres cruzar al toque!! Me sente afuera y me picaron todos los mosquitos es tipo un descampado. Por la zona podria ser mejor. La comida minutas ni mas ni menos"
+    }
+  ]
+}

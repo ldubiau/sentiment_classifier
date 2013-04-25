@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "19 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "bran1902", 
+      "text": "Si te gusta la pizza finita y a la piedra, entonces es tu lugar. Pero tardan much\u00ecsimo en traer el pedido. Para mi cumplea\u00f1os fuimos, pedimos al mozo y se le cayeron todas las bebidas. Las de muzzarella zafan, pero es una l\u00e1stima, porque el servicio es bueno. El sector no fumadores est\u00e1 en el 3\u00ba piso, no apto para personas con movilidad reducida (porque s\u00f3lo se accede por escalera)"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Comimos una buena pizza, finita y abundante en ingredientes,   en un ambiente tranquilo y una atenci\u00f3n amable. Adem\u00e1s, durante todo el d\u00eda se puede ir  a comer y disfrutar de men\u00faes, con  varias opciones de platos a precios incre\u00edbles. Como para tener en cuenta"
+    }, 
+    {
+      "date": "29 Jul 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PatMay", 
+      "text": "La zona para no fumadores est\u00e1 ubicada en el piso superior, al lado de los ba\u00f1os, claro. Y nadie sube. \r\nLuego de media hora de esperar si alg\u00fan mozo se dignaba a atendernos y viendo que las otras mesas del sector segu\u00edan a la buena de Dios, bajamos a preguntar y otros diez minutos luego, de mala gana subi\u00f3 un mozo que nos dej\u00f3 las cartas. \r\nPas\u00f3 otra media hora. Cuando volvi\u00f3 a subir, ya nos est\u00e1bamos yendo. \r\nEn vez de disculparse  se justific\u00f3 diciendo que si hubi\u00e9rmaos hecho el pedido sin pedir la carta ya nos hubiera tra\u00eddo la comida.  \r\nNo es la primera vez que me pasa, pero ser\u00e1 la \u00faltima. \r\nEs caro y atienden muy mal: tarde y de malos modos. No vale la pena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "hayclau", 
+      "text": "Tardan un poco en atenderte pero la Pizza es excelente, no prob\u00e9 otro menu, voy exclusivamente a comer pizza que la hacen a la piedra y bien finita con muzzarela de 1ra calidad."
+    }
+  ]
+}

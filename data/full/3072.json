@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "22 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "msrdp", 
+      "text": "Sorprendida por lo novedoso y variado en opciones de creps, muy buen ambiente."
+    }, 
+    {
+      "date": "6 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "nagus", 
+      "text": "Muy buena la presentaci\u00f3n del plato y ambiente agradable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "msgir", 
+      "text": "La comida muy rica, buena combinaci\u00f3n, muy buena atenci\u00f3n, muy bien ambientado. Un lugar c\u00e1lido para compartir."
+    }, 
+    {
+      "date": "14 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pupi2007", 
+      "text": "Muy buena ambientaci\u00f3n, bien decorados los platos y comida de calidad y gustosa. La atenci\u00f3n es buena."
+    }
+  ]
+}

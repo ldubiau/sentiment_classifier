@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "26 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "KONIG", 
+      "text": "La verdad me deje llevar por los comentarios de los demas y me defraude,no es la tipica comida china, el arroz con huevo no lleva jamon ni aqui ni en china, ok? el pollo al curry brillo por la ausencia de curry (sabran lo que es?)incluia hongos que no lleva y muchas verduras, el pollo por ahi andaba.para nada recomendable. hay mejores lugares y de igual precio. no se dejen llevar por los demas comentarios. sobre gustos no hay nada escrito."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "odarko", 
+      "text": "El lugar es impecable . La atenci\u00f3n es correcta.Prob\u00e9 varios platos y todos me resultaron muy buenos. Conozco varios restaurantes de comida china y este es notablemente diferente. Incluso pido delivery varias vaces al mes"
+    }, 
+    {
+      "date": "10 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La comida es rica, y la atenci\u00f3n muy amable el ambiente limpio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "carlitosbeef", 
+      "text": "Hace a\u00f1os que pido y voy cada tanto.\r\nLa comida china es de mis preferidas y conozco varios restaurantes, Yan Kie es de lo mejorcito que hay hoy en dia.\r\nLa comida siempre buena y rica, el lugar chiquito pero acogedor.\r\nSeguire pidiendo!"
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "carolina2006", 
+      "text": "Siempre vamos y nunca defrauda. EXCELENTE relacion precio calidad. Las camareras siempre correctas, el servicio es siempre rapido, no hay olores desde la cocina, la comida es excelente. Recomiendo la sopa de wan tan y el tofu salteado."
+    }, 
+    {
+      "date": "9 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "arles", 
+      "text": "Excelente restaurant chino, uno de los mejores de buenos aires en su tipo. Limpio, tranquilo, muy buen nivel de servicio, comida no aceitosa como otros chinos. \r\nSus due\u00f1os siempre muy dispuestos, es un placer ir seguido. El ambiente siempre silencioso. \r\nRecomiento pedir aparte la salsa picante, es excelente."
+    }, 
+    {
+      "date": "18 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "berrotaran", 
+      "text": "Siempre pido delivery y cada tanto voy al restaurant.\r\nUno de los restaurants de comida mas rico que hay.\r\nla carne con hongos y bambu es de lo mas rico que probe"
+    }
+  ]
+}

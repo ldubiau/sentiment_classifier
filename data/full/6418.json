@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "20 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lu_2010", 
+      "text": "Sencillo pero muy rico."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cotyr", 
+      "text": "Es bueno y barato. La atenci\u00f3n es excelente, y muy r\u00e1pida."
+    }
+  ]
+}

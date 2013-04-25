@@ -1,0 +1,638 @@
+{
+  "malos": [
+    {
+      "date": "21 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Mirlu2000", 
+      "text": "Fuimos con la promocion de Movistar(que consistia en el 50% de los platos)y gastamos $84 si postre ni entrada ni caf\u00e9.Comimos Conchilioni rellenos y ojo de bife un vino Las Moras de $35! y un agua mineral. La pasta rellena: buena, pero el ojo de bife P\u00c9SIMO, un pedazo de grasa.Tuvimos que esperar 50 minutos.El men\u00fa es acotado,la cartade vinos p\u00e9sima, pocos y muy caros.Para comer no ten\u00edan lo poco que ofrec\u00edan.No vayan!"
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Yo no lo recomiendo. No me convenci\u00f3 la ambientaci\u00f3n nueva, el servicio fue algo desganado, la carta de vinos de lo m\u00e1s breve que he visto y la comida apenas correcta.  Yo ped\u00ed un risotto con frutos de mar que estaba bien en tama\u00f1o pero no tanto en sabor; estaba algo soso."
+    }, 
+    {
+      "date": "28 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "chokitin", 
+      "text": "Un desastre. Para darse una idea, el pan estaba crudo. No vayan."
+    }, 
+    {
+      "date": "28 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Laurita", 
+      "text": "Sinceramente, cuando ped\u00ed ravioles de salm\u00f3n nunca pens\u00e9 que iba a  comer algo tan desagradable como ese pure de un mont\u00f3n de cosas menos salm\u00f3n que me trajeron.\r\nUna desiluci\u00f3n que s\u00f3lo fue aplacada por la excelente atenci\u00f3n del camarero. \r\nEl lugar, ni lindo ni feo."
+    }, 
+    {
+      "date": "14 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "karas", 
+      "text": "Esperamos exactamente dos horas y diez minutos tomando vino para los platos principales. \r\nCuando trajeron y los aprobamos, fueron muy pero muy malos. \r\nPor eso, pedimos la cuenta sin comer. \r\nNadie nos pregunt\u00f3 por qu\u00e9 no los comemos y cobraron todo. \r\nCuando salimos todav\u00eda hubo unas mesas que pidieron al mismo tiempo que nosotros y que estaban esparando. \r\nDesde hace dos a\u00f1os vivimos en Buenos Aires y esta es la primera vez que tenemos una experiencia tan mala."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Sep 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Georgina08", 
+      "text": "Fuimos a la noche y la atencion fue muy mala. No habia nadie, y los due\u00f1os comiendo en otra mesa, no miraban si necesitabamos algo. La pizza muy rica, los postres horribles."
+    }, 
+    {
+      "date": "3 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "carlossanchez43", 
+      "text": "Bien las bruschettas, muy buenas las pastas, el bife pasado y seco. Buena atenci\u00f3n pero hay que esperar mucho para que lleguen los platos (una hora) Mala la carta de vinos, pocos, caros y sin originalidad."
+    }, 
+    {
+      "date": "15 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "romi2004", 
+      "text": "Muy buenos los panes y las pastitas para untar, la pizza excelente, el plato de pastas abundante pero no para comer uno plato,el tiramisu barbaro, igual al que como en casa, con el verdadero queso mascarpone. Pedimos un vino blanco pero no tenian un segundo no es bueno para un sabado a la noche."
+    }, 
+    {
+      "date": "7 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PEPINNO", 
+      "text": "Es un lugar agradable,con muy buena predisposicion de la moza. LAs berenjenas se encontraban pasadas en su cocci\u00f3n y presentaban demasiado parmesano con lo cual su gusta estba demasiado salado. La presentaci\u00f3n de la pesca del d\u00eda fue buena. Para intentar otra vez"
+    }, 
+    {
+      "date": "6 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CLAVE", 
+      "text": "Las bruschettas riqu\u00edsimas igual que la pasta con el relleno de hongos y el ojo de bife  y la ensalada. el postre espectacular! nuestra cr\u00edtica: el men\u00fa muy acotado, pero la carta de vinos p\u00e9sima, pocos vinos y car\u00edsimos y adem\u00e1s no ten\u00edan todo lo que ofrec\u00edan. La \u00fanica moza, super amable, pero se desluce su atenci\u00f3n por lo que tardaron desde la cocina (cuando no hab\u00eda casi gente!)sacaron los platos principales juntos  y se les enfri\u00f3 el bife! son detalles pero...podr\u00edan modificar y volver\u00edamos, la comida MUY rica y el precio adecuado."
+    }, 
+    {
+      "date": "9 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cataluna", 
+      "text": "La atenci\u00f3n de la moza fue excelente y eso que hab\u00eda una sola y un se\u00f1or. La comida muy abundante y muy buena y a buen precio. El tiramis\u00fa un poco amargo a mi gusto. Ambiente tranquilo. Cara la copa de vino$16 y no hab\u00edan puesto el precio en el men\u00fa. Las botellas a precios mas normales. Recomendable"
+    }, 
+    {
+      "date": "18 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Bonpen", 
+      "text": "La moza fue m\u00e1s que atenta: siempre pendiente de nosotros. Poca gente ese jueves, aunque la comida fue abundante y deliciosa, nada que ver con la fonda ruidosa de enfrente. Las bruschettas como entrada, riqu\u00edsimas (mozarella, r\u00facula, nuez, sardo, etc). Lo mismo que el rag\u00fa de ternera que cen\u00e9. Los postres, si bien porciones peque\u00f1as, atinados. El sal\u00f3n es simple, luminoso, nuevo. Los ba\u00f1os, peque\u00f1os pero bien acondicionados. Volver\u00eda a ir."
+    }, 
+    {
+      "date": "18 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mga", 
+      "text": "Me pareci\u00f2 un \"ni\".\r\nEmpezando por la ambientaci\u00f2n que si bien est\u00e0 recientemente refaccionado a mi gusto tiene mucha luz y las mesas est\u00e0n muy juntas.\r\nLo m\u00e0s destacable de la comida fu\u00e8 la panera (con panes calientes y una salsita deliciosa) y la entrada de bruschetas que era muy rica y super abundante, las pastas no decian mucho y los postres normales.\r\nLa carta de vinos era paup\u00e8rrima y adem\u00e0s ten\u00eca faltantes.\r\nLa atenci\u00f2n fu\u00e8 bastante lenta si bien al principio \u00e8ramos muy pocos.\r\nNo creo que vuelva"
+    }, 
+    {
+      "date": "27 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "camilarrrb", 
+      "text": "Fui con la promocion de Movistar y gaste $50 mas o menos, que consistia en el  50% de los platos. Nosotros comimos una pizza muy rica, de hongos y panceta que salia alrededor de $40 y tomamos 2 gaseosas sin postre. El lugar es peque\u00f1o, los mozos una muy buena atencion. Lindo lugar..."
+    }, 
+    {
+      "date": "20 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leeleebee", 
+      "text": "Muy buena opci\u00f3n para mediod\u00eda en Palermo. Remodelaron el lugar. La ambientaci\u00f3n es agradable y la comida muy sabrosa. El men\u00fa completo al mediod\u00eda cuesta s\u00f3lo 25$ y vale la pena. Las opciones de men\u00fa son limitadas (dos por d\u00eda), pero son buenos platos y bien servidos."
+    }, 
+    {
+      "date": "2 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Muy lindo lugar, se come bien tiene una muy buena relaci\u00f3n precio calidad, la atenci\u00f3n \"demasiado\" atenta."
+    }, 
+    {
+      "date": "15 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Polas", 
+      "text": "Se nota la \"caseridad\" de los platos. Las pastas conservan el gusto de lo anta\u00f1o \"fato in casa\". Los precios me parecieron excesivo steniendo en cuenta el tipo de producto y la decoraci\u00f3n."
+    }, 
+    {
+      "date": "29 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "bsascarla", 
+      "text": "Fui un 29 esperando encontrar alguna versi\u00f3n de los tipicos \u00f1oquis pero no hab\u00eda: la carta es bastante limitada. La comida es buena, sin ser espectacular, los precios son razonables, el lugar es agradable pero el servicio no es de lo mejor (cabe mencionar que, ante un reclamo sobre el vino que nos sirvieron por copa, nos lo cambiaron y no lo cobraron)."
+    }, 
+    {
+      "date": "7 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "menypat", 
+      "text": "La comida es aceptable, nosostros ya lo conoc\u00edamos , hab\u00edamos estado el a\u00f1o pasado y lamentablemente ahora nos decepcion\u00f3 . La primera experiencia nos hab\u00eda dejado muy entusiamados con el Restaurant, nos hab\u00eda sorprendido tanto en sabores como en variedad. El s\u00e1bado pasado si bien mantienen el nivel de atenci\u00f3n , la comida no nos pareci\u00f3 que sobresaliera como la vez anterior. La variedad de platos y en especial la carta de vinos muy pobre. El ambiente sigue igual nunca fu\u00e9 el fuerte de este lugar."
+    }, 
+    {
+      "date": "9 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "klaug", 
+      "text": "La comida es rica y el lugar es chico con una mala distribuci\u00f3n de las mesas. La terraza, que ofrecen con la mejor ubicaci\u00f3n del lugar, tiene silla y mesas de pl\u00e1stico, que no est\u00e1n acorde con el resto de la decoraci\u00f3n. La antenci\u00f3n fue buena."
+    }, 
+    {
+      "date": "8 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "babs", 
+      "text": "Fue complicado conseguir reserva pues el contestador no informaba el horario para poder hacerlo. El ambiente es c\u00e1lido y agradable (aunque la terraza es medio r\u00fastica). La comida es rica. \r\nNo funcionaba el posnet y hubo que hacer el pago en efectivo."
+    }, 
+    {
+      "date": "12 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "efeso", 
+      "text": "Siempre lleno. Buena comida, pero podr\u00eda ser mejor el servicio. Se puede comer en la terraza. Buenos precios."
+    }, 
+    {
+      "date": "7 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Larschafi", 
+      "text": "Platos bien logrados, aunque el mio resulto inclinarse hacia lo empalagoso.\r\nLindo Lugar. Para ir en pareja."
+    }, 
+    {
+      "date": "4 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Un lugar c\u00e1lido y agradable, especialmente por la m\u00fasica y los detalles de la vajilla. El mozo fue muy atento y la comida rica y cuidada. Recomendable, sobre todo para una velada agradable sin excederse en el lujo ni en los precios."
+    }, 
+    {
+      "date": "29 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Cuba", 
+      "text": "La comida es buena, tiene detalles como el hecho de que los platos estaban calientes al servirlos. \r\nLa atenci\u00f3n del mozo es excelente, estuvo en todos los detalles. \r\nLa decoraci\u00f3n es regular y la m\u00fasica es buena, aunque en esto es dif\u00edcil concordar en gustos. \r\nEn general es bueno. Recomendable."
+    }, 
+    {
+      "date": "15 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "viper", 
+      "text": "Hab\u00eda visto buenas calificaciones en la Guia Oleo por lo que fui a probar, pero no siento que merece buenas calificaciones, es un restaurante regular en todo sentido."
+    }, 
+    {
+      "date": "7 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Xema2005", 
+      "text": "La comida es buena, aunque no excelente. \r\nLa atenci\u00f3n de la moza fue muy correcta. \r\nEl ambiente es tranquilo y la m\u00fasica est\u00e1 muy bien seleccionada. \r\nLos ravioles de salm\u00f3n son muy buenos y el postre \"Zucotto\" una bomba."
+    }, 
+    {
+      "date": "28 Oct 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "c_maulha", 
+      "text": "La comida no pasa de razonable y adem\u00e1s tiene cero onda."
+    }, 
+    {
+      "date": "20 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "echianel", 
+      "text": "La comida es buena, nada especial. \r\nEl tiramis\u00fa, cuando lo pedimos, el due\u00f1o nos hizo todo un cuento de su abuela italiana que no se lo permit\u00eda hacer sino era con mascarpone del mejor... y no era ni queso crema de hospital p\u00fablico."
+    }, 
+    {
+      "date": "8 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "drupi", 
+      "text": "Visit\u00e9 este restaurante siguiendo los comentarios de los visitantes de la gu\u00eda. \r\nFue grato para mi encontrar un lugar donde fui muy bien atendida y en donde la comida est\u00e1 muy bien elaborada. Felicito a su due\u00f1o, quien atentamente vigila el servicio y quien recomienda con acierto el vino que marida con la comida. \r\nVoy a recomendar este restaurante a mis amigos."
+    }, 
+    {
+      "date": "30 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sdohar", 
+      "text": "Me desilusion\u00e9 con la comida... muy ordinaria, nada especial.  \r\nEl at\u00fan y cordero eran demasiado cocidos. \r\nLa entrada de palta era rica. No vuelvo."
+    }, 
+    {
+      "date": "5 May 2001", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Marichis", 
+      "text": "El lugar es muy lindo para ir en pareja, la atenci\u00f3n excelente y tiene un carta corta pero buena. Volver\u00eda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Javieri", 
+      "text": "Excelente restaurant. El cheff nos atendi\u00f3 personalmente y se preocupo porque estemos muy bien atendidos. La comida es excelente muy elaborada y original para el precio que se paga por plato. Muy recomendable!!!!"
+    }, 
+    {
+      "date": "17 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dbors86", 
+      "text": "La atencion de la moza es muy buena muy atenta y servicial. la comida fue excelente. tienen promos de 50 por ciento que realmente valen la pena!! muy recomendable!!"
+    }, 
+    {
+      "date": "24 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PELUDO", 
+      "text": "Uno de los mejores risottos de Buenos Aires, el tiramis\u00fa tambi\u00e9n es dilicioso, ambiente muy c\u00e1lido y buena atenci\u00f3n a precios muy accesibles. Muy recomendable."
+    }, 
+    {
+      "date": "30 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pulpo", 
+      "text": "Excelente comida, muy buen ambiente y preocupada atenci\u00f3n personal del propietario. Como el lugar es peque\u00f1o conviene reservar. Muy recomendable."
+    }, 
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ce77", 
+      "text": "Siempre vamos con mi pareja y nos parece uno de los mejores Restauantes. Muy buena m\u00fasica, la atenci\u00f3n es muy buena y los platos deliciosos."
+    }, 
+    {
+      "date": "1 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gabito", 
+      "text": "Muy buena la comida, con una carta sencilla al igual que la lista de vinos.\r\nTiene buena atenci\u00f3n pero se olvidan de comprar la mercader\u00eda a tiempo y a veces no tienen todo lo que figura en la lista."
+    }, 
+    {
+      "date": "14 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MariaE", 
+      "text": "Excelente atenci\u00f3n, platos abundantes que no se hacen esperar. Delicioso volc\u00e1n de chocolate. Ambiente muy ameno y m\u00fasica acorde."
+    }, 
+    {
+      "date": "8 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nisi", 
+      "text": "Muy bueno todo. La comida excelente y sobre todo sabrosa. La relaci\u00f3n cantidad/precio de los platos no es proporcional (algo caro), pero vale la pena. \r\nAmbiente tranquilo con musica suave, ideal para ir en pareja. \r\nMuy buena atenci\u00f3n. Les recomiendo reservar o ir m\u00e1s o menos temprano porque no es muy grande el lugar."
+    }, 
+    {
+      "date": "2 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "solcar", 
+      "text": "Ambiente c\u00e1lido y muy tranquilo, platos excelentes, productos frescos y con elaboraci\u00f3n muy cuidada.\r\nFuimos en tres oportunidades y nunca nos defraud\u00f3."
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gourmet_maria", 
+      "text": "Muy rica la comida. La decoraci\u00f3n y el ambiente no son muy lindos. Buena atenci\u00f3n."
+    }, 
+    {
+      "date": "4 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jsaa", 
+      "text": "Un lugar extraordinario. La atenci\u00f3n de su due\u00f1o es muy grata, pero lo mejor de este lugar es el talento de sus cheffs, platos muy sabrosos y originales. Siempre recuerdo un plato exquisito de este lugar que se basaba en tricornis de cordero: muy rico.\r\nS\u00faper recomendable, lindo lugar y buena atenci\u00f3n."
+    }, 
+    {
+      "date": "24 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gabycorrentina", 
+      "text": "El ambiente excelente, tranquilo, con luz tenue y muy buena m\u00fasica a muy buen volumen. La atenci\u00f3n de primera, tengo un by pass g\u00e1strico y mi comida es un poco especial y el mozo se ocup\u00f3 de pedir una preparaci\u00f3n fuera de la carta. Por mi cumplea\u00f1os nos obsequiaron el DELICIOSO Tiramis\u00fa de la casa en una maxi porci\u00f3n y finalmente nos convidaron con un limoncello que nos hizo pensar en el para\u00edso. Excelente para recomendar y repetir, un deleite para todos los sentidos. Sugerencia: lleve una muy buena compa\u00f1\u00eda."
+    }, 
+    {
+      "date": "14 Feb 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Diegote1803", 
+      "text": "El lugar y la comida son excelentes. \r\nLa presentaci\u00f3n es muy buena y se nota que est\u00e1 hecho con alimentos de calidad. \r\nLo que es absolutamente p\u00e9simo es el servicio. El mozo es un desastre y el due\u00f1o hace una selecci\u00f3n espantosa de a que clientes \"saludar\" y a quienes no. \r\nEn ese aspecto roza el mal gusto. \r\nMuy bueno si quer\u00e9s ir en pareja y no te importa esperar cuarenta y cinco minutos por un plato de comida."
+    }, 
+    {
+      "date": "9 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Charos", 
+      "text": "Un lindo lugar, tranquilo, donde se pueden comer unas pastas excelentes."
+    }, 
+    {
+      "date": "21 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rebrubin", 
+      "text": "Me encant\u00f3 la calidez del lugar, la atenci\u00f3n, la calidad de la comida y los postres incre\u00edbles."
+    }, 
+    {
+      "date": "11 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Opalo", 
+      "text": "Me encant\u00f3 el lugar: \u00edntimo, bien decorado. Tiene una terraza grande que no concuerda mucho con el interior.\r\nLa atenci\u00f3n es m\u00e1s que impecable y la comida excelente."
+    }, 
+    {
+      "date": "8 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wiseguy", 
+      "text": "Todo excelente."
+    }, 
+    {
+      "date": "1 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rotulau", 
+      "text": "La atenci\u00f3n de su propierario es excelente.\r\nRealmente continuan las tradiciones de los sabores de la m\u00e1s aut\u00e9ntica comida italiana; se nota en la calidad y la evidente elaboraci\u00f3n de los platos.\r\nEs muy buena la alternativa de la terraza en verano, ideal para parejas."
+    }, 
+    {
+      "date": "30 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alfercon", 
+      "text": "Prob\u00e9 el tiramis\u00fa y me pareci\u00f3 muy bueno, con un buen queso, no estoy de acuerdo con el comentario anterior.\r\nLa atenci\u00f3n de Fernando fue excelente y  la ambientaci\u00f3n est\u00e1 a tono.\r\nL\u00e1stima tanta gente."
+    }, 
+    {
+      "date": "30 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dac", 
+      "text": "Excelentes pastas rellenas, muy buena variedad. Los postres fant\u00e1sticos, prob\u00e9 un espumone de chocolate \u00fanico."
+    }, 
+    {
+      "date": "18 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ggalli45", 
+      "text": "Fuimos con un amigo por primera vez siguiendo las sugerencias de \"Guia \u00d3leo\", no nos arrepentimos. \r\nMuy buena presentaci\u00f3n, muy buen color, textura y sabor.  \r\nQuedamos muy satisfechos con nuestra elecci\u00f3n."
+    }, 
+    {
+      "date": "13 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chichovv", 
+      "text": "Realmente un ambiente muy c\u00e1lido y una atenci\u00f3n m\u00e1s que excelente, muy personal y confiable. \r\nLa comida y los postres son de la mejor calidad y con mucha identidad.\r\nVolver\u00eda sin dudarlo. Al mediod\u00eda los precios son extremadamente accesibles y a la noche la m\u00fasica y el ambiente es el ideal para ir en pareja. \r\nLo recomiendo."
+    }, 
+    {
+      "date": "12 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "barkohba", 
+      "text": "Lamentablemente el ambiente est\u00e1 perjudicado por la utilizaci\u00f3n excesiva de desodorante de ambiente en el local, que baja desde los ba\u00f1os y afecta la zona de las mesas."
+    }, 
+    {
+      "date": "5 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "abanco", 
+      "text": "Comimos muy bien, el due\u00f1o fue muy amable y la atenci\u00f3n y asesoramiento del mozo impecable. \r\nNos ofrecieron llamarlos antes de ir para solicitarles platos especiales al chef. Excelente."
+    }, 
+    {
+      "date": "1 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nag79", 
+      "text": "Excelente lugar y muy buena comida. Peque\u00f1o y con una atenci\u00f3n personalisima. \r\nSe respira muy buena onda y un lugar muy c\u00e1lido."
+    }, 
+    {
+      "date": "29 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "un_angel", 
+      "text": "La comida, los postres y la atenci\u00f3n son excelente. \r\nLa combinaci\u00f3n de la m\u00fasica y la ambientaci\u00f3n del lugar dan el ambiente perfecto para que un d\u00eda de semana se pase una velada perfecta en pareja."
+    }, 
+    {
+      "date": "5 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tano78", 
+      "text": "Excelente la presentaci\u00f3n de los platos, muy buena atenci\u00f3n y un ambiente c\u00e1lido. Ideal para ir con tu pareja."
+    }, 
+    {
+      "date": "29 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "thule777", 
+      "text": "Muy linda atm\u00f3sfera. Las sugerencias de Fernando -cuya c\u00e1lida y esmerada atenci\u00f3n se destacan- fueron acertadas: \u00a1Exquisitas! \r\nMuy piola el men\u00fa ejecutivo, as\u00ed como la pol\u00edtica de descuento por pago efectivo. \r\nEso s\u00ed, cuidarse de los pancitos saborizados. \u00a1Son un infierno!"
+    }, 
+    {
+      "date": "20 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "andu", 
+      "text": "Muy buena atenci\u00f3n y la comida exquisita!"
+    }, 
+    {
+      "date": "19 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cmourell", 
+      "text": "Tanto la atenci\u00f3n como la comida son realmente buenos. El men\u00fa ejecutivo me parece muy accesible y rico."
+    }, 
+    {
+      "date": "2 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Charos", 
+      "text": "Me gust\u00f3 mucho el lugar, muy bien ubicado.\r\nLas pastas son excelentes!\r\nLa atenci\u00f3n, muy buena."
+    }
+  ]
+}

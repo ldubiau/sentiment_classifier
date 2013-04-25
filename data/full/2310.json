@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "9 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "CheGringo", 
+      "text": "Probablemente lo peor pizza que come en Buenos Aires.  El servicio fue horible, necesitamos llamar el mozo muchas veces para ayudarnos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Facundojesus", 
+      "text": "No me mata...es para comer al paso o un cafecito. Buena antencion..."
+    }, 
+    {
+      "date": "3 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maucito", 
+      "text": "fui muchas veces a tomar un caf\u00e9 y algunas a cenar. Soy habitue.\r\nEl lugar es tranquilo, en especial luego de las 20:00hs. Es comodo, en espcial las mesas contra la pared con sillones. Tiene precios aceptables, es muy limpio y la atenci\u00f3n es buena. En relaci\u00f3n calidad precio me parece aceptable."
+    }, 
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "tel86", 
+      "text": "Fuimos con mi novio a cenar a la noche, y la verdad me decepciono muchisimo. No vuelvo nunca mas. Encontr\u00e9 este restaurante por corrientes y de afuera aparentaba un buen restaurante con buena calidad. Nunca mas me dejo seguir pos las apariencias. La comida era muy excasa, los mozos nos atendieron muy tarde, eso que fuimos a eso de las 8 de la noche y no habia mucha gente como para que nos atendieran tan lento, la comida vino muy fria, y hasta tardaron en traernos la cuenta..NO VOLVEMOS NUNCA MAS, NO RECOMENDABLE"
+    }, 
+    {
+      "date": "19 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vane87", 
+      "text": "Muy buena opcion para ir a comer. Porciones abundantes y muy buenas."
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marysabel65", 
+      "text": "Es un lugar de barrio, sin lujos, ni atractivos pero la comida es muy buena y abundante. El salmon rosado con salsa cuatro quesos es exquisito, y el trozo de salmon es muy grande a solo $26. No cobran servicio de mesa, lo cual es buenisimo en estos dias. En resumen, lugar tranquilo, buena comida, abundante, excelente la relacion calidad / precio"
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MaryGus", 
+      "text": "Muy buena la comida. Ya habiamos ido varias veces. La panera es artesanal. No cobran servicio de mesa. Los precios son muy accesibles. Las porciones generosas. Lo unico malo es que nos dijeron que habia delivery que llegaba a mi casa, pero cuando llam\u00e9 me dijeron que no."
+    }, 
+    {
+      "date": "11 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "nicodos", 
+      "text": "Lindo lugar de paso para comer algo rapido. Pedimos unas empandas que estaban buenas y solo eso. La atencion fue buena. Lo que mas me gusto fue el ambiente."
+    }, 
+    {
+      "date": "23 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lorenaelo", 
+      "text": "Fiu es un lugar lindo, familiar y lo mejor es la panera!!!"
+    }, 
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "turkita", 
+      "text": "La pizza es muy buena, pero las milanesas no..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jrivero", 
+      "text": "Habitualmente con mi mujer solemos ir a almorzar o a cenar ahi,el lugar si bien no tiene lujos, es agradable y limpio, ambiente familiar, los mozos y due\u00f1os tienen la mejor onda, y la comida es muy rica y barata. Siempre que coincidimos solemos ir con familia y/o amigos y todos coincidimos en que es un buen lugar para comer, la verdad que se los recomiendo. Ahh y un dato muy importante, es barato!"
+    }
+  ]
+}

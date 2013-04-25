@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "28 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Keepwalking", 
+      "text": "Este lugar no puede calificar como restoran dentro de esta gu\u00eda, es un barzucho com\u00fan que tienen algunas cosas para picar y nada m\u00e1s. No confundan a la gente.-"
+    }, 
+    {
+      "date": "18 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nmohamed", 
+      "text": "\u00bf\u00bfque hace este lugar en esta guia?? pense que era de restaurantes..\r\n\r\naca fui con mis amigos y todo bien, pero no pasa de ahi.. a la noche es un descontrol de gente y cumbia jaja \r\n\r\nla pizza es malisima, y las jarras de fernet tambien.. un desastre, ni da que evalue la comida porque no tiene jaja\r\n\r\nresumen: si tenes 20 a\u00f1os y ganas de tomar anda, sino deja porque es un fiasco"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Es un lugar para ir con amigos antes de ir a bailar o sino para picar algo con quien uno quiera. El ambiente es tranquilo, excepto en algunas ocasiones los fines de semana."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "surfer83", 
+      "text": "Es un lugar copado, sobre todo para el fin de semana cuando se llena hasta la madrugada. \r\nLa atenci\u00f3n es r\u00e1pida y esmerada. Un punto a favor: aceptan tickets. La comida es barata, sobre todo las picadas, y la cerveza tambi\u00e9n. Muy recomendable para reuniones con amigos."
+    }, 
+    {
+      "date": "4 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "shangai", 
+      "text": "La hamburguesa completa es buenisima, muy abundante,cargada y viene con papas fritas tambien.\r\nEs un lindo lugar para juntarse a tomar cerveza o algun trago y para comer solo comidas rapidas como ahmburguesa o una picadita."
+    }, 
+    {
+      "date": "16 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Elcritico", 
+      "text": "El lugar est\u00e1 muy bueno (voy siempre). La atenci\u00f3n de los chicos es buen\u00edsima, mucha onda. \u00bfLa comida? Muy rica la pizza."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "soygallego", 
+      "text": "El lugar ideal para juntarse con amigos. La atenci\u00f3n es muy buena y la picada Zass super completa y economica ($ 18) en la que comen 2 o 3 personas tranquilamente. La jarra de 1.1/2 de cerveza sale $ 13 y los tragos con precios accesibles. Lo mejor es el ambiente. Los s\u00e1bados se llena hasta la madrugada de pibes y pibas. Un muy buen lugar para ir antes de ir a bailar o directamente para quedarse toda la noche."
+    }
+  ]
+}

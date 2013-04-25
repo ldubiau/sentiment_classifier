@@ -1,0 +1,366 @@
+{
+  "buenos": [
+    {
+      "date": "3 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "antoCV", 
+      "text": "Buenisimos los jugos y licuados, muy naturales y originales!"
+    }, 
+    {
+      "date": "26 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juanab", 
+      "text": "Excelente opcion! Me ped\u00ed el Wrap Mediterraneo y el \r\nLicuado Banana Berry. Muy buenos!! Muy frescos!!!! Super recomendable!!!!"
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "vicsho", 
+      "text": "muy buenos licuados!"
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lidsutd", 
+      "text": "me ped\u00ed el licuado y bagel y estaban buenos."
+    }, 
+    {
+      "date": "10 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "PLORZ", 
+      "text": "La comida estuvo bien, dir\u00eda que es un \\\"ni\\\" y que definitivamente no vale lo que la cobran.\r\nLos licuados, por otro lado, EXQUISITOS. Me volv\u00ed adicta. Valen la pena y el precio es totalmente razonable."
+    }, 
+    {
+      "date": "4 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "sucris", 
+      "text": "me parecio caro porque es un lugar de comida al paso o en la barra, muy chico."
+    }, 
+    {
+      "date": "14 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "catiuska", 
+      "text": "La comida sigue super, pero sacaron las promos y ahora no justifica relaci\u00f3n precio/comodidad."
+    }, 
+    {
+      "date": "9 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Golosita", 
+      "text": "Me encant\u00f3 este peque\u00f1o local, ojal\u00e1 hubiera m\u00e1s en Buenos Aires. Com\u00ed una ensalada muy fresca y lo que m\u00e1s me gust\u00f3 fue el licuado de berries tan fresco, delicioso. Regresar\u00e9."
+    }, 
+    {
+      "date": "18 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "QuesoAzul", 
+      "text": "Muy buen lugar como opci\u00f3n para la comida fresca y sana. Est\u00e1 un poco oculto y no hay mucho espacio adentro, pero para llevar o pedir delivery esta muy bien, todav\u00eda no prob\u00e9 los licuados pero los wraps son excelentes."
+    }, 
+    {
+      "date": "18 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ana77", 
+      "text": "Un lugar original, la comida muy rica pero tiene mucho marketing que uno lo siente al momento de pagar el ticket ya que por los ingredientes que utilizan algunas opciones resultan caras. Sin embargo vale la pena conocerlo!"
+    }, 
+    {
+      "date": "15 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "juampycure", 
+      "text": "Excelentes preparaciones de wraps y sandwiches, con ingredientes de muy buena calidad. Falta m\u00e1s variedad, es cierto, pero lo que hay es muy, muy rico.\r\nLos jugos y licuados son una delicia y hay variedad.\r\nEl lugar es chiquito, pero no es importante, la comida, los jugos y los licuados lo valen, sin duda.\r\nPienso volver en varias ocasiones. Muy recomendable."
+    }, 
+    {
+      "date": "21 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gracielav", 
+      "text": "EXCELENTES JUGOS! Todo muy fresco y un sabor increible."
+    }, 
+    {
+      "date": "18 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "La ensalada estaba barbara, con varias cosas y condimentos especiales. Los jugos son muy ricos y hay mil combinaciones . Lo unico malo es que es muy chiquito el lugar y no hay mesas por lo que te tenes que sentar en una barra bastante peque\u00f1a para comer comodo."
+    }, 
+    {
+      "date": "22 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Angeles32", 
+      "text": "Podes Comer un Panini, un jugo exprimido de frutas naturales , son execelentes y agregarle algo energizante o sanador , y luego comerte una super ensalada de fruta"
+    }, 
+    {
+      "date": "5 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fabricio70", 
+      "text": "Un amigo me recomend\u00f3 el de la calle Reconquista, pero como est\u00e1 cerrado el fin de semana, fuimos a este de Recoleta. El lugar es m\u00ednimo, muy peque\u00f1o, pero justamente por ello se hizo acogedor y se torna uno de esos lugares en donde vas y de paso mientras com\u00e9s pod\u00e9s charlar con la gente que te prepara la comida!. Los licuados y jugos son MARAVILLOSOS y el Wrap que com\u00ed estaba genial!. Dan ganas de probar absolutamente todo lo que tienen!. Una sugerencia: poner a las salseras una identificaci\u00f3n sobre lo que tienen.\r\nTodo fresco, todo a la vista. Volver\u00e9 sin lugar a dudas!!!"
+    }, 
+    {
+      "date": "4 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "todo_pasa", 
+      "text": "Lo fuia conocer despues de leer un par de comentarios del lugar. Opino que a pesar de que el lugar es muy peque\u00f1o , los licuados son para Recomendarrr!! al igual que el \"pollo latino\". Y al igual que otros  usuarios me parece mal que todo lo entreguen en vaso de telgopor, teniendo en cuneta lo mal que ahce al medio ambiente. \r\nSalvo eso...lo demas muyy bueno, rico, natural.... para probar todooo!!"
+    }, 
+    {
+      "date": "5 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jaia", 
+      "text": "la comida es de buena calida  y cuidada elaboracion, pero a veces \"se olvidan\" algunos ingredientes que estan en el plato"
+    }, 
+    {
+      "date": "28 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Muy rica y fresca la comida y los jugos. El jugo anti-resfrio (anana, manzana y jengibre) es muy bueno. El lugar es muy chiquito. Solo tiene 2 mesas para 2 personas y una barra para otras 4 o 5.\r\n\r\nLo que me llamo la atencion es que siendo un lugar de comida natural y que se preocupan por el medioambiente, los jugos vienen todos en vasos descartables de telgopor......"
+    }, 
+    {
+      "date": "28 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "paddyba", 
+      "text": "Muy rica, muy sano pero aun cuando estaba almorzando alli, el jugo vino en un vaso de telgopor!! No lo ped\u00ed para llevar. No creo que sea muy sano para el mundo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Goose", 
+      "text": "Siempre pido el wrap de pollo latino (excelente la salsa oriental) y el licuado La Cura para llevar. Atenci\u00f3n r\u00e1pida y amable."
+    }, 
+    {
+      "date": "12 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Vee123", 
+      "text": "Gente muy amable y comida con calidad alta y precios buenos. Tambien porciones son grandes."
+    }, 
+    {
+      "date": "20 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gloria54", 
+      "text": "la comida era buenissima--toda fresca.  el salm\u00f3n era muy rico y el sandwich vino con chips y varias salsas.  el licuado era delicioso--muy refrescante.  el ambiente es buena y moderna y los empleados son amables.  and they speak english too!  i'd definitely recommend pura vida to anyone looking for great veggie food."
+    }, 
+    {
+      "date": "15 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SwaSthyaMan", 
+      "text": "Este lugar es un cl\u00e1sico. La calidad de los ingredientes son realmente buenos y el servicio es muy buena y simpatica. Siempre son buena onda. Y la verdad es que el valor es indescutiblemente bueno. Cuando decido cuidar mi bosillo, compro frutas en la esquina y termino gastando lo mismo!\r\nConsiderando las cr\u00edticas, sean realistas, el lugar es chico, mas uno se disfrute del espacio porque es buena onda y calida, as\u00ed siempre termino conociendo a alguien nuevo y copado. Chill family.\r\nJUST DO PURA VIDA!"
+    }, 
+    {
+      "date": "4 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ailegnave", 
+      "text": "La comida ac\u00e1 es deliciosa, fresca y nutritiva. Hay una gran variedad de jugos de frutas con opciones de super alimentos para agregar. El lugar es peque\u00f1o y se come sobre 2 barras. No hay mesas. El local del centro es m\u00e1s grande y s\u00ed tiene mesas. Tiene muy buena relaci\u00f3n precio-calidad."
+    }, 
+    {
+      "date": "25 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "arsu", 
+      "text": "Excelente la calidad de la comida y los licuados, todo muy sano y rico, lo pido al delivery 2 a 3 veces por semana, ojala mantengan el nivel de los productos y del servicio que siempre es muy atento y cordial."
+    }, 
+    {
+      "date": "5 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "BarbieDelfino", 
+      "text": "muy fresca la comida (wraps, ensaladas, paninis...). rica, nutritiva y tentadora! los jugos y licuados valen la pena sobre todo en dias de tanto calor citadino y cansancio!!! los agregados (polen, espirulina, weatgrass o maca peruana) son un excelente propuesta para recuperar energias perdidas x ahi!"
+    }, 
+    {
+      "date": "18 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Muni", 
+      "text": "APLAUSOS!!! Una delicia, sano, rico, perfecto... !!! Vayan, no se van a arrepentir."
+    }, 
+    {
+      "date": "13 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dnp", 
+      "text": "Los licuados son buenisimos. Sin duda, los mejores de la ciudad. Unas mezclas super originales y todo muy pero muy fresco. Los chicos que laburan ahi tienen toda la onda y te hacen sentir comodo. A veces puede tardar un poco si vas en hora pico ya que cada licuado es toda una produccion pero vale la pena. Como dicen muchos aca, el lugar es muy chico y un poco incomodo asi que siempre pido para llevar. Si viviria mas cerca me tomaria un licuado todos los dias."
+    }, 
+    {
+      "date": "10 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Juli1974", 
+      "text": "Pedimos delivery con mi jefa y compa\u00f1era y la verdad es que nos llevamos una grata sorpresa! La entrega fue rapidisima,la atencion telefonica muy buena y la comida se llevo todos los aplausos.Tanto me gusto que lo hice venir a mi marido a buscarme para pedir a la noche otra vez!"
+    }, 
+    {
+      "date": "19 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cecil24", 
+      "text": "EXCELENTE.!!! Ya voy o pido delivery casi todos los d\u00edas. Excelente atenci\u00f3n, comida super fresca, rica y sana. Los licuado, imperdibles. Y la ensalada de frutas tiene todas las frutas de estaci\u00f3n naturales, m\u00e1s frambuesas, ar\u00e1ndanos!! Imperdible. Lo mejor en Barrio Norte"
+    }, 
+    {
+      "date": "17 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "marara", 
+      "text": "me hice adicta a pura vida, la comida deliciosa y sana, mercaderia fresca y los jugos deliciosos, los chicos que atienden son una delicia, 10 puntos para Fedra que satisface todos tus deseos.Los precios rebuenos, muy accesibles-la critica hacen falta mas sucursales."
+    }, 
+    {
+      "date": "23 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Isasu", 
+      "text": "una onda que no hay en BUE igual,super cuidadosos con los alimentos....un lugar \u00fanico"
+    }, 
+    {
+      "date": "4 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "petrucci", 
+      "text": "Excelente lugar para comer todo 100% natural y de excelente calidad. El lugar es chico pero en realidad ellos trabajan casi exclusivamente con delivery."
+    }, 
+    {
+      "date": "5 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "msampedro", 
+      "text": "Todo muy fresco y bien preparado. Tienen cuidado en la preparaci\u00f3n de la comida y son muy limpios. Es muy dif\u00edcil encontrar lugares con variedad de jugos y licuados frescos."
+    }, 
+    {
+      "date": "28 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "martyhanna", 
+      "text": "Todo fue muy bien. Los licuados eran muy refrescos y la comida muy rica. Que buen lugar realmente. \r\nEllos tienen cosas que nadie tienen. Saludable y rico!"
+    }, 
+    {
+      "date": "21 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dlazzati", 
+      "text": "Muy buenos licuados y jugos, muy buena la onda de los  chicos tambien."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "19 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tortero", 
+      "text": "Fui, dado q saque un cupon por internet, la verdad q la comida fue muy buena y la atencion tambien, el lugar es sencillo pero es optimo, buen lugar para almorzar en el centro!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Teddy", 
+      "text": "Un hallazgo espectacular en pleno centro para mi que trabajo por la zona. Muy buena comida y atenci\u00f3n. Ambiente normal. Buenos precios. Ojal\u00e1 contin\u00faen as\u00ed!"
+    }
+  ]
+}

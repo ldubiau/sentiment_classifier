@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "13 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "epublica", 
+      "text": "No se queden sin probar los ravioles de bondiola de esta lugar asi como sus tragos y su carta de vinos.\r\nLa atencion es amena y siempre hay buena musica. Volveremos por mas!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chikpink", 
+      "text": "ayer a la noche fui a cenar , la canasta de panes estaba recien salida del horno , y el omelette capresse que pedi  estaba riquisimo , todo muy fresco , la limonada con menta muy recomendada."
+    }, 
+    {
+      "date": "5 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Mross", 
+      "text": "La comida excelente, fresca y casera, muy buena la presentaci\u00f3n y el sabor, recomendable!. \r\nLe faltaria un vuelta de rosca a la ambientaci\u00f3n para que sea m\u00e1s c\u00e1lida y amena e invite a \"estar\"."
+    }, 
+    {
+      "date": "30 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Picture", 
+      "text": "Excelente servicio. La comida es casera y se nota que hecha en el momento. Las pastas insuperables. Muy recomendable para una cena rom\u00e1ntica"
+    }, 
+    {
+      "date": "15 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "munqui", 
+      "text": "Todo excelente."
+    }
+  ]
+}

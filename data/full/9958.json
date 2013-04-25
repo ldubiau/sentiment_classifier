@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "7 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Almuerzo de trabajo en Don Bosco,  comida casera y abundante. Aprovechando las promociones  (hay distintos platos seg\u00fan los d\u00edas) es como para recomendar. No lo visitar\u00eda como para una salida formal. El ambiente es tranquilo y la atenci\u00f3n algo dispersa."
+    }, 
+    {
+      "date": "29 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "doctor_cristian", 
+      "text": "Hace 2 a\u00f1os que desayuno a diario en el Bar Don Bosco. Trato cordial y atenci\u00f3n muy buena, muy recomendables las tostadas. El pan se hace en el establecimiento lo que favorece la presentacion. Buenas porciones, precio accesible. Un cl\u00e1sico de Almagro frente a la Bas\u00edlica Mar\u00eda Auxiliadora"
+    }, 
+    {
+      "date": "13 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Lugar familiar, donde hay que tratar de aprovechar las promociones que ofrecen a diario. Los platos de la carta son muy abundantes, pero no se destacan y los precios son normales si se toma en cuenta la abundancia de los mismos. La atenci\u00f3n es poco profesional y lenta y el ambiente es ruidoso. Creo que s\u00f3lo con promociones se justifica la visita."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mr-Colmillo", 
+      "text": "Es ideal para desayunar o merendar. Recomiendo aprovechar las promociones que tiene el lugar. El lugar es chico y tranquilo. Es ruidoso por los medios de transportes nada mas."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "15 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maria63", 
+      "text": "Es un lugar ideal para reunirse con amigos.\r\nPara algunos platos consultar si es para compartir porque son generosos.\r\nLe faltar\u00eda ampliar en la carta la parte Postres.\r\nLos precios est\u00e1n muy acomodados de acuerdo a la calidad de la cocina."
+    }, 
+    {
+      "date": "21 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "gustavo304", 
+      "text": "Una carta bastante variada pero donde se destacan los pescados y mariscos. Algunos platos mejor logrados que otros, pero todos buenos. Es un digno sucesor de La Gran V\u00eda."
+    }, 
+    {
+      "date": "23 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vidalrojo", 
+      "text": "Un lugar calido y tranquilo.\r\nuna carta con profusion de pescados  y buenas pastas y carnes.\r\nbuena atencion.\r\nexcelente relacion precio-productos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rojito", 
+      "text": "El lugar es muy acogedor, la atencion tanto de los mozos como de los due\u00f1os es para recomendar, la comida es muy buena, generosa y variada, los precios son muy razonables, el ambiente es muy tranquilo, yo lo recomiendo."
+    }
+  ]
+}

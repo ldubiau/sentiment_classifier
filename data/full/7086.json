@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "20 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Draki", 
+      "text": "De lo peor de los reataurantes del estilo parrilla libre. P\u00e9sima calidad en todo lo que salga tanto de la parrilla como de la cocina. Lo \u00fanico rescatable fue la voluntariosa atenci\u00f3n de las meseras. Muy mala experiencia."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vinilitos", 
+      "text": "Fuimos para festejar el cumplea\u00f1os de mi viejo. El ya lo conoc\u00eda y a pesar de haber tenido algunas quejas decidi\u00f3 volver y hacernoslo conocer al resto. No est\u00e1 mal. Pocas meseras. Muy ruidoso."
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "5 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "gurmet_asesino", 
+      "text": "A principios la pizza era muy buena. Las ultimas dos veces que fui la masa de la pizza estaba cruda y dura como una suela. La atenci\u00f3n buena."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "juanvago", 
+      "text": "Esta muy buena la ambientaci\u00f3n pero estar\u00eda mejor con un par de mesas menos para estar mas comodos. La comido es buena en general, pero me toco un chop suei de camarones algo salado por demas."
+    }, 
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lau_esp", 
+      "text": "muy lindo lugar, excelentes las rabas y la pizza enorme cuadrada  espectacular, realmente nos gusto mucho"
+    }, 
+    {
+      "date": "7 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pulpo", 
+      "text": "Muy linda ambientaci\u00f3n, una moza de excepcional simpat\u00eda (Mar\u00eda) y pizzas a la parrilla originales y combinadas, l\u00e1stima que fr\u00edas."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jenny_d", 
+      "text": "Magnolia es un lugar lindo para cenar. La atenci\u00f3n nos pareci\u00f3 buena y la pizza es rica!"
+    }, 
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sebaneo", 
+      "text": "Muy rica la pizza y variedades que no se consiguen normalmente en otros lados. Ahora, eso si, hay que ir temprano. La vez que fui tarde hab\u00eda que esperar un buen rato para tener una mesa,  tardaron muchisimo en traerme la pizza y ensima media fr\u00eda. Me parece un muy buen restaurante pero para menos gente, lleno se nota que les faltan recursos."
+    }, 
+    {
+      "date": "6 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "LLOR", 
+      "text": "me parecio expetacular"
+    }, 
+    {
+      "date": "6 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "bartolo14", 
+      "text": "Los postres son muy buenos lo unico que tardan unos 30 minutos."
+    }, 
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marulia", 
+      "text": "no comimos postre porque no quisimos. La pizza excelente. La atencion muy buena. el lugar c\u00e1lido. para tener en cuenta, los ba\u00f1os impecables."
+    }, 
+    {
+      "date": "5 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Coka", 
+      "text": "Me encanto la pizza, ademas es el unico lugar en zona oeste que hacen pizza a la parrilla."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tan_infamee", 
+      "text": "La"
+    }
+  ]
+}

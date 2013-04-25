@@ -1,0 +1,328 @@
+{
+  "malos": [
+    {
+      "date": "16 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Cubisino", 
+      "text": "Muy buen restaurante"
+    }, 
+    {
+      "date": "10 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "valeydari", 
+      "text": "Fuimos varias veces y nunca tuve una queja pero hoy decidimos hacer el delivery porque habia mucha demora. La grata sorpresa fue que las porciones eran mas chicas y cuando llame para hacer mi descargo me dijieron textualmente: si pedis por delivery las porciones son mas chicas para justificar su cambio en el tamanio o su error en mi pedido. No voy mas"
+    }, 
+    {
+      "date": "27 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "alfonlus", 
+      "text": "Si bien fuimos atendidos rapidamente (llegamos relativamente temprano y llovia) la comida tardo bastante, y encima el vacio estaba crudo (arrebatado). Comida regular."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "chorriti", 
+      "text": "La comida es muy rica! La provoleta vino bien caliente, las papas fritas parecen las hechas en casa y la carne es de buena calidad...lo \u00fanico que agregar\u00eda es mas opciones de postre"
+    }, 
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Avatar777", 
+      "text": "Es una parrilla con una carta acotada pero una calidad excelente. El bife de chorizo esta realmente a punto, como lo pedimos, y los precios est\u00e1n acorde a la calidad sin ser demasiado caros."
+    }, 
+    {
+      "date": "7 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gabrielgap", 
+      "text": "Siempre vamos porque la comida, el lugar y los precios son muy buenos, lo recomiendo!!"
+    }, 
+    {
+      "date": "23 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "El Canario", 
+      "text": "El lugar te condiciona a pedir una cierta cantidad. Por ejemplo no sirven medias porciones."
+    }, 
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maxigrosso", 
+      "text": "Muy buena onda, carta sencilla pero eficaz, buenos vinos, buena relaci\u00f3n PRECIO-CALIDAD. Muy recomendable. Volveremos ..."
+    }, 
+    {
+      "date": "4 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mamonec", 
+      "text": "Lindo lugar... pero nada para cuidarse de las grasas... sin duda hay calidad en carnes y bien preparadas... la atenci\u00f3n sugiere buen servicio al ser recibidos por la comis del sal\u00f3n pero el servicio de mesa no sobresale, aun as\u00ed, no es malo... mi \u00fanico comentario es al tiempo que tardaron en traer los platos, un poco excesivo... pero est\u00e1bamos muy relajados y la pasamos bien"
+    }, 
+    {
+      "date": "5 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "futzhen", 
+      "text": "Grata sorpresa en Ramos Mejia...no lo conocia. Un lugar amable, simple, con una carta peque\u00f1ita pero de excelente calidad. La carne y las provoletas son de lo mejor que prob\u00e9 en los \u00faltimos tiempos. Hay  un lugar para los ni\u00f1os  y mesas para el verano, al aire libre bajo unos buenos pinos.Los platos son super abundantes , para compartir. No soy de la zona, pero cuando vuelva al Oeste, regreso a este restaurante ."
+    }, 
+    {
+      "date": "3 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aardid", 
+      "text": "fuimos con mi mujer, mis suegros y mi beba. Tienen una zona para chicos con juegos, tv , una chica q los cuida. Zona al aire libre. Muy buena comida, muy buen servicio y buenos precios !"
+    }, 
+    {
+      "date": "8 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "leticiaquirque", 
+      "text": "Es un restaurante familiar, tiene juegos para chicos, la comida es buena, hay mejores, pero es buena. La atenci\u00f3n normal, atentos pero no pesados. Es acorde al precio. Seguramente volveremos"
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marce3862", 
+      "text": "Muy buena carne"
+    }, 
+    {
+      "date": "18 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dgdico", 
+      "text": "Realmente muy buena opcion.\r\nExcelente relacion costo/beneficio.\r\nSe come muy bien a un precio super razonable."
+    }, 
+    {
+      "date": "8 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GAM05", 
+      "text": "Para ir en familia muy buena relaci\u00f3n costo-beneficio. Cortes clasicos (entra\u00f1a, chorizo,tira,vac\u00edo). Las papas bast\u00f3n impresionantes!; NO MCain!!. Vevida opcional de litro en botella (no jarra). Recomiendo ya que no es pretencioso pero se come muy bien. Recomiendo llegar temprano. M\u00e1s los viernes"
+    }, 
+    {
+      "date": "20 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "VeroLS", 
+      "text": "El lugar es muy agradable y la atenci\u00f3n muy buena. Porciones abundantes a precios justos. Buena opci\u00f3n para ir con chicos ya que cuentan con un sector para ellos con personal a cargo."
+    }, 
+    {
+      "date": "11 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ARIELG88", 
+      "text": "la verdad fui por una recomendacion, y cenamos muy bien la atencion impecable, hasta se nos pregunto como la estabamos pasando,(cosa que particularmente me gusta) lo unico que tienen las mesas demasiado pegadas una de la otra entonces se hace un tanto molesto escuchar las concversaciones de los demas comensales, y tambien el lugar siempre esta lleno, pero lo recomiendo y voy a volver"
+    }, 
+    {
+      "date": "29 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Ianina", 
+      "text": "Excelente opci\u00f3n para ir en familia, vamos frecuentemente pues disponen de juegos para los ni\u00f1os. No cobran cubierto y adem\u00e1s brindan la posibilidad de pedir gaseosa grande, lo cual no es muy habitual. A pesar de ir cuando estaba repleto, el servicio result\u00f3 muy bueno. Las porciones son grandes; por otro lado valoro la sinceridad ya que quien nos atendi\u00f3 nos indic\u00f3 al solicitarla que no nos recomendaba la ensalada de frutas ya que estaba incompleta. Para que la atenci\u00f3n fuese a\u00fan mejor, en nuestro caso el caf\u00e9 fue cortes\u00eda de la casa. Si uno quiere, la segunda vuelta del mismo es sin cargo."
+    }, 
+    {
+      "date": "23 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "mga", 
+      "text": "Me gust\u00f3 esta opci\u00f3n de parrilla en Ramos, que si bien no es mas que eso, tiene muy buen servicio y atenci\u00f3n por parte de los mozos, los platos salen muy r\u00e1pido, te dan unas cazuelitas de bienvenida muy interesantes y la opci\u00f3n de carnes est\u00e1 muy bien y es abundante. Por suerte la moza nos advirti\u00f3 esto y compartimos.Super  de postre el bud\u00edn de pan que es casi para cuatro!!!! Un par de plus a favor la crema y el dulce de leche son sin cargo y la segunda ronda de caf\u00e9 tambi\u00e9n."
+    }, 
+    {
+      "date": "23 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Ambiente amigable para una parrilla del conurbano, donde destaco la atenci\u00f3n esmerada de la moza que nos atendi\u00f3, que adem\u00e1s nos avis\u00f3 con buen tino que las porciones eran abundantes.  Las carnes asadas pedidas estaban muy bien y salieron rapid\u00edsimo.  El bud\u00edn de pan no solo es premiun, sino tambi\u00e9n para compartir.  Destacable tambi\u00e9n que hay vinos accesibles como para decir que se puede comer buena carne y pagar una cuenta razonable."
+    }, 
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alys", 
+      "text": "Exelente opci\u00f2n para comer parrilla, muy buena calidad de la comida, y abundante, casi todos los platos son para compartir y a unos precios super economicos. Muy bueno el lugar, mesas al aire libre para el verano. Es conveniente reservar, es mucha la gente que va y a veces es larga la espera, pero...VALE LA PENA!!!!"
+    }, 
+    {
+      "date": "12 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cyn_kv", 
+      "text": "Muy recomendable, la comida es muy buena y los precios son accesibles, los platos pueden compartirse. Conviene reservar antes si se puede porque tienen mucha gente."
+    }, 
+    {
+      "date": "10 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mancu", 
+      "text": "Ambiente muy agradable y familiar. Comida muy buena y a muy buen precio. Y con espacio para chicos !"
+    }, 
+    {
+      "date": "28 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "diegomino1193", 
+      "text": "La verdad la comida en muy buena, es una excelente alternativa a las parrillas de la zona de ramos. El lugar es acogedor, lo criticable el espacio entre mesas. La atenci\u00f3n es buena, no es muy buena ya que cuando hay mucha gente las camareras demoran demasiado en atender."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CuocoMagri", 
+      "text": "Parrilla muy recomendable"
+    }, 
+    {
+      "date": "8 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablo1608", 
+      "text": "Muy bueno el lugar, la atenci\u00f3n, fuimos con un hijos de 2 a\u00f1os y el servicio de entretenimientos para chicos fu\u00e9 excelente.\r\nLa comida porciones abundantes y a punto."
+    }, 
+    {
+      "date": "29 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "roxanaelallana", 
+      "text": "Fuimos a cenar con mi marido, y nos encanto. El lugar muy bien ambientado, la atencion (en nuestro caso, un  muchacho con acento de corrientes  o paraguay) excelente, nos atendio muy bien, nos recomendo  un postre exquisito ( Copa paja rota), y te dice cuando un plato es o no para compartir. El due\u00f1o o encargado, siempre dando vueltas por el salon atento a las mesas y a los comenzales. Excelente relacion precio calidad. Es una excelente opcion para ir con ni\u00f1os, ya que tiene un salon con pelotero con una chica que esta constantemente al cuidado de los ni\u00f1os. Excelente lugar, vamos a volver."
+    }, 
+    {
+      "date": "9 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "playerr", 
+      "text": "EXPECTACULAR, super rico y muy buen precio! Recomiendo el flan con dulce de leche y cremaaa!"
+    }, 
+    {
+      "date": "19 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Luisita54", 
+      "text": "Buen ambiente, buena atenci\u00f3n del personal, no tardaron mucho en traer la comida y la carne estaba a punto, como lo hab\u00eda pedido. Lo recomiendo."
+    }, 
+    {
+      "date": "16 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "atilavon", 
+      "text": "Excelente relacion precio calidad.  No es un restaurant de lujo, pero es ideal para ir a comer cuando uno no quiere cocinar o salir a un lugar no muy fashion.  Muy recomendable"
+    }, 
+    {
+      "date": "15 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "maflo1979", 
+      "text": "excelente lugar,la atencio de diez, la comida muy buena y lo importante barato,cuidan a los chicos, la verdad hacia mucho q no iba a un lugar q todo fuera tan bueno.voy a ir mas seguido"
+    }, 
+    {
+      "date": "9 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chilu", 
+      "text": "se come muy bien a un precio razonable, buen servico, sin destacrlo ya que cuando se llena se hace un poco tedioso,para los chicos hay entretenimeintos."
+    }
+  ]
+}

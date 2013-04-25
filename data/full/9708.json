@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "5 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Santaya", 
+      "text": "son muy buenas las pizzas, la gente es muy copada mas que recomedable para ir con flia o entre amigos!"
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Candela1979", 
+      "text": "De las peores experiencias culinarias que me toc\u00f3 atravesar! es un horror. tambi\u00e9n fuimos con promoci\u00f3n de cup\u00f3nica. adem\u00e1s de la desidia de los mozos, y la mala atenci\u00f3n en general. aparentemente, pedir pan con la picada es una extra\u00f1eza para esta gente! ojo: si te dicen que no te cobran el cubierto, es porque no los traen! ni un plato, ni tenedor ni cuchillo, arreglate con dos escarbadientes."
+    }, 
+    {
+      "date": "9 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Naniquena", 
+      "text": "Horroroso. Fuimos con promoci\u00f3n de Cuponica. La picada tenia 3 rodajas de salame, 2 de cantimpalo y 2 de crudo, el resto era jam\u00f3n cocido (bue, paleta sandwichera dir\u00eda yo) y mozzarella.Pedimos una pizza para complementar. Pedimos fugazzetta con roquefort, trajeron mitad y mitad y el roquefort todav\u00eda lo estoy buscando.Los mozos de terror, maleducados. En el cupon decia q era de 12 a 21. La reserva, q ellos tomaron, era para las 21. Cuando pedimos el postre (era flan no ten\u00edan y trajeron brownie, estaba bien) nos dijo la moza q la promo era hasta las 21 y no podian traerlo. NUNCA MAS"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "31 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fukerito", 
+      "text": "El lugar es mas bien chico, es mas para comer afuera que adentro.\r\nFuimos con vouchers tambien, lamentablemente, siempre nos hicieron lio, siempre tenian todas las \"reservas completas\" y eso que el lugar siempre esta mas bien vacio, lo se porque vivo a la vuelta.\r\nLas empanadas y la pizza son aceptables, nos molesto que nos trajeron todo junto, cuando claramente le especificamos que las empanadas eran de entrada.\r\nEl mozo simpatico y atento.\r\nNunca nos trajeron la cuenta, nos trajeron una hoja en blanco con todo anotado a mano diciendo los importes.\r\nOjala respetaran las promociones que sacan!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ermenegido", 
+      "text": "Buen lugar, los due\u00f1os siempre predispuestos y la pizza buenisima, recomendable."
+    }, 
+    {
+      "date": "24 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ermenegido", 
+      "text": "Mucha onda, buena atencion y excelente la pizza!"
+    }
+  ]
+}

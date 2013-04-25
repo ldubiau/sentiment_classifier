@@ -1,0 +1,778 @@
+{
+  "malos": [
+    {
+      "date": "4 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "malegria", 
+      "text": "A este restaurant le falta magia. No la tiene en su ambientacion, ni la tienen sus platos. Comimos y punto. Dos platos con salmon que no le generaban ningun efecto a nuestros sentidos. \u00bfFeo? no...  pero insipido... No es caro, lo cual es un punto a favor, pero no tenemos motivos para volver. Quiza una carta con menos pretenciones le vendria bien para afinar punteria!"
+    }, 
+    {
+      "date": "17 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "maurotte", 
+      "text": "No me gust\u00f3, fui con mi novia y comimos unas pastas y nada m\u00e1s, los ravioles pintaban para ser espectaculares pero las nueces no estaban y el gusto a camarones se lo tapaba la ricota, el servicio nos parecio lento."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tomito1", 
+      "text": "Bueno para el barrio sin deslumbrar en su ambiente , los platos son frescos, de calidad y no caro ,la moza muy amable , volvere"
+    }, 
+    {
+      "date": "26 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "polacopacha", 
+      "text": "Muy buen servicio, platos bien servidos, carta de vinos con buena cantidad y calidad."
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Abadigra", 
+      "text": "Bastante bueno el lugar, buen servicio, y un ambiente ameno con el tipo de comida que sirven, por cierto, muy bien!"
+    }, 
+    {
+      "date": "21 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "layaya", 
+      "text": "Buena comida, buena atencion.\r\nfuimos con amigos y la pasamos muy bien"
+    }, 
+    {
+      "date": "5 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FlaMac", 
+      "text": "Si bien lo recomiendo, tengoque decir que no es como se ve en fotos, me decepciono un poco el salon, la cocina a la vista es algo fea y oscura, hay mucho olor a comida, te la llevas puesta en la ropa :( El chivito uruguayo su especialidad es excelente. Como tambien son buenas las promos que tiene de vinos/champagne. El servicio algo mediocre."
+    }, 
+    {
+      "date": "1 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Alejo69", 
+      "text": "Lindo resto de barrio"
+    }, 
+    {
+      "date": "30 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Panchita3", 
+      "text": "Resto de barrio, m\u00e1s bien chico, pero lindo. Con buena comida, sencilla. Buen servicio"
+    }, 
+    {
+      "date": "4 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GuiameH", 
+      "text": "Resto chico, donde se come bien, con buena atenci\u00f3n."
+    }, 
+    {
+      "date": "17 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Chongotres", 
+      "text": "Resto de barrio familiar con buena comida."
+    }, 
+    {
+      "date": "18 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pirucho2", 
+      "text": "Resto de barrio muy lindo, con buen ambiente, buena atenci\u00f3n y comida como en casa."
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ferwess", 
+      "text": "excelente atencion, excelente comida."
+    }, 
+    {
+      "date": "21 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "McCritico", 
+      "text": "Restaurant tipico de barrio, buena comida, buena atencion. Informal pero atento. Buenos precios y muy buena carta de vinos."
+    }, 
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Es un bolichon rzonable para ir a comer sin mas pretensi\u00f3n, relaci\u00f3n precio calidad aceptable"
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "telramud", 
+      "text": "Buena alternativa si se buscan platos y ambiente sencillos. Sabores correctos, sin pretensiones. Pocas alternativas de entradas. Sal\u00f3n prolijo, limpio; nada de lujos. Atenci\u00f3n amable. Clima familiar, algo ruidoso: desaconsejable para encuentros rom\u00e1nticos. Ameno al bolsillo, lo cual mejora la digesti\u00f3n."
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "caludio", 
+      "text": "Si bien el local y la decoraci\u00f3n dejan mucho que desear, la porciones son abundantes y la comida es muy buena. Pedimos un bife al morr\u00f3n que viene como hace mucho no veia (muy gordito y tierno).El d\u00fao de salm\u00f3n y abadejo a la naranja tambi\u00e9n estaba muy sabroso, lo mismo que el volc\u00e1n de dulce de leche.La atenci\u00f3n es correcta. El servicio de mesa que se cobra $4 est\u00e1 compensado por las empanaditas y el pan de pizza con jam\u00f3n muy bueno."
+    }, 
+    {
+      "date": "6 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "medoc", 
+      "text": "No comimos mal, tampoco me sorprendio.Carta antigua y sin personalidad al igual que el ambiente.Tendran que mejorar la carta de vinos."
+    }, 
+    {
+      "date": "22 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "kryku", 
+      "text": "Un lugar familiar donde se puede comer muy bien, excelente relaci\u00f3n precio / calidad. Tanto los chivitos uruguayos como los platos gourmet son altamente recomendables. Deberia mejorar el ambiente"
+    }, 
+    {
+      "date": "14 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "BuonMangiare", 
+      "text": "Muy buenos platos, elaborados, con buenos ingredientes y a un precio muy razonable. La carta de vinos es muy buena y a un precio muy razonable, practicamente igual que un supermercado; lo cual posibilita disfrutar un muy buen vino sin que te salga una fortuna. La atenci\u00f3n es normal, sin grandes pretenciones al igula que el lugar, que a mi entender merecer\u00eda una mejora est\u00e9tica. Lugar tranquilo, excelente para comer platos de primer nivel, con una inmejorable relacion precio/calidad. Si se pretende un lugar \"fashion\", olvidarse; si se quiere comer bien a buen precio, lo recomiendo sin dudar."
+    }, 
+    {
+      "date": "29 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Louis", 
+      "text": "Lugar sencillo y sin pretensiones. El gran chivito orillas es gigante, para compartir y cuesta $ 28. Muy rico este plato. Muy buena atenci\u00f3n. Lugar simple donde se come bien y abundante a precios muy razonables."
+    }, 
+    {
+      "date": "4 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pencroff", 
+      "text": "Ambiente tranquilo, muy buen servicio (camarera muy amable) y excelente men\u00fa"
+    }, 
+    {
+      "date": "6 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Mercury", 
+      "text": "El lugar no tiene elegancia alguna, adelante entra el frio cada vez que se abre la puerta, atras es insoportable el olo a lavandina que sale de los ba\u00f1os cada vez que alguien va.\r\nLa atencion de es muy buena, cordial, informan bien y se repeta los puntos de coccion pedidos\r\nLa comida siempre fue muy buena , el chivito uruguayo muy rico, las pastas caseras son caseras de verdad y el relleno tiene verdadero gusto a lo que figura en la carta.\r\nNo es caro y los postres con correctos"
+    }, 
+    {
+      "date": "20 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "veramente1", 
+      "text": "Eramos 7, todos comimos muy bien, las carnes tiernas, las pastas a punto. Excelente servicio de mesa. No se si fue algo de ese d\u00eda, podr\u00edan mejorar los tiempos, dado que si bien la entrada lleg\u00f3 r\u00e1pido, los platos principales tardaron cerca de 35 minutos en llegar. De cualquier modo, es una excelente opcion en barrio norte, para ir en familia."
+    }, 
+    {
+      "date": "7 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Lugar muy cordial y familiar, buen servicio y comida tipo casera y rica a precios razonables. Muy bueno!"
+    }, 
+    {
+      "date": "22 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carola63", 
+      "text": "Siempre es un placer volver a \"Orillas\" donde todo es muy familiar, amable y distendido, uno se siente como en casa. La comida es muy pero muy buena, y la atenci\u00f3n excelente. Insisto con el precio de los vinos, es el m\u00e1s bajo que he visto en restaurantes. Aprovechen a tomar un buen vino ya que a diferencia de otros lugares, no se abusan recargando el precio."
+    }, 
+    {
+      "date": "16 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alexp", 
+      "text": "Abondante, rico y sencillo. Recomendable para ir en familia."
+    }, 
+    {
+      "date": "8 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "dactork", 
+      "text": "Grata sorpresa en el barrio. S\u00e1bado a la noche muy tranquilo, sin ruidos ni gritos, muy bueno el servicio, comida tipo casera excelente, para disfrutar sin apuro. El lugar tiene cero decoraci\u00f3n, la cocina vidriada est\u00e1 a la vista en medio del sal\u00f3n, la carta es muy tentadora y cubre todas las expectativas gastron\u00f3micas. Postres incre\u00edbles. Hace cinco a\u00f1os el lugar lo manejan uruguayos que saben lo que hacen: pruben el chivito (dos versiones) y lo comprobar\u00e1n.Inmejorable relaci\u00f3n precio/calidad, sobre todo para un lugar en Barrio Norte. Para comer rico, sin sobresaltos en la billetera."
+    }, 
+    {
+      "date": "25 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "AgeValed", 
+      "text": "Se come bien, rica comida y el volcan de chocolate muy rico! el servicio es el justo, no es bueno ni malo."
+    }, 
+    {
+      "date": "2 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Quiquegavilan", 
+      "text": "Muy buen lugar, excelente la comida y el servicio. Muy buena carta de vinos, estan casi todas las bodegas, y a buen precio. Recomendable."
+    }, 
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "laurelin", 
+      "text": "Muy buena comida y atencion, si bien a la hora de hacer el pedido lo que solicite de carta, no lo tenian, cambie de opcion y disfrute de unos sorrentinos divinos. La carta es amplia, los platos muy bien presentados y la atencion esmerada.\r\nLugar recomendable"
+    }, 
+    {
+      "date": "27 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nucha", 
+      "text": "Realmente un buen lugar, muy recomendable en todo sentido. La comida es excelente y la carta muy variada, me cost\u00f3 decidir, pues todos los platos son tentadores. El servicio es muy cordial y los precios realmente razonables."
+    }, 
+    {
+      "date": "24 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Manubar", 
+      "text": "El chivito uruguayo, la especilidad de la casa, es muy bueno y abundante. Tambi\u00e8n la atenci\u00f2n, que es muy r\u00e0pida y cordial. Tienen una amplia carta de vinos a buenos precios. El lugar es muy c\u00f2modo, pero no es particularmente lindo. Demasiado luminoso, lo hace mas adecuado para comidas familiares o reuni\u00f2n de amigos, que para una comida \u00ecntima. Recomendable."
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Xeneize", 
+      "text": "Muy buena relaci\u00f3n calidad/precio, atenci\u00f3n muy amigable. Le falta un poco de onda a la ambientaci\u00f3n, que es m\u00e1s propia de un restaurante de ruta que de Barrio Norte, y sobre todo a la iluminaci\u00f3n. Por comida y atenci\u00f3n, recomendable."
+    }, 
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vigo", 
+      "text": "un lugar amable, tranquilo en el que se come muy bien y, cosa rara, es posible charlar con los acompa\u00f1antes."
+    }, 
+    {
+      "date": "6 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "carola63", 
+      "text": "Es un lugar que recomiendo para comer como en casa, es muy familiar, buena atenci\u00f3n, ricos platos y un dato para tener en cuenta: Los precios de los vinos son incre\u00edblemente bajos, se puede tomar un muy buen vino al mismo precio que en la g\u00f3ndola del super y eso no lo v\u00ed en ning\u00fan restaurante que haya ido."
+    }, 
+    {
+      "date": "24 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Fernandita", 
+      "text": "Muy bueno, ameno, muy rico el lomo \"Orillas\".\r\nBuena atenci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "FerKa", 
+      "text": "El lugar zafa, pero el chivito es espectacular. Este lugar es ideal para comer muy rico, mucho y no estar preocupado por manchar el mantel. Recomendado!"
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lanuchi", 
+      "text": "buen restaurante, la comida exelente y el servicio muy atento, variada y exelente carta de vinos con precios razonables, volvere y lo recomendare"
+    }, 
+    {
+      "date": "8 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "FLAKY2011", 
+      "text": "el lugar es discreto, pero se come bien y la atenci\u00f3n de la moza me gusto mucho. las carnes de excelente calidad!!!!, q no es muy com\u00fan ni en restaurantes top. volver\u00eda sin dudas!"
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "caroxxiii", 
+      "text": "exelente por donde s lo mire!"
+    }, 
+    {
+      "date": "3 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "GuiameH", 
+      "text": "Resto de barrio con buena comida y buen servicio"
+    }, 
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "maryb2011", 
+      "text": "excelente, la comida es deliciosa y abundante, vale la pena probar los postres, sobre todo el volcan de chocolate. El lugar es chico y no tiene muy buena acustica, pero muy buena la atencion y la comida supero todas nuestras espectativas. \r\nMuy recomendable."
+    }, 
+    {
+      "date": "29 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Shintani", 
+      "text": "Um \u00f3timo restaurante. A comida \u00e9 muito boa e o atendimento tamb\u00e9m. O propriet\u00e1rio \u00e9 muito simp\u00e1tico e atencioso. Est\u00e1 muito bem localizado. Fomos jantar l\u00e1 v\u00e1rias noites. Fiz as refei\u00e7\u00f5es em muitos restaurantes na cidade e posso afirmar que este \u00e9 um dos melhores. Em nossa pr\u00f3xima viagem a Buenos Aires com certeza voltaremos ao Restaurante Orillas."
+    }, 
+    {
+      "date": "28 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Oliverado", 
+      "text": "Muy buen plato y abundante de un chivito que respeta el formato al plato de alg\u00fan cl\u00e1sico restaurante montevideano. La atenci\u00f3n es \u00f3ptima, familiar y s\u00faper cordial. Excelente para disfrutar con amigos. S\u00faper recomendable."
+    }, 
+    {
+      "date": "19 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rajope", 
+      "text": "Nos gusta es resto. Es chico, de barrio, pero est\u00e1 bien puesto, se come bien y te atienden con onda."
+    }, 
+    {
+      "date": "1 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vato_loco", 
+      "text": "Excelente, de verdad sal\u00ed sorprendido. Me preocupaba un poco porque varios usuarios mencionan que es ruidoso, pero tuve la suerte de ir un d\u00eda donde no hab\u00eda mucha gente. Nos atendieron r\u00e1pido, muy bien, y la comida fue realmente exquisita.\r\n\r\nLos mozos est\u00e1n pero no son molestos, y es un lugar peque\u00f1o pero lindo para pasar en pareja.\r\n\r\nVolver\u00e9 encantado."
+    }, 
+    {
+      "date": "14 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Morela82", 
+      "text": "Me encant\u00f3! si bien fuimos con mi pareja con pocas espectativas por lo leido en la gu\u00eda cuando entramos nos sorprendi\u00f3. Es familiar pero no por eso feo o con mal gusto. La atenci\u00f3n de la chica estuvo bien, y la comida estuvo excelente! Seguro que volvemos!!"
+    }, 
+    {
+      "date": "3 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ElGus", 
+      "text": "Un lugar de amigos"
+    }, 
+    {
+      "date": "7 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bochinchero", 
+      "text": "la comida 11 puntos, la atenci\u00f3n, como entre casa, el lugar mas que familero,..dejar lugar para los postres,..son un Volc\u00e1n de sensaciones ( ya comprender\u00e1n)"
+    }, 
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Rajope", 
+      "text": "Excelente resto de barrio, muy buena comida, atenci\u00f3n y precios. El ambiente...., no importa ..."
+    }, 
+    {
+      "date": "22 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Paudl", 
+      "text": "Me encanta este lugar, la ubicaci\u00f3n quiz\u00e1s no es la mejor pero la atenc\u00edon super amable, la calidad de la comida, la cantidad y los precios super ec\u00f3nomicos hacen que sea un lugar al cual voy seguido y no me arrepiento. Tambien he pedido varias veces delivery. Super eecomendable si se busca un lugar para comer bien sin grandes pretensiones."
+    }, 
+    {
+      "date": "12 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "colitamendoza", 
+      "text": "No pretendan glamour ni frivolidad palermitana, es un lugar normal, pero se come GENIAL la atencion es ESPECTACULAR (creo que los due\u00f1os son los que atienden ademas de las camareras)y la relacion precio calidad es mas que buena. Altamente recomendable para comer rico y pagar poco. Muy familiar y quizas ruidoso no es para salida intima"
+    }, 
+    {
+      "date": "11 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "TinChi", 
+      "text": "Altamente recomendable, la atenci\u00f3n es de primera, el ambiente muy tranquilo, y la comida muy buena (adem\u00e1s de ser econ\u00f3mico)."
+    }, 
+    {
+      "date": "17 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Koche", 
+      "text": "Muy bueno!!! muy rica la comida"
+    }, 
+    {
+      "date": "12 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "tofa", 
+      "text": "Somos clientes de Orillas hace un par de a\u00f1os. Ayer comimos pastas las cuales estuvieron exquisitas. Siempre salimos muy conformes y satisfechos con respecto a la atencion y a la excelente calidad de los platos que pedimos en cada oportunidad. Los precios siguen siendo totalmente economicos. No nos cansamos de ir y mucho menos de recomendarlos."
+    }, 
+    {
+      "date": "14 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Gabigros", 
+      "text": "Al fin me encuentro con un lugar pensado para el cliente en serio. Da gusto que te traten como si fueras un viejo amigo de la casa a pesar de ser mi primer visita. Todo 10 puntos y a un precio que por lo recibido parece muy econ\u00f3mico. Se los recomiendo y espero que mantengan esta calidad de servicio.Los felicito!"
+    }, 
+    {
+      "date": "10 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pirucha", 
+      "text": "Excelente cocina Uruguaya. Hay chivito completo y Canadiense, para los que a\u00f1oran los platos orientales.\r\nEl salm\u00f3n estaba exquisito. Ya he concurrido muchas veces y jam\u00e1s fallan. Los recomiendo."
+    }, 
+    {
+      "date": "4 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Joak", 
+      "text": "Realmente excelente: la atenci\u00f3n, los platos (no siempre uno se encuentra indeciso por platos variados tan ricos!!!), la onda (muy relajado y familiar), la relaci\u00f3n precio/calidad... siempre se escucha un reggae de fondo, ideal para ir en familia o amigos..."
+    }, 
+    {
+      "date": "28 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "anamary", 
+      "text": "exelente comida y atencion, el local medianamente ambientado, los precios muy razonables por la calidad de la comida"
+    }, 
+    {
+      "date": "4 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Natalio", 
+      "text": "La comida es siempre excelente y la atenci\u00f3n muy amable. Se trata de un restaurante de barrio, con ambiente familiar y \"comida de autor\".\r\nExcelnte relaci\u00f3n calidad / precio\r\nUn lugar para volver muchas veces"
+    }, 
+    {
+      "date": "26 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "filiocolegiales", 
+      "text": "excelente comida,servicio,y carta de vinos.el amiente muy bueno se podria mejorar un poco.la musica bien escojida.la verdad que se come mejor que en puerto madero y por muchisimo menos,las pastas son artesanales y todo super fresco, nada de carne marcada,un lugar para ir con amigos ,familia o tu chica,los vinos a un precio de no creer,ah la cocina esta a la vista y hacen todo en el momento.preferible esperar 10 minutos mas y saber que todo esta super fresco.lo mejor es la relacion precio calidad,un lujo este lugar en barrio norte.sinceramente me dio placer dejar la propina,saludo filiodecoles"
+    }, 
+    {
+      "date": "5 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "noradebartolo", 
+      "text": "Excelente, fue una agradable sorpresa conocerlo. Guarda una perfecta relaci\u00f3n calidad/precio. Muy recomendable."
+    }, 
+    {
+      "date": "2 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Arrayanes", 
+      "text": "Un hallazgo, y en mi barrio! Es como comer en una casa donde se cocina de primera, con buenos ingredientes. La atenci\u00f3n es muy amable. Se podr\u00eda mejorar un poco la ambientaci\u00f3n, sobre todo la iluminaci\u00f3n. La relaci\u00f3n precio-calidad es excelente. Tomamos un buen vino a un precio m\u00e1s que razonable, casi precio de venta de un supermercado. El volc\u00e1n de dulce de leche me decepcion\u00f3 un poco, pero postres aparte, es un lugar altamente recomendable. Volveremos pronto."
+    }, 
+    {
+      "date": "29 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "tarucha", 
+      "text": "Un excelente lugar"
+    }, 
+    {
+      "date": "20 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "melriver", 
+      "text": "La pasamos genial!!!\r\nEs ideal para ir con amigos, familia o pareja.\r\nLa atencion es de primera. Atendido por sus due\u00f1os. Amplia carta de vinos, exquisitos y abundantes platos.\r\nUn lugar muy calido."
+    }, 
+    {
+      "date": "6 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PauGourmet", 
+      "text": "Realmente un descubrimiento de esos que escasean en Buenos Aires: comida de primera linea, creativa, con un toque gourmet pero sin pretensiones, a un precio increible. Realmente recomendable! Volvemos seguro a seguir probando otros platos de la carta ya que todos los que vimos parec\u00edan tentadores y bien preparados. Coincido totalmente con los comentarios y secundo fervientemente las recomendaciones de probar esta joyita."
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "aguamar", 
+      "text": "Es un excelente lugar, excelente atenci\u00f3n, atendido por sus due\u00f1os, los mozos amables, siempre simpaticos y dispuestos. Los pescados y mariscos super frescos y a precios accesibles. Voy seguido y nunca me decepcion\u00f3. \r\nPara ir si no te interesa las zonas top ni los ambientes de lujo."
+    }, 
+    {
+      "date": "8 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "El_Negro1979", 
+      "text": "Fui por recomendaci\u00f3n y realmente es excelente. La comida y la atenci\u00f3n es 10 puntos. Adem\u00e1s cabe aclarar que posee TV para ver los partidos. Felicitaciones a la gente del resto. Gracias"
+    }, 
+    {
+      "date": "6 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LaBonte", 
+      "text": "Festej\u00e9 mi cumplea\u00f1os en Orillas, el servicio, la comida, la atenci\u00f3n, TODO EXCELENTE!!!\r\nGracias a todos los integrantes de Orillas."
+    }, 
+    {
+      "date": "12 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ioio", 
+      "text": "Ya fui varias veces con mi mujer y con amigos. Tiene una carta muy variada con platos de alta cocina.\r\nMe siento muy c\u00f3modo en ese lugar."
+    }, 
+    {
+      "date": "15 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pereyron", 
+      "text": "Si bien el lugar es mejorable en su est\u00e9tica, no ocurre en cambio con la cocina que es sobresaliente. \r\nRecomiendo conocerlo por la cordialidad en la atenci\u00f3n, la tranquilidad del lugar y la excelente relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "21 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "javiParra", 
+      "text": "La comida es excelente, muy sabrosa. La cocina a la vista te da una sensaci\u00f3n de higiene que es invalorable."
+    }, 
+    {
+      "date": "17 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juliet", 
+      "text": "Muy buen servicio y muy accesible."
+    }, 
+    {
+      "date": "5 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cavesa", 
+      "text": "La verdad es muy recomendable es un restaurante para tenerlo muy en cuenta ya que se come muy bien, barato y acogedor. Muy sencillo pero muy lindo."
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "detonador73", 
+      "text": "El lugar y la gente es muy agradable, tranquilo, se come bien y los precios son razonables."
+    }, 
+    {
+      "date": "19 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "turkeistan", 
+      "text": "Comida muy buena, sabrosa. \r\nVariedad ajustada. Precios muy razonables. No tienen todos los vinos que aparecen en la carta ni en la pizarra. \r\nAustero, poca gente, acogedor. \r\nRecomiendo."
+    }
+  ]
+}

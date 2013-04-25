@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "25 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "freakkie", 
+      "text": "La parrillada es muy buena y abundante. El servicio es muy bueno y a eso se suma un ambiente familiar y la buena onda de la gente del lugar.\r\nEl \u00fanico problema es el televisor prendido toooodo el tiempo y con el volumen audible para todos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "roflech", 
+      "text": "Muy buena comida."
+    }
+  ]
+}

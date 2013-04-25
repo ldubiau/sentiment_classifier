@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "8 Jun 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Jade", 
+      "text": "Fui a ver un show de tributo a Arjona y el lugar me pareci\u00f3 copado.\r\nUn poco floja la atenci\u00f3n y hay que mirar bien la cuenta antes de pagar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rica", 
+      "text": "El lugar es muy agradable, tiene muy buen show y se respira aire puro por su excelente climatizaci\u00f3n."
+    }
+  ]
+}

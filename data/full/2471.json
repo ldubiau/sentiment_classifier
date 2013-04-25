@@ -1,0 +1,828 @@
+{
+  "malos": [
+    {
+      "date": "24 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "kadhija", 
+      "text": "Pedimos una fugazetta rellena y nos decepciono. El relleno no es de muzarella. Es una especie de salsa blanca con algo de queso .  Somos gastronomicos pero cualquiera se da cuenta que la formula es para abaratar costos. No hace falta dedicarse a la cocina para entender un poco. Realmente no necesitan valerse de estas cosas puesto que el local tiene mucha clientela y la seguira teniendo muy a pesar de nuestra experiencia. En fin es Argentina!!  Nosotros no vamos mas!!"
+    }, 
+    {
+      "date": "30 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Buscoalgo_bueno", 
+      "text": "La comida bastante floja, los \u00f1oquis no son caseros, la pizza no es nada de otro mundo y muy alta para mi gusto, las frituras son verdaderamente deplorables, en especial las papas., el ambiente es muy ruidoso. No vuelvo."
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "marortega", 
+      "text": "Fui con muchas recomendaciones y la verdad es que me decepcion\u00f3 la pizza. Los ingredientes no eran los genuinos de una pizza y eso se not\u00f3. No creo que sea una pizzer\u00eda que sobrepase la calidad de la pizza de barrio de delivery com\u00fan. La atenci\u00f3n es buena, y el lugar est\u00e1 ok."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "La muzzarella est\u00e1 $50 y de ah\u00ed en adelante uno tiene varias para elegir. La pizza realmente es muy buena. El resto de los platos, sin tener una gran variedad, tiene precios razonables y sus porciones son generosas.\r\nDestaco tambi\u00e9n que los licuados los sirven en una jarra y de esa manera se hacen m\u00e1s presentables."
+    }, 
+    {
+      "date": "14 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "loop", 
+      "text": "T\u00edpica pizzeria porte\u00f1a, de las que ya no quedan, el ambiente es super ruidoso y es probable que tengan que compartir mesa, la atenci\u00f3n es r\u00e1pida, sin miramientos ni pretensiones.  La pizza? lo mejor que hay! no es necesario pedir las especiales, las clasicas son excepcionales! Para ir una vez por semana por lo menos!"
+    }, 
+    {
+      "date": "29 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Heaven84", 
+      "text": "Fuimos a almorzar un jueves a las 15 hs.\r\nLa atenci\u00f3n fue muy r\u00e1pida, nos sentamos, pedimos y a los 10 minutos comimos a pesar de que hab\u00eda bastante gente. La comida muy rica y las porciones enormes.\r\nPedimos dos bebidas (10 $ c/u), una porci\u00f3n de pizza ($7); \u00f1oquis con salsa mixta ($30) y una milanesa con papas gigante ($30), Muy recomendable."
+    }, 
+    {
+      "date": "27 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "valelevi", 
+      "text": "Caro, calidad media, es mas la fama en el barrio que otra cosa."
+    }, 
+    {
+      "date": "1 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "almoldeporfavore", 
+      "text": "Sorprende el lugar, es una pizzer\u00eda de barrio gigante(tiene much\u00edsimas mesas), y mantiene una decoraci\u00f3n antigua.\r\nLa de muzzarela y fugazetta que hacen son muy buenas."
+    }, 
+    {
+      "date": "4 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rabanito", 
+      "text": "Buenas pizzas \"media masa\", milanesas napolitanas gigantes y todo muy ricos.\r\nMuy buena relacion precio/calidad.\r\nClasica cantina o bodegon de barrio porte\u00f1o sin pretensiones."
+    }, 
+    {
+      "date": "3 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fionitas", 
+      "text": "Muy bueno !! lo mejor de Mataderos para comer pizza y/o cualquier minuta las milanesas a la napolitana enormes y lo mejor el churrasco de higado con cebollas y pur\u00e9 mixto. Recomomiendo la pizza comerla ah\u00ed no para llevar ya que se pone grasosa cuando llegas a tu casa. No es un lugar fashion es un lugar para comer bien y accesible. La mejor pizza de Mataderos."
+    }, 
+    {
+      "date": "16 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ALenOleo", 
+      "text": "siempre que ando laburando por ah\u00ed, almuerzo algo en el Cedron.. la pizza es muy buena (aunque las prefiero finas). El ambiente y la atenci\u00f3n, respestan lo que quiere ser...Una Gran Pizzeria de barrio..."
+    }, 
+    {
+      "date": "29 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "fugazza_rellena", 
+      "text": "Tipico Bodegon de barrio, un clasico de mataderos.. Muy buena cocina, desde la pizza hasta el pollo al spiedo son increibles...\r\nSiempre esta lleno de gente, hay q esperar o ir temprano... No pueden dejar de probar la pizza de espinaca y salsa blanca... Imperdible..."
+    }, 
+    {
+      "date": "12 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "netwatch", 
+      "text": "Un clasico del Barrio de Mataderos, imperdible para los amantes de la pizza media masa. El servicio es regular y el ambiente muy ruidoso."
+    }, 
+    {
+      "date": "19 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Cexiliapaula", 
+      "text": "Es la tipica piseria de Barrio legendaria, fui un par de veces pero la pisa no es de mi gusto ya que es muy aceitosa."
+    }, 
+    {
+      "date": "17 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "decidido", 
+      "text": "Muy pobre la calidad de la comida, muy alta la pizza para mi gusto. Esperaba m\u00e1s de este lugar."
+    }, 
+    {
+      "date": "30 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vanjess", 
+      "text": "Vamos de vez en cuando y siempre disfrutamos de una de las mejores pizzerias de Buenos Aires, como es de esperarse de un lugar asi tan de barrio, es que el ambiente es muy ruidoso a veces demoran mucho por la cantidad de gente y no es el fuerte la atencion pero no es mala.\r\nLa otra contra es que no reciben tarjetas de credito cosa extra\u00f1a dado el tama\u00f1o y las notables ventas del local. Para volver siempre"
+    }, 
+    {
+      "date": "12 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gabita81", 
+      "text": "Hace 15 a\u00f1os que si quiero comer una pizza, voy al Cedron. Puede resultar un poco aceitosa pero es la mejor. A todos los que se quejan del ambiente, esa es la esencia. Es una pizzeria de barrio, atendida por la misma gente desde hace a\u00f1ares y que sobrevivi\u00f3 al delivery y pago con tarjetas/tickets. Es lo unico que puedo llegar a criticar (a veces no voy por falta de efectivo)."
+    }, 
+    {
+      "date": "27 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ChefBarby", 
+      "text": "justamente hoy voy comer alla,el otro dia fui pero la verdad estaba tan lleno que nos fuimos,lo que vi es lo que ya comentaron todos,si,es muy sencillo el lugar,bah las sillas,la ambientacion,pense que iba a ser de otra forma ya que venden bastante y podrian invertir en la decoracion,aunq posiblemente la clave del exito sea la sencillez y lo buena que es su pizza."
+    }, 
+    {
+      "date": "9 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Vanenchu", 
+      "text": "La pizza es de media masa un poco aceitosa para mi gusto."
+    }, 
+    {
+      "date": "13 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "anzuelo", 
+      "text": "pizza del mejor que comi hace largo tiempo recomendable"
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "emme_ar", 
+      "text": "Si se est\u00e1 pensando en comer una excelente pizza con ingredientes de calidad y se anda por el barrio de mataderos, este es el sitio. Un lugar simple y bullicioso con atenci\u00f3n acorde al lugar, para volver cada vez que se tenga antojo de comer cosas ricas. R\u00e1pido, barato y rico."
+    }, 
+    {
+      "date": "7 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "comensal", 
+      "text": "a la muza del cedron no hay con que darle...un nectar...al mismo nivel la de espinaca con salsa blanca...y esa sopa inglesa...al mismo nivel que lo gastronomico la atencion amable y profesional...siempre hay que esperar mesa,pero se justifica la espera."
+    }, 
+    {
+      "date": "17 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nartub", 
+      "text": "Pizzer\u00eda \"de las de antes\" pero sin grandes atributos para destacar. La pizza que, por supuesto, no defrauda en absoluto, incita a la ingesta inconmensurable de la misma. Y sin menospreciarla, los postres merecen un p\u00e1rrafo extra. Hay de todos los tipos y colores as\u00ed que no vale retirarse del lugar sin probar uno. Si la pizza no es lo suyo hay tambi\u00e9n vistosos platos de cocina."
+    }, 
+    {
+      "date": "10 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "clau20", 
+      "text": "una de las mejores pizzas de la capital y muy recomendable la torta de ricotta y la fugazzeta"
+    }, 
+    {
+      "date": "26 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lakupi", 
+      "text": "Soy del barrio y realmente es un cl\u00e1sico para salidas familiares o con amigos. La piza es excepcional!!! La masa es alta pero lo suficiente, los ingredientes son frescos y la cocci\u00f3n es la adecuada. Los demas platos son ricos y en medidas justas, no son abundantes. Los fines de semana se llena. La ambientacion ha ido cambiando a traves de los a\u00f1os, pero jam\u00e1s se destac\u00f3 por ello."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Marce73", 
+      "text": "La pizza es muy rica, es alta, pero no exagerada, y esponjosa. El ambiente familiar, t\u00edpico de barrio. Todo sencillo y bueno. Recomiendo probarla, est\u00e1 entre las mejores que he comido en Bs.As."
+    }, 
+    {
+      "date": "6 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Pizeria tipica de barrio \"mataderos\" la pizza es rica. vale la pena. Aunque la atenci\u00f3n es tirando a mala."
+    }, 
+    {
+      "date": "31 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "silvia", 
+      "text": "Un bodegon de barrio al que acudimos cuando todo lo que esta cerca esta cerrado. La pizza es muy alta y no es lo que mas me gusta. Un poco insulsa. El servicio es atento y rapido pero el ruido es agotador. Es bueno tenerlo en cuenta como ultimo recurso cuando venis tarde de algun lado y no hay nada abierto."
+    }, 
+    {
+      "date": "18 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pablodonis", 
+      "text": "T\u00edpica pizzer\u00eda de barrio. La Pizza es rica, pero he probado mejores. El lugar es bastante com\u00fan en cuanto a la decoraci\u00f3n. El servicio es excelente, muy r\u00e1pido."
+    }, 
+    {
+      "date": "17 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Juanpa1979", 
+      "text": "Recomiendo que conozcan una de las pizzerias m\u00e1s tradicionales de baires. Cumpli\u00f3 100 a\u00f1os y disputa una de las m\u00e1s ricas pizzas. El ambiente es super familiar y billicioso. Ideal para ir con amigos o con familia. \r\nMuy buenos postres."
+    }, 
+    {
+      "date": "11 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "ElGato_M", 
+      "text": "Fui en varias oportunidades, la pizza es muy rica, el ambiente es una antigua pizzeria de barrio. La atenci\u00f3n es mala, todas las veces que fui, practicamente me tiraron la pizza en la mesa, un sabado a las 22:30hs, me dijeron que no tenian una simple pizza de fugaza, por que no tenian mas cebollas... ma-li-si-mo."
+    }, 
+    {
+      "date": "27 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mcmaux", 
+      "text": "Las pizza, son muy buenas."
+    }, 
+    {
+      "date": "4 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lowenbrau", 
+      "text": "El Cedr\u00f3n es un restaurante con m\u00e1s de cincuenta a\u00f1os en Mataderos. \r\nLa atenci\u00f3n de los mozos es de primera, conocen el oficio. \r\nLos platos salen r\u00e1pidamente, la cocina es variada y muy buena. \r\nQuiz\u00e1s lo \u00fanico que haya que aclarar es que es muy bullicioso por la gran cantidad de gente que va y que \"siempre\" llenan el lugar (que es bastante grande). Pero no lo destaco como cr\u00edtica porque es el estilo del lugar, onda bodeg\u00f3n. \r\nSi vas al Cedr\u00f3n es para comer bien y ser atendido por profesionales, no para echarse a tomar un daiquiri en un puff."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "tamy_rr", 
+      "text": "la pizza es genial!el resto de los platos son muy bueno tambien."
+    }, 
+    {
+      "date": "6 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "emme_ar", 
+      "text": "Hace 25 a\u00f1os que visitamos la pizzer\u00eda. Por primera vez pedimos un plato que no sea pizza (que es excelente): carne al horno (vac\u00edo y peceto) con papas. Cuando pedimos ese plato en lugares por ejemplo Puerto Madero las porciones son muy discretas y la carne puede o no venir tierna, dependiendo de como se haya levantado la vaca ese d\u00eda, Pero en El Cedr\u00f3n no es as\u00ed: un plato superabundante que bien podr\u00eda compartirse y la calidad de la comida muy buena. Un buen lugar de barrio para comer de vez en cuando."
+    }, 
+    {
+      "date": "17 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "parbara", 
+      "text": "La mejor pizza del pais"
+    }, 
+    {
+      "date": "15 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Javialv24", 
+      "text": "Voy bastante seguido, soy del barrio. La pizza es al molde.. la de espinaca y salsa blanca debe ser la m\u00e1s rica que prob\u00e9 en mi vida, y sino est\u00e1 entre las 3 mejores. En serio. El lugar es un tipico sal\u00f3n de barrio.. expresa a la perfecci\u00f3n el alma de Mataderos.. pod\u00e9s comer afuera tambi\u00e9n, en la vereda hay algunas mesas, ideal para el verano.La atenci\u00f3n de los mozos es bastante buena, la tienen re clara y no tienen ese aire de superioridad que tienen muchos de estos tipos en otros lugares similares. La recomiendo 100% para ir con amigos o flia y acompa\u00f1arla con cerveza Imperial.."
+    }, 
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "jpd86", 
+      "text": "Todo en El Cedr\u00f3n grita a barrio. La esquina protegida por \"El Torito\", los mozos, las mesas, el ambiente y por supuesto, la pizza.\r\nLa de muzzarella es excelente. Pero la de espinaca y salsa blanca se lleva todos los premios. Sale justa: crocante, gratinada, gloriosa.\r\nPor favor, no cometan el error de morir sin haber visitado las grandes pizzer\u00edas de Buenos Aires. Y entre ellas, sin duda, El Cedr\u00f3n tiene un lugar privilegiado."
+    }, 
+    {
+      "date": "15 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ari07", 
+      "text": "Se, que ser del barrio pesa y mucho, pero sean del barrio que sean, deben conocer esta pizzeria, no hay plato que defraude, no hay postre que no sea perfecto, todo es genial. lo unico a tener en cuenta, no es un lugar para una velada romantica, pero si un buen punto de reunion con amigos."
+    }, 
+    {
+      "date": "1 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "donquijote", 
+      "text": "el mejor servicio de capital"
+    }, 
+    {
+      "date": "14 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Zumba", 
+      "text": "Pizza muy buena"
+    }, 
+    {
+      "date": "13 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jp_bartolomiu", 
+      "text": "Estuvimo el Viernes pasado y realmente la pizza nos pareci\u00f3 muy rica. Hay much\u00edsima gente y es complicado conseguir una mesa, pero uno ya sabe que va a pasar. La espera igual vale la pena para degustar una de las mejores pizzas de Buenos Aires"
+    }, 
+    {
+      "date": "3 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gladys1810", 
+      "text": "imposible que no se me piante un lagrimon hablando de \"El Cedron\",mi pizzeria de toda la vida. Es la pizzeria del barrio y aleda\u00f1os, para ir en flia,en pareja o con amigos, todas las ocasiones son buenas. Todo lo que pidan va a ser delicioso y de calidad. Imperdible la pizza de espinaca SENSACIONAL y la de muzza ni hablar! Los postres muuuy ricos. A veces la atencion deja que desear pero depende del mozo que te toque. El bife de chorizo de la casa LO MEJOR DEL MERCADO!No se pierdan la ocasion de pasar a probar! van a volver, se los aseguro, el barrio no seria el mismo sin EL Cedron."
+    }, 
+    {
+      "date": "28 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "xo_martin", 
+      "text": "El Cedron sin duda tiene una de las mejores pizzas de Buenos Aires. La fugazzeta rellena es algo que hay que probar obligatoriamente. El ambiente es un poco descuidado pero la atencion es buena y las pizzas salen muy rapido. Super recomendable."
+    }, 
+    {
+      "date": "12 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fgabrielg", 
+      "text": "Excelente atenci\u00f3n, en 5 minutos tenes tu cerveza con mani y en menos de 10 mintuos ya tenes tu pizza calentita y exquisita. Recomiento la pizza de roquefort con nuez, excelente con cerveza, la pizza de provoleta y la que se lleva todos los aplausos es la de fugazetta rellena con jamon y queso. Otra muy rica es la de espinaca, nunca van a comer una pizza tan rica como la de El Cedr\u00f3n. Y si despues de comer se quedaron con hambre (algo que es raro por que terminas comiendo de vicio), pidanse, para compartir (1 solo es imposible terminar), la excelente Copa Cedr\u00f3n."
+    }, 
+    {
+      "date": "16 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leiazul", 
+      "text": "Excelente servicio. A menos de 10 minutos de hacer el pedido nos trajeron las pizzas. El mozo muy atento. La calidad es muy buena. Cumple con todo lo que promete. Mucha gente esperando pedidos.\r\nLo que no me gusta es la combinaci\u00f3n del salon para comer con el sector para esperar el pedido. Es como buscarle algo, porque TODO ES EXCELENTE!"
+    }, 
+    {
+      "date": "17 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "delasfloresque", 
+      "text": "Sin dudas, una de las mejores pizzas de Buenos Aires. Bien de barrio, el lugar es sencillo y ruidoso, y los fines de semana hay demasiada gente haciendo cola para comprar comida para llevar, principalmente pizzas. La atenci\u00f3n es r\u00e1pida, con mozos grandes, gente de oficio, muy amables.\r\nRecomiendo comprar la pizza para llevar y comerla en casa, la grande de muzzarella es perfecta, cuesta $28 y sale en cuesti\u00f3n de minutos."
+    }, 
+    {
+      "date": "7 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "emme_ar", 
+      "text": "Como siempre, si uno quiere comer la mejor pizza de los alrededores El Cedr\u00f3n es el lugar indicado. Excelente la calidad de sus ingredientes de las comidas aunque deber\u00edan ampliar un poco la n\u00f3mina de cervezas que ofrecen. Para ir de vez en cuando est\u00e1 m\u00e1s que bien."
+    }, 
+    {
+      "date": "5 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ferfer", 
+      "text": "Hace mas de treinta a\u00f1os voy y sigue siendo la mejor pizza del mundo .\r\nBravo ! \r\nLos mozos , el k te toca te toca ."
+    }, 
+    {
+      "date": "4 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "jloren", 
+      "text": "Si bien no tiene Delivery, mucha gente va a buscar la pizza porque es GENIAL"
+    }, 
+    {
+      "date": "22 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "ferfer", 
+      "text": "La pizza como siempre excelente !!!!"
+    }, 
+    {
+      "date": "15 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Stankillkenny", 
+      "text": "La verdad, una excelente pizzeria de barrio. Tiene todo lo que uno puede esperar de esto y nada mas. No es la primera vez que voy, comi siempre muy buena pizza y otras veces comi unos muy ricos canelones. La atencion... PESIMA... pero bueno, es como los viejos bares de gallegos, te atienden mal pero te sirven mucho. Tambien recomiendo la lengua a la vinagreta."
+    }, 
+    {
+      "date": "23 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "kaine", 
+      "text": "Lo conzco hace bastante y nunca defrauda , una tipica pizzeria de barrio en el corazon de mataderos, los mozos de a\u00f1os te tratan como amigos aunque sea la primera vez que los veas, ambiente calido y los ba\u00f1os un desastre  pero la comida es increible, y no solo la pizza sino cualquiera de sus menues, para comer y reventar!!!!"
+    }, 
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ser910", 
+      "text": "No solo la pizza es la mejor de buenoa aires\r\nles recomiendo que prueben tambien la milanesa de ternera napolitana con fritas, es para 2 y es riquisima\r\nespectacular"
+    }, 
+    {
+      "date": "29 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Leonardus", 
+      "text": "La mejor pizza del pa\u00eds."
+    }, 
+    {
+      "date": "28 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "olis", 
+      "text": "La mejor pizza de la Capital junto a la del Cuartito. Recomiendo el mejor menu del Cedron. Pizza Fugazzeta rellena con Jamon, Quilmes Imperial Bien Fria y de postre la Tradicional Sopa Inglesa especialidad de la Tradicional casa de la Republica de Mataderos"
+    }, 
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "DGM1977", 
+      "text": "Muy buena la piza, la atenci\u00f3n es r\u00e1pida, los s\u00e1bados a pesar de que est\u00e1 lleno a la noche no demoran demasiado en asignar una mesa."
+    }, 
+    {
+      "date": "21 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rodra", 
+      "text": "la mejor pizza de molde q probe si un ambiente familiar y barrial ademas un servicio exelente"
+    }, 
+    {
+      "date": "5 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cloper", 
+      "text": "He encontrado otro de los excelentes lugares de pizza de Buenos Aires. La pizza es la de antes, media masa, mucha muzza y bien cargada de ingredientes. La faina es de primera, gruesita, sabrosa, sin quemarse. La atenci\u00f3n es esmerada, r\u00e1pida. Y el lugar es de barrio, sin pedirle nada mas. Un lugar super recomendable."
+    }, 
+    {
+      "date": "7 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "floralva82", 
+      "text": "La mejor pizza que comi en mi vida, inclusive podes pedir por porcion, recomiendo la fugazza rellena es-pec-ta-cu-lar!!!! Los mozos de entrada parecen mala onda pero son todo lo contrario. La ambientacion no esta a la altura de una pizzeria de Palermo porque justamente ese es su encanto. Si bien cada vez que voy hay cola no tengo que esperar mas de 10 minutos y la comida la sirven sin demoras. Lo unico que tengo que criticar es que la gente que usa los ba\u00f1os es muy ro\u00f1osa y no hay personal que se ocupe de mantener la limpieza durante el dia. Iria mas seguido si estuviese mas cerca de mi casa."
+    }, 
+    {
+      "date": "27 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marinela", 
+      "text": "La pizza es sensacional,el lech\u00f3n se deshace de tierno, la atenci\u00f3n es muy buena teniendo en cuenta la gran cantidad de gente que va, siempre hay fila si uno va tarde, el ambiente es muy bueno, bien t\u00edpico de barrio, para nada lujoso."
+    }, 
+    {
+      "date": "15 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FLOREG", 
+      "text": "Pizzeria \u00eccono de Mataderos, una de las mejores pizzas que comi en Buenos Aires, media masa con mucha muzza, riqu\u00ecsima. El ambiente es familiar, simple, esta limpio!!, los mozos hay buenos y malos, tambien hay todo tipo de comidad caseras y postres. Recomiendo especialmente la pizza de roquefort que tiene nueces!!! Los fines de semana se llena ya que es el punto de reunion de muchas familias y amigos, hay que ir tempranito o esperar. Lo super recomiendo!!!"
+    }, 
+    {
+      "date": "31 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "masefer", 
+      "text": "Es lo mejor de Capital. Nunca com\u00ed una pizza de verdura y salsa blanca como esa. La de anchoas tambien suma. Lo recomiendo sin miedo a decepcionar."
+    }, 
+    {
+      "date": "27 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "llGERMANll", 
+      "text": "-Realmente no creo que exista una pizza que supere a la del Cedron, en cuanto a calidad de productos,(muzarella, maza, aceites, etc).\r\n-El ambiente es bien de barrio, tiene la estructura de un tipico restaurante familiar, por cierto es muy agradable, La limpieza es exelente y la atencion es muy buena y rapida, los mozos son gente grande experta ya en el rubro y en el lugar.\r\n-RECOMIENDO:Pizza de muzarella,pizza de verduras con salsa blanca, pizza de morrones con jamon(muy tupida), empanadas, mollejas al ajillo con morron, y postre balcarce o copa Cedron."
+    }, 
+    {
+      "date": "10 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "caritosol86", 
+      "text": "Es la mejor pizza!"
+    }, 
+    {
+      "date": "25 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "WalterN", 
+      "text": "Si te gusta la pizza no podes no probarla. Para mi la mejor pizza de Bs As. \r\nAdemas contas con gran variedad de minutas."
+    }, 
+    {
+      "date": "21 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Heaven84", 
+      "text": "Fui a este lugar exclusivamente por lo que le\u00ed aqu\u00ed. La conclusi\u00f3n es Gracias... \r\nVivo a unas 15 cuadras de esta pizzer\u00eda, y siempre me sorprend\u00eda el verla llena de gente, pero nunca me llam\u00f3 tanto la atenci\u00f3n como para compara, ya que NO TIENE DELIVERY, el lugar es ANTIGUO, y NO ACEPTAN TARJETAS... pero la comida!!\r\nRIQUISIMA... La fugazzeta, espectacular, hasta las aceitunas eran de primera, ricas como hac\u00eda tiempo no com\u00eda en ning\u00fan lado, la pizza bien a la antigua super gruesa... las empanadas bien, rica masa, relleno normal..\r\nCompr\u00e9 tambi\u00e9n (ya que lo llev\u00e9 a casa) postre Balcarce, alucinante!!! Pura crema chantilly, de tan rico empalagaba...\r\nExcelente comida, esmerada atenci\u00f3n, no s\u00e9 si fue por el horario (s\u00e1bado 20 hs) pero el pedido me lo entregaron rap\u00eddismo...\r\nSi quieren comer una pizza distinta a la que se hace en la mayor\u00eda de las pizzer\u00edas de Bs. As, este es EL LUGAR!\r\nLos precios acordes a la calidad.\r\nPizza con jam\u00f3n grande (25 aprox); fugazzeta con jam\u00f3n chica (13 aprox); empanadas $2 c/u; postre Balcarce 6 pesos la porci\u00f3n (no muy abundante)."
+    }, 
+    {
+      "date": "8 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "Verito2011", 
+      "text": "Una de las mejores pizzas de Buenos Aires. por suerte, pasan los a\u00f1os y no decaen en calidad- Para recomendar: la pizza de espinaca y salsa blanca."
+    }, 
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pato78", 
+      "text": "Excelente lugar, muy buena la pizza. Hay que tratar de llegar temprano tipo 9 que despu\u00e9s se llena. Los mozos de primera y s\u00faper r\u00e1pidos."
+    }, 
+    {
+      "date": "12 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pulposo", 
+      "text": "Un lugar muy tradicional y muy quedado en el tiempo, en cuato a la ambientaci\u00f3n. La pizzas son excelentes y los postres est\u00e1n muy bien logrados."
+    }, 
+    {
+      "date": "28 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aniat", 
+      "text": "Excelente pizza. Atenci\u00f3n muy r\u00e1pida, eficiente y amable. Un lugar al que siempre da gusto volver."
+    }, 
+    {
+      "date": "13 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diogenes56", 
+      "text": "Qu\u00e9 decir de un cl\u00e1sico del barrio de Mataderos. El Cedr\u00f3n siempre est\u00e1 presente en el recuerdo de quienes merodeamos por ah\u00ed, con la atenta vigilancia del Torito de Mataderos con los guantes en guardia.\r\nEs un tip\u00edco rinc\u00f3n de Buenos Aires."
+    }, 
+    {
+      "date": "9 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gdufranc", 
+      "text": "Es un lugar sencillo, pero se como muy bien. El precio no es caro y el men\u00fa est\u00e1 compuesto de cl\u00e1sicos. Tambi\u00e9n se puede comprar para llevar."
+    }, 
+    {
+      "date": "4 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Bonita", 
+      "text": "La pizza bien de barrio, imperdible. \r\nNo dejen de probar el postre tipo Balcarce, exquisito, s\u00faper fresco. \r\nLa cola asusta, pero avanza r\u00e1pido. \r\nLa atenci\u00f3n no es muy buena."
+    }, 
+    {
+      "date": "2 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Zeus", 
+      "text": "Quisimos ir a comer pizza, pero estaba muy lleno y el lugar ten\u00eda mucho bullicio. Al final, pedimos para llevar y la pizza result\u00f3 espectacular. S\u00f3lo eso."
+    }, 
+    {
+      "date": "15 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ClaudioMarenna", 
+      "text": "La mejor fugazza rellena con \"queso\". Muy recomendable tambi\u00e9n la pizza de roquefort con nuez y postre la tarantela. \r\nEl lugar se llena pero te atieden r\u00e1pido, paciencia que vale la pena. \r\nSi te gustan los cl\u00e1sicos de Buenos Aires no pod\u00e9s dejar de ir."
+    }, 
+    {
+      "date": "15 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "eponinepj", 
+      "text": "La pizza es excelente, ojo no busquen estilo porque no lo van a encontrar; es una pizzer\u00eda muy de barrio que se llena siempre as\u00ed que hay que ir con paciencia o comprar para llevar."
+    }, 
+    {
+      "date": "14 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ValeHP", 
+      "text": "Voy seguido. Siempre de noche, siempre lleno y siempre excelente."
+    }, 
+    {
+      "date": "20 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mflorh", 
+      "text": "Las mejores pizzas de la zona."
+    }, 
+    {
+      "date": "8 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LadyBlue", 
+      "text": "El lugar es un bodeg\u00f3n tradicional del barrio de Mataderos. Se come realmente bien y la atenci\u00f3n es de primera. \r\nPor algo est\u00e1 siempre lleno."
+    }, 
+    {
+      "date": "28 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "srek", 
+      "text": "La atenci\u00f3n es rapid\u00edsima y la comida fresqu\u00edsima."
+    }, 
+    {
+      "date": "10 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nacho", 
+      "text": "Muy buen restaurante. \u00a1Ojo! es una onda bodeg\u00f3n antiguo, pero muy bien cuidado. Est\u00e1 lleno de gente y se come muy bien. Recomiendo las pizzas, pero la comida de la carta tambi\u00e9n es muy buena"
+    }
+  ]
+}

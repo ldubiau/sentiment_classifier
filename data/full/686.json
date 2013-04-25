@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "15 Nov 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Moria", 
+      "text": "La parrilada tenia chinchulines con representaciones.Los bifes INCOMIBLES a pesar del \"gerente\" que al decirle que no estaba buena la carne,tomo cubiertos y comio del plato,expresando luego\"comelo tranquilo que esta bueno\"...un horror!!!!!!!!!!!!!Esto es bueno que se sepa!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eber", 
+      "text": "\u00bfC\u00f3mo puede ser que recarguen por pagar con tickets?"
+    }, 
+    {
+      "date": "27 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "comensal", 
+      "text": "La parrilla no sobresale, hay mejor en el barrio.\r\nBuen servicio y buen ambiente."
+    }, 
+    {
+      "date": "18 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "go2ko", 
+      "text": "Buen servicio y comida, l\u00e1stima que recargan abonando con tickets."
+    }, 
+    {
+      "date": "27 Abr 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SEBA2006", 
+      "text": "Excelente ambiente y buena atenci\u00f3n."
+    }, 
+    {
+      "date": "31 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "stellamg", 
+      "text": "Comida de buena calidad  en ambiente peque\u00f1o y familiar con buen servicio de mozos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "van4876", 
+      "text": "La parrilla es excelente!!!!!!!!"
+    }, 
+    {
+      "date": "10 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "reina", 
+      "text": "Excelente."
+    }
+  ]
+}

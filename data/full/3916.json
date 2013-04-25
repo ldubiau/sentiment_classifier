@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "gabriella", 
+      "text": "Fuimos intentando revivir la experiencia que hab\u00edamos tenido en el hom\u00f3nimo de Villa Gesell, pero es esecialmente diferente, si bien las pizzas son muy buenas, el lugar es desprolijo, totalmente descuidado en su aspecto y detalles y es realmente inadmisible que una pizza tarde m\u00e1s de cuarenta minutos en llegar a la mesa, pese que hab\u00eda bastantes libres y los reiterados comentarios de la mesera anunciando su inminente salida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wave_bsas", 
+      "text": "Sres Pizza Wave reabri\u00f3 sus puertas el 01/04/09 con nuevos due\u00f1os.\r\nDejo abierta la invitaci\u00f3n S/C a la se\u00f1orita disconforme que pas\u00f3 por el local a que venga a degustar nuestras especialidades y asi poder revertir su opinion del lugar"
+    }
+  ]
+}

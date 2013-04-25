@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "11 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Franco22", 
+      "text": "Un lugar que me gusta ir. Buena comida, buen ambiento a un precio realmente bajo.\r\nTotalmente recomendable. muy buena relacion en calidad y precio."
+    }, 
+    {
+      "date": "26 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mandarine", 
+      "text": "Es un bar muy lindo y con estilo cultural. Para reuni\u00f3n con amigos es ideal. Recomiendo los tomates a la chapa, con el pan casero que te sirven. Tapas muy ricas. La atenci\u00f3n es muy buena."
+    }
+  ]
+}

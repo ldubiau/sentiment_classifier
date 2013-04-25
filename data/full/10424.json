@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "2 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Morano", 
+      "text": "Una verdadera verguenza este restaurante, una falta de respeto. Fui a almorzar y despu\u00e9s de 90 minutos esperando la comida, pregunto a la camarera qu\u00e9 pasa y me dice \"se rompi\u00f3 la impresora y cheff no vio el pedido\". Esperamos una hora y media y ni siquiera nos ofreciero una canasta de pan. Cuando la pedimos nos traen panes viejos, duros y grisines humedos. Un verdadero espanto. A la hora y media nos indican q nuestro pedido nunca fue recibido y con mi amiga nos fuimos. En lugar de pedirnos disculpas nos cobraron las dos gaseosas! Una falta de respeto, nunca volveremos. Y no se los recomiendo!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Majo75", 
+      "text": "Excelente ambientaci\u00f3n y trato, buena comida y m\u00fasica. Altamente recomendable."
+    }, 
+    {
+      "date": "15 Nov 0011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hernanborre", 
+      "text": "Un lugar tranquilo para relajar en compa\u00c3\u00b1\u00c3\u00ada"
+    }
+  ]
+}

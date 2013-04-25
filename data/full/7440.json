@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "1 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lu22", 
+      "text": "Los platos reusan siempre los mismos ingredientes, no como morr\u00f3n y eso me reduc\u00eda la carta a dos opciones. Los precios elevados, milanesa $38, otras carnes casi $50. La comida muy rica, com\u00ed lomo a la cerveza y ten\u00eda una salsa muy dulce, a m\u00ed me gust\u00f3 pero reconozco que era MUY dulce. Eso s\u00ed, no lleg\u00f3 demasiado caliente as\u00ed que cuando iba por la mitad ya estaba fr\u00edo (no tibio!). Para acompa\u00f1ar el pan trajeron berenjenas en escabeche muy ricas. El servicio muy bien, nada tard\u00f3 demasiado. \r\nComo resumen puedo decir que me gust\u00f3 mucho aunque me pareci\u00f3 caro y con poca variedad de ingredientes."
+    }, 
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "La comida tiene una buena presentaci\u00f3n, es rica y variada, aunque suelen cambiar el men\u00fa seguido (as\u00ed que a veces se extra\u00f1an algunos platos). Cabe destacar que el cubierto incluye pancitos, diferentes salsas y hasta jam\u00f3n crudo con anan\u00e1. En cuanto a la atenci\u00f3n, es buena, aunque a veces los mozos son un poco olvidadizos. Adem\u00e1s, a veces cuentan shows en vivo y tienen la opci\u00f3n de tramitar una tarjeta gratuita con la cual se puede acceder a descuentos, acumulaci\u00f3n de puntos, etc. El ambiente es excelente, la iluminaci\u00f3n es escasa, con buena m\u00fasica y proyecciones. Es ideal para ir en pareja."
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "pepeliniers", 
+      "text": "la comida: muy buena.\r\nla presentacion de los platos: 10 puntos\r\nservicio de mesa: variado (escabeches, salsas, etc.)\r\n\r\nlugar con onda, recomendable, lo q le faltaba a villa luro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "amfdez", 
+      "text": "Excelente ambientaci\u00f3n, mucho bullicio, los mozos tardaron un poco y se olvidaban alguna que otra cosa, pero siempre bien atendidos.La comida de primera, muy bien presentada y precios accesibles. Muy recomendable, pero si, hay mucho bullicio."
+    }
+  ]
+}

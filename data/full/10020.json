@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "23 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "Es la primera vez que como buenas canastitas. A diferencia de las otras casas de empanadas/canastas, ac\u00e1 no privilegian la cantidad de masa, sino el relleno, y la masa es tierna y no tan cocina.  Son ricas, aunque tampoco increibles."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "general73", 
+      "text": "ayer fui de casualidad al local de callao entre y lo refaccionaron todo todavia no abrieron al publico pero me invitaron a degustar algunos de sus producto son excelente en calidad, el salon lo dejaron muy bonito y algo novedoso para mi prefiero que saquen sus conclusiones lo recomiendo, no dejen de ir"
+    }, 
+    {
+      "date": "21 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "NachoGu", 
+      "text": "Excelente la calidad de los productos, variedad para todos los gustos y todo muy abundante. Merece ser probado!"
+    }, 
+    {
+      "date": "7 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jmtapiola", 
+      "text": "Excelente la pizza 7 sue\u00f1os, muy muy abundante. Las formas de las pizzas est\u00e1n muy buenas. Las empanadas muy abundantes."
+    }
+  ]
+}

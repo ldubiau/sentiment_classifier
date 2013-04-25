@@ -1,0 +1,258 @@
+{
+  "malos": [
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "santiago9", 
+      "text": "Un robo, comimos una pizza con cerveza y dos cafes el precio fue 82 pesos.cobran 6 pesos de cubierto, el champage de bienvenida es para algunos.una verdadera pena, va a durar poco."
+    }, 
+    {
+      "date": "28 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Cachi", 
+      "text": "No lo recomiendo. Las pastas no son caseras. \r\nEl precio es excesivo."
+    }, 
+    {
+      "date": "21 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "saulento", 
+      "text": "el risotto malisimo, un pegote de arroz tibio con algunos hongos macerados... pesimo y carisimo."
+    }, 
+    {
+      "date": "12 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MatiasL", 
+      "text": "La comida es mala, antes era casera, ahora para de produccion industrial.Caro para lo que es"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Juanpala", 
+      "text": "buena la comida, sobretodo las pastas y arroz. Las porciones son muy grandes"
+    }, 
+    {
+      "date": "19 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sashaveblin", 
+      "text": "Concurri un d\u00eda de semana al mediod\u00eda, con amigos. Optamos por el \"men\u00fa ejecutivo\" o c\u00f3mo se llame. La oferta de platos es bastante interesante. Los platos guardan una excelente relaci\u00f3n prcio/calidad. El ambiente agradable. Lo recomiendo para una escapada tranquila durante el mediod\u00eda, habr\u00e1 que probar de noche. Ah! Cambiaron de nombre, ahora se llama COSENTINA."
+    }, 
+    {
+      "date": "24 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "emidestefa", 
+      "text": "Muy lindo lugar. Siempre voy al mediodia. Y tienen menues muy accesibles con plato principal, postre y bebida. Muy abundantes y ricos.\r\nNo es muy buena la atencion, pareciera que uno molesta a los mozos cada vez que se los llama.\r\nLindas las mesitas de la vereda."
+    }, 
+    {
+      "date": "7 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Un s\u00e1bado al mediod\u00eda conoci Matilda y realmente me gust\u00f3.  Las rabas y el sanwich de salm\u00f3n ahumado que pedimos estaban muy sabrosos. Pero ojo que tanto las porciones como los precios son mayores a lo esperado."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mga", 
+      "text": "Ideal para ir un d\u00eda de sol al mediod\u00eda y disfrutar en las mesas de la vereda.\r\nLas porciones son muy abundantes y por eso el precio no es desubicado.\r\nSum\u00f3 la invitaci\u00f3n de copa de champagne al final del almuerzo."
+    }, 
+    {
+      "date": "23 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gus013", 
+      "text": "El lugar muy bueno, pero creo que los precios estan fuera de lugar. Los platos son muy buenos y la atencion es esmerada."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Juan_Caivano", 
+      "text": "Es un lugar muy agradable, ideal para ir en pareja, las pastas son muy buenas y la atenci\u00f3n personalizada. Hab\u00eda bastantes mesas llenas y sin embargo nos atendieron muy r\u00e1pido y los platos, pedimos pastas, salieron en seguida y estaban realmente ricos. Siempre te reciben con una copa de champagne y los mozos son muy atentos.\r\nRecomendable."
+    }, 
+    {
+      "date": "9 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "poxi", 
+      "text": "El lugar es muy agradable, la atencion es muy cort\u00e9s y la comida es buena, pero fui convencida por el precio de referencia que figura en esta gu\u00eda y me llev\u00e9 una sorpresa cuando vi la carta y los precios eran muy diferentes. Terminamos pagando casi 60 pesos por persona. Es una diferencia poco aceptable para quien, como yo, toma los precios de esta guia como referencia, pero el lugar es muy recomendable."
+    }, 
+    {
+      "date": "10 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gallegol", 
+      "text": "Excelente lugar para ir a comer al mediod\u00eda y hacer un breack en la oficina. Tiene menues ejecutivos que cambian permanentemente, y son de buena calidad."
+    }, 
+    {
+      "date": "30 Oct 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "santiago9", 
+      "text": "La comida es buena, pero hace un tiempo aumentaron en forma desmedida los precios.\r\nLo de la copa de champagne de bienvenida, depende de quien te toque en suerte."
+    }, 
+    {
+      "date": "9 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "florprima", 
+      "text": "Hay men\u00fa ejecutivo. El lugar es muy lindo y acogedor, la atenci\u00f3n b\u00e1rbara. \r\nLindo para ir a tomar un caf\u00e9, tiene ricas tortas y bocaditos."
+    }, 
+    {
+      "date": "21 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maucita", 
+      "text": "Muy buena la comida y el ambiente, pero tardaron cuarenta y cinco minutos en servirnos una pizza, que nos dijeron que tardaba quince."
+    }, 
+    {
+      "date": "20 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Viryinia", 
+      "text": "Queda en la esquina de mi casa, as\u00ed que tuve que caer ah\u00ed muchas veces pero ya no voy m\u00e1s. \r\nMediocre la comida: no le ponen sal, la pasta est\u00e1 embebida en una salsa aguada, que no se liga con la comida; mi mam\u00e1 pidi\u00f3 un risotto que no ten\u00eda sal, ni gusto y estaba pasado. \r\nUn cl\u00e1sico: o los mozos o el cocinero tienen un problema de distracci\u00f3n o de condici\u00f3n dictatorial porque siempre se equivocan con los platos y mandan otros. Muchachos, mucha decoraci\u00f3n pero la comida no pasa de la de un bolich\u00f3n c\u00e9ntrico.\r\nUna pena."
+    }, 
+    {
+      "date": "19 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pepita", 
+      "text": "La pizza es muy sabrosa. La atenci\u00f3n esmerada. La copa de champagne como gesto de bienvenida es agradable. \r\nEl lugar es chiquito, pero uno se siente a gusto."
+    }, 
+    {
+      "date": "25 Jun 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "doctora", 
+      "text": "Muy familiar y acogedor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "elube48", 
+      "text": "Exvelente lugar , con una propuesta de cocina , variada y tentadora; la clave? saber compartir platos para variar los gustos y contemporizar la factura fina.- Igualmente vale la pena conocerlo"
+    }, 
+    {
+      "date": "10 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "curi", 
+      "text": "Hay que saber pedir para compartir; porciones abundantes, buenas pastas y platos de cocina.\r\nLa estad\u00eda es agradable con la siempre bienvenida copita de champagne de cortes\u00eda. Buen servicio y buena relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "13 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FeryAlfred", 
+      "text": "Una de las mejores pizzas que he comido. \u00danico detalle: las mesas muy juntas."
+    }, 
+    {
+      "date": "10 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mumy", 
+      "text": "Uno de los mejores restaurantes, la comida es excelente, el ambiente muy bueno y la atenci\u00f3n magn\u00edfica."
+    }, 
+    {
+      "date": "13 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Maruch", 
+      "text": "Es excelente el lugar, los precios accesibles y la atenci\u00f3n buen\u00edsima."
+    }, 
+    {
+      "date": "11 Oct 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "efraindo", 
+      "text": "La calida de la comides excelente. Los platos calientes y a comida tambi\u00e9n. Atencion esmerada. En fin, muy recomendable."
+    }
+  ]
+}

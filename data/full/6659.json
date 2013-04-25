@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "21 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Mamucito", 
+      "text": "Fui varias veces y la verdad que simpre me atendieron con muy buena onda. La comida muy rica, porciones generosas y los puntos de las carnes perfectos. Muy ricos tragos."
+    }, 
+    {
+      "date": "8 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "patricioclay", 
+      "text": "buena comida, atencion con onda. un lugar para recomendar. barra muy buena. despues de cenar, tragos y buena musica."
+    }, 
+    {
+      "date": "4 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Penca", 
+      "text": "Una propuesta diferente para el bajo de San Isidro, innovadora. Los platos son increibles, abundantes, el punto de la carne, impecable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "joaco16", 
+      "text": "Muy buena atencion, ambiente y lugar, lo mejor la comida.\r\nmuy buen cheff, estilo gourmet, gran conocimiento culinario.\r\nun lugar para una excelente velada.\r\nfelicitacionesss..!!!!"
+    }, 
+    {
+      "date": "13 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bubbles", 
+      "text": "te podes sentar al aire libre o en una barra irlandesa muy linda, siempre te van a atender como si estuvieras en tu casa con gracia y profesionalismo.\r\nLa comida es riquisima y adaptable a todos los gustos.\r\nLa musica...gran parte de la experiencia de comer ahi. \r\nPara los amantes de la rica comida, de los tragos bien hechos (y bienhechores) y por supuesto de la buena musica."
+    }, 
+    {
+      "date": "5 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "NiguiriLove", 
+      "text": "Encontre en el bajo de san isidro lo que faltaba! un rincon, al estilo New York , para pasarla bien, comer riquisimo y abundante, excelente calidad en todo sentido, platos para todos y muy accesibles, buena musica, muy bien ambientado, ricos tragos,se los recomiendo!"
+    }
+  ]
+}

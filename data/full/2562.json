@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "6 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Tradicional bar de Buenos Aires con buenas opciones en sandwiches y cafeteria. No tiene altibajos, siempre mantiene su nivel."
+    }, 
+    {
+      "date": "6 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Xabier", 
+      "text": "Un ambiente en donde uno se siente bien. Relajado e informal.\r\nLa tortilla manchega la mejor tortilla que hemos comido en BsAs. Bavosa y con los ingredientes precisos.\r\nIdeal cuando uno pasea por Recoleta sin prisas."
+    }, 
+    {
+      "date": "15 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "marluna", 
+      "text": "Realmente qued\u00e9 sorprendida por la calidad de los productos que consumimos y por el servicio que nos dispensaron los mozos.\r\nEl t\u00e9 era como para dos personas y muy bien servido; como asi tambien el jugo (sin hielo..!!) y el sandwich de lomo realmente grande y de muy buena calida."
+    }, 
+    {
+      "date": "16 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "nico78", 
+      "text": "EL sandwich estaba bien, la carne incrible. El servicio bien y el postre flojo."
+    }, 
+    {
+      "date": "9 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Alejandra", 
+      "text": "Bar-Restaurante con pocas mesas, pero muy confortable. \r\nEl primer piso es m\u00e1s \u00edntimo, aunque caluroso. \r\nExcelente atenci\u00f3n, muy profesionales."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "arturo", 
+      "text": "Se trata de un bar en donde quiz\u00e1s se coma el mejor sandwich de lomo de Buenos Aires. Como bar merece mucho mas puntaje del que le aparece, ya que no se puede comparar con un Restaurant.  Es un lugar al que seguir\u00e9 volviendo"
+    }, 
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "compota", 
+      "text": "Es un retrato de un bar tradicional de Buenos Aires. La sandwicher\u00eda fr\u00eda y caliente contiene los antiguos recaudos gastron\u00f3micos cl\u00e1sicos de Buenos Aires. Recomiendo el sandwich de milanesa de lomo y de postre un tiramis\u00fa casero hecho por el cheff \\\"Angelito\\\"."
+    }, 
+    {
+      "date": "19 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Jack_Aubrey", 
+      "text": "Excelente sandwich de Lomo, buena ubicaci\u00f3n, servicio correcto."
+    }, 
+    {
+      "date": "12 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "yayi", 
+      "text": "El mejor sanswich de lomo que prob\u00e9 en la ciudad. El pan que trae es incre\u00edble y el lomo (ancho) por poco se deshace de lo tierno. T\u00edpico bar de Buenos Aires, lo recomiendo para un almnuerzo o cena casual."
+    }, 
+    {
+      "date": "27 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "arturo", 
+      "text": "El mejor sandwich de lomo Buenos Aires, ideal para llevar a extranjeros y para ir a cualquier hora."
+    }
+  ]
+}

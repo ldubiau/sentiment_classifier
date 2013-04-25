@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "23 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "zepe", 
+      "text": "Un muy lindo lugar para estas noches de verano, estuvimos en una de las mesitas de la vereda. Tiene estacionamiento y hay men\u00fas con gaseosa y postre que parecen que valen la pena, nosotros pedimos otras cosas. Comimos bien y nos atendieron mejor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elcondor", 
+      "text": "muy buen lugar con excelente calidad.\r\nEstacionamiento propio sin cargo"
+    }
+  ]
+}

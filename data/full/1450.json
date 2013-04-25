@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "3 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "agerbilsky", 
+      "text": "Excelente combinaci\u00f3n de precio razonable y muy buena cocina. Dificil de encontrar otro restaurante con esta relaci\u00f3n calidad/precio en el microcentro."
+    }, 
+    {
+      "date": "31 Mar 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "bogho", 
+      "text": "Buen lugar para comer al mediodia, buen precio, buena comidfa, el pan de la entrada es excelente!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bossayjazz", 
+      "text": "Excelente en todos los aspectos, el mejor lugar en el que he comido en toda mi vida.\r\nSigan as\u00ed, son fant\u00e1sticos y adem\u00e1s muy agradables y cordiales."
+    }
+  ]
+}

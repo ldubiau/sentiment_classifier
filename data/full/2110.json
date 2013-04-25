@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "25 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Jurguen_79", 
+      "text": "Realmente me gustan mucho los embutidos, pero las aceitunas todas secas y sin gusto, la picada sin queso, no tenia salamin, mas que el de maquina, realmente una de las peores sino la peor picada que comi en mi vida, tenia muchas expectativas con el lugar pero realmente no cumplieron ninguna."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fher2805", 
+      "text": "Muy buena la calidad de la carne, los precios son razonables, recomendable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fede78", 
+      "text": "Muy buena la parrilla en general y para destacar la torta de manzana con helado. El servicio podr\u00eda ser un poco mas esmerado, demasiada \"fiaca\" las camareras. Pero recomendable y para ir con frecuencia."
+    }, 
+    {
+      "date": "22 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lagartus", 
+      "text": "Muy buena comida, excelente relacion precio calidad. \r\nLa atencion hay que pulirla un poco."
+    }, 
+    {
+      "date": "18 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarcosByC", 
+      "text": "Excelente comida y ambiente muy familiar. Los due\u00f1os est\u00e1n y cuidan que los clientes se queden conformes."
+    }
+  ]
+}

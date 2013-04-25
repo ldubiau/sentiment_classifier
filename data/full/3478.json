@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "29 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "mariano678", 
+      "text": "La comida es buena, pero la atenci\u00f3n es mala, depende mucho de quien sea el que lo haga. Hay uno de los due\u00f1os que mejor no te toque. Preferible el delivery que el sal\u00f3n."
+    }, 
+    {
+      "date": "20 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Marcelino932", 
+      "text": "Las \"promos\" resultan convenientes y se ofrecen, incluso, de noche. Los platos no son muy abundantes, pero tampoco escasos. La atenci\u00f3n es correcta."
+    }, 
+    {
+      "date": "29 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "filip", 
+      "text": "lugar tranquilo. Medianamente acogedor, silencioso y calmo. La comida en relaci\u00f3n al repcio est\u00e1 bastante bien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "julieta1", 
+      "text": "Comimos muy bien y econ\u00f3mico, es un peque\u00f1o y muy acogedor lugar, tradicional de Recoleta, tranquilo y familiar, bien atendido y se nota que todo se hace en el momento, nos gust\u00f3 mucho. Lo recomiendo especialmente a quien busque buena atenci\u00f3n, calidad y precios accesibles. Julieta."
+    }, 
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "flama", 
+      "text": "El lugar es acogedor, bien climatizado, ambiente familiar, muy buena atenci\u00f3n y una carta donde vas a encontrar de todo, no hay excusas para no comer, platos sencillos, pero bien elaborados y en el momento,lo mas destacado es la relaci\u00f3n precio calidad de la comida, sin ninguna duda lo recomiendo, van quedando pocos lugares as\u00ed."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "9 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "quiquesanti", 
+      "text": "Un lugar agradable atendido por los due\u00f1os, bien predispuestos para lograr que la gente vuelva."
+    }, 
+    {
+      "date": "7 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Se defienden mejor con la parrilla que con la cocina. \r\nEl pollo no parec\u00eda al wok sino guisado. Generalmente hay poca gente, pero o te apuran para retirarte los platos a pesar de que no hay nadie o cuando quer\u00e9s que te atiendan tardan en venir. \r\nLo mejor parece ser la terraza pero habr\u00e1 que esperar la primavera para ver si mejora."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mariasanmiguel", 
+      "text": "La verdad es que me dejaron sorprendida los bu\u00f1uelos de acelga, buen\u00edsimos.\r\nEl wok fue uno de los mejores que com\u00ed en mi vida y el volcan de chocolate era espectacular por donde se lo mire.\r\nLa atencion es regular, la camarera es muy antip\u00e1tica y no estaba nunca cuando la necesitaba."
+    }
+  ]
+}

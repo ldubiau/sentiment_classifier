@@ -1,0 +1,438 @@
+{
+  "malos": [
+    {
+      "date": "1 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Arusta", 
+      "text": "Lindo lugar, mal la comida, la trucha no estaba en su punto, no avisaron que viene con espinas, la tikka pese a ser sugerencia, incomible, seca y muy pobre"
+    }, 
+    {
+      "date": "31 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Clauscar", 
+      "text": "Muy lindo lugar pero la comida descepciono bastante. Nos preguntaron por el punto de coccion del pescado y lo tuvimos que mandar dos veces porque siempre vino frio. Se nota que los platos son congelados. La demora de los mismos es eterna. Para no volver. Cuando comunicamos esto al mozo nadie se acerco a nuestra mesa para ver que habia pasado. Complete la encuesta de calidad. Nadie se comunico conmigo. PESIMO.Relacion calidad precio CARO. Atencion al cliente DEPLORABLE."
+    }, 
+    {
+      "date": "1 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Brenigirl", 
+      "text": "Los camareros eran los peores que vi en mi vida. De la carta de champagnes de 15 opciones solo tenian dos, tuvimos que tomar uno que se iba de nuestro presupuesto porque los tipicos no los tenian en stock y no nos quedo otra que tomar uno de 80 pesos. La comida super escasa y no tenia buen gusto. Despues de ahi comimos algo en otro lugar. Un lindo ambiente y sofisticado no es sinonimo de buen comer."
+    }, 
+    {
+      "date": "23 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "princes", 
+      "text": "Me habian recomendado este resto como lo mejor que habia en Palermo, y la verdad que me lleve una gran desilucion. El lugar en si es espectacular, pero la comida deja mucho que desear. Demaciada inversion en arquitectura y poca en gastronomia en si.. No lo recomiendo"
+    }, 
+    {
+      "date": "11 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Jijitus", 
+      "text": "La ambientacion muy buena. La comida mala. Demasiado pretenciosa sin lograr un sabor autentico. Los mozos inexpertos. No conocen la carta. No volveria."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Oct 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "James_Bond", 
+      "text": "El ambiente es muy agradable y la atencion cuidadosa y esmerada. La comida excelente, solo que los precios son un poco mas elevados de lo que quizas deberian. Yo fui en dos oportunidades y no me decepciono."
+    }, 
+    {
+      "date": "10 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Marichis", 
+      "text": "El ambiente es muy lindo con una decoraci\u00f3n ind\u00fa muy atractiva. Se come bien y hay una muy buena carta de vinos, pero creo que los precios est\u00e1n excedidos para la oferta. No se si volver\u00eda."
+    }, 
+    {
+      "date": "8 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Me encanto el ambiente con una decoraci\u00f3n impecable y cuidada hasta en los m\u00e1s m\u00ednimos detalles; los otros aspectos est\u00e1n bien resueltos y acompa\u00f1an aunque mi cr\u00edtica es que los precios son un tanto abultados para categor\u00eda de cocina que ofrecen."
+    }, 
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Max_Fede", 
+      "text": "Lugar  muy bueno, con la salvedad de unos comensales muy poco civilizados que hablaban a los gritos. Comida muy buena y se nota la buena calidad de las materias primas. El chesse cake excelente. La temperatura de las pastas era menor que el propio plato. FRIAS!. Servicio: evidentemente hay una tendencia a contratar camareros extranjeros, lo que convierte al resto en una especie de torre de babel, lo malo es que no chequean si el extranjero esta capacitado. Hubo deficiencias graves: el repasador termino dentro del plato, no entendia las consignas y no estaba atento a la mesa."
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "jdweb", 
+      "text": "todo bueno, salvo el tiempo en que tardan los platos."
+    }, 
+    {
+      "date": "22 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Mariuf", 
+      "text": "Carisimo, y la comida nada del otro mundo, nos lo recomendaron tambien por el barman, y cuando vino a la mesa no supo recomendarnos ningun trago."
+    }, 
+    {
+      "date": "4 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "cbellavi", 
+      "text": "Excelente ambientaci\u00f3n, pero excesivamente caro para la calidad de la comida servida."
+    }, 
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "geroge", 
+      "text": "fui a festejar el dia de los enamordos y fue un desastre total!!!! el lugar esta muy bueno, lo unico rescatable. la comida no deslumbra, mucho nombre y poco contenido, el servicio un desastre tardaron 40 minutos para traer las entrdas que ni habia que cocinarlas, y otros 45 para el plato principal,obviamente postre no comi sino todavia estaba ahi, para todo tardaban. y el colmo fue que tuve que ir a pagar en la caja porque no venian a cobrarme y nadie le intereso porque lo hacia. no arruino la noche, pero cerca estuvo. no lo recomiendo PARA NADA!!!!!"
+    }, 
+    {
+      "date": "18 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Veto", 
+      "text": "Realmente no lo conocia, pero un compa\u00f1ero de trabajo me llevo a almorzar, por $38 comimos una entrada, un plato principal, postre y bebida, el lugar me encanto, el gerente me llevo a recorrero, tiene espacios al aire libre y una barra que ayer por la noche la disfrute con mi novia y una pareja amiga antes de cenar. Cene brochete de cordero con salsa de ostras que esta para recomendar, mi novia un wok de cerdo, el postre lo compartimos,  una sopa de frutos exoticos y te verde exelente, asi como yo, mis amigos no lo conocian, realmente es para conocer.Volveremos"
+    }, 
+    {
+      "date": "14 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "emidestefa", 
+      "text": "Excelente ambientacion.\r\nDestacable la presentacion de los platos.\r\nEl mozo nos atendio como a 2 reyes! impecable. La mejor atencion que he recibido en un restaurante hasta el momento.\r\nLo unico que tengo para criticar es que cuando se apago la velita del fanal pedi que pusieran otra (estaba celbrando un aniversario, con lo cual me parecia mas romantica la velada)y me dijeron que no quedaban mas! (mientras le sponian a  otras mesas)\r\nMe parece que con los preciosque se pagan, que no me quejo porque todo fue excelente, no hay que ser tan amarretes con una velita que sale 10 ctvs!"
+    }, 
+    {
+      "date": "3 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Castor", 
+      "text": "Me gusto la decoraci\u00f3n del lugar. La comida no es de lo mejor: pedi un ojo de bife, pero no estaba nada tierno. Los tragos muy ricos."
+    }, 
+    {
+      "date": "18 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fragubau", 
+      "text": "El lugar tiene una ambientaci\u00f2n muy cuidada, vale la pena conocerlo. La comida me pareci\u00f2 muy buena sin ser extraordinaria.-"
+    }, 
+    {
+      "date": "15 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ijmena", 
+      "text": "La decoraci\u00f3n es impresionante, todos los detalles cuidados impecablemente. La comida es rica pero los platos incluyen demasiados ingredientes perdiendo el sabor natural de cada uno, los precios son excesivos en relaci\u00f3n al tama\u00f1o. El servicio necesita mayor entrenamiento en servicio y en conocimiento de la carta."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "zelig", 
+      "text": "Coincido en un todo con elcomentario del usuario poldis del 20-10-2007. Es una pintura de la realidad salvo por el corcho que no nos paso el resto es tal cual. Una mas los sillones dobles en el area fumadores son una tortura. Una pena."
+    }, 
+    {
+      "date": "23 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "melgriff", 
+      "text": "Bukka es un restaurante para disfrutar con todos los sentidos. El lugar (que aconsejo recorrer) est\u00e1 ambientado al detalle y envuelto en una m\u00fasica coherente, que no invade. Del men\u00fa recomiendo animarse a una selecci\u00f3n extensa: las tapas, las mollejas en hojaldre y el cous cous de pollo (excelentes) se destacaron sobre otros platos (muy buenos pero sin extremos) y sobre los postres (a los que pareci\u00f3 faltarles \u00a8algo\u00a8). El servicio de mesa: conocedor y atento hasta el \u00faltimo minuto (desconcert\u00f3 el comentario de la recepcionista, quien a la salida pareci\u00f3 sorprendida de nuestra satisfacci\u00f3n). \r\nEn s\u00edntesis, un lugar al que hay que ir."
+    }, 
+    {
+      "date": "13 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "VEK", 
+      "text": "Tiene 4 salones y una terraza, representando los cuatro elementos. El ambiente es muy lindo y acogedor. La comida es buena, con una carta adecuada para cada paladar, y la carta de vinos es corta y cara. Hay buenas opciones de vino en copa. En s\u00edntesis, un lugar muy agradable para ir en pareja."
+    }, 
+    {
+      "date": "26 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Poldis", 
+      "text": "Lindo lugar con decoracion interesante, pero sin alma. Muy pretencioso. Servicio totalmente inexperto, inaceptable por los precios cobrados. La moza rompio el corcho del vino, lo limpio con el dedo y sirvio una copa que dejo aparte por tener \"particulas de corcho\". \r\nMenu sofisticado, pero los platos mal logrados (arroz pasado, estofado seco)."
+    }, 
+    {
+      "date": "7 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "efeso", 
+      "text": "Excelente ambiente y atencion.La comida buena como tambien los postres,el precio algo alto por la calidad del cheff."
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "pela13", 
+      "text": "El lugar es excelente en su ambientacion, muy cool, la comida es buena pero dificil de encontrar un plato sencillo por lo tanto si los que van a cenar son varios alguno no quedara del todo conforme, la carta de vinos es buena pero considerando el lugar me parece que amerita algo un poco mejor, el precio alto pero el local asi lo amerita."
+    }, 
+    {
+      "date": "2 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "9453", 
+      "text": "Un lugar nuevo de Palermo puesto a todo trapo. La comida estuvo muy bien y la atenci\u00f3n m\u00e1s que aceptable. Tienen por ahora una sola tarjeta y los precios son demasiado salados para la zona que se caracteriza por ser de mucha competencia."
+    }, 
+    {
+      "date": "10 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "HOPE", 
+      "text": "Muy buen restaurante de comida fusion. Recomendable como algo diferente en Buenos Aires."
+    }, 
+    {
+      "date": "14 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PaulaBeni", 
+      "text": "Me pareci\u00f3 demasiado pretencioso. Hay demasiado protocolo pero muy mala atenci\u00f3n. Es muy caro para el servicio que ofrecen. La comida no es tan buena. Tardan mucho en atender y el mozo era un maleducado. Es un restaurante que quiere ser pero no puede. No lo recomiendo. No se dejen enga\u00f1ar por la m\u00fasica cl\u00e1sica que ponen!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lolitos", 
+      "text": "Muy buen lugar. El cheff se acerc\u00f3 a explicarnos los platos y nos dio muy amables sugerencias. Excelente el ambiente exterior e interior. Ideal para salida rom\u00e1ntica o con amigos \u00edntimos. (4 comensales)"
+    }, 
+    {
+      "date": "21 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pgonz77", 
+      "text": "Fui para el dia del amigo, eramos 4 nos atendieron de forma impecable,la comida (cerdo a la cerveza negra) estaba exquisita, el unico detalle quiza fue la tardanza de los platos aunque es entendible un dia como el que fui"
+    }, 
+    {
+      "date": "20 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pablo0512", 
+      "text": "Muy buena la atencion. Eramos 6 y no falto nada.\r\nUn poco caro, para lo que se comio. Igualmente todo perfecto"
+    }, 
+    {
+      "date": "1 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gerfreixas", 
+      "text": "El lugar, de lo mejor que conoc\u00ed en BA. La atenci\u00f3n; muy correcta y oportuna, no tan facil de encontrar. La entrada, souffl\u00e9 de queso, pita de ajos y morrones asados, decepcion\u00f3. Los principales; Ravioles de cordero y Cintas negras con frutos del mar. Los dos, uno mejor que otro. El relleno de los ravioles era cordero de verdad cortado a cuchillo, y muy sabroso. La salsa de frutos del mar que acompa\u00f1aba a la pastas llevaba vieiras, mejillones y langostinos, muy buena. La mousse de chocolate blanco excelente, quiz\u00e1s la salsa de maracuy\u00e1 era demasiada agria, pero no desenton\u00f3 con los principales"
+    }, 
+    {
+      "date": "30 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ita", 
+      "text": "El lugar es de muy buen dise\u00f1o, muy bien ambientado.\r\nLas mesas estan sepradas entre ellas, las copas son de muy buena calidad.\r\nTiene una cava espectacular. \r\nLa comida y la atenci\u00f3n, excelentes,  permiten que una cena sea perfecta."
+    }, 
+    {
+      "date": "14 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Polas", 
+      "text": "A partir de los comentarios le\u00eddos en esta p\u00e1gina debo reconocer que mi actitud fue desconfiada. Gran error: alto nivel en la preparaci\u00f3n de los platos. Sabores de autor, Calidad de servicio inmejorable. La ambientaci\u00f3n del lugar no deja librado al azar ning\u00fan detalle, objetos de dise\u00f1o, arquitectonicamente ubicados. Como platos, recomiendo el parfait de queso de cabra como entrada y el Curry rojo."
+    }, 
+    {
+      "date": "11 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mau", 
+      "text": "Excelente el lugar 10 puntos, la atenci\u00f3n incre\u00edble! la comida muy bien, en su punto, con muy buen sabor, demora y porciones justas. El vino a temperatura justa, las mesas bien distanciadas, la m\u00fasica correcta. Los postres excelentes, aunque el cake de chocolate estaba un poquito seco y el helado de queso de cabra que acompa\u00f1aba era escaso. De todas formas recibe el excelente, lo merece."
+    }, 
+    {
+      "date": "24 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "BuenApetito", 
+      "text": "Fabulosa ambientaci\u00f3n y la comida sofisticada y exquisita. No estoy acostumbrada a las excentricidades asi que nos sent\u00edamos un poco desorientados. \r\nHubo muchas demoras en el servicio (mencionaron que no era lo habitual), pero fueron muy bien compensadas con copas de champagne y bonificacion."
+    }, 
+    {
+      "date": "26 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gzapata", 
+      "text": "El dise\u00f1o es impactante, poco visto en la zona la comida muy bien lograda, el servicio es por demas correcto y se destaca la cava internacional."
+    }, 
+    {
+      "date": "26 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mrcocktail", 
+      "text": "un lugar fuera de lo normal tanto en su estructura como en su servicio y calidad de comida y tragos. Altamente recomendable"
+    }, 
+    {
+      "date": "22 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nere", 
+      "text": "Excelente ambiente, la comida de 10, la atencion super personalizada. Los precios un poco salado, pero acorde con el nivel del resto."
+    }, 
+    {
+      "date": "18 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maykas", 
+      "text": "Excelente lugar, en todos los aspectos. Ambientaci\u00f3n fascinante, muy buena atenci\u00f3n de los camareros y Sommelier. \r\nEs un oasis elegante dentro de Buenos Aires."
+    }, 
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "RodoBourbons", 
+      "text": "Excelente atenci\u00f3n y comida (muy original). La ambientaci\u00f3n es impresionante. No se pierdan los tragos."
+    }, 
+    {
+      "date": "8 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Baboo", 
+      "text": "Excelente atenci\u00f3n y muy logrados sabores."
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tef", 
+      "text": "Excelente, la comida es exquisita. Muy buen gusto en la decoraci\u00f3n, con encantadores detalles de categor\u00eda. \r\nMis felicitaciones al sommelier quien fue preciso a la hora de recomendarme un vino que combinara a la perfecci\u00f3n con el plato elegido. Se nota el esmero del personal para que los comensales disfrutemos. Recomiendo antes de despedirse, el c\u00f3ctel de maracuy\u00e1 que preparan los bartenders, en algunas de las tantas terracitas que tienen al aire libre. Importante sector fumadores. Sin dudas un lugar para aprovechar y deleitarse cada vez que uno quiera darse un gusto. \r\nYa tengo ganas de volver."
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mosquetero", 
+      "text": "Pocas veces me atendieron tan bien, pocas veces vi tan buen gusto en la decoracion, La camarera al minuto sabiendo, explicando y recomendando platos. Runners muy atentos y un Sommelier contandonos sobre los vinos. 11 puntos, super recomendable."
+    }
+  ]
+}

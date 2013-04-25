@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "12 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "LeBigMac", 
+      "text": "Pedimos bruschettas de varios sabores, eran 4 tostadas quemadas del tama\u00f1o de unas criollitas y carisimas 48 pesos. no respetaron el descuento que decia la carta y los tragos y atencion medio pelo."
+    }, 
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "gomarci", 
+      "text": "la comida super lenta, fr\u00eda y dura. Pedimos 4 tragos y todos muy mal hechos. No hay un verdadero barman. Lo \u00fanico que lleg\u00f3 rapid\u00edsimo fue la cuenta.\r\nHe de  remarcar con may\u00fasculas que la maitre (creo que su nombre es Patricia) se merece ganar el triple de lo que gana porque sin ella el sitio se hunde. Nada recomendable."
+    }, 
+    {
+      "date": "13 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "CeyMiguela", 
+      "text": "Un restaurante para el olvido. Nos sentamos en una mesa que no estaba preparada, la moza despues de 15 minutos nos trajo una carta (una sola para 4 personas) y prometio preparar la mesa y traer mas cartas , cosa que nunca hizo. Ordene un sandiwch de ternera con queso cheddar y salsa bbq  y un agua (cuyo hielo solicitado tampoco llego). El sandwich tenia uno de los panes quemado y el otro casi crudo, no estaba para nada rico. Por la pesima atencion y la mala calidad de la comida me parecio caro. Pague $50 teniendo un 20% de descuento. No volvere."
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "cubito", 
+      "text": "Nos ubicamos en la terraza y cuando se larg\u00f3 a llover, baj\u00e9 a habar con el mozo para sentarnos adentro. Dos veces me prometieron mesa, pero por cualquier motivo nunca nos la dieron. Nos apuraron diciendo que los platos ya estaban y terminamos cenando en la barra. Una vergueza. El mozo ni siquiera se acerc\u00f3 a cobrarnos por lo que tuve que ir yo a la caja a abonar. Obviamente no se lo recomiendo a nadie. La comina no es rica y me parecieron bastante caros los precios. El ambiente es aceptable. La proxima, antes de ir a cenar, juro que chequeo con la guia oleo!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "ariadna17", 
+      "text": "la ambientacion y la musica le dan mucha onda al lugar. tiene gran variedad de tapeos. recomiendo las papas cu\u00c3\u00b1a con queso panceta y cebolla caramelizada ;) Tiene muchos tragos originales! recomiendo el de anana y jengibre y el de Maracuy\u00e1."
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Pach", 
+      "text": "Fuimos 6 a cenar. Comimos bien, no es una locura, pero eso no significa que no sea buena. Es un muy buen lugar para ir antes de salir, ya que es un lugar con m\u00fasica y luz mas bien baja. Lo \u00fanico que no me gust\u00f3 demasiado es que se tardaron bastante en traer los platos, pero la atenci\u00f3n de los mozos fue buena. En fin, la pasamos bien."
+    }, 
+    {
+      "date": "4 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ALMUDENA", 
+      "text": "Fuimos por la tarde y pedimos la tabla de tapeo con dos consumiciones!! muy bueno !!"
+    }, 
+    {
+      "date": "14 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Alelixxx", 
+      "text": "No est\u00e1 mal, pero demasiado caro para lo que es. La atenci\u00f3n es buena, lindo ambiente, pero los precios no se justifican"
+    }, 
+    {
+      "date": "5 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "elcritiko", 
+      "text": "Muy bueno hab\u00eda ido alguna vez, pero ahora lo cambiaron todo y para mejor, la atenci\u00f3n es con muy buena onda cosa que no abunda en Palermo, donde es casi imposible ver sonre\u00edr a un camarero mientras trabaja y ac\u00e1 se los ve. Muy buena la barra nueva y los tragos, al menos para mi es fundamental a la hora de elegir un restaurante. Sigan as\u00ed, no se palermicen que faltas buenas propuestas en la zona."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "aledie10", 
+      "text": "Un lugar bien palero, moderno, con toques refinados, la atenci\u00f3n aceptable y los platos ricos. Comimos en la terraza y fue una experiencia muy grata, chica pero acogedora. Recomendable."
+    }
+  ]
+}

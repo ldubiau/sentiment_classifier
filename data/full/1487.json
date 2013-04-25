@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "18 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sergioivancasco", 
+      "text": "El lugar de italiano como dice tiene el nombre y las pastas secas importadas de muy buen tono por cierto. El resto, es igual a cualquier otra pizzaria-cafe moderna. La calidad de que podes llegar a consumir va a ser buena. No me impresiono. Tampoco esperaba mas. Al final, cerre la experiencia con un cafe sin sabor, una pena."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ElVisitador", 
+      "text": "Muy buenos los combos de pizarra, pan de campo calentito, la materia prima muy buena, las alternantivas son variadas con plato pricipal, bebida(la copa de vino bien servida) y de postre flan casero mixto, ensalada de fruta con helado, cafe etc, todo muy rico y abundante, mucha gente pide lo quedo para llevar. El servicio es bueno, a veces dependiendo del horario las chicas quedan un poco desbordadas pero le ponen onda."
+    }, 
+    {
+      "date": "22 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Como todos los Piacere, no deja de ser un pizza y caf\u00e9 con servicio de comidas. Para lo que ofrece es caro ya que nada es especialmente destacable y ni  la comida, ni el ambiente ni la atenci\u00f3n pasan de lo aceptable con precios de restaurant de m\u00e1s categor\u00eda."
+    }, 
+    {
+      "date": "29 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ramiro_Ignacio", 
+      "text": "La comida sabrosa. El servicio muy bueno. Los postres ricos. Recomendable."
+    }, 
+    {
+      "date": "24 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "QuesoAzul", 
+      "text": "Piaccere me gusta mucho, la comida es muy buena, siempre compro un panini que me encanta o pido pizza delivery. Pero si vas un poco tarde a la noche y justo no hay nadie se nota que a la camarera no le caes muy bien."
+    }, 
+    {
+      "date": "14 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "vpdeangelis", 
+      "text": "Bien para un mediod\u00eda siempre y cuando se coma el plato que corresponde al men\u00fa del d\u00eda. Si uno sale de eso, es muy caro.\r\nLa panera es excelente!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CyberJIT", 
+      "text": "La comida es excelente. El pan casero (de campo) no podr\u00eda ser mejor (hecho por el chef ese mismo d\u00eda). La pasta es verdaderamente ciutta, algo dif\u00edcil de encontrar en los ristoranti de Buenos Aires. Las otras comidas y postres que hemos pedido ah\u00ed son tambi\u00e9n muy buenos. M\u00e1s all\u00e1 de la incomparable manufactura, cabe destacar la materia prima de primer\u00edsima calidad. Una \u00fanica queja: el otro d\u00eda pedimos delivery desde un radio muy cercano y nos dijeron que no llegaban. Deber\u00edan cambiar eso. Todo lo dem\u00e1s de lo mejor."
+    }, 
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luzy", 
+      "text": "Piacere es un resto modesto con muy buen ambiente, muy buena comida (platos variados y sanos, para nada pesados) y muy buena atenci\u00f3n....y no es para nada caro...mucho mejor que cualquier resto de $50 por cabeza."
+    }
+  ]
+}

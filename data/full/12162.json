@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "29 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lechuga85", 
+      "text": "Fui un domingo a comer el brunch por pasos, la verdad que todo muy  rico, la comida, el lugar.....y la atencion al mismo nivel. Volver\u00eda sin dudas.\r\nLo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chapajbb", 
+      "text": "Al fin un lugar nuevo en Palermo que vale la pena. Es todo maravilloso. Atendido por su due\u00f1a, no dan ganas de irse nunca. Tiene una carta de vinos muy interesante y con opciones para todos los gustos. La comida es deliciosa, todo muy cuidado y lleno de sabor. No dejen de probar las mollejas crocantes y la pesca del d\u00eda! Hay postre para los amantes de chocolate! Se los recomiendo!"
+    }, 
+    {
+      "date": "2 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gastrofan", 
+      "text": "Realmente una joyita en Palermo. Todo supera la expectativas. El ambiente, la comida, la calidez del lugar, la atenci\u00f3n de su due\u00f1a. No dejen de pedirle a Naiara que les haga un trago antes de comer, tiene una barra preciosa. Y con rspecto a la comida vayan directo al pulpo y al pato! Si son dos prueben la terrina de osobuco! Y de postre el cilidro de guayaba. Vayan!"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Alquimista", 
+      "text": "No tienen muy buena variedad de quesos y fiambres para una buena picada. No volver\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "DAX572", 
+      "text": "Fui con mi esposa en 2 oportunidades  y otra con mis hijos, siempre la atencion fue inmejorable, la comida muy buena y un ambiente distendido como para pasar un momento muy agradable, sin dudas volvere."
+    }, 
+    {
+      "date": "3 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ccnare", 
+      "text": "excelente atencion y muy buena comida, fuimos un martes con descuento de Club LN y todo muy bien. Las picadas son muy frescas y pedimos una tarteleta que la rompia.... para volver"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "melvira", 
+      "text": "Perfecto lugar para pasar un buen momento ya sea con amigos o con tu pareja. Yo fui el Sabado pasado con mis amigos, y la pasamos de 10. El servicio es excelente; nos sentamos en el patio cubierto que tiene adelante y pedimos una picada que estaba riquisima y una pizza que la verdad que la rompia.\r\n100% recomendado, te deja ganas de volver"
+    }, 
+    {
+      "date": "20 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gbonvissuto", 
+      "text": "Excelente atenci\u00f3n y la comida espectacular, super recomendable para ir con amigos, novia/o o en familia, es tranquilo pero con mucha onda!!!"
+    }, 
+    {
+      "date": "12 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "na66", 
+      "text": "El lugar muy lindo con mesas al aire libre y la atencion de primera al igual que la comida."
+    }, 
+    {
+      "date": "11 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dani_ira", 
+      "text": "muy lindo lugar para compartir con amigos o la familia. La comida muy rica. Tiene un patio con mesitas al aire libre muy bueno."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "VERDEAPLE", 
+      "text": "comida simple, tipo caser y buena. la atencion depende quien este. Gustavo y Hugo barbaro un hombre nayor es de terror todo mal. deberian mejorar el lugar."
+    }, 
+    {
+      "date": "13 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Estuvo ok porque la comida me pareci\u00f3 decente y la atenci\u00f3n correcta para un almuerzo al paso pero la recomendaci\u00f3n es con reparos ya que creo que deber\u00edan ser m\u00e1s cuidadosos respecto de la higiene del local"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "josefinaguida", 
+      "text": "La carne no falla nunca."
+    }, 
+    {
+      "date": "12 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tomyjerry", 
+      "text": "Lo 1ro que nos gusto, fue la calida recepcion, un ambiente ameno ,atencion personalizada ,que nos permite regresar como ha algo propio . Lo recomiendo siempre"
+    }
+  ]
+}

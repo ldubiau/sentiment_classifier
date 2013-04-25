@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "11 Nov 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Carlos", 
+      "text": "No me gust\u00f3 nada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "wizardofoz", 
+      "text": "Es bueno. Les recomiendo los sandwiches. Es un buen lugar para ir a almozar, tomar cerveza y comer un sandwich."
+    }, 
+    {
+      "date": "13 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rmbofill", 
+      "text": "Buenos la comida y el servicio. \r\nEl lugar est\u00e1 bien puesto, pero la falta de superficies acolchadas lo hacen muy ruidoso si se habla fuerte o ponen m\u00fasica."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marito62", 
+      "text": "Me encant\u00f3 el lugar, excelente la comida."
+    }, 
+    {
+      "date": "4 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "wandafra", 
+      "text": "El lugar es especial, tiene algo que te atrapa. la carta si bien no es muy adaptada a nuestra cultura gastron\u00f3mica es bastante amplia y lo que no hay se puede pedir, doy fe."
+    }, 
+    {
+      "date": "12 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Xema2005", 
+      "text": "Fui sin demasiadas expectativas, pero me sorprendi\u00f3 la amabilidad de la gente de la barra y hasta el chef, que al ser los primeros de la noche, nos invit\u00f3 con un trago buen\u00edsimo.\r\nHay platos principales y una infinidad de sandwiches de pollo, carne vacuna, cerdo, cordero y pescados con diversos panes.\r\nLos postres muy buenos, recomiendo el flan de coco con gelatina de Malbec y lichis."
+    }, 
+    {
+      "date": "1 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mar2004", 
+      "text": "Me parece una muy buena propuesta para Buenos Aires, sobre todo para la zona de Palermo Hollywood, en donde no hay lugares que sirvan este tipo de comida. \r\nMe gust\u00f3 mucho.\r\nLo recomiendo"
+    }, 
+    {
+      "date": "31 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanmmun", 
+      "text": "Me gust\u00f3 mucho."
+    }
+  ]
+}

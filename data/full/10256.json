@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "26 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GabrielNMoreno", 
+      "text": "Llegamos al lugar como segunda opci\u00f3n. Al principio me resulto extra\u00f1o que tardaran TANTO... en traer la comida... despu\u00e9s lo agradec\u00ed... el plato estaba hecho en el momento, no eran papas recalentadas ni crema de verdeo del d\u00eda anterior como hacen en otros lugares. Les ped\u00ed la parte del pollo que m\u00e1s me gustaba y cumplieron.\r\nEl ambiente es tranquilo, nada extraordinario, com\u00fan... lo unico desacertado es la ubicaci\u00f3n de los ba\u00f1os!!! que casi no tienen separaci\u00f3n del lugar donde uno come."
+    }, 
+    {
+      "date": "16 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Goodie", 
+      "text": "Esta bien para comer un dia de semana a la noche o un mediodia en dia de semana. Nada caro, tampoco nada genial. Bien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bibliogourmet", 
+      "text": "Recomendado para almorzar. Excelentes las pastas. El estofado: una manteca!!!  C\u00e0lida la atenci\u00f3n de las mozas que tienen paciencia con los ni\u00f1os."
+    }
+  ]
+}

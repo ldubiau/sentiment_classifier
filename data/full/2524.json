@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "31 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "black_olive", 
+      "text": "Me encanta la cocina de este lugar, super casera y con productos frescos. Un men\u00fa original con comida \u00e9tnica y riqu\u00edsima con sabores bien diferenciados. El servicio es casero tambi\u00e9n y muy amable, as\u00ed que no vaya apurado. Las porciones son m\u00e1s que generosas as\u00ed que recomiendo compartir los platos.Voy hace unos a\u00f1os y me hacen sentir como en mi casa."
+    }, 
+    {
+      "date": "12 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nano00", 
+      "text": "Se trata de una casa amplia bien ambientada como restaurant. La atenci\u00f3n es c\u00e1lida y la oferta de platos, por l\u00f3gica, es limitada. Los productos se notan frescos. Ojo con los picantes. Ofrecen la posibilidad del descoche, y aunque el precio ya no es de $ 5, sigue siendo muy razonable. Para ir relajado, sin apuros."
+    }, 
+    {
+      "date": "12 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "brother", 
+      "text": "Ambiente familiar, sino quiere demoras hay que pedir el plato del d\u00eda, me toco paella, buena cocina sin dudas, no defrauda."
+    }, 
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Gusre", 
+      "text": "Bello y c\u00e1lido sitio. \r\nLa comida es buena, con materia prima de buena calidad, pero el servicio y la presentaci\u00f3n pueden mejorarse y mucho."
+    }, 
+    {
+      "date": "21 Nov 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "osquito", 
+      "text": "Un lugar espectacularmente ambientado, con una comida muy buena. El servicio no es tan acorde. Se puede llevar el vino propio. Descorche $5 (cinco pesos)."
+    }, 
+    {
+      "date": "5 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cucurru", 
+      "text": "La idea de la comida casera es buena, pero hay un problema con la sincronizaci\u00f3n de la llegada de los platos.\r\nFuimos cuatro personas y todos comimos a destiempo."
+    }, 
+    {
+      "date": "8 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Natalio", 
+      "text": "Comida casera. Buena, pero no muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "FFF", 
+      "text": "La comida excelente, un restaurante muy chiquito. Te atiende el cheff y una se\u00f1ora.\r\nEs la segunda vez que voy y en esta oportunidad, tardaron 25 minutos entre traer plato y plato, comimos todos separados. \r\nCuando nos quejamos, ni siquiera pidieron disculpas. El cheff se la cree demasiado, se olvida que est\u00e1 ofreciendo un servicio."
+    }
+  ]
+}

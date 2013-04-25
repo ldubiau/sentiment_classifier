@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "8 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sonicgauch", 
+      "text": "La paella  tardaron cerca de una hora en traerla. en la carta avisaban de una espera de 20 minutos.\r\nLa paella tiene muchos mariscos . estaba pasado el arroz no estaba con la textura de mi gusto. como desarmado el grano.  pegado en la parte de abajo  del sarten donde lo sirven. \r\nLas frituras mixtas  estan bien. \r\nLos precios me parecieron caros por la calidad recibida.\r\nLa atencion correcta."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dentap", 
+      "text": "Fuimos con mi novio usando un cup\u00f3n que habiamos comprado, y todo fue excelente. El lugar es bell\u00edsimo, la comida exquisita, y la atenci\u00f3n da ganas de volver. siempre atentos! -muy buena la paella. Volveremos!"
+    }, 
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "griche", 
+      "text": "el lugar es muy agradable, la atenci\u00f3n excelente, mucho personal y la chef personalmente supervisa todo. Las rabas exquisitas, la paella la sirvieron en tiempo y la modalidad es as\u00ed, no como adjetivaron pegada, sino ese es el estilo y por cierto muy rica.Los precios son los usuales para estos lugares."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nino", 
+      "text": "Excelente restaurant, fuimos varias veces, volveremos muchas mas, la especialidad las paellas, pero los pescados tambien son exquisitos.Buen ambiente y excelente atencion de todo el personal."
+    }, 
+    {
+      "date": "21 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marcfar", 
+      "text": "Excelente la atencion!! la moza siempre atenta a lo que se necesitaba, la comida excelente, a  tiempo, con la pausa necesaria entre plato y plato. \r\nambiente agradable, la musica no molestaba, hay mesas comunes y boxes con mas privacidad. \r\nrecomendable 100%!!!"
+    }
+  ]
+}

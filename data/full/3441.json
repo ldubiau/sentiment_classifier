@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "3 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "procedencia", 
+      "text": "Me pareci\u00f3 que el lugar no est\u00e1 tan lindo como otras veces que fui, pero de todos modos sigue siendo una buena opci\u00f3n. Es tranquilo, chiquito, con mesas en la calle, y bastantes opciones para comer."
+    }, 
+    {
+      "date": "19 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "avedepresa", 
+      "text": "Masomenos... Aspecto general de bar. Cocina que \"zafa\" sinembargo he encontrado, a mi criterio, una muy buena pizza ! Vuelvo y pido pizza, definitivamente."
+    }, 
+    {
+      "date": "30 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "procedencia", 
+      "text": "Muy ricas pizzas, muy buena atenci\u00f3n, un lugar muy lindo!! con mesas en la calle para las noches de verano, y muy buen ambiente, el lugar es chiquito y c\u00f3modo! super recomendable!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "SoledadB", 
+      "text": "Muy bueno! las rabas y las pastas buenisimas! lo unico malo, no tenian lima para caipiroska!"
+    }
+  ]
+}

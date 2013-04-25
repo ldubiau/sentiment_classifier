@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "6 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Efficient", 
+      "text": "El lugar esta muy descuidado, sobre todos las mesas de la vereda. Es poco higienico y estan mas preocupados por el delivery que por atender a los comensales. Respecto de la comida, uno va con pocas expectativas, pedi un sandeich de lomo con cebollas caramelizadas y eran unas cebollas con toneladas de azucar. No lo recomiendo"
+    }, 
+    {
+      "date": "10 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "guscuisine", 
+      "text": "El tiempo pasa y calidad baja, ese es el reflejo de Panini hoy.\r\nSuelo o solia pedir casi todos los dias delivery de alli, pero la calidad va en decadencia. El servico deja mucho que desear, no te manda ni lo basico cuando lo pedis, sal, condimentos etc y aparte demora demaciado.\r\nLa comida en otras epocas era realmente buena , hoy en dia lo unico rescatable son las empanadas de lomo y creo haber probado toda la carta.En cuanto a la atencion en el lugar  las camareras o trabajan mucho tiempo o no se que les pasa porque siempre tienen caras largas.\r\nPongansen las pilas y vuelvan a lo que eran"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "juanmam", 
+      "text": "La comida al igual que la atencion me parecio muy buena,tambien cabe resaltar que es barato en relacion a la comida que ofrecen. El menu incluye Plato principal, (yo pedi Malfatis con una salsa de tomate natural, albahca y queso provolone)+bebida+postre o cafe! \r\nLa ambientacion del lugar, me parecio excelente, muy calido, la madera hace que sea un lugar muy agradable, y los indivuales de jean lo hace muy original.\r\nIre un dia a la noche y comentare de nuevo!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rc07", 
+      "text": "Muy rico!!! vuelvo seguro!!!"
+    }, 
+    {
+      "date": "1 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mloren", 
+      "text": "Comi muy bien por $26 pesos, tenia 3 opciones de platos (Excelentes), podia elegir entre muy buenos postres o tomar un cafe, y obviamnete la Coca inlcuida. Proximamente volvere, muy recomendado la verdad!"
+    }, 
+    {
+      "date": "23 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Catamn", 
+      "text": "Es un lugar muy agradable, la atencion y la comida fueron excelente. Carta muy amplia y precios bastante accesibles. MUY RECOMENDABLE!!! Empezare a ir mas seguido!"
+    }, 
+    {
+      "date": "22 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LUCIATA", 
+      "text": "Un lugar muy c\u00e1lido atendido por sus due\u00f1os!, la comida riqu\u00edsima, la atencion barbara! lo recomiendo!!!!!!!!!!"
+    }
+  ]
+}

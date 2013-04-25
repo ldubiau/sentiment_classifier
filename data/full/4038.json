@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "3 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nebrija", 
+      "text": "Un lugar muy tranquilo para distenderse el mediod\u00eda. Est\u00e1s como en tu casa. El personal se esfuerza para no hacer demasiado ruido mientras prepara la comida. El pastel de vegetales bien preparado y las frutas muy sabrosas."
+    }, 
+    {
+      "date": "17 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Doro", 
+      "text": "Lindo lugar para ir al medio dia,comida casera, bien atendido y con precios muy razonables."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Quenita", 
+      "text": "El pastel de vegetales increible, el alfajor buenisimo como siempre. El lugar muy agradable, la verdad que almorzar en Chez Marie es siempre un placer."
+    }, 
+    {
+      "date": "8 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "flor_de_lis", 
+      "text": "El lugar esta muy bien decorado en los tonos morados, atencion muy correcta, comida deliciosa e indudablemente casera por un precio mas que razonable.  La chef simpatiquisima se acerco a la mesa a saludarnos y a preguntar como habia estado todo"
+    }
+  ]
+}

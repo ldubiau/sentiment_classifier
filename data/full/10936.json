@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "28 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Cecilia5", 
+      "text": "No lo recomiendo, la verdad es una lastima porque esta nueva sucursal de Pilar, mancha la trayectoria de la firma.\r\nEsperamos 40min una mesa a pesar de tener reserva. El plato de pasta que pedimos demoro otros 40 min en llegar y estaba helado. Pedimos que lo calienten y despues de 15min trajeron el plato de spaguettis que por ser restaurante italiano era una verguenza. Todos los fideos cortados de 2cm, pegados y mal cocidos. Muy malo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "insa", 
+      "text": "la verdad nos decepcionamos mucha espera muy ruidoso no se hay lugares muchos mejores por panamericana por ejem \"SU CASA\""
+    }, 
+    {
+      "date": "19 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Rilly", 
+      "text": "Muy buen lugar. Muy buen servicio, buena comida.\r\nRecomendaci\u00f3n: Mejorar la ac\u00fastica, sal\u00f3n muy ruidoso"
+    }, 
+    {
+      "date": "8 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Oscarlitos", 
+      "text": "Nueva sucursal de la cadena, con excelente decoracion y ambientacion, en un lugar de privilegio, casi como un hotel 5 estrellas. Cenamos a la carta unas pastas riquisimas servidas en su justo punto, fuccile a la scarparo, vinos a razonable precio y postres dulces para finalizar una agradable cena. Un toque de color son los cantos de \"tanti auguri\" recitados por los mozos en las distintas mesas de cumplea\u00f1os."
+    }, 
+    {
+      "date": "23 Abr 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pach", 
+      "text": "La decoraci\u00f3n del lugar es muy linda. De d\u00eda es muy luminoso ya que tiene  un gran ventanal en la parte trasera del resto que da a un patio. Y por la noche el lugar es igualmente muy agradable. La comida no es algo que destacar\u00eda del lugar, pero son correctas en sabor y coccion"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "caroalonso", 
+      "text": "Muy ricos los fuccile scarparo. Los recomiendo"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "LupitayD", 
+      "text": "Un lugar super acogedor. La comida y la atenci\u00f3n muy buena! Lo recomiendo"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tule", 
+      "text": "Recomiendo Un Lugar en el arroyo, nos es caro, porque el precio por persona, tambien incluye poder pasar el dia en el lugar, y la merienda. El lugar es hermoso!\r\nVale la pena ir!!"
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fulana", 
+      "text": "Me encant\u00f3 pasar el d\u00eda de isla, es un lugar incre\u00edble, muy c\u00e1lido con una muy buena atenci\u00f3n. Para alejarse de la ciudad y disfrutar de la naturaleza, la rica comida y una merienda !\r\nMuy recomendable !!!"
+    }
+  ]
+}

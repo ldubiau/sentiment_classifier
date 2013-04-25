@@ -1,0 +1,418 @@
+{
+  "malos": [
+    {
+      "date": "5 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "juanitua", 
+      "text": "Cero respeto hacia el cliente. Nos tuvieron m\u00e1s de una hora esperando por un plato de ceviche mixto que cost\u00f3 $100 y no era tan abundante. El mozo que nos tom\u00f3 el pedido no apareci\u00f3 m\u00e1s, tal vez porque no quer\u00eda dar la cara luego de semejante maltrato. Te atienden con cara de perro. Ni siquiera se les ocurri\u00f3 ofrecernos un descuento por lo ocurrido. No vayan, en la zona hay otros restaurantes de comida peruana mejores, m\u00e1s baratos y donde te atienden como los dioses (como Carlitos)."
+    }, 
+    {
+      "date": "19 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Colitoo", 
+      "text": "La atenci\u00f3n me pareci\u00f3 regular, el sal\u00f3n es grande, se llena y demoran en atender y traer el pedido. Es ruidoso y la iluminaci\u00f3n es mala. La carta de vinos pobre y la cerveza cara. La comida es abundante pero regular de sabor."
+    }, 
+    {
+      "date": "23 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "carbunclo", 
+      "text": "Comedero de y para la comunidad peruana, regular atenci\u00f3n, mala comida, al menos en nuestro caso, ambiente ruidoso y precios no tan bajos como uno esperar\u00eda, carta de vinos pobre y cerveza cara.\r\nSi te gusta la comida peruana como es mi caso, hay varias mejores opciones."
+    }, 
+    {
+      "date": "24 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Keral277", 
+      "text": "Tal vez por haber ido una sola vez se pueda creer que no cuento con lo suficiente para la critica de este restaurante; sin embargo, s\u00e9 bastante de comida peruana en Bs. As. y del Per\u00fa. La pollada que ped\u00ed fue realmente sin sabor, 2 rodajas de papa cocida y un pedazo de pollo, no era ni vistoso ni sabroso el plato y con el precio de los platos y de las bebidas que pedimos. Realmente no lo vale. No volv\u00ed m\u00e1s..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Guisela", 
+      "text": "Los precios son ridiculos de lo caro, los mozos son mal educados, el ambient no es gran cosa, no lo recomiendo."
+    }, 
+    {
+      "date": "25 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "dublincarol", 
+      "text": "Muy sabroso todo, los platos son para compartir, excelentes las papas a la huanca\u00edna y el pollo agridulce. Un poco zarpado el suspiro lime\u00f1o a $45."
+    }, 
+    {
+      "date": "12 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "amicelli", 
+      "text": "fui ayer con mi pareja y una amiga.. el menu es muy grande, pero dominado por salteados y fideos chinos. la comida estaba rica, muy abundante! (pero los precios tambien son altos -> tenes que compartir) \r\nel ambiente es un poco triste, luz super blanca y parece m\u00e1s a un comedor diario. no es para una cena romantica."
+    }, 
+    {
+      "date": "1 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Koky_peru", 
+      "text": "muy buena la comisa, un poco cara ...pero rica"
+    }, 
+    {
+      "date": "18 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "DanieValentino", 
+      "text": "El mozo que nos atendi\u00f3 nos pon\u00eda mala cara, pedimos un arroz con fideos y vegetales y se olvidaron de poner los fideos, al reclamar lo agregaron al mismo plato, lo pedimos sin el pollo y la carne y no nos modificaron el precio, la comida no ten\u00eda gusto, s\u00f3lo ese plato y una jarra de chicha $100, caro y tuvimos que ir a reclamar la cuenta despu\u00e9s de media hora, no lo recomiendo."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ajfaggiani", 
+      "text": "Concurr\u00ed nuevamente y me sigui\u00f3 pareciendo muy bueno. La carta es extensa y en todos los platos se detallan sus ingredientes. El lugar no es econ\u00f3mico, pero las porciones son enormes, as\u00ed que lo vale. Lo que s\u00ed, conviene pedir primero la entrada y luego el principal, sino pueden venir al mismo tiempo o al rev\u00e9s. En cuanto al ambiente, es austero casi como un bodeg\u00f3n pero amplio y luminoso. Recomiendo la chicha y la limonada, muy ricas y fr\u00edas, y la papa a la Huanca\u00edna, un manjar. Una buena opci\u00f3n en la cocina peruana."
+    }, 
+    {
+      "date": "26 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GABYLENT", 
+      "text": "Fuimos dos parejas y un ni\u00f1o, con nuestra amiga peruana que nos lo recomend\u00f3...el lugar es amplio, la comida rica y abundante, el mozo un poco distra\u00eddo, trajo unas papas fritas calientes antes de la entrada fr\u00eda...Mucha gente, pero se cena y se conversa tranquilos!"
+    }, 
+    {
+      "date": "9 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Guisela", 
+      "text": "No me quejo de la comida, creo que es buena, pero los precios son muy elevados  para el ambiente, al igual que los postres ademas que la cerveza stella cuesta mas que en cualquier restaurant Argentino, bueno en general los precios no se justifican y la atencion es mala, fui 3 veces y siempre los camareros me atienden mal."
+    }, 
+    {
+      "date": "8 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lady_Ryk", 
+      "text": "Luego de un extenso derrotero por restaurantes peruanos, debo decir que Mamani ofrece una de las mejores cocinas peruanas de Buenos Aires. El ceviche, la papa a la huanca\u00edna y el seco de carne, todos deliciosos. Es cierto que quiz\u00e1s los precios  no resultan muy econ\u00f3micos, teniendo en cuenta la austeridad de la decoraci\u00f3n, pero la carta es extensa y hay platos rendidores para compartir y a buen precio. Volver\u00e9 por el suspiro lime\u00f1o que no llegu\u00e9 a probar pero se ve\u00eda buen\u00edsimo. Si te gusta la comida peruana, ten\u00e9s que ir."
+    }, 
+    {
+      "date": "11 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "vinbruns", 
+      "text": "El lugar no tiene ning\u00fan gasto en decoraci\u00f3n y los precios son de Puerto Madero. Es un bolichon de presentaci\u00f3n m\u00ednima. Una Heineken de litro 38 pesos?? Eramos 8, pedimos 5 cervezas, 190 pesos solo en cerveza. La atenci\u00f3n es normal, los precios car\u00edsimos para lo que ofrecen. La comida es buena, pero no mejor que otros restaurantes peruanos que no te esquilman. Un ceviche 100 pesos o m\u00e1s. Los precios son rid\u00edculos. Helado: 32 pesos!! Comimos poco, tres entradas, dos platos principales y 4 postres entre 8. Sali\u00f3 600 pesos!!! No volver\u00eda nunca m\u00e1s. Hay muchos mejores restaurantes por ese precio."
+    }, 
+    {
+      "date": "19 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Elver", 
+      "text": "Todo un tema... yo sali conforme.\r\nLo destacable de este lugar es que los platos son hiper abudantes.\r\nPedimos medio pollo a las brasas y era para 2 personas de excelenet comer. \r\nDe entrada probamos un tamal de cerdo. \r\nLa comida es buena/rica, las porciones hiper abundantes.\r\nLos precios son excesivos... si no fuera por la cantidad que sirven se asemejariana puerto madero o las ca\u00f1itas, con la dif que estas en Once.\r\nLos mozos estuvieron atentos y fueron eficientes sin molestar.\r\nEl lugar es un bodeg\u00f3n familiar de peruanos que esta lleno.\r\nBueno en general salvo x los precios"
+    }, 
+    {
+      "date": "26 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "fanshawe", 
+      "text": "demasiado caro, el ambiente es feo, no te atienden bien. pero sobre todo, extremadamente caro. platos de 70 pesos en un antro que no merece. pedimos dos platos y una cerveza y pagamos casi 200 pesos"
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "malegria", 
+      "text": "\u00bfQu\u00e9 esperar de Mamani? Buena comida peruana, platos abundantes, suculentos (casi todos para compartir) y precios c\u00f3modos para los que comparten (salvo la cerveza a $32, que no da!!). No es cool, no es \"fusi\u00f3n\", no es gourmet. Respeta ese toque m\u00e1gico de la comida peruana: \"si un plato tiene lomo, arroz y papas fritas, no tiene que ser cool, tiene que ser bestial en el mejor sentido\". En Mamani la comida es Bestial! Un gigantesco comedor familiar lleno de familias, muchas de ellas peruanas ideal para darse panzazos y obligarse a volver caminando a casa para que baje!"
+    }, 
+    {
+      "date": "21 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "mandarine", 
+      "text": "No me gust\u00f3. Lo \u00fanico bueno fue la comida abundante, cada plato es casi para tres personas. Nada interesante la comida. El ambiente p\u00e9simo. Televisores por todos lados. Atenci\u00f3n, mala. No lo recomiendo."
+    }, 
+    {
+      "date": "16 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "lovelyrita", 
+      "text": "Platos muy abundantes, para compartir. \u00c9ramos 5 y pedimos 3 platos y una entrada y aun as\u00ed sobr\u00f3. Recomiendo especialmente el pollo al mensi (igual tengo entendido que todos los platos de pollo de este lugar son increibles) y el tacu tacu. El men\u00fa ten\u00eda much\u00edsima variedad."
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "morroncito", 
+      "text": "La comida es muy abundante, el lugar tiene bastante gente, aunque en esa oportunidad no rebalsaba. No es lujoso, pero tampoco descuidado.\r\nSe nota que hacen bien la comida peruana, por que hay varias familias peruanas que viven o visitan argentina y lo eligen y eso me gratifica personalmente.\r\nEl mozo nos indic\u00f3 todos los platos, charl\u00f3 con nosotros, nos trataron muy bien y quedamos muy satisfechos.\r\nTomamos un jugo de frutas con la comida, exquisito. No nos qued\u00f3 lugar para el postre, por que los platos son muy abundantes. Ba\u00f1os muy bien. Volver\u00eda."
+    }, 
+    {
+      "date": "11 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "tresnegro", 
+      "text": "Muy recomendable. Lugar enorme donde la comunidad peruana del Abasto come su comida real. Ir en grupo, platos enormes para compartir. Los mozos no tienen tiempo para orientar, ir informado. Pedir cerveza o chicha. Anticuchos inmejorables."
+    }, 
+    {
+      "date": "14 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Juancito86", 
+      "text": "Muy buena comida, carta variada, porciones abundates.\r\nRecomendable para ir en famila en la semana.\r\nMamani empezo como muchos resto-delivery de comida peruana de la zona del abasto cuya principal clientela es la colectividad peruana que busca comer comida autoctona de calidad a precios razonables.\r\nEs muy distinto a otros Resto-Peruano de la zona de Palermo, no es intimo ni se destaca por su atencion(salvo en la semana). Excelente lugar para descubrir la cocina peruana en un restaurant tipico."
+    }, 
+    {
+      "date": "10 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "CeciyCris", 
+      "text": "La comida buena, las papas a la Huancaina increibles!! Muy buenas. El ambiente muy ruidoso. Los mozos atentos sin estar encima."
+    }, 
+    {
+      "date": "2 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "TatyCa", 
+      "text": "Muy abundante y buena relacion con el precio. \r\nEs muy bueno para compartir  y asi probar varias cosas.\r\nLo recomiendo."
+    }, 
+    {
+      "date": "28 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "SergioZimerman", 
+      "text": "El lugar siempre estalla de gente, eso m motivo a ir. El trato no es el mejor o el m\u00e1s organizado al menos. Siempre hay gente afuera y no hay lista de espera. El ambiente es de un restaurant familiar, con un salon muy grande. De la atenci\u00f3n no sobresale nada. La limonada era muy sabrosa y refrescante y el cordero estaba en un buen punto, pero no sobresaliente."
+    }, 
+    {
+      "date": "8 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Esperaba muchas m\u00e1s de este bodeg\u00f3n de comida peruana y oriental que tanto me hab\u00edan recomendado. No pude disfrutar de ese sabor aut\u00e9ntico que he probado en otros restaurantes peruanos de bsas. El ambiente es familiar, popular y similar a un gran comedor con showmatch de fondo en las tv\u00b4s y mucho ruido. El servicio distante, poco predispuesto para ayudar, pero cumplidor con la comida. Los platos, si bien son para compartir, no son nada econ\u00f3micos. Aji de Gallina solo aceptable. Jalea mixta con 2 camarones y el rest tent\u00e1culos. Resultado Final: Flojito!"
+    }, 
+    {
+      "date": "20 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marianojaja", 
+      "text": "Vasto restaurant familiar peruano, con una carta gigantesca, generosa en opciones de la comida de Per\u00fa y tambi\u00e9n oriental. Las porciones son muy abundantes. Al menos una vez hay que probar el famoso \"pollo a las brasas\" aunque otras alternativas sean m\u00e1s atrayentes. Riqu\u00edsimos anticuchos. La atenci\u00f3n no es muy organizada. La carta llama a volver."
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Neyba", 
+      "text": "la abundancia de los platos es IMPRESIONANTE, son gigantes y muy buenos, el servicio es relativamente bueno y el ambiente es tranquilo.. y para evitar las multitudes es mejor ir dentro de la semana.. vale la pena!"
+    }, 
+    {
+      "date": "12 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "aspirineta", 
+      "text": "Vali\u00f3 la pena ir por el rico ceviche. El lugar es tipico peruano, bastante sencillo, pero muy ruidoso y con las mesas muy amontonadas. El servicio fue lento, pero finalmente la comida fue muy buena y bien en precio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gonbsas", 
+      "text": "Fui con mi novia. Antes de entrar, nos asustamos por los precios publicados afuera. Preguntamos si los platos eran para compartir y nos djeron que si asi que pedimos un salteado con arroz, pollo, cerdo y verduras y papas fritas para \"completar\". Entre los 2 comimos la mitad. Muy rico y demasiado abundante. Volveremos!"
+    }, 
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Zielor", 
+      "text": "El mejor pollo frito que hay! La \"minuta\" pollo brosther es suficiente para 2 personas! Viene con papas fritas y ensalada. Nos encant\u00f3 la jarra de maracuy\u00e1 frost, es para 3 a 4 personas pero eramos 2... Ped\u00ed tallarines de verduras, estilo chino pero mucho m\u00e1s mejor que la comida china en Barrio Chino (soy china y no como all\u00ed). Las porciones son MUY grandes - los fideos ten\u00edamos que llevar. Vamos a volver seguro para probar otras cosas, como sopa de carne, jalea mixto, cerviche etc."
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nuelita", 
+      "text": "Excelente comidaaaaa!!!! Todos los platos son para compartir..."
+    }, 
+    {
+      "date": "9 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Clientedeluxe", 
+      "text": "es excelente Mamani, voy a cenar muy seguido, lo unico que quitaria es a la encargada por su escasa amabilidad, basta con llamar por tel y escucharla siempre con el mismo tono antipatico diciendo solamente hola... que pena que lugares tan positivos tengan siempre algun encargado poco cordial. La comida es deliciosa y el lugar es agradablemente amplio y calido."
+    }, 
+    {
+      "date": "25 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "fobinx", 
+      "text": "La comida es muy buena. Los platos con mariscos y el ceviche son caros, pero hay opciones como el pollo a la brasalos salteados de lomo , o el arroz chaufa que son exquisitos y comen varios sin problemas. La primera vez nos recomendaron pachamanca a la olla y quedamos muy satisfechos. la chicha morada es buena, pero hay mejores. La atencion es correcta pero los platos tardan un poco."
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "debiviki", 
+      "text": "siempre encuentro una escusa para ir a este restaurante, la comida ahi es rikisima y abundante, si kieren comer algo riko, vayan y prueben, super recomendable, va muchisima gente hasta lso dias de semana! tardan un poco con los platos, pero vale la pena la espera esta todo bien sazonado y caliente y como ya dijeron son platos para compartir! no me parece caro, si kieren comer algo barato comanse un choripan o vayan a las cadenas de comida! salu2"
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "carlostevez", 
+      "text": "A ver... el que dice que Mamani es caro es porque no supo pedir... no esperen ir a un lugar de moda onda \"peruano fusion\"... esto es un lugar donde van a comer los peruanos, tipo bodegon... te das cuenta porque en las mesas abunda la Inka Cola y la Chicha Morada... yo siempre que voy pido un pollo y cuarto a las brasas (+fritas y ensalada)  y comemos 3 personas perfecto.... eso es menos de 100 pesos... lo mismo con la jalea mixta que comen 2 tranquilos... seamos sinceros y no nos hagamos los interesantes... critiquemos el ambiente y el servicio pero nada mas, la comida esta muy bien"
+    }, 
+    {
+      "date": "26 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Gabolingui", 
+      "text": "Tardan en atender pero vale la pena, la comida es hiper-abundante por lo que el precio que se paga se justifica. Casi todos los platos son riqu\u00edsimos y tal cual he probado en Per\u00fa... digo \"casi\" porque por ejemplo los anticuchos nada que ver, no son ni ricos. Pero el resto es delicioso, especialmente la sopa wan tan :-D"
+    }, 
+    {
+      "date": "20 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Apardo", 
+      "text": "Muy buena comida ... y eso es lo que mas importa de este lugar..."
+    }, 
+    {
+      "date": "11 Jun 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "carlos gardel", 
+      "text": "Lo \u00fanico bueno fueron los platos, super abundantes y bien preparados. La atenci\u00f3n del mozo un desastre, yo soy gastron\u00f3mica y no puedo entender c\u00f3mo trajo ToDOs los platos a destiempo generando que algunos estuvieramos comiendo mientras otros no y viceversa, sumado a su eterna cara larga y mala onda cada vez que lo llam\u00e1bamos, para lo cual hab\u00eda que levantar el brazo m\u00e1s de una vez. Le pedimos pan y nos dijo que no hab\u00eda (inconcebible), le pedimos unas papas fritas que nunca llegaron. Para lo abundante de los platos los precios no me parecieron mal aunque un poco excesivos si tenemos en cuenta el servicio mal\u00edsimo que tuvimos, la falta de voluntad del camarero y su  deficiente c\u00e1lculo de los platos y lo que le ped\u00edamos. Me quedo con Status. No vuelvo."
+    }, 
+    {
+      "date": "1 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "anela", 
+      "text": "La comida buena, las porciones grandes: un plato sirve para 2 personas, el lugar bien ubicado: justo detr\u00e1s del Abasto Shopping.\r\nEl \u00fanico comentario negativo que hay que hacer del lugar es que las mesas las limpian con un trapo usado muchas veces y queda el olor."
+    }, 
+    {
+      "date": "30 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "famanu", 
+      "text": "Es un gran bodeg\u00f3n, no es para salidas rom\u00e1nticas pero, si te gusta el marisco y la comida peruana te vas a dar un panzada a precios m\u00e1s que razonables. Est\u00e1 abarrotado de peruanos, garant\u00eda de respeto por los sabores originales. Los platos son todos para 2."
+    }
+  ]
+}

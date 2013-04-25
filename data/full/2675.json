@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "24 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "emidestefa", 
+      "text": "que p\u00e9simo lugar! por favorrr. que mala atencion y que mala ambientancion.. bah, no tiene!\r\nnos sentamos en unos sillones rotos! te hundias cuando te sentabas, pedimos tragos y era todos horribles! alchool etilico parecian! al ultimo nos reimaos de lo malisimo que era todo!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "SebUn", 
+      "text": "Un lugar agradable, para comer pizza, tomar algunas cervezas (la canilla libre de 2 hs desde q empezas a comer esta barbara); conversar un rato (hasta q suben la musica) y bailar si se tiene ganas despues de la 1-2 de la ma\u00f1ana. La pizza esta buena, y el ambiente tambien pero el piso de arriba podria estar mucho mejor presentado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Natylau", 
+      "text": "La primera ves que fui, y muy buen lugar, me senti muy comoda"
+    }
+  ]
+}

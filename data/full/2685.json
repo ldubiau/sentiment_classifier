@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "10 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "santiagofabian", 
+      "text": "Muy ricas la pizza de la casa y la de provolone. las pastas aceptables. la atencion correcta y el lugar tipo pizzeria pero un poco modernizado."
+    }, 
+    {
+      "date": "8 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dragi", 
+      "text": "Muy buenas picadas y pizzas. La comida llego a tiempo y bien caliente. Los platos son abundantes y a buen precio."
+    }, 
+    {
+      "date": "24 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "_Romi_", 
+      "text": "Muy bueno, cambiaron toda la decoraci\u00f3n, el servicio mejoro a\u00fan m\u00e1s. Muy buena opci\u00f3n, precios accesibles y comida de buena calidad."
+    }, 
+    {
+      "date": "16 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Clope", 
+      "text": "Mal\u00edsimo. La suprema primero fue hervida y luego puesta a la plancha. Las papas fritas, muy aceitosas, el mozo en las nubes. Un desastre."
+    }, 
+    {
+      "date": "12 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "garrote007", 
+      "text": "comi pizzas, bastante bien un poco lento, el lugar es comun, nada del otro mundo, volveria pero no es de la mejor pizza del mundo ni la peor, lugar normal, comida normal, atencion normal. si estan por villa del parque no es una mala opcion para omer pizzas ni caro ni feo\r\nrecomendable hasta por ahi no mas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "paulispaul", 
+      "text": "Todas las veces que fui con mis amigos y familia  la atenci\u00f3n siempre fue excelente y la comida tambi\u00e9n. \r\nLos que se quejan lo hacen porque el aire es gratis o bien porque tienen problemas psicol\u00f3gicos que deber\u00edan atender urgentemente."
+    }
+  ]
+}

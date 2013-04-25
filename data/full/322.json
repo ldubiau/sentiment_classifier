@@ -1,0 +1,608 @@
+{
+  "malos": [
+    {
+      "date": "29 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "apolonio", 
+      "text": "Fui a festejar mi cumplea\u00f1os con la idea de comer pulpo. Ped\u00ed pulpo a la gallega. Un plato car\u00edsimo, pero lo peor fue cuando lleg\u00f3. Eran 8 pedacitos de pulpo con tres papas. Lo devolv\u00ed y me fui sin comer."
+    }, 
+    {
+      "date": "22 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "AMESA", 
+      "text": "Restaurante tradicional del microcentro que en la calidad de su cocina conoci\u00f3 mejores \u00e9pocas. Platos grandes aderezados con salsas muy pesadas, pasta recocida... Particularmente no se lo recomendar\u00e9 a nadie. Una l\u00e1stima ver como algo que fue muy bueno se viene abajo!"
+    }, 
+    {
+      "date": "6 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jabugo", 
+      "text": "Llegamos al lugar y no hab\u00eda nadie. Nos sentamos donde nos indicaron , contra una pared. Pedimos y vino la entrada de jamon crudo, rico pero no para aplaudir. Luego el pescado y la pasta con una salsa sin alma y de lata. Imperdonable para quie se diga \"mediterr\u00e1neo\". Entr\u00f3 una pareja al lugar y los sientan bien a nuestro lado. Mir\u00e1 que ten\u00edan lugar de sobra. No vuelvo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ARCHITO", 
+      "text": "Realmente hace bastante tiempo que vamos con mi esposo a cenar todos los viernes y nunca no fallo. Desde la atencion de nuestro mozo preferido Abel, hasta la comida, siempre fue impecable. Es una buena alternativa para cenar en el centro en un lugar tranquilo, calido y muy bien atendido por todo el staff. Realmente no les va a desfraudar."
+    }, 
+    {
+      "date": "27 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sovtek", 
+      "text": "Este lugar me genera sensaciones encontradas... En cuanto a la comida no tengo nada que criticarle, todo muy rico, bien preparado y con insumos de calidad. Pero \"algo\" le falta al lugar... si bien tienen el detalle de invitar una copa de bienvenida, la atenci\u00f3n de los mozos resulta un tanto superficial y despreocupada, el ambiente es un tanto ruidoso, m\u00e1s a\u00fan con una de las bocas de aire acondicionada que andaba mal y hac\u00eda su propio ruido. Si consideramos que un plato de pescado ronda en los $140, algunas tuercas habr\u00eda que ajustar. De todos modos, de lo mejor del microcentro. Recomendable."
+    }, 
+    {
+      "date": "22 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Chorizobombon", 
+      "text": "la empanada de at\u00fan normal, las he comido mejores  y mas baratas, la merluza negra excelente, vale lo cara que es; el ambiente y la atencion es excelente. Un detalle es unos pancitos calientes exquicitos que siempre te reponen sin que lo pidas."
+    }, 
+    {
+      "date": "2 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "alefdc", 
+      "text": "Regular, la chernia, estaba un poco pasada, y la salsa, particularmente no me gusto. El sabayon, tenia un gusto a alcohol de mala calidad tremenda. Servicio OK, sin destacar. Carisimo por lo que se recibe a cambio."
+    }, 
+    {
+      "date": "4 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rucula", 
+      "text": "Ideal siempre, y m\u00e1s luego del teatro, se puede conversar, comida excelente, nunca faltan las caricias como copita bienvenida y dulzuras para el cafe, es mi resto en el mundo..."
+    }, 
+    {
+      "date": "3 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elgrankoko", 
+      "text": "Merluza Negra a la plancha con alcaparras, cocinada tal cual fue solicitado, a punto. Porque en Bs As cocinan de mas los pescados??? Excelente. Entiendo varios de los comentarios aqui vertidos pero me parece que para un mediodia en el centro el lugar es muy bueno, comida aceptable con algunos puntos altos, como esta merluza negra."
+    }, 
+    {
+      "date": "21 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fleming", 
+      "text": "Es un buen restaurant, cl\u00e1sico, algo pretencioso, bien atendido y la comida es buena, abundante y llega a tiempo.Puede pedirse vino en copa. Los postres no son muy buenos."
+    }, 
+    {
+      "date": "13 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "maxote66", 
+      "text": "La comida es muy buena, mejor que en las otras sucursales; el ambiente est\u00e1 como algo avejentado...tiene el estilo de los restaurants de antes para m\u00ed...no me gusta pero hay una atm\u00f3sfera apta para hablar de negocios y tratar temas de ese estilo. La atenci\u00f3n, razonable, algo recargada. En la zona quiz\u00e1 sea una buena alternativa en pastas. No estoy tan convencido como para recomendarlo.."
+    }, 
+    {
+      "date": "20 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "darro1970", 
+      "text": "Lugar completo, muy se\u00f1orial"
+    }, 
+    {
+      "date": "15 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Rospide", 
+      "text": "En l\u00edneas generales , esperaba mas de este restaurant.Ped\u00ed pastas .La comida buena pero nada especial.El servicio fue correcto.El ambiente tranquilo."
+    }, 
+    {
+      "date": "1 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "dactork", 
+      "text": "Impecable. La comida es muy buena y generosa en cuanto a cantidad. Pedimos rabas, centolla sorrento y fritata de mariscos. Cuando llegan las fuentes con lo solicitado, el mozo trae platos calientes que conservan la temperatura de la cocina. El servicio es excelente, muy atento al comensal y eficiente. La mesa impecable en cuanto a manteler\u00eda y vajilla. La decoraci\u00f3n del sal\u00f3n en madera provee un ambiente de tranquilidad sumado a una suve m\u00fasica de fondo, que no invade la conversaci\u00f3n. Estacinamiento al lado. Vigilancia al salir. Para cerrar perfecto un s\u00e1bado despu\u00e9s del cine o teatro."
+    }, 
+    {
+      "date": "30 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "plin", 
+      "text": "fuimos en familia a cenar antes de ir al teatro. el lugar est\u00e1 redecorado desde la fachada hasta los interiores. el men\u00fa est\u00e1 orientado a las pastas caseras y la comida de mar. es atractivo y la materia prima muy buena. buena opci\u00f3n para comer sobre avenida corrientes."
+    }, 
+    {
+      "date": "21 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Joco", 
+      "text": "La comida es muy rica, especialidad, pastas, mariscos y risottos. Muy buena calidad de los productos, bien condimentados (por fin se siente el azafran en la comida)y con buen punto de coccion. Recomendable para el mediodia para quedar bien en una comida de negocios. Muy muy buena atencion y servicio. Lo recomiendo"
+    }, 
+    {
+      "date": "17 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Lugar tradicional de la calle Corrientes que se ha mantenido a trav\u00e9s del tiempo con muy buena comida, buen servicio y ambientaci\u00f3n. Buena opci\u00f3n a la salida de espect\u00e1culos para charlar tranquilo sobre lo visto. Recomendable"
+    }, 
+    {
+      "date": "21 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Nebrija", 
+      "text": "La comida estuvo buena pero demasiado condimentada para mi gusto. Se nota que son productos de buena calidad. Muy buena atenci\u00f3n y el ambiente fue readecuado para poder conversar con tranquilidad, muy agradable. Lo recomiendo para un almuerzo de trabajo."
+    }, 
+    {
+      "date": "2 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "clasico del centro, de buena calidad y servicio. buenos mariscos y pastas. ameno para charlas tranquilas,no machi? para conocer pero tal vez no volver tan seguido por la competencia de la vuelta que me parece de mejor prestacion, servicio y calidad. pedir recomendacion en los platos es buena opcion."
+    }, 
+    {
+      "date": "12 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "fedcar", 
+      "text": "Buen lugar algo ruidoso la comida buena un poco cara, los vinos exageradamente caros"
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "9453", 
+      "text": "Ideal para ir un s\u00e1bado a la noche a la salida de un teatro. Ambiente tranqui con comida y servicio de primera. Los precios acordes con el lugar. Vuelvo"
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GAM", 
+      "text": "La carta es muy variada. Muy buenas pastas y el pollo sugerido excelente. La degustaci\u00f3n de postre de buen nivel pero en un escal\u00f3n m\u00e1s abajo que el principal. Buen ambiente para un s\u00e1bado a la noche."
+    }, 
+    {
+      "date": "27 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pbuceta", 
+      "text": "Muy interesante carta, muy variada. Muy buenas pastas. Los precios son un tanto elevados aunque la calidad tambien es alta. El ambiente es formal."
+    }, 
+    {
+      "date": "15 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Fripp", 
+      "text": "El ambiente es muy sobrio, con mesas grandes y espaciadas. El \u00fanico problema que veo es la iluminaci\u00f3n. Tienen luces dicroicas que seg\u00fan como est\u00e9 colocada la mesa alumbra un sector si y el otro no. La atenci\u00f3n es buena aunque ser\u00eda excelente si no estuvieran los mozos tan encima. Acompa\u00f1an la entrada con jerez y al final con lemoncello. Los platos son abundantes y de primera calidad. Las gambas estaban para pedir m\u00e1s. El precio es entre razonable y alto."
+    }, 
+    {
+      "date": "5 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "GonzaG", 
+      "text": "Muy Correcto y muy sobrio en todo. Comida, ambiente y precio, servicio. Neutro. Blanco o negro, o lo ama o lo detesta. Ideal para negocios, no le pida m\u00e1s. Para ir con amigos olv\u00eddelo salvo que sea alguna salida ultra formal y cl\u00e1sica \"ya que estamos en el centro...\""
+    }, 
+    {
+      "date": "14 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "HGR111", 
+      "text": "La atenci\u00f3n es esmerada. Cuidan el detalle. La comida si bien todos pedimos carne, se la complicamos un poco ya que algunos pidieron muy cosidos otros a punto otros bien jugosos, y entre ellos con sal, sin nada de sal y todo fue tal como lo esper\u00e1bamos, los precios son un poco elevados, pero vale la pena, volver\u00eda."
+    }, 
+    {
+      "date": "23 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Simulador", 
+      "text": "En general un buen lugar para almorzar, la atenci\u00f3n es buena y la comida estupenda."
+    }, 
+    {
+      "date": "23 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mau", 
+      "text": "Excelente para reuniones laborales. La atenci\u00f3n no fue mala, pero la maitre tuvo cosas extra\u00f1as, conversaci\u00f3n de ejmplo: cliente: no vamos a tomar vino, ella: ah ! de hecho, ya les estaba retirando las copas (??????????) en fin. \r\nEs un lugar correcto (en cuanto a ambiente), buenas porciones y precios bastante bien (de hecho me sorprendi\u00f3)."
+    }, 
+    {
+      "date": "6 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PICOMONI", 
+      "text": "Un clasico de B.A.City . Comida buena : muy buenos mariscos , y servicio sobrio . Para conocer ."
+    }, 
+    {
+      "date": "19 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Talisker", 
+      "text": "Pre\u00e7o muito caro pela comida servida. Apesar de ser uma por\u00e7\u00e3o satisfat\u00f3ria, os frutos do mar n\u00e3o eram frescos, os camar\u00f5es min\u00fasculos, os menores que j\u00e1 comi na vida, incr\u00edvel! O ambiente \u00e9 cl\u00e1ssico da cidade. N\u00e3o pretendo voltar."
+    }, 
+    {
+      "date": "8 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PuraMalta", 
+      "text": "El lugar tiene buenos platos y la atencion es razonable es un tipico restaurante de  la city."
+    }, 
+    {
+      "date": "16 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "megf26", 
+      "text": "El lugar es muy lindo, la comida muy buena, un lugar de categor\u00eda."
+    }, 
+    {
+      "date": "17 Sep 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "TheFox", 
+      "text": "La comida es buena, pero la atenci\u00f3n muy lenta y el restaurante esta semi vac\u00edo, no me explico tanta tardanza.\r\nPor lo que es, los precios son muy excesivos. No recomendable."
+    }, 
+    {
+      "date": "10 Jun 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mcatalan", 
+      "text": "Me parecen muy caros los pescados."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "rest\u00f3 tradicional porte\u00f1o con ambiente se\u00f1orial y agradable donde sirven excelentes pastas; me gustaron much\u00edsimo las cintas con bolognesa."
+    }, 
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lmartin74", 
+      "text": "excelente comida - muy buena atenci\u00f3n , precios razonables.. lo recomiendo para medios d\u00edas almuerzos laborales, lo mejor del Centro,  la comida llego en 10 minutos.."
+    }, 
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Richard_", 
+      "text": "Uno de los mejores rissoto que probe en Bs As. Arroz tipo Carnaroli cocido a punto y cremoso. Buen servicio. El lugar es un poco ruidoso pero acorde a la zona."
+    }, 
+    {
+      "date": "14 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Catame", 
+      "text": "Como otras veces que he ido, se sigue comiendo muy, pero muy bien."
+    }, 
+    {
+      "date": "15 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rasa", 
+      "text": "Siempre tiene una buena calidad, sin embargo el servicio ha perdido la voluntad necesaria"
+    }, 
+    {
+      "date": "8 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gabilina", 
+      "text": "Es una muy buena opcion. El lugar es muy calido y cuidadoso en los detalles. La comida es excelente, muy bien elaborada y de calidad, especialmente las pastas. La unica objecion es que al acercarnos las cartas, solo se nos ofreci\u00f2 las de los menues promocionales, que por cierto est\u00e0n muy bien, pero creo que ser\u00eca importante dejar que el cliente decida qu\u00e8 opcion prefiere incluyendo la carta tradicional."
+    }, 
+    {
+      "date": "16 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Pastas excelentes con salsas exquisitas hechas con buenos productos e indudable tradici\u00f3n mediterr\u00e1nea en un ambiente tranquilo, se\u00f1orial y muy agradable para extender la charla de sobremesa. Un placer disfrutar de una velada italiana de lo mejor"
+    }, 
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Hilario", 
+      "text": "Es un lugar muy tranquilo y de ambiente distinguido y sobrio. La atenci\u00f3n es muy buena y la calidad de los platos indiscutible. Yo hab\u00eda concurrido otras veces en horario diurno y es m\u00e1s ruidoso. El s\u00e1bado por la noche me sorpendi\u00f3 la tranquilidad del lugar.\r\nComo entrada caliente mos deleitamos con un tapeo mediterr\u00e1neo excelente (vieras, calamare-tis y gambas). La trucha Sorrento con crema de almendars es un plato digno de recomendar y la paella estaba bien a punto y con una generosa carga de mariscos. Muy recomendable."
+    }, 
+    {
+      "date": "19 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ferdcarv", 
+      "text": "Uma casa cl\u00e1ssica, com uma comida maravilhosa, um atendimento mediano, mas em se tratando de centro de buenos Aires n\u00e3o \u00e9 de se esperar mais.\r\ntalvez um dos melhores em que j\u00e1 tive o prazer de comer."
+    }, 
+    {
+      "date": "30 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Richy", 
+      "text": "Restaurant extremadamente sobrio. Es ideal para almuerzos de negocios. La comida no falla, pero el ambiente suele ser algo ruidoso."
+    }, 
+    {
+      "date": "20 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Flory", 
+      "text": "Recomendable para el almuerzo de negocios.\r\nPlato y atencion fue muy buena y el precio es accesible."
+    }, 
+    {
+      "date": "12 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "9453", 
+      "text": "Si bien los precios son algo salados(debieran ser por la ubicaci\u00f3n menores a los de Sorrento Madero y Sorrento Posadas) la calidad es por lo menos igual y el ambiente es mucho m\u00e1s tranquilo, especialmente de noche. Las pastas y los mariscos, muy buenos. Voy a volver"
+    }, 
+    {
+      "date": "6 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "aniat", 
+      "text": "La ambientaci\u00f3n es sobria y cl\u00e1sica. La atenci\u00f3n del personal es muy buena y las cartas son variadas y tentadoras: tanto la de comidas (pescados, pastas) como la de vinos. \r\nA pesar de que cuando fuimos no ten\u00edan algunas cosas (almejas, centolla fresca, champagne nature) de todos modos lo que comimos fue muy bueno y sabroso. Tambi\u00e9n tienen unos t\u00e9s especiales, en la carta de postres, que son realmente exquisitos (el \"pakistain\", con ese aroma a clavo de olor, es muy recomendable).\r\nUn lugar para comer muy bien. Yo solamente le quitar\u00eda un poco de solemnidad, y para m\u00ed ser\u00eda maravilloso!"
+    }, 
+    {
+      "date": "20 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "la_pasada", 
+      "text": "La pasta es excelente, de lo mejor que prob\u00e9 en la cuidad. Las personas que comieron conmigo, tambi\u00e9n quedaron maravilladas por la calidad de las pastas y los mariscos. El servicio es buen\u00edsimo, muy atentos y respetuosos. Me pareci\u00f3 un poco ruidoso, pero igualmente volver\u00eda a ir mil veces m\u00e1s. Muy recomendable."
+    }, 
+    {
+      "date": "23 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Charls", 
+      "text": "Realmente bueno, un lugar excelente.\r\nVale la pena comer aqu\u00ed.\r\nLo recomiendo totalmente."
+    }, 
+    {
+      "date": "7 Feb 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tcm01", 
+      "text": "La mejor cena en este viaje a Buenos Aires."
+    }, 
+    {
+      "date": "7 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hilda", 
+      "text": "Es una excelente opci\u00f3n en la ciudad, sobretodo para ir con extranjeros que quedan maravillados con la calidad y la variedad de pescados y pastas. Muy recomendable. Los precios no me parecieron excesivos."
+    }, 
+    {
+      "date": "4 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pau32", 
+      "text": "Una excelente opci\u00f3n en pleno centro. Exquisitos platos, variedad y muy buen servicio, sin ser cargosos.\r\nMuy recomendable."
+    }, 
+    {
+      "date": "25 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fabiman", 
+      "text": "Atenci\u00f3n muy correcta, ambiente cl\u00e1sico y precios nada m\u00f3dicos, aunque lo que prob\u00e9 (un impresionante rissotto de camarones) vali\u00f3 hasta el \u00faltimo centavo.\r\nUn lugar tranquilo en plena City.\r\nMuy recomendable."
+    }, 
+    {
+      "date": "9 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fcaballero", 
+      "text": "Muy tranquilo, muy buena atenci\u00f3n, muy buena comida, en un lindo lugar. \r\nMuy buena experiencia. Caro, pero vali\u00f3 la pena."
+    }, 
+    {
+      "date": "24 Ene 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "erizoarg", 
+      "text": "Adem\u00e1s de la comida, que es muy buena hay que mencionar el lemoncello que sabe extraordinario y es elaborado artesanalmente."
+    }, 
+    {
+      "date": "23 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "karyc71", 
+      "text": "Realmente un lugar para descubrir. Se encuentra en plena city porte\u00f1a, ideal despues del teatro. \r\nLa atenci\u00f3n inmejorable y la calidad insuperable."
+    }, 
+    {
+      "date": "4 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "abroad", 
+      "text": "Servicio excelente, muy buena atenci\u00f3n, bastante variedad. Muy recomendable."
+    }, 
+    {
+      "date": "10 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Francin", 
+      "text": "La calidad de la comida es muy buena, hay que ir con mucho tiempo porque tardan demasiado."
+    }, 
+    {
+      "date": "10 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sebastin", 
+      "text": "El menu pasta per tutti es una muy buena opci\u00f3n para la cena.\r\nLa atenci\u00f3n es resaltable y los platos abundantes."
+    }, 
+    {
+      "date": "13 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lau77m", 
+      "text": "Pescado sumamente fresco.\r\nAtenci\u00f3n intachable.\r\nUn lugar para cenar tranquilo."
+    }
+  ]
+}

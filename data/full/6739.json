@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Lamentablemente bajo bastante la calidad de la comida. Encima ya no hacen mas pan arabe. Las fatay de muzzarella y queso son muy ricas. Las de carne tienen mucha masa y poco relleno."
+    }, 
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "anela", 
+      "text": "La atenci\u00f3n es excelente los chicos son muy educados. Las porciones son grandes pero la comida no es rica, he probado mejores por lo menos con mas sabor. \r\nCuando fui estaban sacando del horno el fatay pero lo dem\u00e1s que ten\u00edan exhibido parec\u00eda tener tiempo en el mostrador y no se ve\u00eda apetitoso."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Oct 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Seguimos pidiendo fatay con regularidad. Cuando hay pan fresco tambien es muy bueno."
+    }, 
+    {
+      "date": "30 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "suarezbox", 
+      "text": "Pase de casualidad y me tent\u00f3 la austera y despojada ambientaci\u00f3n, pense\u00b4q solo era delyvery ya q nunca vi el restaurante... muy buenas las fatay de carne, queso y verdura! excelente las hojitas de parra."
+    }, 
+    {
+      "date": "5 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nikko1974", 
+      "text": "Buenisimo este lugar. No se pierdan los falafel llenos de cilantro y las hojas de parra con bastante limon! Las fatay de carne muy ricas tambien."
+    }
+  ]
+}

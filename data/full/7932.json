@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "8 Jun 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Becla", 
+      "text": "Este lugar era una cosa.. .Se comenz\u00f3 a pasar de boca en boca que era muy bueno, se comenz\u00f3 a llenar y todo cambi\u00f3. Siempre que voy pido la pesca del d\u00eda, a la plancha (antes ven\u00eda un buen lomo de pescado, blanco, firme, carnoso y sabroso). Ayer me trajeron un filete,  que se desarmaba todo. Y eso que la chica que atiende me conoce y, como ya me paso que las ultimas veces no com\u00ed muy bien, le hcie cuantas recomendaciones,, inutiles por cierto. Hac\u00edan 4 grados afuera y 2 grados bajo cero ah\u00ed adentro, y el olor a comida estaba peor que nunca.Fue mi despedida, lamentablemente. No es mas lo q era!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Al arroz le falt\u00f3 para estar a punto. El tapeo corresponde s\u00f3lo  al men\u00fa fijo, sino cada cosa va por separado. La atenci\u00f3n no se destaca."
+    }, 
+    {
+      "date": "19 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ms.pepper", 
+      "text": "Me encant\u00f3! Las entradas riqu\u00edsimas! no escatiman con los ingredientes, los sabores de las comidas se sienten...la pesca del dia excelente. La comida es abundante (salis rodando!!!!)\r\nEl ambiente es tranquilo, super silencioso, comes tranquilo...\r\nLo \u00fanico malo que tiene son las mesas...muy chiquitas, parecen de cafe!"
+    }, 
+    {
+      "date": "7 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sage", 
+      "text": "Comida rica en abundancia, a un precio razonable. Vino inclu\u00eddo. Postres muy bien logrados.\r\nPunto a mejorar: las mesas. Son mesas de bar (muy chicas) y su ubicaci\u00f3n en el sal\u00f3n, deber\u00edan dejar m\u00e1s espacio entre una y otra."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "juanost", 
+      "text": "Impresionante la pesca del d\u00eda! Lo mejor que he probado! Pedimos gambas, tortilla y rabas. Todo de primera!! La carta de vinos podr\u00eda mejorar y los postres son regulares. Pero a quien le importa?? Muy recomendable el arroz y el rabo una marca registrada. Mesas muy chicas y bastante pegadas unas a las otras."
+    }
+  ]
+}

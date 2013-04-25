@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "23 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "netipep", 
+      "text": "El lugar es lindo pero por el precio y la ubicaci\u00f3n la comida no es buena. Si bien la carne no estaba mal (pollo, pescado y bife), los acompa\u00f1amientos no eran de calidad. Las papas estaban crudas, el morr\u00f3n era de lata y la panceta era p\u00e9sima, se notaba que era un fiambre barato simil panceta. Son detalles que no se deber\u00edan descuidar y deslucen el plato. Parece un lugar para comer una picada y una cerveza m\u00e1s que para cenar bien."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "DelDel", 
+      "text": "Buen lugar para ir tomar unas cervecitas con papas australianas o rabas!"
+    }, 
+    {
+      "date": "15 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "nac2101", 
+      "text": "Es un muy lindo lugar.  Las comidas son tipo minutas, probe los crepes y me gustaron.  Una buena opcion en la zona por ser un lugar muy agradable."
+    }, 
+    {
+      "date": "10 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "kariyory", 
+      "text": "Lo mejor de este lugar es el ambiente, una vieja casona, con distintos niveles que forman como peque\u00f1os ambientes. Pero la comida es regular con s\u00f3lo algunos destacados como las crepes. Mejor para tomar un cafe o tomar algo."
+    }, 
+    {
+      "date": "10 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gladys1810", 
+      "text": "un lugar para ir al mediodia, son rapidos en el servicio, cordiales, la comida es casi siempre correcta (a veces la milanesa sale negra)y de buen sabor. Cada semana un menu diferente que cambia todos los dias. Recomendable. Mientras esperas la comida te traen mantequita..."
+    }
+  ]
+}

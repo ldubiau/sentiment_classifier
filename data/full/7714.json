@@ -1,0 +1,66 @@
+{
+  "malos": [
+    {
+      "date": "10 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "karen111111111", 
+      "text": "No me gust\u00f3 la atenci\u00f3n; la comida me result\u00f3 muy escasa por el precio tan caro."
+    }, 
+    {
+      "date": "9 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Tami80", 
+      "text": "La comida me parecio mediocre, la atencion pesima y muy caro! No vuelvo y no lo recomiendo! el lugar es feo y parece sucio, no me gusto para nada."
+    }, 
+    {
+      "date": "10 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "pablocaio", 
+      "text": "Pedimos una Parrila  para dos y realmente un desastre la carne , toda quemada , seca , poca carne , el pedazo de cerdo que dicen que trae un hueso con poco y nada , no recomendaria a nadie, la atencion tambien muy mala, lo unico bueno es la ubicacion y la ambientacion"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "VivianaG", 
+      "text": "Si entramos  un domingo a las 15 hs fue por desesperaci\u00f3n. Era el \u00fanico lugar con una mesa libre en el deck. Estuvimos al sol porque no se pueden mover las sombrillas. Se equivocaron con los platos, yo com\u00eda y mi pareja miraba mientras esperaba su suprema al roquefort, porque le hab\u00edan tra\u00eddo una a la suiza, la iban a cambiar y trajeron la misma, pero con dicho ingrediente agregado por encima. No es barato y los ba\u00f1os parecen sucios. No repetir\u00e9."
+    }, 
+    {
+      "date": "8 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "coco9234", 
+      "text": "D\u00eda espl\u00e9ndido, buena vista desde la terraza (lo mejor) y platos de asador y/o parrilla para compartir. Muy mediocre la atenci\u00f3n y ambientaci\u00f3n. Ruidoso y con muy floja carta de vinos. Lugar para comer si est\u00e1s de paso y sin pretenciones pues no es barato (2 personas c/vino y compartiendo el vac\u00edo al asador $ 175 y sin postre ni caf\u00e9). Se asemeja a un tenedor libre. No volver\u00eda."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Lumier", 
+      "text": "De la zona, lo mejorcito, se come muy bien y los platos son abundantes. Se ven algo desbordados los dias sabado y domingo, sobre todo, si esta lindo el dia."
+    }
+  ]
+}

@@ -1,0 +1,448 @@
+{
+  "malos": [
+    {
+      "date": "17 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "tomyperro", 
+      "text": "Una experiencia bastante mala, tomando la relacion precio/calidad. por la zona hay muchos otros restaurant que ofrecen mejores alternativasy a precios mas economicos. y lo peor el encargado que tenian ya no esta mas, una lastima."
+    }, 
+    {
+      "date": "30 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Jayhawkins", 
+      "text": "realmente no pens\u00e9 que nos fuera tan mal, los platos eran peque\u00f1os, las entradas quer\u00edamos compartirlas y nos quedamos con ganas de probar alguna.El mozo insist\u00eda en que comamos chivito, le hicimos caso, y solo chupamos los huesos.Una barbaridad cobrar el cubierto $9.-Me defraudo."
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mbportaluppi", 
+      "text": "La verdad es la primera ves que fui, la comida me parecio correcta, nada extraordinario, las porciones peque\u00f1as por el precio, el servicio pecimo, tardaron 20 minutos en traer la cuenta ni les digo los platos y las bebidas, los platos llegaron frios a la mesa. la verdad no lo recomiendo y no volvere a ir."
+    }, 
+    {
+      "date": "15 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Mariano", 
+      "text": "Un robo a mano armada. Al ingresar al lugar el mozo nos recomend\u00f3 probar el cochinillo, pedimos media porci\u00f3n para probarlo y la verdad muy medio pelo, al momento de pagar la cuenta nos encontramos que por medio cochinillo nos estaban cobrando $ 80!! Me parece se\u00f1or ca\u00f1on que los precios que maneja no son propios del servicio y el lugar donde se encuentra. No vuelvo nunca mas"
+    }, 
+    {
+      "date": "10 Mar 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "jimena", 
+      "text": "Simplemente un desastre. Mala comida, mal ambiente. Con s\u00f3lo ver las botellas sucias que lo decoran te quita las ganas de comer."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Pablisymeli", 
+      "text": "Fuimos 4 personas. Entrada: provoleta viejo ca\u00f1on, bien ;  achuras bien pero porciones pobres. Principal: asado de tira, duro y tiras muy  finas; vacio bien. Postres: clasicos y correctos. Bebidas: tiene una carta de vinos con distintas opciones de precio y calidad, es correcta. Precio: un poco alto  para lo que ofrece. Conclusion: No lo recomiendo por tener el punto  flojo justo en lo mas importante, el asado."
+    }, 
+    {
+      "date": "31 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Niki1962", 
+      "text": "Vamos 1 vez por semana, para nosotros (4) muy c\u00f3modo, la atenci\u00f3n muy buena y gentil, las carnes de primera y cocidas al punto requerido, las pastas al dente y con buena cantidad de salsa, la carta de vinos excelente y con  variedad de precios. Tienen un salad bar (autoservicio) que esta incluido en los platos principales y de mucha variedad. Muy buena la panera y hay que seguir la sugerencia de los mozos, no se equivocan, juegan a favor del cliente, las porciones abundantes."
+    }, 
+    {
+      "date": "16 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Castelabre", 
+      "text": "Fuimos 4 personas a almorzar por negocios, dado que quien invit\u00f3 posee dep\u00f3sitos por la zona. La parrilla realmente muy buena. Las porciones abundantes y la atenci\u00f3n muy esmerada. No soy del sur pero creo que es una de las mejores opciones en la zona. La relaci\u00f3n precio / servicio / comida es equilibrada"
+    }, 
+    {
+      "date": "18 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tangonet", 
+      "text": "Excelente servicio, la parrilla de primera y el lugar es muy bien presentado."
+    }, 
+    {
+      "date": "5 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "boxitracio", 
+      "text": "Muy buen lugar, buena atencion y muy buena cocina. Voy regularmente"
+    }, 
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "En una cl\u00e1sica esquina de la zona sur, encontramos una excelente propuesta gastron\u00f3mica. Su due\u00f1o se encarga de recibir personalmente a cada comensal haciendolo sentir c\u00f3modo desde la llegada. Los platos son exquisitos y adem\u00e1s ofrecen un salad bar libre. Los vinos no son caros como as\u00ed tampoco los precios de los platos, teniendo en cuenta la calidad y la abundancia de los mismos. Un detalle para mejorar,es el punto del Volc\u00e1n de chocolate, aunque \u00e9sto no opac\u00f3 nuestro concepto sobre el lugar. Muy bien! para volver."
+    }, 
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sebask4", 
+      "text": "Un lugar hist\u00f3rico y pintoresco sobre la concurrida Avenida Pav\u00f3n en Avellaneda.La comida muy buena y recomendable con algunos platos que se mantienen por a\u00f1os y otros que cambian con alguna frecuencia.Pizarra con sugerencias del d\u00eda pero con precios que son de los m\u00e1s altos de la carta aunque cuidado no es un lugar tan caro. De hecho lo mejor es la relaci\u00f3n calidad-precio.Servicio muy bueno con mozos como los de antes.los ba\u00f1os relativamente nuevos."
+    }, 
+    {
+      "date": "19 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rhr955", 
+      "text": "Un antiguo local, ambiente con claroscuros, con buena atenci\u00f3n (domingo al mediod\u00eda todo lleg\u00f3 en tiempos razonables). La comida correcta (todo lo pedido en este caso, de parrilla), con slad bar sin cargo si ped\u00eds plato principal. En definitiva, sin notas deslumbrantes, es un lugar con historia que merece ser conocido, y de vez en cuando, volver."
+    }, 
+    {
+      "date": "15 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "iraX", 
+      "text": "Un lugar muy bueno, la comida es realmente buena y lo mejor es la atencion y la buena onda de los mozos.\r\nRealmente es un lugar para recomendar y para volver"
+    }, 
+    {
+      "date": "28 Nov 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "uruguay390", 
+      "text": "Un emblem\u00e1tico y original lugar del cono sur Bonaerense. El cochinillo estaba excelente y el postre (Borracho el Ca\u00f1\u00f3n) muy rico y original. Generalmente tienen alg\u00fan buen vino en oferta. Recomendable y sin lugar a dudas un lugar para conocer."
+    }, 
+    {
+      "date": "9 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "NAF", 
+      "text": "Fuimos el sabado a la noche, la atencion fue excelente, la comida muy buena, las porciones justas, las ensaladas son sin costo y el vino no es para nada caro. nos gust\u00f3 volveremos."
+    }, 
+    {
+      "date": "8 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mfvm", 
+      "text": "Siempre fuimos bien atendidos y terminamos satisfechos tambi\u00e9n con los platos pedidos. Los jueves (solo si hace frio) hacen puchero aunque le faltan algunos ingredientes, pero es bastante aceptable. Tienen una isla modesta con ensaladas que por pedir cualquier plato uno puede ir a servirse sin costo adicional. Recomiendo los ravioles y los diamantes negros; son un lujo!"
+    }, 
+    {
+      "date": "25 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "eldoto", 
+      "text": "Un restaurant con historia donde se puede disfrutar de una muy buena relacion precio-producto.Nada se destaca especialmente pero no desentona para nada.Recomendable."
+    }, 
+    {
+      "date": "19 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Parada", 
+      "text": "Vamos al Ca\u00f1on asiduamente. El servicio es excelente, c\u00e1lido y respetuoso. La comida, Muy buena. Con mi marido ibamos hace 20 a\u00f1os, de novios, y nos alegr\u00f3 su reapertura y poder disfrutarlo con nuestros hijos."
+    }, 
+    {
+      "date": "12 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PetitGourmand", 
+      "text": "Es emocionante poder cenar en un lugar tan calido. Es tan importante sentirse comodo como comer bien. \r\nY si unen los tres factores (ambiente, comida y servicio) es realmente un placer."
+    }, 
+    {
+      "date": "15 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "dimiro", 
+      "text": "La atencion es buena y eso hace que la comida no sea tan mala ."
+    }, 
+    {
+      "date": "22 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Zeus", 
+      "text": "Normal... Nada fuera de serie. Algunos platos correctos y abundantes y otros de baja calidad. Ni si ni no. Igual no es d mis preferencias."
+    }, 
+    {
+      "date": "19 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ELPERROACOSTA", 
+      "text": "BUENO, UN POCO CARO PARA LA ZONA. SERVICIO ATENTO."
+    }, 
+    {
+      "date": "9 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "OmarCito", 
+      "text": "La atenci\u00f3n es buena y excelente predisposici\u00f3n de parte de los mozos. El ambiente es bueno, si se considera que estamos en un lugar que mantiene el estilo de sus inicios en la \u00e9poca del treinta. La comida es buena y en porciones abundantes sin ser exageradas. Eso s\u00ed, algo caro."
+    }, 
+    {
+      "date": "1 May 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "adru992003", 
+      "text": "Es muy caro. Las recomendaciones del mozo fueron de platos caros que no estaban en la carta. Muy mala atenci\u00f3n."
+    }, 
+    {
+      "date": "23 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "patrocla", 
+      "text": "Me llam\u00f3 la atenci\u00f3n la tierra que ten\u00edan las botellas en los escaparates. El restaurante es caro para la zona donde se encuentra, que carece de locales de comidas aceptables, pero debo reconocer que la calidad de la comida es buena y en cuanto a las porciones: correctas, en suficientes cantidades. \r\nRepito, el precio es un poco elevado acorde al target de la zona."
+    }, 
+    {
+      "date": "10 Feb 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "andre", 
+      "text": "La verdad es que es muy caro para lo que te brindan. Con mi novio salimos mucho a comer por esta zona y nos pareci\u00f3 muy caro y no deja de ser un lugar para comer parrila."
+    }, 
+    {
+      "date": "28 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Tendr\u00edan que aceptar tarjetas de cr\u00e9dito. Aceptan tarjeta de d\u00e9bito."
+    }, 
+    {
+      "date": "20 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Ruy", 
+      "text": "Un tanto oscuro, el resto bien. \r\nCreo que es un poco caro en relaci\u00f3n a la calidad, pero se puede ir. \r\nPor la zona no encuentro muchos que sean mejores."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nadg", 
+      "text": "Es una suerte de bodeg\u00f3n reciclado. Si vas sin reserva es probable que debas esperar pero tienen una sala para este fin donde te invitar\u00e1n algo para tomar y mirar la tele hasta que llegue tu turno. \r\nLos platos son exquisitos y de muy buena calidad. Los precios se han ido un poco arriba pero vale la pena."
+    }, 
+    {
+      "date": "23 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "susanel", 
+      "text": "Anoche volvimos al Viejo Ca\u00f1on, despues de bastante tiempo. Salimos encantados. Todo estuvo muy bueno, la comida, la atenci\u00f3n. El punto de cocci\u00f3n de lo que pedimos.Nos sorprendi\u00f3 la gran cantidad de gente que hab\u00eda y sin embargo, estuvimos muy c\u00f3modos. Sin dudas un lugar para recomendar y seguir yendo."
+    }, 
+    {
+      "date": "19 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Eramos 8, nos atendieron muy bien, todos los platos salieron juntos y a tiempo, la comida muy buena y los precios me parecieron razonables."
+    }, 
+    {
+      "date": "15 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ramirezguada", 
+      "text": "Realmente un lugar \u00fanico! El mi\u00e9rcoles por la noche disfrutamos en familia un encantador show de tango mientras degustamos exquisitos platos.- Consejo: Reserven porque habia cantidad de gente."
+    }, 
+    {
+      "date": "13 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nicomoreira", 
+      "text": "Excelente atenci\u00f3n. Comida super casera y sabrosa. \r\nUn buen lugar para almuerzos de negocios.-"
+    }, 
+    {
+      "date": "9 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PICO1", 
+      "text": "Un lugar increible, no se puede creer que en restaurante clasico, tenga una comida y un servicio como en los mejores lugares, realmente me encanto todo. La decoracion, increible!!! super autentica, me senti como en mi casa, cuando era chico. Ah! y el dia que fui lo vi a Marcelo Tinelli comiendo. Felicitaciones"
+    }, 
+    {
+      "date": "26 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sirenita_1977", 
+      "text": "Lo m\u00e1s importante para destacar es la EXCELLENTE atenci\u00f3n de los mozos, te asesoran sobre el tama\u00f1o de las porciones y las posibilidades de combinar platos para evitar ordenar m\u00e1s de la cuenta. El ambiente es supero c\u00e1lido y combina la estructura de un bodegon de los 30 con detalles de deco modernos. Por \u00faltimo, la comida es riqu\u00edsima, bien del estilo bodeg\u00f3n y de muy buena calidad."
+    }, 
+    {
+      "date": "12 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lrocca", 
+      "text": "Parece lejos del centro, pero por la autopista 9 de julio se va r\u00e1pido. Se estaciona en la calle pero hay vigilancia. La comida es de primera y muy variada. La atenci\u00f3n es esmerada. El ambiente es un poco ruidoso. El espacio entre mesas es aceptable."
+    }, 
+    {
+      "date": "15 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Negro61", 
+      "text": "El lugar es realmente encantador, no entiendo la gente que critica el tema de las botellas; esto tiene que ver con la ambientaci\u00f3n y tipo de negocio. Para realmente ver si el lugar es pulcro o no basta ver la parrilla, el salad bar y los ba\u00f1os para darse cuenta que la limpieza es una de las cosas que mas cuidan. Felicitaciones."
+    }, 
+    {
+      "date": "30 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dolores", 
+      "text": "Lo pasamos b\u00e1rbaro como siempre que vamos a este lugar. Precios acordes a calidad y atenci\u00f3n s\u00faper."
+    }, 
+    {
+      "date": "28 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dolores", 
+      "text": "Realmente me gusta todo de este restaurante pero lo que critico es la tierra que tiene las botellas exhibidas, la cual no creo que sea para dar idea de a\u00f1ejas."
+    }, 
+    {
+      "date": "16 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nestitor1", 
+      "text": "Es muy bueno. Fui varias veces y me pareci\u00f3 b\u00e1rbaro."
+    }, 
+    {
+      "date": "10 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "liliand_", 
+      "text": "El ambiente es muy cordial, tal como sus due\u00f1os, que personalmente saludan a sus clientes habituales y consultan a los comensales sobre su visita. \r\nLa atenci\u00f3n de los mozos tambi\u00e9n es excelente. \r\nEl ambiente es cordial, de tenue luz y muy ameno."
+    }, 
+    {
+      "date": "12 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "danielad", 
+      "text": "La comida muy buena, platos abundantes, atenci\u00f3n muy buena."
+    }, 
+    {
+      "date": "0 0000", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Javi3d", 
+      "text": "Es excelente!! Vamos siempre la verdad, y siempre conformes!  Super recomendable!!!  Tienen que pedir el lomo envuelto en panceta que es una obra de arte!  Y de postre el volc\u00e1n de chocolate!!!\n\nUna \u00fanica contra!.. Hay mucho bullicio ya que las mesas est\u00e1n muy pegadas y no hay telas que absorban el ruido.\n\nVayaan!"
+    }
+  ]
+}

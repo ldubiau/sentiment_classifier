@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lovelyrita", 
+      "text": "Los precios me parecieron un poco altos para lo que era el lugar. Las pastas bastante pobres. El servicio r\u00e1pido pero poco cordial."
+    }, 
+    {
+      "date": "20 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "floracio", 
+      "text": "el ojo de bife era una goma, inmasticable, adem\u00e1s pedido mas bien cocido bino practicamente crudo."
+    }, 
+    {
+      "date": "21 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "PieroNadia", 
+      "text": "Muy buena atencion. El resto no tanto."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Zacaria", 
+      "text": "Comimos m\u00e1s o menos bien en este resto de barrio.  Buena atenci\u00f3n, pero la comida apenas aprob\u00f3"
+    }, 
+    {
+      "date": "1 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "aquaman", 
+      "text": "La atenci\u00f3n bien personalizada es lo que le da el toque de atenci\u00f3n al restaurant. Es una opci\u00f3n mas y un poco tranquila de comer cerca de las exposiciones de la rural. Como alterntivas, las pastas y las carnes.Las achuras no me gustaron para nada,sin gusto y pasadas."
+    }, 
+    {
+      "date": "17 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "charlie4812", 
+      "text": "Muy buena comida y buen servicio. Su intento de traduccion del menu al ingles es merecedor de mi premio personal a la mayores barbaridades. Que lastima."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Zacaria", 
+      "text": "Restaurant sencillo de barrio, con buena atenci\u00f3n y excelente carne"
+    }, 
+    {
+      "date": "30 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Peluca2007", 
+      "text": "Una muye buena opci\u00f3n sin grandes pretenciones con muy buena comida y excelente atenci\u00f3n."
+    }, 
+    {
+      "date": "11 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "kusser", 
+      "text": "\u00a1Muy buena carne!"
+    }, 
+    {
+      "date": "21 Sep 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "@guynevo", 
+      "text": "El mejor bife que comi en los ultimos 2 a\u00f1os y 7 meses."
+    }, 
+    {
+      "date": "21 Sep 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "robertal", 
+      "text": "Una carne que pocas veces he comido en mi vida. Un SE\u00d1OR bife de chorizo. El resto olvidable."
+    }
+  ]
+}

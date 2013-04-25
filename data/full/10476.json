@@ -1,0 +1,228 @@
+{
+  "malos": [
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "sonysil", 
+      "text": "mala disposicion del mozo, mucha demora en la comida, porciones muy peque\u00f1as, espacio muy ruidoso"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Taviolo", 
+      "text": "Lindo lugar para cenar en la zona. El ambiente con reminicencias de los almacenes de antes, la comida rica, bien hecha, nada gourmet pero rica. La atencion merece ser mejorada sin dudas. Precios muy ajustados a la calidad. Muy buena opcion, sobre todo si estas en el barrio."
+    }, 
+    {
+      "date": "25 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "La propuesta era tentadora; locro en el d\u00eda patrio, y all\u00e1 fuimos. Lamentablemente el locro no estuvo a la altura del resto de los platos que ofrece Roque, que son muy buenos. Una pena... y a seguir parcicipando..."
+    }, 
+    {
+      "date": "5 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Tola", 
+      "text": "Comimos bien, fui con mi sra., que tanto no le gust\u00f3. Probamos el recomendado alfajor Roque, muy bueno!!!! y una bondiola a la cerveza negra, regular, para acompa\u00f1ar una fritas espa\u00f1olas que tardaron mucho, con lo cual la mitad del plato lo comimos sin acompa\u00f1amiento. La atenci\u00f3n, bien, nada m\u00e1s, precios accesibles, lugar peque\u00f1o, hay que esperar si no vas temprano"
+    }, 
+    {
+      "date": "3 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Quiqueb59", 
+      "text": "Un restaurant de anta\u00f1o, con una carta sencilla pero muy bien elaborada. las chicas que atienden son divinas. Vuelvo !!!"
+    }, 
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Fernando_27", 
+      "text": "Excelente Resto de Buenos Aires Antiguo, con aires de Viejo Gas\u00f2metro. Para probar todo tipo de comidas Italianas. Recomiendo el Alfajor Roque (Lomo, Panceta y Provoleta), una Ensaladita Giglio, y de postre un Volc\u00e0n de chocolate. Sus Due\u00f1os toda la onda. A disfrutar ! !"
+    }, 
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "quebecoisse", 
+      "text": "Todo FANTASTICO. Excepto la camarera. Descortes y mal servicio (trajeron el plato principal primero y la entrada al final.Luego nos dijo que la bondiola a la riojana no ten\u00eda guarnici\u00f3n. Qu\u00e9 camarero en Buenos Aires desconoce la composici\u00f3n de este plato tradicional? Por supuesto el plato vino completo. No es la primera vez que esperamos una actitud amable (que nunca llega) de parte de esta se\u00f1orita. Lamento tener que publicar este comentario pues el resto es realmente muy bueno."
+    }, 
+    {
+      "date": "8 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Chacabuco", 
+      "text": "Un cl\u00e1sico bodeg\u00f3n de Buenos Aires, con precios muy econ\u00f3micos y buenos productos. Se recomienda el Alfajor Roque, una torre de lomo panceta y provoleta. Hay que llegar unos minutos antes de las 21, o despu\u00e9s de 22.30 porque es dif\u00edcil encontrar mesa."
+    }, 
+    {
+      "date": "31 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tomynft", 
+      "text": "Un buen lugar. agradable  buena atencion. las pizzas, EXCELENTES!"
+    }, 
+    {
+      "date": "6 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Alevilarchao", 
+      "text": "Bodeg\u00f3n de barrio, muy recomendable la pizza, el alfajor Roque y la copa boedo."
+    }, 
+    {
+      "date": "6 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "peladohermoso", 
+      "text": "Buena Comida con un buen horno de barro, tamto las pizzas, como el plato de la casa son muy buenos. El lugar es tranquilo y muy familiar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "walquiria", 
+      "text": "Muy bueno, ambientacion de barrio con buena comida y vinos a precio accesible. Recomendable!"
+    }, 
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lo1978", 
+      "text": "Me encantoooo el lugar!!! Un bodegon de barrio, en impecables condiciones, los ba\u00f1os muy limpios y muy buena atencion del mozo.\r\nLa comiga es excelente!!!!!!! Buena carta de vinos. Lo recomiendo!\r\nLa clave: ir temprano xq se llena!"
+    }, 
+    {
+      "date": "14 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Barbysko", 
+      "text": "Excelente. \r\nEl Bife de la casa es realmente digno de probar. \r\nIr con reserva porque jueves, viernes y sabados se llena siempre."
+    }, 
+    {
+      "date": "11 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "quebecoisse", 
+      "text": "Nobleza obliga. Si critiqu\u00e9 en su momento, el trato de las mozas, me rectifico totalmente. Fui a comer muchas veces mas, pues nos gustan muchos los platos del lugar.. Descubri que las chicas son realmente cordiales y borraron con el tiempo mi primera impresi\u00f3n.Espero dar justicia con este comentario."
+    }, 
+    {
+      "date": "30 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "alexita_paola", 
+      "text": "Ambiente confortable, la comida exquisita, la atenci\u00f3n muy buena, Y los precios razonables. Un lugar ideal para visitar en familia"
+    }, 
+    {
+      "date": "10 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "pjrp", 
+      "text": "Efectivamente el lugar es tipo bodeg\u00f3n (lo aclaro para que se entienda: la atenci\u00f3n es acorde con el lugar pero correcta). Lo que comimos, MUY BUENO y la carta de vinos bastante nutrida. Sus precios m\u00e1s que razonables, tanto en la comida como en las bebidas. Lo recomiendo sin hesitaci\u00f3n alguna."
+    }, 
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Una esquina donde siempre hay gente esperando, donde se puede  compartir un buen momento en un ambiente familiar que te hace sentir que est\u00e1s en una fiesta.  Comida excelente y buen servicio.  Imperdible la tortilla Roque, rellena de muzzarella y jam\u00f3n y el alfajor Roque (una torre de l\u00e1minas de lomo, provoleta y panceta,  exquisita). entre otros tentadores platos  Si a eso le sumamos precios muy econ\u00f3micos, se puede decir que es un lugar que no se puede dejar de visitar."
+    }, 
+    {
+      "date": "13 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Sergio077", 
+      "text": "Un lugar muy calido, decorado con objetos, pertenecientes al abuelo Roque, en su antiguo almacen situado en ese mismo lugar.\r\nLa comida es excelente, con gran variedad de platos. Su especialidad es la pizza y el calzone. Vale la pena esperar unos minutos si no hay mesa disponible. Muy buena atencion y los precios de lo mejor de BsAs. Super recomendable."
+    }, 
+    {
+      "date": "22 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Carito32", 
+      "text": "Muy lindo bodegon, excelente la decoracion como viejo almacen, la comida muy rica, los precios razonables, la cerveza artesanal muy buena tambien!"
+    }, 
+    {
+      "date": "22 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "HernanBr", 
+      "text": "Excelente Bodegon de barrio. En pleno Boedo, un lugar para compartir con amigos. Estos son los bodegones que valen, no como los de Palermo, las Ca\u00f1itas, etc."
+    }, 
+    {
+      "date": "19 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Tobias", 
+      "text": "Es uno de esos lugares, que si te gustan los bodegones de barrio, no pod\u00e9s dejar de conocer. ambiente tanguero... pero moderno y cl\u00e1sico a la vez, como sus platos. Las pastas est\u00e1n muy bien, las mollejas... todo lo que prob\u00e9 es muy rico y fresco, ya que trabajan y MUCHO y con precios accesibles. El servicio siempre fue correcto. A mi punto de vista, podr\u00edan jugarse un poco m\u00e1s con la carta de vinos y poner algunos no tan conocidos, el lugar da para pedir alg\u00fan vinito distinto. La verdad que es de lo mejor del barrio, cada vez que puedo me pego una vuelta."
+    }
+  ]
+}

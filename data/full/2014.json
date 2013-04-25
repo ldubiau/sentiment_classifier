@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "2 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "51daniel", 
+      "text": "inclasificable  solo para fiestas o despedidas  todo muy vetusto y pasado de moda"
+    }, 
+    {
+      "date": "12 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Afipan", 
+      "text": "Es imposible catalogarlo dentro de los restaurants. Es un lugar quedado en el tiempo, no es feo, pero es para ir a divertirse y nada mas. No esta ni bien ni mal, no es un restaurant. Espero ser claro, sirve para despedidas y una noche divertida, donde la comida es lo de menos. Pintoresco lugar"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "BIDOGLIO", 
+      "text": "La comida es aceptable y el lugar es muy lindo, lo lamentable es que te cobran much\u00edsima plata."
+    }
+  ]
+}

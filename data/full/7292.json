@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "valcach", 
+      "text": "Restaurant en el que siempre se come bien y barato. Recomiendo el salmon rosado, el vacio y las papas a la crema. Impecable!!!"
+    }, 
+    {
+      "date": "1 Abr 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ezetripa", 
+      "text": "El mejor bife de chorizo de la plata, el servicio es lento y regular. pero vale la pena por la comida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Grachu5", 
+      "text": "Solemos ir tanto al mediod\u00eda como a la noche algunos fines de semana; aunque en la semana trabajan a full tambi\u00e9n. Es excelente la calidad tanto de la parrilla como las comidas elaboradas. Las porciones son abundantes, casi como para compartir, por eso el postre lo compart\u00ed con mi marido, ya que est\u00e1bamos satisfechos. Las mozas son muy atentas. El local y los ba\u00f1os est\u00e1n impecables. Los precios son increibles. Ojo: es mejor reservar."
+    }, 
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "draandres", 
+      "text": "Vamos con mi familia desde hace 3 a\u00f1os por lo menos 2 veces por semana. No se puede creer la calidad, limpieza, y los precios de este lugar! Eso si reserven con tiempo 2 dias para el fin de semana por que si no no entras!"
+    }
+  ]
+}

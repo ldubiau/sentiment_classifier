@@ -1,0 +1,178 @@
+{
+  "malos": [
+    {
+      "date": "14 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "mowi", 
+      "text": "La atencion es muy mala y desatenta. La comida no destaca, si bien no esta mal, podria ser mas abundante y reproducir mejor los sabores mexicanos. No volvieria."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "18 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ellcheff", 
+      "text": "un poco escondido pero no opaca el rico sabor de la comida,, solo q no fui muy bien atendido"
+    }, 
+    {
+      "date": "6 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Si_Barita", 
+      "text": "Fui con una amiga, muy buena m\u00fasica, y la cocteler\u00eda, no considero que se coma aut\u00e9ntica comida mexicana, pero igual fue sabrosa. Lo recomiendo como para hacer una previa con amigos."
+    }, 
+    {
+      "date": "23 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Bukama", 
+      "text": "Recomendable"
+    }, 
+    {
+      "date": "17 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lagarto22", 
+      "text": "FUI  3 veces, muy bueno. buenos tragos, buena comida, un poco informal el servicio, se cuelgan. excelente calidad precio. En zona norte lejos lo mejor en cocina mexicana."
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gborau", 
+      "text": "solemos ir 1 vez por mes a comer ahi. Generalmente comemos muy bien... el se\u00f1or que cuida el coche un genio... pero la atenci\u00f3n es p\u00e9sima!!! siempre cometen el mismo error!!! traen la comida antes que la bebida... est\u00e1s llamandolos 3 horas para que te atiendan... una pena."
+    }, 
+    {
+      "date": "18 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "paladarama", 
+      "text": "Fu\u00ed varias veces. Admito que de los restos de comida mexicana es el que m\u00e1s me gust\u00f3, y los probe todos.\r\nSolo he ido sabados por la noche, el lugar es ruidoso y nocturno, ideal para pernoctar con amigos o como unica salida en pareja. Ambientado como un music-bar, es casi exclusivo para publico joven.\r\nMuy ricos margaritas! Precio moderado."
+    }, 
+    {
+      "date": "14 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "infame", 
+      "text": "es un lugar que llama la atenci\u00f3n por la decoraci\u00f3n o por lo menos eso nos paso a mi novio y a mi... la comida es muy rica! el lugar esta muy bueno! prueben y desp. m cuentan..."
+    }, 
+    {
+      "date": "25 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "Un lugar recomendable para ir con amigos, ya que es restaurant y bar. La comida es muy rica, aunque la carta es acotada y no ofrece muchas opciones. Los tragos me gustaron, el daikiri frozen es muy bueno!\r\nLos precios son muy razonables. Definitivamente, volver\u00eda."
+    }, 
+    {
+      "date": "1 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "silvia", 
+      "text": "El lugar esta bueno para ir con amigos o en pareja,la atencion es muy atenta.Los tacos muy ricos y los nachos tambien,lo unico que no te traen ninguna salda para agregarle ni a los tacos ni a los nachos,ni nada para hacer mas amena la espera.Muy originales en la forma de servir los platos.Da para volver cada tanto."
+    }, 
+    {
+      "date": "22 Dic 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Ambiente Joven. Para venir con amigos, compartir unas fajitas y despues, mantener la alegria con alguna que otra Margarita. Precios Accesibles y servicio bien trabajado. Volveria para divertirme y sentir la buena onda que hay."
+    }, 
+    {
+      "date": "21 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "m_seoane", 
+      "text": "Lo encontramos de casualidad; camino a otro lado. Nos dio curiosidad y entramos. Desde ese d\u00eda volvimos dos o tres veces. Es chiquito y tranquilo.\r\n En general pedimos el men\u00fa que trae un poco de cada cosa, con alg\u00fan trago o cerveza. Es un poco m\u00e1s barato que los restaurants mejicanos que conoc\u00ed, pero la carta es bastante limitada."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Salemnation", 
+      "text": "Muy buena la comida y el ambiente. Pedimos el menu de Botanas que es para dos personas, tiene buena relaci\u00f3n precio/calidad y trae un poco de cada cosa (incluye Tacos, Burritos, Quesadillas, salsas varias, etc). Sabroso y original. Volver\u00e9 con m\u00e1s amigos!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "24 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Correntina 17", 
+      "text": "Muy buena la comida!!! todo me gusto y la atenci\u00f3n muy agradable"
+    }, 
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Heidihi", 
+      "text": "Comida muy rica y abundante. Ambiente muy agradable, buena m\u00fasica y bien decorado. La atenci\u00f3n fue muy correcta."
+    }, 
+    {
+      "date": "1 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mayelens", 
+      "text": "Voy a comer seguido. La comida es excelente, el men\u00fa botana para dos es totalmente recomendable. Deliciosa, bien preparada, buen ambiente, tragos grandes y bien preparados. Se destaca la comida. Lastima que no aceptan tarjetas."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nacho_Pizzero", 
+      "text": "El lugar est\u00e1 muy bien ambientado, es restaurante y pub.La comida muy sabrosa, sin embargo los tragos son preparados con alcohol de baja calidad. Este cambio lo hicieron hace poco tiempo ya que antes eran muy buenos."
+    }
+  ]
+}

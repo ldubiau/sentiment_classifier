@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MeloMerezco", 
+      "text": "Un lugar distinto. Muy ricos los platos, aunque pocas cantidades. Es un lugar gourmet para disfrutar de algo rico con estilo. Caro, pero correcto."
+    }, 
+    {
+      "date": "14 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "humby", 
+      "text": "la comida muy rica y muy bien maridados los platos con el vino, el cheese cake espectacular."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "xintetico", 
+      "text": "Fue muy agradable la cena, todos los platos y el postre. El precio es razonable (250 pesos por persona) e incluye una variedad de vinos adecuados a la comida. Se comparte la mesa con otros invitados. En la noche en que fuimos eran todos turistas de Estados Unidos, muy agradables. Pudimos conversar, pero no demasiado, ya que el ingl\u00e9s no es tan confortable para nosotros como el Espa\u00f1ol."
+    }, 
+    {
+      "date": "28 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Natnuts", 
+      "text": "Totalmente recomendable. Menu de cinco pasos con su correspondiente maridaje. Comida con un toque distinto; una experiencia para repetir."
+    }, 
+    {
+      "date": "24 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "cloper", 
+      "text": "Imperdible experiencia. Dan es un gran anfitri\u00f3n. Super recomendable."
+    }, 
+    {
+      "date": "24 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jorge_vero", 
+      "text": "Una experiencia gastronomica unica, en una mesa compartida con diferentes personas que hace la cena una experiencia maravillosa,La comida espectacular, con explicaciones de cada detalle sobre su preparacion.Altamente recomendable"
+    }
+  ]
+}

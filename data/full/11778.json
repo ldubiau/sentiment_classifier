@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "luzy", 
+      "text": "muy buen producto y elaboracion...comida de buena calidad...se come bien y los platos son abundantes..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "florchi123", 
+      "text": "La carne excelente! acompa\u00f1amos con ensalada y papas fritas muy ricas. De postre comimnos panqueques con abundante dulce de leche, especial para golosos. El ambiente es muy agradale, todo blanco da mucha amplitud y es muy espacioso. La atencion tambien fue muy buena. Lo recomiendo para ir en familia. Volveremos pronto!"
+    }, 
+    {
+      "date": "2 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ViRoMo", 
+      "text": "Muy bueno, lo super recomien !!!\r\nComimos, ravioles de ricota muy ricos y una milanesa con papas fritas buenisima tambien!!!!\r\nIncreible la panera !!\r\nMuy buen servicio."
+    }
+  ]
+}

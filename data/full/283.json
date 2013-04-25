@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "23 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cesu", 
+      "text": "servicio un poco lento"
+    }, 
+    {
+      "date": "3 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "topcat00", 
+      "text": "El lugar es ideal, ya que cuenta con un espacio al aire libre y otro cerrado con vista al r\u00edo .El interior es muy c\u00e1lido, muy limpio, ideal para una cena tranquila. La variedad de comida no es muy amplia, pero es aceptable. Servicio bueno."
+    }, 
+    {
+      "date": "25 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cesu", 
+      "text": "Un poco lento el servicio."
+    }, 
+    {
+      "date": "6 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "alicia57", 
+      "text": "El lugar es encantador, buc\u00f3lico. El servicio bueno pero un poco lento. Es muy agradable (fundamental la limpieza)."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cristinajulia", 
+      "text": "Es un lugar excelente, con calidez. Me encanta refugiarme para tomar algo y mirar el sol como se refleja sobre el agua y charlar con amigos."
+    }, 
+    {
+      "date": "3 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "arielo71", 
+      "text": "Muy buena atenci\u00f3n, muy lindo el ambiente y excelente comida."
+    }
+  ]
+}

@@ -1,0 +1,578 @@
+{
+  "malos": [
+    {
+      "date": "10 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "uruguay390", 
+      "text": "Realmente malo para lo que cuesta. La carta es sumamente escueta y mal dise\u00f1ada. La comida es regular y la relaci\u00f3n precio calidad es irreconciliable. El estacionamiento est\u00e1 a 150 metros del lugar en un play\u00f3n  rodeado de cartoneros en el Centro Municipal de Exposiciones. Es la primera vez que me ensarto con los votos de la gu\u00eda. Pens\u00e9 que era al menos normal. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "10 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "laurelin", 
+      "text": "Este lugar cambio de nombre, ahora es otra sucursal de la parrilla Castro y Cocha. Precios altamente caros para ser una parrillita mas del monton (dudo que sea al carbon como lo promocionan), sin ningun encanto especial ni nada que la diferencie del resto. El servicio muy lento para solo dos mesas. No volveria ni lo recomendaria, creo que por la zona y los precios solo apunta al turismo."
+    }, 
+    {
+      "date": "14 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Agusd2003", 
+      "text": "Muy buen lugar! La atenci\u00f3n me pareci\u00f3 excelente, cosa que a veces es dificil de encontrar. La entrada y el postre fueron excelentes, a los platos principales los dejamos solamente en muy buenos, podr\u00edamos decir muy caros para lo que ofrecen. Igual, muy recomendable."
+    }, 
+    {
+      "date": "31 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Un lugar escondido que ofrece una excelente propuesta gastron\u00f3mica.La carta no es muy extensa pero los platos que ofrece est\u00e1n muy bien logrados.En cuanto a la atenci\u00f3n es muy correcta y el ambiente tranquilo y acogedor.Para aprovechar el descuento de GO y salir sumamente satisfechos."
+    }, 
+    {
+      "date": "27 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "MJE88", 
+      "text": "La comida estuvo bien, el servicio tambi\u00e9n, sin embargo la ac\u00fastica del local es muy mala y las voces de las personas que estaban en el lugar retumbaban demasiado. \u00c9sto opac\u00f3 la cena, no volver\u00eda por la ac\u00fastica del local."
+    }, 
+    {
+      "date": "22 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "winner", 
+      "text": "Un lindo ambiente, pedi un camenbert grillado con hojas verdes pero estaba casi frio. Me lo calentaron un poco mas pero desaparecieron en el plato las hojas verdes. El vino blanco pusieron en la mesa pero no nos siguieron sirviendo, lo hice yo. Los vinos un poco caros. Pescado grillado muy bueno. Para un restaurante con este ambiente y esta carta tendr\u00edan que fijarse m\u00e1s en los detalles. Le daremos otra oportunidad..."
+    }, 
+    {
+      "date": "18 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "vladii", 
+      "text": "Se trata de un peque\u00f1o restaurant junto al Palais de Glace,a la noche,cuando fuimos,de aspecto medio l\u00fagubre y solitaria la ubicaci\u00f3n.Buen ambiente,buena decoraci\u00f3n, moderna,silencioso.La atenci\u00f3n buena, con gente joven, pero no atenta a los m\u00ednimos detalles como se esperaba. Eramos 7, se olvidaron un plato,no serv\u00edan las bebidas,como ejemplo.La comida con altibajos,una entrada de spring rolls muy buenos como el postre de fondue de dulce de leche.El principal,las cintas verdes, muy pasadas del punto, pegadas. Tomamos el men\u00fa de 3 pasos con bebidas de 89$.Si se est\u00e1 por la zona, se puede ir."
+    }, 
+    {
+      "date": "31 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "lazorra", 
+      "text": "Excelente alternativa en Recoleta. Ubicado en un entorno casi parisino, el lugar est\u00e1 muy bien ambientado y el servicio y la comida son de alta performance. Gran opci\u00f3n."
+    }, 
+    {
+      "date": "21 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "isalva", 
+      "text": "Muy buena ubicaci\u00f3n y ambientaci\u00f3n. Excelente servicio, porciones justas y de gran calidad car\u00e1cterisan este lugar. Me asombr\u00f3 gratamente!"
+    }, 
+    {
+      "date": "18 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Caleb", 
+      "text": "Una grata sorpresa. El lugar es peque\u00f1o e intimo. La atencion es sencilla, pero correcta. La carta es un poco reducida, pero hay variedad suficiente para encontrar algo tentador. La carta de vinos tiene una buena cantidad de opciones. Los platos no son muy abundantes, pero si muy sabrosos. El cordero con hierbas es una verdadera delicia. Las milanesitas rellenas con provolone de cabra, una sorpresa por su originalidad y sencillez. Los postres tambien estuvieron muy bien. Waffle y volcan de chocolate. Muy ricos. Los precios son levemente mas altos de lo que debieran, pero vale la pena volver."
+    }, 
+    {
+      "date": "11 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "macaibn", 
+      "text": "Volvi despues de bastante tiempo y sigue igual de bien!\r\nEs un lugar que hay que conocer..."
+    }, 
+    {
+      "date": "22 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carola1012", 
+      "text": "Fuimos a cenar, muy buenos los aros de calamar y la masa philo con queso brie y salmon que pedimos de entrada. Las porciones no son muy abundantes. Nos atendieron bien, lo que no me termina de convencer es la ambientacion...le falta algo que le dea un toque de personalidad. Para volver."
+    }, 
+    {
+      "date": "21 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "carola63", 
+      "text": "Que lindo lugar!  Comimos muy bien, muy buena atenci\u00f3n, y el ambiente muy \u00edntimo y acogedor. La panera es una tentaci\u00f3n, ya que hay variedades de panes calientes, la camarera muy simp\u00e1tica y eficiente. Y la presentaci\u00f3n de los platos impecable. El volc\u00e1n de chocolate y dulce de leche imperdible."
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "julieta555", 
+      "text": "BUENO:el ambiente y la buena atencion. Carta de vinos completa,agua evian y cafe illy! El postre 'crumble pomme/poire'!- MALO:los platos no son nada fuera de lo comun.No recomiendo el lomo, tuvo gusto agrio y presentacion escueta tipo ''Mc.Do...'' lo cual me desiluciono mucho. Por el contrario,el salmon/queso brie, y el cordero,estuvieron atinados pero igual falto alma,aroma y condimento.creo que falta un touch mas personal y gourmet como para que se distinga el plato en general. El precio que se paga termina siendo elevado. Esperaba otra cosa debido a los comentarios tan buenos que leo..."
+    }, 
+    {
+      "date": "13 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "WOW_Argentina", 
+      "text": "Desde que nos sentamos esperamos casi diez minutos para que se acercara la moza y nos diera la carta, si bien el restaurante estaba al 50% de ocupaci\u00f3n, pero de ahi en adelante la atenci\u00f3n fue excelente. Los precios son altos en relaci\u00f3n a la calidad y elaboraci\u00f3n de los platos. Muy bueno el revuelto como entrada. De plato principal, el risotto de hongos ten\u00eda sabor a arroz quemado pero las milanesas rellenas con queso de cabra estaban muy bien. El tiramis\u00fa de postre que estaba fuera de la carta fue correcto. P\u00e9sima la ventilaci\u00f3n, se siente mucho el olor a comida y se impregna en la ropa."
+    }, 
+    {
+      "date": "28 Abr 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Viclan", 
+      "text": "Me senti por un rato comiendo en Paris, mesitas redondas al aire libre, la comida muy rica. Pero los precios demasiado caros!!"
+    }, 
+    {
+      "date": "11 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Anuchita", 
+      "text": "Un lugarcito muy simp\u00e1tico, con una excelente comida. La camarera que nos atendi\u00f3fue de lo m\u00e1s atenta. El volc\u00e1n de chocolate, fant\u00e1stico. Tuvieron la atenci\u00f3n de obsequiarnos una rosca casera para Pascuas. Lo \u00fanico que cambiar\u00eda es la m\u00fasica, pero eso es cuesti\u00f3n de gustos, no quiere decir que haya estado mal."
+    }, 
+    {
+      "date": "5 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Me invitaron a conocer el lugar y qued\u00e9 encantada, esos lugares que por su ubicaci\u00f3n se van conociendo del boca a boca . Muy buena ambientaci\u00f3n,destacable la cristaler\u00eda,  muy cordiales las camareras, la carta corta pero suficiente y muy moderna. Para los bebedores excelente variedad y de calidad. Los precios acordes al sevicio."
+    }, 
+    {
+      "date": "13 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "arielsanchez", 
+      "text": "buena opcion para una cena tranquila , la ubicacion del establecimiento es muy intima , la atencion de las mozas erratica , carta realmente corta pero sumamente eficaz , el cordero cocinado lentamente con crema de papas es realmente notable , buena panera ,decoracion sencilla y correcta , precios adecuados , la carta de vinos es buena , seria bueno tambien que aseguren existencia de todas las etiquetas , el ambiente por ser viernes a la noche demasiado familiar , en resumen un lugar para ir a cenar muy bien , en un lugar tranquilo."
+    }, 
+    {
+      "date": "31 Ago 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "misolmi", 
+      "text": "Es un lugar muy agradable, escondido en un rinconcito de Recoleta. La ambientaci\u00f3n es muy atinada, con m\u00fasica muy agradable, y la comida estupenda (destacando la majestuosa panera). Recomiendo como postre la sopa de frambuesa con helado de crema americana."
+    }, 
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "bomvivant2008", 
+      "text": "La comida muy buena. Lastima la sal de la tortilla, sino era excelente. La atencion floja.\r\nLa carta de vinos muy buena. No pidan tragos."
+    }, 
+    {
+      "date": "13 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "adro", 
+      "text": "Llegamos a Rosmarino, de muy buena ubicacion, recomiendo ir luego de caminar por recoleta, un lugar cerquita y apartado, al lado del Palais de Glace, super tranquilo y de nivel. los platos son exquisitos, opciones gourmet muy buenas, muy ricas rabas, el cordero y la bondiola super tiernos, se notan varias horas de coccion, servicio muy atento, tiene opciones de tragos y buenos postres. ideal para ir en pareja, como mucho mesa de 4."
+    }, 
+    {
+      "date": "23 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "camerun", 
+      "text": "todo normal, la atencion fue amable, las rabas estaban muy ricas,los platos tardaron pero como estabamos con amigos charlando no se noto.el tiramisu es espectacular."
+    }, 
+    {
+      "date": "5 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eidief", 
+      "text": "muy buen lugar, agradable y tranquilo. escondido pero con bastante gente a pesar de ser miercoles por la noche. muy buena atencion. probamos una degustacion de entradas, rabas en su punto justo, aceitunas rellenas, camarones panizados, una porcion de queso brie muy gustosa y todo a un precio accesible. compartimos entre dos y apenas nos quedo lugar para el postre. servicio valet parking y muy buena atencion. para volver!"
+    }, 
+    {
+      "date": "15 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Astarte", 
+      "text": "El restaurante se encuentra al costado del Palais de Glace, semioculto, al lado de un hotel. Est\u00e1 muy bien ambientado, es c\u00e1lido y moderno. Los platos no son variados, pero todo lo que comimos estaba muy rico. Excelentes presentaciones, riqu\u00edsima variedad de panes y limpieza absoluta. Los precios son adecuados a la zona, sobre todo teniendo en cuenta la calidad de los productos. Un lugar para volver."
+    }, 
+    {
+      "date": "2 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "cucaracha", 
+      "text": "La panera de rosmarino realmente es de las mejores de buenos aires,por lo que mi bocadillo era esepcional tanto por el pan como por los vegetales grillados,l as rabas que pidio mi ni\u00f1o estaban muy buenas\u00a1,despues pedimos un postre degustacion que estaba muy rico. Los precios me parecen un poco altos ...sobre todo de los principales...y el risotto con lomo realmente no lo entiendo.Rosmarino es un lugar que hay que probar sin dudas.la terraza es super linda\u00a1\u00a1"
+    }, 
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "Este es un restaurante con una puesta minimalista y un ambiente muy agradable; las mesas est\u00e1n razonablemente separadas lo que da una buena privacidad, amoblado y decorado con materiales de muy buena calidad y con asientos c\u00f3modos, lo que permite disfrutar de una buena velada. El bar est\u00e1 bien surtido y las ofertas de licores y cocteles es bien variada. En un d\u00eda agradable se puede comer en la vereda. En el horario en que fuimos solo hab\u00eda un mozo atendiendo cinco mesas, lo que hizo el servicio un poco lento, eso s\u00ed su atenci\u00f3n fue agradable y eficiente. Los panes son variados, frescos y hechos en casa. La carta es suficientemente amplia, lo que permite seleccionar los platos seg\u00fan el deseo espec\u00edfico de cada cual. Con respecto a lo que ordenamos: la ensalada estaba muy bien hecha con productos frescos; el abadejo estaba un poco sobrecocido; el cabrito braseado para mi gusto estaba pasado de sal y el tiempo de braseado debe haber sido corto, ya que la carne no tom\u00f3 el sabor de la infusi\u00f3n del l\u00edquido en que se cocino. la presentaci\u00f3n de los platos fue muy buena. En resumen un lugar agradable, en un sitio tranquilo, que con la mejora en algunos detalles se puede convertir en una excelente opci\u00f3n para el \u00e1rea de Recoleta."
+    }, 
+    {
+      "date": "28 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Betina", 
+      "text": "El lugar es muy lindo, est\u00e1 muy bien ambientado. \r\nLa atenci\u00f3n es impecable, desde el valet parking hasta las camareras. \r\nLa carta es un poco reducida, especialmente en los platos principales y algunos son demasiado rebuscados. La comida es muy rica, aunque los rolls estaban duros y se hac\u00eda dif\u00edcil cortarlos. Muy bueno el postre. Un lugar para disfrutar pero un poco caro."
+    }, 
+    {
+      "date": "15 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mga", 
+      "text": "Me pareci\u00f3 un lugar muy c\u00e1lido, con muy buena atenci\u00f3n de la moza y del due\u00f1o o encargado que en todo moento estuvieron atentos que a todo estubiera ok, apenas llegamos le comentamos que festej\u00e1bamos el cumplea\u00f1os de una amiga y nos trajeron una porci\u00f3n cheescake con una velita para brindar y una copita de vino (muy lindo gesto)  \r\nNo llegamos a los principales ya que las entradas y fingers foosds eran tan tentadoras que pedimos varias para probar y realmente vali\u00f3 la pena, as\u00ed c\u00f3mo la desgutaci\u00f3n de postres que era muy rica muy abundante.\r\nLos principales tamb\u00ed\u00e9n se veian tentadores con lo cual ser\u00e1 una buena excusa para volver.\r\nNotable la panera!!!"
+    }, 
+    {
+      "date": "6 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "diherga", 
+      "text": "El sal\u00f3n VIP en el subsuelo, c\u00e1lido e \u00edntimo con una iluminaci\u00f3n excelente."
+    }, 
+    {
+      "date": "15 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "GiGi_", 
+      "text": "Excelente el ambiente! La selecci\u00f2n de platos es peque\u00f1a y muy buena"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "No soy mucho de repetir rest\u00f3s porque me gusta explorar diversas alternativas gourmet pero con su atent\u00edsimo servicio y sus propuestas m\u00e1s que tentadoras, Rosmarino se est\u00e1 convirtiendo en uno de mis lugares favoritos y est\u00e1 logrando que me haga habitu\u00e9. En esta ocasi\u00f3n disfrut\u00e9 de un men\u00fa promocional acompa\u00f1ado con vinos Ar\u00edstides en donde todo result\u00f3 alt\u00edsimamente placentero y exquisito, desde la panera con oliva a una fondue de dulce de leche impresionante. Un verdadero agasajo a los sentidos que no hay que perderse!"
+    }, 
+    {
+      "date": "22 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vicki77", 
+      "text": "ES mi primera visita a este lugar,y me quede encantada.la atencion super eficiente,el lugar re lindo bien romantico.la entrada espectacular caesar con langostinos.el cordero delicioso,la pechuga en su justo punto.el sorbette para finalizar sin comentario excelente..vuelvo seguro......por mas."
+    }, 
+    {
+      "date": "14 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Flor80", 
+      "text": "Tanto el ambiente como el servicio y la comida, impecables. Mientras com\u00edamos toc\u00f3 una banda de jazz muy acorde al ambiente del lugar. Totalmente recomendable, seguro que vuelvo otra vez."
+    }, 
+    {
+      "date": "25 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "acade95", 
+      "text": "TODO\u00a1\u00a1\u00a1\u00a1desde la atencion hasta los postres \u00a1\u00a1\u00a1exletente\u00a1\u00a1\u00a1,mas que recomendable,vuelvo por mas."
+    }, 
+    {
+      "date": "16 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Letona", 
+      "text": "Me encanto el lugar. La gente es super amable y comimos riqu\u00edsimo. Son exquisitos los diferentes tipos de panes que sirven junto a un pate casero."
+    }, 
+    {
+      "date": "4 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leeleebee", 
+      "text": "El ugar es muy agradable en su sencilla pero cuidada ambientacion. la comida de muy buena calidad y respetados los puntos de coccion de los platos. Muy amables las mozas. Los postres buenisimos tambien. Es algo caro, pero vale la pena degustar los platos."
+    }, 
+    {
+      "date": "26 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pin", 
+      "text": "Muy interesante, el lugar y la zona son lindos. La atenci\u00f3n ideal para mi gusto: amable pero no cargosa (no te llenan la copa de vino cada 2 minutos). Los precios pueden resultar un poco caros. Tengo s\u00f3lo 2 cr\u00edticas: los platos principales son con carne o pastas y el ambiente es un poco ruidoso (hay m\u00fasica de fondo que apenas se oye pero las voces retumban). Por esto \u00faltimo y porque hay bastante luz, no es de los m\u00e1s rom\u00e1nticos que hay; pero est\u00e1 bien. La comida muy buena: la entrada del tama\u00f1o justo (quesos y fiambres muy ricos) y los platos(cordero y ravioles) tambi\u00e9n muy sabrosos."
+    }, 
+    {
+      "date": "24 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Carines", 
+      "text": "Excelente la calidad de la comida, la combinaci\u00f2n de los ingredientes en cada plato buscando sorprender al comenzal... volveremos sin dudas a probar las otras opciones. El ambiente es especial para estar tranquilos.. era nuestro aniversario, nos obsequiaron dos copas de champagne. Las mozas muy atentas y serviciales, respondiendo a nuestros pedidos siempre con una sonrisa. Excelente el daiquiri de frutos rojos."
+    }, 
+    {
+      "date": "20 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Por la Guia llegu\u00e9 a conocer Rosmarino y lo primero que me gust\u00f3 fue su ubicaci\u00f3n en el exclusivo pasaje Schiaffino.  La ambientaci\u00f3n del lugar est\u00e1 bien sin destacarse demasiado pero cuando comienza la cena y hasta el final todo es b\u00e1rbaro: la panera, las entradas, la carta con varias opciones tentadoras, los sabores logrados(no dejen de probar las pastas!)y la atenci\u00f3n de las chicas."
+    }, 
+    {
+      "date": "20 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mga", 
+      "text": "Volv\u00ec despu\u00e8s de un tiempo y sigue siendo IMPECABLE en todo sus aspectos, atenci\u00f2n, una carta super variada y completa, una panera espectacular, una combinaci\u00f2n de sabores muy buena y con innovaciones para mejor por ejemplo el volc\u00e0n de chocolate que viene acompa\u00f1ado con otro de dulce de leche que lo supera ampliamente\r\nLa relaci\u00f2n precio calidad es excelente y lo recomiendo sin lugar a dudas.\r\nAdem\u00e0s en una noche de verano tomar el caf\u00e8 en las mesitas de afuera de ese pasaje le agrega un plus especial."
+    }, 
+    {
+      "date": "17 Feb 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Ya hab\u00eda cenado en Rosmarino una vez y me pareci\u00f3 un lugar precioso, as\u00ed que al elegir un lugar para llevar a dos amigas extranjeras no dud\u00e9 y no me equivoqu\u00e9, ya que todos los comensales quedaron encantados con la comida, la atenci\u00f3n y el lugar. Es un rest\u00f3 un poco escondido que vale la pena descubrir!"
+    }, 
+    {
+      "date": "1 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "cucaracha", 
+      "text": "fui con mi marido y pase una noche super agradable,la atencion fue muy correcta ,la comida en tiempo y deliciosa\u00a1\u00a1\u00a1,volveremos seguro"
+    }, 
+    {
+      "date": "13 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jwba", 
+      "text": "Nos sentimos muy a gusto en este restaurante. Para destacar: los panes, la ubicaci\u00f3n y la atenci\u00f3n."
+    }, 
+    {
+      "date": "23 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Andygg01", 
+      "text": "Solo encontre 2 lunares, el tema del estacionamiento y el lugar que esta un poco oculto. Festejabamos nuestro aniversario de casados y la pasamos excelente, la comida exquisita, la atencion muy buena, le comentamos a la moza que era nuestro aniversario y nos trajeron para birndar. Nos quedamos con las ganas de mas y pensamos volver"
+    }, 
+    {
+      "date": "8 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Cookie23", 
+      "text": "Quiero destacar los riqu\u00edsimos panes que me trajeron ni bien me sent\u00e9!!Antes de mi plato, la bartender me prepar\u00f3 un riqu\u00edsimo grasshopper, un trago con crema que yo ni conocia!!! Un ambiente muy agradable con un muy buen servicio"
+    }, 
+    {
+      "date": "7 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "efeso", 
+      "text": "La comida excelente al ambiente es bueno pero le falta algo mas,excelentes los postres ...sugerencia podrian ofrecer algo mas por el precio"
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "acade95", 
+      "text": "Realmente muy bueno,el lugar muy agradable y la atencion muy personalizada,recomendado por un amigo..donde la comida es exelente,con productos frescos,y con calidad de verdad.todo lo que comimos riquisimo,desde la panera,la degustacion y bueno los principales, EXELENTES.Muy recomendable este restaurante,sigan ASI..."
+    }, 
+    {
+      "date": "7 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Un lugarcito c\u00e1lido para descubrir, escondido en un precioso rinc\u00f3n de Recoleta. La carta es un poco corta pero los platos est\u00e1n muy bien preparados con buenos productos y la atenci\u00f3n es acorde, invita a pasar un lindo momento"
+    }, 
+    {
+      "date": "9 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rusa227", 
+      "text": "Me llam\u00f3 mucho la atenci\u00f3n la ubicaci\u00f3n, ya que es un lugar muy tranquilo y se puede comer muy c\u00f3modamente en la vereda. La panera es buen\u00edsima y los platos muy abundantes y muy buenos. Me sorprendi\u00f3 mucho el abadejo envuelto en jamon crudo y relleno con queso brie (incre\u00edble). Muy buena idea la degustaci\u00f3n de postres."
+    }, 
+    {
+      "date": "25 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "clumar", 
+      "text": "Tranquilo, el pan excelente, la atenci\u00f3n esmerada; solo aconsejar\u00eda una mejor selecci\u00f3n de m\u00fasica ambiental."
+    }, 
+    {
+      "date": "26 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "BoyinBA", 
+      "text": "Volver\u00eda por los otros finger foods."
+    }, 
+    {
+      "date": "10 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SaltShaker", 
+      "text": "Caro, pero supongo que no por la zona... y vale la pena. Comida y servicio superior en contrasto de otro restaurantes cerca."
+    }, 
+    {
+      "date": "18 Sep 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Turito", 
+      "text": "Superc\u00e1lido, me encantaron la atencion y la comida."
+    }, 
+    {
+      "date": "12 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ailana", 
+      "text": "Un excelente lugar para ir a comer con amigos, el ambiente, la cocina y el servicio estan muy bien complementados."
+    }, 
+    {
+      "date": "12 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mjsz", 
+      "text": "muy bueno lo del estacionamiento."
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yiyo", 
+      "text": "Una cocina de muy refinados toques ,con una increible panera."
+    }
+  ]
+}

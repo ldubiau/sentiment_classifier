@@ -1,0 +1,106 @@
+{
+  "buenos": [
+    {
+      "date": "1 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Fabianaf", 
+      "text": "Excelente ambientaci\u00f3n, c\u00e1lida y tranquila. Ideal para reuniones de trabajo. La comida buena en la medida justa."
+    }, 
+    {
+      "date": "22 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Andie", 
+      "text": "Lindo lugar, buena comida, atenci\u00f3n correcta. Muy ricas ensaladas, muy buenos tragos. Muy tranquilo, bajo nivel de ruido, ideal para conversar."
+    }, 
+    {
+      "date": "4 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Caffe Rest\u00f3 que mantiene los parametros de la marca \"auspiciante\" con un excelente ambiente (privilegiada ubicacion) y muy buen servicio. La comida es buena, aunque la carta es pretenciosa y la calidad de la comida no llega a justificar los altos precios."
+    }, 
+    {
+      "date": "20 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Sanchez", 
+      "text": "comida de muy buena calidad. una latima que no abran de noche. servicio impecable"
+    }, 
+    {
+      "date": "2 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MARITUS", 
+      "text": "Una muy excelente opci\u00f3n para el mediod\u00eda, l\u00e1stima que de noche est\u00e1 cerrado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PuraMalta", 
+      "text": "Excelente sin lugar a dudas, se nota un gerenciamiento impecable."
+    }, 
+    {
+      "date": "24 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "superpikachu", 
+      "text": "Muy buena propuesta para un almuerzo tranquilo o reuni\u00f3n de trabajo. Decoraci\u00f3n minimalista correcta, muy buena carta de platos. Deber\u00eda ajustar la carta de tragos, no hay descripci\u00f3n de los ingredientes de cada uno. Recomendable."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jirafa", 
+      "text": "Soy de Bah\u00eda Blanca y adoro los lugares con estilo. \u00a1Qu\u00e9 lindo ser\u00eda que invirtieran en mi ciudad!"
+    }, 
+    {
+      "date": "8 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Un men\u00fa excelente para el mediod\u00eda. Me encanta el lugar y me encant\u00f3 la propuesta."
+    }, 
+    {
+      "date": "7 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nuchi", 
+      "text": "Un placer el ambiente, todo rico hasta la tranquilidad de poder tomar un exquisito te."
+    }
+  ]
+}

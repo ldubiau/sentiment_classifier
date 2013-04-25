@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "30 Jul 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "emivelas", 
+      "text": "Estuve en uno de los boxes festejando mi aniversario y la verdad la pas\u00e9 muy a gusto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lorelay", 
+      "text": "Me sent\u00ed muy a gusto, el ambiente es muy familiar, lo recomiendo 100%."
+    }, 
+    {
+      "date": "9 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "oscarrub", 
+      "text": "La comida lleg\u00f3 a la mesa en forma r\u00e1pida y muy rica adem\u00e1s de abundante, los mozos experimentados atendieron muy bien."
+    }
+  ]
+}

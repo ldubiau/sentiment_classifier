@@ -1,0 +1,368 @@
+{
+  "malos": [
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Lopecito", 
+      "text": "Me sentaron ahi adelante de todo teniendo espacio en todo el local.  En general me parecio muy caro por las cantidades servidas... langostinos empanados (el empanado muy duro) 4 unidades y chicas, el salmon rosado era una lonja que no debia tener mas de 150 gramos y el mousse de dulce de leche en una copa de cognac!!  de sabor estaba bien menos el mousse que estaba aguado en el fondo.  No fue lo que espera."
+    }, 
+    {
+      "date": "5 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "LICOMIDAS", 
+      "text": "La verdad que mi experiencia no fue buena, tardaron muchisimo en atendernos la comida tambien me tardo y cuando me  llego nada era nada especial, sin hablar de la vajilla sucia o semi sucia como quieran decirle le tuve que pedir al mozo  que me la cambie, en definitiva caro y soso, no vuelvo mas... suerte si desean ir"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Elverde", 
+      "text": "La comida es excelente y muy bien presentada, la decoraci\u00f3n del lugar es muy buena, pero lamentablemente el \u00fanico mozo del lugar no puede con todas las mesas y las dos camareras s\u00f3lo sirven las bebidas no alcoh\u00f3licas y se las olvidan. Este es un detalle importante que deben  corregir."
+    }, 
+    {
+      "date": "3 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Muy buena opci\u00f3n, para la zona de Pilar."
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Anuchita", 
+      "text": "Es un restaurante simp\u00e1tico en el Village de Pilar. La comida es muy buena; probamos el pat\u00e9, el solomillo a la mostaza y la ensalada de camarones. Todo muy rico y fresco y servido r\u00e1pidamente. La atenci\u00f3n fue muy buena, as\u00ed tambi\u00e9n como la carta de vinos bastante completa. Obtuvimos el descuento de Club La Naci\u00f3n. Es un lugar para volver."
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "maryfrance", 
+      "text": "La atenci\u00f3n es pat\u00e9tica, no lo recomiendo para nadie que quiera pasar una noche agradable porque lo \u00fanico que te hacen sentir son ganas de irte. Te atienden con muy mala gana, todo el tiempo detalles los dejan en un lamentable lugar, lo que menos parecen es lo que venden con su imagen: nos trajeron las botellas ya destapadas, llegamos 20:30 y nos recibieron diciendo \"abrimos menos cuarto, pero bueh, pasen. Si quieren pasar un buen momento, no vayan."
+    }, 
+    {
+      "date": "12 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "cerminar", 
+      "text": "El lugar es agradable, el servicio correcto. La mesa se movia, al entrar cerca de la cava habia olor feo.\r\nLa comida correcta, la entrada de hongos con queso azul muy bien.\r\nLos principales , lo mejor los gnocchis romanos. El pastel de cordero esta bien pero o algo salado y con poco guso para la larga coccion que tiene. El cerdo correcto sin deslumbrar. Postres malos. \r\nBuena carta de vinos"
+    }, 
+    {
+      "date": "22 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "topo1975", 
+      "text": "La verdad es que el lugar esta muy bueno, hay poca oferta gastronomica del estilo en Pilar. La comida es muy buena y la atencion excelente. Recomendable el pastel de cordero."
+    }, 
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "florcita1234", 
+      "text": "Me gusto mucho el lugar. Ambiente tranquilo. La comida muy rica. Comi salmon que me parecio excelente. Lo recomiendo para ir con amigos o en pareja."
+    }, 
+    {
+      "date": "22 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "tongasy2k", 
+      "text": "Nos dieron una muy c\u00e1lida bienvenida y durante la noche estuvieron muy atentos a todo lo que necesitabamos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mauri1984", 
+      "text": "exelente comida, unidamente desentonaba la musica que estaba muy fuerte para el ambiente tranquilo del lugar."
+    }, 
+    {
+      "date": "15 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Nebrija", 
+      "text": "Excelente experiencia. El mozo con atenci\u00f3n esmerada y d\u00e1ndonos buenas sugerencias. Tanto los pescados como las pastas en su justa cocci\u00f3n y muy logradas las salsas que acompa\u00f1aban. Todo muy sabroso. Tambi\u00e9n tiene una buena cava y con buenas etiquetas.  Altamente recomendable."
+    }, 
+    {
+      "date": "31 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JORGEBP", 
+      "text": "Excelente experiencia gastron\u00f3mica. Fuimos dos matrimonios a la noche. Ambiente c\u00e1lido y buena atenci\u00f3n. Compartimos dos entradas ( pate de campo y la bruschetta) Un pisco sour previo.Comi un solomillo a la mostaza buenisimo.Los otros , un  yakemeshi, un salmon y ravioles de lomo. Todo especial. El postre helados y una copa do\u00f1a juana ( muy buena) Como atencion cuatro bellinis a cargo de la casa. Tiene club la Nacion . Volveremos"
+    }, 
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "matt22", 
+      "text": "muy buen lugar, se come muy rico, buena presentacion."
+    }, 
+    {
+      "date": "26 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lalvarezmansilla", 
+      "text": "Me encanto este lugar! Pedi una mousse de palta y los raviloes de lomo, excelente todo, servicio rapido y atento. Eramos varios y a todos les gusto su plato.  Si tienen ganas de comer rico no duden en ir, los precios super logicos. Volvere x el pastel de cordero!"
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dffddf", 
+      "text": "excelente comida, muy rapido el servicio. la entrada de hongos es realmente muy buena. es un clasico para ir en esa zona. llamar para reservar porque se llena!!"
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Agustin77", 
+      "text": "Calidez en la atenci\u00f3n. Excelente la comida y la relaci\u00f3n precio/calidad."
+    }, 
+    {
+      "date": "17 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "drucho", 
+      "text": "El ambiente, la comida y la atenci\u00f3n son excelentes. Fui por segunda vez y espero volver. Recomiendo probar TODAS las entradas, son todas espectaculares. Buena relaci\u00f3n precio-beneficio."
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "el_mejor", 
+      "text": "Fuimos con un grupo de amigos\r\n\r\nMuy buena cocina, atenci\u00f3n y carta de vinos.\r\n\r\nEl ambiente es muy calido y su personal se compromete con el cliente"
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Delficad", 
+      "text": "Me encanto!! La Fondue de queso espectacular...fui con varias amigas y nos atendieron muy  bien muy personalizad! Nos recomendaron un  muy buen vino para acompa\u00f1ar. El lugar es muy comodo, nos sentimos como en el living de una casa, no nos queriamos ir!! Por supuesto que vuelvo! y se los reee recomiendo!"
+    }, 
+    {
+      "date": "10 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cristyi", 
+      "text": "Excelencia y actitud en el servicio, variabilidad en el carta y calidad en los productos!!!, me ENCANTO!, recomendable el pulpo a la Gallega."
+    }, 
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "novaro", 
+      "text": "Ambiente muy agradable, tanto para ir en pareja como para disfrutar con amigos. Comidas ricas, abundantes y sofisticadas. Muy buena atenci\u00f3n, altamente recomendable."
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "apolonline", 
+      "text": "Muy, muy bueno. Para recomendar y quedar bien. Eramos tres, as\u00ed que pude probar un poco de todo, y realmente estaba todo muy bueno, con los puntos de coccion justos y llego todo con un timing perfecto. El pastel de cordero un manjar. Carta de vinos complet\u00edsima, y como tuve la punter\u00eda de elegir uno que no hab\u00eda, al pedir el 2do que tampoco hab\u00eda, lo reemplazaron por uno de la misma bodega y calidad superior con la diferencia a cargo de la casa. La atenci\u00f3n, cordial y esmerada. Sin dudas regresar\u00e9."
+    }, 
+    {
+      "date": "21 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CMarcos", 
+      "text": "Muy recomendable. No son platos muy abundantes, pero alcanzan. De muy buena calidad y sabor. Te dejan con esas ganas de volver a comerlos. Entrada focaccia (muy buena). Yakemeshi muy sabroso y la pasta con camarones, excelente. Cheese cake con frutos del bosque, excelente. Gran surtido de vinos...pero partiendo de los 70$"
+    }, 
+    {
+      "date": "17 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lalvarezmansilla", 
+      "text": "Fuimos a comer un lunes,eramos 5. Un plato mas rico que el otro. Los fetuccini con camarones y la sfoglia los mejores pero el pulpo a la gallega es el imperdible!! Nos atendio la duena super personalizado. Excelente la atencion y muy acogedor.\r\nYa quiero volver y pedirme el salmon y el postre de chocolate con dulce de leche que tienen."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Amador32", 
+      "text": "Un excelente lugar, muy ameno con una carta muy variada de riqu\u00edsimos  platos. A la hora de servirlos cumplen con creces  con lo que prometen. La atenci\u00f3n es muy buena y realmente el ambiente es sumamente confortable.\r\nUn lugar altamente recomendable!"
+    }, 
+    {
+      "date": "7 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Richard_", 
+      "text": "Muy buena cocina. Comimos un pastel de cordero braseado y un yakimeshi de pollo. Los dos platos bien elaborados y presentados. Los platos no son abundantes. Ambiento sencillo y acogedor.  Buena seleccion de vinos y opcion por copas."
+    }, 
+    {
+      "date": "24 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "drucho", 
+      "text": "Fuimos a cenar con  un grupo de grande de amigos. Cuando me enter\u00e9 donde ibamos de lejos casi mato a mi mujer pero despues todo fue una grata sorpresa. La comida excelente, creo que prob\u00e9 todos los platos y me gustaron todos. Lindo lugar, muy ameno y excelente servicio, muy atento a todo y a todos. Volver\u00eda. Sin dudarlo."
+    }, 
+    {
+      "date": "1 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mari\u00adaM", 
+      "text": "El ambiente es sencillo pero muy ameno, la carta es EXCELENTE, las entradas hacen que uno quiera volver muchas veces para probarlas todas. Fui con amigos y otra vez en pareja, super recomendable para ambas alternativas. Tragos riquisimos, especialmente la caipiroshka. Volver\u00eda sin dudarlo!"
+    }, 
+    {
+      "date": "4 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pepona110", 
+      "text": "100% recomendable!!!!!!!"
+    }, 
+    {
+      "date": "19 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bofis", 
+      "text": "Me parecio muy cozy. Nos tomamos unas rondas de caipiroskas muy ricas. Y degustamos varios platos de la carta, eramos 4 asi que cada uno se pidio un plato distinto para probar, los cuales estaban muy ricos. La atencion de la duena directamente con los comensales es increible. No es uno de esos duenos sentados detras de la caja que te miran de lejos, lo cual hace un servicio totalmente impersonal, y sos un numero mas para ellos. Ella ante cualquier necesidad se te acerca a la mesa muy atentamente."
+    }, 
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "LeNoir", 
+      "text": "Excelente comida, aunque carta limitada. Servicio desordenado, cada uno tiene un rol, pero nadie coordina la mesa, no se sabe a qui\u00e9n llamar. Consultan si vas al cine y cumplen fielmente el horario de atenci\u00f3n. Lo que no me gusta: tiene un lugar hermoso para fumadores y otro muy inc\u00f3modo para los no fumadores, que tenemos que estar apretados, en un lugar sin ventana, y con el chorro de aire fr\u00edo del aire acondicionado en la cara. Eso resta."
+    }, 
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gattofelix", 
+      "text": "Increible el Camembert tibio, la verdad era la primera vez que lo comia de esta manera y me Encanto! Nos tomamos un Clos de los siete, muy bien la relacion precio calidad."
+    }, 
+    {
+      "date": "12 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "El ambiente es chiquito pero lindo. El servicio es bastante lento pero te hacen todo en el momento, por lo tanto la comida es mas rica. Nunca comi una ensalada caesar tan rica con el pollito tan crujiente y calentito. Lo recomiendo despues del cine ya que se van a enojar bastante si tienen que ver una pelicula."
+    }, 
+    {
+      "date": "3 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CharlieMDQ", 
+      "text": "Excelente opci\u00f3n para visitar en invierno, la fondue es super abundante y riquisima, quedamos encantados."
+    }, 
+    {
+      "date": "4 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Biti", 
+      "text": "Se nota que el chef es destacado, la comida riqu\u00edsima. Super recomendable, la atenci\u00f3n excelente. Muy rica la creme brulee."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Valle", 
+      "text": "Vamos seguido a tomar meriendas. La atenci\u00f3n es siempre excelente, y nos encanta el ambiente. Es un bar de los de antes (no \"retro\", sino genuinamente antiguo, pero sin venir a menos, el interior revestido en madera, todo precioso y bien mantenido). Las meriendas riqu\u00edsimas, y a muy buen precio. En d\u00edas soleados, las mesas de la vereda son una opci\u00f3n ya que la calle es poco transitada.  La m\u00fasica a un volumen que no molesta para conversar, y siempre fuimos bien atendidos. Tenemos que volver a probar  el almuerzo."
+    }, 
+    {
+      "date": "16 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lilitalo", 
+      "text": "nos encanta ir a tomar algo despues de cenar!!!"
+    }, 
+    {
+      "date": "25 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Matoyvoy", 
+      "text": "Buen lugar para almorzar con un men\u00fa acorde a seguir trabajando. Buena realaci\u00f3n precio calidad. La ubicaci\u00f3n es excelente: frente a una muy linda plaza y con f\u00e1cil estacionamiento. Una vereda tranquila para disfrutar. Muy recomendable para tambi\u00e9n como bar. Una barra amplia y bien atendida para tomar copas bien servidas."
+    }, 
+    {
+      "date": "24 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "baffoblu", 
+      "text": "cl\u00e1sica comida bastante bien hecha pero un poco caro para lo que es. lo recomiendo m\u00e1s para ir a desayunar o tomar el t\u00e9.\r\nel servicio es correcto y el lugar es lindo para sentarse afuera en los d\u00edas de calor ya que la calle es super tranquila."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "limarilu", 
+      "text": "Fuimos a las 2 am y nos atewndieron igual... y muy bien. Sandwich de jamon crudo increible y la cerveza helada!!"
+    }
+  ]
+}

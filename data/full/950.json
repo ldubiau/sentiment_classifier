@@ -1,0 +1,148 @@
+{
+  "malos": [
+    {
+      "date": "28 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "xulsolar01", 
+      "text": "El peor lugar de Buenos Aires. Tardaron una hora y media en traerme una pizza de muzzarella y dos empanadas. La pizza es patetica y cuesta 30 mangos, varias personas se fueron; no quise hacerlo porque estaba con dos chicas y queria pasar una noche tranqui."
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Koche", 
+      "text": "MALISIMO, lo peor de buenos aires"
+    }, 
+    {
+      "date": "4 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ajaudisio", 
+      "text": "Un cuasi-comedero al paso. Precios razonables y comida apenas aceptable."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adraugello", 
+      "text": "Es un lugar de paso para comer una pizza o picar algo en caso de encontrase en microcentro. La carta de vino es bastante pobre pero la calidad de la pizza excelente."
+    }, 
+    {
+      "date": "25 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Para salir del paso con una pizza en la vereda una noche de domingo en el centro cuando casi todo en la zona est\u00e1 cerrado y con muy bajo presupuesto no est\u00e1 mal"
+    }, 
+    {
+      "date": "10 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rockso", 
+      "text": "Buen lugar para comer milanesa de ternera. He ido 2 veces durante mis viajes a BsAs y no me defraud\u00f3. Com\u00ed alli alrededor de las 4 o 5pm, hora en la que todo est\u00e1 traquilo (no se c\u00f3mo ser\u00e1 al mediod\u00eda) y te atienden muy bien."
+    }, 
+    {
+      "date": "6 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "caperra", 
+      "text": "Lindo lugar para minutas. Las carnes no son muy buenas. Servicio muy simpatico, mis hijos apreciaron las cantidades de dulce de leche en los postres."
+    }, 
+    {
+      "date": "16 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lumare", 
+      "text": "Un grill sin pretenciones para almorzar, nada fuera de lo com\u00fan. Servicio r\u00e1pido. Carnes marcadas, pero buenas empanadas."
+    }, 
+    {
+      "date": "30 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "rhr955", 
+      "text": "S\u00f3lo para comer algo r\u00e1pido al mediod\u00eda, del men\u00fa ejecutivo. \r\nLa carne est\u00e1 marcada y se nota. \r\nDe otras visitas, se\u00f1alo que la pizza es mediocre. Alguna minuta puede andar."
+    }, 
+    {
+      "date": "31 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mauro-re", 
+      "text": "Muy buen lugar, comida bien aceptable y precios acordes."
+    }, 
+    {
+      "date": "20 May 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aperez10", 
+      "text": "Muy buen lugar. Recomendable 100%"
+    }, 
+    {
+      "date": "17 Oct 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FrenosTucci", 
+      "text": "Lo \u00fanico que me molest\u00f3 fue el hecho de no tener estacionamiento. Tuvimos que pasar un mal d\u00eda de la madre, ya que las gruas se llevaron los autos. No s\u00f3lo los nuestros sino tambi\u00e9n los de muchas personas que estaban comiendo all\u00ed.\r\nEs una pena porque el lugar est\u00e1 bueno y con auto ya no podemos ir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "albo", 
+      "text": "Todo bueno pero la persona que nos atendi\u00f3 se molest\u00f3 por que uno de los integrantes del grupo que fuimos ped\u00eda muchas gaseosas."
+    }, 
+    {
+      "date": "20 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jannett", 
+      "text": "Fuimos 3 peruanos por 5 dias a B.A. y quedamos encantados con la parilla. Tan asi que regresamos al dia siguiente a comer. Ojala pueda volver. Felicitaciones."
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "11 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "palocla", 
+      "text": "Fui a almorzar sola, alrededor de las 13.15 horas. Ped\u00ed un plato del d\u00eda, unos wraps de pollo y vegetales. Eran las 13.45 y todav\u00eda no hab\u00eda llegado la comida, y para colmo yo me ten\u00eda que ir 14.15. Reclam\u00e9 y me dijeron que ya sal\u00eda, pero sin embargo hasta las 14 horas no lleg\u00f3. Cuando lleg\u00f3, si bien era abundante, el relleno de los wraps chorreaba enormes cantidades de aceite. Adem\u00e1s, la moza me trajo en la panera 3 m\u00edseras rodajas de pan cuando a otra mesa por ser clientes cotidianos, les trajo una panera colmada. Sinceramente no lo recomiendo para nada. Brownies y muffins muy secos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carola63", 
+      "text": "Ideal para pasar un momento tranquilo y agradable, ya sea  desayunando, almorzando o merendando, ya que cierra a las 20.00 hs. El ambiente muy lindo,  la atenci\u00f3n muy buena, y la comida tambi\u00e9n, particularmente  recomiendo el sandwich de salm\u00f3n o las ensaladas.  Si bien es un lugar concurrido por gente de la zona, puede resultar una buena parada para quienes anden por all\u00ed. Los precios nada altos por la calidad que ofrecen. Lo que m\u00e1s me gusta es sentarme en la mesas exteriores a tomar caf\u00e9 los d\u00edas soleados de invierno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Campeona", 
+      "text": "La comida es excelente, se nota que hay mucho esmero en la combinacion de los condimentos."
+    }, 
+    {
+      "date": "1 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "solana", 
+      "text": "La verdad que es uno de los mejores lugares para pasar un rato tranquilo y agradable. La comida es riquisima tanto para almorzar como merender, y los precios muy accesibles. \r\nEl lugar sin palabras: una delicadeza. Tanto la vajilla vintage como el lugar en s\u00ed se llevan un 10!"
+    }
+  ]
+}

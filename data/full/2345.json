@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "17 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Agustinaaa", 
+      "text": "Nada del otro mundo, lo que si el servicio no es bueno, la moza te atiende con pocas ganas, el local no estaba del todo limpio y la forma de servir una ensalada es un desastre, poco recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Mar 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "cipriani", 
+      "text": "Aunque el lugar es un poco chico me encanta. La atencion es muy amable y la comida excelente y por muy buen precio. Me encanta el jugo de naranja exprimido y la ensalada de frutas, tambien hecha ahi. Un lugar recomendable y se que voy  volver!"
+    }, 
+    {
+      "date": "28 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "kpoman", 
+      "text": "Muy bueno, pero el local es muy chico."
+    }
+  ]
+}

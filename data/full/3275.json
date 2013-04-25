@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "21 Oct 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "carolabl", 
+      "text": "Muy buena opci\u00f3n para almorzar en microcentro. El men\u00fa ejecutivo tiene 4 o 5 opciones que cambian todos los d\u00edas."
+    }, 
+    {
+      "date": "15 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "ger444", 
+      "text": "Una Opcion muy buena para comer fuera de la oficina, platos elaborados y buen precio, lugar limpio y calido... atencion de buena a muy buena."
+    }, 
+    {
+      "date": "15 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "doctor_d", 
+      "text": "Restaurant en zona de oficinas, con buenas opciones de men\u00fa ejecutivo. Nada del otro mundo, pero es recomendable para almorzar algo aceptable y r\u00e1pido."
+    }
+  ]
+}

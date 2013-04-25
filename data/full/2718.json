@@ -1,0 +1,626 @@
+{
+  "buenos": [
+    {
+      "date": "28 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "supervilda", 
+      "text": "Muy buena la pizza y el ambiente es agradable. Es mas caro que otras pizzerias, pero vale lapena."
+    }, 
+    {
+      "date": "8 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Meryposapontiac", 
+      "text": "Realmente no me gust\u00f3. Estoy acostumbrada a las pizzer\u00edas tradicionales. Los gustos de las pizzas eran bastante sofisticados. Si bien la pizza est\u00e1 bien, es muy cara. El ambiente es peque\u00f1o, bastante."
+    }, 
+    {
+      "date": "1 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lfacundo", 
+      "text": "La pizza es buena si uno busca una pizza a la piedra. El local de Vidal no es de los mejores ya que es muy chico, pero se est\u00e1 bien.\r\nPara ser un lugar especializado en pizzas deber\u00eda tener muchas m\u00e1s variedad de cervezas."
+    }, 
+    {
+      "date": "21 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "sofiarazi", 
+      "text": "Muy rica pizza y buena la atencion."
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nanagodard", 
+      "text": "Muy buenas las pizzas! El ambiente, s\u00faper ameno...para volver!"
+    }, 
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "facundolaffont", 
+      "text": "Muy buena la comida. Tardaron un poco en atendernos porque hab\u00eda mucha gente."
+    }, 
+    {
+      "date": "15 Abr 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sagan", 
+      "text": "Buena pizza, ped\u00ed varias veces,  la grande se puede pedir media de cada gusto y son muy grandes. Algunas veces llegaron un poco fr\u00eda pero siguen siendo ricas."
+    }, 
+    {
+      "date": "23 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Eulalia", 
+      "text": "Pedimos delivery dos veces, mediod\u00eda y noche. El servicio fue muy bueno, pizza y faina excelentes por la calidad de los ingredientes. La relaci\u00f3n con el precio la mejor de las que hemos probado. Muy recomendable. La pizza es m\u00e1s grande del promedio.  Zona Palermo. Puse el precio del delivery no por comensal, con lo cual se\u00f1alo que es m\u00e1s econ\u00f3mico que otros."
+    }, 
+    {
+      "date": "4 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "yanuchi_83", 
+      "text": "Muy rica pizza!! seguro vuelvo!!"
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La pizza es muy rica, los ingredientes son de muy buena calidad."
+    }, 
+    {
+      "date": "28 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "zime_nina", 
+      "text": "Muy buenas pizzas. Recomiendo pedir dos sabores en una pizza, ya que cada una es realmente grande."
+    }, 
+    {
+      "date": "28 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Creo que han sabido darle una vuelta de tuerca a un plato tan tradicional y popular como la Pizza. La decoraci\u00f3n del lugar, la carta, la estetica del restaurante, los mozos y hasta la p\u00e1gina web est\u00e1n perfectamente alineadas dando una imagen de pizza gourmet. \r\nLa variedad es sumamente interesante. Alternativas diferentes a lo tradicional y productos de primera calidad justifican los pesos adicionales que uno debe pagar. Destacan por originales y ricas las Pizzas Blancas como la de queso brie o la tradicional de manolo y francesca (parmesano, crudo, tomates secos y rucula)."
+    }, 
+    {
+      "date": "7 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rasa", 
+      "text": "Hay muchas variedades de pizzas hechas a la piedra. He pedido una Light y era muy sabrosa, con quiz\u00e1s poco queso. La atenci\u00f3n ha sido excepcional. El lugar muy agradable"
+    }, 
+    {
+      "date": "20 Jul 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ganzola", 
+      "text": "Las variedades de pizzas son excelentes. Todas las que pude probar me parecieron buen\u00edsimas. Siempre ped\u00ed, nunca me sent\u00e9 a comer ah\u00ed. Admito que el servicio es de cuarta, pero como la pizza me gusta la pido y la voy a buscar. He visto bastantes personas quej\u00e1ndose mientras espero. Tengo claro que si no tengo ganas de ir a buscarla pido a otro lado para no amargarme. Igualmente, la recomiendo."
+    }, 
+    {
+      "date": "3 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rodocontegni", 
+      "text": "Me sorprendi\u00f3 lo p\u00e9simo del servicio en este local, ya que en otro de los locales nos hab\u00eda antedido muy bien. La chica que nos atendi\u00f3 no quiso dejar la salsa que traen para \"picar\". Cuando le ped\u00ed que, entonces, trajera panes que no estuvieran gomosos, me respondi\u00f3 de muy mala gana que \"todos son as\u00ed\". A pesar de la mala experiencia, la pizza estuvo muy buena. Volver\u00e9, pero al local de Elcano."
+    }, 
+    {
+      "date": "4 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "fede78", 
+      "text": "Por segunda vez hago un pedido al local de belgrano (Vidal) y me traen medio pedido con lo cual o como frio o como la mitad de los comensales mientras esperas que completen tu pedido. La primera vez se olvidaron las bebidas y esta vez me trajeron uno de los dos sandwichs. PESIMO! Obviamente no llamo nunca mas!"
+    }, 
+    {
+      "date": "2 Abr 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "vaceal", 
+      "text": "lamentable, llegamos por recomendaci\u00f3n de la calidad de la pizza,en la sucursal de caballito,tardaron media hora en tomarnos el pedido,junto con otra media hora para llegar la pizza, pedimos 2 empanadas para hacer la entrada y llego junto con la pizza, llegaba gente a pedir mesas y decian que estaban todas ocupadas, pero tampoco las atendian,el servicio muy malo a juzgar por mi experiencia."
+    }, 
+    {
+      "date": "28 Mar 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lamegayed", 
+      "text": "ayer a la noche decidimos ir con amigos al almacen de julian alvarez 2400.\r\nllegamos nos prepararon una mesa, faltaba una silla nadie se acerco a atendernos pasaron 10 minutos nos acercamos al mostrador a pedir la silla que nunca llego y despues de 15 minutos de estar parados y que las camareras nos ignoren por completo aun viendo una persona de la mesa que no tenia lugar para sentarse decidimos irnos.\r\nmalisima la atencion!!!!!!!"
+    }, 
+    {
+      "date": "26 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nijdenmu", 
+      "text": "La pizza muy rica as\u00ed como tambi\u00e9n la fain\u00e1, lo que tiene que lo hace mejor que los dem\u00e1s locales, es que est\u00e1 apartado de los lugares populares y por lo tanto es un lugar donde siempre hay lugar disponible y es poco ruidoso"
+    }, 
+    {
+      "date": "25 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MalenaMarilyn", 
+      "text": "Las pizzas de r\u00facula y tomate y la de distintos hongos me parecieron muy buenas, la masa finita y los ingredientes de calidad. El lugar es chico pero agradable. Si bien solo hab\u00edan tres meses ocupadas la atenci\u00f3n no me pareci\u00f3 demasiado esmerada. La carta de vino, a pesar de ser corta, resulta satisfactoria. Un lugar recomendable."
+    }, 
+    {
+      "date": "25 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rovis", 
+      "text": "Muy buena pizza, con ingredientes de primera, Fain\u00e1 bien cocinada, seca y al mismo tiempo liviana, El ambiente es muy agradable y la atenci\u00f3n correcta. Soy conciente que se trata de una comida sobre la cual existen muchas alternativas. Esta es de las buenas. Volver\u00e9"
+    }, 
+    {
+      "date": "26 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Ganzola", 
+      "text": "Solo puedo hablar del delivery ya que pedimos a casa motivados por la gran variedad que tiene el lugar. Lleg\u00f3 un poco fr\u00eda pero hoy en d\u00eda es casi imposible que la pizza llegue caliente de pizzer\u00edas grandes. Un toque de horno y pudimos disfrutar de estas pizzas que valieron la pena. Ideal para probar algo distinto con gustos de pizza muy raros."
+    }, 
+    {
+      "date": "9 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "juano86", 
+      "text": "El lugar es chico, pero la pizza es excelente, son enormes y el precio es razonablemente barato para el tama\u00f1o de las pizzas. La atencion es buena ya q como el lugar es chico las 2 mozas estan todo el tiempo atentas"
+    }, 
+    {
+      "date": "12 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "loolita", 
+      "text": "La pizza de brie y la de esp\u00e1rragos y huevos de codorniz exquisita. Nos encant\u00f3 la masa finita. El lugar es bastante peque\u00f1o y las mesas son chicas. Es una l\u00e1stima que la atenci\u00f3n no sea esmerada y la moza estuviera papando moscas."
+    }, 
+    {
+      "date": "5 Sep 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mauriciomon", 
+      "text": "para desayunar es un lugar muy agradable, economico y de buena calidad"
+    }, 
+    {
+      "date": "30 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "celuchoide", 
+      "text": "La atenci\u00f3n fue p\u00e9sima. Eramos 5 en una mesa para cuatro con muy poco espacio sumado a que no est\u00e1 contemplado el espacio que ocupa la pizza grande de 10 porciones en la mesa. La atenci\u00f3n del encargado dej\u00f3 mucho que desear; siendo el mismo muyy maleducado y forzandonos a retirarnos sin comer postre."
+    }, 
+    {
+      "date": "11 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dori78", 
+      "text": "El lugar es muy lindo y las pizzas buenisimas!\r\n\r\nLo unico para criticar que aceptan tarjeta de debito, que dado al perfil que apunta el local deber\u00edan hacerlo."
+    }, 
+    {
+      "date": "24 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lumpa", 
+      "text": "Me encantaron las pizzas que tienen en este restaurante. El local es peque\u00f1o y tiene una onda newyorkina que me result\u00f3 muy agradable.\r\nLa atenci\u00f3n nada del otro mundo. De postre comimos los infalibles helados Haagen Dasz."
+    }, 
+    {
+      "date": "3 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "El lugar no es de los mejores que fui a comer pizza, es pasable. Esta buena la pizza de bocconchinos y jamon crudo, pero me desepciono mucho la de salmon brei y rucula, no te pueden poner el salmon congelado recien sacado del freezer... pero bue en terminos generales lugar normal. Servicio lento y poco eficiente"
+    }, 
+    {
+      "date": "24 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Valepato", 
+      "text": "Simplemente, me parece un desastre que el delivery tenga que venir 3 veces porque se equivoca y se olvide parte del pedido.\r\n\r\nEl roll nada del otro mundo. No llamo mas!!"
+    }, 
+    {
+      "date": "14 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "lauriac", 
+      "text": "Si bien es muy buena la comida,la atencion del lugar deja mucho que desear, el delivery es desastroso y la atencion del encargado es espantosa , vivo a una cuadra por lo que fui a buscar la pizza luego de 60 minutos de demora,llegue al lugar y no la habian puesto en el horno,el encargado en vez de pedirme disculpas me dijo\"el tiempo es estimativo\" solamente nos pasamos 15 minutos!!!(yo pensaba si 15 minutos por que la vine a buscar, si las esperaba en casa no me quiero imaginar lo que demoraban)le pedi el libro de quejas y me dijo dejame laburar!NO LO RECOMIENDO PARA NADA"
+    }, 
+    {
+      "date": "4 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "diegus", 
+      "text": "Es la tercera vez que pido delivery y se demoran m\u00e1s de 1 hora. Llam\u00e9 20:15 y lleg\u00f3 21:50, no ped\u00ed un lech\u00f3n, s\u00f3lo una docena de empanadas. Es el t\u00edpico ejemplo de una buena idea con una p\u00e9sima operaci\u00f3n."
+    }, 
+    {
+      "date": "23 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Keepwalking", 
+      "text": "El ambiente es muy agradable, el lugar peque\u00f1o y bien decorado. La variedad de pizzas es muy grande, como por ej. de salm\u00f3n ahumado con brie, capresse, panceta y las cl\u00e1sicas de toda pizzeria. La masa es super finita, habra a quien le encante y a quien no. Los precios son muy acordes, por ej la capresse $30. La atenci\u00f3n fue buena.Recomendable.-"
+    }, 
+    {
+      "date": "25 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Florchita", 
+      "text": "Probamos la pizza \"Almacen de Pizzas\" que es una combinacion de varias alternativas... nos parecio muy buena, muy rica y con sabores distintos al comun... muy lindo lugar!!! Lo recomiendo"
+    }, 
+    {
+      "date": "15 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "odysseas", 
+      "text": "Muy mala la atenci\u00f3n. No es agradable ser presionado cada 2 minutos a pedir algo m\u00e1s con el objeto de liberar la mesa por que hay gente esperando. No es culpa de la moza que atend\u00eda, es de la marca. Tampoco es responsablidad del cliente tener que abonar con el valor justo, m\u00e1s a\u00fan cuando uno paga con un billete de 100 una cuenta de 89, y para colmo no tienen otra modalidad de pago m\u00e1s que el inseguro efectivo, existiendo modalidades electr\u00f3nicas, con las ventajas que esto conlleva. Estamos en el 2008 no se puede ser tan jur\u00e1sico."
+    }, 
+    {
+      "date": "5 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "shane", 
+      "text": "Quisiera destacar la atencion y dedicacion de Eugenia, telemarketer de Vidal ya que llamo muy seguido e incluso voy a comer al local, o compro en mostrador y siempre me atendio con mucha coordialidad y respeto, me ayudo a elegir mis pedidos que siempre fueron MUY bien recomendados. una vez nos atendio cuando fuimos a comer ahi y lo mismo pas\u00f3. Hoy en dia hay que remarcar estas cosas, ella se desempe\u00f1a excelentemente en cualquier puesto, no se puede negar que sin duda es uno de los eslabones principales para el crecimiento de almacen de pizzas."
+    }, 
+    {
+      "date": "21 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "psyroy", 
+      "text": "Una casa de pizzas que logra imponer las nuevas tendencias de la cocina (variedad, ingredientes) sin perder la tradicion. Teniendo en cuenta el hecho de que su \"fuerte\" se basa en los deliverys, le prestan mucha atencion a dicho asunto y logran un servicio optimo en donde no se pierde la calidad ni temperatura de la comida. \r\nLa demora estima en media hora. Muy buen balance entre precio y calidad."
+    }, 
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Psygody", 
+      "text": "Ped\u00ed delivery. La pizza es rica pero nada especial excepto el tama\u00f1o cuando se pide la grande. Lleg\u00f3 tibia, por lo que la masa no estaba crocante. Muy bueno el dise\u00f1o, colores, etc del lugar y las cajas."
+    }, 
+    {
+      "date": "3 Mar 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "alapomarola", 
+      "text": "Fui al almacen de pizza que se encuentra en la calle O''Higgins y Juramento. El lugar es chiquito pero luminoso y acogedor. La pizza estaba rica. Masa fina y casera."
+    }, 
+    {
+      "date": "23 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Piscu", 
+      "text": "La verdad comimos muy bien, hay buen aire, las mozas son un poco limitadas pero le ponen voluntad. Se nota la diferencia en la calidad de la pizza y los productos. Un consejo: aunque no les traigan ni les digan, pidan un poquito de pan de pizza para picar que es muy rico y gratis ya que la pizza tarda un poquito."
+    }, 
+    {
+      "date": "4 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Meko", 
+      "text": "La pizza me pareci\u00f3 buena. Me parecio mal, que habiendo pedido una simple pizza mitad y mitad, me hayan cobrado toda como la mitad m\u00e1s cara."
+    }, 
+    {
+      "date": "23 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "fmach", 
+      "text": "Excelentes los ingredientes pero la masa es muy fina y poco leudada para nuestro gusto. Es una excelente opci\u00f3n para quien disfruta la masa muy finita. Recomendable la faina con mortadela y pistachos."
+    }, 
+    {
+      "date": "5 Dic 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "deedee", 
+      "text": "Lo que me gust\u00f3 de este lugar es que tienen variedades  diferentes a lo que se ofrece en general en las pizzerias: una pizza con rodajas finitas de papa (\u00a1muy buena!), otra con queso brie, varias con tomates secos. La masa es bien finita y los ingredientes abundantes. De postre, la pizzeta con bananas, canela y dulce de leche es original y muy rica. Muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "24 Nov 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Silviafr", 
+      "text": "Ped\u00ed delivery y tard\u00f3 una hora en llegar y lleg\u00f3 fria!!!!! (siendo que me dijeron que no tarda m\u00e1s de 40 minutos) Cuando hice el reclamo porque no llegaba el pedido, me dijeron ... ya sali\u00f3 con otro pedido. Vivo edificio por medio de la pizzeria. O sea ... se fueron a entregar otro pedido primero y pasearon mi pedido por las calles de Belgrano. LAMEMTABLE. Una l\u00e1stima porque la pizza es buena."
+    }, 
+    {
+      "date": "16 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Morton", 
+      "text": "Fuimos un lunes a la noche, las empanadas llegaron fr\u00edas y la pizza tibia. \r\nPese a eso, la comida es muy buena y de excelente calidad. El lugar es agradable y la atenci\u00f3n muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LULO-1", 
+      "text": "La pizza es muy rica y bien logrado. La atenci\u00f3n es amable y el ambiente es super canchero. En suma un buen lugar para volverse un cl\u00e1sico."
+    }, 
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jecorrea", 
+      "text": "Muy rica la pizza y liviana, cosa importante. Buena atencion y luugar lindo."
+    }, 
+    {
+      "date": "13 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gborau", 
+      "text": "Nada como una empanada del almac\u00e9n de pizzas. No solo el relleno puede ser interesante, sino que adem\u00e1s se nota la calidad de la masa.\r\nEs una pena que en algunos locales ya no est\u00e9 el sabor de la empanada llamada \"almacen\". Que vuelva!!!"
+    }, 
+    {
+      "date": "13 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "marimarse", 
+      "text": "Mi lugar preferido para pizza. No cae pesada y es bien sabrosa y bien grande."
+    }, 
+    {
+      "date": "5 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cristian65", 
+      "text": "Lejos de lo mejor en pizzas en buenos aires, finita como me gusta!"
+    }, 
+    {
+      "date": "28 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "paulingui", 
+      "text": "La pizza es de las mejores por variedad de sabores y por la calidad de los ingredientes. El lugar es un poco chico y ruidoso pero soportable con tal de comer una rica pizza. Otro punto, el aire acondicionado esta siempre a full, para los calurosos es ideal para mi un poco frio."
+    }, 
+    {
+      "date": "28 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "iky", 
+      "text": "buena pizza, ingredientes premium. al fin pizza con un toque de onda!\r\nrecomendable la de rucula y brie, asi como la de jamon crudo y boconccinos.\r\nOjo con el local, es chico y ruidoso y atendido por mosas que no tienen el mejor humor.\r\nfui dos veces, la proxima opto por el delivery"
+    }, 
+    {
+      "date": "26 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Vito55", 
+      "text": "Excelente lugar, la comida es deliciosa, el ambiente simpatico y agradable, y la atencion muy buena. El delivery rapido, y te traen una caja como la gente y helado haggen desz a domicilio"
+    }, 
+    {
+      "date": "15 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Todo bien: el delivery lleg\u00f3 r\u00e1pido y con la pizza caliente y en una caja como la gente; la pizza es gigante y exquisita (no se pierdan la variedad del huerto) y no es cara! Muy recomendable"
+    }, 
+    {
+      "date": "10 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "e_vanesa", 
+      "text": "Muy rica la comida... unico tema que cuando pedimos un caf\u00e9 a la 1 de la ma\u00f1ana nos dijeron que justo se rompi\u00f3 la cafetera... que pena!!, nos dimos cuenta que era porque quer\u00edan que nos fueramos, el horno estaba apagado y no quedaba nadie. Eso no se hace... Pero la comida excelente!!!!"
+    }, 
+    {
+      "date": "22 Jul 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Pommery", 
+      "text": "El lugar es chico pero esta muy bien decorado. La calidad de los productos es muy buena. Recomiendo la pizza de la casa, Manolo Y francesca, tomates secos, jamon crudo, rucula y parmesano...muy buena. Hay una pizza dulce de postre que esta bastante bien."
+    }, 
+    {
+      "date": "26 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "alebelgrano", 
+      "text": "Fui al local de belgrano, la pizza excelente, pero: ojo si piden pizza de dos sabores porque cobran como una entera del sabor mas caro. Ademas el encargado del local da muy mala atencion. Una pena porque el producto es de lo mejor del barrio."
+    }, 
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chmarquez", 
+      "text": "La pizza es realmente muy buena y las variedades que presentan son ingeniosas. La materia prima es excelente.\r\nEl \u00fanico punto flaco a mencionar es que con 35 grados, no funcionaba el aire acondicionado (hac\u00eda varios d\u00edas seg\u00fan nos comentaron)."
+    }, 
+    {
+      "date": "8 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "javierb", 
+      "text": "Todo muy bueno, la pizza es excelente. La grande es de diez porciones y muy sabrosa, hecha a la piedra. Realemnte recomendable."
+    }, 
+    {
+      "date": "31 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Divu", 
+      "text": "Muy bueno, el lugar, la comida y el ambiente. Fui con mi novia un mi\u00e9rcoles por la noche; despu\u00e9s de ver los comentarios en la Gu\u00eda \u00d3leo y resultaron efectivos.\r\nPedimos pizza Manolo y Panceta, muy originales y ricas (productos frescos; muy buena la masa). Me qued\u00e9 con las ganas de la de papas fritas y salchicha, ser\u00e1 para la pr\u00f3xima."
+    }, 
+    {
+      "date": "8 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Jurguen_79", 
+      "text": "Realmente excelente la calidad de la comida y la ambientaci\u00f3n de los locales. \r\nMuy recomendable."
+    }, 
+    {
+      "date": "29 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "witty", 
+      "text": "La verdad es que la atenci\u00f3n y la comida son excelentes. Es para recomendar."
+    }
+  ]
+}

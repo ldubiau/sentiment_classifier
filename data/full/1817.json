@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "26 Nov 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ELTITITO", 
+      "text": "Fuimos con mi mujer a comer un tostado y una cerveza de pasada, tardaron en atendernos y no habia muchas mesas, el tostado le faltaba fiambre pero safaba, me parecio caro para ser un bar de barrio. Tendrian que darle mas importancia a la cena ya que es un lindo bar pero le falta explotarlo mejor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "objetitos", 
+      "text": "Comida fresca, hecha en el momento."
+    }
+  ]
+}

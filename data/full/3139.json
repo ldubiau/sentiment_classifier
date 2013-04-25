@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "5 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "reddy", 
+      "text": "Se equivocaron a la entrada , nostrajeron ensalada de centolla en vez de souflee. La trucha estaba pasada."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "oscar0443", 
+      "text": "me parece un excelente restaurante para la zona."
+    }, 
+    {
+      "date": "11 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "smoje", 
+      "text": "La comida y el lugar con una excelente relacion precio/producto. El lugar es muy tranquilo, ideal para ir en pareja. Buenisimo el gin & tonic hecho con Gin Bombay o beefeater, tonica Schweppes en envase de vidrio. Servido en vaso de boca ancha con mucho hielo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "foster", 
+      "text": "Que pena tan grande que no haya un lugar asi en cap fed.! \r\nSumamente recomendable"
+    }, 
+    {
+      "date": "22 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marigalante", 
+      "text": "Un excelente y hermoso lugar, calido y original para conocer la comida inglesa. Maravilloso y romantico!"
+    }, 
+    {
+      "date": "19 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Silchuc", 
+      "text": "La comida es excelente, el lugar es precioso ... es una pena que la ubicaci\u00f3n no sea tan linda. Es un lugar maravilloso. ES como viajar un rato."
+    }, 
+    {
+      "date": "18 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "elna", 
+      "text": "Excelente y calido ambiente y atencion, sin duda volver\u00eda."
+    }, 
+    {
+      "date": "13 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Daniel01", 
+      "text": "Vale la pena descubrir un reducto donde se da la fusi\u00f3n entre la comida inglesa y el gusto local."
+    }
+  ]
+}

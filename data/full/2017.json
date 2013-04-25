@@ -1,0 +1,188 @@
+{
+  "malos": [
+    {
+      "date": "28 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MariaFer", 
+      "text": "La verdad que no es recomedable. El mozo muy atento, pero la calidad de la comida deja mucho que desear."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Ene 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AMESA", 
+      "text": "Restaurante de barrio para la clientela del barrio. Todo est\u00e1 bien, pero al final no queda  nada especial para el recuerdo!"
+    }, 
+    {
+      "date": "10 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MAGNUS", 
+      "text": "Muy ageradable  el lugar, la atencion fue correcta y la carne y las achuras estaban en su correcto punto.\r\nRecomiendo en el caso de ser 3 personas las que coman la tabla gaucha queda corta. Si son dos los comensales  esta bien."
+    }, 
+    {
+      "date": "3 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "La comida ES buena, las achuras que comimos estaban  medio crudas, les faltaba cocci\u00f3n pero el pollo relleno de espinacas con panceta y champi\u00f1ones ES muy bueno. El servicio deber\u00eda mejorar, muy lento. Aceptan ticket restaurante."
+    }, 
+    {
+      "date": "26 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "moonday", 
+      "text": "Coincido en que no es nada del otro mundo. Realmente un lugar de esa antiguedad y con esa infraestructura promete mas."
+    }, 
+    {
+      "date": "14 Feb 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Estynati", 
+      "text": "La comida estaba bien, demor\u00f3 mucho en llegar a la mesa. El ambiente tranquilo, el precio razonable y el servicio bien. \r\nEn s\u00edntesis, nada del otro mundo."
+    }, 
+    {
+      "date": "6 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "SebaF", 
+      "text": "Es muy buena la parrilla, no es tan buena la comida elaborada. Igual, es un lugar super familiar y tranquilo. No es un lambiente de onda. Para comer parrilla, tranquilo y sin mucho ruido."
+    }, 
+    {
+      "date": "24 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Una opci\u00f3n agradable para elegir cuando tenemos ganas de comer en una parrilla de barrio. Comida rica a precio razonable."
+    }, 
+    {
+      "date": "12 Jul 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Moro", 
+      "text": "No apto para ir con bebes o ni\u00f1os.\r\nDice que tiene un sector para no-fumadores cuando s\u00f3lo es una mesa, rodeada de mesas para fumadores. \r\nRid\u00edculo."
+    }, 
+    {
+      "date": "2 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "liber", 
+      "text": "La comida estaba rica, el mozo que nos atendi\u00f3 no le pon\u00eda mucho empe\u00f1o y ganas. El ambiente estaba bien, un poco de olor a frito."
+    }, 
+    {
+      "date": "7 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gisel", 
+      "text": "Un ambiente muy tranquilo, muy buen servicio y buena comida."
+    }, 
+    {
+      "date": "28 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "miguelvi", 
+      "text": "Un lugar c\u00e1lido y confortable, muy buena cocina y por supuesto la atenci\u00f3n."
+    }, 
+    {
+      "date": "7 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eliza090", 
+      "text": "Un ambiente c\u00e1lido, muy bien atendido."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Monchazo", 
+      "text": "Ac\u00e1 se come la mejor entra\u00f1a y las mejores papas fritas a la provenzal de la ciudad, sin ninguna duda. \r\nPed\u00ed eso en parrillas de mejor nivel y esta me sigue pareciendo la mejor. \r\nLa calidad de la carne es impresionante y el punto, tal como lo ped\u00ed. \r\nLas papas fritas, por su parte, son excelentes: bien calientes, reci\u00e9n hechas y para nada aceitosas. Brillante."
+    }, 
+    {
+      "date": "7 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nuchi", 
+      "text": "Muy bueno el parrillero que me hace un lomo muy a mi gusto. \r\nSe mantiene la calidad a trav\u00e9s de los a\u00f1os que soy clienta."
+    }, 
+    {
+      "date": "24 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "jac", 
+      "text": "Todo bien, salvo uno de los mozos que nos atendi\u00f3 al comienzo de la cena, muy agresivo."
+    }, 
+    {
+      "date": "14 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "rrabboni", 
+      "text": "Confortable, buena comida y esmerada atenci\u00f3n con precios razonables."
+    }, 
+    {
+      "date": "4 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vitto361", 
+      "text": "La atenci\u00f3n es buena, hace rato que no era tan bien atendido. La experiencia de los mozos es fundamental. La cocina muy buena."
+    }
+  ]
+}

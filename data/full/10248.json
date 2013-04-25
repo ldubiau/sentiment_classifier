@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "8 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "jlaray", 
+      "text": "Buen ambiente. A la comida le falto pasi\u00f3n. Sin condimento. La carta de vinos escasa, los precios al ciento veinte por ciento. Parece comida de evento. Los postres rescatan."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "rodrigocoronel", 
+      "text": "Muy lindo ambiente, ideal para tener una cena romantica y tranquila, se genera un lindo clima con una musica de fondo que te deja charlar plenamente con la persona que tenes a tu lado"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablo9494", 
+      "text": "Anoche fuimos a Nira, un resto de cocina de autor en Canning, fui con amigos y probamos diferentes platos.\r\nDe entrada pedimos una mini lasagna de verduras y parmesano exquisita, las clasicas milanese alla mozzarella y unos langostinos jumbo rebozados en sour cream, todo exquisito.\r\nDe principales elegimos, el risotto con productos de mar, otro risotto con tomates, parmesano y calabaza y el gigot de cordero braseado con papas rusticas, los tres platos excelentes, punto exacto de coccion, buen maridaje de ingredientes, excelentes presentacion y estetica de los mismos.\r\nEl chef y due\u00f1o Enrique George esta presente cuidando y atendiendo todos los detalles para una excelente velada, lo felicito a el y a su equipo que anoche desbordo cordialidad con extra\u00f1os como nosotros.\r\n8/10 a mi entender, puntaje general."
+    }, 
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Saint-Marcellin", 
+      "text": "Coincido con mi amigo Pablo9494, voy a referirme exclusivamente al risotto, ya que ante mi peticion de \"sin sal agregada\" la cual fue cumplida, me sorprendi\u00f3 (y he aprendido a saborear mejor sin sal) el sabor, excelente, es un plato en el que se necesita estar ah\u00ed cuchara en mano, liberando el almidon, dandole el caldo que el grano pida, no se puede descuidar ni un segundo, se noto en cada sabor la dedicacion, ademas muchos \"bichitos\" demar, pulpo incluido, muy bueno, tuvimos la posibilidad de conocer la cocina, impecable, productos de primera, super recomendable."
+    }, 
+    {
+      "date": "12 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "RUSOGARI", 
+      "text": "Excelente Resto, es un lujo para Canning y mas ahora que se traslado a la zona comercial de los shoping, la atencion por parte del personal es muy buena y la comida UN ESPECTACULO. Muy buena la cocina y los postres"
+    }, 
+    {
+      "date": "29 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Vivi-11", 
+      "text": "Excelente el cheff! Una carta chica que va cambiando el men\u00fa semanalmente. Vamos al menos una vez por mes. Siempre salimos elogiando la comida. Se nota l  calidad en cada ingrediente y lo pensado de las combinaciones. Exquisitos los panes de nuez y almendras. Recomendamos!!! Todo acompa\u00f1ado de un servicio atento sin exageraciones."
+    }
+  ]
+}

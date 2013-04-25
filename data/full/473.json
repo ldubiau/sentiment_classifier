@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "elaustri", 
+      "text": "Nice place but one of the worst beef I ever had in Argentina, the entradas were OK."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "20 Ene 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Consuelo", 
+      "text": "La comida es buena, la atenci\u00f3n tambi\u00e9n. El lugar es impecable, con lindos objetos y detalles de decoraci\u00f3n.  Es muy agradable, c\u00e1lido y accesible."
+    }, 
+    {
+      "date": "12 Feb 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mleyria", 
+      "text": "Esta muy buena la carta."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Mau", 
+      "text": "Excelente a todo nivel: la atenci\u00f3n, la decoraci\u00f3n y el ambiente c\u00e1lido y despojado. Las porciones son algo grandes (al menos los platos principales). El vino, impecable, servido a temperatura exacta. \r\nNo es tan accesible, pero se disfruta."
+    }, 
+    {
+      "date": "3 Nov 2004", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "roversa", 
+      "text": "Muy bien decorado, pero mucha gente en pose."
+    }, 
+    {
+      "date": "27 Oct 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nanchy", 
+      "text": "Excelente"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "7 Abr 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Pavel", 
+      "text": "Los sandwiches y la comida en general son muy buenos. La atenci\u00f3n no es muy esmerada, pero igual es un lindo lugar para compartir con amigos."
+    }, 
+    {
+      "date": "25 Feb 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pepe", 
+      "text": "Es una l\u00e1stima que siendo uno de los mejores deli, no hayan reovado la ambientaci\u00f3n. \u00a1Parece muy abandonado!"
+    }
+  ]
+}

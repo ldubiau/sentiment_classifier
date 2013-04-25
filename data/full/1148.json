@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "25 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "E_Nano", 
+      "text": "La comida estuvo muy buena. No es un lugar que se destaque por el ambiente, pero tampoco es malo. Es un lugar para pasar comer algo y seguir. En cuanto al servicio me pareci\u00f3 razonable. Pienso volver y espero que otros lo hagan!"
+    }, 
+    {
+      "date": "12 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "katto65", 
+      "text": "para el mediodia zafa, el lugar es sencillo, la comida muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 May 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mora", 
+      "text": "La mejor pizza del barrio."
+    }
+  ]
+}

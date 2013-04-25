@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "19 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "guibian", 
+      "text": "Pizzeria bien de barrio. Muy buenas las empanadas. No hay carta (est\u00e1 en la pared) y te hacen la cuenta en la mesa. Ojo que los s\u00e1bados al mediod\u00eda no aceptan tarjeta. Para ir de tanto en tanto."
+    }, 
+    {
+      "date": "11 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "miafer", 
+      "text": "El lugar es una vieja pizzer\u00eda de barrio, no tiene aire acondicionado y mal ventilada, te vas con olor a comida, los precios son muy caros comparando con otras pizzer\u00edas de igual caract., los mozos dejan bastante que desear, es una l\u00e1stima porque la pizza es espectacular."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "15 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Danydany", 
+      "text": "La pizzer\u00eda m\u00e1s conocida y antigua de la zona. Un Cl\u00e1sico !!!  Est\u00e1 hace m\u00e1s de 70 a\u00f1os y se sigue llenando siempre, es un lugar bastante amplio y tambi\u00e9n tiene mesas en la calle. La pizza es EXELENTE y no es cara.  \r\n\r\nVarios de los mozos son los mismos de hace 30 a\u00f1os, alguno que otro es el t\u00edpico \"gallego protest\u00f3n\"  Pero es comprensible, sabiendo que trabajan de la ma\u00f1ana a la madrugada.\r\n\r\nEs para ir a comer una buena pizza en familia o con amigos.  El clima es distendido, como las pizzer\u00edas de antes y el lugar conserva su ambientaci\u00f3n antigua, pero no descuidada.  \r\nRecomendable !!! ."
+    }, 
+    {
+      "date": "4 May 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "alefab62", 
+      "text": "Buena atenci\u00f3n..., mozos atentos. Un cl\u00e1sico de la zona!!!"
+    }, 
+    {
+      "date": "3 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "bayles", 
+      "text": "pizzeria cl\u00e1sica de barrio, los mozos con su delantal blanco, el vino viene en pinguino y la pizza es superior! pod\u00e9s ir a las 3 de la tarde y te sirven en seguida."
+    }, 
+    {
+      "date": "5 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "PPGonz", 
+      "text": "Es una de las 2 mejores pizzer\u00edas tradicionales de Bs As, donde se puede comer excelentes pizzas media masa. Los ingredientes son de muy buena calidad y abundantes. La masa es buen\u00edsima."
+    }
+  ]
+}

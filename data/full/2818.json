@@ -1,0 +1,598 @@
+{
+  "malos": [
+    {
+      "date": "15 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "erge", 
+      "text": "Aunque en el men\u00fa titulan \"para compartir\" y los precios as\u00ed lo sugieren me trajeron un \"mix de carnes\" que era una broma, tres pedaciots m\u00ednimos de pollo, entra\u00f1a, y asado,  verdaderamente una cargada. Pedimos papas fritas que nunca trajeron pero aparecieron en la cuenta. Una se\u00f1ora se quej\u00f3 a viva voz y se fue, el manager la trat\u00f3 de p.... no lo recomiendo para nada"
+    }, 
+    {
+      "date": "3 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "lino45", 
+      "text": "La pizza me pareci\u00f3n muy pobre, una masa fina como es a la parrilla, pero extremadamente dura para comer. El reelleno muy pobre, el pollo eran 3 bocados en media pizza y 3 feteas de salame chicas en la otra media. No volver\u00eda."
+    }, 
+    {
+      "date": "9 May 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "vica", 
+      "text": "HORRIBLE! RUIDOSO, FRIO, MALA ATENCION.\r\nLa comida no tiene gusto y no es de buena calidad. Como si estuviera pasada.\r\nEn el lugar hace frio y hay un ruido imposible.\r\nUno de los peores lugares que conozco para cenar. Dinero tirado."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Frula", 
+      "text": "Quer\u00edamos comer pizza y ca\u00edmos ac\u00e1 que hacen pizza a la parrilla. El ambiente es normal, nada del otro mundo. La atenci\u00f3n fue bastante buena as\u00ed que no tengo ninguna queja con respecto a eso. Los precios aceptables, la pizza a la parrilla es rica pero si bien no te deja con hambre tampoco te satisface mucho, es muy finita. Lo recomiendo para probar algo distinto pero no vayan para comer hasta reventar."
+    }, 
+    {
+      "date": "12 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "JuanmaNiel", 
+      "text": "El lugar esta bien, pedimos una entra\u00f1a para compartir con unas papas con crema q estaba rico. Es un lugar para ir a comer, no para hacer una experiencia goumet y tiene precios muy accesibles. Lo recomiendo desde ese lugar."
+    }, 
+    {
+      "date": "21 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pach", 
+      "text": "Muy buena la pizza a la parrilla. La verdad es que no hay muchos lugares donde la hagan y ac\u00e1 les sale barbaro!!! Ped\u00ed delivery y fui a comer y en ambas oportunidades fue un \u00e9xito total."
+    }, 
+    {
+      "date": "15 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "icknaz", 
+      "text": "Un muy lindo lugar para comer comidas ricas, especialmente las pizzas y las quesadillas. La atenci\u00f3n es muy buena, el ambiente lo mismo y sirven unas jarras de cerveza artesanal espectacular, muy muy muy rica (negra, rubia y roja) que recomiendo altamente.\r\nLo recomiendo altamente, ya que no es una opci\u00f3n cara y vale la pena."
+    }, 
+    {
+      "date": "15 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Eclipse1999", 
+      "text": "Buen lugar, con comida rica y lindo ambiente..."
+    }, 
+    {
+      "date": "17 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "aquaman", 
+      "text": "Para sibaritas de las pizzas a la piedra y a la parrilla,son rectangulares, me encantaron. Muy Crocante la masa y con la acertada cantidad de ingredientes. Riqu\u00edsima la de r\u00facula,tomates secos y jam\u00f3n crudo, la de anan\u00e1s con jam\u00f3n y muzzarella, y para terminar la napolitana. Espacios ampl\u00edsimos , techos altos, y colores muy c\u00e1lidos en las paredes. Para ir con amigos, poder escucharse y comer rico."
+    }, 
+    {
+      "date": "16 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Joco", 
+      "text": "Muy buena la pizza, bien crocante y muy a la piedra. Super super recomendable la de fajitas: mozzarela, carne en tiras con juguito de coccion, cebollas caramelizadas y morrones asados. Buenisima !"
+    }, 
+    {
+      "date": "26 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Guada1287", 
+      "text": "Voy recurrentemente a este lugar. El ambiente no es nada especial, pero, como no es pretencioso, nunca decepciona. \r\nLa pizza es como a m\u00ed m\u00e1s me gusta: finita, crocante, con la justa cantidad de ingredientes (no rebalsa de aceite ni queso), pero todos de buena calidad. Los dem\u00e1s platos (pocos, pero buenas opciones cl\u00e1sicas) no decepcionan: matambre a la pizza, picada, ensaladas para armar. para m\u00ed es una excelente opci\u00f3n para salir sin gastar mucho, a charlar y tomar una Isenbeck tirada bien pero bien fr\u00eda"
+    }, 
+    {
+      "date": "14 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Fui varias veces. La pizza es rica, el ambiente lindo (solo las mesas de afuera) y la atenci\u00f3n aceptable. No se si subieron los precios pero esta vez me pareci\u00f3 un poco m\u00e1s caro de lo normal. Una pizza mediana (comen dos con poco hambre) y dos aguas, 80 pesos. Sin postre, sin entrada, sin alcohol, solo una pizza chica y dos aguas. De estos 80 pesos el 15 por ciento es por el cubierto\u00bf?."
+    }, 
+    {
+      "date": "14 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "LeandroSp", 
+      "text": "Siempre pido el menu ejecutivo y nunca me defraudo. Siempre buenos platos sin importar lo que pida. RECOMIENDO"
+    }, 
+    {
+      "date": "11 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchefmar", 
+      "text": "La pizza es muy buena, sobre todo para quienes son amantes de la masa finita y a la parrilla. No escatiman con las cantidades y lleg\u00f3 caliente a la mesa. El ambiente es bueno si uno se sienta en alguna de las 6 mesas de la entrada. Dentro del sal\u00f3n hay m\u00e1s ruido, m\u00e1s calor y el ambiente deja de ser atractivo. La atenci\u00f3n en la noche de ayer fue realmente muy buena. El mozo estuvo muy atento, amable, trajo todo tal cual fue pedido y no tuvimos que esperar demasiado tiempo. Cobran cubierto ($4). Adem\u00e1s de pizzas tiene buenas opciones de platos y postres."
+    }, 
+    {
+      "date": "30 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "kechi", 
+      "text": "Aceptable"
+    }, 
+    {
+      "date": "31 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sibarita_girl", 
+      "text": "El ambiente juega un poco en contra, porque le falta onda. Sin embargo, la comida es muy buena; fui un par de veces y los platos nunca defraudaron. Adem\u00e1s, las porciones son m\u00e1s que generosas. La cerveza artesanal viene por jarra y es muy rica, pero lamentablemente si vas tarde no consegu\u00eds."
+    }, 
+    {
+      "date": "8 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "yanuchi_83", 
+      "text": "La pizza a la parrilla es rica ! Hay bastante variedad. Los postres grandes y bastante econ\u00f3micos."
+    }, 
+    {
+      "date": "5 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Mishi", 
+      "text": "Comimos pizza por recomendaci\u00f3n de gente conocida. Realmente la masa lo arruina todo, es demasiado finita y parece frita, estar\u00eda bueno si fuera un poco m\u00e1s gruesa. Me mor\u00ed de calor y adem\u00e1s la atenci\u00f3n no estuvo \u00f3ptima, son 18 pero mirando a la barra o charlando entre s\u00ed."
+    }, 
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pepito", 
+      "text": "La pizza excelente, a la piedra pero distinta. El ambiente muy bueno, la atenci\u00f3n bien. \r\nLos precios razonables. Volver\u00e9 por la pizza, quiero probar otras."
+    }, 
+    {
+      "date": "22 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "el_ariel", 
+      "text": "todos comimos platos de cocina, muy bien y abundantes. El mozo nos atendio perfecto, trajo todo a tiempo. El lugar es un poco ruidoso pero muy bueno para armar una mesa con amigos"
+    }, 
+    {
+      "date": "24 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "reiven", 
+      "text": "Riquisima pizza a la parrilla, sin esa muzzarella grasosa que parece tanto agregar a las pizzerias portenhas. Crocante y con ingredientes muy buenos, y algunas son muy originales como la de vegetales salteados (para recomendar). Tienen cerveza artesanal tambien muy buena."
+    }, 
+    {
+      "date": "1 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "elchefmar", 
+      "text": "La pizza es muy buena. fina, crocante, a la parrilla, con abundantes y frescos ingredientes. Las opciones de pizza son variadas y originales. Realmente recomendable. Si bien es una pizzer\u00eda, la mitad de las veces que fui ped\u00ed platos de cocina. Los platos tambi\u00e9n son muy buenos y abundantes, teniendo siempre en cuenta que los est\u00e1s pidiendo en una pizzer\u00eda y no en una parrilla o restaurante de pastas. Destaca la panera con bordes crocantes de pizza. Relaci\u00f3n Calidad/Precio recomendable!"
+    }, 
+    {
+      "date": "21 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "yakare84", 
+      "text": "Como siempre, la comida muy rica! ya habia ido antes pero esta \u00faltima vez me trataron mejor que nunca. El mozo muy atento y correcto. Volver\u00eda!"
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "passage", 
+      "text": "Muy rica pizza, ambiente un poco ruidoso pero excelente atenci\u00f3n, mozo muy amable: recomienda cantidades justas y trae la comida en tiempo y forma. Precio muy adecuado para la calidad de la pizza, que es muy variada y sabrosa. Vale la pena"
+    }, 
+    {
+      "date": "16 Dic 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "DamianDC", 
+      "text": "La pizza de este lugar es muy rica, en general no comemos pizza afuera pero la del majo nos gusta mucho... tambi\u00e9n pedir pastas o tacos result\u00f3 ser una buena opci\u00f3n. \r\nLa atenci\u00f3n mejora dependiendo de quien te atienda, pero en general es buena."
+    }, 
+    {
+      "date": "12 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "pame_js", 
+      "text": "La pizza es muy muy sabrosa, el ambiente realmente podria ser mejorado con un poco de musica o LCDs.. El servicio (en todas los oportunidades que fui) dejo bastante que desear, ya que tuve que llamar varias veces al camarero para ser atendida.. este es el punto d\u00e9bil del restaurante."
+    }, 
+    {
+      "date": "15 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "juano86", 
+      "text": "El lugar esta bueno para comer en la parte que tienen en la entrada que esta armado con mesitas de madera y piso de piedritas. La pizza es muy rica y hay mucha variedad, sin embargo la atencion es regular tirando a mala y ni hablemos del delivery que es un espanto como te traen la pizza fria."
+    }, 
+    {
+      "date": "10 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "cafloto", 
+      "text": "La atenci\u00f3n no es de lo mejor, pero la pizza es riqu\u00edsima. Variedad y gustos at\u00edpicos. El delivery es un tanto lento y a veces llega un poco desparramado, pero, si uno reclama mandan en seguida una buena pizza."
+    }, 
+    {
+      "date": "21 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bender", 
+      "text": "Volvi a pedir a domicilio, y la verdad que otra vez fue una mala elecci\u00f3n. Me gusta la pizza finita o de molde, pero esta no s\u00f3lo llego fr\u00eda, sino que me parecio de una calidad standard. Realmente no entiendo tan buenas cr\u00edticas. Un detalle, me parece feo que te envien a domicilio, una especie d emedia pizza...No se; yo har\u00eda una rectangular si es por el packaging. La fugazzeta...la cebolla cruda( ni un blanqueado) y fr\u00eda, la napo llego tan fr\u00eda que parecia pizza del d\u00eda anterior. A mi; no me gusto."
+    }, 
+    {
+      "date": "27 Feb 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Muy rica pizza a la parrilla. El ambiente no es nada del otro mundo y la atenci\u00f3n bastante mala."
+    }, 
+    {
+      "date": "20 May 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Alelanglois", 
+      "text": "Es, sin duda, una de las mejores pizzas a la parrilla de Buenos Aires. Siempre \u00edbamos. Las \u00faltimas dos veces la atenci\u00f3n fue realmente mala. Tienen mucha rotaci\u00f3n de personal y los mozos no cumplen bien con su rol. Tardaron mucho en traer una sola pizza y finalmente nos trajeron una de un sabor que no hab\u00edamos pedido.\r\nPese a esto, es una pizza excelente."
+    }, 
+    {
+      "date": "4 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ilmandril", 
+      "text": "Muy ricas las pizzas a la parrilla, el servicio es bueno pero demora bastante, pedir todo junto por que sino te podes clavar mas de 40 min esperando una pizza. Me paso dos veces lo mismo."
+    }, 
+    {
+      "date": "6 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Bender", 
+      "text": "Por los comentarios de la Gu\u00eda \u00d3leo, que suele ser muy acertados, decid\u00ed probar realizando un pedido a domicilio. \r\nLa pizza lleg\u00f3 fr\u00eda, no fue lo m\u00e1s importante (siempre el horno est\u00e1 listo para un golpe de calor). La verdad que esa media pizza, me pareci\u00f3 del nivel de las mediocres que uno pide a domicilio y sinceramente si me sirven lo mismo en un rest\u00f3, no vuelvo m\u00e1s. \r\nUna pizza medio pelo, con muy poco de profesionalismo en su elaboraci\u00f3n (la fugazetta con cebolla totalmente cruda, cero golpe de calor). \r\nLa verdad, en casa ni loco y no creo que sea un rest\u00f3 donde se me cruce ir a visitar.\r\nRegular para mala y eso que estoy bueno."
+    }, 
+    {
+      "date": "2 Ene 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Cyn", 
+      "text": "La pizza a la parrilla es muy buena, pero el servicio deja bastante que desear"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mariaeg", 
+      "text": "Vamos muy seguido, nos gusta mucho en especial la atencion, los meseros son muy simpaticos y atentos. La pizza a la parrilla es muy rica!"
+    }, 
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "TOM_DM", 
+      "text": "Excelente lugar para comer pizza a la parrilla! El ambiente es muy agradable y la atencion es 10 puntos. Ideal para ir cualquier dia de la semana tanto con amigos como con pareja. Muy recomendable"
+    }, 
+    {
+      "date": "29 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "LISIS", 
+      "text": "Fuimos el viernes 29/07/11 a las 22hs,era un dia de frio y suponiamos que podia estar lleno como de costumbre,pero no fue as\u00ed.siempre lo miraba desde afuera el lugar,y la verdad tengo que decir que por los precios que tiene se come muy bien,cuando no tengas donde ir un viernes a \u00fatlima hora porque todo esta lleno,dante una vuelta por el majo,no defrauda.rica comida,buena atenci\u00f3n y ambiente c\u00e1lido y agrabable.punto a mejorar la carta de vinos."
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "alejandro_magno", 
+      "text": "el lugar no es de lo mejor pero la zona de adelante con piedritas es otro ambiente, nos atendio un camarero muy amable y cordial, nos recomendo cantidades justas ya que al no conocer la pizza no sabiamos como pedir...quedamos muy satisfechos con el tama\u00f1o y el sabor y seguramente volveremos con mucha frecuencia"
+    }, 
+    {
+      "date": "8 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Emerald", 
+      "text": "Comimos con mi marido dos pizzas individuales no tradicionales y estaban buen\u00edsimas! La masa finita y crocante, La atenci\u00f3n muy buena. Volveremos frecuentemente."
+    }, 
+    {
+      "date": "7 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "juampi_m", 
+      "text": "Voy bastante seguido y siempre me parecio barbaro. Muy rica la pizza! Finita y con la masa crocante, como debe ser! Una muy buena opcion para los residentes de la zona para no tener que irse hasta Las Ca\u00f1itas o Palermo a disfrutar de una buena pizza. Muy recomendable!"
+    }, 
+    {
+      "date": "5 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Noanns", 
+      "text": "La pizza es muy buena, la atencion es regular y el lugar no te dan ganas de quedarte mucho tiempo, pero tampoco esta mal ademas es grande. Buen lugar para juntarse con amigos."
+    }, 
+    {
+      "date": "22 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "adan", 
+      "text": "Fui con mi familia. El ambiente moderno, sencillo y muy acogedor, no es un delirio del dise\u00f1o pero me gusto. La pizza es exquisita, bien finita y ese sabor especial que le da la parrilla. Pedimos postres y realmente resultaron ser exelentes tambien, al mejor estilo gourmet. Volver\u00e9 muchas veces mas."
+    }, 
+    {
+      "date": "9 Abr 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "melangel", 
+      "text": "NO me gusta la pizza finita...pero esta es una excepci\u00f3n! Realmente, es muy muy rica. Pese a comentarios anteriores, la atenci\u00f3n me result\u00f3 buena. Lo que es lamentable es la carta de vinos, s\u00f3lo 3 blancos y 3 tintos."
+    }, 
+    {
+      "date": "15 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "DIJN", 
+      "text": "Muy buena la pizza! creo que no hay en belgrano un lugar que pueda competir en calidad con ellos. Las contras que tiene es el ruido y que el servicio (sin ser malo) no es demasiado personalizado. Recomiendo para ir a comer una pizza con amigos"
+    }, 
+    {
+      "date": "24 Ene 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nemito", 
+      "text": "Los amantes de la pizza no pueden dejar de conocer El Majo. Masa crocante y finita, generosa en sus condimentos, invita a compartir un buen momento. El ambiente es ameno y la atenci\u00f3n muy buena. Los precios muy accesibles acorde en tanto precio/calidad. Volveremos a ir sin dudarlo."
+    }, 
+    {
+      "date": "12 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Ganzola", 
+      "text": "La pizza es de las mejores que he comido, tanto pedida en casa como en el restaurant. Es cierto que el delivery es lento y casi siempre llega fr\u00eda. Pero es tan buena que a uno no le molesta calentarla en el horno cuando llega. Obviamente que mejor es servida caliente en el lugar que adem\u00e1s est\u00e1 muy bien puesto. La atenci\u00f3n no es para destacar pero para ser pizzer\u00eda es mas que aceptable. El \u00fanico tema es el tama\u00f1o de la pizza y que son bastantes finitas por lo que si uno tiene mucho hambre por las dudas pedir de m\u00e1s. Altamente recomendable!"
+    }, 
+    {
+      "date": "4 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "larrusa", 
+      "text": "Es la mejor pizza de Belgrano para el que le gusta finita y crocante. La atencion es cuestion de quien te atienda, esta vez nos toco una moza muy simpatica y atenta, distinta a las anteriores.\r\nPara el delivery, hay que tener el horno prendido y caliente para recalentarla en cuanto llega."
+    }, 
+    {
+      "date": "31 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diana1961", 
+      "text": "La comida es excelente, gran chef.\r\nLa salsa que acompa\u00f1a a la pasta es muy buena, se nota la excelete calidad y el relleno de la pasta tambi\u00e9n es riqu\u00edsimo."
+    }, 
+    {
+      "date": "15 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "kakolon", 
+      "text": "La pizza es muy buena. El delivery es bastante precario, no tienen sistema de computaci\u00f3n, por lo que debemos darle nuestra direcci\u00f3n cada vez que llamamos. Tampoco te piden el tel\u00e9fono por si aparece alg\u00fan inconveniente, esto es una falta muy grave, ya que me ha pasado que demoraba mucho el delivery y resulta que habian anotado mal la direcci\u00f3n. Si no llamaba yo, podia estar esperando hasta ahora."
+    }, 
+    {
+      "date": "23 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Moe", 
+      "text": "La pizza esta hecha a la parrilla y es MUY buena. Buena Variedad, masa finita y crocante, hecha sobre autentica parrilla con carbon. \r\nLlegue tarde y no me atendieron bien. Me querian hechar. Muy mal educada la moza.\r\nEl lugar, mediocre. \r\nRecomiendo el delivery para ahorrarse malos momentos."
+    }, 
+    {
+      "date": "23 Jun 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Psygody", 
+      "text": "La pizza a la parrilla que me trajo el delivery era excelente; de todos modos esas pizzas tan finas y crocantes no conviene pedirlas, sino ir ahi. Ademas de ricas muy lindas, muy completas y muy atractivas. Vale la pena probarlas."
+    }, 
+    {
+      "date": "5 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "DanielG", 
+      "text": "Muy rica la pizza si te gusta finita; la elaboracion es a la vista en una parrilla enorme y la calidad de la materia prima se nota muy buena.  Lindo ambiente; ideal para ir con amigos y comer bien."
+    }, 
+    {
+      "date": "24 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "veriss", 
+      "text": "La mejor pizza del barrio. He ido varias veces y la atenci\u00f3n es mejor cuando uno se sienta abajo. \r\nLos mozos tienen buena predisposici\u00f3n. Deber\u00edan agregar empanadas (aunque sean pocos gustos). Igual la pizza es la protagonista."
+    }, 
+    {
+      "date": "28 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "PatMcC", 
+      "text": "Pedimos delivery y la verdad quedamos muy conformes. La pizza estaba crocante y ten\u00eda la cantidad justa de queso."
+    }, 
+    {
+      "date": "19 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MagaAdri", 
+      "text": "Si te gusta la pizza finita \u00e9ste es el lugar."
+    }, 
+    {
+      "date": "29 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "El5Loco", 
+      "text": "Las pizzas son \u00fanicas: \u00a1pru\u00e9benlas!\r\nEl ambiente es para levantar el \u00e1nimo.\r\nLos postres son una locura. Est\u00e1 muy bien atendido, con cantidad de personal para que nadie se sienta disconforme.\r\nLa parte de afuera y atr\u00e1s son \u00fanicas."
+    }, 
+    {
+      "date": "24 Nov 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "vickyparra", 
+      "text": "El lugar es muy lindo, muy moderno, especial para j\u00f3venes. Te sirven muy bien y los platos de la carta son incre\u00edbles y super abundantes."
+    }, 
+    {
+      "date": "29 Oct 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jujuperez", 
+      "text": "Excelente por el servicio y la comodidad del lugar. En especial toda la pizza que es a la parrilla y bien a la piedra. Probamos tres variedades y fu\u00e9 una mejor que la otra. Realmente para recomendar."
+    }, 
+    {
+      "date": "25 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LULALU2006", 
+      "text": "Mi salteado de vegetales y fideos estaba exquisito. \r\nY la pizza que pidi\u00f3 una de mis amigas, incre\u00edble. Cuando vuelva voy a pedir lo que pidi\u00f3 ella: pizza con jam\u00f3n crudo, palmitos y salsa golf. Ojo si piden pizza de huevo porque viene con ajo.\r\nEl lugar estaba ruidoso porque hab\u00eda varios festejos en mesas cercanas, pero supongo que ser\u00e1 bastante m\u00e1s tranquilo si no hay celebraciones especiales."
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "7 Dic 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "alechababo", 
+      "text": "Si bien no se puede esperar una atenci\u00f3n de primera, no es admisible esperar una hora sin que siquiera nos trajeran una entrada. Luego de la hora de espera y s\u00f3lo con una gaseosa, con calor, ya que no hay ni siquiera ventiladores de techo (est\u00e1bamos adentro)me acerqu\u00e9 a consultar por nuestro pedido. El encargado me pidi\u00f3 que aguarde en la mesa para averiguar y no volvi\u00f3 a salir de la cocina. Entonces reclam\u00e9 nuevamente a otra persona, y ped\u00ed que me cobraran la gaseosa que es lo \u00fanico que nos hab\u00edan servido para poder irme a otro lado. \r\nLa verdad, ya s\u00e9 adonde no voy a volver."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "LauritaCook", 
+      "text": "Fui varias veces a Nahuel y si bien el men\u00fa es bien cl\u00e1sico y la ambientaci\u00f3n es muy casera, se puede disfrutar de platos ricos y abundantes por valores m\u00e1s que accesibles. Pod\u00e9s comer en el parque, viendo el delta y disfrutando de un buen d\u00eda de sol junto con la familia, yo RECOMIENDO!"
+    }, 
+    {
+      "date": "13 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "laucech", 
+      "text": "Fuimos varias veces a comer ah\u00ed, es cierto, no se puede esperar nada imponente a nivel est\u00e9tico, tanto la calidad como la cantidad de su comida es excelente, a veces los mozos se tardan un poco (bastante) pero compensan con un parque genial donde almorzar tranqui al aire libre. Volveremos!"
+    }, 
+    {
+      "date": "21 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "draserrano", 
+      "text": "El lugar es muy agradable dado que esta frente al r\u00edo, la chica que atendia la mesa demoraba un poco. Las porciones son muy grandes y la comida es buena. El precio es razonable. Seguramente iremos nuevamente."
+    }, 
+    {
+      "date": "15 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "famanu", 
+      "text": "El nombre \"Rest\u00f3\" le queda un poco pretencioso. La decoraci\u00f3n interior es inexistente, es un comedor de club sin ninguna mejora. Lo que se destaca es su parque, inmejorable para cuando se quiere comer al aire libre. Buena voluntad es lo que sobra y los platos son sabrosos y de buena calidad. No esperar nada sobresaliente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "estanis", 
+      "text": "Muy buena la comida y el lugar, tuvimos s\u00f3lo un poco de demora pero propio de los domingos en lugares tan concurridos. Un parque b\u00e1rbaro en el que nos quedamos hasta tarde."
+    }, 
+    {
+      "date": "28 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "celestin", 
+      "text": "Llegamos de casualidad al lugar por un volante que nos dieron a la entrada de Tigre. Nada que ver con el resto de los lugares que nos tratan a todos como clientes o turistas de paso. Realmente el lugar es precioso y la comida es abundante, rica y muy buen precio. Pasamos toda la tarde en un lugar genial."
+    }
+  ]
+}

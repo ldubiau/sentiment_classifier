@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 1
+      }, 
+      "user_name": "bran1902", 
+      "text": "Fuimos varias veces a comer. Muy buena atenci\u00f3n. Conseguimos mesa disponible, pero hay mucha espera un domingo al mediod\u00eda por ejemplo, si no van temprano. La comida costosa y no es abundante. Las papas fritas que pedimos, no parec\u00edan papas."
+    }, 
+    {
+      "date": "9 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ferrarijuanma", 
+      "text": "Fui con amigos un s\u00e1bado a la noche. No nos gust\u00f3 a ninguno. Las porciones escasas, los mozos tardaban much... balance: de la media para abajo. Hay much\u00edsimas parrillas mejores por la zona, hasta en la misma avenida!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "SoleSer", 
+      "text": "El lugar es muy bueno, tiene platos exoticos.\r\nTiene menues para chicos y un sector de juegos.\r\nFu\u00ed tanto a almorzar con a cenar y en ambos momentos el servicio es muy bueno.\r\nLas mozas muy atentas.\r\nHay platos que son muy abundantes y otros solo para uno."
+    }
+  ]
+}

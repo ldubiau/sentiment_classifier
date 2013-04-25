@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "AmiraGoo", 
+      "text": "La atenci\u00f3n es muy descuidada.. la comida es mediocre y la ambientaci\u00f3n con muy poca clase. Lo \u00fanico rescatable es la limonada, pero siendo una zona tan linda es inaceptable un lugar asi"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "24 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Lindo lugar en Colegiales para una buena merienda o desayuno de fin de semana. Mucha variedad para elegir entre medialundas, tostadas, muffins, budines, granolas y sandwichs. Buena atenci\u00f3n, buen ambiente, buena iluminaci\u00f3n y un precio acorde. Buena opci\u00f3n en el barrio."
+    }, 
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "babs", 
+      "text": "Habia ido hace mucho, y comi un sandwich riquisimo acompa\u00f1ado con papas cu\u00f1a, y por eso volvi. Esta vez quede un poco decepcionada pues el sandwich estaba un poco raquitico y las papas cu\u00f1a tenian sabor a hervidas y no horneadas... Volveremos una vez mas! (para desempatar!) La camarera amable pero un poco mareada con los pedidos..."
+    }, 
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Caroko", 
+      "text": "Buen\u00edsima merienda, bien servida, bien atendida. Riqu\u00edsimos tes. Una l\u00e1stima que no trabajen con tarjetas ni de cr\u00e9dito ni de d\u00e9bito y que no avisen ni en el men\u00fa ni a la hora de atender la mesa."
+    }, 
+    {
+      "date": "15 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nowii", 
+      "text": "El caf\u00e9 es muy rico pero hay que pedir que lo calienten bien a veces. Los desayunos frutales son un MUST para probar. Las meriendas son muy ricas todas y en general abundantes.\r\nLa atenci\u00f3n depende del d\u00eda y el horario en que vayas puede ser buena o p\u00e9sima."
+    }, 
+    {
+      "date": "1 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Capis85", 
+      "text": "Interesante opcion para una merienda en una fria tarde de invierno. Ricas tortas, cafes, chocolatadas, licuados. Las cookies no son las mejores que probe, pero lo recomiendo. No aceptan tarjeta y si vas tipo 19.20 te dicen que la cocina ya esta cerrada, asi q solo cafeteria."
+    }, 
+    {
+      "date": "29 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gabbs", 
+      "text": "Fui para el desayuno y dos veces a la hora del te. Tiene ricos tes y mermeladas y buenas tortas. Lugar agradable con mucha luz y buena atencion."
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "babs", 
+      "text": "Muy ricos los licuados y los sandwiches.\r\nAccesible para ir a almorzar o tomar el te.\r\nNo aceptan tarjetas.\r\nSolicitar la factura."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chopilandia", 
+      "text": "Muy lindo lugar, excelente atenci\u00f3n. El caf\u00e9 es un lujo! La merienda rica y abundante. Tambi\u00e9n los sandwichs!! imperdibles\r\nVolveremos"
+    }, 
+    {
+      "date": "18 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gmeugenia", 
+      "text": "Excelentes los jugos y licuados que sirven. Tienen generalmente variedad de frutas  y de buenas frutas. Los sandwich estan geniales, muy original el de pollo con nachos y pan de salvado!\r\nOjala sigan con su calidad por mucho tiempo!"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "22 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Martin564", 
+      "text": "Muy buena atencion! y ricas cosas!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MartinCarames", 
+      "text": "Excelente atenci\u00f3n y calidad del servicio.\r\nLa comida 10 puntos!"
+    }, 
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mrcaco", 
+      "text": "Excelente ambiente!! cuando fui habia musica de piano en vivo, los tragos y comidaa son muy buenos y el ambiente y presentacion excelentes!! lo recomiendo para quedar bien con una minita!!"
+    }
+  ]
+}

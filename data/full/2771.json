@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "27 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "rockso", 
+      "text": "La pizza muy buena. Sale r\u00e1pido, calientita, esponjosita, dorada pero no quemada. Buena opci\u00f3nd espu\u00e9s de un vuelo largo y un hambre amenazante! Una pizza entre 2 alcanza y sobra!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "maryjane", 
+      "text": "muuuuuuuuuuuuuy buena la comida, vale la pena ir!!!!!!!! y muy buenos precios!!!"
+    }
+  ]
+}

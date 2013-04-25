@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "facu825", 
+      "text": "El peor lugar en el que com\u00ed...y con la peor atenci\u00f3n....\nMe tuve que levantar a buscar la pimienta que le ped\u00ed a la moza porque se puso a hacer otra cosa y se me enfriaba la comida...\nDos lomos uno pedido a punto y el otro jugoso...vinieron los dos iguales en un punto indefinible...\nEl arroz fr\u00edo e incomible...\nUn desastre..."
+    }, 
+    {
+      "date": "22 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "flor82", 
+      "text": "La moza  es atenta y amable pero solo UNA persona incluso un martes es poco.\r\nLos platos regulares... al cerdo lo trajeron crudo y la codorniz era tan chica como un celular acompa\u00f1ada por un pur\u00e9 excesiamente grande para compensar.\r\nLo muy bueno: Panera y postres.. pero no vale la pena volver.\r\nLa carta de vinos ni existe (o sea tienen 2 opciones de vinos)"
+    }, 
+    {
+      "date": "20 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nanny5t", 
+      "text": "El servicio es lentisimo. Demasiado. despues de 1 hora y cuarto de espera me trajeron el rack de ternera, el cual estaba totalmente crudo. Despues del reclamo, y de 10 minutos mas de espera lo trajeron, pero era incomible. Pesimo lugar. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "smoje", 
+      "text": "El lugar es chico y reservado, lo que permite mantener conversaciones, en cuanto a la comida no le doy mas de 6 puntos. Los platos son demasiado rebuscados donde a veces no condicen los sabores dentro del mismo. Los precios son buenos.  En conclusi\u00f3n es un buen restaurant par un almuerzo de trabajo, no mas q esto."
+    }, 
+    {
+      "date": "4 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Bender", 
+      "text": "Cadeau fue una experiencia a medias. La comida fue irregular, unos platos buenos( pesca) y  flojo las carnes, su panera es de alt\u00edsima calidad, el servicio muy lento ( sobre pasado por exceso de gente). el postre rico pero no en su punto ( creme broul\u00e9). Le dar\u00eda una chance m\u00e1s. Ah! el lugar muy agradable."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gladys263", 
+      "text": "Excelente atenci\u00f3n por parte de la camarera, y la comida en su justo punto. Pedimos un lomo grill\u00e9 con risotto de uvas tintas que estaba exquisito. Todo muy rico. Para recomendar. La panera con sus pancitos artesanales muy sabrosos, de muy alta calidad."
+    }, 
+    {
+      "date": "16 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bomvivant2008", 
+      "text": "Muy bien todo y a muy bueno precio. Carpaccio, mollejas y un rack de ternera espectacular."
+    }
+  ]
+}

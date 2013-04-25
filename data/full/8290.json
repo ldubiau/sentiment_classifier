@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "25 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CALAMARDO", 
+      "text": "Es un ambiente muy familiar, donde se come muy bien a precios verdaderamente buenos. El plato que pedimos se llama festival de pastas, muy recomendable , muy abundante. La ambientaci\u00f3n muy simple de cantina tana  estaria bueno que le refuercen ese estilo  es un lugar para comer abundante, casero y barato,"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "VrowInga", 
+      "text": "\u00a1Excelente! Las pastas son frescas y caseras, y la atenci\u00f3n muy c\u00e1lida. Ambiente sencillo y agradable. Muy buenos precios."
+    }
+  ]
+}

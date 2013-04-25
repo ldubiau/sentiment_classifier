@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "23 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marcel", 
+      "text": "Excelentes las pizzas, la de verduras gratinada y crocante era una delicia.\r\nNo as\u00ed la empanada gallega que lleg\u00f3 fr\u00eda a la mesa y con un color amarillo (de alg\u00fan colorante). No hay dudas, para comer pizza es excelente, abstenerse de pedir otros platos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Ago 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Thiasma", 
+      "text": "Una de las mejores Pizzas lejos!!! COmo las de antes, de calidad y riquicima.Fui a comer en varias oportunidades y tambien hemos comprado para llevar, muy rica la pizza, las empanadas tambien. Para recomendar la tradicional Sopa Inglesa. Ademas tambien tienen juegos para los nenes y las estadia se hace mucho mas distendia si se va con chicos. (Hay un sector habilitado para los padres que van con chicos) Si desean comer buena pizza, no duden en visitar este local. El precio, es bueno en relacion calidad/precio."
+    }, 
+    {
+      "date": "16 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Aladelta", 
+      "text": "Comimos excelente. \r\nMuy buena calidad de comida. \r\nEl \u00fanico detalle es que el local es un poco ruidoso. Igualmente lo recomiendo much\u00edsimo, en especial la pizza napolitana."
+    }
+  ]
+}

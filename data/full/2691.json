@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "22 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Barbiju", 
+      "text": "La Pizza era terrible, parec\u00eda la prepizza de un supermercado. Solo hab\u00eda de Muzzarella, no hab\u00eda de ning\u00fan otro gusto, una verg\u00fcenza. \r\nEl servicio era realmente lento, tuvimos que acercarnos varias veces a la caja para que alguien venga a atendernos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "26 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "anapalopoli", 
+      "text": "Muy malo el servicio."
+    }
+  ]
+}

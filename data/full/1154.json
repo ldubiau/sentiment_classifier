@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "10 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "juanpazyamor", 
+      "text": "la atenci\u00f3n mala, pedimos parrillada para cuatro, la verdad escasa y mala, carne recalentada, dura, mal aspecto en fin un desastre. La pizza pasable ."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nictalope", 
+      "text": "Voy cada tanto hace varios a\u00f1os, me extra\u00f1a que lo pongan como parrilla, a m\u00ed nunca se me ocurrir\u00eda comer parrilla ah\u00ed. Tiene muy buenos sandwiches -Pink Floyd y otros de la casa- y asombrosamente buenas empanadas de pollo. La comida en general est\u00e1 bastante bien."
+    }, 
+    {
+      "date": "16 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "Muy rica la comida y buenos precios. Un buen lugar para cortar la rutina laboral al mediod\u00eda."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pilar23", 
+      "text": "Fuimos con amigos un jueves a la noche, hab\u00eda mucha gente pero por suerte no tuvimos que esperar. Hay variedad dentro de los platos clasicos. Pedimos un calzone y dos supremas para compartir, y estaba todo muy rico! Es abundante! Lo unico malo es que trajeron las supremas primero, y el calzone cuando ya casi habiamos terminado el resto."
+    }, 
+    {
+      "date": "10 Mar 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Bistek", 
+      "text": "Lastima que Uds. la ofrecen como una Parrilla y es \"solamente\" Pizzer\u00eda con algunos Platos de Cocina Internacional y las t\u00edpicas minutas de todos los Bares de Bs. As."
+    }, 
+    {
+      "date": "19 Oct 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Flory", 
+      "text": "Esta bueno la comida tambien el precio.\r\nvoy seguido a comer diferentes comidas.\r\nLas pastas son exiquisitos. Pedi siempre con salsa bolognesa y esa era salsa bolognesa real. \r\nlos platos como milanesas completas que viene con guarnicion pueden compartir y la ensalada Diet 1 que viene con anana..pollo..palmito..etc.. esta bueno.. para recomendar.!\r\nah! y el postre... helado de crema americana fue mas rico que el cono de Mc Donald. \r\nademas la atencion de las gentes me hace sentir como si fuera comer en mi casa o en la casa de mi abuela o tia! :)"
+    }, 
+    {
+      "date": "4 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "melvin", 
+      "text": "La verdad me parece excelente: atenci\u00f3n, servicio, comida... todo. Lo recomiendo todo el tiempo y voy bastante seguido."
+    }
+  ]
+}

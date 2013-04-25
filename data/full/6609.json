@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Gustaff", 
+      "text": "Ped\u00ed en el Delivery de La Lucila. Las empanadas estaban quemadas y el relleno era muy escueto. \r\nEl sabor obviamente muy flojo. \r\nNo volver\u00e9 a pedir nunca m\u00e1s y no lo recomiendo."
+    }, 
+    {
+      "date": "8 Nov 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "chicho_n", 
+      "text": "Hice un pedido de como 80 empanadas, la telefonista se equivoco en dos ocasiones, por lo que tuve que repetir todos los gustos y cantidades nuevamente. Tardaron una barbaridad y llegaron frias. El relleno tambi\u00e9n empeoro respecto a lo que sol\u00eda ser."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "15 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Riquisimas empanadas, mas para llevar o delivery, que pueden acompa\u00f1ar platos tradicionales argentinos como el Locro o la humita. Me gusta mucho la de \"Carne Tatu\" que es carne muy picante."
+    }, 
+    {
+      "date": "7 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Joco", 
+      "text": "Para mi est\u00e1 entre los 3 mejores delivery\u00b4s de empanadas de bs as.  especialmente las empanadas de carne, carne muy picante (tat\u00fa), carne a cuchillo con pasas (eulogia) y la de mondongo que es increible, un 10 para esta ultima. las empanadas que tienen queso siguen estando en el debe, llegan con el queso siempre frio y con mucho aire adentro.  las empanadas de humita son con choclo de verdad, muy dulce, y con mucho queso (por suerte no son de salsa blanca y choclo como en otros lugares).  las super recomiendo, especialmente las de carne y no dejen de probar las de mondongo !!"
+    }, 
+    {
+      "date": "2 Jun 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "feragusper", 
+      "text": "Pedimos una docena de empanadas muy variadas y un tamal. Todo esto para dos personas, obviamente sobro media docena de empanadas y quedamos exhaustos. Muy ricas empanadas, me hicieron recordar a las empanadas que com\u00ed en salta. Bien rellenas y muy variadas. El tamal, aunque algo peque\u00f1o estaba exquisito. El precio con descuento de club la nacion termin\u00f2 siendo bastante bueno, 50 pesos. Recomendable"
+    }, 
+    {
+      "date": "4 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "memelcito", 
+      "text": "Soy un fan\u00e1tico de las empanadas de Tat\u00fa de carne y carne picante. Son riquisimas. Si bien no son como las que se comen en Salta, son muy ricas y son de lo mejor que conozco en Delivery en Bs. As. La puntualidad del delivery no es muy confiable, pero sin duda, vale la pena pedirlas!"
+    }, 
+    {
+      "date": "20 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "aquaman", 
+      "text": "De lo que naci\u00f3n como una idea casera y artesanal de buen gusto regional,se transform\u00f3 en un simple delivery comercial y calidad contada en gotas.Espero que vuelvan a los or\u00edgenes."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Yocasta", 
+      "text": "Pedimos el vi\u00e9rnes a la noche delivery de empanadas, como eramos muchos fuimos democr\u00e1ticos y s\u00f3lo pedimos de carne y jam\u00f3n y queso. Las empanadas de carne estaban espectaculares, lo mejor que he comido en delivery. Super rellenas, no ten\u00edan ni un augero de aire. Volver\u00e9 a pedir para probar otros gustos, sin duda."
+    }
+  ]
+}

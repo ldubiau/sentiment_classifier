@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "15 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Colo32", 
+      "text": "Fui con un Groupon, la experiencia fue simplemente excelente.  La atencion de las chicas (especialmente Constanza) no es la tipica de Argentina.\r\n\r\nLos platos sabrosos, cantidad por encima de razonable y excelentemente presentados.\r\nEl Show es soberbio.  Las chicas definitivamente salieron de alguna compania de ballet, pues el tango que se baila alli tiene una coreografia estupenda.\r\n\r\nEl ambiente (un teatro de lujo reciclado) vale le pena por si mismo.  Comente que la entrada incluye una clase de tango antes de la cena??"
+    }, 
+    {
+      "date": "22 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maxemm", 
+      "text": "Es un tango show mas el espectaculo casi igual a todos  el servicio muy bueno la comida tambien"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carlo", 
+      "text": "El primer y unico show de tango donde comi verdaderamente bien! Suelen ser trampas para turistas con carne dura y seca y entradas desabridas, pero en este caso disfrute del lomo com en la mejor parrilla y los langostinos tambien estuvieron a la altura. Excelente opcion para llevar visitas del extranjero que quieren ver tango show sin que te timen!"
+    }
+  ]
+}

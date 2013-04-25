@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nuchi", 
+      "text": "Excelente ambiente para tomar un te en un hermoso jard\u00edn, muy bien ambientado.El te es suficientemente variado tanto en las opciones dulces como saladas. Excelente atenci\u00f3n , en este caso de Walter. Sin duda recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Excelente propuesta de servicio de t\u00e9 para dos muy bien servido, como para deleitarse en el marco del precioso jard\u00edn del hotel con vista a la pileta y la fuente"
+    }
+  ]
+}

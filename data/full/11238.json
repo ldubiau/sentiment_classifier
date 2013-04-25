@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "MrDomyn", 
+      "text": "No me gust\u00f3 para nada, totalmente desbordado, las mesas api\u00f1adas una arriba de la otra, ruidoso, etc. La atenci\u00f3n del mozo pasable, aunque era claro que no daba abasto. Tapa de asado por vac\u00edo que lleg\u00f3 media hora despu\u00e9s del resto de la comida y las papas medio quemadas. No vuelvo..."
+    }, 
+    {
+      "date": "4 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "hipotiposis", 
+      "text": "No me gusto la comida.\r\nAdemas es solo efectivo, no trabajan con tarjeta de credito ni de debito.\r\nLa parrilla  estaba media quemada, las ensaladas mas o menos, papas fritas buenas.\r\nPorciones abundantes.\r\nNo lo recomendaria."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "titomargalef", 
+      "text": "A este lugar voy hace mas de 10 a\u00f1os y, siempre fuimos muy bien atendidos por el sr. Fermin (alias Segundo) ahora bien si uno quiere ir a mostrarse, este no es el lugar, esto es para comer y pasar un buen momento, lo que si puedo decir, es que por $ 6.- que cobran de servicio de mesa, a uno le dan de entrada (ademas del pan) una copa de jerez, una empanada de copetin y al final una copa de lemon champ, cuando en otros lugares mas \"finos\" no te dan ni el saludo."
+    }, 
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sebax1986", 
+      "text": "Es una de esas parrillas de barrio pero en Pto Madero junto al Casino. Tiene buena calidad y los precios son acordes. Los mozos son gente macanuda y atenta, pero claro, bien de barrio. En fin, hemos ido con la gente de mi trabajo muchas veces, y los sanguches de bondiola o choripanes los tenemos entre nuestros mejores recuerdos. La parrillada (viene para 3 o para 5) es buena, no super abundante pero la porcion es correcta."
+    }
+  ]
+}

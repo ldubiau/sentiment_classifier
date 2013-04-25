@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "6 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "natalia1915", 
+      "text": "Una buena opci\u00f3n para comer al mediodia en el microcentro. Muy ricos los tostados y muy buena la atenci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "econobai", 
+      "text": "Muy buena parrilla."
+    }
+  ]
+}

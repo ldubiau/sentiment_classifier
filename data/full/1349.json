@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "1 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "cieloambar", 
+      "text": "El lugar esta carente de toda decoracion, no es agradable aunque esta limpio, la comida no es mala pero tampoco deslumbra. Los vinos son pesimos ademas de caros."
+    }, 
+    {
+      "date": "18 Sep 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "eliputo", 
+      "text": "La verdad que la atenci\u00f3n de los mozos es p\u00e9sima."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "danagustina", 
+      "text": "Yo fui en el mes de Diciembre y la comida estaba rica, el humus estaba suave, y el pastron muy bueno. Es cierto la decoracion no es el fuerte del lugar pero es muy amplio y comodo."
+    }, 
+    {
+      "date": "3 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "indiecks", 
+      "text": "La atencion es pesima.\r\nLa decoracion del lugar? directamente no tiene.\r\nHe comido lajmayines mejores.\r\nRecomiendo el Pastron."
+    }, 
+    {
+      "date": "18 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fschlim", 
+      "text": "El lugar es limpio, pero la ambientaci\u00f3n parece un comedor escolar tirado a menos. la comida respeta las reglas del kashrut, los sabores tradicionales, y se nota que es muy muy casera. particularmente la comida turca no es mi fuerte pero amantes de esta cocina sabran disfrutar de uno de los mejores comedores segun tengo entendido. el servicio es pesimo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "curi", 
+      "text": "coincido plenamente con el tema de la ambientaci\u00f3n al estilo comedor de colegio. M\u00e1s all\u00e1 de eso, la comida es +buena (se recomienda lajmashin abierta y pastron especialmente). La atencion tambien dejanun poco que desear."
+    }, 
+    {
+      "date": "26 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "dalchus", 
+      "text": "Muy buena comida kosher."
+    }, 
+    {
+      "date": "23 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gastonfan", 
+      "text": "Muy buena comida, recomiendo para comer comida oriental."
+    }, 
+    {
+      "date": "2 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "silvinap1", 
+      "text": "Muy buena comida."
+    }, 
+    {
+      "date": "23 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "perluchi", 
+      "text": "Muy rico, espectacular comida  de Medio-Oriente."
+    }
+  ]
+}

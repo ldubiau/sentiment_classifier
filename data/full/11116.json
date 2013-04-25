@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "14 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "totelo", 
+      "text": "estuvo muy rico todo, pero el servicio fue demasiado lento!! un poco de masa atencion seria lo ideal!"
+    }, 
+    {
+      "date": "7 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Dario46", 
+      "text": "Voy desde su inauguraaci\u00f3n, es recomendable, buen ambiente y atenci\u00f3n, lo unico q no me convence es el shawarma, pero igualmente es aceptable, lastima q ya no esta la odalizca q bailaba entre las mesas, deberian reponerla."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "valeriapappada", 
+      "text": "Fuimos con amigos, la pasamos muy bien. \r\nLa comida excelente y la atenci\u00f3n tambi\u00e9n. Nos orientaron acerca de los distintos platos y el ambiente es muy relajado y distendido.\r\nIdeal para charlas en pareja o con amigos y disfrutar de la exquisita comida \u00e1rabe."
+    }
+  ]
+}

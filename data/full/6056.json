@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "20 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "rochis1380", 
+      "text": "Quiero destacar que ayer fui a este restorant pobre milhojas de vegetales y pato pekin... la verdad sin palabras sigan asi que el precio es muy bueno y la atencion es exelente...."
+    }, 
+    {
+      "date": "15 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "apodoo", 
+      "text": "exelente la atecion y calidad."
+    }, 
+    {
+      "date": "12 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CHOU", 
+      "text": "Me encanto el lugar, la ambientacion y el servicio muy buenos.Excelente barra de tragos.\r\nLos platos muy ricos, recomiendo el pato, aunque tardaron bastante entre la entrada y el principal.\r\nMuy buena carta de vinos (lastima que se siga aplicando la regla del precio gondola por 2)y excelente el sommelier.\r\nSin dudas volvere seguido a esta nueva opcion.En sintesis, una muy buena relacion entre lo que se paga y lo que se come y disfruta."
+    }, 
+    {
+      "date": "29 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gabeto", 
+      "text": "En un gran local (donde antes estuvo \"Hereford\") hay dos propuestas, \"Klem\" es el hermano distinguido de \"Bord\u00f3n\" con quien comparte cocina. El espacio es muy agradable, amplio y bien ambientado. La atenci\u00f3n es esmerada y con buen conocimiento d eplatos y vinos. La comida fue muy rica y bien presentada, la carta de  vinos es interesante aunque algo cara."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CAROLITA", 
+      "text": "Ya habia ido a comer a Bordon, la opcion economica de la propuesta gastronomica, y habia quedado encantada. Esta vez elegi ir a Klem, quede totalmente sorprendida por lo bien logrado de su ambientacion y la excelente propuesta en vinos ( pocas veces vi una carta tan bien lograda) La comida realmente muy buena!! La atencion muy esmerada. Nos toco un camarero muy amable y simpatico, conocia muy bien el producto y nos guio de maravillas con la eleccion del vino. Todo esto acompa\u00f1ado del show de jazz de los sabados! Inigualables! Sigan asi!! COn seguridad vuelvo a los dos!!"
+    }, 
+    {
+      "date": "20 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rapunsel", 
+      "text": "Me encant\u00f3 el lugar, la comida es muy buena, \"buen precio\" y excelentes tragos!"
+    }
+  ]
+}

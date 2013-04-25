@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "16 Feb 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pelae", 
+      "text": "Buena parrilla y atenci\u00f3n, le falta un poco de ambientaci\u00f3n, pero es un lugar muy c\u00e1lido y tranquilo."
+    }, 
+    {
+      "date": "19 Ago 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chape", 
+      "text": "No tienen Estacionamiento. Si tenes la suerte de conseguir lugar en el que est\u00e1 justo al lado del restaurant, con el ticket del estacionamiento te hacen un 10% de descuento en la cuenta del restaurant si pagas con AMEX o en efectivo. Estacionar en las Ca\u00f1itas es un problema...."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Abr 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "teddii", 
+      "text": "Un ambiente muy tranquilo, refrescante con muy buena calidad de productos y servicio."
+    }, 
+    {
+      "date": "11 Nov 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "sebamaci", 
+      "text": "El personal es muy agradable, gente joven y con ganas de hacer las cosas bien."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "buenos": [
+    {
+      "date": "13 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "jotao1", 
+      "text": "El ambiente es sumamente ruidoso no apto para quienes quieren charlar en tono normal. Las pizzas son muy buenas. La comida a la carta normal, nada destacable."
+    }, 
+    {
+      "date": "19 Nov 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "praskovia", 
+      "text": "El ambiente es terriblemente ruidoso, dado que habitualmente se llena y las mesas est\u00e1n muy encimadas entre s\u00ed. La calidad de las pizzas es excelente, no siendo as\u00ed en el caso de los otros platos de la carta que si bien no son correctos no tienen nada particularmente destacable. Los mozos atienden con mucha amabilidad y son bastantes expeditivos, m\u00e1s a\u00fan teniendo en cuenta la cantidad de comensales que suele tener el lugar. Los precios son razonables."
+    }, 
+    {
+      "date": "6 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Aunque es pizzer\u00eda, sorprende la cantidad de platos de cocina con que cuenta la carta. Comimos pizza ( muy buena) y  fainazzeta, una especialidad de la casa. La atenci\u00f3n es buena y el ambiente amplio y luminoso."
+    }, 
+    {
+      "date": "16 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Dentro de lo poco que hay para comer por la zona es de lo mejor del barrio. La pizza es rica y no resulta cara. El lugar es un t\u00edpico caf\u00e9/restaurant pero con una terraza por lo cual se diferencia un poco. La atenci\u00f3n, como casi siempre en este tipo de lugares, es discreta."
+    }, 
+    {
+      "date": "18 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "GUSTY", 
+      "text": "La pizza es buen\u00edsima.  Muy rica la salsa y la masa, adem\u00e1s muy buenas las aceitunas y la variedad.  En las otras comidas muy buena presentaci\u00f3n pero no se destacan especialmente.\r\nLa atenci\u00f3n y el ambiente tambi\u00e9n es bueno.  El precio es muy razonable"
+    }
+  ]
+}

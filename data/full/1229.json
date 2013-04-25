@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "17 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "sashamiluz", 
+      "text": "Muy buen lugar para los almuerzos de oficina, nada de citas romanticas, pero maneja precios muy accesibles y comida caseras, el lugar ideal para comer bien los dias laborales sin gastar fortuna."
+    }, 
+    {
+      "date": "18 Abr 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "mfvm", 
+      "text": "Se trata de una rotiser\u00eda de barrio. No hay carta y la comida es casera, pero la calientan en el microondas a la vista del cliente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jupacor_", 
+      "text": "Se come muy bien y muy barato. La cocina es casera, como hecha por mam\u00e1. Voy a volver."
+    }
+  ]
+}

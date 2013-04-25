@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "4 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "tomito1", 
+      "text": "Extremadamente malo, platos de lo mas sencillos y caros , la atencion pesima , no entiendo como gente del pueblo lo pueden recomendar habiendo varios superiores"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "martin1205", 
+      "text": "Llegamos al restaurant de casualidad. Nos atendieron muy bien, y la comida esta mucho mas que bien. Excelente alternativa, nosotros eramos 4 grandes y gastamos $270 con postre y sin vino, aunque con una cerveza Corona grande. Recomendable!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Freudlacan", 
+      "text": "Nos dijeron,si van a Lobos,muy cerca de capital y un recorrido m\u00e1s q descansado,no dejen d comer en El refugio del Lupo.  \u00a1epa,epa,q buena sorpresa!!!nos encontramos con un lugar m\u00e1s q c\u00e1lido,personal con onda q nos recibi\u00f3 ni bien entramos.  La ambientaci\u00f3n tiene detalles q invitan a la mirada y a sentirnos,como en casa...pero,sin cocinar.     Excelente comida,abundante,pedidos especiales,tenidos en cuenta desde la cocina(radicheta cortada gruesa),ricos vinos y la afectuosa visita del due\u00f1o,a nuestra mesa,para saber si todo estaba bien,\u00a1gracias,Nahuel!"
+    }, 
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ref12", 
+      "text": "Est\u00e1 ubicado en la ciudad de Lobos. Tiene un ambiente muy agradable y bien decorado. La carta es muy variada y muy buena.\r\nHe ido muchas veces y recomiendo el salm\u00f3n americano, la bondiola, todas las pastas y el postre Lupo. El precio es accesible y  muy acorde a lo que ofrece. Volver\u00eda a ir muchas veces m\u00e1s."
+    }, 
+    {
+      "date": "11 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jjg008", 
+      "text": "Una grata sorpresa. Estuve paseando por Lobos el fin de semana y, cansado de parrilla y m\u00e1s de lo mismo, me fui a comer a El Refugio del Luppo. Me sorprendi\u00f3 de verdad. Muy buena la comida y el clima y servicio es b\u00e1rbaro. Muy familiar y bien atendido. Super recomendable la bondiola a la cerveza negra."
+    }, 
+    {
+      "date": "9 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nacho74", 
+      "text": "Conoc\u00ed El Refugio del Lupo por recomendaci\u00f3n de amigos que viven en Lobos y en Ca\u00f1uelas.  Fui varias veces, est\u00e1 atendido por los due\u00f1os (lo que marca una gran diferencia a la hora de la atenci\u00f3n), la carta y la comida son excelentes, fui en familia y todos almorzamos muy c\u00f3modos en un gran ambiente.  Los platos poseen ingredientes de la regi\u00f3n (excepto los excelentes pescados), pero con una gran innovaci\u00f3n, siendo platos sencillos y sofisticados a la vez.  Los precios son muy adecuados, y uno se va realimente satisfecho. ES MUY RECOMENDABLE."
+    }
+  ]
+}

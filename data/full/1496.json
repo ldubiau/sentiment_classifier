@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "borgani", 
+      "text": "El men\u00fa ejecutivo est\u00e1 entre los mas caros de la zona, y la calidad es regular, con lo cual no se justifica pagarlo, ya que el lugar en s\u00ed no es de lo mas c\u00f3modo. La atenci\u00f3n es buena. Si no com\u00e9s el men\u00fa ejecutivo, se te pone muy complicado ya que las restantes opciones, ll\u00e1mese sanguches, ensaladas, o platos, son ABSURDAMENTE caros. No recomendable."
+    }, 
+    {
+      "date": "26 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "bella_ana", 
+      "text": "Son muy desproporcionados los precios respecto a la calidad de la comida, por el mismo precio se puede comer mucho mejor en muchos otros lugares. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dambar10", 
+      "text": "Se com\u00e9 muy bien, por ah\u00ed est\u00e1n desfasados con los precios de los sandwiches y eso. Un jugo y un tostado cuestan $20, el servicio y la atencion en muy buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sibaritatrip", 
+      "text": "Comida muy buena, igual que la atenci\u00f3n. Para comer r\u00e1pido y bien atendido."
+    }, 
+    {
+      "date": "11 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "esteban", 
+      "text": "Excelente opci\u00f3n para los mediod\u00edas. El plato del d\u00eda es siempre buen\u00edsimo."
+    }
+  ]
+}

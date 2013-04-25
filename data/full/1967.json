@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "17 Oct 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "amosopa", 
+      "text": "Fui ayer por los votos positivos aca, pero el restaurante era caro y la comida no tan rica.  Capaz que aumentaran los precios?  El menu ejecutivo sale $28, y por supuesto saldria mas si eligieras los platos en el menu."
+    }, 
+    {
+      "date": "30 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "didi23", 
+      "text": "Uno entra al restaurante y el olor a grasa se impregna por todas partes. Mi acompa\u00f1ante pregunt\u00f3, antes de pedir, si la empanada de verdura era con salsa blanca: la moza indic\u00f3 que s\u00ed. Hubo que cambiarla porque era s\u00f3lo de verdura. Tardaron m\u00e1s de quince minutos en traernos la empanada y una porci\u00f3n de fain\u00e1 (con gusto a nada). Y otros diez para traernos una pizza chica de mozzarella (el local estaba casi vac\u00edo). De repente, escuchamos los gritos de un comensal que se quejaba de los nervios que ten\u00eda no se qu\u00e9 carne que estaba comiendo y otra gritaba por el peque\u00f1o muslo que hab\u00eda recibido. Un verdadero desastre."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Dic 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Fui al mediod\u00eda ya que trabajo por la zona. Tardaron una eternidad en atendernos, en tomarnos el pedido, en traer la panera, en traer las bebidas, etc etc. Si pretenden comer en una hora no van a conseguirlo, al menos yo, a\u00fan comiendo r\u00e1pido, me fui una hora y media despu\u00e9s de entrar. La comida es aceptable, el men\u00fa tiene buen precio pero de postre solo 3 alternativas b\u00e1sicas. El plato estaba bien servido y bien preparado. Es una buena alternativa de la zona, pero deben acelerar los tiempos de atenci\u00f3n sabiendo que atienden gente que debe volver a su trabajo."
+    }, 
+    {
+      "date": "29 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FILOSO", 
+      "text": "Atenci\u00f3n personalizada muy agradable,el lugar tiene onda ,pedimos pizza y empanadas muy pero muy ricas , nos sorprendi\u00f3 para bien.\r\nLo recomiendo."
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "perlaytoto", 
+      "text": "Pedimos comida (delivery) y siempre la atenci\u00f3n es excelente. SI hay demora nos avisan.\r\nLa relaci\u00f3n precio / comida es la correcta.\r\nLa pizza es exquisita (te envian fain\u00e1 y pan de pizza de regalo).\r\nLas milanesas de pollo y  el pur\u00e9 muy ricos.\r\nConsejo: preguntar por el plato del d\u00eda. Sale 17 pesos e incluye postre."
+    }, 
+    {
+      "date": "16 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adro", 
+      "text": "clasico con el daro, vamos siempre que nos reunimos, conviene mas que un delivery!\r\nrestaurant muy economico, con un menu completisimo a un precio mas que barato, servicio, comida y ambiente normales. es muy buena opcion cuando se encuentra todo cerrado y se quiere ir tarde, comer minutas, unas cervecitas, revistas a disposicion y para todo tipo de reuniones, mas para grupos. ahh, las pastas no son muy buenas, las empanadas excelentes y el flan es casero."
+    }, 
+    {
+      "date": "10 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "classicsailor", 
+      "text": "muy buen srvicio, la comida estaba bien preparada y abundante\r\nexcelente caf\u00e9 irlandes"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "melquiades", 
+      "text": "El lugar no es nada extraordinario, pero las pastas que sirven son excelentes. Muy buena relaci\u00f3n calidad/precio."
+    }, 
+    {
+      "date": "11 May 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CHESGUS", 
+      "text": "Muy buena relaci\u00f3n calidad/producto. Recomendable para cualquier momento."
+    }, 
+    {
+      "date": "26 Oct 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jime_et1", 
+      "text": "la ambientaci\u00f3n, la comida y la atenci\u00f3n; todo me pareci\u00f3 apropiado para un verdadero restaurante, vale la pena visitarlo."
+    }
+  ]
+}

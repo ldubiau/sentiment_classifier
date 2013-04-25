@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "17 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "barrigudito", 
+      "text": "Muy buena calidad de carne y en buen punto de cocci\u00f3n. Festejo una nueva propuesta en un barrio que hasta hace poco tiempo, nos obligaba a irnos a las Ca\u00f1itas o a Palermo. La entra\u00f1a lo que m\u00e1s nos gust\u00f3 del mix de carnes, volveremos para probar otros platos"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "faku75", 
+      "text": "muy buena, atencion personalizada exelente calidad y pasamos un muy buen momento"
+    }, 
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MT014", 
+      "text": "El sal\u00f3n est\u00e1 atendido por su due\u00f1o, quien parece tener vasta experiencia en la atenci\u00f3n al cliente. Me recomend\u00f3 el plato del d\u00eda (bondiola de cerdo horneada a la mostaza con batatas fritas), que estaba riqu\u00edsimo. El postre buen\u00edsimo (streusel de manzana). Me sorprendi\u00f3 que para la zona en la que est\u00e1 los precios sean tan accesibles."
+    }
+  ]
+}

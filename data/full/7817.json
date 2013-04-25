@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "8 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "solilu", 
+      "text": "Un  lindo espacio , especialmente en el exterior para disfrutar del sol. Muy buena la atencion de la camarera, siempre atenta al cliente.\r\nLos platos, abundantes, apropiados para compartir.   Sugiero el Matambrito de cerdo Urbano. Exquisito !!\r\nBuena panera para la recepcion.  Recomendable."
+    }, 
+    {
+      "date": "12 Nov 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Es un restaurante  con una aceptable cocina.  El ambiente es agradable y cuenta con varios espacios con mesas;  sal\u00f3n principal, planta alta y exteriores: cubiertas y al aire libre. La atenci\u00f3n es buena y los precios tambi\u00e9n si consideramos que los platos se pueden compartir."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ferrarijuanma", 
+      "text": "El lugar est\u00e1 bien y punto. No es ninguna locura ni nada del otro mundo. Se come aceptable, quiz\u00e1 lo recomendar\u00eda para desayunar o merendar, pero como restaurant... hay muchos otros mejores por la zona. Lo que tiene el lugar es que la ubicaci\u00f3n estrat\u00e9gica lo pone como una de las primeras opciones porque est\u00e1 en la esquina emblem\u00e1tica de las lomitas."
+    }, 
+    {
+      "date": "1 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "morena3", 
+      "text": "Un lugar lindo para visitar en zona sur, no ofrece nada del otro mundo pero es aceptable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "hadamadrina", 
+      "text": "Fui al mediod\u00eda, ped\u00ed una gaseosa y dos empanadas, como otras veces, nunca me cobraron servicio de mesa, pero... esta vez s\u00ed. Al reclamarlo, me dijeron que al comer empanadas se cobraba servicio de mesa. \u00bfel tenedor y el cuchillo? NUNCA ME TRAJERON PAN NI MANTECA COMO A LAS OTRAS MESAS QUE S\u00cd COMIERON PLATOS ELABORADOS. El reclamo fue en vano... claro, iba con el descuento de Club La Naci\u00f3n... ser\u00e1 por eso????"
+    }
+  ]
+}

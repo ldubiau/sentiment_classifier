@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "19 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "jabugo", 
+      "text": "Comida china en serio, rica y en porciones generosas. Relacion precio , calidad excelente"
+    }, 
+    {
+      "date": "30 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Maxemm", 
+      "text": "delivery del mejor la comida llega caliente ideal para almuerzo en la oficina  lo que si que ni loco te suben el ascesensor tenes que ir a buscar abajo el pedido punto menos en el servicio"
+    }, 
+    {
+      "date": "26 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "canchera", 
+      "text": "siempre pedimos delivery.....y fuimos a buscar comida y nos quedamos a cenar...muy abundante como siempre, muy buena la atencion, precios accesibles, ambiente familiar, limpio.....recomendable...arroz con huevo y pollo; o pollo con almendras....empanaditas chinas."
+    }, 
+    {
+      "date": "22 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "juri", 
+      "text": "siempre pedi delivery, buen precio por la calidad y cantidad que recibis, muy recomendables las costillitas de cerdo con salsa agridulce."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Helenabatt", 
+      "text": "Es un verdadero restaurante de comida china, es exquisita!!!!\r\nSiempre pido delivery y son muy puntuales con el horario.\r\nAltamente recomendable!!!"
+    }, 
+    {
+      "date": "9 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "gladys1810", 
+      "text": "muy buena comida! porciones bien abundantes. El servicio es rapido. La comida no esta llena de grasa como en otros lados  MUY recomendable. El delivery viene a la hora pactada."
+    }, 
+    {
+      "date": "28 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Leon2", 
+      "text": "Comida excelente. Servicio regular. Lugar agradable."
+    }
+  ]
+}

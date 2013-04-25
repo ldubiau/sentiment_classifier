@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "15 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Ivans02", 
+      "text": "La peor atenci\u00f3n que tuve en mi vida!\r\nPor favor ni se les ocurra ir!"
+    }, 
+    {
+      "date": "5 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "SusanaM", 
+      "text": "Para no ir.... fuimos con el voucher del men\u00fa de 7 pasos en dos oportunidades al mediodia y no pudimos acceder al mismo porque no ten\u00edan los ingredientes para hacerla... pese a haber hecho la reserva previa. Y solo estaba el chef y la mesera, nadie responsble... un desastre"
+    }, 
+    {
+      "date": "22 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "melyhc", 
+      "text": "hola q tal, comento que fui a comer el sabado a la noche, y el supuesto bife de chorizo era una mentira, estaba re seco y no era de chorizo!!!!! la atencion de la mesera dejaba mucho que desear..."
+    }, 
+    {
+      "date": "15 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "mikimba", 
+      "text": "Estoy leyendo el comentario de Leodelsur y dice lo mismo que iba a decir. No s\u00e9 para qu\u00e9 ofrecen cosas que no te van a dar. Basta con decir que una de las entradas dec\u00eda ser quiche lorraine de salmon y queso azul y se trataba de unas mini tartaletitas compradas rellenas con queso untable. Salimos muy defraudados."
+    }, 
+    {
+      "date": "30 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Leodelsur", 
+      "text": "me enga\u00f1aron con el menu 7 pasos para 2 personas . Fue lamentable"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "7 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Maryrogar", 
+      "text": "Fuimos con un voucher del menu 7 pasos. La comida excelente, el servicio m\u00e1s o menos. Ba\u00f1os impecables."
+    }, 
+    {
+      "date": "4 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "anace", 
+      "text": "Fui con mi novio con el voucher del men\u00fa de 7 pasos, la atenci\u00f3n fue regular, la comida estuvo bien, aunque no val\u00eda lo que dec\u00eda el voucher. Lo que nos pareci\u00f3 baj\u00edsimo es que quisieron cobrarnos servicio de mesa (que ya estaba incluido en el voucher) y encima nos cobraron el agua extra que pedimos mas cara."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Sep 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "bravomar02", 
+      "text": "Fuimos con amigos la pasamos muy bien , la comida es realmente casera , muy buena todo en su punto,los langostinos sin palabras.\r\nEl personal muy amable, precios acordes, volveremos."
+    }, 
+    {
+      "date": "26 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LuisaS", 
+      "text": "Es el mejor lugar de comida casera de Bs. As.\r\nLo recomiendo 100% para los que saben comer******"
+    }, 
+    {
+      "date": "17 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "alekan", 
+      "text": "el menu ejecutivo es buenisimo, ademas de 2 platos incluye postre , bebida y cafe.fuera del menu el plato de langostinos es espectacular!!!!!!!!"
+    }
+  ]
+}

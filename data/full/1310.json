@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "9 Jun 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "NOFX", 
+      "text": "Un restaurant que se qued\u00f3 en el tiempo. Deber\u00edan renovarse un poco. Los manteles de papel sobre mesas de pl\u00e1stico ya no van m\u00e1s... hace mucho que dejaron de existir. La comida es buena pero los mozos no tienen muchas ganas de atender."
+    }, 
+    {
+      "date": "27 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "PaladarNedro", 
+      "text": "El querido \"Pippo\" sigue siendo el que nos acompa\u00f1a desde cuando estudi\u00e1bamos y apenas ten\u00edamos unas chirolas para los vermichelis al tuco/pesto y un pinguino de tinto y soda. \r\nSigue siendo ese lugar de encuentro para los que siempre fuimos y para los pibes, que empiezan a caminar Corrientes.  \r\nUn detalle (que delata a\u00f1os): antes te daban una quesera, que con el pan se transformaban en una m\u00e1gica entrada.  \r\nLuego el queso ven\u00eda directamente en el plato servido (abundante), la \u00faltima vez me preguntaron si quer\u00eda queso con los vermichelis."
+    }, 
+    {
+      "date": "22 Abr 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "fabbar1", 
+      "text": "\u00bfQu\u00e9 decir de Pippo? \r\nDicen que no es lo que era, pero los vermiccellis tuco/pesto siguen siendo muy buenos. \r\nSe recomienda no comer parrilla. \r\nLos mozos y el ambiente es lo que hay, no exigir milagros."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Mar 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nycteris", 
+      "text": "La comida barata y abundante, tanto que no pude terminar el plato. Adem\u00e1s la salsa bolognesa ten\u00eda mucha carne, lo cual me sorprendi\u00f3 gratamente. Volveremos sin duda, alguna. Eso s\u00ed, concuerdo que los manteles de papel no son lo mas indicado."
+    }, 
+    {
+      "date": "29 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "alf_2024", 
+      "text": "Excelente lugar para ir a comer con amigos o familia. El ambiente es perfecto para pasar un buen rato, sigue siendo el mismo lugar que fue hace 30 a\u00f1os, acorde al bolsillo y a lo que se merece la gente."
+    }, 
+    {
+      "date": "23 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gmd_ale", 
+      "text": "La comida es de muy buena calidad, es abundante y si ped\u00eds vermichelis te los sirven en pocos minutos."
+    }, 
+    {
+      "date": "22 Feb 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "anguasco", 
+      "text": "He salido muy satisfecha, con la calidad de los alimentos y el valor"
+    }
+  ]
+}

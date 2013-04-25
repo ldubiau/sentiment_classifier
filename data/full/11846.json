@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "guille_smg", 
+      "text": "Lo \u00fanico bueno que puedo decir del lugar es que venden cerveza Cusquena y que la atenci\u00f3n no fue mala. La comida dejo mucho que desear. Las causas y el ceviche, ins\u00edpidos, y el sushi, si bien no era feo, es equiparable a la calidad de estos deliverys baratos... Encima no ten\u00edan todos los ingredientes que tra\u00eda la tabla que ped\u00ed (los reemplazaron por otros mas econ\u00f3micos, y no me informaron hasta que pregunte) ni me trajeron los rolls correspondientes."
+    }, 
+    {
+      "date": "13 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Andy88", 
+      "text": "Buen sushi,muy fresco, aunque los cortes de sashimi muy chicos.\r\nCon respecto a la comida peruana o fusion que sirven ahi,en mi opinion muy escasa de sabor. el cebiche y la causa mas ins\u00edpida est\u00e1n aqu\u00ed.\r\nPara sushi si\r\nPara fusion no.\r\nbuena atencion"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "paradox", 
+      "text": "Ya he ido 3 veces en lo que va del a\u00f1o, y la verdad la comida es excelente. Sushi muy fresco y bien elaborados. Tiempo de espera en los platos es razonable. Los postres simplemente son incre\u00edbles, recomiendo el volc\u00e1n de chocolate y el mouse de chocolate blanco con maracuy\u00e1. La atenci\u00f3n es buena. La carta de vinos algo reducida. No es nada barato, pero cabe decir que la elaboraci\u00f3n de los platos lo justifica."
+    }
+  ]
+}

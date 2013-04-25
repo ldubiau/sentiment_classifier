@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "12 Dic 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "jetangal", 
+      "text": "El servicio es malo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Ene 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pably", 
+      "text": "Es muy bueno el lugar para cualquier tipo de desarrollo socioart\u00edstico. El restaurante presenta una amplia variedad de platos y los precios est\u00e1n adaptados a los bolsillos del p\u00fablico."
+    }, 
+    {
+      "date": "21 Jul 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "manya2006", 
+      "text": "Muy buena la comida, el servicio y el ambiente. \r\nLa \u00fanica nota baja fue que la carta no estaba actualizada (ten\u00edan muy pocas de las comidas referidas)y nos terminaron ofreciendo un men\u00fa preestablecido (del que nadie nos hab\u00eda hablado) que finalmente result\u00f3 muy bueno.\r\nRecomiendo."
+    }, 
+    {
+      "date": "20 Nov 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "info21", 
+      "text": "Excelente."
+    }, 
+    {
+      "date": "2 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "romival0", 
+      "text": "Me gustaron mucho los pinchos de pollo y puerro, acompa\u00f1ados con vino blanco.\r\nMuy bueno todo."
+    }, 
+    {
+      "date": "28 Oct 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nalop", 
+      "text": "Prometedor."
+    }
+  ]
+}

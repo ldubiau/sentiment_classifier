@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "3 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gui84", 
+      "text": "La pizza y las pastas son muy buenas y baratas. Los mozos son amables. Los precios razonables."
+    }, 
+    {
+      "date": "1 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "blackhole", 
+      "text": "Probaron las medialunas de ah\u00ed??? Incre\u00edbles!!\n\nLas familias del barrio pasan a buscar toneladas para el country!!\n\nEl resto es muy bueno en calidad y servicio. \n\nPara salidas funcionales no falla!!"
+    }, 
+    {
+      "date": "30 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elpachuloko", 
+      "text": "muy buena atncion!! sobre todo el chico de la barra...muy rico todo y a buen precio!!"
+    }, 
+    {
+      "date": "29 Sep 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dubi", 
+      "text": "Excelente la calidad del lugar."
+    }, 
+    {
+      "date": "23 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Rica y abundante comida, el delivery lo traen r\u00e1pido."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Dani Casanova", 
+      "text": "Excelente lugar!!!! Las mejores medialunas que prob\u00e9 en buenos aires! Se come muy rico, y tiene algunos precios muy baratos, especialmente para grupos\r\nLos mozos son muy buenos y amigables. La comida te la traen r\u00e1pido, y es muy sabrosa. Les recomiendo las pastas, en especial los ravioles y los sorrentinos. La pizza es muy rica y muy vistosa, la sirven rectangular!"
+    }
+  ]
+}

@@ -1,0 +1,918 @@
+{
+  "malos": [
+    {
+      "date": "7 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "eliaguade", 
+      "text": "no me gusto la comida, el salm\u00f3n que pedi tenia sabor a hierro y las porciones son demasiados peque\u00f1as en relacion al precio de los platos"
+    }, 
+    {
+      "date": "12 Nov 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "MediasBajas", 
+      "text": "Fuimos dos parejas, pedimos 6 \u00f3rdenes y apenas 1 estaba bien; las otras 5 no pod\u00eda creer que despu\u00e9s nos hayan cobrado lo que pagamos. \r\n\r\nNo s\u00f3lo no vuelvo m\u00e1s, sino que obviamente tampoco lo recomiendo. Hay muchas opciones de sushi en Buenos Aires como para darle una 2da oportunidad."
+    }, 
+    {
+      "date": "24 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "avedepresa", 
+      "text": "Malo, burda imitaci\u00f3n de otros restaurantes. Cenamos afuera siendo 5 en una mesa, las sillas demasiado incomodas. Las porciones bastante chicas por lo menos en los que nosotros pedimos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "5 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "figment", 
+      "text": "La ambientacion no me gusto, hay muchas mesas y es bastante ruidoso.  La comida fue muy buena.  Pedimos sushi, tiraditos, etc y nos parecio distinto, especial.. sabores diferentes.\r\nLa atencion esta bien.  \r\nEs caro, pero vale la pena.  Vuelvo seguro."
+    }, 
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "panchitallinda2000", 
+      "text": "Una decepci\u00f3n el lugar y la ambientacion. El tiradito de maracuya estuvo bien, el sushi tambien sin ser espectacular. Prefiero otros lugares."
+    }, 
+    {
+      "date": "19 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jpavo", 
+      "text": "Fui a comer con unas amigas, la camarera nos explico la cocina del lugar y nos sugiri\u00f3 una degustaci\u00f3n, estuvo bastante bien todo sin embargo pedimos aparte un salteado de verduras y langostinos, los langostinos de ese plato estaban pasados de punto secos y gomosos, la camarera noto nuestro disgusto y el chef cambio el plato."
+    }, 
+    {
+      "date": "18 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "MatiasL", 
+      "text": "pague caro, no comi bien , pero tendra revancha, ya que cuando fui no habia salmon por Moreno."
+    }, 
+    {
+      "date": "13 Abr 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Gustaff", 
+      "text": "Muy buena la comida y los tragos. Pedimos ceviche, tiraditos, sushi y salm\u00f3n sellado con s\u00e9samo. Sin embargo, nos pareci\u00f3 muy caro. Con vino y postre, 350 pesos por persona. Me parece exagerado, tampoco es algo excepcional como para cobrar eso. Si no tienen tema con la plata vayan sino elijan otra opci\u00f3n. Yo no creo que vuelva."
+    }, 
+    {
+      "date": "1 Abr 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "ManJean", 
+      "text": "El lugar esta bien, pero no se destaca en algo especifico. No es el mejor sushi ni el mejor ceviche. Esta bien, pero prefiero otros lugares."
+    }, 
+    {
+      "date": "12 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "pescador", 
+      "text": "es la segunda vez que me pasa en el salon de abajo no anda el aire acondicionado y en el verano es un horno\r\nLas dos veces el plato con gallina no esta,el personal no esta lo suficiente mente entrenado  dado el precio que pagamos"
+    }, 
+    {
+      "date": "19 Dic 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gaillin", 
+      "text": "La comida rica pero las porciones muy pequenas y los precios MUY CAROS.  La carta de vinos buena, pero no tenian el vino que pedimos, y nos trajeron uno mas caro..pero olvidaron respetar la etiqueta solicitada....nos cobraron el precio del mas caro...sabor amargo porque gastamos $550 pesos por persona.\r\nEl salon de abajo incomodisimo, en especial las mesas que dan a la calle, porque no hay lugar para sentarse sin molestar a quien esta detras. No volveremos."
+    }, 
+    {
+      "date": "11 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "birkinmary", 
+      "text": "La comida y el ambiente son buenos, el servicio no tanto, tanto la hostess como los mozos son fr\u00edos y bastante bruscos, deber\u00edan mejorarlo.\r\nLa carta de vinos es pobre, siendo un peruano japon\u00e9s deber\u00edan poner m\u00e1s atenci\u00f3n a los espumantes y sakes. Los tragos son excelentes."
+    }, 
+    {
+      "date": "29 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "FlowerBomb", 
+      "text": "Para volver!\r\nEL servicio es buen\u00edsimo, el lugar muy lindo y la comida no desentona.\r\nRecomiendo los shrimp passion - langostinos en salsa de maracuy\u00e1 y miel con casta\u00f1as de cay\u00fa. Imperdibles!"
+    }, 
+    {
+      "date": "16 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Pepegrill", 
+      "text": "Me pareci\u00f3 un lugar caro y regular. Gastamos mas de 300 pesos por comer un ceviche cada uno (eramos dos), compartir un postre y una copa de vino. Tremendo fiasco! Y ademas la comida no era nada de otro mundo. No voy a volver, al menos que sea gratis!"
+    }, 
+    {
+      "date": "4 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "GabyP", 
+      "text": "Fui con mi marido y 5 amigos extranjeros, y la verdad me decepcionaron. Nos dieron s\u00f3lo una carta en ingl\u00e9s que debieron alternarse entre todos. La comida rica (la de los dem\u00e1s; los langostinos con arroz que orden\u00e9 estaban pasad\u00edsimos de sal), pero eso fue todo. El mozo haci\u00e9ndose el gracioso y bastante grit\u00f3n, hablando por encima de la gente. Fuimos a las 20 y a las 22, cuando el lugar se llen\u00f3, tardaron much\u00edsimo en traernos las bebidas, los postres, la cuenta. En s\u00edntesis, no creo que valga la pena pagar tanto para comer con una atenci\u00f3n tan deficiente."
+    }, 
+    {
+      "date": "28 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RESTOFANL", 
+      "text": "El rest\u00f3 es excelente, la comida es una invitaci\u00f3n a los sentidos. Es un poco caro si se quieren degustar todas las especialidades. Sin embargo las combinaciones me parecieron maravillosas. Los pinchos de pulpo no tienen desperdicio."
+    }, 
+    {
+      "date": "31 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ferraria", 
+      "text": "Comimos ceviche, tiraditos, rolls y tapas. La verdad es que estaba todo muy rico (los rolls increibles) aunque le falto un poco para dejarnos encantados (a los tiraditos sobre todo, les falto algo). Es decir, la comida es muy buena pero como habia ido antes, por la diferencia de precio, en ese estilo de comida me quedo con Osaka que es muy dificil de superar.\r\nDe todas formas es un lugar muy recomendable."
+    }, 
+    {
+      "date": "4 Nov 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pumitagastro", 
+      "text": "Coincido ampliamente con los comentarios en general. La comida me parecio realmente interesante y muy bien elaborada (varias similitudes otras superaciones y varios intentos de llegar a clasicos Osaka).\r\nEl ambiente coincido no es acorde a los precios (160 por px)al igual que detalles como mobiliario, carta, pisos, etc.\r\nVolveria por su comida mas alla de su alto precio pero creo que existen opciones similares con mejor ambiente."
+    }, 
+    {
+      "date": "8 Oct 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "germo", 
+      "text": "Realmente comimos muy bien, nos gusta mucho la comida peruana, y de las que hemos probado es la mejor. Muy bien servido, sabores refinados, atencion impecable. Lo unico que el lugar no se corresponde con la comida ni con los precios. Mala distribucion y manteleria en general. Volvere seguro!"
+    }, 
+    {
+      "date": "17 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Psygody", 
+      "text": "Me gustar\u00eda que sea mas fino. La carta parece de un bar de cabildo y juramento escritos los precios con marcador feo. El roll que probe estaba muy bueno. Los tiraditos con crema de aji amarillo muy buen sabor, mala textura por mala mano en el corte de las l\u00e1minas de pescado. Me atendieron muy bien. El ambiente es muy bar, me hubiese gustado algo mas fino, mas restaurant, y no tan rustico y falso glamour. Para ir a probar. Pero me quedo con \"M\" toda la vida"
+    }, 
+    {
+      "date": "5 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "iperrone", 
+      "text": "La comida es excelente, cosas novedosas dignas de probar, incluso visitarlo varias veces. Tambi\u00e9n los cocteles. La \u00fanica decepci\u00f3n fue el ceviche crocante, que no pasaba de un tempura demasiado frito. Buen ambiente y decoraci\u00f3n. La relaci\u00f3n precio-calidad-cantidad es adecuada."
+    }, 
+    {
+      "date": "31 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "ramires", 
+      "text": "La comida es muy buena, sale rapid\u00edsimo. La atenci\u00f3n cumple, no m\u00e1s (ped\u00ed un plato de cerdo y tuve que pedir yo que me trajeran cubiertos)\r\nAhora, el lugar es una verg\u00fcenza, hay mesas que no debieran existir y otras que est\u00e1n muy juntas, cero intimidad. Realmente es incre\u00edble que un lugar con ese precio tenga esa distribuci\u00f3n de espacio."
+    }, 
+    {
+      "date": "24 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "dove67", 
+      "text": "La comida es muy rica y el ambiente muy bueno.\r\nFalla la ac\u00fastica de la parte alta del restaurante. Adem\u00e1s las mesas est\u00e1n muy juntas y escuchas las conversaciones de los otros comensales m\u00e1s pr\u00f3ximos."
+    }, 
+    {
+      "date": "7 Jul 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "En los ultimos meses ha decaido de manera extraordinaria. Hace unos meses era una buena opcion alternativaa su hermano mayor. Hoy no volveria. Ultimamente ha explotado la gastronomia peruana en Buenos Aires con sus fusiones y existen mejores opciones por el mismo precio. Un punto a favor es que los mozos conocen la carta y aclaran todas las dudas."
+    }, 
+    {
+      "date": "5 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mastroianni", 
+      "text": "Muy buena alternativa nikkei. Excelente la copa de langostinos con rocoto y palta. Excelente cebiche, las causas podrian ser mas generosas, el sushi muy bueno y el lomo cocinado con quebracho 10pts. Agradable experiencia."
+    }, 
+    {
+      "date": "18 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Tammy_ME", 
+      "text": "Es pr\u00e1cticamente la \\\"segunda marca\\\" de Osaka, con ambientaci\u00f3n m\u00e1s luminosa y despojada, mejores precios, pero se queda muuuy atr\u00e1s en la comida. Los tiraditos Car Passion le faltaron lim\u00f3n y salsa maracuy\u00e1; el sushi Tempura estuvo muy bien pero el otro (no recuerdo nombre) excesivamente picante. Lo mismo el Tai Rice, \u00b4demasiado picante, tapaba el gusto de los ingredientes. Me quedo con Osaka o Ceviche."
+    }, 
+    {
+      "date": "5 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "dani_ceroli", 
+      "text": "El sushi me gust\u00f3 mucho, sabores que salen de lo com\u00fan, sobre todo el de tempura y el de miel de maracuy\u00e1 y vieyras. El Passion Pisco muy rico. El lugar y la ambientaci\u00f3n no me gustaron nada."
+    }, 
+    {
+      "date": "1 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "sirena", 
+      "text": "Me pas\u00f3 en este lugar lo mismo que cuando abri\u00f3 Osaka, la comida muy buena, la atenci\u00f3n y el lugar deben mejorar. El lugar es muy ruidoso, mesas inc\u00f3modas, mala extracci\u00f3n hay humo, esperamos mucho tiempo la comida."
+    }, 
+    {
+      "date": "4 Mar 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "thecritic", 
+      "text": "Carisimo, el ambiente ruidoso y la atencion pesima."
+    }, 
+    {
+      "date": "22 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Pach", 
+      "text": "Las veces que fui a comer el sushi fue muy bueno, pero me parece que el precio de los platos es excesivo para su tama\u00f1o. Es por ello que la \u00faltima vez que fuimos nos quedamos asombrados por los que nos cobraron por tres piezas (exactamente) de salm\u00f3n.\r\nDecidimos no ir m\u00e1s por que nos gustar\u00eda que ajusten los precios. Pero la comida es muy buena."
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "VerushkaC", 
+      "text": "Fuimos atra\u00eddos por la vista del exterior. El restaurant es peque\u00f1o y puede ponerse un poco ruidoso. Sentarse cerca de la cocina a la vista implica sentir olores cada tanto, pero la atenci\u00f3n es muy buena y los platos muy ricos. Recomiendo los Cayos Rojos y los Rolls Furai Maki. Volver\u00eda, pero buscar\u00eda alg\u00fan rinc\u00f3n m\u00e1s privado o intentar\u00eda con la terraza, que parece ser muy linda."
+    }, 
+    {
+      "date": "9 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "sebasignacio", 
+      "text": "La comida esta bien, no es excelente, pero esta bien. La atenci\u00f3n es lo mejor del lugar ya que te orientan dependiendo tus gustos. Pero hay algo muy malo del lugar: La extracci\u00f3n es pesima, lo que hace que el lugar haya un permanente olor a frito que te llevas a tu casa. Para un lugar de $150 por persona me parece muy malo. No vuelvo ya que si quiero recordarlo voy a oler la ropa de ese d\u00eda!!!"
+    }, 
+    {
+      "date": "2 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mga", 
+      "text": "Paru es casi un calco de Osaka, hasta la carta es similar, lo que s\u00ed los rolls est\u00e1n a la mitad de precio (por lo menos por ahora), obviamente partiendo de esa base el sushi es supremo y tambi\u00e9n los platos calientes con esa fusi\u00f3n de sabores que los hacen tan especiales.En el caso de los postres recomiendo enormente el suspiro lime\u00f1o.\r\nLos detalles tambi\u00e9n brillan por su ausencia como en Osaka,por ejemplo el caf\u00e9 viene sin nada que lo acompa\u00f1e. La ambientaci\u00f3n normal, lo que s\u00ed v\u00ed es que tiene una linda terraza para el verano."
+    }, 
+    {
+      "date": "29 Dic 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Efficient", 
+      "text": "Muy buena opcion como alternativa de Osaka. La comida es casi del mismo nivel, aunque la ambientacion y la atencion estan por debajo de Osaka."
+    }, 
+    {
+      "date": "8 Dic 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "efeso", 
+      "text": "el ambiente excelente el resto cumple ....la carta de vinos de regular a abajo....hay otra oferta a menor precio"
+    }, 
+    {
+      "date": "28 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PenelopeGlamour", 
+      "text": "Yellow Ceviche muy bueno la porci\u00f3n sirvi\u00f3 de entrada para 2. Los Cayos rojos no cuentan como principal, 8 cucharas de cer\u00e1mica,sin mucha innovaci\u00f3n. Pulpo Confitado con arroz saltado, porci\u00f3n generosa y de buenos sabores. La carta es de pocos platos y algunos no hab\u00edan. El ambiente ruidoso y el keke de queso azul cn salsa de frambuesas, sublime para quien gusta de un cheese cake diferente.  Precios altos. $275 con una copa de vino por dos personas, la oferta no es tan diferente a la de otros lugares con similar gastronom\u00eda."
+    }, 
+    {
+      "date": "13 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Restaurando", 
+      "text": "El Yellow Ceviche, muy bueno. De los mejores que ha probado en Bs As. Serv de mesa $8."
+    }, 
+    {
+      "date": "6 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "theeruso", 
+      "text": "Muy bueno el ceviche, las porciones son un poco chicas pero sabrosas, esta muy bien ambientado y la antenci\u00f3n es correcta."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Tuchito", 
+      "text": "Fui con un nivel de expectativa alta y eso en algunos aspectos quiz\u00e1s jugaron una mala pasada. La comida (tiraditos, ceviche y rolls) excelentes, muy ricos. Pedimos un par de tragos y acompa\u00f1aron perfecto. Esperaba un poco mas del ambiente, varios aspectos para mejorar teniendo en cuenta al target al que apunta (ruido ambiente, detalles en la cocina que es a la vista y decoraci\u00f3n). La atenci\u00f3n fue muy buena."
+    }, 
+    {
+      "date": "8 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bestiaria", 
+      "text": "Es uno de mis restaurantes preferidos. Fui 4 veces y las 4 fue excelente. Me gusta pedir Teriyaki maki, harusame maki y passion shrimp. Tambi\u00e9n quinotto, tiradito carpassion y algo del grill. Los postres geniales. Vale cada peso."
+    }, 
+    {
+      "date": "23 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "ATHENAS", 
+      "text": "Buena ambientaci\u00f3n, minimalista, moderna. Excelente atenci\u00f3n (mozo Maxi). Llegamos y  no encontraron nuestra reserva, pero de todas formas se hicieron cargo y nos asignaron un lugar. Tiene un peque\u00f1a terraza interna, recomendable para los d\u00eda c\u00e1lidos. La calidad del producto es excelente. Super recomendable los lomitos de salm\u00f3n sellados con sesamo. Se puede ir con amigos/as, en pareja, etc."
+    }, 
+    {
+      "date": "16 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "SelvayNach", 
+      "text": "Nos gust\u00f3 mucho. Nuestro mozo, Maxi, nos atendi\u00f3 excelentemente. La comida nos result\u00f3 realmente especial. Muy comparable con Osaka, pero a nuestro entender mejor. Comimos una degustaci\u00f3n que fu\u00e9 excelente, incluyendo un tiradito, sushi, ceviche, tapas crocantes y un grillado. Nos encantaron los tragos tambi\u00e9n."
+    }, 
+    {
+      "date": "8 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fedegold", 
+      "text": "En mi opini\u00f3n, la mejor opci\u00f3n para comida fusi\u00f3n peruano-japonesa desde la decadencia de Osaka. Fuimos a festejar mi cumplea\u00f1os y, como siempre, no defraud\u00f3. La atenci\u00f3n excelente, el mozo se encarg\u00f3 de traernos una degustaci\u00f3n de varias cosas de la carta. Es caro, pero vale la pena. Vuelvo sin dudarlo."
+    }, 
+    {
+      "date": "25 Feb 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "barceloneta", 
+      "text": "muy bueno el ceviche y los tiraditos, la atencion un poco floja, el lugar me gusto mucho, para volver."
+    }, 
+    {
+      "date": "22 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "lalila33", 
+      "text": "Si buscas verdaderos platos de comida peruana este es el lugar indicado! Muy rica comida, si no es de las mejores en fusion peruano japonesa. Muy buena carta de vinos y tragos.\nEl lugar es lindo pero el dia q fui el calor se sentia, de todas formas un detalle."
+    }, 
+    {
+      "date": "17 Dic 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sebasgp", 
+      "text": "Fui al Paru de Pacheco Golf y las cosas pintaban para una noche dificil.  Mesas muy juntas, champagnes faltantes en la carta, vino tinto a temperatura ambiente... Pero debo reconocer que el plato (Picante de mariscos) estaba tan rico que hasta volver\u00eda."
+    }, 
+    {
+      "date": "5 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Pavel", 
+      "text": "Fuimos nueve personas y probamos doce o trece diferentes opciones...los platos todos muy buenos. El sashimi de salm\u00f3n impresionante por el tama\u00f1o y el sabor el tiratido Carr-Passion muy novedoso, los pinchos de langostino exquisitos, tambi\u00e9n las empanaditas de salm\u00f3n y las de mariscos.  Me sorprendi\u00f3.\r\nMuy buena la atenci\u00f3n; los mozos saben, explican y atienden bien. El lugar bien, es \u00edntimo pero no me impresion\u00f3 la decoraci\u00f3n.\r\nPreciosaltos (MUY) pero compensan en el sabor y la frescura."
+    }, 
+    {
+      "date": "2 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Gustaff", 
+      "text": "Uno de los mejores lugares de Buenos Aires. Sobre todo si gustan de comida japonesa y peruana.\r\nExcelente la comida, ambiente y servicio.\r\nAhora, a tener en cuenta que es un poco caro, pero si pueden vale la pena."
+    }, 
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "graciasdonatota", 
+      "text": "Muy buena atencion, muy buenos platos."
+    }, 
+    {
+      "date": "13 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Rico, rico, riqu\u00edsimo!!!!!! Otra vez volvimos a confiar en el mozo para que nos armara un men\u00fa y no nos equivocamos. Un plato mejor que el otro. Los rolls y el tiradito de salm\u00f3n con maracuy\u00e1... sobresalientes!!!!! Muy buena la atenci\u00f3n. Mozos que saben, explican y atienden. Preciosaltos, pero compensan en el sabor."
+    }, 
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "shum7890", 
+      "text": "buen sushi,. para repetir."
+    }, 
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "intocable", 
+      "text": "Es la 4\u00b0 vez que voy, por lo que obviamente me gusta, pero tambi\u00e9n me permite aclarar algunos puntos. En tantas veces me han tocado distintos camareros, todos muy conocedores de los platos y amables, pero el \u00faltimo se pasaba de simpatico, acelerado y grit\u00f3n. As\u00ed que el servico puede depender de quien te toque. La comida con gusto, muy sabrosa y de calidad como siempre. El lugar tiene adeptos y detractores, recomiendo la mesa bajo los relojes para 4/5.\r\nLos vinos un poco caros as\u00ed que la cuenta es tan sabrosa como los platos, pero los gustos hay que darselos en vida!"
+    }, 
+    {
+      "date": "13 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mmonzo", 
+      "text": "Realmente quede encantanda con los sabores de los tiraditos, rolls, ceviches, etc, como han escrito otros usuarios me ofrecieron la degustaci\u00f3n porque solo eramos dos personas, les recomiendo aclarar con el mozo de que constar\u00e1 la misma y si son porciones enteras o medias para no pedir demas ni abultar la cuenta."
+    }, 
+    {
+      "date": "4 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "santshum777", 
+      "text": "muy buena experiencia."
+    }, 
+    {
+      "date": "11 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tomash78", 
+      "text": "Impresionante los pinchos con pulpo y langostinos.  Muy buen roll 2salmones.  Hacen reservas hasta las 2130"
+    }, 
+    {
+      "date": "8 Jun 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "fer4470", 
+      "text": "Me dej\u00f3 impresiones encontradas: muchos mozos y muy serviciales (pero el servicio no fue bueno!!) el lugar que nos toc\u00f3 en el primer piso era bastante incomodo...pero la comida result\u00f3 muy buena. Si cerras los ojos est\u00e1s en osaka......Merece otra chance asegurandose bien la ubicaci\u00f3n y deben coordinar mejor la atenci\u00f3n. Resto muy bien."
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LuTen", 
+      "text": "La comida excelente, pero CUIDADO! el mozo nos sugiri\u00f3 una \"degustaci\u00f3n\" de 5 platos diferentes, uno mas rico que el otro, pero eramos dos y no pudimos terminarlo. Cuando lleg\u00f3 la cuenta nos dimos cuenta porqu\u00e9...nos habia traido 5 platos enteros, no una \"degustaci\u00f3n\", o sea que pagamos comida como para 5 personas, y la mitad la dejmos porque no podiamos terminarlo. Terminamos pagando $470 entre los dos, solo por la degustacion, que entre los 5 platos llegaban a los $300, y 3 tragos.\r\nLo recomiendo por la comida pero OJO con las recomendaciones de los mozos!"
+    }, 
+    {
+      "date": "30 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "intocable", 
+      "text": "Cocina de primer\u00edsimo nivel. Estudiada, cuidada, refinada, se ve que el cheff sabe lo que hace y lo hace con todo de primera calidad. Quiz\u00e1s por eso los precios ciertamente altos, pero en la medida que uno recibe por lo que paga, lo acepta. Quiz\u00e1s no sean tan aceptables los precios de los vinos y las comodidades, pero no invalidan la excelencia de la comida. Volver\u00e9, pero con la frecuencia acorde al costo."
+    }, 
+    {
+      "date": "14 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Verk", 
+      "text": "La comida me parecio excelente, sobre todo las empanadas de centolla y los cayos rojos.\r\nLa atencion del camarero, Facundo, fue impecable. El lugar es muy lindo, me gusto que tuviera varias sectores.\r\nPara recomendar y volver sin dudarlo."
+    }, 
+    {
+      "date": "18 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Delicitas", 
+      "text": "Comimos una degustaci\u00f3n sugerida por la moza, que estuvo excelente: tiraditos, rolls, rollos calentitos, salm\u00f3n cocido... un plato mejor que el otro. Es caro, no hay dudas, pero delicioso. La atenci\u00f3n es buen\u00edsima, los mozos saben recomendar, explicar y servir, y en la terracita se come s\u00faper tranquilo."
+    }, 
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Severus", 
+      "text": "Es sencillamente riqu\u00edsimo.\r\nLos mozos saben un mont\u00f3n y te recomiendan bien.\r\nEl ambiente es tranquilo y relajado.\r\nEs caro, pero lo vale. Aprox. 110-120 por persona pidiendo bien. \r\nVuelvo si o si."
+    }, 
+    {
+      "date": "26 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Jazirana", 
+      "text": "Fuimos anoche por primera vez y nos encant\u00f3, la moza nos aconsej\u00f3 muy bien y nos trajo un men\u00fa degustaci\u00f3n buenisimo, quedamos muy conformes con la atenci\u00f3n y con la comida, un poco juntas las mesas para 2 personas pero vale la pena. Vamos a volver y a recomendarlo!!!"
+    }, 
+    {
+      "date": "19 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "vdychter", 
+      "text": "La comida es muy muy rica! Del mejor sushi que prob\u00e9. \r\nLa mesa que nos toc\u00f3 no estaba en el mejor lugar...as\u00ed que hay que ir con tiempo y encontrar un buen lugar."
+    }, 
+    {
+      "date": "2 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "BCGS", 
+      "text": "Un restaurante de sushi, pero que no es uno mas. No es Osaka pero no debe envidiarlo tampoco. Como todos los buenos restaurantes de sushi, se aprecia mucho mas al probar las especialidades.\r\nBuena atenci\u00f3n y ambiente informal para una reunion de negocios."
+    }, 
+    {
+      "date": "27 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "sergioo", 
+      "text": "el mejor peruano sin dudas, toda la comida es espectacular, ya fuimos un par de veces y la verdad q es un deleite y el pisco sour es buenisimo. la parte mala sin dudas es el lugar ya q es una sumatoria de pequenos ambientes con escalones y escaleras x todos lados y obviamente las mesas estan pegadas, una lastima ya q esta comida se merece un mejor lugar."
+    }, 
+    {
+      "date": "14 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Clauscar", 
+      "text": "Excelente, sencillamente! Para quienes gusten de la cocina peruano-japonesa no dejen de visitarlo.\r\nEl pisco muy bueno, pero muy buena la caipiroska con frutilla y maracuya.Excelentes todos los tiraditos. Imperdibles las empanaditas de masa philo de centolla y macarpone. Para volver mas de una vez."
+    }, 
+    {
+      "date": "7 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "diegotemillo", 
+      "text": "Excelente!! La comida y la atenci\u00f3n de primer nivel. Recomiendo el cebiche nikkei, picante de mariscos y el pisco de maracuja!! El sushi es bueno pero no pretendan piezas grandes. Lo peor la cuenta jajaja. Es caro como Osaka"
+    }, 
+    {
+      "date": "7 Ene 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "el_lider", 
+      "text": "Extra\u00f1o lugar. Empecemos por el servicio...excelente, nos recomend\u00f3 en todo momento mas la explicaci\u00f3n de cada uno de los platos. Seguimos con la comida, el tiradito de salm\u00f3n y las empanaditas de centolla fueron sublimes y el sushi estuvo muy original, fresco y con gran presencia de los distintos ingredientes que resaltaban al sushi como los makis de langostino con parmesano gratinado.\r\nY los tragos de tequila con maracuya, bien muy bien. Es para descubrir nuevos sabores,solo dir\u00eda que las mesas por el nivel de precios, tendr\u00edan que estar mas separadas para darle mas privacidad a los clientes"
+    }, 
+    {
+      "date": "24 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "chalaquita", 
+      "text": "Todo muy rico, especialmente el risotto de quinoa y el sushi. La atenci\u00f3n tambi\u00e9n es muy buena."
+    }, 
+    {
+      "date": "20 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Marinu", 
+      "text": "Imperdible restaurant de comida fusi\u00f3n peruano japonesa. Los mozos son adorablemente vendedores y si te dej\u00e1s llevar por sus sugerencias, vas a amarlos! Los pinchos son devastadoramente ricos, no pod\u00e9s dejar de volver por ellos una y otra vez. El sushi es fresqu\u00edsimo. Las finas l\u00e1minas de salm\u00f3n en salsa de maracuy\u00e1 con crocante son una fiesta sensorial. Es para ir relajados, dispuestos al disfrute y con un resto significativo. Caro e imperdible."
+    }, 
+    {
+      "date": "1 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PechiyDipa", 
+      "text": "Aca mi resumen de lo q me pareci\u00f3 Paru:\r\nEl lugar es muy lindo, hermoso ambiente, genial para ir en pareja pero habia varia gente con amigos tambien.\r\nLa comida riquisima, las porciones peque\u00f1as y los nombres en la carta dificiles de entender, hubo que preguntarle de todo al mozo pero supo asesorar sin problemas.\r\nBuena atencion, respetaron perfecto la reserva, habiamos elegido la terraza y tenian la mesa esperandonos.\r\nEn resumen, uno de los mejores restaurats a los que he ido, es verdad que es bastante caro, pero no me cansaria de ir."
+    }, 
+    {
+      "date": "29 Sep 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "carolfire", 
+      "text": "La comida es riquisima, lo unico que no me cerro es que hay muchas mesas pegadas, y la cena que uno quiere que sea intima deja de serlo, mal insonorizado, los precios caros , pero es lo que se paga por ir a comer este tipo de comida."
+    }, 
+    {
+      "date": "31 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fran78", 
+      "text": "Excelente todo!! supera ampliamente a Osaka en la comida, servicio y precio. Ademas reservan!!"
+    }, 
+    {
+      "date": "17 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nrush", 
+      "text": "Un excelente paladar a la hora de fusionar sabores y cocciones."
+    }, 
+    {
+      "date": "7 Jul 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CecidePalermo", 
+      "text": "Una genial opci\u00f3n de fusi\u00f3n peruano-japo en un ambiente muy c\u00e1lido e \u00edntimo con opciones espectaculares que degust\u00e9 en mi primera visita gracias a las certeras recomendaciones de Jesica. Mi preferido: el salm\u00f3n con s\u00e9samo que es una verdadera exquisitez! Definitivamente para volver y probar m\u00e1s!!!"
+    }, 
+    {
+      "date": "23 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "matupa", 
+      "text": "Uno de los mejores restos de sushi en Buenos Aires."
+    }, 
+    {
+      "date": "18 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ramirow", 
+      "text": "Un antes y un despu\u00e9s en mi experiencia con el Sushi y con la gastronom\u00eda en general. La atenci\u00f3n por parte de Santiago fue impecable: r\u00e1pida, atenta y cordial. Pedimos y a los 10 minutos nos sirvieron. IMPERDIBLES: Furaimaki, Tropikal y Tartar\u00e9 Crocante. El Lomo Saltado estaba EXCELENTE tambi\u00e9n. Y la Sopa de L\u00facuma con Wantanes de Chocolate, indescriptible. Sin dudas mi nuevo Restaurant Favorito. Hace falta que diga \"Recomendable\"?"
+    }, 
+    {
+      "date": "21 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Polita", 
+      "text": "La comida estuvo buenisima, comimos solo entradas! pero pedimos varias e hicimos como una picada! estuvo todo excelente, de buena calidad! Los tragos fueron muy buenos! El servicio supremo, atento y bien explicado! Como nos conocian de la epoca de Osaka, nos invitaron el postre! Todo muy muy bien hasta que llego la cuenta!!! Me parecio excesivo considerando que pedimos 3 entradas, 1 guarnicion y 2 tragos!!! Creo que es un detalle que se puede ajustar para que la experiencia sea perfecta!"
+    }, 
+    {
+      "date": "20 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mivimu", 
+      "text": "El restaurante tiene una excelente carta, que combina platos originales, imperdibles los langostinos caramelizados....\r\nLa atenci\u00f3n es cordial y el ambiente en la terraza muy \u00edntimo...dan ganas de volver"
+    }, 
+    {
+      "date": "5 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tcover", 
+      "text": "La comida es excelente, tanto los rolls y cebiches como las especialidades grill. muy buenos tragos. las recomendaciones de los mozos muy buenas. el ambiente tambien nos gusto mucho. el precio esta acorde a este tipo de restaurant. super recomendable. ah, favor modifiquen, intent\u00e9 ir un mediodia y estaba cerrado..abre solo por las noches."
+    }, 
+    {
+      "date": "20 Mar 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "maco189", 
+      "text": "Un lugar exelente y muy recomendable!...comida y servicio insuperables!"
+    }, 
+    {
+      "date": "19 Mar 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GourmandGirl", 
+      "text": "Uno de los mejores sushis que se puede comer en Buenos Aires. El ambiente es muy agradable y relajado. Est\u00e1 bueno para ir en pareja a las mesitas de la terraza o con amigos en las mesas de adentro"
+    }, 
+    {
+      "date": "25 Feb 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "taebi", 
+      "text": "Excelente la comida y Diego que fue el que nos atendio. Muy bueno todo . Felicitaciones!!!!!!!Lo unico que falto es algo dulce para el cafe."
+    }, 
+    {
+      "date": "20 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "paula143", 
+      "text": "Nosotros comimos sushi y estuvo riquisimo, sobre todo el de langostino.\r\nEl postre era una sopa dulce con unas masitas con chocolate increibles, muy recomendable."
+    }, 
+    {
+      "date": "14 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "rules", 
+      "text": "El lugar es frio y con mucho olor a comida adentro. La terraza es chica pero muy linda. Nos dijeron que era \"la ultima mesa\" y el resteaurant estaba vacio. La comida es EXELENTE! El camarero conocia todos los ingredientes y preparaciones de cada plato.\r\nPara recomendar!"
+    }, 
+    {
+      "date": "8 Feb 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Joco", 
+      "text": "Increible !! verdadera fusion de comida peruano-japonesa. Los sabores son unicos, experimentan muy bien con productos tipicos de peru y japon, logrando ceviches, rolls y sashimis, tiraditos, tempuras, platos calientes y postres muy originales y unicos. Las porciones no son grandes y no es un lugar barato, pero lo recomiendo al menos una vez y probar los platos y combinaciones increibles q tienen. Los tragos a base de pisco y sake son tremendos. Muy buena atencion y buena terraza en verano. Los q fueron dicen q muy parecido a Osaka, pero mas barato. Uno de los mejores lugares q fui en BS AS."
+    }, 
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "la_bruja", 
+      "text": "simplemente excelente!! la comida es riqu\u00edsima, los tragos muy buenos, la atenci\u00f3n esmerada. Volvimos e volveremos"
+    }, 
+    {
+      "date": "28 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cleante", 
+      "text": "La comida supera, por lejos, a todos los de su gama (y fui a muchos). La atencion es la justa, ni estan encima y te dejan esperando. Se nota que conocen el menu y recomiendan muy bien. El ambiente es super comodo. Para este nivel de restaurantes, el precio no me parecio caro. No dudo que voy a volver"
+    }, 
+    {
+      "date": "14 Nov 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "@guynevo", 
+      "text": "Comida buena sin sorprender. \r\nOtro de los ex fundadores de Osaka abre su restaurante propio y cumple con las expectativas sin inovar ni sorprender.\r\nEl mozo que nos toco tenia la mejor onda pero le faltaba conocimiento de la carta y la cocina.\r\nAmbiente cuidado y precios parecidos a los otros restaurantes peruanos premium. por la cantidad de gente parece que la formula sigue funcionando."
+    }, 
+    {
+      "date": "5 Nov 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "beaxkiddo", 
+      "text": "La comida es un reloaded de la fusion peruano-oriental,un placer para los sentidos,su carta supera todo.El personal es realmente amable,humilde y dedicado.El ambiente es calido y esta muy bien logrado.Este lugar es la revancha de aquellos que dejamos de visitar lugares en los que la comida nos gustaba, pero el maltrato y la histeria eran un insulto permanente. Todo en Paru invita a volver.No lo comparen...Paru es una experiencia de verdadero placer!"
+    }, 
+    {
+      "date": "5 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Kiku", 
+      "text": "Fuimos ya dos veces. La atenci\u00f3n es impecable; los mozos son muy atentos, est\u00e1n siempre dispuestos y conocen a la perfecci\u00f3n la carta. El lugar es muy nuevo y con cuidado en varios detalles, es un ambiente agradable, limpio y moderno. La comida es excelente: ingredientes frescos y en su punto. El tama\u00f1o de las porciones var\u00eda, pero los mozos saben recomendar bien.\r\nLo \u00fanico ligeramente negativo es fue que algunas cosas de la carta de bebidas/vinos se les hab\u00edan acabado.\r\nVoy a volver."
+    }
+  ]
+}

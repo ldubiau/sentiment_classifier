@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "25 Ago 2005", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "bibianao", 
+      "text": "P\u00e9simo servicio. En una mesa redonda reci\u00e9n desocupada, permitieron que nos sent\u00e1ramos a su alrededor en lugar de hacernos esperar en otro lugar para limpiarla. Conclusi\u00f3n: la limpiaron con nosotros ya ubicados. \r\nCarne quemada, papas fritas quemadas, helado de bajo nivel, torta del tipo de las que se venden en las \"pizzer\u00edas\". \r\nY por \u00faltimo (o primero) la se\u00f1ora que acomod\u00f3 los cubiertos lo hizo tom\u00e1ndolos por la parte que uno se lleva a la boca.\r\nEste tipo de servicio no debe darse ni por men\u00fa fijo ni nunca. !Papel\u00f3n total! Tratemos de que no vayan extranjeros, por favor, que mala imagen."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "vikibyte", 
+      "text": "Muy buen lugar. Recomendable."
+    }, 
+    {
+      "date": "26 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "necochea", 
+      "text": "La atenci\u00f3n fue muy cordial y la comida guarda relaci\u00f3n con el precio."
+    }, 
+    {
+      "date": "17 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Degustar", 
+      "text": "Muy buena ubicaci\u00f3n e igual atenci\u00f3n."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "carli1", 
+      "text": "La atenci\u00f3n muy buena, carne excelente y la vista es espectacular."
+    }
+  ]
+}

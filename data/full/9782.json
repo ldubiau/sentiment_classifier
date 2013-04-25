@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "14 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "murdok", 
+      "text": "No est\u00e1n mas, una lastima"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "aishi", 
+      "text": "No tengo nada negativo, Es raro no pasa ultimamente. Exquisita la comida, excelente relacion precio calidad. Un oasis para disfrutar lejos de la ruidosa Baires. La camarera muy amable cordial sin ser confianzuda. El entorno que la rodea \"La Aldea\" es increible!!!!!!!!!!!!! para volver cualquiere opoca del a\u00f1o."
+    }, 
+    {
+      "date": "12 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tweety2011", 
+      "text": "Muy lindo lugar, excelente atenci\u00f3n y exquisita la comida!!!Volvere pronto y se los recomiendo a todos!"
+    }
+  ]
+}

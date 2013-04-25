@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "18 Nov 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "eri_iwk", 
+      "text": "no lo recomiendo, esperamos mas de hora y media para una prepizza tibia y gomosa, el due\u00f1o un desastre, se quejaba todo el tiempo, para no volver"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 May 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "rsteph", 
+      "text": "El due\u00f1o no me trajo lo que hab\u00eda pedido, pero ni ofreci\u00f3 combiar el plato. Ni la pasta ni la salsa fueron lo pedido. El actitud pessimo."
+    }, 
+    {
+      "date": "29 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Comamos", 
+      "text": "Fuimos al Mediod\u00eda con la Promo de GroupOn. Picada para 2 personas (Jamon Crudo y Cocido, Salame,Mortadela, Queso de Maquina y Roquefort, Aceitunas,Pedacitos de Tortilla y Dedos de Muzzarela) y 2 Chopps de Cerveza $44 en Total. Para ir con ese descuento esta bien....sino..es caro para el tama\u00f1o de la picada. Fuimos al Mediodiod\u00eda del viernes unas 6 mesas ocupadas. El servicio bien...una alternativa para almuerzo de oficina. Ningun punto para resaltar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Soledad143", 
+      "text": "Muy bueno el lugar, es una buena combinaci\u00f3n entre bar y restaurante , hay buena m\u00fasica con exelente comida y atenci\u00f3n . La verdad me gusto mucho ."
+    }, 
+    {
+      "date": "22 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lorena_c", 
+      "text": "Muy rica comida .sobre todo las pastas caseras. y lo mejor es la pantalla gigante para ver deportes .buena atencion ."
+    }, 
+    {
+      "date": "10 Jun 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Pablo_BA", 
+      "text": "Muy cordial la atenci\u00f3n, especialmente del due\u00f1o. La pantalla se ve bien desde cualquier lugar. Cabe comentar que he ido al mediod\u00eda tambi\u00e9n y la atenci\u00f3n cae mucho. Igualmente, no lo desmerece."
+    }
+  ]
+}

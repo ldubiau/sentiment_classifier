@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Pastasciutta", 
+      "text": "Ped\u00ed \u00f1oquis con salsa scarparo El men\u00fa dec\u00eda que la salsa ven\u00eda con fileto, pesto, crema y jam\u00f3n en tiritas. No pude reconcer nada de lo s tres primeros. Lo que me trajeron era una especie de sopa de hongos. El jam\u00f3n estaba cortado en daditos. Reclam\u00e9 y me trajeron lo mismo, pero m\u00e1s caliente"
+    }, 
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "guidogferraro", 
+      "text": "No es un lugar para comer rico. ni tiene un ambiente agradable. la comida es simplemente comible y con relaci\u00f3n con los precios da un balance negativo. cuando sal\u00ed del restaurant sent\u00ed que hab\u00eda mal gastado mi plata."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "23 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "buenosairesquerido", 
+      "text": "La comida es rica, pero nada de otro mundo... \r\nRecomendable para merendar de vez en cuando, aunque yo no creo que vuelva..."
+    }, 
+    {
+      "date": "2 Sep 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "fukerito", 
+      "text": "Eramos 2, el lugar estaba semi vacio, pedimos unas costillitas de cerdo a la riojana y una matambrito de cerdo a la pizza, en vez de eso lo trajo al verdeo, nos pidio disculpas y luego de 10 minutos trajo el plato correpondiente. Si hay algo que detesto es eso, que uno coma solo porque se equivocaron. Lo entenderia si el lugar estuviese lleno o si eramos 10 pidiendo diferentes cosas y lo mareamos, pero no, pedimos 2 simples platos  y lo traen mal.\r\nComida rica, lastima que las arvejas de mi plato parecian pasadas.\r\nAmbiente muy lindo. No creo que vuelva...\r\nTienen desc con L.N"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "arias_rocio", 
+      "text": "Fuimos dos veces a almorzar los sabados. La verdad es que la comida es riquisima. Pedimos una pizza cuatro quesos y la verdad es que estaba espectacular. El ambiente es lindo aunque podr\u00eda mejorarse un poco m\u00e1s. La atenci\u00f3n es muy buena."
+    }
+  ]
+}

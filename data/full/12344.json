@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "12 Sep 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "elsharlesy", 
+      "text": "Una decepcion. Fui con siete amigos y no nos gusto a ninguno. Excepto por la ambientacion, que esta bien, en todo lo demas dejo mucho que desear. El tapeo frio estaba compuesto principalmente por berenjenas y aceitunas, el caliente no se destaco, de plato principal habia solo dos opciones, una de las cuales era pechuga de pollo rellena, insipida y seca. Pedimos vino y cuando quisimos mas, no habia. La atencion tuvo mucha intencion pero fallo en detalles importantes. Cada miercoles, con mis amigos,probamos un restaurant nuevo y este es el que se llevo la peor puntuacion de todos. No volveremos"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "30 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "rucula", 
+      "text": "Propuesta buena para el lugar, Tapas relativamente variadas, platoo principal etc, buena atenci\u00f3n, espero que varien m\u00e1s las tapas abusan de la lengua a la vinagreta y las berenjenas..no est\u00e1 mal"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Rasa", 
+      "text": "Tal como es su presentaci\u00f3n, es una autentica cantina de la Boca resaltando el buen gusto. El men\u00fa es muy generoso y un hallazgo la bruschetta con morcilla y cebolla y muy rico todas las entradas. Los platos principales bien logrados. La atenci\u00f3n esmerada. Vale la pena visitarlo excepto que tenga poca hambre."
+    }, 
+    {
+      "date": "25 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "PEPESA", 
+      "text": "Magnifico lugar, un conjunto de tapas muy sabrosas y no habituales , con un plato principal bien logrado y un original panqueque de \u00a81m\u00a8.\r\nSe come mucho y muy rico, la atenci\u00f3n es excelente, no es ruidoso y una linda ambientaci\u00f3n. Vale la pena probar , para aquella persona dispuesta a comer en cantidad. Original propuesta"
+    }, 
+    {
+      "date": "24 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "El_Magico", 
+      "text": "Fue una grata sorpresa, de esas que no abundan ultimamente. El Metej\u00f3n es literalmente un conventillo de la Boca abierto en Las Ca\u00f1itas. Comida casera, generosa, abundante. No paran de bajarte platos. No te dejan elegir casi nada pero todo es rico.(la bebida, el plato de fondo y el postre se pueden. La atenci\u00f3n es esmerada y la ambientaci\u00f3n incre\u00edble, sobre todo el piso de arriba. Comimos por $100 + la bebida. impresionante. Muy recomendable. Para volverse habitu\u00e9."
+    }, 
+    {
+      "date": "22 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "oracle84", 
+      "text": "Exelente lugar! no paran de traerte comida. Faltaba un resto asi por el barrio. Lo recomiendo."
+    }, 
+    {
+      "date": "21 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "zochu", 
+      "text": "se come excelente! algo nuevo que te sorprende cada vez que vas! para ir con amigos, en pareja, solo! mucha variedad y abundante"
+    }
+  ]
+}

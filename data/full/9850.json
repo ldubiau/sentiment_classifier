@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "25 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sdongarra", 
+      "text": "Es para comer si se vive cerca y esta de paso.  No es cocina de autor ni tiene estacionamiento. El lugar del fondo estaba un poco deteriorado (humedad en la pintura, polvo en los puf) . Servilletas de papel, . No cobran servicio de mesa. La comida y atencion estan bien."
+    }, 
+    {
+      "date": "26 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gborau", 
+      "text": "Excelente asado! super recomendable!!! =) La atenci\u00f3n es muy buena, te hacen sentir c\u00f3modos y relajados. Buena panera, la comida sale a tiempo y perfectamente cocinada! Vuelvo!!"
+    }, 
+    {
+      "date": "29 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "paul_otto", 
+      "text": "Soy vecino, fui dos veces y en ambas la calidad y cantidad de la comida fueron muy buenas, y tambi\u00e9n la atenci\u00f3n. RECOMENDABLE."
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "harry88", 
+      "text": "Comida excelente (y abundante) y muy buena atencion. 100% recomendado."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "14 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Hildegaard", 
+      "text": "Excelente comida y mejor la atenci\u00f3n. Volver\u00e9 seguro."
+    }, 
+    {
+      "date": "9 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MeReSuNdA", 
+      "text": "Lo conoc\u00ed  durante el almuerzo con compa\u00f1eros de la oficina, y volv\u00ed otro d\u00eda a cenar por la noche con amigos, todos encantados con la calidad de los cortes de carne y la atenci\u00f3n. El ambiente es muy c\u00e1lido, la comida excelente, los precios razonables y las porciones abundantes. Se come MUY MUY BIEN."
+    }, 
+    {
+      "date": "6 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "GIZ", 
+      "text": "La comida y la atenci\u00f3n fueron excelentes! se nota que es atendido por sus due\u00f1os! estaban en cada detalle! volvere pronto! faltaba algo as\u00ed en zona norte!"
+    }
+  ]
+}

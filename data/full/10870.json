@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "17 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Cance", 
+      "text": "La mejor comida al disco!!! Excelentes las picadas y la cerveceza. Lo recomiendo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Abr 0001", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "tatuchis", 
+      "text": "la comida al disco y la cerveza artezanal muy rica. la pasta poca cantidad"
+    }
+  ]
+}

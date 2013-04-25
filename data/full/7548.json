@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "19 Nov 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Sigfried", 
+      "text": "Coincido con el comentario de Adriel, salvo en que las empanadas estaban muy ricas, fritas con grasa, pero la parrilla era mala, carne obviamente hervida y calentada a la parrilla, pero ni siquiera ten\u00eda las marcas y el gusto caracter\u00edsticos, lo mismo que el chinchul\u00edn, un corte de cerdo ya vino con salsa criolla (que no pedimos) lo cual me hace suponer que sobr\u00f3 de otra  mesa, el ambiente muy ruidoso y, al margen, la manteler\u00eda un tanto dejada, servilletas desgastadas por el uso, manteles quemados por cigarrillo,etc"
+    }, 
+    {
+      "date": "12 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "adriel", 
+      "text": "Optamos por el men\u00fa libre; empanadas aceitosas,  achuras y carnes recalentadas y fr\u00edas, atenci\u00f3n dispersa, carta de vinos acotada. Rescatable la crema que acompa\u00f1aba al flan, lo que no es suficiente para justificar  el precio que pagamos. Una desilusi\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "1 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PISCIS65", 
+      "text": "Fui el miercoles pasado con un grupo grande de amigos. para eso es ideal, dado que es tranquilo. contratamos menu fio, empanada y copa de champagne  de entrada, parrilla y papas fritas y ensalada. un vino cada 3 personas y agua/ gaseosa. y postre. la carne muy tierna vania vacuna, cerdo y pollo. chorizo y morcilla, y bien cocida y jugosa. de postre pedi flan mixto, y realmente era casero, muy rico, y para terminar cafe. . acorde el precio por todo lo que comimos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Ago 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "eugenicc", 
+      "text": "Excelente opci\u00f3n para ir con o sin hambre, elijimos la opci\u00f2n libre y por $75 cada uno pudimos disfrutar de una rica entrada(matambre, vitel tone, ensalada rusa y fiambres) luego una parrillada que el mozo trae con todo lo que pueda traer que se haga a la parrilla y terminamos con un casero y rico postre. La bebida es libre tambien. Destaco la tencion del mozo que intento que saliera rodando!!!"
+    }
+  ]
+}

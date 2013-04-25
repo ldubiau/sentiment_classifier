@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "21 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "PAOAR", 
+      "text": "La comida es mala con relaci\u00f3n al precio, nos morimos de frio."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Jun 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "chellomazzo", 
+      "text": "Buen lugar, buena comida. Precios un tanto altos"
+    }, 
+    {
+      "date": "21 Ago 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "kukee", 
+      "text": "La comida no es abundante, por lo menos la parrilla, pero es buena, la atenci\u00f3n tambien.\r\nEl ambiente es lindo, bien cuidado, pero lo unico que no me gusto fue ver un cartel al entrar que decia que el lugar era especial para gente de countries y barrios cerrados...Una pena."
+    }, 
+    {
+      "date": "22 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "gabeto", 
+      "text": "En cuanto comida, una buena parrilla m\u00e1s opciones en pasta y cocina, te atienden r\u00e1pido y el lugar para chicos es amplio, original y funcional. \r\nEl lugar no es lindo y la calefaccion tampoco."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "CArlaB", 
+      "text": "Fui a tomar algo una tarde, no almorc\u00e9, eso lo tengo pendiente. No hab\u00eda gente, era un d\u00eda de sol, sandwich de salm\u00f3n, un trago, relax! Es un placer ese lugar, el jard\u00edn, con caminitos y las plantas y las flores y el \u00e1rbol semi tupido...\r\nVoy a marcarlo para ir al mediod\u00eda :)"
+    }, 
+    {
+      "date": "29 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mag1969", 
+      "text": "Muy buena la atenci\u00f3n, la comida y especialmente el espacio para chicos. Es genial, comen all\u00ed, tienen animaci\u00f3n y los atienden super bien. Un alivio para los padres."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "29 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "antropofagia", 
+      "text": "La atenci\u00f3n es muy buena y la comida tambi\u00e9n. El ambiente es muy agradable, la m\u00fasica a un volumen muy aceptable, se puede charlar y las instalaciones confortables."
+    }, 
+    {
+      "date": "30 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "evicita", 
+      "text": "Parrillita de barrio. Aunque est\u00e1 en esa esquina hace bastante, me comentaron que cambi\u00f3 de due\u00f1os y decid\u00ed darle una oportunidad. Fui una vez y estuvo bien. A la siguiente el asado era dur\u00edsimo; reclamamos y nos lo cambiaron sin problemas y con mucha amabilidad por un vac\u00edo que s\u00ed estaba rico."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "30 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pendragon", 
+      "text": "La comida de primera, y muy bien cocida, recomiendo chinchu y entra\u00f1a."
+    }, 
+    {
+      "date": "1 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gs-for", 
+      "text": "Ambiente familiar, muy buena comida y muy lindas instalaciones."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mafesita", 
+      "text": "Los platos son abundantes y muy ricos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "andyspataro", 
+      "text": "Excelente el men\u00fa del d\u00eda, sopa de remolacha, lentejas, arroz y espinacas, bien condimentadas, sabrosas y abundantes. De postre una muy buen pastel de manzana."
+    }, 
+    {
+      "date": "26 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Chopilandia", 
+      "text": "Una muy buena opci\u00f3n para d\u00eda y noche. Lindo lugar, sencillo, con buena atenci\u00f3n y la comida rica, sana y abundante.\r\nLo recomiendo totalmente!"
+    }
+  ]
+}

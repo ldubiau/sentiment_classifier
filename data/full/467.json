@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "27 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "jimenitaa", 
+      "text": "Ideal para despedidas o cumplea\u00f1os, tambi\u00e9n es una buena opci\u00f3n para ir con amigos. \r\nLa comida es mala, pero el show es divertido."
+    }, 
+    {
+      "date": "10 Nov 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "marisalga", 
+      "text": "Una pizza horrible, con cebolla cruda  o con huevo. Una tarteleta que ten\u00eda la masa completamente cruda. El show era super ruidoso, pat\u00e9tico. Los bailarines eran buenos, pero el show estaba mal armado y la m\u00fasica demasiado fuerte. No pudimos hablar, despu\u00e9s que empez\u00f3 el show."
+    }, 
+    {
+      "date": "15 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "Mariano", 
+      "text": "Lugar ideal para festejar cumplea\u00f1os, despedidas, etc. \r\nLa comida es p\u00e9sima pero pasa a segundo plano cuando arranca el show del transformista que anima y hace divertir a la gente. \r\nDespues de las dos de la ma\u00f1ana se arma bailongo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "dbelingar", 
+      "text": "La comida m\u00e1s o menos, el show excelente."
+    }, 
+    {
+      "date": "8 Abr 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "silvis", 
+      "text": "Concurr\u00ed varias veces para festejos grupales, est\u00e1 bueno porque el precio fijo de $25 incluye el men\u00fa y el show. Tambien hay baile, para pasar un rato divertido est\u00e1 bien."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ariqueto", 
+      "text": "Un lugar espectacular por la comida, los shows y la diversi\u00f3n."
+    }
+  ]
+}

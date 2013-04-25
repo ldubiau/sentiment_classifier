@@ -1,0 +1,96 @@
+{
+  "buenos": [
+    {
+      "date": "10 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "katto65", 
+      "text": "La pizza es muy buena, el ambiente es normal. Fui con unos amigos y la pasamos bien y , ya que est\u00e1bamos, nos vimos el partido del s\u00e1bado. Es preferible el sal\u00f3n de arriba, porque abajo hay mucho ru\u00eddo. Para nuestra sorpresa pagamos con tarjeta."
+    }, 
+    {
+      "date": "12 Ene 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Gwzty", 
+      "text": "Excelente fugazzeta, muzzarella apenas normal y solo pedir pizzas, no pedirle nada al lugar y menos al servicio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Elcritico", 
+      "text": "MUY BUENA PIZZA!!!! de verdad es muy rica, la atenci\u00f3n es muy correcta..."
+    }, 
+    {
+      "date": "7 Oct 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "mediaramas", 
+      "text": "excelente pizza, pero la atencion no es muy simpatica"
+    }, 
+    {
+      "date": "18 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ubaldo", 
+      "text": "La mejor grande de muzzarella del mundo, pero s\u00f3lo hay que comer pizza."
+    }, 
+    {
+      "date": "2 Ago 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "piazzoll1", 
+      "text": "Ten\u00edamos la costumbre de ir siempre a una pizzer\u00eda diferente con mi novia, pero ahora s\u00f3lo quiere comer ah\u00ed. \r\nLa pizza es excelente, me juego la cabeza que esta entre las mejores cinco de Buenos Aires: mucho queso, salsa generosa, maza al molde crocante y la muzzarella apenas gratinada... \u00a1Un lujo! \r\nLa atencion, mala. Pareciera que los mozos supieran que con la pizza ya se pasaron y que no fuera necesaria la buena atenci\u00f3n."
+    }, 
+    {
+      "date": "3 May 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "nekro17", 
+      "text": "Todo m\u00e1s que bien en esta sucursal de Banchero salvo por 2 mozos que siempre que voy te dejan de garpe. El resto normal, pero esos dos mozos viven en la luna."
+    }, 
+    {
+      "date": "23 Jul 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "albert30", 
+      "text": "muy buena la atencion y la calidad de la comida"
+    }, 
+    {
+      "date": "23 Jul 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chapi67", 
+      "text": "Excelente atenci\u00f3n"
+    }
+  ]
+}

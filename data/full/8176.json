@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "15 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "adriel", 
+      "text": "Carta variada;  pastas, carnes y pizzas por metro a buenos precios, adem\u00e1s de men\u00faes  con interesantes promociones de lunes a viernes. Atenci\u00f3n amable  en un ambiente familiar y tranquilo como para pasar un agradable momento. Muy bueno."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "18 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lalitajor23", 
+      "text": "Es un muy buen lugar, con muy buena gente qye atiende. Las hamburguesas son buenisimas.\r\nEl delivery es rapido y confiable.\r\nMuy recomndable.\r\nEs el tipico lugar de barrio pero muy rico"
+    }
+  ]
+}

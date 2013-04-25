@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "20 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Slei", 
+      "text": "La verdad es que la comida es espectacular, siempre llevo a mis amigos extranjeros cuando vienen (como para quedar bien), pero incre\u00edblemente ha sido una exageraci\u00f3n el aumento de precio, siempre me daban un par de empanadas para picar al comienzo y un vasito de lemonchelo al terminar, hoy, no me dieron nada. La comida muy rica principalmente la parrilla y papas fritas (provenzal una delicia). Eramos tres, comimos bastante bien pero sali\u00f3 alrededor de 320 y no pedimos alcohol para acompa\u00f1ar, creo es un poco caro. Capaz tuve mala suerte hoy, pero para lo que uno paga necesita buenos agasajos..."
+    }, 
+    {
+      "date": "14 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "fedcar", 
+      "text": "Muy buena parrilla, se dedica a turistas de los hoteles de la calle suipacha,\r\nes caro para lo que ofrece."
+    }, 
+    {
+      "date": "15 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "hugodi", 
+      "text": "Muy rica la carne, lasmita que hayan aumentado tanto los precios. Quizas el problema es que esta enfrente de dos hoteles grandes."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "stagnaro", 
+      "text": "La carne  y las papas fritas son espectaculares. Lastima los precios."
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "27 May 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Guybrush", 
+      "text": "La comida es muy buena y econ\u00f3mica, tienen bebida en botella de vidrio grande (lo cual suma). La atenci\u00f3n es nula, hay que pasar por la caja, comprar y llev\u00e1rse las cosas a la mesa."
+    }, 
+    {
+      "date": "31 Jul 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "oskilamber", 
+      "text": "Conozco el lugar desde hace mas de cinco a\u00f1os, me queda muy cerca del trabajo.\r\nAutenticas empanadas tucumanas de carne y pollo. \r\nMuy buenos los tamales y las humitas en chala. La comida si bien es buena puede llegar a ser algo pesada. El servicio es regular, si bien el trato es buena a veces se cuelgan con el pedido o tardan en atender la mesa. Tambien sirven postres regionales."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "4 May 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nichi", 
+      "text": "Exquisitas empanadas y muy buena atenci\u00f3n al cliente."
+    }, 
+    {
+      "date": "15 Jun 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "hector.e", 
+      "text": "EXCELENTE."
+    }
+  ]
+}

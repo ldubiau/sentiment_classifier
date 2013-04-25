@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "19 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "viajertano", 
+      "text": "Un peruano mas. Tal vez fue una noche desafortunada: hab\u00eda demora en la cocina, no hab\u00eda lista sino recomendaciones de la casa, la lista de vinos se limitaba a un chardonnay, dos postres alternativos (crepe de frutos rojos o crepe de frutos de estaci\u00f3n). Comimos los cl\u00e1sicos del peruano, tiraditos, ceviches, etc. Nada particular, nada nuevo, nada llamativo. Servicio amable pero demasiado defectos en el lugar como para precisar volver para entenderlo mejor."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Jorgia", 
+      "text": "Me encant\u00f3 este restorante. Super tranquilo y agradable.\r\nPerfecto para ir en pareja!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "reicy_", 
+      "text": "La atenci\u00f3n muy buena, es muy c\u00f3modo para ir en pareja, amigos o s\u00f3lo. La comida me gust\u00f3 mucho, sobre todo Los piqueos, fenomenales."
+    }, 
+    {
+      "date": "1 Sep 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "MIGUECOBAIN", 
+      "text": "Fui a cenar con  mi novio y encontre este lugar, uno de mis favoritos. desde la atencion hasta la msica....\r\nel bife borracho lo maximo !!!!!!!!!!!!!!!!!!!!!!\r\nel mojito cubano perfectamente preparado!!!!!\r\nlo recomiendo a ojos cerrados!!!! SI NO VAS TE ARREPENTIRAS!!!!\r\nEXCELENCIA EN TODO!!!!!"
+    }, 
+    {
+      "date": "22 May 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "richiti", 
+      "text": "Muy agradable el local, me gusto mucho su comida sobre todo el sargento de camarones."
+    }
+  ]
+}

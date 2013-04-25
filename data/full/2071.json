@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "11 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lauta", 
+      "text": "Muy linda ambientaci\u00f3n y muy abundante el plato principal. Riqu\u00edsimo el flan de jengibre."
+    }, 
+    {
+      "date": "2 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Nute", 
+      "text": "Me gust\u00f3 mucho el ambiente. Las mesas est\u00e1n separadas y se puede dialogar. \r\nLinda la exposici\u00f3n de cuadros y la atenci\u00f3n, que es pr\u00e1cticamente personalizada."
+    }, 
+    {
+      "date": "30 Jul 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "procedencia", 
+      "text": "El restaurante es lindo y con ambiente tranquilo, pero el servicio es regular y los precios son bastante caros en relaci\u00f3n con el tama\u00f1o de las porciones. Es recomendable para ir de vez en cuando. Los s\u00e1bados hay un muy buen show de danza \u00e1rabe."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "betanza", 
+      "text": "El ambiente es excelente, rom\u00e1ntico y distendido. Una excelente comida, con una atenci\u00f3n esmerada."
+    }, 
+    {
+      "date": "30 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "El_Condor", 
+      "text": "Realmente la comida que se come ah\u00ed es riqu\u00edsima."
+    }, 
+    {
+      "date": "30 Jun 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "maraciot", 
+      "text": "Excelente cocina y muy buena atenci\u00f3n."
+    }, 
+    {
+      "date": "26 Sep 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "oscarfai", 
+      "text": "Excelente, en todo sentido. Ambiente muy agradable."
+    }, 
+    {
+      "date": "21 Sep 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "consulta", 
+      "text": "Muy buen servicio y calidad."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "10 Jun 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "hectorps", 
+      "text": "Este restaurant ya no existe. Cerr\u00f3 hace varios meses. En su lugar hay una parrilla."
+    }, 
+    {
+      "date": "7 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "noradebartolo", 
+      "text": "Fuimos once personas y pedimos diferentes platos. Tardaron una hora y media en servirlos. Las entradas no llegaban coordinadas y no son para compartir. \r\nLos platos estaban pasados de punto e incomibles. Tuvimos ganas de devolverlos. No pedimos postre porque s\u00f3lo pensabamos en salir de all\u00ed r\u00e1pidamente. Realmente no volvemos m\u00e1s."
+    }, 
+    {
+      "date": "3 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "brother", 
+      "text": "Buena ambientacion y p\u00e9sima cocina, s\u00f3lo para ir con una se\u00f1orita que no aprecie el buen comer."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Oct 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Maconals", 
+      "text": "Fuimos alrededor de 10 personas un s\u00e1bado por la noche. El lugar estaba vacio y sin embargo nos acomodaron mal en una mesa redonda donde no entrabamos c\u00f3modos. La comida bien, comimos asado en modo libre con ensaladas y papas fritas, pero las porciones pedidas nunca se respetaron y trajeron lo que quisieron las meseras. Ped\u00ed un agua mineral 4 veces y nunca me la trajeron. P\u00e9simo, jam\u00e1s volver\u00e9."
+    }, 
+    {
+      "date": "2 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "SebUn", 
+      "text": "El ambiente es muy tranquilo, con musica jazz y las mesas separadas, ideal para compartir en pareja. La atencion es excelente, la comida no tarda mucho y es muy rica."
+    }, 
+    {
+      "date": "16 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "lanegrita", 
+      "text": "La verdad es que el ambiente es muy acogedor, el lugar afuera est\u00e1 muy bueno aunque el tiempo no ayud\u00f3 para poder disfrutarlo. Me encanta la nueva propuesta de que los martes hay jazz, l\u00e1stima que no sirven m\u00e1s sushi los jueves.\r\nLa comida es de primera calidad, excelente presentaci\u00f3n y atenci\u00f3n."
+    }, 
+    {
+      "date": "18 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "postigoricardo", 
+      "text": "Muy bueno el lugar es para recomendar, ademas a Ramos le hacia falta un lugar as\u00ed. Muy buena la carta de vinos y la amplitud de los menues."
+    }, 
+    {
+      "date": "27 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "paupau84", 
+      "text": "Me gust\u00f3 mucho la comida, el servicio es muy bueno. Es una l\u00e1stima que ya no sirvan sushi, era de buena calidad."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Sratatouille", 
+      "text": "caimos con una amiga sin saber nada del lugar.la verdad es que sorprendio gratamente. el ambiente muy calido, la atencion muy buena, las entradas buenisimas, y super abundantes, casi no queriamos el plato principal pero ya lo habiamos pedido, comimos de gula porque estaba realmente muy rico, precio normal, pienso volver mas adelante."
+    }
+  ]
+}

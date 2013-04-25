@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "3 Dic 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "wocky", 
+      "text": "Tuvimos que devolver la pizza, a pesar de que comimos menos de una porci\u00f3n, ya que estaba sobrecargada de sal. La moza se la llev\u00f3 de vuelta (media pizza chica). La \u00fanica reacci\u00f3n fue no cobrarnos la fain\u00e1. No comimos y pagamos como en cualquier pizzer\u00eda."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "8 Dic 2006", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "pvilardo82", 
+      "text": "La comida es buena, pero la atenci\u00f3n es p\u00e9sima. El lugar es ruidoso y con olor a comida."
+    }, 
+    {
+      "date": "2 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Sofijaime", 
+      "text": "Buena opci\u00f3n para un men\u00fa de pizzas y pastas. El lugar es mucho m\u00e1s tranquilo y espacioso que en el \"Io te amasso\" de Malabia. Las mozas son muy amables."
+    }, 
+    {
+      "date": "22 Jul 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "tuco", 
+      "text": "La atenci\u00f3n de las mozas fue muy buena, son muy prolijas y amables y a pesar de ser veinte personas los pedidos fueron realizados muy r\u00e1pidamente."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "liset", 
+      "text": "Muy rica la comida, con un sabor \u00fanico. \r\nLa atenci\u00f3n fue muy buena, dan ganas de volver una y otra vez a disfrutar de un almuerzo en un ambiente de paz."
+    }, 
+    {
+      "date": "6 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lilith", 
+      "text": "Excelente atenci\u00f3n. Comida tana, bien hecha, buenas porciones, generosas.\r\nPrecio: sin llegar a ser barato es amigable.\r\nPostres  y pastas simples, de precios muy razonables.\r\n\u00danica observaci\u00f3n: la carta de vinos es limitada."
+    }
+  ]
+}

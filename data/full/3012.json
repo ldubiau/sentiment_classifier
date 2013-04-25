@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "21 Mar 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "huracanes", 
+      "text": "Empezamos a ir a Sensu hace  muchos anos cuando habia  otro  chico  que preparaba el sushi. Era excelente  desde el sabor , variedad y presentacion. Ahora la atencion es muy mala.El susho no es  rico. El  vino  malisismo. No puedo creer  que  no puedan tener un buen vino.  NO es recomendable"
+    }, 
+    {
+      "date": "18 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "victorredzio", 
+      "text": "Fui a comer el miercoles pasado, no tenian salsas para ponerle a los platos, el arroz mal mesclado con la salsa de soja, ademas de caro! muy mala la calidad de la presentacion en cuento al costo de los platos"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cloper", 
+      "text": "Dentro de la comida de shopping, es una buena opci\u00f3n."
+    }, 
+    {
+      "date": "3 Ene 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "PauJujuy", 
+      "text": "Entre toda la basura que hay en ese patio de comidas, Sensu destaca.\r\nEs mas caro, si, y mucho, si... Pero mas sano y rico.\r\nP\u00eddanse lomo con arroz salteado... Es muy bueno."
+    }, 
+    {
+      "date": "11 May 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "gourdanito", 
+      "text": "Buen sushi el que se sirve en este local de comidas del Unicenter. Excepcional y super recomendable el temaki, que es un conito que viene con salmon, palta, y queso philadelphia. Un tanto caros los precios. La atencion muy displicente. El local esta abierto todo el el dia por estar en el patio de comidas del shopping; y no obstante el horario de atencion es realmente reducido; por no haber sushiman disponible la mayor parte del tiempo."
+    }, 
+    {
+      "date": "20 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "matiss", 
+      "text": "Muy ruidoso, se suma el ruido del patio de comidas al propio de heladeras extractores etc. Atenci\u00f3n: depende de quien te toque. Sushiman carac\u00falico. Calidad: buena y punto. Precio: realmente caro."
+    }, 
+    {
+      "date": "14 Ago 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "SoyClau", 
+      "text": "la verdad, que muy caro para ser un patio de comidas...mucho m\u00e0s caro que un restaurante promedio de sushi!!!, y que otros deliverys que ped\u00ed...adem\u00e1s los bocaditos demasiado peque\u00f1os los not\u00e9."
+    }, 
+    {
+      "date": "15 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Clau1507", 
+      "text": "No me gusta la atenci\u00f3n del lugar, a la persona que toma el pedido le falta amabilidad y trato.. el sushi es bueno, las piezas son grandes y el precio acorde. Si bien no es el mejor sushi que probe, se recomienda pero tengan en cuenta lo mala que es la atenci\u00f3n."
+    }, 
+    {
+      "date": "23 May 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "javerius", 
+      "text": "si te gusta la cocina oriental te va a gustar este lugar... lo unico malo es q est\u00e1 en pleno patio de comidas, asi q si queres comer tranquilo olvidalo..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Mar 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 4
+      }, 
+      "user_name": "fabypao", 
+      "text": "La comida es excelente, la atenci\u00f3n es acorde a un patio de comidas, apenas te prestan atenci\u00f3n, y como no tienen lugar propio, buscar ubicaci\u00f3n es un verdadero trastorno"
+    }, 
+    {
+      "date": "12 Mar 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lobomike", 
+      "text": "I love this place. It is the fast food sushi solution. Certainly there is better sushi in BsAs-say in China Town (Barrio Chino) or other restaurants, but way out near the UNI, this is probably the only sushi joint. \r\n\r\nNot all Sensu locations are created equal.  The salmon roses here are amazing, but in centro (forget which one exactly - also in a mall) they were horribly small.\r\n\r\nWorth the price, even if it is a high price for food in ARG."
+    }
+  ]
+}

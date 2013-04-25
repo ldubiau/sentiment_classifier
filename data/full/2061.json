@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "28 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cuervogold", 
+      "text": "Me pedi un cafe con leche con 3 medialunas. EL PEOR cafe que prob\u00e9 en a\u00f1os. Era de cafetera y no express, y las medialunas secas, sin onda. Los precios que te cobran estan lejos del servicio que ofrecen. No vuelvo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "adriel", 
+      "text": "Cafeter\u00eda con comidas incorporadas; es predominantemente bar donde se re\u00fanen estudiantes. C\u00e1lido y acogedor como todo espacio donde se toma caf\u00e9. Muy lindo."
+    }, 
+    {
+      "date": "12 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Corona_Master", 
+      "text": "Una cafeteria comun y corriente con un estilo bastante antiguo. Para tomar un cafe y no mucho mas."
+    }
+  ]
+}

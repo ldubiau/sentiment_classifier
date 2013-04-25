@@ -1,0 +1,68 @@
+{
+  "malos": [
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "mikimba", 
+      "text": "Comimos unas bruschetas vegetarianas. El pan era viejo como el mundo y ten\u00eda gusto a humedad. Las carnes ok, sin pretensiones y las guarniciones lo mismo. El lugar para nada acogedor, la atenci\u00f3n aceptable. No volver\u00eda. El precio no es para nada acorde a lo ofrecido."
+    }, 
+    {
+      "date": "22 Feb 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "quimos", 
+      "text": "Sospecho de los que votan solo una o dos veces!; ser\u00e1n del mismo restaurante que votan?. Que desilusion de comida y servicio. El wok de cerdo tenia sabor a nada con trozos de cerdo demasiado grandes y duros (recocinados.) El llamado lomo, no era lomo, y tampoco tenia gusto. Un martes a la nocha y no habia otra gente; tardaron mas de 45 minutos en traer la comida y se olvidaron traer las papas fritas, que solo llego cuando habiamos terminado de comer. Apenas tenian un par de cervezas de la lista. La panera eran cuatro palitos y pancitos blandos de viena. El mozo? desaparecido. Nunca mas!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "misolmi", 
+      "text": "Sin ser feo, este restaurante es uno m\u00e1s. No destaca por su comida, ni por el ambiente, todo cumple sin descollar (aunque cobran precios de restaurant top). Lo que m\u00e1s me gust\u00f3 es que utilizaran a los personajes de la pel\u00edcula Ratatouille en la decoraci\u00f3n, un detalle original y simp\u00e1tico.\r\nMe gust\u00f3 conocerlo pero no creo que vuelva."
+    }, 
+    {
+      "date": "28 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Illeana", 
+      "text": "La ensalada de mar: una exquisites, muy buena la presentacion en una canasta de pan, con queso."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "edy17", 
+      "text": "Bien atendido, bien dispuestos, excelente los platos, abundantes."
+    }, 
+    {
+      "date": "21 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "CaruJuanmu", 
+      "text": "Excelente comida y atenci\u00f3n\r\nmuy recomendable, tanto al mediodia como por la noche.\r\nel ambiente es ideal para reuniones de amigos."
+    }
+  ]
+}

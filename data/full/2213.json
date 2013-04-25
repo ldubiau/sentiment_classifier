@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "27 Jun 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Prueboydigo", 
+      "text": "Las empanadas muy buenas pero para verle la cara de rev\u00f3lver al encargado y para que me trate como si me estuviera haciendo un favor, prefiero buscar otras. P\u00e9sima atenci\u00f3n."
+    }, 
+    {
+      "date": "11 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "BCGS", 
+      "text": "M\u00e1s que recomendable, para variar de las empanadas de lugares franquiciados donde todo tiene el mismo sabor."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Dalesandrooooo", 
+      "text": "Las mejores empanadas que hay en todo Buenos Aires.Por la relacion calidad,precio,cantidad son excelentes! No se quede sin probar las empanadas de Cantipalo!! las pizzas tambien son excelentes con mas de 50 gustos.Muy recomendable!"
+    }, 
+    {
+      "date": "25 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ladoce_x", 
+      "text": "maria maria se especializa en pizzas y empanadas,\r\ntambien tiene minutas varias\r\nempanadas super grandes muy ricas y un precio bastante accesible,teniendo en cuenta su calidad que es de primera y sus a\u00f1os de sirviendo a sus clientes ya 27 a\u00f1os"
+    }, 
+    {
+      "date": "7 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "arbol_7", 
+      "text": "las mejores empanadas de mi vida!\r\naunque bastante caro para mi gusto!"
+    }, 
+    {
+      "date": "20 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "p77k", 
+      "text": "Las empanadas, a diferencia del otro comentario, son grandes y muy buenas. Para probar la de panceta y ciruela."
+    }, 
+    {
+      "date": "16 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "facundito", 
+      "text": "Las pizzas van bien, especialmente la napolitana. Las empanadas no son buenas. S\u00f3lo delivery."
+    }
+  ]
+}

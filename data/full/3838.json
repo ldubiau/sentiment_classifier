@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "4 Ene 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sintinta", 
+      "text": "Tienen una de las mejores pizzas por metro que haya probado.  La atenci\u00f3n es discreta, el ambiente no tiene nada que lo diferencie de cualquier otro restaurante."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "corazoncontento", 
+      "text": "T\u00edpico bar de barrio. Sobreviviente en este mundo donde todo es BOUTIQUE. Mozos profesionales, como los de antes. Se come bien, r\u00e1pido. El ambiente no es fashion, pero es totalmente digno y aceptable. Tiene mesas afuera y tambi\u00e9n boxes. A los chicos tambi\u00e9n les encanta. Voy seguido."
+    }
+  ]
+}

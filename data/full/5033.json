@@ -1,0 +1,24 @@
+{
+  "buenos": [
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "RamaAG", 
+      "text": "Rico helado, de calidad. Recomiendo el chocolate \"Cami\". Muy buenos precios."
+    }, 
+    {
+      "date": "22 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cipriani", 
+      "text": "comi helado en farricci y la verdad que me encanto. hay algunos gustos muy originales y muy ricos"
+    }
+  ]
+}

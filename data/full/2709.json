@@ -1,0 +1,76 @@
+{
+  "buenos": [
+    {
+      "date": "2 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "leeleebee", 
+      "text": "La pizza es rica pero nada especial. Un poco salada para mi gusto."
+    }, 
+    {
+      "date": "25 Ene 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bender", 
+      "text": "Il Vicolo es una buena opci{on para pedir a domicilio( un poco mas que buena, para delivery bueno, pero en esta ciudad hay muchas opciones de buenas pizza como para ponerle una estrella mas. Bueno m\u00e1s, si vivis cerca pedila, y seguro quedas conforme."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "5 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mggm", 
+      "text": "excelente, han realizado el sevicio para el egreso de mi hijo en el colegio, no solo la comida, sino el trato de la/os camareros fue cordial , amable, e hicieron de esa fiesta , una recuerdo hermoso, ya que nadie se quedjo por nada !!!Todos quedaron mas que conformes !!! gabriela de Nu\u00f1ez"
+    }, 
+    {
+      "date": "13 Nov 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mga", 
+      "text": "El servicio de pizza party es realmente excelente, destaco la atenci\u00f3n super cordial y esmerada de los mozos y no dejaron de cumplir en nada de lo que prometieron.\r\nMuy buena relaci\u00f3n precio/calidad. Espero que sigan as\u00ed."
+    }, 
+    {
+      "date": "20 Oct 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "jart01", 
+      "text": "Pizza exquisita y el servicio muy bueno!\r\nPara recomendar!"
+    }, 
+    {
+      "date": "6 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Jekov", 
+      "text": "Muy bueno, pero para pedir desde casa."
+    }, 
+    {
+      "date": "9 May 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "vidafesa", 
+      "text": "Realic\u00e9 una fiesta de cumplea\u00f1os con pizza party libre, y me pareci\u00f3 muy rica y muy bien servida por el cocinero. A parte, traen todo, hasta el horno, y no ensucian nada en tu casa. La gente invitada qued\u00f3 muy satisfecha."
+    }
+  ]
+}

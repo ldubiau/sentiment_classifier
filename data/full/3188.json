@@ -1,0 +1,78 @@
+{
+  "malos": [
+    {
+      "date": "14 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "muribelarrea", 
+      "text": "Se le podr\u00e1 decir bar, pero para \"resto\" le falta mucho. Pedimos un tapeo Feller que tra\u00eda \"sugerencias del chef\" y la verdad que era una cargada. Una mera picada con delirios de grandeza. Todav\u00eda les falta mucho trabajo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "14 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Regazzo", 
+      "text": "La atencion es muy buena, me encanto el servicio. Es un ambiente joven con muy buena onda. La comida fue casi perfecta y la mejor parte se la llevaron los postres."
+    }, 
+    {
+      "date": "18 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ARBOL", 
+      "text": "Me encant\u00f3 el servicio, es gente joven y muy amable y comida es buenisima y ni que hablar de los postres."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Jun 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "tarko", 
+      "text": "El lugar no es muy grande pero es muy c\u00e1lido. La gente que atiende tiene buena onda y la comida es muy sabrosa. Recomendable."
+    }, 
+    {
+      "date": "5 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "daiva", 
+      "text": "Muy buen lugar, excelente ubicaci\u00f3n y la atenci\u00f3n es de primera. Tanto que volv\u00ed muchas veces y hasta hice una comida ah\u00ed para mi cumplea\u00f1os. Nunca tuve una queja al respecto. Totalmente recomendable. Un cl\u00e1sico."
+    }, 
+    {
+      "date": "4 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Instinto", 
+      "text": "Muy amigable. Me sent\u00ed cerca de la onda de la gente. por eso, me di\u00f3 ganas de recomendarlo y tomarlo como centro de mandos para el festejo y la unidad."
+    }, 
+    {
+      "date": "4 Jun 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lucs", 
+      "text": "Excelente atenci\u00f3n, comida de gran nivel y un lugar tan acogedor como distendido. Realmente muy bueno."
+    }
+  ]
+}

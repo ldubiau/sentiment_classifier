@@ -1,0 +1,86 @@
+{
+  "buenos": [
+    {
+      "date": "5 Abr 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "gourdanito", 
+      "text": "Comimos una paella, super-recomendable, muy sabrosa, muy abundante, con insumos muy frescos, y gran cantidad de mariscos. Nos gusto muchisimo.Fuimos un sabado al mediodia, y lamentablemente el local estaba casi vacio. El ambiente no es muy agradable; pero la atencion es muy cordial. Es un restaurante familiar; en el que los propios due\u00f1os ocupaban una mesa en esos momentos. Restaurante muy recomendable para degustar sus especialidades, sin considerar demasiado el entorno"
+    }, 
+    {
+      "date": "22 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bender", 
+      "text": "La Cancha es de esos lugares donde la comida es servida para comer, y no para mirar, y donde los sabores son para recordar, y nunca olvidar. Un lugar muy bueno, cas\u00ed excelente dir\u00eda. Para comer bien y rico; y como plus a pasos del templo sagrado del f\u00fatbol sudamericano."
+    }, 
+    {
+      "date": "14 Dic 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Bony", 
+      "text": "Es un lugar pintoresco donde se como bien y barato. Excelente tortilla espa\u00f1ola. Las demoras en la atenci\u00f3n son su principal defecto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Milere", 
+      "text": "El resultado gastron\u00f3mico es impecable, no por tener platos raros sino porque los platos tradicionales tienen un gusto de primera. No tienen el gran emplatado ni enga\u00f1osos \"fuegos de artificio\". Son platos riquisimos y punto."
+    }, 
+    {
+      "date": "6 May 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mariel1103", 
+      "text": "La comida es excelente, las rabas tiern\u00edsimas, la paella, comen 2 personas, buen\u00edsima y el flan mixto un manjar; con decir que hasta la crema la prepararon en el momento.El lugar es sensillo y limpio. RECOMENDABLE"
+    }, 
+    {
+      "date": "28 Dic 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Luis57", 
+      "text": "Realmente me sorprend\u00ed, riqu\u00edsimo y barato."
+    }, 
+    {
+      "date": "22 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "kimochi", 
+      "text": "No recuerdo cuanto gastamos, porque fue hace mucho. Pero por estos d\u00edas vuelvo, ya que la comida es excelente."
+    }, 
+    {
+      "date": "10 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "frladi", 
+      "text": "El mejor lugar de Bs As para comer mariscos. Nada m\u00e1s y nada menos que lo mejor."
+    }
+  ]
+}

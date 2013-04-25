@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "21 Nov 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ermarti", 
+      "text": "Fu\u00edmos ayer con mi esposa y nos gust\u00f3 much\u00edsimo,la mini torta era para compartir,muy fresca y rica.Ambiente lindo,lo \u00fanico malo un poco ruidoso para m\u00ed gusto.Volveremos!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "eugekpa_b", 
+      "text": "Excelente. todo ampliamente recomendable. precios muy accesibles. con descuento de ln, mucho m\u00e1s. los productos riqu\u00edsimos!"
+    }, 
+    {
+      "date": "30 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Manzano", 
+      "text": "Muy buena pasteler\u00eda, el espum\u00f3n de lim\u00f3n que prob\u00e9 me encant\u00f3. Mi chica pidi\u00f3 el soufl\u00e9 de naranja, a\u00fan mejor! Se recomienda. El caf\u00e9 estaba bien, no era asombroso, pero las cosas dulces son incre\u00edbles. \r\nNo es barato, eso s\u00ed. Dato en voz baja: f\u00edjense si pueden ir con alg\u00fan cup\u00f3n tipo Groupalia, vi que se enganchan con esas promociones."
+    }, 
+    {
+      "date": "27 Sep 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "horus67", 
+      "text": "La verdad quede impresionado por la calidad de la torta un gusto espectacular , verdadero sabor a chocolate, y en la carta vi parte de la cocima es arabe y armenia, felicitaciones al pastelero."
+    }
+  ]
+}

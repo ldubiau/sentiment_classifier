@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "26 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tereamapola", 
+      "text": "Muy lindo lugar, muy buena atenci\u00f3n. Ped\u00ed una esnsalada Ceasar y el dresing era realmente Ceasar (no mayonesa con saborizante como pasa muchas veces!).\r\nLindo para ir a almorzar al mediod\u00eda en la vereda, tranquilo para una tarde de verano."
+    }, 
+    {
+      "date": "23 Ene 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "MaruB", 
+      "text": "El lugar es muy tranquilo y la comida muy rica...eso si, cierra a las 23hs"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "13 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sonimo", 
+      "text": "Me parecio muy calido el lugar decorado con fotos en sus paredes, musica linda, la comida super gourmet la verdad me encanto voy a volver."
+    }, 
+    {
+      "date": "13 Dic 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "totopa", 
+      "text": "El lugar es super c\u00e1lido y muy tranquilo, la comida es muy rica, lo recomiendo."
+    }
+  ]
+}

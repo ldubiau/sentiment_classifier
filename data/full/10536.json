@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "28 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Xema2005", 
+      "text": "El lugar tiene potencial, la pasteler\u00eda es rica, y el caf\u00e9 que sirven tambi\u00e9n. El lugar es muy lindo, a las chicas les encanta! La atenci\u00f3n por momentos puede ser un poco lenta, pero no desmerece el conjunto."
+    }, 
+    {
+      "date": "23 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gborau", 
+      "text": "Es un lugarcito peque\u00f1o, pero lindo. La comida de merienda dulce, es muy rica. Recomendable la torma de maracuy\u00e1 peque\u00f1a para compartir con amigos o familia."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Oct 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mbarreras", 
+      "text": "Riqu\u00edsimo todo y una excelente atenci\u00f3n. Un lugar \u00edntimo, coqueto y super c\u00e1lido donde adem\u00e1s hay mesitas afuera para los d\u00edas de verano. Los sandwichs y tartas son buen\u00edsimos, al igual que las tortas y cupcakes."
+    }
+  ]
+}

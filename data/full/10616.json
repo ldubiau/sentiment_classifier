@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "8 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cerminar", 
+      "text": "Fui muchas veces, desde la inauguracion simpre tuvimos problemas o con los platos o la atencion. Intente darle otra oportunidad pero no ha mejoado. Quizas se salmven las tortas. Tiene descuentos."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "4 Jun 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "anamay", 
+      "text": "Es otro de mis restaurants diarios por la zona. Tiene vaivenes. Ahora est\u00e1 en un pico alto. Buen men\u00fa del mediod\u00eda, hay opciones diferentes para cada d\u00eda. Tiene 20% de desc. con el Citi, lo cu\u00e1l lo hace a\u00fan m\u00e1s atractivo. La colita rellena es muy buena y las espinacas a la crema tambi\u00e9n."
+    }
+  ]
+}

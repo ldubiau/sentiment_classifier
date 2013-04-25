@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "27 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "ilaya", 
+      "text": "Solo fui con una amiga a tomar un cafe con tostados, el cafe estaba frio.. a mi tostado le faltaba el queso y ademas el jamon era de muy mala calidad, no me gusto.. no se como es la comida."
+    }, 
+    {
+      "date": "5 Feb 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "cheffone", 
+      "text": "Un resto-bar-pizzeria, con buena cocina, que lamentablemente, ha dejado de tenerla, cambio la panera que era excelente y ahora es muy mala, y cobran el mismo servicio,con los crepes paso lo mismo, el queso rallado es envasado, y al solicitarle queso recien rallado, el mozo nos comento que lo cobraban, INCREIBLE!!!!!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "abrilchita", 
+      "text": "Muy rica comida abudante especial para ir con chicos por su patio de juegos con maestras jardineras que cuidan a los chicos especial para ir en familia!!!!! Volvereeeeee"
+    }, 
+    {
+      "date": "31 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "elcoco96", 
+      "text": "las pizzas son MUY buenas los mozos saben el menu y recomiendan bien y el lugar es lindo"
+    }, 
+    {
+      "date": "21 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Chucho", 
+      "text": "muy bueno, recomendable se come bien y barato. los mozos son muy buenos la pizza es exepcional"
+    }, 
+    {
+      "date": "6 Dic 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "cultura_pop", 
+      "text": "uno de los restaurantes mas destacables del barrio y uno de los que ofrecen una variedad buena de comidas: carnes de pollo, vaca, cerdo, cordero y pescados, preparados de muy buena manera, no de forma com\u00fan. pastas, ensaladas y entradas variadas. semana por medio cambian la lista de sugerencias del chef con buenas propuestas. porciones abundantes. ricas pizzas. buenos postres.atencion buena, mozos atentos. bebida un poco cara. estando lleno el ruido es molesto, pero disponen de un sal\u00f3n arriba donde se le puede escapar un poco a eso. buen lugar para ir a de dia o de noche."
+    }, 
+    {
+      "date": "29 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marysabel65", 
+      "text": "La atenci\u00f3n de los mozos es muy profesional, el servicio de mesa excelente! y la comida muy rica. No es un restaurant para ocasiones especiales, pero es un lugar muy bueno para comer bien y tranquilo. Malfatis de verdura $ 30. Peras al borgo\u00f1a $ 10. Servicio de mesa $ 5 Lo recomiendo"
+    }, 
+    {
+      "date": "4 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lailalaila", 
+      "text": "Restaurante de barrio. Buena comida, lenta la atenci\u00f3n. Es para ir de apuro"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "7 Ago 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "juanbla", 
+      "text": "Excelente servicio y comida bien presentada y de buen gusto, gran variedad de comidas y buena propuesta. En cuanto a las porciones de comida, las mismas en la medida justa."
+    }
+  ]
+}

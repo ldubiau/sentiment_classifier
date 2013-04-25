@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "2 Abr 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "tivi", 
+      "text": "Fui varias veces porque por esa zona no hay muchos restaurantes y nunca me sirven un plato preparado de la misma manera. Los mozos son de terror. Tienen una pared llena de humedad y los asientos de los box todos rotos que ni piensan reparar. Hasta el caf\u00e9 es intomable. No lo recomiendo."
+    }, 
+    {
+      "date": "2 Mar 2005", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "raul.gon", 
+      "text": "La comida es escasa y el precio alto. \r\nLa atenci\u00f3n deja mucho que desear, mozos bastante inexpertos. No lo recomiendo."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "16 Sep 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "daniaizen", 
+      "text": "La atencion fue muy lenta, mozos inexpertos, la comida es buena bien servida, el lugar estaba un poco sucio pero un clima agradable."
+    }
+  ]
+}

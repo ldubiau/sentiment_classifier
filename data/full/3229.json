@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "21 Feb 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "JA", 
+      "text": "Amistosa recepci\u00f3n del simp\u00e1tico aleman. Despu\u00e9s comimos pastas, bastante buenas, aunque muy encarecidas por las salsas \"adicionales\", algo que no entend\u00ed y me parec\u00edo miserable argumentar que alguien coma las pastas secas o le cobro adicionales por fileto, crema, o rosa (casi 50% del valor del plato). El servicio de las mozas es lento, medio desordenado y de muy flojo desempe\u00f1o. Sal\u00ed bastante decepcionado, tras la simp\u00e1tica bienvenida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Rauldi", 
+      "text": "Excelente restaurante de campo, recibe el due\u00f1o, un alem\u00e1n muy amable, muy buena la parrillada especial, recomiendo el budin c/ dulce. Precios razonables y tortas caseras exquisitas."
+    }, 
+    {
+      "date": "5 Ago 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "zordo", 
+      "text": "Muy buen lugar para desconectarse."
+    }
+  ]
+}

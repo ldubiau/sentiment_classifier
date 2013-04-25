@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "20 Jun 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Tuchito", 
+      "text": "Una muy grata sorpresa, no dice mucho de afuera pero el combo termina siendo muy bueno. La comida muy fresca, rica y bien presentada. La atenci\u00f3n muy relajada pero cordial, el lugar es chico y permite que est\u00e9n atentos a los detalles. El ambiente es familiar pero lindo, podr\u00edan mejorar algunos detalles de decoraci\u00f3n pero no es lo importante. La relaci\u00f3n precio calidad es muy buena. Volveremos!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "21 Jun 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Antodesign", 
+      "text": "Excelente comida! Cada d\u00eda de la semana ofrecen algo distinto. Los d\u00edas jueves tiene cocinas del mundo por ejemplo, francesa, suiza, tailandesa, etc. Excelente propuesta, mucha variedad de platos y muy ricos tapeos. Toda la comida muy casera"
+    }
+  ]
+}

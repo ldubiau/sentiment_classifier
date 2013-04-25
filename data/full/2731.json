@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "30 Sep 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "AA42", 
+      "text": "Comimos pastas, ravioles  que estaban muy bien y fideos con salsa 4 quesos donde parecia faltar el roquefort. La atenci\u00f3n fue muy buena, el lugar es agradable. Te cobran el cubierto."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarceloG", 
+      "text": "La picada es excelente y fuera de lo normal. Trae milanesas de mozarella, aceitunas rebozadas, espectaculares brusquettas, queso azul y fetas de jam\u00f3n crudo. La cerveza Isenbeck tirada es muy rica y ligera. El ambiente est\u00e1  bueno. Lugar ideal para comer algo el domingo a la noche y terminar el fin de semana."
+    }, 
+    {
+      "date": "9 Ago 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leioleo", 
+      "text": "Una buena alternativa. Comida rica y abundante. Buen ambiente y atenci\u00f3n acorde."
+    }
+  ]
+}

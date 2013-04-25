@@ -1,0 +1,118 @@
+{
+  "malos": [
+    {
+      "date": "17 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Gorgonzola", 
+      "text": "Siempre muy lleno de gente los mozos no atienden bien  y la comida podria ser mucho mejor en relacion a los precios"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "RestoTrotter", 
+      "text": "Un buen lugar para un almuerzo de trabajo. Los precios son elevados en t\u00e9rminos comparativos con otros locales de la zona, pero brinda la seguridad de saber que la comida es siempre buena y la atenci\u00f3n cordial."
+    }, 
+    {
+      "date": "11 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Efficient", 
+      "text": "Buen lugar para almorzar en la zona centrica. Estan por sobre la media de precios para el mediodia, es por eso que tienen buena calidad de materias primas. Buen servicio."
+    }, 
+    {
+      "date": "2 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Joco", 
+      "text": "Buena opcion para el mediodia en el microcentro. La atencion del delivery-boy es buenisima y los platos de la carta van cambiando constantemente con buena oferta en pastas y ensaladas. La cantidades un poco pijoteras. Es Bueno"
+    }, 
+    {
+      "date": "13 Mar 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Brooklin", 
+      "text": "Lo mejor del Microcentro, tanto sea en la decoraci\u00f3n,la comida y el ambiente.\r\nLo recomiendo."
+    }, 
+    {
+      "date": "18 Ene 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Veterano", 
+      "text": "Buen ambiente y buena atenci\u00f3n. Un poco ruidoso en horas pico. \r\nNo hay ensaladas especiales ni platos fr\u00edos. Cervezas tiradas s\u00f3lo una local y en botellas poca variedad. \r\nDe todas maneras me gust\u00f3. Volver\u00e9 y lo recomiendo."
+    }, 
+    {
+      "date": "5 Mar 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "Un ambiente cl\u00e1sico y elegente, rica comida."
+    }, 
+    {
+      "date": "3 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "Alejandra", 
+      "text": "Uno de los pocos restaurantes del Microcentro donde se puede comer tranquilo. Sin ruidos molestos y bien atendido. \r\nIdeal para almuerzos de negocios."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Dic 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rst", 
+      "text": "Es la segunda vez que voy con amigos, se come excelente en un ambiente muy agradable, precios acorde a la calidad."
+    }, 
+    {
+      "date": "20 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sigala", 
+      "text": "Excelente atencion,inmejorable comida"
+    }, 
+    {
+      "date": "23 Nov 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "aquaman", 
+      "text": "Excelente propuesta para recomendar ,lo mejorcito del microcentro. Menues que varian diariamente,porciones mas que abundantes, (degustar el bud\u00edn de pan de un tama\u00f1o que amedrenta de lo grande).Carnes impactantes y el servicio impecable a la vieja usanza.La decoraci\u00f3n es cl\u00e1sica,pisos de Roble de Eslavonia, bronce en la barra.Para disfrutar mucho,de un espacio relajado y convertirse en un ne\u00f3fito del lugar.Volver\u00e9 pronto."
+    }
+  ]
+}

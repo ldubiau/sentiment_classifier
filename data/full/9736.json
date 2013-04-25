@@ -1,0 +1,56 @@
+{
+  "buenos": [
+    {
+      "date": "9 Feb 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "sommeliersa_30", 
+      "text": "un lugar con una buena idea, que recien comienza, pero con muchos detalles a mejorar ( no tenian un frappe, por ejemplo) volveria en unos meses para ver si mejoran"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "11 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "bebero", 
+      "text": "Me gust\u00f3 mucho. Sabores sofisticados. Riqu\u00edsimo carpaccio de ternera, muy buen tiradito, y rico tartare. Ampliar\u00eda la la carta de postres. Lo que s\u00ed, un abuso el precio de las bebidas (13 pesos un agua de las de pl\u00e1stico m\u00e1s chicas). Funcionar\u00eda mejor en un men\u00fa de pasos."
+    }, 
+    {
+      "date": "5 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mari1010", 
+      "text": "La semana pasada pasamos por esa zona con mi novia y nos gusto la onda del lugar y la propuesta innovadora. Ayer fuimos a cenar. Riquisimo todo, acompa\u00f1ado por un vino organico savignon blanc espectacular. Las porciones son un poco chicas. Deber\u00edan trabajar en la extracci\u00f3n de aromas, porque si con 1 sola mesa hay olor, ni me imagino teniendo el lugar lleno...aunque no son mas de 8 mesas. Recomendable para quien sabe apreciar un lugar caro pero donde se come muy bien."
+    }, 
+    {
+      "date": "3 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "luchi1", 
+      "text": "Nos encanto el lugar. Nunca comimos algo igual. Super recomendable. Todo muy rico y super fresco.Sabores sofisticados y delicados."
+    }, 
+    {
+      "date": "5 Ene 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "renoir", 
+      "text": "Un lugar muy innovador! Comimos un poco de todo,y la verdad es que era todo riquisimo! Saben muy bien como combinar sabores, y parecia ser todo muy fresco hecho en el momento.  Si hay que tener un poco de paciencia, pero para una cena romantica es perfecto. Muy ricos vinos!"
+    }
+  ]
+}

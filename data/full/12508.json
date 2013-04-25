@@ -1,0 +1,26 @@
+{
+  "malos": [
+    {
+      "date": "15 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "bleublancrouge", 
+      "text": "Lindo ambiente, buena iluminaci\u00f3n, nivel sonoro aceptable, muy buen servicio y, mala comida.\r\n\r\nEl jam\u00f3n serrano con pan y tomate estaba rico, la paella de mariscos un verdadero desastre: el arroz demasiado cocido, demasiado aceitoso y casi sin gusto, seguramente debido a los mariscos que no ten\u00edan gusto a nada. Quisimos remediarnos con una crema catalana. Nos equivocamos otra vez, no ten\u00eda ni la textura ni el sabor que deber\u00eda tener.\r\n\r\nEs para no volver."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Sep 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "parker", 
+      "text": "En general la comida tiene un nivel excelente. Las entradas: langostinos a la plancha, croquetas de bacalao (porci\u00f3n escasa) y las patatas bravas muy bueno todo. Los principales: rabo de buey al vino, el arroz negro para dos y la corvina bien cocinados, sabrosos y los pescados en su punto. La creme brulee caliente por fuera y fr\u00eda por dentro. El servicio normal, m\u00e1s bien fr\u00edo. Los vinos supercaros  y muy pocos en la carta de precio razonable (que los hay en el mercado argentino, especialmente blancos). Los precios de los platos de altos a muy altos pero es lo que se paga en este nivel."
+    }
+  ]
+}

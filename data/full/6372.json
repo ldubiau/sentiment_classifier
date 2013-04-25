@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "DrSorensen", 
+      "text": "Veamos, el sushi muy rico la verdad. Pero lo encargamos a las 19:30hs para que llegue a la 22hs. A las 22:20 no habia llegado, reclamamos y recien ahi estaba por salir. Termino llegando a las 23:15hs, encima llego incompleto. La chica que atendia el telefono no tenia ni idea de las promociones, diferentes tablas ni bien los precios. Una atencion que la verdad no me dan ganas de volver a pedir."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Ene 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Surferride", 
+      "text": "Para mi gusto, uno de los mejores Sushi de la zona, los Martes y Miercoles tienen 25% de descuento lo que lo hace el mejor momento para comer seguido (pedimos todas las semanas con amigos). Que el sushiman sea el due\u00f1o le da un toque de atencion personalizada que hoy en dia no es facil de encontrar. Muy recomendable! (especialmente en esta epoca donde surgieron muchos que dicen saber hacer sushi)..."
+    }
+  ]
+}

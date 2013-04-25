@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "17 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "CHETPRO", 
+      "text": "Recien vuelvo de favretto. el lugar tiene un aspecto sucio, los individuales olor a humedad y los platos demasiado simples. pedi salsa rosa y me dieron fileto... al reclamar me dijeron que ya tenia crema, que lo revuelva. mala atencion."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gauchita", 
+      "text": "Un lugar muy agradable,muy amables todos, la comida sabrosa y barata, realmente vale la pena uno se siente muy a gusto, lo recomiendo."
+    }, 
+    {
+      "date": "26 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "RICA1970", 
+      "text": "Esta muy bueno, los precios son accesibles y sirven rapido"
+    }, 
+    {
+      "date": "13 May 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Alexandro", 
+      "text": "Soy de ir muy seguido al lugar, a almorzar todo los mediodias, el lugar es agradable, la comida es variada, y la antencion es buena,"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "27 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mariantorres", 
+      "text": "Fuimos a tomar algo al after, esta bueno, es accesible, esta muy bueno, tiene onda"
+    }
+  ]
+}

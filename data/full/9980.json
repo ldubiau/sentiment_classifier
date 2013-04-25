@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "1 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Amy", 
+      "text": "Voy varias veces por semana, a almorzar. Generalmente el menu ejecutivo. Las propuestas son variadas, bien preparadas con una muy buena realcion precio prestacion. Por 38$ plato principal, bebida sin alcohol y cafe. Buen servicio. Las veces que pedimos fuera del menu ejecutivo la comida esta bien. Si bien el salon es regular, est\u00e1 limpio, como as\u00ed tambien el ba\u00f1o"
+    }, 
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Goodfellas", 
+      "text": "Buena opci\u00f3n para el barrio, ya que no hay mucho. Lugar \u00edntimo, aunque le faltar\u00eda poner m\u00e1s \u00e9nfasis en la m\u00fasica ambiental. Comida rica, bien elaborada, varias opciones en pescado. Las rabas altamente recomendables. Muy buena variedad de vinos. Precios un poco altos para lo que es el barrio. Para volver cada tanto."
+    }, 
+    {
+      "date": "20 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nijdenmu", 
+      "text": "Rica comida en Villa Martelli, de lo mejorcito de la zona. La rabas, lo mejor, lejos..."
+    }
+  ]
+}

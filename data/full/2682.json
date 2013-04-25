@@ -1,0 +1,46 @@
+{
+  "malos": [
+    {
+      "date": "4 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "perezharold", 
+      "text": "Buen lugar para beber etiquetas de whisky."
+    }, 
+    {
+      "date": "4 Feb 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "gatoverde", 
+      "text": "Ante todo, no sabr\u00eda c\u00f3mo catalogarlo. Si bien est\u00e1 en una casita inglesa estilo Tudor, NO es un pub ya que no sirven comidas, no tienen variedad de cervezas y ni qu\u00e9 hablar de pool, dardos y toda la parafernalia. Tampoco es una casa de t\u00e9 porque no tiene variedad de tortas-de las pocas opciones en carta s\u00f3lo ten\u00edan 2 y eran del tama\u00f1o de un brownie a un precio de 11 pesos! Tampoco se podr\u00eda considerar bar pero espec\u00edficamente hablando de los whiskies, s\u00ed hay gran variedad pero los precios son muy antojadizos:con 2 shots de Glenfiddich o 2 copitas de Drambuie pagan la botella en negocios!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "17 Feb 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "anette04", 
+      "text": "Excelente lugar para un caf\u00e9 a la tarde, pero lo caracter\u00edstico de ac\u00e1 es su barra de whisky, propiedad del mayor coleccionista privado de whiskies. Si quieren tomar excelente whisky, este es el lugar!"
+    }, 
+    {
+      "date": "20 Nov 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "noruchy", 
+      "text": "Creo que pongo un voto a este cafe por el cari\u00f1o que le tengo, ya que era la salida obligada en mi adolescencia con las chicas y algun que otro noviecito a tomar algo y a tener una charla tranquila y privada. Tambien pasamos un divertido comienzo de a\u00f1o ahi. El ambiente cambio, no se si iria en estos momentos pero los tragos son muy buenos y pondero la tranquilidad del lugar. YO recomiendo no comer. La torta de manzana en aquellos tiempos era insuperable."
+    }
+  ]
+}

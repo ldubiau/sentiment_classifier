@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "3 Mar 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "aliciavs", 
+      "text": "En primer lugar es necesario decir que es un restaurant modesto.  No tiene aire acondicionado.  La atenci\u00f3n de la moza \"Tania\" es buena.  La comida peruana es buena, los platos muy abundantes por lo que sugiero que se comparta.  Nosotros en general  pedimos una entrada para cada uno y compartimos el plato principal.  Lo excelente es que tiene un buen pelotero para los chicos. Lo recomiendo.  No aceptan tarjetas, pero los precios son muy economicos."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "19 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Javi_65", 
+      "text": "Con mi familia solemos ir con frecuencia y nos gusta mucho. Los platos son exageradamente abundantes (la mayor\u00eda), riqu\u00edsimos y muy baratos. Adem\u00e1s tiene pelotero."
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "negrofox", 
+      "text": "excelente comida peruana y lo mejor el precio muy barato"
+    }
+  ]
+}

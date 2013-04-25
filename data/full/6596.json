@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "20 Dic 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "shacti", 
+      "text": "Fui a almorzar, y ped\u00ed pollo al verdeo c/papas noisette. Despu\u00e9s de 20 min. me traen un pollo con salsa fileto y verdeo, con papas noisette.\r\nTras explicarles que eso no fue lo que ped\u00ed, no hubo disculpas, y trataban de decirme que el pollo al verdeo es asi (yo s\u00e9 que se ahce con crema).\r\nEn fin, les devolvi el plato. Pero muy mala la atenci\u00f3n."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "6 Ene 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Teddy", 
+      "text": "Un lugar simple con una buena atenci\u00f3n y muy buenas pizzas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "16 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "federica0901", 
+      "text": "Las pizzas son mortales. Recomiendo la de provolone y jam\u00f3n!  Pedi delivery, es s\u00faper agil y r\u00e1pido!"
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "malos": [
+    {
+      "date": "6 Mar 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Jumau", 
+      "text": "hemos ido algunas veces, nos habia parecido bien. Hoy volvimos y nos dijeron que habian cambiado el sistema de parilla libre, por lo que la parrilla por persona   servicio de mesa esta $60 por persona, muy caro en relacion a lo que ofrecen, a eso se le suma el vino (caro), las ensaladas que son muy peque\u00f1as, porcion de papas fritas super grasosas. Nos termino saliendo muy caro, y carisimo si lo pensas en relacion a la alidad, no volvemos nunca mas. Recomiendo ,comer pastas caseras y hacer uso de la pileta y en ese caso podria justificarse el gasto."
+    }, 
+    {
+      "date": "3 Oct 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "nefrus", 
+      "text": "Realmente nos fuimos muy defraudados.\r\nAtenci\u00f3n lenta (estaba semi vac\u00edo) Carta de vinos poco y caro, la carne un desastre: Asado todo grasa (se disculparon por eso) y vacio recalentado y quemado por fuera, fr\u00edo y viejo por dentro (no lo tocamos). Papas fritas reblandecidas y chorreando aceite.\r\nTermin\u00e9 almorzando un helado....\r\nNo mas chances."
+    }, 
+    {
+      "date": "2 Ago 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "sublime_thc", 
+      "text": "P\u00e9simo y se fueron al carajo con el nombre que le pusieron tambi\u00e9n... La comida es un asco, lleg\u00f3 fria y tard\u00f3 3 dias.. no voy nunca m\u00e1s!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "11 Abr 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "comensal", 
+      "text": "siempre es grato regresar a plumas verdes,muy bien la parrillada,abundante y hecha a la vista...mejor aun la cordial atencion y el ambiente familiar..."
+    }, 
+    {
+      "date": "20 Ago 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sebi1sebi1", 
+      "text": "Todo muy bien, muy lindo el lugar."
+    }, 
+    {
+      "date": "29 Jul 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "comensal", 
+      "text": "Una excelente opcion de domingo, buena parrilla (por fin un lugar donde mandan los chinchulines derecho a la parrilla, sin hervirlos previamente) un\r\nespectaculo ameno y cordialidad en la atencion,es para regresar..."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Flor49", 
+      "text": "Muy buena atenci\u00f3n, el lugar es acogedor y se come muy bien"
+    }, 
+    {
+      "date": "17 Sep 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "abu", 
+      "text": "Pasamos un d\u00eda s\u00faper, tambi\u00e9n\r\nnos acompa\u00f1\u00f3 el clima. El show es muy bueno, nos divertimos."
+    }
+  ]
+}

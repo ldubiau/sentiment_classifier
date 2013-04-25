@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "27 Jul 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Pataglobo", 
+      "text": "Fui con un grupon de dto, la carne durisima , era una piedra y por lo q. veo es una situacion repetidad, el resto normal, El ambiente es normal, la atencion regular, hubo bastante demora en traer la comida., No lo recomiento."
+    }, 
+    {
+      "date": "24 May 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "daniel_b18", 
+      "text": "Llegamos a las 23hs un dia vispera de feriado, eramos la tercera mesa ocupada. Pedimos parrillada p2 con fritas y vino blanco. 23:03hs resulta q se le termino el vino blanco. 2315hs llega la parrillada, la carne dura y mal cocinada, se notaba que estaba marcada/recalentada ya q estaba seca pero roja. Las fritas incomibles. 2350hs no hay nadie mas y pago p irme."
+    }, 
+    {
+      "date": "30 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "edih", 
+      "text": "Fui por un cup\u00f3n de descuento, el lugar me pareci\u00f3 agradable, pero la carne muy mala calidad, y mal preparada. No cumple con lo que publica en calidad ni precio. Una gran decepci\u00f3n."
+    }, 
+    {
+      "date": "17 Jul 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "rodo2011", 
+      "text": "La verdad que la atencion es medio pelo, pero la comida la verdad no se a que le llaman asado especial. Acaso la gente no sabe que es un asado especial que lo confunden con falda parrillera. Y las papas fritas, no solo malas sino que marcadas. Y las porciones por los costos la verdad dejan mucho que desear y ni hablar de las ensaladas. Si tienen hambre y ganas de comer bien en un buen lugar: NO VAYAN!!!!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Ago 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "dibis", 
+      "text": "Fuimos con mi familia un lugar muy calido,  los platos son para compartir, muy bueno todo!."
+    }, 
+    {
+      "date": "1 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "MaryRedL", 
+      "text": "La verdad, por un lado..la atenci\u00f3n fue muy mala, habiamos llegado antes y atendian a los dem\u00e1s, estaba vacio..... (los platos eran los mismos incluso) promos de parrillada y vino. La mesita ok simp\u00e1tica, pero medio apretujada para comer una parrillada......despues tendr\u00e1n algun peque\u00f1o problema con el extractor porque hacia ruido molesto constantemente.....si est\u00e1 lleno a full no se debe escuchar....La comida bien entre plato y plato, con calidad desigual y  con una demora notable, algo desorganizados.... no lo recomiendo."
+    }, 
+    {
+      "date": "29 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "CARTERO", 
+      "text": "es un lugar sencillo, para ir con amigos .muy buena la atencion y la parrillada."
+    }, 
+    {
+      "date": "2 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "quimos", 
+      "text": "Servicio amable, ambiente agradable, sin ser lujoso, limpio y bien iluminado. Aceptable calidad de la tira de asado y vacio, las papas fritas y la ensalada. Fuimos con un cupon que incluia el vino, pero aun sin el cupon los precios no son altos. Muy bien el servcio. Volveremos a visitarlo una vez mas."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "gise27", 
+      "text": "Venimos cuando podemos a este lugar por su buena atenci\u00f3n, comida y ambientaci\u00f3n.\r\nLa parrillada es muy buena!!...recomendable para ir con amigos, familia o pareja!"
+    }, 
+    {
+      "date": "1 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gspallina", 
+      "text": "Es un lindo lugar. La parrilla es muy buena. Una excelente relaci\u00f3n costo beneficio."
+    }, 
+    {
+      "date": "25 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Victor400", 
+      "text": "Todo muy rico, el ambiente es muy tranquilo, ideal para parejas o familia"
+    }, 
+    {
+      "date": "13 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "piojitos", 
+      "text": "muy buena la parrilla. vamos siempre, el lugar chiquito pero muy agradable"
+    }
+  ]
+}

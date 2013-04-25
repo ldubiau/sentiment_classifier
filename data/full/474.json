@@ -1,0 +1,98 @@
+{
+  "malos": [
+    {
+      "date": "12 Oct 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Sirenita_1977", 
+      "text": "No lo elijan para ir a cenar, es lamentable. La comida es mala, mal preparada y como dato anecd\u00f3tico llegan al descaro de servirte la ensalada sin tomate (cuando en la carta lo incluye) con el argumento de que est\u00e1 caro!\r\nLas mozas tambi\u00e9n son un desastre, en lugar de prestar atenci\u00f3n a las necesidades de los clientes est\u00e1n haciendo jueguitos propios de ni\u00f1as de pelotero (como por ejemplo tirarse entre ellas los posavasos en medio del sal\u00f3n). El ambiente esta bien,  pero no salva la mala calidad del resto de los componentes del restaurant. No volvemos mas!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "9 Nov 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "surfer83", 
+      "text": "Es para ir a tomar algo con amigos o para disfrutar del lugar en pareja en la planta baja."
+    }, 
+    {
+      "date": "19 Abr 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "vjemmo", 
+      "text": "M\u00e1s que nada para hacer una previa o para juntarse con amigos donde la comida es la excusa de la reuni\u00f3n y no lo principal."
+    }, 
+    {
+      "date": "15 Abr 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "tincho_101", 
+      "text": "El lugar es moderno y est\u00e1 bien. Arriba hay un pool que es una buena opci\u00f3n. Tiene computadoras a modo de cyber. Lindo para hacer una picada con amigos. Desastre estacionar por la zona, como siempre."
+    }, 
+    {
+      "date": "14 Ene 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Bender", 
+      "text": "Un muy lindo Bar/Caf\u00e9, con buenos y variados tragos, donde se puede acompa\u00f1ar los mismos con unas buenas picadas o lomitos."
+    }, 
+    {
+      "date": "22 Dic 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "maiu.roc", 
+      "text": "Me gust\u00f3 mucho el lugar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Abr 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Solech", 
+      "text": "Excelente tanto la comida como la atenci\u00f3n.\r\nAdem\u00e1s es un lugar tranquilo para disfrutar de la cena en Ca\u00f1itas, sin la locura de la gente."
+    }, 
+    {
+      "date": "1 Abr 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "TRex", 
+      "text": "Ambiente muy bueno y realmente agradable. Muy buena m\u00fasica. Lugar muy cool."
+    }, 
+    {
+      "date": "12 Dic 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marila", 
+      "text": "Excelente lugar."
+    }
+  ]
+}

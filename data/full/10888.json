@@ -1,0 +1,48 @@
+{
+  "malos": [
+    {
+      "date": "24 May 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "rangel", 
+      "text": "O restaurante est\u00e1 desativado."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "22 Mar 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nanovich", 
+      "text": "Muy buena recomendaci\u00f3n. Porciones abundantes y a precio razonable. Cuesta encontrarlo, ya que est\u00e1 \"escondido\" atr\u00e1s de una concesionaria de autos. La comida rica y el servicio muy bueno. La cerveza artesanal muy buena.\r\nEst\u00e1n reci\u00e9n empezando, y el local estaba vacio (\u00e9ramos los \u00fanicos comensales), pero la moza le puso mucha onda y la ambientaci\u00f3n, adentro y afuera est\u00e1 buena."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "12 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Trella", 
+      "text": "Fuimos dos personas a cenar y pedimos una tabla de mariscos. La comida es de excelente calidad y abundante.\r\nLas cervezas artesanales del lugar son muy buenas y las sirven a la temperatura correcta.\r\nLa \u00fanica cr\u00edtica para hacer es que como el lugar es muy nuevo, todav\u00eda no tienen instalado el sistema para operar con tarjeta."
+    }, 
+    {
+      "date": "7 Ene 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Cleop", 
+      "text": "Excelente, comimos una tabla extraordinaria acompa\u00f1ado de su cerveza artesanal, sobr\u00f3 y adem\u00e1s el clima del sal\u00f3n es muy acogedor."
+    }
+  ]
+}

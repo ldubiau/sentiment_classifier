@@ -1,0 +1,128 @@
+{
+  "malos": [
+    {
+      "date": "13 Ene 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Richard_", 
+      "text": "No puedo recomendar este lugar.  La comida no era buena, Las achuras parecian recalentadas.  El lomo no era nada tierno y la bondiola estaba super seca.  La ambientacion es mala y el buen servicio no compensa.  Creo que en la zona hay mejores opciones."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "19 Jul 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "FlowerBomb", 
+      "text": "Una opci\u00f3n buen\u00edsima para comer rico y casero en un ambiente relajado y familiar. \r\nLos mozos son muy amables, hay un lindo ambiente aunque no lo recomendar\u00eda para una salida en pareja.\r\nLas pastas altamente recomendables, al igual que los bu\u00f1uelos de acelga y (seg\u00fan mis compa\u00f1eros de mesa) las costillitas de cerdo a la riojana."
+    }, 
+    {
+      "date": "20 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Richy", 
+      "text": "Muy buena parrilla. Fuimos un d\u00eda de semana por la noche y el lugar estaba muy tranquilo. Eramos 8 personas y todos los platos estuvieron en su punto justo. La atenci\u00f3n fue esmerada. Para recomendar."
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "veramente1", 
+      "text": "La comida era muy buen, la relacion precio calidad sobresaliente, quizas debido a que era el domingo del dia de la madre, el servicio fue lento y poco coordinado, sin embargo definitivamente regresaria en familia a comer."
+    }, 
+    {
+      "date": "23 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mapachita", 
+      "text": "Fui con dos amigas a cenar temprano. Lo habiamos elegido por las buenos comentarios de la guia. El lugar es muy agradable, tranquilo, familiar. Los platos muy abundantes, bien preparados y presentados. La carne excelentemente cocida y tierna, me sorprendio gratamente. Muy prolijo y limpio. Volveria. Es para recomendar. Volveria."
+    }, 
+    {
+      "date": "17 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "dieyju", 
+      "text": "Muy lindo lugar, ambiente calido y familiar.\r\nLa pasamos b\u00e1rbaro. ALtamente recomendable"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "bondiola", 
+      "text": "Excelente restaurant!! Definitivamente voy a volver y a recomendar ya que la atencion es muy buena y la comida es muy casera. Nos sentimos como en casa. El staff es muy cordial y el ambiente muy acogedor. Por la calidad de la comidad pagamos dentro de los parametros normales."
+    }, 
+    {
+      "date": "18 Oct 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "zuld", 
+      "text": "Muy buena comida! el lugar es regular, no es para ir en una cita, se puede ir con familia o amigos, la carne tiene muy buen nivel, los meseros son atentos pero no te arreglan bien la mesa, los manteles y la decoracion podria ser mejor, pero lo compensa con lo que es la carne. Buenisima carne"
+    }, 
+    {
+      "date": "10 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "rfp1", 
+      "text": "Riqu\u00edsima la comida y la atenci\u00f3n.\r\nMuy buena relaci\u00f3n calidad y precio.\r\nAmbiente bonito y acogedor."
+    }, 
+    {
+      "date": "5 Abr 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Claire", 
+      "text": "La atencion es excelente, la comida fresca y muy buena. Sabores tradicionales a los que hay que volver. El salmon con vegetales, muy recomendable y el brochette Zorita, excelente"
+    }, 
+    {
+      "date": "18 Dic 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "centinela", 
+      "text": "Muy buena la atenci\u00f3n, muy interesante la carta de vinos. Muy limpio los ba\u00f1os y con todos los lementos necesarios."
+    }, 
+    {
+      "date": "1 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "riqui2009", 
+      "text": "es un excelente restaurant parrilla, la atencion es excelente, la comida aun mejor, el ambiente y la decoracion optima, es para recomendar"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "29 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Rasa", 
+      "text": "Es un lugar bastante bien presentado, con comida mejor que la media, atenci\u00f3n muy agradable, precio justo y espacio verde. Mas no se le puede pedir"
+    }, 
+    {
+      "date": "31 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "candy2003", 
+      "text": "El lugar est\u00e1 simp\u00e1tico y muy familiar , me agrad\u00f3 la atenci\u00f3n de Valeria siempre atenta a lo que hac\u00eda falta. La carne era un poco dura, pero habiendo tantas opciones, se puede pasar por alto.Otro punto a favor, fue que no me obligaron a comer achuras, les ped\u00ed que no me las sirvan y empec\u00e9 por el lech\u00f3n ,etc. El valor de 74$ que figura en la gu\u00eda est\u00e1 atrasado, es de , 85$ mas las bebidas. Recomendable, sin locas pretensiones. Abren s\u00e1bados y domingos solamente"
+    }, 
+    {
+      "date": "25 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "manokre", 
+      "text": "Me habien recomendado este lugar. Realmente me encanto, la comida es muy buena, en precio y la atencion 10 puntos.\r\nEs para quedarse a pasar el dia ahi, te sirven el almuerzo libre (bebida aparte) y te dan la merienda tambien por el mismo precio.\r\nUn lugar hermoso y con excelente atencion.\r\nVoy a volver, es como pasar un dia en el campo."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Ferreoladed", 
+      "text": "Muy bueno, 100 $ mas bebida mas que razonable todo muy rico y muy lindo el lugar."
+    }, 
+    {
+      "date": "13 Mar 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "ca0901", 
+      "text": "Excelente relaci\u00f3n precio, calidad y servicio. Muy recomendable"
+    }, 
+    {
+      "date": "6 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "MarcosT", 
+      "text": "Muy recomendable.  Lugar muy tranquilo y agradable para comer afuera bajo los \u00e1rboles.  Nos atendieron r\u00e1pido. Muy buena la calidad y sabor de todo lo que se sirvi\u00f3.  Creo que el precio est\u00e1 acorde al servicio.  Volver\u00e9 sin duda."
+    }
+  ]
+}

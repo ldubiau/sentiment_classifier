@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "27 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "Polli10", 
+      "text": "Fuimos con mi marido, la carne nos pareci\u00f3 de exelente calidad pero mi lomo llego fr\u00edo ( y en general toda la comida) pero el mozo que era divino en seguida me lo cambio, las sillas son un sesastre y me pareci\u00f3 bastante caro.mi marido agrega que la copa de vino le resulto muy cara"
+    }, 
+    {
+      "date": "23 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "tincho_rural", 
+      "text": "Buen lugar, bien ambientado, excelente atenci\u00f3n.  Es posible que la cantidad de p\u00fablico explicara la deficiencia que hubo en el punto de cocci\u00f3n de la carne.  Habi\u00e9ndolo advertido se nos propuso amablemente cambiar.  El precio nos pareci\u00f3 algo elevado para la calidad de la comida."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Vitor", 
+      "text": "muy"
+    }
+  ]
+}

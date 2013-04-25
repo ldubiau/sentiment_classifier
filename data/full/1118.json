@@ -1,0 +1,108 @@
+{
+  "malos": [
+    {
+      "date": "18 Jul 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "marinacha", 
+      "text": "En mi opini\u00f2n muy malo, pedimos matambre, yo a la pizza y mi acompa\u00f1ante al verdeo y un desastre. la carne con mal gusto y las papas fritas aceitosas.\r\nen cuanto a la atenci\u00f2n de los mozos regular.\r\nno lo recomiendo."
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Pablisymeli", 
+      "text": "Carne muy mala , pedi ojo de bife y habia que pedir los dientes al perro para comerlo, servicio lento 40 min para traer la comida , ambiente ruidoso , en sintesis nada recomendable."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "leeleebee", 
+      "text": "El pollo aceptable. El pur\u00e9 muy escaso. Ambiente nada agradable y ruidoso y servicio muy poco eficiente. No recomiendo para nada este lugar."
+    }, 
+    {
+      "date": "26 Oct 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "clown", 
+      "text": "He ido en varias oportunidades y tanto el lomo como el pollo salen  ricos y la porci\u00f3n es abundante en relaci\u00f3n al precio est\u00e1 muy bueno, siempre nos atiende el mismo mozo y se esmera en su atenci\u00f3n, el servicio es  bueno!!"
+    }, 
+    {
+      "date": "19 Abr 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Francin", 
+      "text": "La carne es muy buena. Tiene buena relaci\u00f3n precio calidad."
+    }, 
+    {
+      "date": "10 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CRUSTY", 
+      "text": "En general, me parece muy bueno el servicio, no miento si digo que por el precio es de lo mejorcito por Corrientes, pero pedi si el pollo podia ser hecho sin piel, y me dijeron que no, las papas fritas, estaban muy mojadas por el aceite (aceitosas), y eso paso cada vez q las pedi, y pedi un pure de calabaza y estaba agrio, como si la calabaza hubiese quedado en el agua todo el dia cerca del calor. Pero no tengo quejas mayores, de hecho es muy recomendable por sus carnes."
+    }, 
+    {
+      "date": "22 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "lauryta1", 
+      "text": "tranqui"
+    }, 
+    {
+      "date": "23 Ago 2006", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "keisersoze", 
+      "text": "Me cobraron recargo de cincuenta centavos por el aceite de oliva para condimentar la ensalada. \r\nEso me exime de todo comentario."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "25 Feb 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Ferhedio", 
+      "text": "Muy buena calidad de la comida, el servicio es muy bueno tambi\u00e9n y el ambiente es familiar y tranquilo. Para pasar una cena o almuerzo como la gente."
+    }, 
+    {
+      "date": "14 Mar 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mbentin", 
+      "text": "Excelente lugar. \r\nRecuerdo a quien nos atendi\u00f3, muy atento y agradable. \r\nLa carne maravillosa, fue el \u00fanico sitio donde me sirvieron la carne al t\u00e9rmino exacto al que la ped\u00ed. \r\nMerece mayores precios. Saludos."
+    }
+  ]
+}

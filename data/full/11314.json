@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "3 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ilvita", 
+      "text": "qu\u00e9 ricos los panes caseroo !! comimos super bien, las chicas son reamables"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "23 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Augustony", 
+      "text": "Algo realmente nuevo y diferente en cocina! Me gust\u00f3 la atenci\u00f3n y lo original y abundante del men\u00fa. El lugar tiene encanto aunque deber\u00eda crecer un poco, est\u00e1 para m\u00e1s."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "16 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "RodrigoBA", 
+      "text": "Es la primera vez que visito este lugar, los platos son abundantes y la atenci\u00f3n de las camareras es muy buena. La relaci\u00f3n calidad-precio-cantidad es normal, ni caro ni barato."
+    }, 
+    {
+      "date": "25 Dic 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elchefmar", 
+      "text": "Uno de los pocos restaurantes abiertos un 25 de diciembre al mediod\u00eda. Ofrece buenos platos, abundantes y bien preparados. El pollo con almendras viene con muchas almendras, el arroz con camarones, con muchos camarones. Como tiene que ser. los arrolladitos de primavera un poco aceitosos y con poco relleno. El ambiente es el t\u00edpico de un restaurante chino. Como contra la ropa vuelve a casa impregnada de olor a comida. El servicio es normal, un poco lento, atendido por gente joven, poco profesional y vestida con ropa de calle, lo que lo hace sumamente informal. El precio es accesible."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "9 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "AliceInwonderland", 
+      "text": "fui a comer ayer y la verdad nos encanto como nos atendieron, en otras oportunidades fui con amigos y tambien, no hubo decepcion, comida rica para nada grasosa, todo en su punto!!"
+    }
+  ]
+}

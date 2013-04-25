@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "26 Mar 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gp971", 
+      "text": "Muy buena comida y la pamplona est\u00e1 espectacular."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "2 Oct 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mbentin", 
+      "text": "Fui de visita a Buenos Aires y me llev\u00e9 una maravillosa impresi\u00f3n de este tradicional restaurante.\r\nSaludos desde Per\u00fa."
+    }, 
+    {
+      "date": "27 Ago 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "dgonzale", 
+      "text": "Conocimos este restaurante hace 5 a\u00f1os y sigue teniendo la mejor pamplona de Buenos Aires. Realmente excelente!"
+    }, 
+    {
+      "date": "20 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "chango1", 
+      "text": "Muy buenos los ri\u00f1ones a la tela."
+    }
+  ]
+}

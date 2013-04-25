@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "1 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "juliancolombo2", 
+      "text": "La pizza es rica y r\u00e1pida, ni muy barata ni muy cara, pero es un lindo lugar en La Plata para comer una pizza"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "28 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Mal_Vessina", 
+      "text": "Fuimos a almorzar con un amigo, por recomendaci\u00f3n de otro amigo, y nos encanto!! Comimos una pizza grande, mitad Primavera, mitad Funghi y realmente la calidad de los productos es excelente! Muy buenos sabores, los precios son accesibles (quiz\u00e1s gastamos un poco dem\u00e1s por las cervezas que compramos, pero los precios de las bebidas tambi\u00e9n est\u00e1n bien), la atenci\u00f3n es buena, el mozo siempre nos atendi\u00f3 bien y r\u00e1pido, a pesar que estaba casi lleno el lugar. Super recomendable! cuando volvamos a La Plata, volveremos a Joaquinito."
+    }
+  ]
+}

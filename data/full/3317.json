@@ -1,0 +1,938 @@
+{
+  "malos": [
+    {
+      "date": "19 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "ftijeras", 
+      "text": "comida cara escasa y sin sabor, de los Peores lugar que comi en mi vida. no recomendable."
+    }, 
+    {
+      "date": "28 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "abarsellini", 
+      "text": "La comida regular. YO cocino mejor en casa. Falto de sabor y como dice un comentario un pelo escaso. La panera INCOMIBLE, pan de antes de ayer humedo y gomoso. La moza intenta pero le falta claramente profesionalismo. NO vuelvo ya que aun con el descuento hay mejores opciones."
+    }, 
+    {
+      "date": "4 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "roxpab", 
+      "text": "El servicio de mesa es p\u00e8simo, hubo comensales que recibieron la entrada antes que los cubiertos y la bebida. La atencion super lenta, motivo por el cual ni siquiera pedi postre. La comida tan casera como hecha en la casa de cualquiera, literalmente, de cualquiera. Ademas, escasa. No vuelvo ni con el descuento."
+    }, 
+    {
+      "date": "9 Oct 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Clauscar", 
+      "text": "Un desastre!! La comida deja bastante que desear. El ojo de bife era duro y super grasiento.La carta de vinos consta de cuatro vinos de los cuales no tienen todos. El servicio: pesimo. Trajeron el vino equivocado y ya abierto a la mesa.La camarera tenia las u\u00f1as pintadas de rojo, todas despintadas y demasiado largas. Nunca trajeron el pan, ni siquiera nos lo ofrecieron. El ambiente es pauperrimo: servilletas de papel, cubiertos tramontina demasiado usados, vajilla de diferentes tipos. Para no pisar nunca mas!!"
+    }, 
+    {
+      "date": "28 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "manuu", 
+      "text": "Tardaron como media hora, dando espectativas de una gran comida. La misma no fue cumplida: los sorrentinos duros y sin relleno, la carne totalmente carbonizada.\r\nLa moza no se inmuto cuando vio uno de los platos sin tocarse."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "21 Ago 2012", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Hab\u00eda intentado ir en otras ocasiones en horarios com\u00fanes para comer pero siempre estaba cerrado y reci\u00e9n la cuarta vez fue la vencida. La verdad que la comida es regular y no es nada de otro mundo. Por la zona hay mejores opciones para poder comer."
+    }, 
+    {
+      "date": "18 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Elver", 
+      "text": "Lindo lugar para ir en pareja, muy intimo y con rica comida a un buen precio.\r\nLa moza hiper profesional, el lugar lindo, la comida muy rica.\r\nSi bien en general el lugar me gust\u00f3 hay un par de cosas que me gustaria recalcar:\r\n1- La carta es DEMASIADO corta, creo que hay 3 entradas y 6 platos, 3 de pastas.\r\n2- Es un tanto pretencioso. \"Ensalada de hojas verdes y moradas, entreveradas con mozzarela\"... sarasa, son un bistr\u00f3 de barrio, jueguense un toque mas con los platos y no traten de venderlo desde la descripcion.\r\n3- Las porciones son extremadamente escasas (6 agnolotis peque\u00f1os)"
+    }, 
+    {
+      "date": "15 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 2
+      }, 
+      "user_name": "Maurooo", 
+      "text": "Es un lugar distinto, una t\u00edpica casona vieja de techos altos, adaptada, lo cual le da un ambiente particular. Todo muy casero y a la vez alternativo pero familiar. La atenci\u00f3n es excelente y la carta llama la atenci\u00f3n, aunque la ejecuci\u00f3n de la cocina decepciona."
+    }, 
+    {
+      "date": "15 Sep 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Eater", 
+      "text": "El sabor de la comida es riqu\u00edsimo pero el problema es la cantidad. Los platos son demasiado escasos. La ambientaci\u00f3n es c\u00e1lida, ideal para ir en pareja, lo \u00fanico malo es que te entra fr\u00edo estando cerca de la ventana, ya que es una casa antigua. Los ba\u00f1os dejan que desear."
+    }, 
+    {
+      "date": "23 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "Taviolo", 
+      "text": "Esta bien. Igual, es como que te vas con gusto a poco, y no es que este mal, sino que...esta como para mas pero se queda a medio camino. Le faltan 5 para el peso. El lugar es lindo, sobrio y tranquilo. El servicio logrado y esmerado por parte de sus 2 mosas. Ahora...la comida: Aca es donde se queda corto. Para empezar una carta con 4 entradas y 5 principales. No mas de 10 etiquetas, casi todas tintas. 6 sorrentinos/raviolones de ciervo escasos para un plato principal. Con un poco mas de bocho pones 2 entradas y 2 principales mas, y en el plato esterella, 2 sorrentinos mas y listo, ganaste ! Pero no, lamentablemente no. De todas formas es seguramente un lugar al que le daremos una segunda oportunidad y, ojal\u00e1 nos sorprenda gratamente."
+    }, 
+    {
+      "date": "22 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Fullman2002", 
+      "text": "Fuimos un viernes, es dif\u00edcil para estacionar cerca, calle muy oscura y sin vigilancia aunque aparentemente no hab\u00eda nada raro ya que hac\u00eda mucho fr\u00edo para estar en la calle. El lugar afuera muy poco iluminado y adentro poca luz pero agradable, el servicio bueno, las chicas amables, el plato m\u00e1s caro estaba fuera del men\u00fa y nos enteramos el precio con la cuenta. La panera es mala y el servicio p\u00e9simo. La comida es buena sin ser para nada abundante. Los precios son altos. Con el descuento del 40% todos los d\u00edas y mejorar algunos detalles ser\u00eda un lugar para volver. Tal como est\u00e1 no volvemos, para el nivel de precios que tienen hay ofertas mucho mejores."
+    }, 
+    {
+      "date": "8 Jul 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gustavete", 
+      "text": "Muy rica la comida y muy buena la atenci\u00f3n. Los platos en la medida justa buena presentaci\u00f3n. El ambiente c\u00f3modo, muy tranquilo. Vamos a pasar seguido por el lugar!!!"
+    }, 
+    {
+      "date": "25 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 3
+      }, 
+      "user_name": "mpacheco", 
+      "text": "Lugar ideal para ir a relajarse y disfrutar de platos no convencionales de buena terminaci\u00f3n y un sabor exquisito. No ir si queres comer una milanesa napolitana, pero s\u00ed para probar gustos diferentes. Ambiente muy calido y silencioso, atenci\u00f3n personalizada y amable. La carta y los vinos son escuetos pero suficientes. La combinaci\u00f3n pastas y salsas sugerida en la carta o en los platos del dia, es ideal para romper la rutina de las casas de pastas."
+    }, 
+    {
+      "date": "21 May 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Cook_noe", 
+      "text": "Es un lugar con cero pretensiones, muy casero, muy c\u00e1lido, para pasar una linda noche rom\u00e1ntica si a uno no le molestan ciertos detalles de la ambientaci\u00f3n (un tanto amateur).  Comimos pastas, ricas, un poco flojas de saz\u00f3n.  El volc\u00e1n de chocolate estaba bien, la creme brulee de lim\u00f3n un chasco.  La atenci\u00f3n esmerada, nos trajeron todo en tiempo."
+    }, 
+    {
+      "date": "20 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Rama2", 
+      "text": "Fui a cenar con mi novia el miercoles siguiendo los comntarios de aqui. La mitad de la carta de comida no la tenian (lo que los 2 queriamos no estaba disponible), lo mismo ocurrio con los vinos (escasisima seleccion y sin stock de mas de la mitad) y, para no ser menos, lo mismo sucede con los postre. Nuestra eleccion no estaba.\r\nCreo que podrian poner un poco m\u00e1s de \u00e9nfasis en, o bien cambiar la carta, o tener los productos para que ofrecen en su menu.\r\nLa calidad no es mala, pero es una pena comer lo que tienen y no lo que uno quiere!"
+    }, 
+    {
+      "date": "5 Abr 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Gatogourmet", 
+      "text": "Estuvimos muy comodos, lugar tranquilo, musica baja, la atencion personalizada de Mariano te hace sentir como en casa, son para escuchar sus sugerencias. La comida riquisima, los ravioles fungi imperdibles. Una carta cortita pero que te dan ganas de probar todo. En resumen me encanto.Seguro volvemos."
+    }, 
+    {
+      "date": "19 Feb 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "AJO52", 
+      "text": "Ambiente muy intimista, comida bien casera, pociones sustanciosas y bien presentadas.\r\nPodr\u00eda mejorar el tema de la m\u00fasica en quiz\u00e1s bajar un poco el volumen y obviar la radio por m\u00fasica m\u00e1s light.\r\nLa atenci\u00f3n muy buena.\r\nCarta de vinos algo cara y exclusiva.\r\nEl lugar pese a ser una casa vieja reciclada y ambientada para restoran est\u00e1 logrado con detalles bien caseros.\r\nMu originales las cartas, ya que las alcanzan seg\u00fan lo que vaya a comer, es decir no traen una biblioteca para leer y est\u00e1n realizable en forma artesanal.\r\nEste lugar es lo que recomendar\u00eda un m\u00e9dico para comer en PAZ."
+    }, 
+    {
+      "date": "13 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Lycia", 
+      "text": "Pedimos una entrada que cost\u00f3 18$y ven\u00edan dos albondiguitas,2o3 tomatitos secos y alguna cosa indefinida mas; pobre e insulsa. Los platos principales(pastas)estuvieron correctos. La carta de vinos es muy limitada y los precios son muy altos para lo que ofrecen;el servicio es netamente malo(servilletas de papel,pimentero de supermercado,panera pobr\u00edsima, ba\u00f1os poco iluminados,casi tengo que pedir una linterna).La mitad de los platos principales no figuraban en la carta,por lo cual la moza los verbaliz\u00f3 c\u00f3mo si estuviera dando una lecci\u00f3n. C\u00f3mo si fuera poco no aceptan tarjetas."
+    }, 
+    {
+      "date": "17 May 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "CarrerasBeto", 
+      "text": "Com\u00ed muy a gusto con una muy buena atenci\u00f3n de su due\u00f1o pero no asi de las camareras. Disfruto cada vez que voy."
+    }, 
+    {
+      "date": "13 Mar 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Cris32", 
+      "text": "Fuimos porque vivimos en la zona. Cenamos raviolones fungi y ojo de bife, un poco duro. Buena la atenci\u00f3n aunque un poco demorada. Muy caros los vinos por ser tan escueta la oferta."
+    }, 
+    {
+      "date": "16 Ene 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "Alejo65", 
+      "text": "El lugar es peque\u00f1o, bien de barrio, atendido por los due\u00f1os que se esmeran en la atencion. Comida casera carta de vino escasa y precio un poco elevado para lo que es. Recomendable para esos dias que se queire salir del paso"
+    }, 
+    {
+      "date": "27 Oct 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "LeanPaezSaura", 
+      "text": "Buena atenci\u00f3n, aunque los platos tardaron un poco. La comida est\u00e1 bien sin ser gran cosa, pero es un lugar para volver"
+    }, 
+    {
+      "date": "25 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Rocinante", 
+      "text": "Excelente atenci\u00f3n. El local es relajado y las pastas muy buenas. El crumble de manzanas y peras con helado, para no perd\u00e9rselo. Mariano, el due\u00f1o del local, te hace sentir como en casa."
+    }, 
+    {
+      "date": "18 Sep 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Richigolf", 
+      "text": "Muy buena opci\u00f3n para disfrutar en pareja o con amigos, los platos est\u00e1n muy logrados. El due\u00f1o muy buena onda. Sugerencia: que las chicas que atienden est\u00e9n m\u00e1s informadas sobre la carta y como estan elaborados los platos. Volveremos a probar las pastas!!!. Saludos"
+    }, 
+    {
+      "date": "12 Sep 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sacchi", 
+      "text": "Lugar c\u00e1lido, tranquilo, sin ruido y buena cocina. Carta de vinos escasa. Atenci\u00f3n buena.\r\nPlatos elaborados frscos.\r\nMuy buen postre"
+    }, 
+    {
+      "date": "21 Ago 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "MYA", 
+      "text": "La c\u00e1lida atenci\u00f3n de Mariano,el propietario, su entusiasmo al recomendar los platos, su esmero en hacernos sentir c\u00f3modos, suman mucho y merecen un halago. La comida es rica,platos elaborados y originales, en porciones adecuadas, los postres son muy buenos y los vinos tienen un precio por dem\u00e1s atractivo.Dos sugerencias: panera(dale una vuelta de tuerca, agregale algo) y un poco de mayor calidad o gusto en el queso rallado (algo insulso) Mejorar\u00eda un poco la ambientaci\u00f3n y la decoraci\u00f3n del lugar. Vale la pena conocerlo. Ya hemos ido dos veces y volveremos. Mariano sos un capo!"
+    }, 
+    {
+      "date": "13 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rudolf", 
+      "text": "Simplemente excelente!. El broche de oro fue cuando pedimos la cuenta (sin haber pedido postre) y nos trajeron un  marquisse de degustaci\u00f3n como atenci\u00f3n de la casa (que adem\u00e1s estaba buen\u00edsimo...!)"
+    }, 
+    {
+      "date": "8 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mashitso", 
+      "text": "pequenio lugar acogedor sin pretenciones. exelente la atencion del duenio que trata de estar en todos los detalles. \r\ntanto la entrada como los platos los elegimos por recomendacion. exelente todo. platos caseros con un toque de elaboracion. sin duda volveremos."
+    }, 
+    {
+      "date": "28 Jun 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "elaceitoso", 
+      "text": "Una propuesta muy simple, en un ambiente sencillo, sin pretensiones. Las pastas muy ricas. Los postres bien. Es para quien quiere salir de casa sin necesidad de ir a un lugar de moda o muy estructurado. La relaci\u00f3n precio beneficio es acertada. El due\u00f1o se acerc\u00f3 para ver como hab\u00eda salido todo. Nos pareci\u00f3 muy c\u00e1lido y familiar."
+    }, 
+    {
+      "date": "27 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mkarenm", 
+      "text": "Es un lugar peque\u00f1o pero muy c\u00e1lido. La atenci\u00f3n excelente. La comida tiene un toque casero, muy bien presentada y muy gustosa. Volveremos!"
+    }, 
+    {
+      "date": "23 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "fersaku", 
+      "text": "Es una construcci\u00f3n antigua decorada con sobriedad, poco sofisticada en lo visual, pero con iluminaci\u00f3n suave y m\u00fasica tranquila, se puede conversar sin levantar la voz,te atienden de primera, la comida es original y elaborada; los precios son muy razonables. Lo recomiendo para cenas en pareja o grupos peque\u00f1os, no para reuniones de muchas personas o grandes comilonas."
+    }, 
+    {
+      "date": "16 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "CasaPalermo", 
+      "text": "excelentes las pastas...es la primera vez que iba...y me gusto ...pero es fea la ubicaci\u00f3n...y me cost\u00f3 bastante poder estacionar por ahi...la camarera tardo bastante en tomar nuestro pedido...pero asi y todo la comida lo valio"
+    }, 
+    {
+      "date": "15 May 2009", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "fernandaad", 
+      "text": "Es un lugar para poder charlar tranquilo demuentras uno cena...un ambiente agradable, se tardo mucho en recibir el pedido, la carta de comidas es muy peque\u00f1a por esp esperaba mas de los sabores del plato principal.. pero el postre (marquise de chocolate) fue exclente!!"
+    }, 
+    {
+      "date": "8 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "sabs", 
+      "text": "Destacada la amabilidad de la atenci\u00f3n..! El due\u00f1o se acerca en persona para presentarse y preguntar si has sido bien atendido. La comida es muy rica y a precios \u00f3ptimos, si bien tiene una carta acotada; pero las propuestas son interesantes. El ambiente es tranquilo con m\u00fasica agradable, muy recomendable para ir en pareja."
+    }, 
+    {
+      "date": "6 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mgy86", 
+      "text": "La verdad que es un lugar muy intimo donde el due\u00f1o te hace sentir confortable. La carta (tanto de comida como de vinos) no es muy amplia pero es de muy buena calidad. Con certeza, volvere a probar el living con amigos y un buen vino."
+    }, 
+    {
+      "date": "17 Mar 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "kurco", 
+      "text": "Exquisita atenci\u00f3n. Un espacio encantador para conversar con amigos, \u00edntimo y agradable. Recomiendo reservar el living (hasta 6 personas) para tener mayor privacidad. El due\u00f1o-chef, un tipo encantador."
+    }, 
+    {
+      "date": "14 Feb 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "mig_iba", 
+      "text": "Los platos son muy bien elaborados. Los ravioles con hongos excelentes. La atenci\u00f3n es muy cuidada, esmerada pero no cargosa. La carta no es muy variada pero vale la pena ir."
+    }, 
+    {
+      "date": "4 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eugezava", 
+      "text": "El lugar es muy lindo, tranquilo, espectacular para ir en pareja y pasarla muy bien, la musica genial y la atencion es muy personalizada. \r\nComo bien dijeron muchos, la comida es muy buena pero podria ser mas abundante al igual que la carta.\r\nPersonalmente puedo dar fe que la parte de carnes es muy rica, salvo las papas que ya vienen condimentadas... eso estaria bueno cambiarlo\r\nEn sintesis, para mi es un 8 y voy a volver xq me encanto el lugar. \r\n\r\nMAS QUE RECOMENDABLE"
+    }, 
+    {
+      "date": "6 Sep 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Lau_Fede", 
+      "text": "Quedamos muy conformes con la entrada de tapeo, el pan casero y los platos. El postre volc\u00e1n de chocolate, riqu\u00edsimo. Muy c\u00e1lida la atenci\u00f3n, parece un lugar de encuentro de amigos y te hacen sentir que sos uno m\u00e1s del grupo. Un poco escasa la oferta de vinos pero hay para todos los presupuestos."
+    }, 
+    {
+      "date": "8 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "poesiarock", 
+      "text": "Todo muy bueno! La comida es muy rica pero comparto la opinion gral de que los platos podrian ser un poquito mas abundantes, tambien estaria bien que amplien la variedad de la carta. El apple cumbre una delicia! Tanto las mosas como el due\u00f1o son muy amables. Para volver."
+    }, 
+    {
+      "date": "17 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "miuchi", 
+      "text": "El lugar es muy agradable, el servicio fue personalizado, el menu es reducido pero todo lo que comimos estaba muy bueno, comida casera y simple. Un lugar de barrio que vale la pena darse una vuelta aunque sea una vez!"
+    }, 
+    {
+      "date": "15 Jul 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "kamix", 
+      "text": "Excelente lugar, sencillo, bien ambientado, sin pretensiones. Se pone \u00e9nfasis en la atenci\u00f3n y el servicio. La carta es acotada pero a la vez amplia como para satisfacer todos los gustos. Mariano, chef y propietario, se mostr\u00f3 muy amable y atento en todo momento. Voy a volver."
+    }, 
+    {
+      "date": "28 Jun 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "caludio", 
+      "text": "Un lugar muy ameno con platos muy buenos y econ\u00f3micos. La carta es un poco reducida, al igual que las porciones, pero la comida es muy buena. Buena atenci\u00f3n y muy linda la m\u00fasica que ponen (sobre todo la brasilera).Deber\u00edan cambiar algunos detalles como la limpieza de los manteles, las bebidas (agua en botella de pl\u00e1stico, gaseosa en latita), ampliar un poco la carta y las porciones, y aceptar tarjetas. Cambiando s\u00f3lo eso el lugar ser\u00eda diez puntos. Igualmente es para volver y recomendar. Un comentario aparte para Mariano que es muy simp\u00e1tico."
+    }, 
+    {
+      "date": "21 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "yotiano", 
+      "text": "El lugar es muy lindo, ideal para ir en pareja, nosotros comimos pastas, realmente excelentes, el problema es que son porciones muy reducidas, ese es el motivo por el cual no volver\u00eda."
+    }, 
+    {
+      "date": "20 Jun 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Adrasti", 
+      "text": "Excelente la pasta casera que hacen!, el clima es agradable y silencioso. La unica contra es que las servilletas son de papel! eso resta mucho. Pero a pesar de eso, se come muy bien y relajado."
+    }, 
+    {
+      "date": "17 May 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "ayaxtelamonio", 
+      "text": "Un lugar que te lo RECOMIENDO, asi con may\u00fasculas,de punta a punta todo de primera calidad y los precios son muy acomodados.\r\nEl pan casero,muy rico, el VINO NEWEN MERLOT espectacular,los tomates confitados de la entrada de lo mejor,LOS RAVIOLONES FUNGHI CON SALSA FUNGHI anda y probalos NO TE VAS A ARREPENTIR, igual de recomendables los raviolones de espinaca y ricota con salsa de puerro, los postres creme brulee y la tarta de peras y manzanas con helado tambi\u00e9n excelentes.\r\nP\u00e1rrafo aparte el due\u00f1o, Mariano, anfitri\u00f3n digno de ser conocido recomiendo escuchar sus sugerencias. TENES QUE IR.-"
+    }, 
+    {
+      "date": "27 Mar 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Manguetown", 
+      "text": "Cataldo es uno de esos lugares de te hacen tener ganas de abrir un restaurante. Chiquito, c\u00e1lido, el due\u00f1o muy simp\u00e1tico. Los varenikes de papa y cebolla son los mejores que comi en Buenos Aires. Los ravioles funghi tambi\u00e9n son muy ricos. As\u00ed tambi\u00e9n el pan casero, calentito. La atenci\u00f3n del due\u00f1o es muy buena, pero la de los mozos no siempre. Para ir seguido y pasar y lindo momento relajado con amigos o familia, seguro."
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Sabrinaa", 
+      "text": "El lugar le hace bien a caballito donde las propuestas m\u00e1s \u00edntimas y sabrosas escasean. La comida estuvo rica (comimos varenikes y ravioles de hongos), volveremos para probar las otras alternativas."
+    }, 
+    {
+      "date": "25 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "luisignacio", 
+      "text": "Excelente e intimista propuesta. Lugar discreto y calido, excelente atencion y cordialidad del due\u00f1o, buena comida y buen precio"
+    }, 
+    {
+      "date": "12 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "rafette", 
+      "text": "Una sorpresa en caballito, la comida excelente en relacion al mas que modico precio (1 entrada 2 principales 1 postre 2 gaseosas = $50), atendido por su due\u00f1o, simpatiquisimo, un plus. muy casero e intimo, ideal para parejas o grupos chicos."
+    }, 
+    {
+      "date": "15 Dic 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "eluh", 
+      "text": "muy buen clima atendido por su simpatico  propietario.la comida casera muy rica, fajitas de entrana y el crumble de peras y manzana excelente.\r\nbuen precio."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "6 Jul 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lily07", 
+      "text": "fui con amigas....guiada por los buenos comentarios..y la verdad me parecio muy lindo y calido.La comida muy rica! el servicio muy amable...me fui satisfecha!"
+    }, 
+    {
+      "date": "19 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fiovitelli", 
+      "text": "Atenci\u00f3n excelente, muy personalizada y mil puntos para la comida. Un lugar de barrio, muy tranquilo y muy nien ambientado!"
+    }, 
+    {
+      "date": "8 Oct 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Nicorojo89", 
+      "text": "Ya fui varias veces a comer a cataldo, la oferta es corta pero a mi entender, es mejor calidad que cantidad. La comida es elaborada y fresca. \r\nLe agregaria un poco mas de cantidad a los platos principales. \r\nEl mayor punto en contra son los ba\u00f1os."
+    }, 
+    {
+      "date": "22 Sep 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "doraelisa", 
+      "text": "lugar encantador, muy intimista, exelentemente atendidos, con platos muy cuidados y unos postres deliciosos. Muy recomendable y desde ya que vamos a volver"
+    }, 
+    {
+      "date": "27 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "LauraLuna", 
+      "text": "Un lugar chiquito pero c\u00e1lido y lindo, RIQU\u00cdSIMA LA COMIDA, no muy abundante y la carta es bastante corta, pero tan gustosa que vale la pena. Muy buena la atenci\u00f3n. Es tranquilo y agradable, y con el descuento de GO es un regalo, para no dejar pasar."
+    }, 
+    {
+      "date": "17 Jun 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Nicorojo89", 
+      "text": "Un buen trato y comidas caseras innovadoras."
+    }, 
+    {
+      "date": "14 May 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Vicky85", 
+      "text": "Excelente ambiente, excelente atenci\u00f3n, excelente decoraci\u00f3n, excelente la comida. EXCELENTE."
+    }, 
+    {
+      "date": "14 Feb 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Kasca", 
+      "text": "muy buen lugar con excelentes platos y mejores postres. muy bien ambientado, calido y excelente atenci\u00f3n de Mariano, su due\u00f1o y chef. lo recomiendo sin lugar a dudas. los postres imperdibles."
+    }, 
+    {
+      "date": "19 Nov 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mesones", 
+      "text": "Un lugar acogedor, m\u00fasica agradable a volumen bajo... sin pantallas. Un men\u00fa con las opciones necesarias, de excelente calidad, especialmente las pastas. La atenci\u00f3n personalizada por parte del due\u00f1o del restor\u00e1n, un elemento a destacar. La carta de vinos no es muy exclusiva, pero la calidad es buena, y el precio excelente. Muy recomendable."
+    }, 
+    {
+      "date": "9 May 2010", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanchiflo", 
+      "text": "Excelente, atenci\u00f3n personalizada, calida no dan ganas de irse, cerramos el restaurante."
+    }, 
+    {
+      "date": "1 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chorqui", 
+      "text": "Soy cliente fiel del local y asi como defenestro a otros,este a quien puedo se lo recomiendo.no nos enga\u00f1emos, los platos son pocos pero seguro no van a encontrar milanezas con papas fritas. para que ofrecer 50 platos diferentes...? si con ofrecer 10 o 15 alcanza,ya que son todos espectaculares.encuentro en el lugar un equilibrio justo...decoracion, atencion, espacio, calidad, precio. Y ni hablar de Mariano Pico, se nota que el trato cordial y atento que tiene le nace de la persona que es y no por querer que vuelvas o gastes mas. es un lugar en el cual te sentis comodo."
+    }, 
+    {
+      "date": "9 Dic 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "nunoa", 
+      "text": "una experiencia para repetir.Debido a la ambientacion y musicalizacion del lugar, son un complemento perfecto para compartir exquisitos platos con amigos.La atencion del personal hace sentir al comensal estar en su casa.recominedo cataldo en un 100%!"
+    }, 
+    {
+      "date": "23 Sep 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Fergo1980", 
+      "text": "Ir a Cataldo es como visitar a un amigo. A metros de la puerta uno ya siente esa mezcla de relajaci\u00f3n y entusiasmo que genera este lugar. La comida y la atenci\u00f3n son excelentes. El ambiente, inmejorable. Es obligatorio comer los ravioles chinos a la plancha, la fajita de entra\u00f1a y todas las pastas. Finalmente, he de confesar que no recomiendo mucho el lugar por puro ego\u00edsmo. Lo quiero para m\u00ed solo. Pero bueno, nobleza obliga: Cataldo probablemente es el mejor restaurant de Caballito, y de los 10 mejores de su estilo en BsAs. No es ir a comer, es una experiencia de vida."
+    }, 
+    {
+      "date": "15 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "chavita", 
+      "text": "La mejor cantina de capital. Un capo el due\u00f1o. Muy bueno el helado tramontana. Precios super razonables"
+    }, 
+    {
+      "date": "7 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "JK_MERY", 
+      "text": "Un ambiente muy c\u00e1lido donde la musica acompa\u00f1a muy bien el momento y sumado a esto, la atenci\u00f3n personalizada del due\u00f1o lo hace un lugar \u00fanico y distendido, tanto para ir en pareja como con amigos. La especialidad de la casa son excelentes pastas caseras, tambien se puede optar por un tapeo muy rico y variados postres. Si bien la carta de vinos cuenta con distintos varietales, seria bueno que sumen algunas bodegas mas. \r\nSin duda, volveremos!!"
+    }, 
+    {
+      "date": "2 Ago 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mig_iba", 
+      "text": "Volv\u00ed a ir despu\u00e9s de un tiempo y veo que han tomado en cuenta en gran medida las recomendaciones de los usuarios. Cada d\u00eda se come mejor y en un ambiente muy grato."
+    }, 
+    {
+      "date": "26 Jul 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Marci", 
+      "text": "Un ambiente muy c\u00e1lido, sin barullo y con m\u00fasica suave en un volumen preciso. La comida es muy rica, sabrosa. Muy recomendables las pastas caseras, especialmente los ravioles chinos para empezar.\r\nMuy buena la atenci\u00f3n, un lugar agradable y c\u00f3modo de verdad sin lo \"afectado\" que tienen hoy muchos de los lugares palermitanos.Se disfruta en pareja o con amigos."
+    }, 
+    {
+      "date": "24 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "eljuanito", 
+      "text": "Me encanto, fuimos por la guia, y no nos decepcionaron ni los comentarios ni el lugar."
+    }, 
+    {
+      "date": "18 Jul 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "Susanne", 
+      "text": "C\u00e1lido lugar, sencillo sin pretensiones ,  la comida excelente !!!!, un lugar que genera ganas de volver, por la calidad de los platos y la cordial atenci\u00f3n Pra recomendar"
+    }, 
+    {
+      "date": "25 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "adriel", 
+      "text": "Visitar Cataldo es ir a la casa de un amigo.Ambiente c\u00e1lido,acogedor,cuidado en todos los detalles,atenci\u00f2n personalizada de su due\u00f1o Mariano,excelente chef que de s\u00f3lo describirte los platos ya los pod\u00e9s saborear.Precios incre\u00edbles para platos de cuidada elaboraci\u00f3n.Todo es bueno ;las fajitas de entra\u00f1a a la salsa de oporto,imperdible!al igual que el matambre con salsa de mostaza.Un cap\u00edtulo aparte para los ravioles de hongos. Y sus postres,un deleite para el paladar(el apple crumble y el volc\u00e1n de chocolate con helado son una exquisitez!)Qu\u00e9 m\u00e1s puedo decir,imposible perd\u00e9rselo!!"
+    }, 
+    {
+      "date": "13 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "empedocles2", 
+      "text": "Muy lindo lugar, c\u00e1lido y chiquito. Para ir en pareja. La atenci\u00f3n es muy buena y est\u00e1 muy bien ambientado.\r\nLa carta es chica pero saben hacer lo que ofrecen. Muy recomendable para los amantes de la comida italiana.\r\nOjal\u00e1 puedan expandirse un poco mas en el futuro."
+    }, 
+    {
+      "date": "5 Jun 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "pablomale", 
+      "text": "Excelente! No hago mas que ratificar todos los comentarios positivos. Es una perla en Caballito, deliciosa comida, s\u00faper calido el lugar, ideal parejas. Se puede dialogar, la iluminacion es perfecta, la comida sale r\u00e1pido (o te da esa sensacion) y siempre quer\u00e9s volver. 100% recomendable, vaya y despues me cuenta!"
+    }, 
+    {
+      "date": "5 Jun 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lean_racing", 
+      "text": "Un lugar de esos que tiene solo buenos aires, con el due\u00f1o que transmite buena energia acercandose a la mesa y comida excelente, totalmente recomendable"
+    }, 
+    {
+      "date": "30 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "juanyjesy", 
+      "text": "Sinceramente cumplio ampliamente mis espectativas, es uno de esos lugares perdidos en Bs. As. que te hacen preguntar por que no lo descubri antes. La comida es excelente, sabores caseros, y los aromas que salen de la cocina te transportan a otro mundo. Es ideal para ir en pareja, ya que tiene ambientes que dan intimidad, y tambien para ir con amigos y pasar un buen rato. El due\u00f1o es un tipo genial, que te hace disfrutar de la velada aun mas. Y la musica es de otro tiempo. Quedamos encantados, seguro volveremos, y con amigos. No pueden dejar de conocerlo."
+    }, 
+    {
+      "date": "13 May 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "lorelin", 
+      "text": "Muy buena la atencion, la comida exquisita, un lugar intimo para una cena en pareja o amigos, la musica suave para charlar, el due\u00f1o te atiende como un amigo!\r\nMuy recomendable, voy a volver!"
+    }, 
+    {
+      "date": "10 Ene 2009", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "leancar", 
+      "text": "Muy destacable la atencion y la calidad de la comida. La moza que nos atendio fue muy amable en todo momento sin ser cargosa. Al final nos hicieron degustar un postre extra sin cargo. Y el due\u00f1o-chef vino a preguntarnos si estaba todo bien y nos quedamos charlando un rato largo. La verdad que muy recomendable, precio normal y un lindo ambiente para una cena intima o una cena con amigos en la que se quiera charlar."
+    }, 
+    {
+      "date": "20 Dic 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "natanew", 
+      "text": "Realmente excelente!!! la atencion es muy buena atiende el due\u00f1o, la comida se hace esperar pero es muy buena, tienen una carta escueta, pero de buena calidad, recomendable 100%!!!\r\nEl lugar es chiquito pero el ambiente es confortable y de luces tenues, ideal para uan velada romantica."
+    }, 
+    {
+      "date": "30 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Lablonde", 
+      "text": "La comida es excelente, las pastas caseras tienen una masa re-livianita, realmente todo exquisito. Atendido por su dueno, que se desvive por atender y satisfacer al comensal. Es un lugar para ir en flia. o con amigos, donde se puede charlar sin gritar y a la vez escuchar musica muy buena (Aspen)."
+    }, 
+    {
+      "date": "15 Nov 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "mag12thorder", 
+      "text": "En 1\u00ba lugar destaco la atenci\u00f3n. Fui recibido por Mariano con una calidez muy especial, al final de la cena parec\u00edamos amigos. Las entradas, platos principales y postres \u00a1soberbios!. Tambi\u00e9s es de destacar el pan casero. Excelente la relaci\u00f3n precio-calidad. La pase muy bien y recomiendo el lugar. Volvere con amigos. Viernes y s\u00e1bados es preferible reservar."
+    }, 
+    {
+      "date": "2 Sep 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fernandaa", 
+      "text": "muy bueno todo, sinceramente quede muy contenta! y sobre todo llenisima!!!! jajajaaja\r\n\r\nla ambientacion es muy buena, calida! la atencion tambien.. la verdad me senti muy comoda..\r\n\r\nrecomiendo ese postre q es como una mousse de chocolate"
+    }, 
+    {
+      "date": "2 Ago 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "m_ang", 
+      "text": "Excelentes tanto la comida como la atenci\u00f3n de Mariano. Muy ricos vinos. Es un placer ir a cenar a Cataldo (y es genial que tengan delivery :)"
+    }, 
+    {
+      "date": "15 Jun 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "hamelina", 
+      "text": "El lugar me result\u00f3 encantador y la comida excelente. para volver. La unica recomendaci\u00f3n: deber\u00edan aceptar tarjetas de cr\u00e9dito."
+    }, 
+    {
+      "date": "30 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "sebacousin", 
+      "text": "Excelente lugar, muy especial y muy bien atendido, recomiendo Cataldo Ristorante, por su calidez y el ambiente que se crea. Ideal para cenar o degustar un buen vino."
+    }, 
+    {
+      "date": "30 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Lizzi", 
+      "text": "Un lugar c\u00e1lido, con atenci\u00f3n personalizada y extremadamente confortante.\r\nLa comida es excelente, recomiendo especialmente los raviolones fungi, generan adicci\u00f3n.\r\nUn lugar chico, c\u00e1lido y  con precios accesibles.\r\nALTAMENTE RECOMENDABLE"
+    }, 
+    {
+      "date": "22 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "fedejorge", 
+      "text": "Un lugar muy especial, ideal para la gente que disfruta de una exeletne cocina y atencion personalizada. Super recomendable!!!!"
+    }, 
+    {
+      "date": "10 May 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "julis", 
+      "text": "Lo conoci por excelentes comentarios y porque habitualmente tomo la linea 25 que pasa por la puerta y dije: QUIERO VENIR! No me equivoqu\u00e9! Nos encanto! El trato con Mariano(due\u00f1o)fue de primera. Se present\u00f3 muy amablemente,nos cont\u00f3 la historia del lugar, de la familia y charla que te charla, compartimos cafe. Lo super recomiendo! \r\nEs importante aclarar que los precios son muy economicos en funcion de la calidad de los productos y presentaci\u00f3n y elaboracion de los platos."
+    }, 
+    {
+      "date": "25 Abr 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "collo", 
+      "text": "comida de primera,sobre todo las pastas rellenas.Unparrafo aparte para el due\u00f1o,que te atiende como si fueses un dios.Realmente una perla en el barrio de Caballito"
+    }, 
+    {
+      "date": "8 Feb 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "susiferrero", 
+      "text": "Es un lugar agradable, \u00edntimo y a la vez familiar. Mariano es el perfecto anfitri\u00f3n"
+    }, 
+    {
+      "date": "10 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "natubregy", 
+      "text": "La cena estuvo deliciosa (todo bien casero y elaborado en el momento, sin esperar casi nada de tiempo). Mariano nos atendi\u00f3 super bien. El lugar es sumamente c\u00e1lido y tiene la opci\u00f3n de cenar en el patio, si toca una hermosa noche, o afuera en unas mesitas con bancos de madera que est\u00e1n b\u00e1rbaros (dando opci\u00f3n a fumadores). Nos deleit\u00f3 con un postre inventado por \u00e9l mismo que estaba \"para re chuparse los dedos\". Todo estuvo perfecto!!!.\r\nBon apetit siempre.\r\nnatalia"
+    }, 
+    {
+      "date": "6 Ene 2008", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "fi", 
+      "text": "Un ambiente muy placentero que ofrece algo inusual: descubrir la intensidad de nuevos sabores en un rincon de caballito que recuerda a europa."
+    }, 
+    {
+      "date": "1 Dic 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Prisca", 
+      "text": "Un lugar muy c\u00e1lido que raya en lo familiar invitando a disfrutar de una manera muy relajada. La carta es corta y contundente con una fuerte variedad de etnias expresadas en sus sabores. \r\nLa relaci\u00f3n precio-producto refleja una calidad m\u00e1s que proporcional al precio. En cuanto al servicio sorprende la atenci\u00f3n a cargo del due\u00f1o!"
+    }, 
+    {
+      "date": "15 Sep 2007", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "gegen18", 
+      "text": "Llegu\u00e9 de casualidad y la verdad es que no me quer\u00eda ir. Comimos muy bien y nos atendi\u00f3 personalmente el due\u00f1o, como el las cantinas  de Italia. Para recomendar."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "malos": [
+    {
+      "date": "20 Ago 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "indiecks", 
+      "text": "La atencion es mala.\r\nLa pizza es pesima, parece una pre-pizza hecha sin muchas ganas ni tiempo."
+    }, 
+    {
+      "date": "1 Jul 2007", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "drka", 
+      "text": "La atenci\u00f3n es mala. Es la primera vez que el due\u00f1o te trata peor que los mozos, el ruido es insoportable, por lo menos la comida zafa (un poco). \r\nSe llena porque en once solo hay 2 pizzerias kosher. Horrible lugar, no lo recomiendo para nada!"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "alessio.aguirrepimen", 
+      "text": "La comida es buena; al precio superior que siempre tenemos que pagar por Kasher, lamentablemente. \r\nNo hay jarrita para Netil\u00e1, cosa muy mala."
+    }, 
+    {
+      "date": "18 Jul 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "gogo", 
+      "text": "Buena pizza kosher, es el lugar donde mejor la hacen.\r\nBuen sabor, parecida al estandar tradicional.\r\nSobresale la de fugazzeta con queso.\r\nEl servicio es muy simple.\r\nEl ambiente es sencillo, agradable, aunque sobresale el \"ruido\" de las conversaciones."
+    }, 
+    {
+      "date": "1 Mar 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Mito", 
+      "text": "Muy buena las pizzas y tambi\u00e9n las pastas. Recomiendo la fugazzeta."
+    }
+  ]
+}

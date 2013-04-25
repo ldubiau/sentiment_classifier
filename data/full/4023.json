@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "28 Abr 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "mightym", 
+      "text": "buena"
+    }, 
+    {
+      "date": "30 Abr 2010", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "narcisadany", 
+      "text": "lindo lugar para merendar, justo en una esquina donde pega el sol. Lo que sirven est\u00e1 bien, pero la atenci\u00f3n podr\u00eda mejorar."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "3 Abr 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "degustacion deluxe", 
+      "text": "un lugar calido para merendar o comer rapido, la atencion de los chicos es excelente, muy buena onda!!"
+    }
+  ]
+}

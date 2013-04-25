@@ -1,0 +1,36 @@
+{
+  "malos": [
+    {
+      "date": "21 Oct 2007", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 1
+      }, 
+      "user_name": "pauli_lds", 
+      "text": "La picada de 6 ingredientes es un enga\u00f1o (poca cantidad) y el sandwich no tenia casi nada de pollo, el tomate estaba feo y el pan viejo. \r\nNote que bajo muchisimo la calidad con respecto a las otras veces que fui."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "3 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 2
+      }, 
+      "user_name": "julietayvasco", 
+      "text": "Fuimos con el cup\u00f3n de Oleo Deals. El lugar de noche parece un bar de trampa. Hay que reservar con 48hs de anticipaci\u00f3n, HAGANLO poque sino se pudre: a mi me tomaron la reserva en el d\u00eda despu\u00e9s de haber implorado por un evento, y cuando llegamos estaba vac\u00edo. Igual muy buena predispoci\u00f3n del mozo dandome una mano con el tema de la reserva, y luego igual en la cena. \r\nAbundantes y buenos los sandwiches de lomito, aunque escasa la porci\u00f3n de papas. Buena opci\u00f3n para cenar de paso."
+    }, 
+    {
+      "date": "10 Feb 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "pablovlar", 
+      "text": "Un lugar bastante bueno, el lomo diego (con jamon y queso) estaba bien aunque un poco seco. Es destacable que tienen una cerveza artesanal de la casa que estaba bastante bien, ademas las promociones son accesibles. En definitiva un restaurant de paso que cumple con lo que dice."
+    }
+  ]
+}

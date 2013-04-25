@@ -1,0 +1,24 @@
+{
+  "excelentes": [
+    {
+      "date": "19 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "btk", 
+      "text": "Muy buena atencion y la mejor pizza de Lomas."
+    }, 
+    {
+      "date": "24 Sep 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "chonchex", 
+      "text": "Siempre pido en esta pizzer\u00eda a domicilio y son excelentes las pizzas."
+    }
+  ]
+}

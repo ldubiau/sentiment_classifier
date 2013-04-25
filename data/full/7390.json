@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "6 Ago 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "PGuerra", 
+      "text": "Para disfrutar al mediod\u00eda en Tigre! La comida tiene precios muy razonables, porciones generosas y muy sabrosas. Excelentes las empanadas y las minutas (no hay platos muy elaborados). Recomendable el lomito completo.\r\nSigo yendo por la calidad de la comida, porque si fuera por la atenci\u00f3n.... Mamita!!!"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "17 Abr 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "NIKUY", 
+      "text": "Muy buena la comida, platos abundantes y a muy buen precio, la ambientacion es rustica pero acogedora, la atencion es regular. es un buen lugar para recomendar para una tarde en tigre"
+    }, 
+    {
+      "date": "2 Abr 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "hochr", 
+      "text": "Muy buena la comida, tanto las empanadas como la pizza."
+    }
+  ]
+}

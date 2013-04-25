@@ -1,0 +1,58 @@
+{
+  "malos": [
+    {
+      "date": "27 Feb 2009", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 1, 
+        "Comida": 1
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Fui a comer algo r\u00e1pido (pizza) y ped\u00ed una calabresa y me trajeron una capresse. La atenci\u00f3n, distante y desganada. Iluso, hice un pedido pensando que fue un error el tomar mal el pedido y ped\u00ed un delivery. Ped\u00ed una docena de empanadas con solo dos gustos. No solo que me trajeron cuatro gustos distintos, solo uno de los pedidos, sino que encima faltaba una empanada y me dijeron que la vaya a buscar. Nunca m\u00e1s..."
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "29 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Leonardus", 
+      "text": "Muy buena pizza, el lugar es tranquilo, de noche no suele haber mucha gente. Las empanadas son muy buenas."
+    }, 
+    {
+      "date": "12 Jul 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "malari", 
+      "text": "comi pizza rellena, es muy buena, la milanesa napolitana y las fritas tambien son ricas la porci\u00f3n de la milanesa es vastante grande."
+    }, 
+    {
+      "date": "27 Oct 2006", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "nicodos", 
+      "text": "Muy lindo lugar. Fui varias veces, ya que queda cerca de casa. Siempre d\u00e1 gusto volver."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "31 Ago 2006", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "Tito_de_Caba", 
+      "text": "Muy rico, lleg\u00f3 en veinte minutos, lo \u00fanico malo es que se moja un poco el papel y la caja en la que viene la milanesa. Tendr\u00eda que venir en blister."
+    }
+  ]
+}

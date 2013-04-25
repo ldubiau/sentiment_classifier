@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "9 Ago 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "figment", 
+      "text": "Fuimos 4 personas y nos encanto.  No fue comodo, xq no habia gente, tenian la calefaccion rota y hacia mucho frio.  Fuera de eso estuvo muy bien.  Le pedimos al cheff que nos recomiende diferentes platos para ir probando un poco de cada cosa, y la verdad es que fue excelente.  En otro momento pedimos delivery y fue malo.  Lo recomiendo para ir a comer ahi."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "8 Sep 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "cloper", 
+      "text": "Excelente desde todo punto de vista. PEque\u00f1o el lugar, pero super calido. LA comida es de primera en cuanto a frescura y preparaci\u00f3n. Muy buen ceviche, excelentes rolls apanados. Todo riquisimo. Muy buena alternativa para esta zona. Ir\u00e9 mil veces."
+    }, 
+    {
+      "date": "18 Jul 2012", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "Molidan", 
+      "text": "Excelente!! De lo mejor en la zona de Las Lomas, Horqueta etc... \r\nEs fusi\u00f3n, ex sushiman/cocinero Sipan. todo 10 puntos, probamos un poco de todo."
+    }
+  ]
+}

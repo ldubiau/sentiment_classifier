@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "14 Mar 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "marcelo270846", 
+      "text": "estaba vacio. solo ocupada mi mesa y 3 mas. le pedi una suprema napolitana y me trajo una milanesa de carne. los mozos un desastre. nunca volvere"
+    }, 
+    {
+      "date": "12 Jul 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "PechiyDipa", 
+      "text": "Inevitablemente al ir a este lugar, se lo compara con su hom\u00f3nimo de pastas. Y La Tanita Milanesas no te deslumbra por su comida como lo hace La Tanita Pastas. Pero no dejar de ser un buen lugar para comer unas cuantas variedades de milanesa. Es barato y peque\u00f1o como el otro."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "26 Ago 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 4
+      }, 
+      "user_name": "hodo", 
+      "text": "Al igual que en La Tanita pastas, se come rebien. Porciones mas que abundantes y muy  buen precio. Para  ir a menudo."
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "buenos": [
+    {
+      "date": "4 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "matiastideida", 
+      "text": "El lugar tiene un show de tango. Los vinos est\u00e1n un poco caros. Te ofrecen una lista de platos del d\u00eda de alrededor de $25. \r\nSi eso te parece muy caro ped\u00eds la carta y ah\u00ed encontr\u00e1s cosas mas variadas y econ\u00f3micas.\r\nEst\u00e1 muy bien para ir en pareja, siempre que te guste al onda tanguera."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "1 Dic 2004", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "leofinol", 
+      "text": "exelente lugar...muy acogedor,\r\nbuena musica...\r\nexelente atencion y comida. . .\r\nla barra y la maquina de dardos. . . \"muy buena\""
+    }
+  ]
+}

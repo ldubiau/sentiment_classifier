@@ -1,0 +1,24 @@
+{
+  "excelentes": [
+    {
+      "date": "28 Nov 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "perchy42", 
+      "text": "Comida de muy buena calidad."
+    }, 
+    {
+      "date": "8 Ene 2005", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "dimy", 
+      "text": "muy bueno"
+    }
+  ]
+}

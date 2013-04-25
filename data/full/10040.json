@@ -1,0 +1,36 @@
+{
+  "buenos": [
+    {
+      "date": "29 Feb 2012", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "flokih", 
+      "text": "Suelo ir al mediodia.\r\nEs un lugar tranquilo para tener un almuerzo rico y cordial\r\nPlatos del d\u00eda, que var\u00edan y sorprenden.\r\nAbundante"
+    }, 
+    {
+      "date": "1 Jul 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "flokih", 
+      "text": "Fui a comer al mediodia con amigos, y pudimos degustar platos muy ricos.\r\nPorciones abundantes y la atenci\u00f3n muy buena\r\nSe puede ver hacia la cocina, y ver al cocinero en plena acci\u00f3n.\r\nAltamente recomendable\r\nMuy equilibrado la relaci\u00f3n precio calidad"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "29 Jun 2011", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "mazicarlos", 
+      "text": "un buen lugar bien distendido para disfrutar de una buena comida!!"
+    }
+  ]
+}

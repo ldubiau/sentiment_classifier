@@ -1,0 +1,66 @@
+{
+  "buenos": [
+    {
+      "date": "31 Ene 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 2
+      }, 
+      "user_name": "chuniman", 
+      "text": "Bien Kick Off, para recomendar, rico el calzone y las hamburguesas, completas y bien presentadas."
+    }, 
+    {
+      "date": "2 Oct 2011", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Nacho1984", 
+      "text": "Un lugar agradable por la tem\u00e1tica de rugby del lugar con precios accesibles y una comida abundante y sabrosa."
+    }, 
+    {
+      "date": "20 Ago 2010", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "MDCGS", 
+      "text": "Muy rica la comida, no es abundante, pero es de buena calidad y sabrosa. El ambiente tematico es agradable. La atencion es escasa, te toman el pedido te lo traen y nunca mas aparecen. Pero la comida es muy rica pedimos porcion de papas fritas pizza margherita y pizza de roquefort y muy rico todo!"
+    }, 
+    {
+      "date": "23 Ene 2008", 
+      "ranking": {
+        "Servicio": 1, 
+        "Ambiente": 2, 
+        "Comida": 2
+      }, 
+      "user_name": "Natituz", 
+      "text": "No hay sillas para beb\u00e9s, tardaron 40 minutos en traerme una hamburguesa. No me quejo de la comida porque estaba buena, pero el servicio deja mucho que desear."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "22 May 2009", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "buenchupi", 
+      "text": "Excelente lugar!! ambientado con tem\u00e1tica del Rugby nacional e internacional.Es muy original tiene las mesas pintadas con selecciones de rugby internacionales y clubes locales. selecci\u00f3n de camisetas de rugby originales de jugadores mundiales. Pantallas para ver deportes y muy buena m\u00fasica. Lugar ideal para ir con la familia y amigos. La comida es excelente, abundante y muy buenos precios. Hay platos elaborados de calidad internacional, se ve extranjeros en lugar que van a comer y ver partidos de rugby o f\u00fatbol. Est\u00e1n preparados para atender a extranjeros con personal que habla ingl\u00e9s."
+    }, 
+    {
+      "date": "31 Ago 2008", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "pablocoren", 
+      "text": "Un lugar lind\u00edsimo. Muy bien ambientado. Muchos recuerdos para quienes gustan del rugby y el hockey, pero tambi\u00e9n disfrutable para quienes nada que ver. La comida es muy abundante. Las hamburguesas caseras son grandes y salen bien armadas con tomate, jam\u00f3n y queso y papas fritas abundantes, y el calzone, que en la carta se anunciaba para dos personas daba para que comieran muy bien 3 y hasta 4. Los precios son baratos teniendo en cuenta la calidad y cantidad de la comida. Pude ver platos m\u00e1s elaborados que ped\u00edan otras mesas y la presentaci\u00f3n era impecable. Para volver sin ninguna duda"
+    }
+  ]
+}

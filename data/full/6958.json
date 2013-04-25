@@ -1,0 +1,34 @@
+{
+  "buenos": [
+    {
+      "date": "29 Jul 2012", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "Cata76", 
+      "text": "Voy generalmente al mediod\u00eda, la carne es siempre excelente, la atenci\u00f3n es buena y el ambiente familiar. Lo recomiendo. Las pastas tambi\u00e9n son muy buenas, caseras."
+    }, 
+    {
+      "date": "31 Ago 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 1, 
+        "Comida": 3
+      }, 
+      "user_name": "trece", 
+      "text": "La calidad de la comida es muy buena, ambientaci\u00f3n regular, y la atenci\u00f3n muy buena, carta de vinos bastante extensa"
+    }, 
+    {
+      "date": "14 May 2010", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "newtherapy", 
+      "text": "Muy bueno, no se vayan sin pedir el Matambre a la Fugazzeta. Si lo piden con un dia de anticipacion tambien preparan un pac\u00fa muy bueno."
+    }
+  ]
+}

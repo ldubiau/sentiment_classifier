@@ -1,0 +1,38 @@
+{
+  "malos": [
+    {
+      "date": "15 Dic 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 1
+      }, 
+      "user_name": "Bento", 
+      "text": "La calidad y el sabor de la comida mal\u00edsimo, se ve que se gastaron todo en los envases.  Relaci\u00f3n precio/calidad es de lo peor. No lo recomiendo para nada"
+    }
+  ], 
+  "buenos": [
+    {
+      "date": "2 Ago 2011", 
+      "ranking": {
+        "Servicio": 2, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "jmarroni1", 
+      "text": "Muy Rico todo, tambi\u00e9n el ambiente y servicio bueno"
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "20 May 2011", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "", 
+      "text": "Excelente la comida. De muy buena calidad, suave, no esta lleno de aceite y me pareci\u00f3 que esta todo muy bien hecho. \r\nMuy bueno el packaging tambi\u00e9n y buen precio. Recomendado."
+    }
+  ]
+}

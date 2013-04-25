@@ -1,0 +1,46 @@
+{
+  "buenos": [
+    {
+      "date": "10 May 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 3
+      }, 
+      "user_name": "Mino", 
+      "text": "Es un lugar para recomendar. Me  gust\u00f3 mucho la comida, platos abundantes y no es caro. La atenci\u00f3n de los mozos es muy cordial."
+    }, 
+    {
+      "date": "29 Jul 2005", 
+      "ranking": {
+        "Servicio": 3, 
+        "Ambiente": 2, 
+        "Comida": 3
+      }, 
+      "user_name": "felovied", 
+      "text": "Lugar sencillo, muy familiar. Excelente relaci\u00f3n precio/calidad, precios muy ec\u00f3nomicos trat\u00e1ndose de una parrilla. Tiene platos cl\u00e1sicos, nada novedoso."
+    }
+  ], 
+  "excelentes": [
+    {
+      "date": "10 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 3, 
+        "Comida": 4
+      }, 
+      "user_name": "yovanu", 
+      "text": "Pongan aire acondicionado. En verano por muy buena que sea la comida, no se puede ir."
+    }, 
+    {
+      "date": "9 Ene 2007", 
+      "ranking": {
+        "Servicio": 4, 
+        "Ambiente": 4, 
+        "Comida": 4
+      }, 
+      "user_name": "lolylolo", 
+      "text": "Muy buena comida, platos abundantes y excelente trato. Comi una suprema maryland q era para 2 personas y no es caro.\r\nMuy recomendable."
+    }
+  ]
+}
