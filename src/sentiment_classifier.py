@@ -6,7 +6,7 @@ from classifiers.naivebayes.naive_bayes_nltk import CrossValidatedNaiveBayesClas
 from classifiers.weka import CrossValidatedWekaClassifier
 from classifiers.maxent.max_ent_megam import CrossValidatedMegamMaxEntClassifier
 from classifiers.scikit_opt import CrossValidatedSciKitClassifier
-#from classifiers.svm.svm import CrossValidatedSVMClassifier
+from classifiers.svm.svm import CrossValidatedSVMClassifier
 from classifiers.turney import TurneyClassifier
 
 def main(nb=True, weka=None, megam=False, svmlight=False, sklearn=None, turney=False,n_folds=5, corpus_size=100, fold_number = None, remove_stop_words=False, use_unigrams=False, use_unigrams_frequency=False, use_bigrams=False, use_all_bigrams = False, min_word_length=None, remove_duplicated_chars=False, process_negation=False, stem=False, transform_lower_case=False, remove_punctuation_marks=False, remove_accents=False, lemma=False, adjectives=False, allprepro=False, out_of_domain_test=False, proportion_of_positives=0.5):
