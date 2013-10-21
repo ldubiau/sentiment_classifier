@@ -1,0 +1,75 @@
+##
+#### default configuration file for Spanish analyzer
+##
+TraceLevel=3
+TraceModule=0x0000
+## Options to control the applied modules. The input may be partially
+## processed, or not a full analysis may me wanted. The specific
+## formats are a choice of the main program using the library, as well
+## as the responsability of calling only the required modules.
+## Valid input formats are: plain, token, splitted, morfo, tagged, sense.
+## Valid output formats are: : plain, token, splitted, morfo, tagged,
+## shallow, parsed, dep.
+InputFormat=plain
+OutputFormat=tagged
+# consider each newline as a sentence end
+AlwaysFlush=yes
+#### Tokenizer options
+TokenizerFile=C:\freeling\data\es\tokenizer.dat
+#### Splitter options
+SplitterFile=C:\freeling\data\es\splitter.dat
+#### Morfo options
+AffixAnalysis=yes
+MultiwordsDetection=yes
+NumbersDetection=yes
+PunctuationDetection=yes
+DatesDetection=yes
+QuantitiesDetection=yes
+DictionarySearch=yes
+ProbabilityAssignment=yes
+OrthographicCorrection=no
+DecimalPoint=,
+ThousandPoint=.
+LocutionsFile=C:\freeling\data\es\locucions.dat
+QuantitiesFile=C:\freeling\data\es\quantities.dat
+AffixFile=C:\freeling\data\es\afixos.dat
+ProbabilityFile=C:\freeling\data\es\probabilitats.dat
+DictionaryFile=C:\freeling\data\es\dicc.src
+PunctuationFile=C:\freeling\data/common/punct.dat
+ProbabilityThreshold=0.001
+# NER options
+NERecognition=yes
+NPDataFile=C:\freeling\data\es\np.dat
+## comment line above and uncomment that below, if you want
+## a better NE recognizer (higer accuracy, lower speed)
+#NPDataFile=C:\freeling\data\es\ner/ner-ab.dat
+#Spelling Corrector config file
+CorrectorFile=C:\freeling\data\es\corrector/corrector.dat
+## Phonetic encoding of words.
+Phonetics=no
+PhoneticsFile=C:\freeling\data\es\phonetics.dat
+## NEC options
+NEClassification=no
+NECFile=C:\freeling\data\es\nec/nec-svm.dat
+## Sense annotation options (none,all,mfs,ukb)
+SenseAnnotation=none
+SenseConfigFile=C:\freeling\data\es\senses.dat
+UKBConfigFile=C:\freeling\data\es\ukb.dat
+#### Tagger options
+Tagger=hmm
+TaggerHMMFile=C:\freeling\data\es\tagger.dat
+TaggerRelaxFile=C:\freeling\data\es\constr_gram.dat
+TaggerRelaxMaxIter=500
+TaggerRelaxScaleFactor=670.0
+TaggerRelaxEpsilon=0.001
+TaggerRetokenize=yes
+TaggerForceSelect=tagger
+#### Parser options
+GrammarFile=C:\freeling\data\es\grammar-dep.dat
+#### Dependence Parser options
+DepTxalaFile=C:\freeling\data\es\dep/dependences.dat
+#### Coreference Solver options
+CoreferenceResolution=no
+CorefFile=C:\freeling\data\es\coref/coref.dat
+
+
