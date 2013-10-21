@@ -36,11 +36,32 @@ class Evaluation(object):
             return 0
             
         return 2 * precision * recall / (precision + recall)
+    
+    def get_f_measure_avg(self):
+        #macroavg
 
-    def get_accuracy(self):
-        klass = self.klasses.keys()[0]
-        return float(self.klasses[klass]['true_positives'] + self.klasses[klass]['true_negatives']) / self.get_cases()
+        f1 = 0
+        for klass in self.klasses.keys():
+            f1 += self.get_f_measure(klass)
 
+        return f1 / len(self.klasses)
+
+    def get_accuracy_avg(self):
+        
+        #microavg
+        #klass = self.klasses.keys()[0]
+        #return float(self.klasses[klass]['true_positives'] + self.klasses[klass]['true_negatives']) / self.get_cases()
+
+        #macroavg 
+        acc = 0
+        for klass in self.klasses.keys():
+            acc += self.get_accuracy(klass)
+
+        return acc / len(self.klasses)
+         
+    def get_accuracy(self, klass):
+        return float(self.klasses[klass]['true_positives']) / self.get_cases(klass)
+        
     def get_cases(self, klass=None):
         if klass:
             return self.klasses[klass]['true_positives'] + self.klasses[klass]['false_negatives']

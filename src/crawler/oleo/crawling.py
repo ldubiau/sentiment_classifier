@@ -12,8 +12,8 @@ from crawler.oleo import logger, LAST_RESTO_ID, output_path
 
 __author__ = 'Luciana Dubiau'
 
-class CommentExtractor(object):
 
+class CommentExtractor(object):
     FILTERS = ('excelentes', 'buenos', 'malos')
     DEFAULT_FILTER = FILTERS[0]
     DEFAULT_ORDER = ''
@@ -91,20 +91,23 @@ class CommentExtractor(object):
                 ranking[name] = points
         return ranking
 
+
 def get_file_path(id_resto):
     return os.path.join(os.path.join(output_path, 'full'), '{}.json'.format(id_resto))
 
-class CrawlerError(Exception):
 
+class CrawlerError(Exception):
     def __init__(self, message=None):
         super(CrawlerError, self).__init__()
         self.message = message
+
 
 def main():
     extractor = CommentExtractor()
     #for id in range(12599, LAST_RESTO_ID):
     for id in range(18000, LAST_RESTO_ID):
         extractor.get_all_comments(id)
+
 
 if __name__ == '__main__':
     main()

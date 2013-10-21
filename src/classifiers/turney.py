@@ -9,26 +9,34 @@ from math import log
 
 class TurneyClassifier(Classifier):
     
-    def __init__(self, corpus_size, remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro):
-        super(TurneyClassifier, self).__init__(remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro)
+    def __init__(self, corpus_size, remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro, out_of_domain_test, proportion_of_positives):
+        super(TurneyClassifier, self).__init__(corpus_size, remove_stop_words, min_word_length, remove_duplicated_chars, process_negation, stem, transform_lower_case, remove_punctuation_marks, remove_accents, lemma, adjectives, allprepro, out_of_domain_test, proportion_of_positives)
         self.freeling_processor = FreelingProcessor()
-
+        
+        #perfecto, perfecta, perfectos, perfectas
         self.pos_words = ['excelente', 'excelentes', 'bueno', 'buena', 'buenos', 'buenas', 'buenisimo', 'buenisima', 'buenisimos', 'buenisimas', 'rico', 'rica', 'ricos', 'ricas', 'espectacular', 'impecable']
-        self.neg_words = ['malo', 'mala', 'mal', 'malos', 'malas', 'feo', 'fea', 'feos', 'feas', 'horrible', 'horribles', 'desastre', 'pesimo', 'pesima', 'pesimos', 'pesimas', 'mediocre', 'peor']
+        self.neg_words = ['malo', 'mala', 'mal', 'malos', 'malas', 'feo', 'fea', 'feos', 'feas', 'horrible', 'horribles', 'desastre', 'pesimo', 'pesima', 'pesimos', 'pesimas', 'mediocre', 'peor', 'NOT_bueno', 'NOT_buena', 'NOT_rico', 'NOT_rica', 'NOT_buenos', 'NOT_buenas', 'NOT_ricas', 'NOT_ricos']
 
         self.corpus = []
         self.corpus_size = corpus_size
+        self.prop_of_pos = proportion_of_positives
+        self.prop_of_neg = 1 - proportion_of_positives
       
     def process_corpus(self):
         evaluation = Evaluation('pos', 'neg')
 
-        self.corpus = self.pos_comments[:self.corpus_size] + self.neg_comments[:self.corpus_size]
+        pos_size = int(self.corpus_size*self.prop_of_pos)
+        neg_size = int(self.corpus_size*self.prop_of_neg)
+
+        self.corpus = self.pos_comments[:pos_size] + self.neg_comments[:neg_size]
+
         self.pos_hits = self.hits(self.pos_words)
         self.neg_hits = self.hits(self.neg_words)
         
-        test_size = int(self.corpus_size*0.2)
-        pos_test_corpus = self.pos_comments[:test_size]
-        neg_test_corpus = self.neg_comments[:test_size]
+        pos_test_size = int(pos_size*0.2)
+        neg_test_size = int(neg_size*0.2)
+        pos_test_corpus = self.pos_comments[:pos_test_size]
+        neg_test_corpus = self.neg_comments[:neg_test_size]
 
         tagged_pos_test_corpus = self.tag_test_corpus(pos_test_corpus)
         tagged_neg_test_corpus = self.tag_test_corpus(neg_test_corpus)
@@ -36,17 +44,25 @@ class TurneyClassifier(Classifier):
         evaluation = self.classify_corpus(pos_test_corpus, tagged_pos_test_corpus, 'pos', evaluation)
         evaluation = self.classify_corpus(neg_test_corpus, tagged_neg_test_corpus, 'neg', evaluation)
 
-        logger.info('Total TestSet Size: {} - Avg Accuracy: {}'.format(evaluation.get_cases(), evaluation.get_accuracy()))
+        logger.info('Total TestSet Size: {} - Avg Accuracy: {}'.format(evaluation.get_cases(), evaluation.get_accuracy_avg()))
+
+        metrics_table = self.build_metrics_table()
+        self.add_metrics(metrics_table, 'Total', evaluation)
+        print metrics_table
+
         return evaluation
 
     def classify_corpus(self, test_corpus, tagged_test_corpus, expected_klass, evaluation):
         i = 0
         for doc in tagged_test_corpus:
-            print "Document {}: [{}]".format(i, ','.join(x.encode('utf-8') for x in test_corpus[i]))
-            print "Tagged Document {}: [{}]".format(i, ','.join(x.word.encode('utf-8') for x in doc))
+            #print "Document {}: [{}]".format(i, ','.join(x.encode('utf-8') for x in test_corpus[i]))
+            #print "Tagged Document {}: [{}]".format(i, ','.join(x.word.encode('utf-8') for x in doc))
              
             klass = self.classify_comment(doc)
-            print "klass: {} - expected_klass: {}\n\n".format(klass, expected_klass)
+            #print "klass: {} - expected_klass: {}\n\n".format(klass, expected_klass)
+            
+            print "class: " + klass + " - expected class: " + expected_klass + ": {} ".format(','.join(x.encode('utf-8') for x in test_corpus[i]))
+            
             evaluation.add(expected_klass, klass)
             i = i + 1
         return evaluation
@@ -75,12 +91,12 @@ class TurneyClassifier(Classifier):
 
         so = float(near_pos)*self.neg_hits / near_neg / self.pos_hits
      
-        print "bigram: " + str(bigram) 
-        print "near_pos: " + str(near_pos)
-        print "near_neg: " + str(near_neg)
-        print "neg_hits: " + str(self.neg_hits)
-        print "pos_hits: " + str(self.pos_hits)
-        print "so: " + str(log(so) / log(2))
+        #print "bigram: " + str(bigram) 
+        #print "near_pos: " + str(near_pos)
+        #print "near_neg: " + str(near_neg)
+        #print "neg_hits: " + str(self.neg_hits)
+        #print "pos_hits: " + str(self.pos_hits)
+        #print "so: " + str(log(so) / log(2))
         return log(so) / log(2)
  
     def near(self, bigram, hits_words):
