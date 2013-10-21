@@ -36,10 +36,6 @@ class Classifier(object):
         self.prop_of_pos = proportion_of_positives
         self.prop_of_neg = 1 - proportion_of_positives
 
-        self.original_pos_comments = []
-        self.original_neg_comments = []
-        self.original_test_comments = []
-
     def classify(self):
         self.load_corpus()
         self.preprocess_corpus()
@@ -109,9 +105,6 @@ class Classifier(object):
         logger.info("Preprocessing corpus")
    
         processor = self.build_preprocessor()
-
-        self.original_pos_comments = self.pos_comments
-        self.original_neg_comments = self.neg_comments
 
         self.pos_comments = processor.process(self.pos_comments[:int(self.corpus_size*self.prop_of_pos)])
         self.neg_comments = processor.process(self.neg_comments[:int(self.corpus_size*self.prop_of_neg)])
@@ -209,17 +202,9 @@ class SupervisedClassifier(Classifier):
                 # testeo siempre con el mismo set en todas las iteraciones
                 pos_test_set = self.pos_comments_dom2[:pos_fold_size]
                 neg_test_set = self.neg_comments_dom2[:neg_fold_size]
-
-                self.original_test_comments = self.original_pos_comments[:pos_fold_size]
-                self.original_test_comments.extend(self.original_neg_comments[:neg_fold_size])
-
             else:
                 pos_test_set = self.pos_comments[pos_test_start:pos_test_end]
                 neg_test_set = self.neg_comments[neg_test_start:neg_test_end]
-
-                self.original_test_comments = self.original_pos_comments[pos_test_start:pos_test_end]
-                self.original_test_comments.extend(self.original_neg_comments[neg_test_start:neg_test_end])
-
 
             evaluation = self.process_fold(training_documents, pos_test_set, neg_test_set)
             total_evaluation.update(evaluation)
@@ -267,7 +252,7 @@ class SupervisedClassifier(Classifier):
         for comment, expected_klass in test_comments:
             klass = self.classifier.classify(feature_extractor.extract(comment))
             #if klass != expected_klass:
-            print "class: " + klass + " - expected class: " + expected_klass + ": " + self.original_test_comments[i].encode('utf-8')
+                #print comment
             evaluation.add(expected_klass, klass)
             i = i + 1
         return evaluation
